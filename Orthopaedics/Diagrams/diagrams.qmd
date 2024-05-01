@@ -1,0 +1,60 @@
+---
+title: "Diagrams"
+---
+
+## Action potential
+
+![](images/ap.PNG)
+
+## Articular cartilage
+
+![](images/artc.PNG)
+
+
+
+## Femoral head supply
+
+![](images/bldfr.PNG)
+
+## Brachial Plexus
+
+![](images/brpl.PNG)
+
+
+## Carpal Tunnel
+
+![](images/cts.PNG)
+
+![](images/cts2.PNG)
+
+
+
+
+## Cement
+
+![](images/cement.PNG)
+
+
+
+## Motion segment
+
+![](images/motion.PNG)
+
+
+
+## Femoral teardrop
+
+![](images/teardp.PNG)
+
+
+
+## Spinal cord
+
+![](images/spcd.png)
+
+
+## Nerve
+
+![](images/nerve.PNG)
+
+

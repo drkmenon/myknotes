@@ -1,0 +1,107 @@
+---
+title: "Charcot"
+---
+## Charcot
+
+#### Definition
+
+<font color="emerald">It is a non infectious,destructive process culminating in dislocations and periarticular fractures in patients with peripheral neuropathy and loss of protective sensations</font>
+
+0.1 to 29% incidence
+
+50% need one operation in life time
+
+15-67% chance of amputation
+
+#### Clinical features
+
+-   Pain
+-   Local rise of temparature >3-5<sup>0</sup> compared to normal
+-   Swelling
+-   Deformity
+
+#### Cahrcot vs Infection
+
+| Charcor                               | Infection                                  |
+|---------------------------------------|--------------------------------------------|
+| Limb elevation decreases inflammation | No                                         |
+| No                                    | Increased ESR,CRP,IL6                      |
+| No                                    | Istope (In +Tc)scan positive, PET positive |
+
+#### Classification
+
+##### Eichenholtz
+
+| Stage | Name             | Features                |
+|-------|------------------|-------------------------|
+| 0     | Prefragmentation | Inflammation            |
+| 1     | Fragmentation    | Subluxation,dislocation |
+| 2     | Coalascence      | decreased inflammation  |
+| 3     | Consolidation    | No inflammation         |
+
+#### Progression
+
+0-1 in 6 months and 2-3 in 12-14 months
+
+#### Causes
+
+-   Endocrine: DM, Renal failure, Alcohol
+-   Infection: Leprosy, syphilis
+-   Neurogenic: CP, Syrinx,Myelomeningocele, cord injury
+-   Idiopathic
+
+#### Theories
+
+-   Neurotraumatic
+-   Neurovascular ( **Autonomic dysfunction causing bone resorption**)
+-   Inflammatory theory (**Favored, Here injury lead to inflammation and activate RANK-RANKL pathway leading to bone resorption**)
+-   ADA, 2011 suggests a hybrid of all theories
+
+#### Clinical examination
+
+##### Look
+
+Stand the patient and look for deformity. Most common are **Rocker bottom and Planovalgus**
+
+Walk the patient and look for Clawing and also have a look at the foot wear
+
+Sit the patient and look for deformity, ulceration and inflammation
+
+##### Feel
+
+Temperature, tenderness, pulse and sensation
+
+##### Move
+
+The joints
+
+##### Special tests
+
+Silfverskiöld test, Vibration, **offer probing the ulcer**
+
+#### management principles
+
+1.  Stop inflammation
+2.  Protect and maintain foot architecture
+3.  Relieve pain
+4.  Arrest or reverse de-mineralisation
+5.  Prevent/limit deformity
+6.  Control DM
+
+> Suspect Charcot if there is a deformity associated with inflammation, perepheral neuropathy with or without renal failure
+
+> Suspected a/c Charcot: always take a weight bearing X Ray, if negative take MRI
+
+> Immediatly refer to MDT
+
+#### MDT approach
+
+1.  Non removable offloading device
+2.  **No Bisphosphonates**
+3.  Monitor by Foot Skin temperature assessment and seriel xrays until inflammation resolves
+
+#### When will you say that inflammation is resolved?
+
+-   Temperature difference of \< $2^0$ between the feet
+-   Seriel xrays show no progression
+

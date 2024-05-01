@@ -1,0 +1,119 @@
+---
+title: "Tuberculosis"
+---
+## Tuberculosis of Locomotor system
+
+Out of the total population of patients with tuberculosis, if we forget the less important organs like head, chest and abdomen, the subset of people with locomotor system TB comes to about 1-2%. Of this 50% is spinal, 15% hip and 10% knee. Rest of the patients will have other joint area or bone involvement.
+
+They are predominantly paucibacillary type, meaning, the chances of you finding mycobacteria in specimens is near unlikely. That make the diagnosis difficult and treatment trouble-sum.
+
+#### Diagnosis
+
+My approach to diagnosis is PaTeNDed.
+
+-   Pa-Pain
+
+-   Te-Tenderness
+
+-   N-Neurology
+
+-   Ded-Deformity
+
+Particular problem is with pain. Almost all patients come to an orthopaedic surgeon for pain. Our task is to filter out a small portion of organic pain from a big collection of mechanical and somatic pains. One useful rule of thumb is
+
+> *organic pains increase after a period of rest and are most often associated with rest pain and night pain*
+
+The moment we see such a patient, and especially if associated with localised tenderness, subtle neurological findings or deformity, we have to think about 3 potential diseases
+
+1.  Malignancy
+
+2.  Infection
+
+3.  Inflammatory diseases
+
+We should always suspect TB in that situation.
+
+TB spine can be
+
+-   Para-diskal -->Arterial spread (most common)
+
+-   Central --> Venous
+
+-   Anterior-->Sub-periosteal
+
+-   Posterior-->Unstable (rare)
+
+Taking a baseline xray is the first investigation we can quickly do. ESR and CRP has got prognostic values. Contrast enhanced MRI, preferably Gadolinium is the best screening test available. If the MRI picture is suggesting infection, take a biopsy under CT guidance. The specimen should be sent for
+
+1.  HPE
+
+2.  Mycobacterium and other cultures
+
+3.  NAAT test
+
+4.  Staining
+
+#### NAAT
+
+Specimen for NAAT should be sent in sterile container, in saline if there is chance of drying. There should be 2 specimens.
+
+CB-NAAT (Cartridge based) and TRU-NAAT (Card based) are the two types of tests available. Both are recognised by WHO and NTEP for diagnosis of TB. One important point is that the specimen should not contain blood or urine, which can reduce the sensitivity of the test. Overall solid tissue is preferred over liquid. The test, apart from diagnosis, helps in identifying **Rifampicin** sensitivity. If the speciment is resistant to RIF, send the second sample for Genotypic/phenotypic drug resistant test. LPA (line probe analysis) is a rapid test and can be employed to detect resistance against first and second line drugs.
+
+#### Culture
+
+The culture medium of choice is MGIT (Mycobacterium Growth detection Tube). It is prone for contamination, but yields result in 2-4 weeks. But always co-culture in LJ medium to mitigate the problem of contamination.
+
+#### HPE
+
+Pathologists look for
+
+-   Epitheloid cells
+
+-   Granuloma
+
+-   Lymphocytic infiltration
+
+#### Treatment
+
+-   ATT- 2HREZ + 10-16 HRE (16 for spine)
+
+-   Immobilisation
+
+-   Surgery
+
+#### Indications for surgery
+
+1.  Neurological complications, especially worsening with medical management
+
+2.  Non neurological complications
+
+Non neurological complications that may warrant surgery include
+
+-   M- Mass effect, mechanical instability
+
+-   D-Deformity
+
+-   R-Resistance
+
+Tuli classification of Neurology
+
+1.  Not aware of weakness
+
+2.  Aware of weakness
+
+3.  In extension
+
+4.  In flexion
+
+#### Follow-up
+
+-   Weekly- Assessment of neurology
+
+-   3 monthly- X-Rays
+
+-   6 monthly- MRI
+
+-   Follow-up up to 2 years after completion of treatment
+
+
+
