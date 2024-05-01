@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "knotes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    contents: auto
+    
+format:
+  html:
+    theme:
+     light: flatly
+     dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+page-navigation: true
