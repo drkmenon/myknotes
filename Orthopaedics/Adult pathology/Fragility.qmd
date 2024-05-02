@@ -2,6 +2,8 @@
 title: "Fragility prevention"
 ---
 
+![Trade off between health span and life span](images/exercise.png)
+
 AMP kinase is believed to be the central switch that positively regulate the life span of an individual.
 
 It is up regulated by:
