@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -272,11 +275,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I am a Professor of Orthopaedic Surgery and Sr Consultant of Paediatric Orthopaedic division, Amala Institute of Medical Sciences, Thrissur. After medical school, I completed my residency in Orthopaedic Surgery at Government Medical College, Calicut and a fellowship in Trauma and Orthopaedics from Royal College of Surgeons, England. I am awarded FACS by American College of Surgeons in 2020.&nbsp;</p>
 <p>I have authored several web of science indexed articles and have authored and/or edited book chapter. My research interests include fracture healing and bone brain cross talk, in which I am currently&nbsp;persuing&nbsp;a PhD from KUHS.</p>
 <p>Beyond medicine, I am driven by a deep passion for Chess and Economics. These interests not only provide intellectual stimulation but also influence my perspectives and opinions, which may occasionally manifest on this platform.</p>
-<div class="quarto-figure quarto-figure-right">
-<figure class="figure">
-<p><img src="images/B33F1283-ED4E-4391-9F75-901FD04DDAF2_1_201_a.jpeg" class="quarto-figure quarto-figure-right figure-img" width="150" height="85"></p>
-</figure>
-</div>
+<p><a href="images/194D8A8A-77DB-4DB6-861C-7FC6813D62D3_1_102_o-01.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/194D8A8A-77DB-4DB6-861C-7FC6813D62D3_1_102_o-01.jpeg" class="img-fluid"></a></p>
 
 
 
@@ -857,6 +856,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","loop":false});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
