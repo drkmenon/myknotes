@@ -10,6 +10,10 @@ website:
         text: Home
   sidebar:
     contents: auto
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer: "Copyright 2024, Kishore Puthezhath" 
+  reader-mode: true
     
 format:
   html:
@@ -21,6 +25,4 @@ format:
 
 editor: visual
 
-page-navigation: true
-
-back-to-top-navigation: true
+ 
