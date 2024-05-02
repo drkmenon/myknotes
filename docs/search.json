@@ -144,7 +144,7 @@
     "href": "Orthopaedics/Basic science/FBD.html#levers",
     "title": "Free body diagram",
     "section": "Levers",
-    "text": "Levers\nLever is a machine designed to move objects\nIt has got a bar and a fulcrum.\n3 classes of levers\n\nClass 1\n\ne.g.: see-saw, scissors\nHipjoint\nClass 2\n\ne.g.: Stapler, Doors\nKnee joint in flexion\nClass 3\n\n\ne.g.: Broom\nJaw, Forearm in flexion",
+    "text": "Levers\nLever is a machine designed to move objects\nIt has got a bar and a fulcrum.\n3 classes of levers\n\nClass 1\n\ne.g.: see-saw, scissors\nHipjoint\nClass 2\n\ne.g.: Stapler, Doors\nKnee joint in flexion\nClass 3\n\n\ne.g.: Broom\nJaw, Forearm in flexi",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -210,6 +210,123 @@
     "title": "Free body diagram",
     "section": "How to reduce JRF in hip?",
     "text": "How to reduce JRF in hip?\nCarry weight on same side!\n\nF x d + F’ x 2d = w x 5d\nF + F’ = 5w\nF = 5w - F’\nSo the abductor force of contraction required is reduced from F to F-2F’\nCarry stick on the opposite side!\n\nPressing the stick on to the ground will produce an equal and opposite ground reaction force, s.\nF x d = w x 5d - s x 10d\nF = 5w - 10s\nSo the abductor force of contraction required is reduced from F to F-10s",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#ankle-fbd",
+    "href": "Orthopaedics/Basic science/FBD.html#ankle-fbd",
+    "title": "Free body diagram",
+    "section": "Ankle FBD",
+    "text": "Ankle FBD\nIt is important to keep the ankle in dynamic equilibrium\n\nThis essentially make ankle a reverse hip joint, another type one lever\n\nF x d = w x 3d\nF = 3 w",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#jrf-ankle",
+    "href": "Orthopaedics/Basic science/FBD.html#jrf-ankle",
+    "title": "Free body diagram",
+    "section": "JRF ankle",
+    "text": "JRF ankle",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#spine-fbd",
+    "href": "Orthopaedics/Basic science/FBD.html#spine-fbd",
+    "title": "Free body diagram",
+    "section": "Spine FBD",
+    "text": "Spine FBD\nAssume a man bending forward and trying to take a brick. Here the motion segment is again acting as a type 1 lever.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#jrf-spine",
+    "href": "Orthopaedics/Basic science/FBD.html#jrf-spine",
+    "title": "Free body diagram",
+    "section": "JRF Spine",
+    "text": "JRF Spine",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#cervical-spine-fbd",
+    "href": "Orthopaedics/Basic science/FBD.html#cervical-spine-fbd",
+    "title": "Free body diagram",
+    "section": "Cervical Spine FBD",
+    "text": "Cervical Spine FBD\n\nF x d = w x d\nF = w",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#patello-femoral-joint-fbd",
+    "href": "Orthopaedics/Basic science/FBD.html#patello-femoral-joint-fbd",
+    "title": "Free body diagram",
+    "section": "Patello femoral joint FBD",
+    "text": "Patello femoral joint FBD\n\nThe quadriceps and patellar tendon are in equilibria, with a force 4F on either direction. The JRF is less than 4F. JRF is maximum when in flexion and negligible in extension of knee joint.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#knee-joint-fbd",
+    "href": "Orthopaedics/Basic science/FBD.html#knee-joint-fbd",
+    "title": "Free body diagram",
+    "section": "Knee joint FBD",
+    "text": "Knee joint FBD\n\nWe can see that when a person is about to raise from a chair, knee joint acts as a second order lever. Weight is acting down from the middle of the thigh and the quadriceps force F is directed towards the knee.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#shoulder-joint-fbd",
+    "href": "Orthopaedics/Basic science/FBD.html#shoulder-joint-fbd",
+    "title": "Free body diagram",
+    "section": "Shoulder joint FBD",
+    "text": "Shoulder joint FBD\n\nHere we can see that shoulder is a third order lever.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Basic science",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Orthopaedics/Basic science/FBD.html#elbow-and-fingers-fbd",
+    "href": "Orthopaedics/Basic science/FBD.html#elbow-and-fingers-fbd",
+    "title": "Free body diagram",
+    "section": "Elbow and fingers FBD",
+    "text": "Elbow and fingers FBD",
     "crumbs": [
       "Home",
       "Orthopaedics",

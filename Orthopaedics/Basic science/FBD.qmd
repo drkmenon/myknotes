@@ -54,7 +54,7 @@ It has got a bar and a fulcrum.
 
 e.g.: Broom
 
-Jaw, Forearm in flexion
+Jaw, Forearm in flexi
 
 ## **Vector**
 
@@ -140,3 +140,65 @@ Pressing the stick on to the ground will produce an equal and opposite ground re
 **F = 5w - 10s**
 
 So the abductor force of contraction required is reduced from F to F-10s
+
+## **Ankle FBD**
+
+It is important to keep the ankle in dynamic equilibrium
+
+![](images/10.png){width="400"}
+
+This essentially make ankle a reverse hip joint, another type one lever
+
+![](images/11.png){width="500"}
+
+**F x d = w x 3d**
+
+F = 3 w
+
+## **JRF ankle**
+
+## 
+
+![](images/12.png){width="400"}
+
+## **Spine FBD**
+
+Assume a man bending forward and trying to take a brick. Here the motion segment is again acting as a type 1 lever. 
+
+![](images/13.png){width="700"}
+
+## **JRF Spine**
+
+## 
+
+![](images/14.png){width="300"}
+
+## **Cervical Spine FBD**
+
+![](images/15.png){width="400"}
+
+**F x d = w x d**
+
+**F = w**
+
+## **Patello femoral joint FBD**
+
+![](images/16.png){width="700"}
+
+The quadriceps and patellar tendon are in equilibria, with a force 4F on either direction. The JRF is less than 4F. JRF is maximum when in flexion and negligible in extension of knee joint.
+
+## **Knee joint FBD**
+
+![](images/17.png)
+
+We can see that when a person is about to raise from a chair, knee joint acts as a second order lever. Weight is acting down from the middle of the thigh and the quadriceps force F is directed towards the knee.
+
+## **Shoulder joint FBD**
+
+![](images/18.png){width="350"}
+
+Here we can see that shoulder is a third order lever.
+
+## **Elbow and fingers FBD**
+
+![](images/19.png)
