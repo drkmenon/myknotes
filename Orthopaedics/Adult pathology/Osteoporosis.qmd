@@ -10,7 +10,7 @@ title: "Osteoporosis"
 
 ![*Total mass of bone is reduced without change in composition*](images/Ospop2.png)
 
-The ratio between the minaralised and non mineralised bone is unchanged
+The ratio between the mineralised and non mineralised bone is unchanged
 
 **WHO definition:**
 
@@ -26,7 +26,7 @@ Osteoporosis: t-score -2.5 or less
 
 Severe: Osteoporosis + One or more fracture
 
-In premenapausal women and men below 50 years, z score should be used and densitometric findings alone should not be used for the diagnosis of osteoporosis
+In pre-menopausal women and men below 50 years, z score should be used and densitometric findings alone should not be used for the diagnosis of osteoporosis
 
 Types of Osteoporosis
 
@@ -52,7 +52,7 @@ FRAX can be used in \>41 year old males and post menapausal females.
 
 -   General: Age, sex, low BMI
 
--   Comorbidity: previous fractures
+-   Co-morbidity: previous fractures
 
 -   Social: Smoking, Alcohol
 
@@ -70,7 +70,7 @@ Non pharmacological:
 
 Pharmacological
 
--   Antiresorptive treatment
+-   Anti-resorptive treatment
 
 -   Bone forming treatment
 
