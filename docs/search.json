@@ -144,7 +144,7 @@
     "href": "Orthopaedics/Basic science/FBD.html#levers",
     "title": "Free body diagram",
     "section": "Levers",
-    "text": "Levers\nLever is a machine designed to move objects\nIt has got a bar and a fulcrum.\n3 classes of levers\n\nClass 1\n\nClass 2\n\nClass 3",
+    "text": "Levers\nLever is a machine designed to move objects\nIt has got a bar and a fulcrum.\n3 classes of levers\n\nClass 1\n\ne.g.: see-saw, scissors\nHipjoint\nClass 2\n\ne.g.: Stapler, Doors\nKnee joint in flexion\nClass 3\n\n\ne.g.: Broom\nJaw, Forearm in flexion",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -157,7 +157,7 @@
     "href": "Orthopaedics/Basic science/FBD.html#vector",
     "title": "Free body diagram",
     "section": "Vector",
-    "text": "Vector\n\nIt is the diagramatic representation of force. Has got magnitude and direction",
+    "text": "Vector\n\nIt is the diagrammatic representation of force. Has got magnitude and direction",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -209,7 +209,7 @@
     "href": "Orthopaedics/Basic science/FBD.html#how-to-reduce-jrf-in-hip",
     "title": "Free body diagram",
     "section": "How to reduce JRF in hip?",
-    "text": "How to reduce JRF in hip?\nCarry weight on same side!\n\nF x d + F’ x d = w x 5d\nF + F’ = 5w\nF = 5w - F’\nSo the abductor force of contraction required is reduced from F to F-F’\nCarry stick on the opposite side!\n\nPressing the stick on to the ground will produce an equal and opposite ground reaction force, s.\nF x d = w x 5d - s x 10d\nF = 5w - 10s\nSo the abductor force of contraction required is reduced from F to F-s",
+    "text": "How to reduce JRF in hip?\nCarry weight on same side!\n\nF x d + F’ x 2d = w x 5d\nF + F’ = 5w\nF = 5w - F’\nSo the abductor force of contraction required is reduced from F to F-2F’\nCarry stick on the opposite side!\n\nPressing the stick on to the ground will produce an equal and opposite ground reaction force, s.\nF x d = w x 5d - s x 10d\nF = 5w - 10s\nSo the abductor force of contraction required is reduced from F to F-10s",
     "crumbs": [
       "Home",
       "Orthopaedics",

@@ -36,19 +36,31 @@ It has got a bar and a fulcrum.
 
     ![](images/1.png){width="350"}
 
+    e.g.: see-saw, scissors
+
+    Hipjoint
+
 -   Class 2
 
     ![](images/2.png){width="350"}
+
+    e.g.: Stapler, Doors
+
+    Knee joint in flexion
 
 -   Class 3
 
 ![](images/3.png){width="350"}
 
+e.g.: Broom
+
+Jaw, Forearm in flexion
+
 ## **Vector**
 
 ![](images/4.png){width="150"}
 
-It is the diagramatic representation of force. Has got magnitude and direction
+It is the diagrammatic representation of force. Has got magnitude and direction
 
 ## **Moment**
 
@@ -84,7 +96,7 @@ Turning moment is also called torque.
 
 ## **Hip FBD**
 
-![](images/6.png){width="600"}
+![](images/6.png){width="350"}
 
 **Abductor moment = body moment in equilibrium**
 
