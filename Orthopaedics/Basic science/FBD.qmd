@@ -109,13 +109,13 @@ JRF
 
 ![](images/8.png){width="400"}
 
-**F x d + F' x d = w x 5d**
+**F x d + F' x 2d = w x 5d**
 
 **F + F' = 5w**
 
 **F = 5w - F'**
 
-So the abductor force of contraction required is reduced from F to F-F'
+So the abductor force of contraction required is reduced from F to F-2F'
 
 **Carry stick on the opposite side!**
 
@@ -127,4 +127,4 @@ Pressing the stick on to the ground will produce an equal and opposite ground re
 
 **F = 5w - 10s**
 
-So the abductor force of contraction required is reduced from F to F-s
+So the abductor force of contraction required is reduced from F to F-10s
