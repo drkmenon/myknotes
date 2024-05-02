@@ -6,11 +6,11 @@ title: "Diabetic foot"
 
 Diabetes is a systemic disease which causes - Neuropathy - Vasculopathy - Ulceration - Deformities
 
-Hence it requires a MDT approach for diabetic treatment. This include <font color = "diamond">Hospital based MDT and Community based foot protection service</font>
+Hence it requires a MDT approach for diabetic treatment. This include `Hospital based MDT and Community based foot protection service`
 
 #### Assessment
 
-1.  How well the diabetes is controlled: **HBA**<sub>1</sub>C
+1.  How well the diabetes is controlled: **HBA**~1~C
 
 2.  Presence of neuropathy
 
@@ -20,9 +20,9 @@ Hence it requires a MDT approach for diabetic treatment. This include <font colo
 
 3.  Presence of Vasculitis
 
-    -   ABPI >0.45 and triphasic flow in dopplar
-    -   TrC-O<sub>2</sub> >30
-    -   Absolute toe pressure >40 mmHg
+    -   ABPI \>0.45 and triphasic flow in dopplar
+    -   TrC-O~2~30
+    -   Absolute toe pressure \>40 mmHg
     -   Pulse
 
 4.  Presence of Ulceration
@@ -48,7 +48,7 @@ Hence it requires a MDT approach for diabetic treatment. This include <font colo
 ##### University of Texas Classification
 
 | Grade | 0                          | 1                | 2          | 3            |
-|-------|----------------------------|------------------|------------|--------------|
+|---------------|---------------|---------------|---------------|---------------|
 | Stage |                            |                  |            |              |
 | A     | Foot at risk               | Supeficial Ulcer | Deep Ulcer | Bone exposed |
 | B     | Infected                   |                  |            |              |

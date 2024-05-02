@@ -1,11 +1,12 @@
 ---
 title: "Charcot"
 ---
+
 ## Charcot
 
 #### Definition
 
-<font color="emerald">It is a non infectious,destructive process culminating in dislocations and periarticular fractures in patients with peripheral neuropathy and loss of protective sensations</font>
+`It is a non infectious,destructive process culminating in dislocations and periarticular fractures in patients with peripheral neuropathy and loss of protective sensations`
 
 0.1 to 29% incidence
 
@@ -16,14 +17,14 @@ title: "Charcot"
 #### Clinical features
 
 -   Pain
--   Local rise of temparature >3-5<sup>0</sup> compared to normal
+-   Local rise of temparature \>3-5<sup>0</sup> compared to normal
 -   Swelling
 -   Deformity
 
-#### Cahrcot vs Infection
+#### Charcot vs Infection
 
-| Charcor                               | Infection                                  |
-|---------------------------------------|--------------------------------------------|
+| Charcot                               | Infection                                  |
+|----------------------------------|--------------------------------------|
 | Limb elevation decreases inflammation | No                                         |
 | No                                    | Increased ESR,CRP,IL6                      |
 | No                                    | Istope (In +Tc)scan positive, PET positive |
@@ -104,4 +105,3 @@ Silfverskiöld test, Vibration, **offer probing the ulcer**
 
 -   Temperature difference of \< $2^0$ between the feet
 -   Seriel xrays show no progression
-
