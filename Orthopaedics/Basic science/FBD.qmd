@@ -1,0 +1,130 @@
+---
+title: "Free body diagram"
+---
+
+**Free body diagram**: `A special type of vector diagram used to study the magnitude and direction of forces acting on body`
+
+## **Newtons laws of motion**
+
+The entire concept of FBD revolves around the the following laws:
+
+-   Every body continue to be in rest or motion unless acted upon by external force.
+
+-   F= MA
+
+-   For every force there is an equal and opposite force.
+
+## **What is weight?**
+
+-   Weight is a force
+
+-   Mass x Gravity = F , Kg m/s²=N
+
+-   This means a 70kg person will have a weight of 700N
+
+-   This is not important for day to day practice
+
+## **Levers**
+
+Lever is a machine designed to move objects
+
+It has got a bar and a fulcrum.
+
+3 classes of levers
+
+-   Class 1
+
+    ![](images/1.png){width="350"}
+
+-   Class 2
+
+    ![](images/2.png){width="350"}
+
+-   Class 3
+
+![](images/3.png){width="350"}
+
+## **Vector**
+
+![](images/4.png){width="150"}
+
+It is the diagramatic representation of force. Has got magnitude and direction
+
+## **Moment**
+
+![](images/5.png){width="400"}
+
+A force applied at a distance from pivot point will cause segment to rotate. The distance is called moment arm and the rotational effect is called turning moment.
+
+Turning moment = F x moment arm
+
+Turning moment is also called torque.
+
+**F x d = Turning Moment or torque**
+
+## **Assumptions**
+
+-   FBD is a 2d simplification of a 3d structure
+
+-   We are using vectors and moments
+
+-   Body we draw should be in equilibrium
+
+-   Bones are rigid rods
+
+-   Joints are frictionless hinges
+
+-   There are no antagonistic muscles
+
+-   Fore act through the centre of muscle
+
+-   Muscle act only through tendon
+
+-   JRF is always compressive
+
+## **Hip FBD**
+
+![](images/6.png){width="600"}
+
+**Abductor moment = body moment in equilibrium**
+
+Fd = w x 5d
+
+F = 5w
+
+\*w is generally taken as 5/6 of the body weight as the person is standing on one leg. Weight of one leg is generally taken a 1/6 body weight.
+
+\*F is the abductor force of contraction.
+
+JRF
+
+![](images/7-01.png){width="350"}
+
+**\
+**
+
+## **How to reduce JRF in hip?**
+
+**Carry weight on same side!**
+
+![](images/8.png){width="400"}
+
+**F x d + F' x d = w x 5d**
+
+**F + F' = 5w**
+
+**F = 5w - F'**
+
+So the abductor force of contraction required is reduced from F to F-F'
+
+**Carry stick on the opposite side!**
+
+![](images/9.png){width="450"}
+
+Pressing the stick on to the ground will produce an equal and opposite ground reaction force, s.
+
+**F x d = w x 5d - s x 10d**
+
+**F = 5w - 10s**
+
+So the abductor force of contraction required is reduced from F to F-s
