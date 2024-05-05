@@ -1,104 +1,95 @@
 [
   {
-    "objectID": "author.html",
-    "href": "author.html",
-    "title": "Author",
+    "objectID": "Practical Catallactics/Personal/Retirement.html",
+    "href": "Practical Catallactics/Personal/Retirement.html",
+    "title": "Retirement fund",
     "section": "",
-    "text": "I am a Professor of Orthopaedic Surgery and Sr Consultant of Paediatric Orthopaedic division, Amala Institute of Medical Sciences, Thrissur. After medical school, I completed my residency in Orthopaedic Surgery at Government Medical College, Calicut and a fellowship in Trauma and Orthopaedics from Royal College of Surgeons, England. I am awarded FACS by American College of Surgeons in 2020. \nI have authored several web of science indexed articles and have authored and/or edited book chapter. My research interests include fracture healing and bone brain cross talk, in which I am currently persuing a PhD from KUHS.\nBeyond medicine, I am driven by a deep passion for Chess and Economics. These interests not only provide intellectual stimulation but also influence my perspectives and opinions, which may occasionally manifest on this platform.\n\n\n\n\n Back to top",
+    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retiree can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me.\n\n\n\n\n\n\nimportant\n\n\n\nThe calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
     "crumbs": [
       "Home",
-      "Author"
+      "Practical Catallactics",
+      "Personal",
+      "Retirement fund"
     ]
   },
   {
-    "objectID": "Publications/Articles.html",
-    "href": "Publications/Articles.html",
-    "title": "Published articles",
+    "objectID": "Practical Catallactics/Personal/Retirement.html#how-to-calculate-retirement-fund",
+    "href": "Practical Catallactics/Personal/Retirement.html#how-to-calculate-retirement-fund",
+    "title": "Retirement fund",
     "section": "",
-    "text": "Abductor pollicis longus tendon division with swan neck thumb deformity.\nGluteal abscess: diagnostic challenges and management\nExpressing Cobb Angle as Linear Measurement in Scoliosis and Its Significance: A Clinical and Geometrical Analysis of Scoliosis\nIs calcar referenced tip-apex distance a better predicting factor for cutting out in biaxial cephalomedullary nails than tip-apex distance?\nAcute Isolated Dorsal Midtarsal (Chopart’s) Dislocation: A Case Report\nGorham’s disease of the fibula: a case report\nA New Surgical Technique for Extensive Exposure ofthe Proximal Humerus and Shoulder\nManagement of Giant Cell Tumor of Bone:Computerized Tomography Based Selection Strategyand Approaching the Lesion Through the Site ofCortical Break\nMulticentric epithelioid angiosarcoma of the spine: a case report of a rare bone tumor\nOnsite virtual classroom for undergraduate medical education\n\n\n\n\n Back to top",
+    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retiree can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me.\n\n\n\n\n\n\nimportant\n\n\n\nThe calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
     "crumbs": [
       "Home",
-      "Publications",
-      "Published articles"
+      "Practical Catallactics",
+      "Personal",
+      "Retirement fund"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html",
-    "href": "Practical Economics/Personal finance/speculation.html",
-    "title": "Risk mitigation",
+    "objectID": "Practical Catallactics/Personal/IMA SSS.html",
+    "href": "Practical Catallactics/Personal/IMA SSS.html",
+    "title": "IMA SSS",
     "section": "",
-    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small regularly for a potential huge pay-off following an extreme rare event than to gain small regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given action has got a speculative component to it and there by returns in future are uncertain",
+    "text": "Current premium for term insurance for a person aged less 25 years for 1 Cr: 5500 rupees/year.\nThis year’s total premium for SSS (all three): around 65500/year.\nAssume we pay the premium for roughly 23 years",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Risk mitigation"
+      "Practical Catallactics",
+      "Personal",
+      "IMA SSS"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html#barbell-strategy",
-    "href": "Practical Economics/Personal finance/speculation.html#barbell-strategy",
-    "title": "Risk mitigation",
+    "objectID": "Practical Catallactics/Personal/IMA SSS.html#scenario",
+    "href": "Practical Catallactics/Personal/IMA SSS.html#scenario",
+    "title": "IMA SSS",
     "section": "",
-    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small regularly for a potential huge pay-off following an extreme rare event than to gain small regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given action has got a speculative component to it and there by returns in future are uncertain",
+    "text": "Current premium for term insurance for a person aged less 25 years for 1 Cr: 5500 rupees/year.\nThis year’s total premium for SSS (all three): around 65500/year.\nAssume we pay the premium for roughly 23 years",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Risk mitigation"
+      "Practical Catallactics",
+      "Personal",
+      "IMA SSS"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html#capital-lose-due-to-volatility",
-    "href": "Practical Economics/Personal finance/speculation.html#capital-lose-due-to-volatility",
-    "title": "Risk mitigation",
-    "section": "Capital lose due to volatility",
-    "text": "Capital lose due to volatility\nAssume a game of dice. It has got 6 sides. You are invited to play a game with following rules using a sum of ₹ 100.\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYou loose 50 %\n\n\n2\nYour ₹ 100 become 105\n\n\n3\nYour ₹ 100 become 115\n\n\n4\nYour ₹ 100 become 120\n\n\n5\nYour ₹ 100 become 130\n\n\n6\nYour ₹ 100 become 95\n\n\n\nWill you play the game?\nIf we calculate the probability of success, it is 2/3 or 67 %, if you play the game for 6 times. But it is naive to calculate like this.\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 98.16. If you play this game your capital will erode and if you go on playing, in the long run you will loose your ₹ 100.\nLet us play a similar game with following pay-off:\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYour ₹ 100 become 120\n\n\n2\nYour ₹ 100 become 97\n\n\n3\nYour ₹ 100 become 97\n\n\n4\nYour ₹ 100 become 97\n\n\n5\nYour ₹ 100 become 97\n\n\n6\nYour ₹ 100 become 97\n\n\n\nWill you play the game?\nIf we calculate the the probability of success, it is 1/6 or 17 %, and may assume it is not profitable to play the game. But it is naive to calculate like this.\n\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 100.5. If you play this game your capital will appreciate and if you go on playing, in the long run you will build wealth with your ₹ 100.",
+    "objectID": "Practical Catallactics/Personal/IMA SSS.html#thought-experiment",
+    "href": "Practical Catallactics/Personal/IMA SSS.html#thought-experiment",
+    "title": "IMA SSS",
+    "section": "Thought experiment:",
+    "text": "Thought experiment:\n\nDoctor A:\nJoins all three SSS today at age 25.\nTotal premium for 23 years with 7% inflation (premium is not capped, so this is a conservative estimate.Premium was 12000/year 10 years back, and the inflation for last 10 years is 18%)\nTotal Payment: 35,00,067 Rupees (35 Lakh rupees)\nCorpus on death: 1 Cr\n\n\nDoctor B\nJoins in a term insurance for 5500 per year for 23 years\nTotal payment: 110000 rupees\nSIPs 5000/month for next 23 years with 12% return in an ETF\nCorpus after 23 years: 72,92,362 rupees (73 Lakh rupees) + She will get 1Cr as death benefit between 25-47 years",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Risk mitigation"
+      "Practical Catallactics",
+      "Personal",
+      "IMA SSS"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html#opportunity-cost-of-secured-non-volatile-instrument",
-    "href": "Practical Economics/Personal finance/speculation.html#opportunity-cost-of-secured-non-volatile-instrument",
-    "title": "Risk mitigation",
-    "section": "Opportunity cost of secured non volatile instrument",
-    "text": "Opportunity cost of secured non volatile instrument\nA corpus of ₹100 will grow to ₹1147 over 50 years if the interest is 5%. If the average inflation over the period is 6 %, that amount will be equivalent to ₹ 62 in today’s money. Forget about what happens if there is a hyper-inflation like scenario.\n\nVolatile instrument\nPay-off of volatile investment is highly variable and is associated with the risk of more than 15% draw-down at any point in time ( around \\(1/11\\) odds, historically). Previous experience show that the negative draw-downs are larger than the + ones. There is \\(1/11\\) odds of stumbling up on negative shock at any time.\n\n\n\n\n\n\nProblem\n\n\n\nThis means at any point, the accumulated Corpus can go down and the recovery will need huge returns after the event.\n\n\n\n\nSecured non volatile instrument\nPay-off of secured non volatile instruments are highly stable and narrowly range bound. They historically fail to beat inflation. They carry a risk of loss of opportunity for wealth creation in long run.",
+    "objectID": "Practical Catallactics/Personal/IMA SSS.html#average-life-expectancy-75-years",
+    "href": "Practical Catallactics/Personal/IMA SSS.html#average-life-expectancy-75-years",
+    "title": "IMA SSS",
+    "section": "Average Life expectancy: 75 years",
+    "text": "Average Life expectancy: 75 years\n\nCorpus for Doctor A:\nShe receives at 75 years on death: 1Cr (Capped)\n\n\nCorpus for Doctor B:\nShe receives (WHETHER DIES OR NOT) (at 12% CAGR): 155508750 (15.5 Cr).\nIn-between 47 and 75 years she will get an amount between 73 lakh and 15.5 crore WHETHER DIES OR NOT\n\n\n\n\n\n\nImportant\n\n\n\nToday’s Value of 1Cr you receive after 50 years: 339477 (3.4 Lakh rupees).\nToday’s Value of 15.5 Cr you receive after 50 years: 5279173 (53 Lakh rupees).\n**She is also free to do charity for her fraternity and others at her will.",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Risk mitigation"
+      "Practical Catallactics",
+      "Personal",
+      "IMA SSS"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html#strategy-i",
-    "href": "Practical Economics/Personal finance/speculation.html#strategy-i",
-    "title": "Risk mitigation",
-    "section": "STRATEGY I",
-    "text": "STRATEGY I\nKeep almost everything in highly secure non volatile instruments and buy small amounts of highly speculative ones regularly, to cash in positive asymmetry.\n\n\n\n\n\n\nProblem with stand-alone secure debt\n\n\n\nThis will insulate the Corpus from all the negative Shock.\nThe Corpus will insulate itself from the positive shocks as well.\nPortfolio will neglect and fail to gain from what-ever upward gains it can obtain from volatile instrument and the return will be generally low to beat inflation.",
-    "crumbs": [
-      "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Risk mitigation"
-    ]
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "knotes",
+    "section": "",
+    "text": "This compilation represents a collection of notes and insights I have gathered over the years, primarily focusing on topics related to Asymmetry, Biometry, Orthopaedics, Medical Education, Health economics and my general experiences in the field. It serves as a reflection of my journey and learning in these areas, encapsulating both the technical aspects of these subjects and the practical experiences I have encountered.\nEverything that I learn, do or write will be on this site sooner or later. I hope that you find the content useful and that you will share it with others. Good luck!"
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html#strategy-ii",
-    "href": "Practical Economics/Personal finance/speculation.html#strategy-ii",
-    "title": "Risk mitigation",
-    "section": "STRATEGY II",
-    "text": "STRATEGY II\nPut everything in volatile instrument & buy an insurance or store of value speculative assets against negative draw downs.\nOn problem with Strategy II is how to face Japan’s lost decade like situation - a situation where the said instrument is range bound, potentially for decades. But such situations tend to remain more deflationary than inflation prone and one may expect less capital erosion.\n\n\n\n\n\n\nDisclaimer\n\n\n\n\nOpinions are for informational purposes only and not personalized investment advice.\nReaders should consult a qualified financial advisor before making any investment decisions.",
-    "crumbs": [
-      "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Risk mitigation"
-    ]
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "knotes",
+    "section": "Contact me",
+    "text": "Contact me\nI teach at a medical school, Amala Institute of Medical Sciences and my office address is below:\nKishore Puthezhath\nDepartment of Orthopaedics\nAIMS, Kerala, Thrissur, KL 680555\nYou can reach me by email at drkmenon@gmail.com. I do try to answer. If you send me an email and you don’t hear back, Send it again!"
   },
   {
     "objectID": "Technology/EV battery.html",
@@ -956,95 +947,104 @@
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/IMA SSS.html",
-    "href": "Practical Economics/Personal finance/IMA SSS.html",
-    "title": "IMA SSS",
+    "objectID": "Publications/Articles.html",
+    "href": "Publications/Articles.html",
+    "title": "Published articles",
     "section": "",
-    "text": "Current premium for term insurance for a person aged less 25 years for 1 Cr: 5500 rupees/year.\nThis year’s total premium for SSS (all three): around 65500/year.\nAssume we pay the premium for roughly 23 years",
+    "text": "Abductor pollicis longus tendon division with swan neck thumb deformity.\nGluteal abscess: diagnostic challenges and management\nExpressing Cobb Angle as Linear Measurement in Scoliosis and Its Significance: A Clinical and Geometrical Analysis of Scoliosis\nIs calcar referenced tip-apex distance a better predicting factor for cutting out in biaxial cephalomedullary nails than tip-apex distance?\nAcute Isolated Dorsal Midtarsal (Chopart’s) Dislocation: A Case Report\nGorham’s disease of the fibula: a case report\nA New Surgical Technique for Extensive Exposure ofthe Proximal Humerus and Shoulder\nManagement of Giant Cell Tumor of Bone:Computerized Tomography Based Selection Strategyand Approaching the Lesion Through the Site ofCortical Break\nMulticentric epithelioid angiosarcoma of the spine: a case report of a rare bone tumor\nOnsite virtual classroom for undergraduate medical education\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "IMA SSS"
+      "Publications",
+      "Published articles"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/IMA SSS.html#scenario",
-    "href": "Practical Economics/Personal finance/IMA SSS.html#scenario",
-    "title": "IMA SSS",
+    "objectID": "author.html",
+    "href": "author.html",
+    "title": "Author",
     "section": "",
-    "text": "Current premium for term insurance for a person aged less 25 years for 1 Cr: 5500 rupees/year.\nThis year’s total premium for SSS (all three): around 65500/year.\nAssume we pay the premium for roughly 23 years",
+    "text": "I am a Professor of Orthopaedic Surgery and Sr Consultant of Paediatric Orthopaedic division, Amala Institute of Medical Sciences, Thrissur. After medical school, I completed my residency in Orthopaedic Surgery at Government Medical College, Calicut and a fellowship in Trauma and Orthopaedics from Royal College of Surgeons, England. I am awarded FACS by American College of Surgeons in 2020. \nI have authored several web of science indexed articles and have authored and/or edited book chapter. My research interests include fracture healing and bone brain cross talk, in which I am currently persuing a PhD from KUHS.\nBeyond medicine, I am driven by a deep passion for Chess and Economics. These interests not only provide intellectual stimulation but also influence my perspectives and opinions, which may occasionally manifest on this platform.\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "IMA SSS"
+      "Author"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/IMA SSS.html#thought-experiment",
-    "href": "Practical Economics/Personal finance/IMA SSS.html#thought-experiment",
-    "title": "IMA SSS",
-    "section": "Thought experiment:",
-    "text": "Thought experiment:\n\nDoctor A:\nJoins all three SSS today at age 25.\nTotal premium for 23 years with 7% inflation (premium is not capped, so this is a conservative estimate.Premium was 12000/year 10 years back, and the inflation for last 10 years is 18%)\nTotal Payment: 35,00,067 Rupees (35 Lakh rupees)\nCorpus on death: 1 Cr\n\n\nDoctor B\nJoins in a term insurance for 5500 per year for 23 years\nTotal payment: 110000 rupees\nSIPs 5000/month for next 23 years with 12% return in an ETF\nCorpus after 23 years: 72,92,362 rupees (73 Lakh rupees) + She will get 1Cr as death benefit between 25-47 years",
-    "crumbs": [
-      "Home",
-      "Practical Economics",
-      "Personal finance",
-      "IMA SSS"
-    ]
-  },
-  {
-    "objectID": "Practical Economics/Personal finance/IMA SSS.html#average-life-expectancy-75-years",
-    "href": "Practical Economics/Personal finance/IMA SSS.html#average-life-expectancy-75-years",
-    "title": "IMA SSS",
-    "section": "Average Life expectancy: 75 years",
-    "text": "Average Life expectancy: 75 years\n\nCorpus for Doctor A:\nShe receives at 75 years on death: 1Cr (Capped)\n\n\nCorpus for Doctor B:\nShe receives (WHETHER DIES OR NOT) (at 12% CAGR): 155508750 (15.5 Cr).\nIn-between 47 and 75 years she will get an amount between 73 lakh and 15.5 crore WHETHER DIES OR NOT\n\n\n\n\n\n\nImportant\n\n\n\nToday’s Value of 1Cr you receive after 50 years: 339477 (3.4 Lakh rupees).\nToday’s Value of 15.5 Cr you receive after 50 years: 5279173 (53 Lakh rupees).\n**She is also free to do charity for her fraternity and others at her will.",
-    "crumbs": [
-      "Home",
-      "Practical Economics",
-      "Personal finance",
-      "IMA SSS"
-    ]
-  },
-  {
-    "objectID": "Practical Economics/Personal finance/Retirement.html",
-    "href": "Practical Economics/Personal finance/Retirement.html",
-    "title": "Retirement fund",
+    "objectID": "Practical Catallactics/Personal/speculation.html",
+    "href": "Practical Catallactics/Personal/speculation.html",
+    "title": "Risk mitigation",
     "section": "",
-    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retiree can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me.\n\n\n\n\n\n\nimportant\n\n\n\nThe calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
+    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small regularly for a potential huge pay-off following an extreme rare event than to gain small regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given action has got a speculative component to it and there by returns in future are uncertain",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Retirement fund"
+      "Practical Catallactics",
+      "Personal",
+      "Risk mitigation"
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/Retirement.html#how-to-calculate-retirement-fund",
-    "href": "Practical Economics/Personal finance/Retirement.html#how-to-calculate-retirement-fund",
-    "title": "Retirement fund",
+    "objectID": "Practical Catallactics/Personal/speculation.html#barbell-strategy",
+    "href": "Practical Catallactics/Personal/speculation.html#barbell-strategy",
+    "title": "Risk mitigation",
     "section": "",
-    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retiree can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me.\n\n\n\n\n\n\nimportant\n\n\n\nThe calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
+    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small regularly for a potential huge pay-off following an extreme rare event than to gain small regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given action has got a speculative component to it and there by returns in future are uncertain",
     "crumbs": [
       "Home",
-      "Practical Economics",
-      "Personal finance",
-      "Retirement fund"
+      "Practical Catallactics",
+      "Personal",
+      "Risk mitigation"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "knotes",
-    "section": "",
-    "text": "This compilation represents a collection of notes and insights I have gathered over the years, primarily focusing on topics related to Asymmetry, Biometry, Orthopaedics, Medical Education, Health economics and my general experiences in the field. It serves as a reflection of my journey and learning in these areas, encapsulating both the technical aspects of these subjects and the practical experiences I have encountered.\nEverything that I learn, do or write will be on this site sooner or later. I hope that you find the content useful and that you will share it with others. Good luck!"
+    "objectID": "Practical Catallactics/Personal/speculation.html#capital-lose-due-to-volatility",
+    "href": "Practical Catallactics/Personal/speculation.html#capital-lose-due-to-volatility",
+    "title": "Risk mitigation",
+    "section": "Capital lose due to volatility",
+    "text": "Capital lose due to volatility\nAssume a game of dice. It has got 6 sides. You are invited to play a game with following rules using a sum of ₹ 100.\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYou loose 50 %\n\n\n2\nYour ₹ 100 become 105\n\n\n3\nYour ₹ 100 become 115\n\n\n4\nYour ₹ 100 become 120\n\n\n5\nYour ₹ 100 become 130\n\n\n6\nYour ₹ 100 become 95\n\n\n\nWill you play the game?\nIf we calculate the probability of success, it is 2/3 or 67 %, if you play the game for 6 times. But it is naive to calculate like this.\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 98.16. If you play this game your capital will erode and if you go on playing, in the long run you will loose your ₹ 100.\nLet us play a similar game with following pay-off:\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYour ₹ 100 become 120\n\n\n2\nYour ₹ 100 become 97\n\n\n3\nYour ₹ 100 become 97\n\n\n4\nYour ₹ 100 become 97\n\n\n5\nYour ₹ 100 become 97\n\n\n6\nYour ₹ 100 become 97\n\n\n\nWill you play the game?\nIf we calculate the the probability of success, it is 1/6 or 17 %, and may assume it is not profitable to play the game. But it is naive to calculate like this.\n\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 100.5. If you play this game your capital will appreciate and if you go on playing, in the long run you will build wealth with your ₹ 100.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Personal",
+      "Risk mitigation"
+    ]
   },
   {
-    "objectID": "index.html#contact-me",
-    "href": "index.html#contact-me",
-    "title": "knotes",
-    "section": "Contact me",
-    "text": "Contact me\nI teach at a medical school, Amala Institute of Medical Sciences and my office address is below:\nKishore Puthezhath\nDepartment of Orthopaedics\nAIMS, Kerala, Thrissur, KL 680555\nYou can reach me by email at drkmenon@gmail.com. I do try to answer. If you send me an email and you don’t hear back, Send it again!"
+    "objectID": "Practical Catallactics/Personal/speculation.html#opportunity-cost-of-secured-non-volatile-instrument",
+    "href": "Practical Catallactics/Personal/speculation.html#opportunity-cost-of-secured-non-volatile-instrument",
+    "title": "Risk mitigation",
+    "section": "Opportunity cost of secured non volatile instrument",
+    "text": "Opportunity cost of secured non volatile instrument\nA corpus of ₹100 will grow to ₹1147 over 50 years if the interest is 5%. If the average inflation over the period is 6 %, that amount will be equivalent to ₹ 62 in today’s money. Forget about what happens if there is a hyper-inflation like scenario.\n\nVolatile instrument\nPay-off of volatile investment is highly variable and is associated with the risk of more than 15% draw-down at any point in time ( around \\(1/11\\) odds, historically). Previous experience show that the negative draw-downs are larger than the + ones. There is \\(1/11\\) odds of stumbling up on negative shock at any time.\n\n\n\n\n\n\nProblem\n\n\n\nThis means at any point, the accumulated Corpus can go down and the recovery will need huge returns after the event.\n\n\n\n\nSecured non volatile instrument\nPay-off of secured non volatile instruments are highly stable and narrowly range bound. They historically fail to beat inflation. They carry a risk of loss of opportunity for wealth creation in long run.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Personal",
+      "Risk mitigation"
+    ]
+  },
+  {
+    "objectID": "Practical Catallactics/Personal/speculation.html#strategy-i",
+    "href": "Practical Catallactics/Personal/speculation.html#strategy-i",
+    "title": "Risk mitigation",
+    "section": "STRATEGY I",
+    "text": "STRATEGY I\nKeep almost everything in highly secure non volatile instruments and buy small amounts of highly speculative ones regularly, to cash in positive asymmetry.\n\n\n\n\n\n\nProblem with stand-alone secure debt\n\n\n\nThis will insulate the Corpus from all the negative Shock.\nThe Corpus will insulate itself from the positive shocks as well.\nPortfolio will neglect and fail to gain from what-ever upward gains it can obtain from volatile instrument and the return will be generally low to beat inflation.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Personal",
+      "Risk mitigation"
+    ]
+  },
+  {
+    "objectID": "Practical Catallactics/Personal/speculation.html#strategy-ii",
+    "href": "Practical Catallactics/Personal/speculation.html#strategy-ii",
+    "title": "Risk mitigation",
+    "section": "STRATEGY II",
+    "text": "STRATEGY II\nPut everything in volatile instrument & buy an insurance or store of value speculative assets against negative draw downs.\nOn problem with Strategy II is how to face Japan’s lost decade like situation - a situation where the said instrument is range bound, potentially for decades. But such situations tend to remain more deflationary than inflation prone and one may expect less capital erosion.\n\n\n\n\n\n\nDisclaimer\n\n\n\n\nOpinions are for informational purposes only and not personalized investment advice.\nReaders should consult a qualified financial advisor before making any investment decisions.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Personal",
+      "Risk mitigation"
+    ]
   }
 ]
