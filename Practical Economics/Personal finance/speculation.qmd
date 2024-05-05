@@ -60,7 +60,7 @@ We should calculate the geometric mean in such situations. It is `₹ 100.5`. If
 
 A corpus of ₹100 will grow to ₹1147 over 50 years if the interest is 5%. If the average inflation over the period is 6 %, that amount will be equivalent to ₹ 62 in today's money. `Forget about what happens if there is a hyper-inflation like scenario.`
 
-### Volatile investment
+### Volatile instrument
 
 Pay-off of volatile investment is highly variable and is associated with the risk of more than 15% draw-down at any point in time ( around $1/11$ odds, historically). Previous experience show that the negative draw-downs are larger than the + ones. There is $1/11$ odds of stumbling up on negative shock at any time.
 
@@ -70,13 +70,13 @@ Pay-off of volatile investment is highly variable and is associated with the ris
 This means at any point, the accumulated Corpus can go down and the recovery will need huge returns after the event.
 :::
 
-### Secured non volatile investment
+### Secured non volatile instrument
 
 Pay-off of secured non volatile instruments are highly stable and narrowly range bound. They historically fail to beat inflation. They carry a risk of `loss of opportunity for wealth creation` in long run.
 
 ## STRATEGY I
 
-Keep almost everything in highly secure no volatile instruments and buy small amounts of highly speculative assets regularly, to cash in positive asymmetry.
+Keep almost everything in highly secure non volatile instruments and buy small amounts of highly speculative assets regularly, to cash in positive asymmetry.
 
 ::: callout-warning
 ## Problem with stand-alone secure debt 
