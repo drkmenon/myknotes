@@ -15,7 +15,7 @@ $$ (E/r-g) X (1- (1+ g/1+r)^n) $$
 
 Assume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.
 
-$$ 1200000/(.08-.06) X (1-(1+.06/1+.08)^55) $$
+$$ (1200000/(.08-.06) X (1-(1+.06/1+.08)^55) $$
 
 = ₹ 3,85,38,143
 
