@@ -1,5 +1,5 @@
 ---
-title: "Risk in investment"
+title: "Risk mitigation"
 ---
 
 ## Barbell strategy
@@ -7,11 +7,11 @@ title: "Risk in investment"
 ::: callout-tip
 ## Remember
 
-`Fundamental principle is never to loose the capital.`
+`Fundamental rule is never to loose the principal.`
 
 Hence the pay-off is more important than the probability of success.
 
-It is always better to loose small amount of capital regularly for a potential huge pay-off following an extreme rare event than to gain small amount of income from capital regularly with a potential to loose a substantial amount of capital due to an extreme rare event (including run away inflation).
+It is always better to loose small amount regularly for a potential huge pay-off following an extreme rare event than to gain small amount regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).
 
 Any given investment has got a speculative component to it and there by returns in future are uncertain
 :::
