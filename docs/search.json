@@ -11,18 +11,16 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "knotes",
+    "objectID": "Publications/Articles.html",
+    "href": "Publications/Articles.html",
+    "title": "Published articles",
     "section": "",
-    "text": "This compilation represents a collection of notes and insights I have gathered over the years, primarily focusing on topics related to Asymmetry, Biometry, Orthopaedics, Medical Education, Health economics and my general experiences in the field. It serves as a reflection of my journey and learning in these areas, encapsulating both the technical aspects of these subjects and the practical experiences I have encountered.\nEverything that I learn, do or write will be on this site sooner or later. I hope that you find the content useful and that you will share it with others. Good luck!"
-  },
-  {
-    "objectID": "index.html#contact-me",
-    "href": "index.html#contact-me",
-    "title": "knotes",
-    "section": "Contact me",
-    "text": "Contact me\nI teach at a medical school, Amala Institute of Medical Sciences and my office address is below:\nKishore Puthezhath\nDepartment of Orthopaedics\nAIMS, Kerala, Thrissur, KL 680555\nYou can reach me by email at drkmenon@gmail.com. I do try to answer. If you send me an email and you don’t hear back, Send it again!"
+    "text": "Abductor pollicis longus tendon division with swan neck thumb deformity.\nGluteal abscess: diagnostic challenges and management\nExpressing Cobb Angle as Linear Measurement in Scoliosis and Its Significance: A Clinical and Geometrical Analysis of Scoliosis\nIs calcar referenced tip-apex distance a better predicting factor for cutting out in biaxial cephalomedullary nails than tip-apex distance?\nAcute Isolated Dorsal Midtarsal (Chopart’s) Dislocation: A Case Report\nGorham’s disease of the fibula: a case report\nA New Surgical Technique for Extensive Exposure ofthe Proximal Humerus and Shoulder\nManagement of Giant Cell Tumor of Bone:Computerized Tomography Based Selection Strategyand Approaching the Lesion Through the Site ofCortical Break\nMulticentric epithelioid angiosarcoma of the spine: a case report of a rare bone tumor\nOnsite virtual classroom for undergraduate medical education\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Publications",
+      "Published articles"
+    ]
   },
   {
     "objectID": "Orthopaedics/Diagrams/diagrams.html#articular-cartilage",
@@ -662,41 +660,43 @@
     ]
   },
   {
-    "objectID": "Publications/Articles.html",
-    "href": "Publications/Articles.html",
-    "title": "Published articles",
-    "section": "",
-    "text": "Abductor pollicis longus tendon division with swan neck thumb deformity.\nGluteal abscess: diagnostic challenges and management\nExpressing Cobb Angle as Linear Measurement in Scoliosis and Its Significance: A Clinical and Geometrical Analysis of Scoliosis\nIs calcar referenced tip-apex distance a better predicting factor for cutting out in biaxial cephalomedullary nails than tip-apex distance?\nAcute Isolated Dorsal Midtarsal (Chopart’s) Dislocation: A Case Report\nGorham’s disease of the fibula: a case report\nA New Surgical Technique for Extensive Exposure ofthe Proximal Humerus and Shoulder\nManagement of Giant Cell Tumor of Bone:Computerized Tomography Based Selection Strategyand Approaching the Lesion Through the Site ofCortical Break\nMulticentric epithelioid angiosarcoma of the spine: a case report of a rare bone tumor\nOnsite virtual classroom for undergraduate medical education\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "Publications",
-      "Published articles"
-    ]
-  },
-  {
-    "objectID": "Economics/Personal finance/Retirement.html",
-    "href": "Economics/Personal finance/Retirement.html",
+    "objectID": "Practical Economics/Personal finance/Retirement.html",
+    "href": "Practical Economics/Personal finance/Retirement.html",
     "title": "Retirement fund",
     "section": "",
     "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retire can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me. The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
     "crumbs": [
       "Home",
-      "Economics",
+      "Practical Economics",
       "Personal finance",
       "Retirement fund"
     ]
   },
   {
-    "objectID": "Economics/Personal finance/Retirement.html#how-to-calculate-retirement-fund",
-    "href": "Economics/Personal finance/Retirement.html#how-to-calculate-retirement-fund",
+    "objectID": "Practical Economics/Personal finance/Retirement.html#how-to-calculate-retirement-fund",
+    "href": "Practical Economics/Personal finance/Retirement.html#how-to-calculate-retirement-fund",
     "title": "Retirement fund",
     "section": "",
     "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retire can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me. The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
     "crumbs": [
       "Home",
-      "Economics",
+      "Practical Economics",
       "Personal finance",
       "Retirement fund"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "knotes",
+    "section": "",
+    "text": "This compilation represents a collection of notes and insights I have gathered over the years, primarily focusing on topics related to Asymmetry, Biometry, Orthopaedics, Medical Education, Health economics and my general experiences in the field. It serves as a reflection of my journey and learning in these areas, encapsulating both the technical aspects of these subjects and the practical experiences I have encountered.\nEverything that I learn, do or write will be on this site sooner or later. I hope that you find the content useful and that you will share it with others. Good luck!"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "knotes",
+    "section": "Contact me",
+    "text": "Contact me\nI teach at a medical school, Amala Institute of Medical Sciences and my office address is below:\nKishore Puthezhath\nDepartment of Orthopaedics\nAIMS, Kerala, Thrissur, KL 680555\nYou can reach me by email at drkmenon@gmail.com. I do try to answer. If you send me an email and you don’t hear back, Send it again!"
   }
 ]
