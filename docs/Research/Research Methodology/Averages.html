@@ -365,12 +365,17 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#averages" id="toc-averages" class="nav-link active" data-scroll-target="#averages">Averages</a></li>
+  <li><a href="#averages" id="toc-averages" class="nav-link active" data-scroll-target="#averages">Averages</a>
+  <ul class="collapse">
+  <li><a href="#mean" id="toc-mean" class="nav-link" data-scroll-target="#mean">Mean</a></li>
+  <li><a href="#median" id="toc-median" class="nav-link" data-scroll-target="#median">Median</a></li>
+  <li><a href="#mode" id="toc-mode" class="nav-link" data-scroll-target="#mode">Mode</a></li>
+  </ul></li>
   <li><a href="#measures-of-dispersion" id="toc-measures-of-dispersion" class="nav-link" data-scroll-target="#measures-of-dispersion">Measures of dispersion</a>
   <ul class="collapse">
   <li><a href="#variance" id="toc-variance" class="nav-link" data-scroll-target="#variance">Variance</a></li>
   <li><a href="#standard-deviation" id="toc-standard-deviation" class="nav-link" data-scroll-target="#standard-deviation">Standard deviation</a></li>
-  <li><a href="#standard-error-of-meansem" id="toc-standard-error-of-meansem" class="nav-link" data-scroll-target="#standard-error-of-meansem">standard error of mean(SEM)</a></li>
+  <li><a href="#standard-error-of-meansem" id="toc-standard-error-of-meansem" class="nav-link" data-scroll-target="#standard-error-of-meansem">Standard error of mean(SEM)</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -400,16 +405,25 @@ window.Quarto = {
 <section id="averages" class="level2">
 <h2 class="anchored" data-anchor-id="averages">Averages</h2>
 <p>Mean, median, and mode are three kinds of “averages”. There are many “averages” in statistics, but these are most common.</p>
+<section id="mean" class="level3">
+<h3 class="anchored" data-anchor-id="mean">Mean</h3>
 <p>“mean” is a statistical “average”, where you add up all the variables and then divide by the number of variables.</p>
+</section>
+<section id="median" class="level3">
+<h3 class="anchored" data-anchor-id="median">Median</h3>
 <p>The “median” is the “middle” value in the list of variables. To find the median, your variables have to be listed in numerical order from smallest to largest, so you may have to rewrite your list before you can find the median.</p>
+</section>
+<section id="mode" class="level3">
+<h3 class="anchored" data-anchor-id="mode">Mode</h3>
 <p>The “mode” is the value that occurs most often. If no variable in the list is repeated, then there is no mode for the list.</p>
+</section>
 </section>
 <section id="measures-of-dispersion" class="level2">
 <h2 class="anchored" data-anchor-id="measures-of-dispersion">Measures of dispersion</h2>
 <section id="variance" class="level3">
 <h3 class="anchored" data-anchor-id="variance">Variance</h3>
 <p>It is the sum of average squared difference of mean.</p>
-<p>eg: x~1, x~2, x~3, x~n are a list of n number of values, then mean, x̄ = (x~n + x~1 )/n.&nbsp;Then the</p>
+<p>e.g: x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, x<sub>n</sub> are a list of n number of values, then mean, x̄ = (x<sub>n</sub> + x<sub>1</sub> )/n.&nbsp;Then the</p>
 <p><span class="math display">\[ Variance= Σ (x-\bar{x})^2/ (n-1)\]</span></p>
 </section>
 <section id="standard-deviation" class="level3">
@@ -418,15 +432,31 @@ window.Quarto = {
 <p>Standard deviation σ = √∑, i.e., standard deviation is the square root of variance.</p>
 <p>Assume that someone is asked to walk on a straight line from point a to point b. The individual steps taken by the person can be equated to standard deviation and the variance is the deviation of the path from the central line.</p>
 <p><img src="images/funnel.png" class="img-fluid"></p>
-<p>σ is the sd and Σ is the variance</p>
+<p>σ is the standard deviation and Σ is the variance</p>
 <p>Unlike standard deviation variance can identify the outliers and also shows the spread of the data.</p>
 </section>
 <section id="standard-error-of-meansem" class="level3">
-<h3 class="anchored" data-anchor-id="standard-error-of-meansem">standard error of mean(SEM)</h3>
+<h3 class="anchored" data-anchor-id="standard-error-of-meansem">Standard error of mean(SEM)</h3>
+<p><span class="math display">\[
+\sigma/\sqrt n
+\]</span></p>
 <p>It is the standard deviation of the sample mean from the population mean.</p>
-<p>Assume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist y started a study with a sample size of 50. He repeated the study for n times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these n studies and designated it as x̄~1. This x̄~1 is the sample mean for his study.</p>
-<p>Another scientist z selected a sample size of 10 and conducted n number of similar study and similarly he also got a sample mean, x̄~2. So they decided to find out the actual population mean x̄ by studying the entire population. They also calculated how far the x̄~1 and x̄~2 deviate from x̄. The deviation of x̄~1 was found to be less than x̄~2. This deviation is called Standard error of mean</p>
-<p>when n increases, standard error of mean decreases and the precision of the study increases.</p>
+<p>Assume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist y started a study with a sample size of 50. He repeated the study for n times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these n studies and designated it as x̄<sub>1</sub>. This x̄<sub>1</sub> is the sample mean for his study.</p>
+<p>Another scientist z selected a sample size of 10 and conducted n number of similar study and similarly he also got a sample mean, x̄<sub>2</sub>. So they decided to find out the actual population mean x̄ by studying the entire population. This deviation is called Standard error of mean</p>
+<p>They also calculated how far the x̄<sub>1</sub> and x̄<sub>2</sub> deviate from x̄. The deviation of x̄<sub>1</sub> was found to be less than x̄<sub>2</sub>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>When n increases, standard error of mean decreases and the precision of the study increases.</p>
+</div>
+</div>
 
 
 </section>

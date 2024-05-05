@@ -2,23 +2,30 @@
 title: "Averages and measures of dispersion"
 order: 2
 ---
+
 ## Averages
 
 Mean, median, and mode are three kinds of "averages". There are many "averages" in statistics, but these are most common.
 
+### Mean
+
 "mean" is a statistical "average", where you add up all the variables and then divide by the number of variables.
+
+### Median
 
 The "median" is the "middle" value in the list of variables. To find the median, your variables have to be listed in numerical order from smallest to largest, so you may have to rewrite your list before you can find the median.
 
+### Mode
+
 The "mode" is the value that occurs most often. If no variable in the list is repeated, then there is no mode for the list.
 
-## Measures of dispersion 
+## Measures of dispersion
 
 ### Variance
 
 It is the sum of average squared difference of mean.
 
-eg: x\~1, x\~2, x\~3, x\~n are a list of n number of values, then mean, x̄ = (x\~n + x\~1 )/n. Then the
+e.g: x~1~, x~2~, x~3~, x~n~ are a list of n number of values, then mean, x̄ = (x~n~ + x~1~ )/n. Then the
 
 $$ Variance= Σ (x-\bar{x})^2/ (n-1)$$
 
@@ -32,17 +39,26 @@ Assume that someone is asked to walk on a straight line from point a to point b.
 
 ![](images/funnel.png)
 
-σ is the sd and Σ is the variance
+σ is the standard deviation and Σ is the variance
 
 Unlike standard deviation variance can identify the outliers and also shows the spread of the data.
 
-### standard error of mean(SEM)
+### Standard error of mean(SEM)
+
+$$
+\sigma/\sqrt n
+$$
 
 It is the standard deviation of the sample mean from the population mean.
 
-Assume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist y started a study with a sample size of 50. He repeated the study for n times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these n studies and designated it as x̄\~1. This x̄\~1 is the sample mean for his study.
+Assume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist y started a study with a sample size of 50. He repeated the study for n times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these n studies and designated it as x̄~1~. This x̄~1~ is the sample mean for his study.
 
-Another scientist z selected a sample size of 10 and conducted n number of similar study and similarly he also got a sample mean, x̄\~2. So they decided to find out the actual population mean x̄ by studying the entire population. They also calculated how far the x̄\~1 and x̄\~2 deviate from x̄. The deviation of x̄\~1 was found to be less than x̄\~2. This deviation is called Standard error of mean
+Another scientist z selected a sample size of 10 and conducted n number of similar study and similarly he also got a sample mean, x̄~2~. So they decided to find out the actual population mean x̄ by studying the entire population. This deviation is called Standard error of mean
 
-when n increases, standard error of mean decreases and the precision of the study increases.
+They also calculated how far the x̄~1~ and x̄~2~ deviate from x̄. The deviation of x̄~1~ was found to be less than x̄~2~.
 
+::: callout-note
+## Important
+
+When n increases, standard error of mean decreases and the precision of the study increases.
+:::

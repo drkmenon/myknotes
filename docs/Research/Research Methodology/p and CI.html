@@ -336,7 +336,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#p-value-and-ci" id="toc-p-value-and-ci" class="nav-link active" data-scroll-target="#p-value-and-ci">p-value and CI</a>
+  <li><a href="#p-value" id="toc-p-value" class="nav-link active" data-scroll-target="#p-value">p-value</a>
   <ul class="collapse">
   <li><a href="#frequentest-method" id="toc-frequentest-method" class="nav-link" data-scroll-target="#frequentest-method">Frequentest method</a></li>
   <li><a href="#fisher" id="toc-fisher" class="nav-link" data-scroll-target="#fisher">Fisher</a></li>
@@ -372,8 +372,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="p-value-and-ci" class="level2">
-<h2 class="anchored" data-anchor-id="p-value-and-ci">p-value and CI</h2>
+<section id="p-value" class="level2">
+<h2 class="anchored" data-anchor-id="p-value">p-value</h2>
 <div class="cell">
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
@@ -405,12 +405,15 @@ ul.task-list li input[type="checkbox"] {
 <section id="neyman-pearson-decision-framework" class="level3">
 <h3 class="anchored" data-anchor-id="neyman-pearson-decision-framework">Neyman-Pearson decision framework</h3>
 <p>In each experiment, if you need to choose between the Null and the alternative, then there is possibility for two types of errors</p>
+<blockquote class="blockquote">
 <p>False Positive: Choosing the alternative when Null is true</p>
 <p>False Negative: Choosing the Null when the alternative is true</p>
+</blockquote>
 <p>Control the rate at which you commit decision errors of false positive type by applying a strict procedure to each experiment:</p>
 <p>The researcher has to make a decision. In research, convention is to choose the alternative hypothesis if the test result is outside the 95% mark in the normal curve. The remaining 5% is called œ. The boundary is approximately 1.96z, ie, 1.96 standard deviations away from the mean.</p>
-<p>A Z-score is a numerical measurement that describes a value’s relationship to the mean of a group of values. Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point’s score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.</p>
-<p>œ is the zone of rejection of null hypothesis and z the boundary between the acceptance and rejection zones of null hypothesis.</p>
+<p><code>A Z-score is a numerical measurement that describes a value's relationship to the mean of a group of values.</code></p>
+<p>Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point’s score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.</p>
+<p><code>œ is the zone of rejection of null hypothesis and z the boundary between the acceptance and rejection zones of null hypothesis.</code></p>
 <p>If we refer the statistical charts, p value for a z score of ≤1.96 is ≤0.05</p>
 </section>
 <section id="decision-framework" class="level3">
@@ -422,7 +425,6 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Choose the alternative if p-value is &lt;= α</p></li>
 </ul>
 <p>Typically α is set at 0.05</p>
-<p>Another important concept is confidence interval</p>
 </section>
 </section>
 <section id="confidence-interval" class="level2">

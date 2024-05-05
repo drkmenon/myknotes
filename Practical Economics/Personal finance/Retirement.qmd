@@ -17,4 +17,10 @@ Assume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation 
 
 = ₹ 3,85,38,143
 
-The retiree can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I'm sceptical of predicting any future... Which includes me. The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.
+The retiree can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I'm sceptical of predicting any future... Which includes me.
+
+::: callout-note
+## important
+
+The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.
+:::
