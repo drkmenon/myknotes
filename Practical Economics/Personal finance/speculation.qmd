@@ -76,7 +76,7 @@ Pay-off of secured non volatile instruments are highly stable and narrowly range
 
 ## STRATEGY I
 
-Keep almost everything in highly secure non volatile instruments and buy small amounts of highly speculative assets regularly, to cash in positive asymmetry.
+Keep almost everything in highly secure non volatile instruments and buy small amounts of highly speculative ones regularly, to cash in positive asymmetry.
 
 ::: callout-warning
 ## Problem with stand-alone secure debt 
@@ -85,7 +85,7 @@ This will insulate the Corpus from all the negative Shock.
 
 The Corpus will insulate itself from the positive shocks as well.
 
-Portfolio will neglect and fail to gain from what-ever upward gains it can obtain from equity investment and the return will be generally low to beat inflation.
+Portfolio will neglect and fail to gain from what-ever upward gains it can obtain from volatile instrument and the return will be generally low to beat inflation.
 :::
 
 ## STRATEGY II
