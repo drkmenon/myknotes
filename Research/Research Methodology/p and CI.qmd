@@ -1,0 +1,112 @@
+---
+title: "p and CI"
+order: 3
+---
+
+## p-value and CI
+
+```{r echo=FALSE, warning=FALSE}
+library(ggplot2)
+set.seed(1)
+m=rnorm(100,168,5)
+f=rnorm(100,158,5)
+mf=data.frame(m,f)
+```
+
+```{r include=FALSE}
+library(tidyverse)
+```
+
+```{r echo=FALSE, fig.cap="Histogram showing  male and female height ploted againt the count", out.width="100%"}
+mf %>%
+  ggplot()+
+  geom_histogram(mapping = aes(m, colour="male"
+              ),position = 'identity',bins=70, alpha=.5, )+
+  geom_histogram(mapping = aes(f,colour="female"
+              ),position = 'identity',bins = 70, alpha=.5)+xlab("People")
+```
+
+```{r include=FALSE}
+
+mm= mean(m)
+mf= mean(f)
+htdif=mean(m)-mean(f)
+round(htdif,digits = 1)
+```
+
+Assume that we have a normally distributed population of males and females with a mean height of `r mm` cms and `r mf` cms respectively.
+
+We can see that the mean difference in the height is `r htdif`.
+
+> If I measure the entire population in the world, will I find that the mean height for each sex is different? or would I find that difference between the mean height is zero?
+
+How to answer this question?
+
+### Frequentest method
+
+Assume a hypothetical world with no difference in the height between the sexes.Do repeated experiments and find out what proportion of times would I obtain a difference between the observed means (ø) in that hypothetical world which is as great as or greater than difference I observed in my real experiment. This proportion of time is abbreviated as p-value
+
+In other words p-value=P(ø/H),i.e., given the null (H), what is the probability of data(ø)
+
+but p-value is an answer to a question we didn't intend to ask. So what to do with it?
+
+Traditional Answers
+
+### Fisher
+
+Treat it as a measure of strength of evidence.
+
+`This is not objectively satisfactory because, p-value=P(ø/H)≠P(H/ø)`
+
+### Neyman-Pearson decision framework
+
+In each experiment, if you need to choose between the Null and the alternative, then there is possibility for two types of errors
+
+False Positive: Choosing the alternative when Null is true
+
+False Negative: Choosing the Null when the alternative is true
+
+Control the rate at which you commit decision errors of false positive type by applying a strict procedure to each experiment:
+
+The researcher has to make a decision. In research, convention is to choose the alternative hypothesis if the test result is outside the 95% mark in the normal curve. The remaining 5% is called œ. The boundary is approximately 1.96z, ie, 1.96 standard deviations away from the mean.
+
+A Z-score is a numerical measurement that describes a value's relationship to the mean of a group of values. Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point's score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.
+
+œ is the zone of rejection of null hypothesis and z the boundary between the acceptance and rejection zones of null hypothesis.
+
+If we refer the statistical charts, p value for a z score of ≤1.96 is ≤0.05
+
+### Decision framework
+
+So the decision framework is to
+
+-   Compute p-value
+
+-   Choose the Null if p-value is \> α
+
+-   Choose the alternative if p-value is \<= α
+
+Typically α is set at 0.05
+
+Another important concept is confidence interval
+
+## Confidence Interval
+
+Under repeated sampling in hypothetical world, 95% of confidence intervals constructed the same way will include the true value of the mean difference.
+
+It ranges between a fixed value x and y on either side of zero,i.e., x-0-y.
+
+0-x is the lower confidence limit and 0+y is the upper confidence limit.
+
+### Confidence limit
+
+This sets the boundary of confidence interval and it is generally taken as 95%.
+
+Confidence interval is generally considered as more important than p value because it gives
+
+-   Statistical significance
+
+-   Clinical significance
+
+-   Precision
+

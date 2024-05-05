@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>knotes - Author</title>
+<title>knotes - Averages and measures of dispersion</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,28 +23,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./Orthopaedics/Adult pathology/Charcot.html" rel="next">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../Research/Research Methodology/p and CI.html" rel="next">
+<link href="../../Research/Research Methodology/Science.html" rel="prev">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,8 +71,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -84,7 +111,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">knotes</span>
     </a>
   </div>
@@ -95,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
 </ul>
@@ -115,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./author.html">Author</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item"><a href="../../Research/Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../../Research/Research Methodology/Averages.html">Averages and measures of dispersion</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -129,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./author.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../author.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Author</span></a>
   </div>
 </li>
@@ -153,37 +180,37 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Charcot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diabetic foot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fragility prevention</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteoporosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteosarcopenia</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tuberculosis</span></a>
   </div>
 </li>
@@ -200,19 +227,19 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Basic science/FBD.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Basic science/FBD.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Free body diagram</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fracture</span></a>
   </div>
 </li>
@@ -229,7 +256,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Orthopaedics/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Orthopaedics/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diagrams</span></a>
   </div>
 </li>
@@ -257,7 +284,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Practical Economics/Personal finance/Retirement.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Practical Economics/Personal finance/Retirement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Retirement fund</span></a>
   </div>
 </li>
@@ -276,7 +303,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Publications/Articles.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Publications/Articles.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Published articles</span></a>
   </div>
 </li>
@@ -293,34 +320,34 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">
  <span class="menu-text">Research Methodology</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Research/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Research/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Research/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Research/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Averages and measures of dispersion</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Research/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Research/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">p and CI</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Research/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Research/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Funnel plot</span></a>
   </div>
 </li>
@@ -334,14 +361,26 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#averages" id="toc-averages" class="nav-link active" data-scroll-target="#averages">Averages</a></li>
+  <li><a href="#measures-of-dispersion" id="toc-measures-of-dispersion" class="nav-link" data-scroll-target="#measures-of-dispersion">Measures of dispersion</a>
+  <ul class="collapse">
+  <li><a href="#variance" id="toc-variance" class="nav-link" data-scroll-target="#variance">Variance</a></li>
+  <li><a href="#standard-deviation" id="toc-standard-deviation" class="nav-link" data-scroll-target="#standard-deviation">Standard deviation</a></li>
+  <li><a href="#standard-error-of-meansem" id="toc-standard-error-of-meansem" class="nav-link" data-scroll-target="#standard-error-of-meansem">standard error of mean(SEM)</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item"><a href="../../Research/Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../../Research/Research Methodology/Averages.html">Averages and measures of dispersion</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Author</h1>
+<h1 class="title">Averages and measures of dispersion</h1>
 </div>
 
 
@@ -358,12 +397,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I am a Professor of Orthopaedic Surgery and Sr Consultant of Paediatric Orthopaedic division, Amala Institute of Medical Sciences, Thrissur. After medical school, I completed my residency in Orthopaedic Surgery at Government Medical College, Calicut and a fellowship in Trauma and Orthopaedics from Royal College of Surgeons, England. I am awarded FACS by American College of Surgeons in 2020.&nbsp;</p>
-<p>I have authored several web of science indexed articles and have authored and/or edited book chapter. My research interests include fracture healing and bone brain cross talk, in which I am currently&nbsp;persuing&nbsp;a PhD from KUHS.</p>
-<p>Beyond medicine, I am driven by a deep passion for Chess and Economics. These interests not only provide intellectual stimulation but also influence my perspectives and opinions, which may occasionally manifest on this platform.</p>
-<p><a href="images/194D8A8A-77DB-4DB6-861C-7FC6813D62D3_1_102_o-01.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/194D8A8A-77DB-4DB6-861C-7FC6813D62D3_1_102_o-01.jpeg" class="img-fluid"></a></p>
+<section id="averages" class="level2">
+<h2 class="anchored" data-anchor-id="averages">Averages</h2>
+<p>Mean, median, and mode are three kinds of “averages”. There are many “averages” in statistics, but these are most common.</p>
+<p>“mean” is a statistical “average”, where you add up all the variables and then divide by the number of variables.</p>
+<p>The “median” is the “middle” value in the list of variables. To find the median, your variables have to be listed in numerical order from smallest to largest, so you may have to rewrite your list before you can find the median.</p>
+<p>The “mode” is the value that occurs most often. If no variable in the list is repeated, then there is no mode for the list.</p>
+</section>
+<section id="measures-of-dispersion" class="level2">
+<h2 class="anchored" data-anchor-id="measures-of-dispersion">Measures of dispersion</h2>
+<section id="variance" class="level3">
+<h3 class="anchored" data-anchor-id="variance">Variance</h3>
+<p>It is the sum of average squared difference of mean.</p>
+<p>eg: x~1, x~2, x~3, x~n are a list of n number of values, then mean, x̄ = (x~n + x~1 )/n.&nbsp;Then the</p>
+<p><span class="math display">\[ Variance= Σ (x-\bar{x})^2/ (n-1)\]</span></p>
+</section>
+<section id="standard-deviation" class="level3">
+<h3 class="anchored" data-anchor-id="standard-deviation">Standard deviation</h3>
+<p>It is the measure of standardized dispersion of data from the mean. It is calculated by taking the square root of variance.</p>
+<p>Standard deviation σ = √∑, i.e., standard deviation is the square root of variance.</p>
+<p>Assume that someone is asked to walk on a straight line from point a to point b. The individual steps taken by the person can be equated to standard deviation and the variance is the deviation of the path from the central line.</p>
+<p><img src="images/funnel.png" class="img-fluid"></p>
+<p>σ is the sd and Σ is the variance</p>
+<p>Unlike standard deviation variance can identify the outliers and also shows the spread of the data.</p>
+</section>
+<section id="standard-error-of-meansem" class="level3">
+<h3 class="anchored" data-anchor-id="standard-error-of-meansem">standard error of mean(SEM)</h3>
+<p>It is the standard deviation of the sample mean from the population mean.</p>
+<p>Assume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist y started a study with a sample size of 50. He repeated the study for n times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these n studies and designated it as x̄~1. This x̄~1 is the sample mean for his study.</p>
+<p>Another scientist z selected a sample size of 10 and conducted n number of similar study and similarly he also got a sample mean, x̄~2. So they decided to find out the actual population mean x̄ by studying the entire population. They also calculated how far the x̄~1 and x̄~2 deviate from x̄. The deviation of x̄~1 was found to be less than x̄~2. This deviation is called Standard error of mean</p>
+<p>when n increases, standard error of mean decreases and the precision of the study increases.</p>
 
 
+</section>
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -921,10 +988,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../../Research/Research Methodology/Science.html" class="pagination-link" aria-label="Science">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Science</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./Orthopaedics/Adult pathology/Charcot.html" class="pagination-link" aria-label="Charcot">
-        <span class="nav-page-text">Charcot</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../Research/Research Methodology/p and CI.html" class="pagination-link" aria-label="p and CI">
+        <span class="nav-page-text">p and CI</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -942,31 +1012,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","openEffect":"zoom","closeEffect":"zoom","selector":".lightbox","loop":false});
-window.onload = () => {
-  lightboxQuarto.on('slide_before_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    const href = trigger.getAttribute('href');
-    if (href !== null) {
-      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-      if (imgEl !== null) {
-        const srcAttr = imgEl.getAttribute("src");
-        if (srcAttr && srcAttr.startsWith("data:")) {
-          slideConfig.href = srcAttr;
-        }
-      }
-    } 
-  });
-
-  lightboxQuarto.on('slide_after_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    if (window.Quarto?.typesetMath) {
-      window.Quarto.typesetMath(slideNode);
-    }
-  });
-
-};
-          </script>
 
 
 

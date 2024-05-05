@@ -361,6 +361,45 @@
     ]
   },
   {
+    "objectID": "Research/Research Methodology/Averages.html",
+    "href": "Research/Research Methodology/Averages.html",
+    "title": "Averages and measures of dispersion",
+    "section": "",
+    "text": "Mean, median, and mode are three kinds of “averages”. There are many “averages” in statistics, but these are most common.\n“mean” is a statistical “average”, where you add up all the variables and then divide by the number of variables.\nThe “median” is the “middle” value in the list of variables. To find the median, your variables have to be listed in numerical order from smallest to largest, so you may have to rewrite your list before you can find the median.\nThe “mode” is the value that occurs most often. If no variable in the list is repeated, then there is no mode for the list.",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Methodology",
+      "Averages and measures of dispersion"
+    ]
+  },
+  {
+    "objectID": "Research/Research Methodology/Averages.html#averages",
+    "href": "Research/Research Methodology/Averages.html#averages",
+    "title": "Averages and measures of dispersion",
+    "section": "",
+    "text": "Mean, median, and mode are three kinds of “averages”. There are many “averages” in statistics, but these are most common.\n“mean” is a statistical “average”, where you add up all the variables and then divide by the number of variables.\nThe “median” is the “middle” value in the list of variables. To find the median, your variables have to be listed in numerical order from smallest to largest, so you may have to rewrite your list before you can find the median.\nThe “mode” is the value that occurs most often. If no variable in the list is repeated, then there is no mode for the list.",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Methodology",
+      "Averages and measures of dispersion"
+    ]
+  },
+  {
+    "objectID": "Research/Research Methodology/Averages.html#measures-of-dispersion",
+    "href": "Research/Research Methodology/Averages.html#measures-of-dispersion",
+    "title": "Averages and measures of dispersion",
+    "section": "Measures of dispersion",
+    "text": "Measures of dispersion\n\nVariance\nIt is the sum of average squared difference of mean.\neg: x~1, x~2, x~3, x~n are a list of n number of values, then mean, x̄ = (x~n + x~1 )/n. Then the\n\\[ Variance= Σ (x-\\bar{x})^2/ (n-1)\\]\n\n\nStandard deviation\nIt is the measure of standardized dispersion of data from the mean. It is calculated by taking the square root of variance.\nStandard deviation σ = √∑, i.e., standard deviation is the square root of variance.\nAssume that someone is asked to walk on a straight line from point a to point b. The individual steps taken by the person can be equated to standard deviation and the variance is the deviation of the path from the central line.\n\nσ is the sd and Σ is the variance\nUnlike standard deviation variance can identify the outliers and also shows the spread of the data.\n\n\nstandard error of mean(SEM)\nIt is the standard deviation of the sample mean from the population mean.\nAssume that there is a population of 1000 members. In order to study the average height of the population, we have to select a sample size. Also assume that one scientist y started a study with a sample size of 50. He repeated the study for n times. He found that each time the average height found out from the study was different. He calculated the mean value of the height from these n studies and designated it as x̄~1. This x̄~1 is the sample mean for his study.\nAnother scientist z selected a sample size of 10 and conducted n number of similar study and similarly he also got a sample mean, x̄~2. So they decided to find out the actual population mean x̄ by studying the entire population. They also calculated how far the x̄~1 and x̄~2 deviate from x̄. The deviation of x̄~1 was found to be less than x̄~2. This deviation is called Standard error of mean\nwhen n increases, standard error of mean decreases and the precision of the study increases.",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Methodology",
+      "Averages and measures of dispersion"
+    ]
+  },
+  {
     "objectID": "Research/Research Methodology/Science.html",
     "href": "Research/Research Methodology/Science.html",
     "title": "Science",
@@ -423,6 +462,58 @@
       "Research",
       "Research Methodology",
       "Science"
+    ]
+  },
+  {
+    "objectID": "Research/Research Methodology/Funnel.html",
+    "href": "Research/Research Methodology/Funnel.html",
+    "title": "Funnel plot",
+    "section": "",
+    "text": "Introduction\n\nThis is called a funnel plot which is a simple scatter plot of the treatment effects (RR or OR) estimated from individual studies (horizontal axis) against the precision of the studies represented by standard error (SE).\nThe vertical dotted line shows the estimated combined RR or OR from the meta-analysis. The diagonal dotted lines show the range in which studies should be ideally distributed given the size (and thus precision) of each study. Thus larger (big sample size), more precise (smaller standard error) studies should be closely distributed either side of the pooled effect and smaller studies should be distributed more widely giving the classic inverted symmetrical funnel. If the studies are not distributed randomly (due to sampling error) around the combined RR estimate then some other influence is suggested.\n\nNow what is this?\nThis funnel plot shows trials scattered asymmetrically around the pooled RR with smaller trials reporting a greater effect than larger ones.\nTwo possible explanations are: smaller trials of lower methodological quality tend to overestimate true effect; publication bias has led to the smaller negative trials remaining unpublished.\n\nIf so, what is this?\nThe funnel plot displays the % of observed 30-day mortality rate of operations on the Y-axis and the total number of operations on the X-axis. A practice lying on the line Y=1 has a surgeon performing close to average, whereas a practice lying above Y=1 has a the total number of operations that is higher than the average.\nImportant point\nFunnel plot is used to detect publication bias as well as outliers\n\nFunnel plot\n\nFunnel plot concepts\nIt is a representation of SEM plotted against the true population mean or the no effect line of a study in a graph. Smaller studies tend to have larger SEM and the larger studies will have smaller SEM. Hence the plot assumes a funnel shape. I an ideal world, funnel plot is supposed to form a symmetrical “funnel”. This is not the case in real world, because of various reasons.\n\n\n\nUses of funnel plot\nTo identify outliers. Eg: A surgical resident’s performance\nTo identify the validity of a meta-analysis. An asymmetrical funnel plot suggests a potential problem with the results of the meta-analysis.\n\n\nCauses of asymmetrical funnel plot\n\nReporting bias\n\nReporting bias\n\nPublication bias: Delayed reporting, language bias, duplication)\nSelective outcome reporting\nSelective analysis reporting\n\n\nPoor methodology\n\nDesign\nAnalysis\nFraud\n\nHeterogeneity\nChance\n\n\n\nHeterogeneity\nVariations over and above that is expected by chance\npredicts whether the data from different studies can be combined for meta-analysis to obtain a forest plot.\n\nCauses\n\n\n\n\n\n\n\nClinical\nStatistical\n\n\n\n\nDifference in the population\nIndividual results are inconsistent\n\n\nDifference in the study design\nDifference in size of benefit\n\n\nDifference in intervention\nDifference in size of harm\n\n\nDifference in outcome\n\n\n\nAlways present\n\n\n\nCannot be statistically evaluated\nCan be evaluated statistically\n\n\n\n\n\nDetecting Heterogeneity\n\nReview the table describing individual studies\n“eye ball test”, review the forest plot\nReview the statistical tests\nStatistical tests\nStatistical tests for detecting heterogeneity\n\n\n\nTests for its presence:\nChi Square test, p&gt;0.1 means study is homogenous\n\n\nTest to quantify:\nI2\nIt measures the % of heterogeneity\n\n≤25%=low\n50%= moderate\n≥75%= high)\n\n\n\nAnalysis of cause of heterogeneity\nOnce heterogeneity is identified and quantified, he have to analyse and find out why it is present\nThis is done by\n\nsubgroup analysis\nMeta regression\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Methodology",
+      "Funnel plot"
+    ]
+  },
+  {
+    "objectID": "Research/Research Methodology/p and CI.html",
+    "href": "Research/Research Methodology/p and CI.html",
+    "title": "p and CI",
+    "section": "",
+    "text": "Histogram showing male and female height ploted againt the count\n\n\n\n\nAssume that we have a normally distributed population of males and females with a mean height of 168.5444368 cms and 157.8109596 cms respectively.\nWe can see that the mean difference in the height is 10.7334772.\n\nIf I measure the entire population in the world, will I find that the mean height for each sex is different? or would I find that difference between the mean height is zero?\n\nHow to answer this question?\n\n\nAssume a hypothetical world with no difference in the height between the sexes.Do repeated experiments and find out what proportion of times would I obtain a difference between the observed means (ø) in that hypothetical world which is as great as or greater than difference I observed in my real experiment. This proportion of time is abbreviated as p-value\nIn other words p-value=P(ø/H),i.e., given the null (H), what is the probability of data(ø)\nbut p-value is an answer to a question we didn’t intend to ask. So what to do with it?\nTraditional Answers\n\n\n\nTreat it as a measure of strength of evidence.\nThis is not objectively satisfactory because, p-value=P(ø/H)≠P(H/ø)\n\n\n\nIn each experiment, if you need to choose between the Null and the alternative, then there is possibility for two types of errors\nFalse Positive: Choosing the alternative when Null is true\nFalse Negative: Choosing the Null when the alternative is true\nControl the rate at which you commit decision errors of false positive type by applying a strict procedure to each experiment:\nThe researcher has to make a decision. In research, convention is to choose the alternative hypothesis if the test result is outside the 95% mark in the normal curve. The remaining 5% is called œ. The boundary is approximately 1.96z, ie, 1.96 standard deviations away from the mean.\nA Z-score is a numerical measurement that describes a value’s relationship to the mean of a group of values. Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point’s score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.\nœ is the zone of rejection of null hypothesis and z the boundary between the acceptance and rejection zones of null hypothesis.\nIf we refer the statistical charts, p value for a z score of ≤1.96 is ≤0.05\n\n\n\nSo the decision framework is to\n\nCompute p-value\nChoose the Null if p-value is &gt; α\nChoose the alternative if p-value is &lt;= α\n\nTypically α is set at 0.05\nAnother important concept is confidence interval",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Methodology",
+      "p and CI"
+    ]
+  },
+  {
+    "objectID": "Research/Research Methodology/p and CI.html#p-value-and-ci",
+    "href": "Research/Research Methodology/p and CI.html#p-value-and-ci",
+    "title": "p and CI",
+    "section": "",
+    "text": "Histogram showing male and female height ploted againt the count\n\n\n\n\nAssume that we have a normally distributed population of males and females with a mean height of 168.5444368 cms and 157.8109596 cms respectively.\nWe can see that the mean difference in the height is 10.7334772.\n\nIf I measure the entire population in the world, will I find that the mean height for each sex is different? or would I find that difference between the mean height is zero?\n\nHow to answer this question?\n\n\nAssume a hypothetical world with no difference in the height between the sexes.Do repeated experiments and find out what proportion of times would I obtain a difference between the observed means (ø) in that hypothetical world which is as great as or greater than difference I observed in my real experiment. This proportion of time is abbreviated as p-value\nIn other words p-value=P(ø/H),i.e., given the null (H), what is the probability of data(ø)\nbut p-value is an answer to a question we didn’t intend to ask. So what to do with it?\nTraditional Answers\n\n\n\nTreat it as a measure of strength of evidence.\nThis is not objectively satisfactory because, p-value=P(ø/H)≠P(H/ø)\n\n\n\nIn each experiment, if you need to choose between the Null and the alternative, then there is possibility for two types of errors\nFalse Positive: Choosing the alternative when Null is true\nFalse Negative: Choosing the Null when the alternative is true\nControl the rate at which you commit decision errors of false positive type by applying a strict procedure to each experiment:\nThe researcher has to make a decision. In research, convention is to choose the alternative hypothesis if the test result is outside the 95% mark in the normal curve. The remaining 5% is called œ. The boundary is approximately 1.96z, ie, 1.96 standard deviations away from the mean.\nA Z-score is a numerical measurement that describes a value’s relationship to the mean of a group of values. Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point’s score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.\nœ is the zone of rejection of null hypothesis and z the boundary between the acceptance and rejection zones of null hypothesis.\nIf we refer the statistical charts, p value for a z score of ≤1.96 is ≤0.05\n\n\n\nSo the decision framework is to\n\nCompute p-value\nChoose the Null if p-value is &gt; α\nChoose the alternative if p-value is &lt;= α\n\nTypically α is set at 0.05\nAnother important concept is confidence interval",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Methodology",
+      "p and CI"
+    ]
+  },
+  {
+    "objectID": "Research/Research Methodology/p and CI.html#confidence-interval",
+    "href": "Research/Research Methodology/p and CI.html#confidence-interval",
+    "title": "p and CI",
+    "section": "Confidence Interval",
+    "text": "Confidence Interval\nUnder repeated sampling in hypothetical world, 95% of confidence intervals constructed the same way will include the true value of the mean difference.\nIt ranges between a fixed value x and y on either side of zero,i.e., x-0-y.\n0-x is the lower confidence limit and 0+y is the upper confidence limit.\n\nConfidence limit\nThis sets the boundary of confidence interval and it is generally taken as 95%.\nConfidence interval is generally considered as more important than p value because it gives\n\nStatistical significance\nClinical significance\nPrecision",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Research Methodology",
+      "p and CI"
     ]
   },
   {
