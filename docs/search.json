@@ -678,7 +678,7 @@
     "href": "Economics/Personal finance/Retirement.html",
     "title": "Retirement fund",
     "section": "",
-    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n\\[ 1200000/(.08-.06) X (1-(1+.06/1+.08)^55) \\]\n= ₹ 3,85,38,143\nThe retire can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me. The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
+    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retire can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me. The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
     "crumbs": [
       "Home",
       "Economics",
@@ -691,7 +691,7 @@
     "href": "Economics/Personal finance/Retirement.html#how-to-calculate-retirement-fund",
     "title": "Retirement fund",
     "section": "",
-    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n\\[ 1200000/(.08-.06) X (1-(1+.06/1+.08)^55) \\]\n= ₹ 3,85,38,143\nThe retire can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me. The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
+    "text": "\\[ (E/r-g) X (1- (1+ g/1+r)^n) \\]\n\nE = Yearly expense\nr = rate of interest\ng = growth by inflation\nn = number of years after retirement\n\n\n\nAssume that the yearly expense is ₹ 1200000, the r is 8% yearly and inflation is 6% annually. Number of years after retirement is 55 years.\n= ₹ 3,85,38,143\nThe retire can withdraw ₹ 1,00,000 per month for 55 years. Remember that this is a rough estimate. As Captain Jack Sparrow would say, I’m sceptical of predicting any future… Which includes me. The calculation only mean that at least this much of corpus is needed if you are planning to retire, if the real return is around 2% in your portfolio ( which is reasonable). The calculation also does not include one time expenses and surprise expenses.",
     "crumbs": [
       "Home",
       "Economics",
