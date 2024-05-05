@@ -23,6 +23,19 @@
     ]
   },
   {
+    "objectID": "Practical Economics/Personal finance/speculation.html",
+    "href": "Practical Economics/Personal finance/speculation.html",
+    "title": "Risk in investment",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Home",
+      "Practical Economics",
+      "Personal finance",
+      "Risk in investment"
+    ]
+  },
+  {
     "objectID": "Orthopaedics/Diagrams/diagrams.html#articular-cartilage",
     "href": "Orthopaedics/Diagrams/diagrams.html#articular-cartilage",
     "title": "Diagrams",
@@ -839,6 +852,42 @@
       "Orthopaedics",
       "Adult pathology",
       "Charcot"
+    ]
+  },
+  {
+    "objectID": "Technology/EV battery.html",
+    "href": "Technology/EV battery.html",
+    "title": "EV battery",
+    "section": "",
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
+    "crumbs": [
+      "Home",
+      "Technology",
+      "EV battery"
+    ]
+  },
+  {
+    "objectID": "Technology/EV battery.html#types-of-battery",
+    "href": "Technology/EV battery.html#types-of-battery",
+    "title": "EV battery",
+    "section": "",
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
+    "crumbs": [
+      "Home",
+      "Technology",
+      "EV battery"
+    ]
+  },
+  {
+    "objectID": "Technology/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "href": "Technology/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "title": "EV battery",
+    "section": "Comparison of LFP and NMC Li-ion battery",
+    "text": "Comparison of LFP and NMC Li-ion battery\n\n\n\n\n\n\n\nLFP\nNMC\n\n\n\n\nCheap ($ 100/unit)\nCostly\n\n\nLess thermal run away\nMore thermal run away\n\n\nSafe to charge 100%\nLess safe for 100% charge\n\n\nLess energy density\nMore energy density\n\n\nLife is ~ 3000 cycles of charge\nLife is ~ 1500 cycles of charge\n\n\nSub-par range & charging in cold\nTemperature insensitive\n\n\ne.g: MG 50.3 pack, Tesla, BYD\ne.g: MG 44.5 pack, Nissan, Benz",
+    "crumbs": [
+      "Home",
+      "Technology",
+      "EV battery"
     ]
   },
   {

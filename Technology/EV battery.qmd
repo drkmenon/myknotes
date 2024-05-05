@@ -1,0 +1,23 @@
+---
+title: "EV battery"
+---
+
+## Types of battery
+
+Most commonly used EV battery today are Li- ion. They include
+
+-   LFP: Lithium iron phosphate
+
+-   NMC: Nickel Manganese Cobalt
+
+## Comparison of LFP and NMC Li-ion battery
+
+| LFP                                | NMC                               |
+|------------------------------------|-----------------------------------|
+| Cheap (\$ 100/unit)                | `Costly`                          |
+| Less thermal run away              | `More thermal run away`           |
+| Safe to charge 100%                | `Less safe for 100% charge`       |
+| `Less energy density`              | More energy density               |
+| Life is \~ 3000 cycles of charge   | `Life is ~ 1500 cycles of charge` |
+| `Sub-par range & charging in cold` | Temperature insensitive           |
+| e.g: MG 50.3 pack, Tesla, BYD      | e.g: MG 44.5 pack, Nissan, Benz   |
