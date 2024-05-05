@@ -15,6 +15,13 @@ website:
   page-footer: 
    "Copyright 2024 @ Kishore Puthezhath, Opinions are for informational purposes only and not personalized advice"
   reader-mode: true
+  cookie-consent:
+    type: implied
+    style: simple
+    palette: dark
+  google-analytics:
+    tracking-id: "G-7GYDLCJCZE"
+    anonymize-ip: true
     
 format:
   html:
