@@ -1,0 +1,57 @@
+---
+title: "IMA SSS"
+date: today
+order: 4
+---
+
+## Scenario
+
+Current premium for term insurance for a person aged less 25 years for 1 Cr: 5500 rupees/year.
+
+This year's total premium for SSS (all three): around 65500/year.
+
+Assume we pay the premium for roughly 23 years
+
+## Thought experiment:
+
+### Doctor A:
+
+Joins all three SSS today at age 25.
+
+Total premium for 23 years with 7% inflation (**`premium is not capped, so this is a conservative estimate.Premium was 12000/year 10 years back, and the inflation for last 10 years is 18%`**)
+
+Total Payment: 35,00,067 Rupees (35 Lakh rupees)
+
+Corpus on death: 1 Cr
+
+### Doctor B
+
+Joins in a term insurance for 5500 per year for 23 years
+
+Total payment: 110000 rupees
+
+SIPs 5000/month for next 23 years with 12% return in an ETF
+
+Corpus after 23 years: 72,92,362 rupees (73 Lakh rupees) + She will get 1Cr as death benefit between 25-47 years
+
+## Average Life expectancy: 75 years
+
+### Corpus for Doctor A:
+
+She receives at 75 years on death: 1Cr (Capped)
+
+### Corpus for Doctor B:
+
+She receives (`WHETHER DIES OR NOT`) (at 12% CAGR): 155508750 (15.5 Cr).
+
+In-between 47 and 75 years she will get an amount between 73 lakh and 15.5 crore `WHETHER DIES OR NOT`
+
+::: callout-note
+## Important
+
+Today's Value of 1Cr you receive after 50 years: 339477 (3.4 Lakh rupees).
+
+Today's Value of 15.5 Cr you receive after 50 years: 5279173 (53 Lakh rupees).
+
+*`**She is also free to do charity for her fraternity and others at her will.`*
+:::
