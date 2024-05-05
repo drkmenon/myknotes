@@ -11,7 +11,7 @@ title: "Risk mitigation"
 
 Hence the pay-off is more important than the probability of success.
 
-It is always better to loose small amount regularly for a potential huge pay-off following an extreme rare event than to gain small amount regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).
+It is always better to loose small regularly for a potential huge pay-off following an extreme rare event than to gain small regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).
 
 Any given action has got a speculative component to it and there by returns in future are uncertain
 :::
@@ -70,7 +70,7 @@ Pay-off of volatile investment is highly variable and is associated with the ris
 This means at any point, the accumulated Corpus can go down and the recovery will need huge returns after the event.
 :::
 
-### Secured debt investment
+### Secured non volatile investment
 
 Pay-off of secured non volatile instruments are highly stable and narrowly range bound. They historically fail to beat inflation. They carry a risk of `loss of opportunity for wealth creation` in long run.
 
