@@ -27,7 +27,7 @@
     "href": "Practical Economics/Personal finance/speculation.html",
     "title": "Risk mitigation",
     "section": "",
-    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small amount regularly for a potential huge pay-off following an extreme rare event than to gain small amount regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given investment has got a speculative component to it and there by returns in future are uncertain",
+    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small amount regularly for a potential huge pay-off following an extreme rare event than to gain small amount regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given action has got a speculative component to it and there by returns in future are uncertain",
     "crumbs": [
       "Home",
       "Practical Economics",
@@ -40,7 +40,7 @@
     "href": "Practical Economics/Personal finance/speculation.html#barbell-strategy",
     "title": "Risk mitigation",
     "section": "",
-    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small amount regularly for a potential huge pay-off following an extreme rare event than to gain small amount regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given investment has got a speculative component to it and there by returns in future are uncertain",
+    "text": "Remember\n\n\n\nFundamental rule is never to loose the principal.\nHence the pay-off is more important than the probability of success.\nIt is always better to loose small amount regularly for a potential huge pay-off following an extreme rare event than to gain small amount regularly with a potential to loose substantially due to an extreme rare event (including run away inflation).\nAny given action has got a speculative component to it and there by returns in future are uncertain",
     "crumbs": [
       "Home",
       "Practical Economics",
@@ -49,11 +49,11 @@
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html#capital-lose-in-equity",
-    "href": "Practical Economics/Personal finance/speculation.html#capital-lose-in-equity",
+    "objectID": "Practical Economics/Personal finance/speculation.html#capital-lose-due-to-volatility",
+    "href": "Practical Economics/Personal finance/speculation.html#capital-lose-due-to-volatility",
     "title": "Risk mitigation",
-    "section": "Capital lose in equity",
-    "text": "Capital lose in equity\nAssume a game of dice. It has got 6 sides. You are invited to play a game with following rules using a sum of ₹ 100.\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYou loose 50 %\n\n\n2\nYour ₹ 100 become 105\n\n\n3\nYour ₹ 100 become 115\n\n\n4\nYour ₹ 100 become 120\n\n\n5\nYour ₹ 100 become 130\n\n\n6\nYour ₹ 100 become 95\n\n\n\nWill you play the game?\nIf we calculate the probability of success, it is 2/3 or 67 %, if you play the game for 6 times. But it is naive to calculate like this.\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 98.16. If you play this game your capital will erode and if you go on playing, in the long run you will loose your ₹ 100.\nLet us play a similar game with following pay-off:\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYour ₹ 100 become 120\n\n\n2\nYour ₹ 100 become 97\n\n\n3\nYour ₹ 100 become 97\n\n\n4\nYour ₹ 100 become 97\n\n\n5\nYour ₹ 100 become 97\n\n\n6\nYour ₹ 100 become 97\n\n\n\nWill you play the game?\nIf we calculate the the probability of success, it is 1/6 or 17 %, and may assume it is not profitable to play the game. But it is naive to calculate like this.\n\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 100.5. If you play this game your capital will appreciate and if you go on playing, in the long run you will build wealth with your ₹ 100.",
+    "section": "Capital lose due to volatility",
+    "text": "Capital lose due to volatility\nAssume a game of dice. It has got 6 sides. You are invited to play a game with following rules using a sum of ₹ 100.\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYou loose 50 %\n\n\n2\nYour ₹ 100 become 105\n\n\n3\nYour ₹ 100 become 115\n\n\n4\nYour ₹ 100 become 120\n\n\n5\nYour ₹ 100 become 130\n\n\n6\nYour ₹ 100 become 95\n\n\n\nWill you play the game?\nIf we calculate the probability of success, it is 2/3 or 67 %, if you play the game for 6 times. But it is naive to calculate like this.\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 98.16. If you play this game your capital will erode and if you go on playing, in the long run you will loose your ₹ 100.\nLet us play a similar game with following pay-off:\n\n\n\nNumber on the dice\nReward\n\n\n\n\n1\nYour ₹ 100 become 120\n\n\n2\nYour ₹ 100 become 97\n\n\n3\nYour ₹ 100 become 97\n\n\n4\nYour ₹ 100 become 97\n\n\n5\nYour ₹ 100 become 97\n\n\n6\nYour ₹ 100 become 97\n\n\n\nWill you play the game?\nIf we calculate the the probability of success, it is 1/6 or 17 %, and may assume it is not profitable to play the game. But it is naive to calculate like this.\n\n\nGeometric mean\nWe should calculate the geometric mean in such situations. It is ₹ 100.5. If you play this game your capital will appreciate and if you go on playing, in the long run you will build wealth with your ₹ 100.",
     "crumbs": [
       "Home",
       "Practical Economics",
@@ -62,11 +62,11 @@
     ]
   },
   {
-    "objectID": "Practical Economics/Personal finance/speculation.html#opportunity-cost-of-secured-debt",
-    "href": "Practical Economics/Personal finance/speculation.html#opportunity-cost-of-secured-debt",
+    "objectID": "Practical Economics/Personal finance/speculation.html#opportunity-cost-of-secured-non-volatile-instrument",
+    "href": "Practical Economics/Personal finance/speculation.html#opportunity-cost-of-secured-non-volatile-instrument",
     "title": "Risk mitigation",
-    "section": "Opportunity cost of secured debt",
-    "text": "Opportunity cost of secured debt\nA corpus of ₹100 will grow to ₹1147 over 50 years if the interest is 5%. If the average inflation over the period is 6 %, that amount will be equivalent to ₹ 62 in today’s money. Forget about what happens if there is a hyper-inflation like scenario.\n\nEquity investment\nPay-off of equity is highly variable and is associated with the risk of more than 15% draw-down at any point in time ( around \\(1/11\\) odds, historically). Previous experience show that the negative draw-downs are larger than the + ones. There is \\(1/11\\) odds of stumbling up on negative shock at any time.\n\n\n\n\n\n\nProblem\n\n\n\nThis means at any point, the accumulated Corpus can go down and the recovery will need huge returns after the event.\n\n\n\n\nSecured debt investment\nPay-off of secured debt instruments are highly stable and narrowly range bound. They historically fail to beat inflation. They carry a risk of loss of opportunity for wealth creation in long run.",
+    "section": "Opportunity cost of secured non volatile instrument",
+    "text": "Opportunity cost of secured non volatile instrument\nA corpus of ₹100 will grow to ₹1147 over 50 years if the interest is 5%. If the average inflation over the period is 6 %, that amount will be equivalent to ₹ 62 in today’s money. Forget about what happens if there is a hyper-inflation like scenario.\n\nVolatile investment\nPay-off of volatile investment is highly variable and is associated with the risk of more than 15% draw-down at any point in time ( around \\(1/11\\) odds, historically). Previous experience show that the negative draw-downs are larger than the + ones. There is \\(1/11\\) odds of stumbling up on negative shock at any time.\n\n\n\n\n\n\nProblem\n\n\n\nThis means at any point, the accumulated Corpus can go down and the recovery will need huge returns after the event.\n\n\n\n\nSecured debt investment\nPay-off of secured non volatile instruments are highly stable and narrowly range bound. They historically fail to beat inflation. They carry a risk of loss of opportunity for wealth creation in long run.",
     "crumbs": [
       "Home",
       "Practical Economics",
@@ -79,7 +79,7 @@
     "href": "Practical Economics/Personal finance/speculation.html#strategy-i",
     "title": "Risk mitigation",
     "section": "STRATEGY I",
-    "text": "STRATEGY I\nKeep almost everything in highly secure debt instruments and buy small amounts of highly speculative assets regularly, to cash in positive asymmetry.\n\n\n\n\n\n\nProblem with stand-alone secure debt\n\n\n\nThis will insulate the Corpus from all the negative Shock.\nThe Corpus will insulate itself from the positive shocks as well.\nPortfolio will neglect and fail to gain from what-ever upward gains it can obtain from equity investment and the return will be generally low to beat inflation.",
+    "text": "STRATEGY I\nKeep almost everything in highly secure no volatile instruments and buy small amounts of highly speculative assets regularly, to cash in positive asymmetry.\n\n\n\n\n\n\nProblem with stand-alone secure debt\n\n\n\nThis will insulate the Corpus from all the negative Shock.\nThe Corpus will insulate itself from the positive shocks as well.\nPortfolio will neglect and fail to gain from what-ever upward gains it can obtain from equity investment and the return will be generally low to beat inflation.",
     "crumbs": [
       "Home",
       "Practical Economics",
@@ -92,7 +92,7 @@
     "href": "Practical Economics/Personal finance/speculation.html#strategy-ii",
     "title": "Risk mitigation",
     "section": "STRATEGY II",
-    "text": "STRATEGY II\nPut everything in equity & buy an insurance or store of value speculative assets against negative draw downs.\nOn problem with Strategy II is how to face Japan’s lost decade like situation - a situation where equity is range bound, potentially for decades. But such situations tend to remain more deflationary than inflation prone and one may expect less capital erosion.\n\n\n\n\n\n\nDisclaimer\n\n\n\n\nOpinions are for informational purposes only and not personalized investment advice.\nReaders should consult a qualified financial advisor before making any investment decisions.",
+    "text": "STRATEGY II\nPut everything in volatile instrument & buy an insurance or store of value speculative assets against negative draw downs.\nOn problem with Strategy II is how to face Japan’s lost decade like situation - a situation where the said instrument is range bound, potentially for decades. But such situations tend to remain more deflationary than inflation prone and one may expect less capital erosion.\n\n\n\n\n\n\nDisclaimer\n\n\n\n\nOpinions are for informational purposes only and not personalized investment advice.\nReaders should consult a qualified financial advisor before making any investment decisions.",
     "crumbs": [
       "Home",
       "Practical Economics",
