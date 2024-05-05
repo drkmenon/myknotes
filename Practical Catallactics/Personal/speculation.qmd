@@ -79,7 +79,7 @@ Pay-off of secured non volatile instruments are highly stable and narrowly range
 Keep almost everything in highly secure non volatile instruments and buy small amounts of highly speculative ones regularly, to cash in positive asymmetry.
 
 ::: callout-warning
-## Problem with stand-alone secure debt 
+## Problem with stand-alone secure debt
 
 This will insulate the Corpus from all the negative Shock.
 
@@ -92,7 +92,7 @@ Portfolio will neglect and fail to gain from what-ever upward gains it can obtai
 
 Put everything in volatile instrument & buy an insurance or store of value speculative assets against negative draw downs.
 
-On problem with Strategy II is how to face Japan's lost decade like situation - a situation where the said instrument is range bound, potentially for decades. But such situations tend to remain more deflationary than inflation prone and one may expect less capital erosion.
+One problem with Strategy II is how to face Japan's lost decade like situation - a situation where the said instrument is range bound, potentially for decades. But such situations tend to remain more deflationary than inflation prone and one may expect less capital erosion.
 
 ::: callout-caution
 ## Disclaimer
