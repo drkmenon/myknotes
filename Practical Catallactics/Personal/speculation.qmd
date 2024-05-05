@@ -37,6 +37,8 @@ If we calculate the probability of success, it is 2/3 or 67 %, if you play the g
 
 We should calculate the geometric mean in such situations. It is `₹ 98.16`. If you play this game your capital will erode and if you go on playing, in the long run you will loose your ₹ 100.
 
+## Capital preservation
+
 Let us play a similar game with following pay-off:
 
 | Number on the dice | Reward                |
@@ -94,7 +96,7 @@ Put everything in volatile instrument & buy an insurance or store of value specu
 
 One problem with Strategy II is how to face Japan's lost decade like situation - a situation where the said instrument is range bound, potentially for decades. But such situations tend to remain more deflationary than inflation prone and one may expect less capital erosion.
 
-::: callout-caution
+::: {#cau-disclaimer .callout-caution}
 ## Disclaimer
 
 -   Opinions are for informational purposes only and not personalized investment advice.

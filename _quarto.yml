@@ -12,7 +12,8 @@ website:
     contents: auto
   page-navigation: true
   back-to-top-navigation: true
-  page-footer: "Copyright 2024, Kishore Puthezhath" 
+  page-footer: 
+   "Copyright 2024 @ Kishore Puthezhath, Opinions are for informational purposes only and not personalized advice"
   reader-mode: true
     
 format:
