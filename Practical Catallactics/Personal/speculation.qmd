@@ -43,7 +43,7 @@ Let us play a similar game with following pay-off:
 
 | Number on the dice | Reward                |
 |--------------------|-----------------------|
-| 1                  | Your ₹ 100 become 120 |
+| 1                  | Your ₹ 100 become 130 |
 | 2                  | Your ₹ 100 become 97  |
 | 3                  | Your ₹ 100 become 97  |
 | 4                  | Your ₹ 100 become 97  |
@@ -56,11 +56,13 @@ If we calculate the the probability of success, it is 1/6 or 17 %, and may assum
 
 ### Geometric mean
 
-We should calculate the geometric mean in such situations. It is `₹ 100.5`. If you play this game your capital will appreciate and if you go on playing, in the long run you will build wealth with your ₹ 100.
+We should calculate the geometric mean in such situations. It is `₹ 101.85`. If you play this game your capital will appreciate and if you go on playing, in the long run you will build wealth with your ₹ 100.
 
 ## Opportunity cost of secured non volatile instrument
 
 A corpus of ₹100 will grow to ₹1147 over 50 years if the interest is 5%. If the average inflation over the period is 6 %, that amount will be equivalent to ₹ 62 in today's money. `Forget about what happens if there is a hyper-inflation like scenario.`
+
+> A diversified portfolio behaves like a secured non volatile instrument globally
 
 ### Volatile instrument
 
@@ -102,5 +104,3 @@ One problem with Strategy II is how to face Japan's lost decade like situation -
 -   Opinions are for informational purposes only and not personalized investment advice.
 -   Readers should consult a qualified financial advisor before making any investment decisions.
 :::
-
-

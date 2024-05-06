@@ -22,7 +22,7 @@ title: "Charcot"
 #### Charcot vs Infection
 
 | Charcot                               | Infection                                  |
-|----------------------------------|--------------------------------------|
+|---------------------------------------|--------------------------------------------|
 | Limb elevation decreases inflammation | No                                         |
 | No                                    | Increased ESR,CRP,IL6                      |
 | No                                    | Istope (In +Tc)scan positive, PET positive |
