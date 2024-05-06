@@ -45,6 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -493,44 +496,44 @@ cookieconsent.run({
 
 <section id="action-potential" class="level2">
 <h2 class="anchored" data-anchor-id="action-potential">Action potential</h2>
-<p><img src="images/ap.PNG" class="img-fluid"></p>
+<p><a href="images/ap.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/ap.PNG" class="img-fluid"></a></p>
 </section>
 <section id="articular-cartilage" class="level2">
 <h2 class="anchored" data-anchor-id="articular-cartilage">Articular cartilage</h2>
-<p><img src="images/artc.PNG" class="img-fluid"></p>
+<p><a href="images/artc.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/artc.PNG" class="img-fluid"></a></p>
 </section>
 <section id="femoral-head-supply" class="level2">
 <h2 class="anchored" data-anchor-id="femoral-head-supply">Femoral head supply</h2>
-<p><img src="images/bldfr.PNG" class="img-fluid"></p>
+<p><a href="images/bldfr.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="images/bldfr.PNG" class="img-fluid"></a></p>
 </section>
 <section id="brachial-plexus" class="level2">
 <h2 class="anchored" data-anchor-id="brachial-plexus">Brachial Plexus</h2>
-<p><img src="images/brpl.PNG" class="img-fluid"></p>
+<p><a href="images/brpl.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="images/brpl.PNG" class="img-fluid"></a></p>
 </section>
 <section id="carpal-tunnel" class="level2">
 <h2 class="anchored" data-anchor-id="carpal-tunnel">Carpal Tunnel</h2>
-<p><img src="images/cts.PNG" class="img-fluid"></p>
-<p><img src="images/cts2.PNG" class="img-fluid"></p>
+<p><a href="images/cts.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="images/cts.PNG" class="img-fluid"></a></p>
+<p><a href="images/cts2.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="images/cts2.PNG" class="img-fluid"></a></p>
 </section>
 <section id="cement" class="level2">
 <h2 class="anchored" data-anchor-id="cement">Cement</h2>
-<p><img src="images/cement.PNG" class="img-fluid"></p>
+<p><a href="images/cement.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="images/cement.PNG" class="img-fluid"></a></p>
 </section>
 <section id="motion-segment" class="level2">
 <h2 class="anchored" data-anchor-id="motion-segment">Motion segment</h2>
-<p><img src="images/motion.PNG" class="img-fluid"></p>
+<p><a href="images/motion.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="images/motion.PNG" class="img-fluid"></a></p>
 </section>
 <section id="femoral-teardrop" class="level2">
 <h2 class="anchored" data-anchor-id="femoral-teardrop">Femoral teardrop</h2>
-<p><img src="images/teardp.PNG" class="img-fluid"></p>
+<p><a href="images/teardp.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="images/teardp.PNG" class="img-fluid"></a></p>
 </section>
 <section id="spinal-cord" class="level2">
 <h2 class="anchored" data-anchor-id="spinal-cord">Spinal cord</h2>
-<p><img src="images/spcd.png" class="img-fluid"></p>
+<p><a href="images/spcd.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img src="images/spcd.png" class="img-fluid"></a></p>
 </section>
 <section id="nerve" class="level2">
 <h2 class="anchored" data-anchor-id="nerve">Nerve</h2>
-<p><img src="images/nerve.PNG" class="img-fluid"></p>
+<p><a href="images/nerve.PNG" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img src="images/nerve.PNG" class="img-fluid"></a></p>
 
 
 </section>
@@ -1115,6 +1118,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom","selector":".lightbox","loop":false});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
