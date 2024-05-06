@@ -7,7 +7,15 @@ date: 7/19/2019
 
 ### Introduction
 
-We have the entire Orthopaedic knowledge available on-line through the wonderful platform of Orthobullets . We have got standard textbooks like Campbell's Operative Orthopaedics, Apley's system of Orthopaedics and Fractures and many more. Our teachers are excellent and they teach their experience in orthopaedics passionately. However, the overall pass percentage(starting from 2009) for Part 1 is around 68% and for the Part 2 it is a little below 60%. Theoretically, after forking out more than £2ooo, the possibility of yourself passing both parts in a single attempt is around 40%. This is even lower for International examination. Why it is so? There could be many potential reasons.
+::: {.callout-tip}
+## Statistics
+
+We have the entire Orthopaedic knowledge available on-line through the wonderful platform of Orthobullets . We have got standard textbooks like Campbell's Operative Orthopaedics, Apley's system of Orthopaedics and Fractures and many more. Our teachers are excellent and they teach their experience in orthopaedics passionately. However, the overall pass percentage(starting from 2009) for Part 1 is around 68% and for the Part 2 it is a little below 60%.
+:::
+
+Theoretically, after forking out more than £2ooo, the possibility of yourself passing both parts in a single attempt is around 40%. This is even lower for International examination. 
+
+`Why it is so? There could be many potential reasons.`
 
 Here we will try to stick on to only the critical decision of choosing the study materials in the form of textbooks or on-line resources. The choice of study material is down to individual preference. Some prefer textbooks while others choose to use websites. Two of my friends claim to pass the Part 1 after studying only Orthobullets question. This could be entirely possible, but I cannot understand how. Hence I here-by label them as outliers!
 
