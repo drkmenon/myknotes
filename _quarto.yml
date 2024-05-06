@@ -22,6 +22,9 @@ website:
   google-analytics:
     tracking-id: "G-7GYDLCJCZE"
     anonymize-ip: true
+  margin-header: 
+    "Kishore's official website"
+  open-graph: true
     
 format:
   html:

@@ -2,8 +2,6 @@
 title: "Charcot"
 ---
 
-## Charcot
-
 #### Definition
 
 `It is a non infectious,destructive process culminating in dislocations and periarticular fractures in patients with peripheral neuropathy and loss of protective sensations`
