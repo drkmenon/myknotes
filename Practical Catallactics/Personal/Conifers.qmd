@@ -46,7 +46,7 @@ Why do they yield to the new species when their productivity is greater than the
 
 `The giant sequoias retreated to tougher terrains seeing low weeds interspersed in their under-story for a reason.`
 
-#### Factors Affecting Plant Productivity
+### Factors Affecting Plant Productivity
 
 ![](images/Drawings%20-%20page%2013.svg)
 
@@ -59,7 +59,7 @@ Productivity of a plant is proportional to:
 
 > `Ultimately what matters here is how much you allocate for the growth (Size of Canopy) and how much capital is preserved in that process. If there is seasonal loss of leaves (Capital), ultimate productivity will be low.`
 
-#### Efficiency v/s Safety
+### Efficiency v/s Safety
 
 To improve efficiency of water carriage, the Xylem vessels of the angiosperms are larger than gymnosperm tracheids. The rate of flow of water is proportional to the square of the diameter of the vessel.
 
@@ -67,13 +67,13 @@ To improve efficiency of water carriage, the Xylem vessels of the angiosperms ar
 
 ***Trees with safer narrower tracheid vessels are in general evergreen and grow in water-stressed areas.***
 
-#### Deciduous v/s Evergreen
+### Deciduous v/s Evergreen
 
 As we saw previously, shedding leaves periodically is an ingenious way of getting rid of inefficiently embolized conductive systems before the flush of new leaves. They prefer less water-stressed areas and their prolific growth presupposes unlimited abundance of factors of production.
 
 > More-over, deciduous nature reduce the opportunity to create a bigger Canopy
 
-#### Problem of Prolific Growth
+### Problem of Prolific Growth
 
 Rapid growth and proliferation in the younger stage attract `THIRD PARTY` players in the form of Fire, Fungus and Herbivorous `before defence mechanisms are developed`.
 
@@ -83,7 +83,7 @@ Rapid growth and proliferation in the younger stage attract `THIRD PARTY` player
 With these points in mind, let's explore the key differences between Gymnosperms and Angiosperms
 :::
 
-#### Differences Between Gymnosperms and Angiosperms
+### Differences Between Gymnosperms and Angiosperms
 
 Gymnosperms have:
 
@@ -103,7 +103,7 @@ They have:
 -   Young angiosperms take less time to reach maximal leaf area
 -   Have more foliage and more carbon income for growth allocation and anti-herbivore defence in the early growth period
 
-#### What does that mean?
+### What does that mean?
 
 Because of limitations of their transport system, gymnosperms have a lower rate of maximum dry matter production than angiosperms under **unlimited growing conditions**.
 
