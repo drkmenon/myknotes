@@ -25,6 +25,7 @@ website:
   margin-header: 
     "Kishore's official website"
   open-graph: true
+  
     
 format:
   html:
@@ -35,5 +36,6 @@ format:
     toc: true
 
 editor: visual
+bibliography: references.bib
 
  
