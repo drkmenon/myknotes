@@ -6,7 +6,7 @@ order: 4
 
 ## Scenario
 
-Current premium for term insurance for a person aged less 25 years for 1 Cr: 5500 rupees/year.
+Current premium for term insurance for a person aged less than 25 years for a sum assurance of 1 Cr: 5500 rupees/year.
 
 This year's total premium for SSS (all three): around 65500/year.
 
@@ -19,6 +19,11 @@ Assume we pay the premium for roughly 23 years
 Joins all three SSS today at age 25.
 
 Total premium for 23 years with 7% inflation (**`premium is not capped, so this is a conservative estimate.Premium was 12000/year 10 years back, and the inflation for last 10 years is 18%`**)
+
+:::{.callout-tip}
+## Inflation
+Here what we are talking about is how much the premium paid has increased over a period of time, not the general consumer inflation
+:::
 
 Total Payment: 35,00,067 Rupees (35 Lakh rupees)
 

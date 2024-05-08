@@ -1,7 +1,7 @@
 ---
 title: Productivity
 bibliography: references.bib
-draft: true
+
 nocite: |
  @bond1989
 ---
