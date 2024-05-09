@@ -6,7 +6,7 @@ This compilation represents a collection of notes and insights I have gathered o
 
 Everything that I learn, do or write will be on this site sooner or later. I hope that you find the content useful and that you will share it with others. Good luck!
 
-## Contact me
+## Contact me {#sec-contact-me}
 
 I teach at a medical school, Amala Institute of Medical Sciences and my office address is below:
 

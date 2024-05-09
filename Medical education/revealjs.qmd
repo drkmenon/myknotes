@@ -12,7 +12,7 @@ format:
     multiplex: true
 ---
 
-## Individual slides
+## Individual slides {#sec-individual-slides}
 
 -   They are marked with \# or \## and the title
 
@@ -106,3 +106,7 @@ content before
 . . .
 
 Content after
+
+## Go back to knotes
+
+### [knotes](https://www.knotes.co.in)
