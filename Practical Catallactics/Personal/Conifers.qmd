@@ -8,14 +8,14 @@ nocite: |
 
 ## Tortoise turning into Hare
 
-The fascinating story of Gymnosperm persistence
+`The fascinating story of Gymnosperm persistence`
 
 ::: callout-note
 ## Productivity and fitness
 
 Fitness of a plant is related to its productivity. In that sense, productivity determines the ranking order of competitive ability of coexisting species.
 
-**Wide distribution and diversity not necessarily mean productivity**
+**Wide distribution and diversity not necessarily mean fitness**
 :::
 
 ### Gymnosperms v/s Angiosperms
@@ -41,7 +41,7 @@ Pinus longaeva, another Gymnosperm, is 4855 years old and still counting.
 
 Why are they confined to rigorous environments?
 
-Why do they yield to the new species when their productivity is greater than them?
+Why do they yield to the new species when their productivity is superior?
 :::
 
 `The giant sequoias retreated to tougher terrains seeing low weeds interspersed in their under-story for a reason.`
