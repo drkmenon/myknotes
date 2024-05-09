@@ -3,22 +3,39 @@ title: "Revealjs for Presentation"
 subtitle: "A quick guide"
 author: "By Kishore Puthezhath"
 format:
-  revealjs:
+  html:
     logo: images/tie-01.png
     footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
     smaller: true
     scrollable: true
     chalkboard: true
     multiplex: true
+    code-copy: true
 ---
+
+## **Reveal.J.S**
+
+Reveal.j.s is an open source HTML presentation frame-work. It requires only a web browser for fully featured presentation and Can be easily shared as a standalone webpage
+
+## Creating Slides 
+
+### Title Slide 
+
+Automatically Created from YAML
 
 ## Individual slides {#sec-individual-slides}
 
--   They are marked with \# or \## and the title
+They are marked with \# or \## and the slides are delineated using headings. 
 
 ## Incremental Points
 
-use div, i.e, ":::{incremental} content list :::"
+``` r
+:::{.incremental} 
+- This comes first
+
+- This second
+:::
+```
 
 ::: incremental
 -   This comes first
@@ -28,11 +45,23 @@ use div, i.e, ":::{incremental} content list :::"
 
 ## Columns
 
-use div, ":::{.columns} This is outside :::{.column .fragment} content 1 :::
+```` r
+``` 
+:::{.columns} 
+This is outside the column, may be heading
+:::{.column .fragment .width="50%"} 
+content 1 
+:::
 
-::: content 2 {.column .fragment} :::
+::: {.column .fragment} 
+content 2 
 
-This is outside The `.fragment` span style helps to achieve sequencial appearance, just like `.incremental` in list. `.incremental` works only with list :::"
+:::
+This is outside the column, again a legent or something like that .incremental works only with list 
+:::
+#The .fragment span style helps to achieve sequencial appearance, just like .incremental in list.
+```
+````
 
 ::: columns
 
@@ -50,14 +79,23 @@ content 2
 
 ------------------------------------------------------------------------
 
-This is outside the column, again a leagent or something like that
+This is outside the column, again a legent or something like that
 :::
 
 ## Footnote and Speaker notes
 
-div ":::aside ::: for footnote"
+``` r
+:::aside
+for footnote
+:::
+```
 
-"::: notes ::: for speaker notes. Hit `s` to reveal speaker notes"
+``` r
+::: notes
+for speaker notes.
+::: 
+Hit `s` to reveal speaker notes
+```
 
 ::: aside
 This is a footnote
@@ -83,7 +121,16 @@ Go to visual [editor]{style="color: red"} in `r`
 
 ## Tabsets
 
-"::: panel-tabset \### Tab A content \### Tab B content :::" -----
+``` r
+::: {.panel-tabset}
+### Tab A 
+content 
+### Tab B
+others
+:::
+```
+
+------------------------------------------------------------------------
 
 ## Tabsets
 
@@ -99,7 +146,11 @@ others
 
 ## Pause
 
-"content before . . . Content after"
+``` r
+content before 
+. . . 
+Content after
+```
 
 content before
 

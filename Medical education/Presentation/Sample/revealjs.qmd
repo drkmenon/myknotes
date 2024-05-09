@@ -1,0 +1,154 @@
+---
+title: "sample Presentation"
+subtitle: "A quick guide"
+author: "By Kishore Puthezhath"
+format:
+  revealjs:
+    logo: images/tie-01.png
+    footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
+    smaller: true
+    scrollable: true
+    chalkboard: true
+    multiplex: true
+    code-copy: true
+publish: false
+---
+
+## Individual slides {#sec-individual-slides}
+
+-   They are marked with \# or \## and the title
+
+## Incremental Points
+
+``` r
+:::{.incremental} 
+- This comes first
+
+- This second
+:::
+```
+
+::: incremental
+-   This comes first
+
+-   This second
+:::
+
+## Columns
+
+```` r
+``` 
+:::{.columns} 
+This is outside the column, may be heading
+:::{.column .fragment .width="50%"} 
+content 1 
+:::
+
+::: {.column .fragment} 
+content 2 
+
+:::
+This is outside the column, again a legent or something like that .incremental works only with list 
+:::
+#The .fragment span style helps to achieve sequencial appearance, just like .incremental in list.
+```
+````
+
+::: columns
+
+------------------------------------------------------------------------
+
+This is outside the column, may be heading
+
+::: {.column .fragment width="20%"}
+content 1
+:::
+
+::: {.column .fragment width="80%"}
+content 2
+:::
+
+------------------------------------------------------------------------
+
+This is outside the column, again a legent or something like that
+:::
+
+## Footnote and Speaker notes
+
+``` r
+:::aside
+for footnote
+:::
+```
+
+``` r
+::: notes
+for speaker notes.
+::: 
+Hit `s` to reveal speaker notes
+```
+
+::: aside
+This is a footnote
+:::
+
+::: notes
+This is a speaker note
+:::
+
+## Font colour
+
+::: columns
+Go to visual [editor]{style="color: red"} in `r`
+
+::: {.column .fragment width="50%"}
+![Highlight the word and open span from format in visual editor](Untitled/colour1.png)
+:::
+
+::: {.column .fragment width="50%"}
+![enter the colour of choice after color:](Untitled/colour2.png)
+:::
+:::
+
+## Tabsets
+
+``` r
+::: {.panel-tabset}
+### Tab A 
+content 
+### Tab B
+others
+:::
+```
+
+------------------------------------------------------------------------
+
+## Tabsets
+
+::: panel-tabset
+### Tab A
+
+content
+
+### Tab B
+
+others
+:::
+
+## Pause
+
+``` r
+content before 
+. . . 
+Content after
+```
+
+content before
+
+. . .
+
+Content after
+
+## Go back to knotes
+
+### [knotes](https://www.knotes.co.in)

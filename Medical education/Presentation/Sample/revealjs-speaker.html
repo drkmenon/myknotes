@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<link href="../logo.png" rel="icon" type="image/png">
-<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-html/tabby.min.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../../../logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.4.553">
 
   <meta name="author" content="By Kishore Puthezhath">
-  <title>knotes - Revealjs for Presentation</title>
+  <title>knotes - sample Presentation</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -32,8 +32,73 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
+    /* CSS for syntax highlighting */
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
+  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto.css">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7GYDLCJCZE"></script>
 
   <script type="text/plain" cookie-consent="tracking">
@@ -61,12 +126,12 @@
   });
   </script> 
     
-  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link href="../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../../../site_libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="../../../site_libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="../../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
   .callout {
@@ -353,7 +418,7 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="knotes - Revealjs for Presentation">
+<meta property="og:title" content="knotes - sample Presentation">
 <meta property="og:description" content="A quick guide">
 <meta property="og:site_name" content="knotes">
 </head>
@@ -362,7 +427,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Revealjs for Presentation</h1>
+  <h1 class="title">sample Presentation</h1>
   <p class="subtitle">A quick guide</p>
 
 <div class="quarto-title-authors">
@@ -382,7 +447,11 @@ By Kishore Puthezhath
 </section>
 <section id="incremental-points" class="slide level2">
 <h2>Incremental Points</h2>
-<p>use div, i.e, “:::{incremental} content list :::”</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="sc">:::</span>{.incremental} </span>
+<span id="cb1-2"><a></a><span class="sc">-</span> This comes first</span>
+<span id="cb1-3"><a></a></span>
+<span id="cb1-4"><a></a><span class="sc">-</span> This second</span>
+<span id="cb1-5"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div>
 <ul>
 <li class="fragment"><p>This comes first</p></li>
@@ -392,21 +461,38 @@ By Kishore Puthezhath
 </section>
 <section id="columns" class="slide level2">
 <h2>Columns</h2>
-<p>use div, “:::{.columns} This is outside :::{.column .fragment} content 1 :::</p>
-<p>::: content 2 {.column .fragment} :::</p>
-<p>This is outside The <code>.fragment</code> span style helps to achieve sequencial appearance, just like <code>.incremental</code> in list. <code>.incremental</code> works only with list :::”</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a></a><span class="st">```</span><span class="at"> </span></span>
+<span id="cb2-2"><a></a><span class="at">:::{.columns} </span></span>
+<span id="cb2-3"><a></a><span class="at">This is outside the column, may be heading</span></span>
+<span id="cb2-4"><a></a><span class="at">:::{.column .fragment .width="50%"} </span></span>
+<span id="cb2-5"><a></a><span class="at">content 1 </span></span>
+<span id="cb2-6"><a></a><span class="at">:::</span></span>
+<span id="cb2-7"><a></a></span>
+<span id="cb2-8"><a></a><span class="at">::: {.column .fragment} </span></span>
+<span id="cb2-9"><a></a><span class="at">content 2 </span></span>
+<span id="cb2-10"><a></a></span>
+<span id="cb2-11"><a></a><span class="at">:::</span></span>
+<span id="cb2-12"><a></a><span class="at">This is outside the column, again a legent or something like that .incremental works only with list </span></span>
+<span id="cb2-13"><a></a><span class="at">:::</span></span>
+<span id="cb2-14"><a></a><span class="at">#The .fragment span style helps to achieve sequencial appearance, just like .incremental in list.</span></span>
+<span id="cb2-15"><a></a><span class="st">```</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="columns">
 <hr><p>This is outside the column, may be heading</p><div class="column fragment" style="width:20%;">
 <p>content 1</p>
 </div><div class="column fragment" style="width:80%;">
 <p>content 2</p>
-</div><hr><p>This is outside the column, again a leagent or something like that</p>
+</div><hr><p>This is outside the column, again a legent or something like that</p>
 </div>
 </section>
 <section id="footnote-and-speaker-notes" class="slide level2">
 <h2>Footnote and Speaker notes</h2>
-<p>div “:::aside ::: for footnote”</p>
-<p>“::: notes ::: for speaker notes. Hit <code>s</code> to reveal speaker notes”</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a></a><span class="sc">:::</span>aside</span>
+<span id="cb3-2"><a></a><span class="cf">for</span> footnote</span>
+<span id="cb3-3"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a></a><span class="sc">:::</span> notes</span>
+<span id="cb4-2"><a></a><span class="cf">for</span> speaker notes.</span>
+<span id="cb4-3"><a></a><span class="sc">:::</span> </span>
+<span id="cb4-4"><a></a>Hit <span class="st">`</span><span class="at">s</span><span class="st">`</span> to reveal speaker notes</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 <aside class="notes">
 <p>This is a speaker note</p>
@@ -430,14 +516,14 @@ By Kishore Puthezhath
 <p>Go to visual <span style="color: red">editor</span> in <code>r</code></p><div class="column fragment" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="images/colour1.png"></p>
+<p><img data-src="Untitled/colour1.png"></p>
 <figcaption>Highlight the word and open span from format in visual editor</figcaption>
 </figure>
 </div>
 </div><div class="column fragment" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="images/colour2.png"></p>
+<p><img data-src="Untitled/colour2.png"></p>
 <figcaption>enter the colour of choice after color:</figcaption>
 </figure>
 </div>
@@ -446,7 +532,12 @@ By Kishore Puthezhath
 </section>
 <section id="tabsets" class="slide level2">
 <h2>Tabsets</h2>
-<p>“::: panel-tabset ### Tab A content ### Tab B content :::” —–</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a></a><span class="sc">:::</span> {.panel<span class="sc">-</span>tabset}</span>
+<span id="cb5-2"><a></a><span class="do">### Tab A </span></span>
+<span id="cb5-3"><a></a>content </span>
+<span id="cb5-4"><a></a><span class="do">### Tab B</span></span>
+<span id="cb5-5"><a></a>others</span>
+<span id="cb5-6"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="tabsets-1" class="slide level2">
 <h2>Tabsets</h2>
@@ -464,7 +555,9 @@ By Kishore Puthezhath
 </section>
 <section id="pause" class="slide level2">
 <h2>Pause</h2>
-<p>“content before . . . Content after”</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a></a>content before </span>
+<span id="cb6-2"><a></a>. . . </span>
+<span id="cb6-3"><a></a>Content after</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>content before</p>
 <div class="fragment">
 <p>Content after</p>
@@ -485,22 +578,22 @@ By Kishore Puthezhath
   </div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="../site_libs/revealjs/dist/reveal.js"></script>
+  <script src="../../../site_libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
-  <script src="../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
-  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
-  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../../../site_libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>
