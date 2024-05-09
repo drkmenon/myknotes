@@ -1,0 +1,62 @@
+---
+title: "Basic Science"
+filters:
+  - naquiz
+---
+
+## Question 1
+::::: {.question}
+Bone is a:
+
+:::: {.choices}
+
+::: {.choice .correct-choice}
+Specialised connective tissue
+:::
+
+::: {.choice}
+Specialised connected tissue
+:::
+
+::: {.choice}
+Generalised connected tissue
+:::
+
+::: {.choice}
+Generalised connective tissue
+:::
+
+:::{.button-clear title="Clear answer" button-class="btn btn-light btn-xs"}
+:::
+
+::::
+:::::
+
+## Question 2
+
+::::: {.question}
+Most abundant collagen in bone:
+
+:::: {.choices}
+
+::: {.choice .correct-choice}
+Type 1
+:::
+
+::: {.choice}
+Type 2
+:::
+
+::: {.choice}
+Type 3
+:::
+
+::: {.choice}
+Type 4
+:::
+
+:::{.button-clear title="Clear answer" button-class="btn btn-light btn-xs"}
+:::
+
+::::
+:::::
