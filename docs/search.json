@@ -1395,7 +1395,7 @@
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#sec-individual-slides",
     "href": "Medical education/Presentation/Sample/revealjs.html#sec-individual-slides",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Individual slides",
     "text": "Individual slides\n\nThey are marked with # or ## and the title",
     "crumbs": [
@@ -1403,13 +1403,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#incremental-points",
     "href": "Medical education/Presentation/Sample/revealjs.html#incremental-points",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Incremental Points",
     "text": "Incremental Points\n:::{.incremental} \n- This comes first\n\n- This second\n:::\n\n\nThis comes first\nThis second",
     "crumbs": [
@@ -1417,13 +1417,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#columns",
     "href": "Medical education/Presentation/Sample/revealjs.html#columns",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Columns",
     "text": "Columns\n``` \n:::{.columns} \nThis is outside the column, may be heading\n:::{.column .fragment .width=\"50%\"} \ncontent 1 \n:::\n\n::: {.column .fragment} \ncontent 2 \n\n:::\nThis is outside the column, again a legent or something like that .incremental works only with list \n:::\n#The .fragment span style helps to achieve sequencial appearance, just like .incremental in list.\n```\n\nThis is outside the column, may be heading\ncontent 1\n\ncontent 2\nThis is outside the column, again a legent or something like that",
     "crumbs": [
@@ -1431,13 +1431,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#footnote-and-speaker-notes",
     "href": "Medical education/Presentation/Sample/revealjs.html#footnote-and-speaker-notes",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Footnote and Speaker notes",
     "text": "Footnote and Speaker notes\n:::aside\nfor footnote\n:::\n::: notes\nfor speaker notes.\n::: \nHit `s` to reveal speaker notes\n\n\nThis is a speaker note\n\n\nThis is a footnote",
     "crumbs": [
@@ -1445,13 +1445,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#font-colour",
     "href": "Medical education/Presentation/Sample/revealjs.html#font-colour",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Font colour",
     "text": "Font colour\n\nGo to visual editor in r\n\n\n\nHighlight the word and open span from format in visual editor\n\n\n\n\n\n\nenter the colour of choice after color:",
     "crumbs": [
@@ -1459,13 +1459,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#tabsets",
     "href": "Medical education/Presentation/Sample/revealjs.html#tabsets",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Tabsets",
     "text": "Tabsets\n::: {.panel-tabset}\n### Tab A \ncontent \n### Tab B\nothers\n:::",
     "crumbs": [
@@ -1473,13 +1473,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#tabsets-1",
     "href": "Medical education/Presentation/Sample/revealjs.html#tabsets-1",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Tabsets",
     "text": "Tabsets\n\nTab ATab B\n\n\ncontent\n\n\nothers",
     "crumbs": [
@@ -1487,13 +1487,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#pause",
     "href": "Medical education/Presentation/Sample/revealjs.html#pause",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Pause",
     "text": "Pause\ncontent before \n. . . \nContent after\ncontent before\n\nContent after",
     "crumbs": [
@@ -1501,13 +1501,13 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
     "objectID": "Medical education/Presentation/Sample/revealjs.html#go-back-to-knotes",
     "href": "Medical education/Presentation/Sample/revealjs.html#go-back-to-knotes",
-    "title": "sample Presentation",
+    "title": "sample presentation",
     "section": "Go back to knotes",
     "text": "Go back to knotes\nknotes\n\n\n\n\nKishore Puthezhath FRCS (Tr & Orth)(Eng)",
     "crumbs": [
@@ -1515,7 +1515,7 @@
       "Medical education",
       "Presentation",
       "Sample",
-      "sample Presentation"
+      "sample presentation"
     ]
   },
   {
