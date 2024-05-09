@@ -9,7 +9,7 @@ format:
     smaller: true
     scrollable: true
     chalkboard: true
-    multiplex: false
+    multiplex: true
 ---
 
 ## Individual slides
