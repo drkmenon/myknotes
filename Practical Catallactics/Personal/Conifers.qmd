@@ -1,7 +1,7 @@
 ---
 title: Productivity
 bibliography: references.bib
-
+number-sections: true
 nocite: |
  @bond1989
 ---
@@ -24,9 +24,9 @@ Angiosperms first appeared in the Cretaceous period and proliferated. As they di
 
 Yet the productivity of gymnosperms often equals or exceeds potentially competing angiosperms and they live longer. In fact, they are among the oldest and largest living plants known to man.
 
-General Sherman, a redwood (Gymnosperm) of the California forest is the largest tree in the world and is having an estimated age of 2300-2700 years.
+[General Sherman in fig @fig-sherman], a redwood (Gymnosperm) of the California forest is the largest tree in the world and is having an estimated age of 2300-2700 years.
 
-![General Sherman, courtesy of Wikipedia page](images/clipboard-4222656056.png)
+![General Sherman, courtesy of Wikipedia page](images/clipboard-4222656056.png){#fig-sherman}
 
 Lindsey Creek tree the largest tree ever lived was also a redwood, felled by a storm in 1905 was twice as big as General Sherman.
 
@@ -59,7 +59,7 @@ Productivity of a plant is proportional to:
 
 > `Ultimately what matters here is how much you allocate for the growth (Size of Canopy) and how much capital is preserved in that process. If there is seasonal loss of leaves (Capital), ultimate productivity will be low.`
 
-### Efficiency v/s Safety
+### Efficiency v/s Safety {#sec-efficiency-vs-safety}
 
 To improve efficiency of water carriage, the Xylem vessels of the angiosperms are larger than gymnosperm tracheids. The rate of flow of water is proportional to the square of the diameter of the vessel.
 
@@ -67,9 +67,9 @@ To improve efficiency of water carriage, the Xylem vessels of the angiosperms ar
 
 ***Trees with safer narrower tracheid vessels are in general evergreen and grow in water-stressed areas.***
 
-### Deciduous v/s Evergreen
+### Deciduous v/s Evergreen {#sec-deciduous-vs-evergreen}
 
-As we saw previously, shedding leaves periodically is an ingenious way of getting rid of inefficiently embolized conductive systems before the flush of new leaves. They prefer less water-stressed areas and their prolific growth presupposes unlimited abundance of factors of production.
+As we saw previously in @sec-efficiency-vs-safety , shedding leaves periodically is an ingenious way of getting rid of inefficiently embolized conductive systems before the flush of new leaves. They prefer less water-stressed areas and their prolific growth presupposes unlimited abundance of factors of production.
 
 > More-over, deciduous nature reduce the opportunity to create a bigger Canopy
 
