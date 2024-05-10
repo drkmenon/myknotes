@@ -1,0 +1,39 @@
+---
+title: "Pink Pulseless Hand"
+---
+
+::: callout-warning
+## Problem Statement
+
+You are the member of orthopedic team of a large hospital. It is the team's Job to make decision and treat all trauma brough to it. You are on duty on alternate days and on duty days `you are supposed to take decisions, operate and seek help on behalf of the team`. You received an emergency call at 12 midnight to attend a case.
+:::
+
+## General Information about the case:
+
+A 7 year old girl had a fall on out-stretched hand. She has got a `pink pulse less hand` (left) and a swollen elbow. The emergency physician has Splinted the limb.
+
+## Details about the case:
+
+[Glades is a 7 year old girl. She fell from a small tree, with her left outstretched hand, at around 7:30pm. She had no other injuries and she was conscious. Parents Immediately took her to a nearby hospital. X-ray of the left elbow was taken and the CMO told them that there is a fracture of the elbow and as the orthopedic Surgeon us out of station, he referred her to your hospital.]{style="color: blue"}
+
+The emergency medicine Consultant had noticed that, though the `O2 saturation` of the left upper limb was \`99%\` and the Capillary filling was not delayed, `she could not palpate the radial & ulnar artery pulsation`. You reached the Emergency department at 12:15AM
+
+::: callout-caution
+## Questions
+
+1\) What will you do Immediately?
+
+2\) What will you look for in the ✗ ray?
+
+3\) Are you aware of any classification for the most common paediatric elbow fracture? Discrible the classification and how it will guide you for the treatment decision making?
+
+4\) Considering the absence of pulse what actions will you take?
+
+5\) Will you operate in the middle of the night, as emergent or urgent?
+
+6\) What are the Immediate and late complications of this injury?
+
+7\) Which guideline will you follow for the treatment of this injury? Describe the Same using a flow chart.
+:::
+
+{{< video https://www.youtube.com/embed/b9kiRuKqp3E?si=o2i6Le9uF1wsMJfP >}}
