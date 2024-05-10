@@ -1481,8 +1481,8 @@
     ]
   },
   {
-    "objectID": "Medical education/zotero.html#zotero",
-    "href": "Medical education/zotero.html#zotero",
+    "objectID": "Medical education/zotero.html#uses",
+    "href": "Medical education/zotero.html#uses",
     "title": "Zotero",
     "section": "",
     "text": "helps to \n\nRetrieve Citations \nOrganise them to Collections \ntag them for retrieval \nRead and annotate PDFs \nRetrieve annotations as notes \nCWYW \nAdd bibliography \nFormat bibliography.",
@@ -1497,7 +1497,7 @@
     "href": "Medical education/zotero.html#citations",
     "title": "Zotero",
     "section": "Citations",
-    "text": "Citations\n\nExtension for firefox sending citations to desktop Collection \nDrag & drop to zotero desktop app\nAdd as a .ris file, downloaded from repositories. \n\nZotero extension for Safari does not work properly. \nZotero desktop will automatically fetch pdfs of available online",
+    "text": "Citations\n\nExtension for Firefox sending citations to desktop Collection \nDrag & drop to zotero desktop app\nAdd as a .ris file, downloaded from repositories. \n\nZotero extension for Safari does not work properly. \nZotero desktop will automatically fetch pdfs of available online",
     "crumbs": [
       "Home",
       "Medical education",

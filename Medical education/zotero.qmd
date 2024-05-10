@@ -2,7 +2,7 @@
 title: "Zotero"
 ---
 
-## **ZOTERO**
+## Uses
 
 helps to 
 
@@ -24,7 +24,7 @@ helps to 
 
 ## **Citations** 
 
--   Extension for firefox sending citations to desktop Collection 
+-   Extension for Firefox sending citations to desktop Collection 
 
 -   Drag & drop to zotero desktop app
 
