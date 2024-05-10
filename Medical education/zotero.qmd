@@ -1,0 +1,83 @@
+---
+title: "Zotero"
+---
+
+## **ZOTERO**
+
+helps to 
+
+-   Retrieve Citations 
+
+-   Organise them to Collections 
+
+-   tag them for retrieval 
+
+-   Read and annotate PDFs 
+
+-   Retrieve annotations as notes 
+
+-   CWYW 
+
+-   Add bibliography 
+
+-   Format bibliography. 
+
+## **Citations** 
+
+-   Extension for firefox sending citations to desktop Collection 
+
+-   Drag & drop to zotero desktop app
+
+-   Add as a .ris file, downloaded from repositories. 
+
+Zotero extension for Safari does not work properly. 
+
+Zotero desktop will automatically fetch pdfs of available online
+
+## **ORGANISATION** 
+
+-   Collections 
+
+-   tags 
+
+-   Related items 
+
+they are building block for zotero library. Can be used together or separately.
+
+## **Collections & tags:** 
+
+Helps to keep track of our work & workflow. 
+
+## **Related items :** 
+
+Indicate relations. 
+
+## **zutfile extension**
+
+This extension helps to add improved work flow for creating tags and related items 
+
+## **Reading & annotation** 
+
+Zotero has got a native pdf reader which can be annotated . The annotations can be retrieved as notes which can be utilised for creating manuscripts. 
+
+## **zotfile extension** 
+
+This extension helps to Create an excellent workflow, if a tablet or similar device is used for reading. Zotfile if properly configured, can send files to the tablet, via a cloud service of our choice, and retrieve it back after annotation. It can also automatically extract those annotations made in the pdf with the tablet in to a separate folder. 
+
+## **CWYW** 
+
+The main attraction. 
+
+## **CWYW it Libreoffice / Ms word** 
+
+Zotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection. 
+
+It can automatically format and insert a list of bibliography. The format can be easily modified with a single click of button.
+
+## **CWYW In & Quarto** 
+
+Requires Better bibtex extension and the .bib file should be placed in the parent directory. 
+
+Zotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file. 
+
+If properly configured, \@ Command in quarto will open the window with all the Citations, Which can be searched and inserted.
