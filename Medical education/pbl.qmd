@@ -1,7 +1,7 @@
 ---
 title: "PBL methodology"
 ---
-
+::: {.callout-note}
 ### PBL tutorial process
 
 Step 1—Identify and clarify unfamiliar terms presented in the scenario;
@@ -30,3 +30,4 @@ learning objective)
 Step 7—Group shares results of private study (students identify their
 learning resources and share their results); tutor checks learning
 and may assess the group
+:::
