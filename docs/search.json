@@ -1589,11 +1589,11 @@
     ]
   },
   {
-    "objectID": "Medical education/zotero.html#cwyw-it-libreoffice-ms-word",
-    "href": "Medical education/zotero.html#cwyw-it-libreoffice-ms-word",
+    "objectID": "Medical education/zotero.html#cwyw-in-libreoffice-ms-word",
+    "href": "Medical education/zotero.html#cwyw-in-libreoffice-ms-word",
     "title": "Zotero",
-    "section": "CWYW it Libreoffice / Ms word",
-    "text": "CWYW it Libreoffice / Ms word\nZotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection. \nIt can automatically format and insert a list of bibliography. The format can be easily modified with a single click of button.",
+    "section": "CWYW in Libreoffice / MS word",
+    "text": "CWYW in Libreoffice / MS word\nZotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection. \nIt can automatically format and insert a list of bibliography. The format can be easily modified with a single click of button.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1604,8 +1604,8 @@
     "objectID": "Medical education/zotero.html#cwyw-in-quarto",
     "href": "Medical education/zotero.html#cwyw-in-quarto",
     "title": "Zotero",
-    "section": "CWYW In & Quarto",
-    "text": "CWYW In & Quarto\nRequires Better bibtex extension and the .bib file should be placed in the parent directory. \nZotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file. \nIf properly configured, @ Command in quarto will open the window with all the Citations, Which can be searched and inserted.",
+    "section": "CWYW in Quarto",
+    "text": "CWYW in Quarto\nRequires Better bibtex extension and the .bib file should be placed in the parent directory. \nZotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file. \nIf properly configured, @ Command in quarto will open the window with all the Citations, Which can be searched and inserted.",
     "crumbs": [
       "Home",
       "Medical education",

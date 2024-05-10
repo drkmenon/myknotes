@@ -68,13 +68,13 @@ This extension helps to Create an excellent workflow, if a tablet or similar dev
 
 The main attraction. 
 
-## **CWYW it Libreoffice / Ms word** 
+## **CWYW in Libreoffice / MS word** 
 
 Zotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection. 
 
 It can automatically format and insert a list of bibliography. The format can be easily modified with a single click of button.
 
-## **CWYW In & Quarto** 
+## **CWYW in Quarto** 
 
 Requires Better bibtex extension and the .bib file should be placed in the parent directory. 
 
