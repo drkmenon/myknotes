@@ -14,7 +14,9 @@ What is PBL?
 
     Thus, PBL is not about problem solving per se, but rather it uses appropriate problems to increase knowledge and understanding. @wood2003a
 
-## How to create effective PBL scenarios\*
+## How to create effective PBL scenarios [^1]
+
+[^1]: *Adapted from Dolmans et al. Med Teacher 1997;19:185-9*
 
 -   Learning objectives likely to be defined by the students after studying the scenario should be consistent with the faculty learning objectives
 
@@ -32,8 +34,6 @@ What is PBL?
 -   The problem should be sufficiently open, so that discussion is not curtailed too early in the process
 
 -   Scenarios should promote participation by the students in seeking information from various learning resources
-
-    *\*Adapted from Dolmans et al. Med Teacher 1997;19:185-9*
 
 ::: callout-note
 ## PBL tutorial process
