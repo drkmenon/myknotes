@@ -1,5 +1,5 @@
 ---
-title: "Kishore Puthezhath"
+title: "About Author"
 about: 
   template: jolla
   image: images/profile.jpeg
