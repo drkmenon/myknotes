@@ -20,9 +20,8 @@ What is PBL?
 
 -   Learning objectives likely to be defined by the students after studying the scenario should be consistent with the faculty learning objectives
 
-```{=html}
 <!-- -->
-```
+
 -   Problems should be appropriate to the stage of the curriculum and the level of the students’ understanding
 
 -   Scenarios should have sufficient intrinsic interest for the students or relevance to future practice
@@ -34,6 +33,16 @@ What is PBL?
 -   The problem should be sufficiently open, so that discussion is not curtailed too early in the process
 
 -   Scenarios should promote participation by the students in seeking information from various learning resources
+
+## Requirements
+
+```{mermaid}
+flowchart TD
+  A[Participants] --> B[Scribe]
+  A[Participants] --> C[tutor]
+  A[Participants] --> D[chair]
+  A[Participants] --> E[members]
+```   
 
 ::: callout-note
 ## PBL tutorial process
@@ -54,3 +63,4 @@ Step 7—Group shares results of private study (students identify their learning
 :::
 
 Reference
+
