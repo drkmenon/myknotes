@@ -13,7 +13,7 @@ What is PBL?
 
     Subsequently they do independent, self directed study before returning to the group to discuss and refine their acquired knowledge.
 
-    Thus, PBL is not about problem solving per se, but rather it uses appropriate problems to increase knowledge and understanding. @wood2003a
+    Thus, PBL is not about problem solving per se, but rather it uses appropriate problems to increase knowledge and understanding [@wood2003a].
 
 ## How to create effective PBL scenarios [^1]
 
@@ -43,7 +43,7 @@ flowchart TD
   A[Participants] --> C[tutor]
   A[Participants] --> D[chair]
   A[Participants] --> E[members]
-```   
+```
 
 ::: callout-note
 ## PBL tutorial process
@@ -62,6 +62,3 @@ Step 6—Private study (all students gather information related to each learning
 
 Step 7—Group shares results of private study (students identify their learning resources and share their results); tutor checks learning and may assess the group
 :::
-
-
-

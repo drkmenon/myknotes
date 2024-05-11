@@ -10,8 +10,6 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/kishore-puthezhath-frcs-48482747/
-  
 ---
 
 I am a Professor of Orthopaedic Surgery and Sr Consultant of Paediatric Orthopaedic division, Amala Institute of Medical Sciences, Thrissur. Beyond medicine, I am driven by a deep passion for Chess and Catallactics. These interests not only provide intellectual stimulation but also influence my perspectives and opinions, which may occasionally manifest on this platform.
-

@@ -9,6 +9,17 @@ website:
   favicon: /image/logo.png
   navbar:
     background: light
+    foreground: dark
+    tools:
+     - icon: twitter
+       text: twitter
+       href: https://twitter.com/drkmenon
+     - icon: linkedin
+       text: linkedin
+       href: https://www.linkedin.com/in/kishore-puthezhath-frcs-48482747/
+     - icon: github
+       text: github
+       href: https://github.com/drkmenon
     logo: /image/knotes.png
     title: false
     left:
@@ -19,7 +30,8 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   page-footer: 
-   "Copyright 2024 @ Kishore Puthezhath, Opinions are for informational purposes only and not personalized advice"
+    right: "Copyright 2024 @ Kishore Puthezhath"
+    left: "Opinions are for informational purposes only and not personalized advice"
   reader-mode: true
   cookie-consent:
     type: implied
