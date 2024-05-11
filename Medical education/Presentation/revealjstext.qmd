@@ -1,7 +1,7 @@
 ---
 title: "Revealjs for Presentation"
 subtitle: "A quick guide"
-author: "By Kishore Puthezhath"
+order: 2
 format:
   html:
     logo: images/tie-01.png
@@ -17,9 +17,9 @@ format:
 
 Reveal.j.s is an open source HTML presentation frame-work. It requires only a web browser for fully featured presentation and Can be easily shared as a standalone webpage
 
-## Creating Slides 
+## Creating Slides
 
-### Title Slide 
+### Title Slide
 
 Automatically Created from YAML
 
@@ -157,7 +157,3 @@ content before
 . . .
 
 Content after
-
-## Go back to knotes
-
-### [knotes](https://www.knotes.co.in)

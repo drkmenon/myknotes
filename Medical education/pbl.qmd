@@ -1,5 +1,6 @@
 ---
 title: "PBL methodology"
+order: 4
 ---
 
 ## Problem based learning

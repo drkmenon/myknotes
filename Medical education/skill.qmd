@@ -1,5 +1,6 @@
 ---
 title: "Skill teaching"
+order: 3
 ---
 
 # Teaching and learning complex procedures {#sec-teaching-and-learning-complex-procedures}
