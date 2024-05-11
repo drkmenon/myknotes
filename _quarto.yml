@@ -4,7 +4,7 @@ project:
 
 website:
   title: "knotes"
-  favicon: logo.png
+  favicon: /image/logo.png
   navbar:
     left:
       - href: index.qmd

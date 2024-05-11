@@ -1434,7 +1434,7 @@
     "href": "Orthopaedics/PBL modules/scfr.html#details-about-the-case",
     "title": "Pink Pulseless Hand",
     "section": "Details about the case:",
-    "text": "Details about the case:\nGlades is a 7 year old girl. She fell from a small tree, with her left outstretched hand, at around 7:30pm. She had no other injuries and she was conscious. Parents Immediately took her to a nearby hospital. X-ray of the left elbow was taken and the CMO told them that there is a fracture of the elbow and as the orthopedic Surgeon us out of station, he referred her to your hospital.\nThe emergency medicine Consultant had noticed that, though the O2 saturation of the left upper limb was 99% and the Capillary filling was not delayed, she could not palpate the radial & ulnar artery pulsation. You reached the Emergency department at 12:15AM\n\n\n\n\n\n\nQuestions\n\n\n\n1) What will you do Immediately?\n2) What will you look for in the ✗ ray?\n3) Are you aware of any classification for the most common paediatric elbow fracture? Describe the classification and how it will guide you for the treatment decision making?\n4) Considering the absence of pulse what actions will you take?\n5) Will you operate in the middle of the night, as emergent or urgent?\n6) What are the Immediate and late complications of this injury?\n7) Which guideline will you follow for the treatment of this injury? Describe the Same using a flow chart.\n\n\n\nResource",
+    "text": "Details about the case:\nGlades is a 7 year old girl. She fell from a small tree, with her left outstretched hand, at around 7:30pm. She had no other injuries and she was conscious. Parents Immediately took her to a nearby hospital. X-ray of the left elbow was taken and the CMO told them that there is a fracture of the elbow and as the orthopedic Surgeon us out of station, he referred her to your hospital.\nThe emergency medicine Consultant had noticed that, though the O2 saturation of the left upper limb was 99% and the Capillary filling was not delayed, she could not palpate the radial & ulnar artery pulsation. You reached the Emergency department at 12:15AM.\n\n\n\n\n\n\nQuestions\n\n\n\n1) What will you do Immediately?\n2) What will you look for in the ✗ ray?\n3) Are you aware of any classification for the most common paediatric elbow fracture? Describe the classification and how it will guide you for the treatment decision making?\n4) Considering the absence of pulse what actions will you take?\n5) Will you operate in the middle of the night, as emergent or urgent?\n6) What are the Immediate and late complications of this injury?\n7) Which guideline will you follow for the treatment of this injury? Describe the Same using a flow chart.\n\n\n\nResource",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -1497,7 +1497,43 @@
     "href": "Medical education/zotero.html",
     "title": "Zotero",
     "section": "",
-    "text": "helps to \n\nRetrieve Citations \nOrganise them to Collections \ntag them for retrieval \nRead and annotate PDFs \nRetrieve annotations as notes \nCWYW \nAdd bibliography \nFormat bibliography.",
+    "text": "Note\n\n\n\ncwyw and formatting bibliography are deterrents to the flow of manuscript writing and this can be a painful exercise if done manually. While several commercial cwyw softwares are available, zotero is not only free and open source, it is an exceptional scribe for academic work.\n\n\n\nIt can be reached via ZOTERO OFFICIAL WEBSITE",
+    "crumbs": [
+      "Home",
+      "Medical education",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "Medical education/zotero.html#to-master",
+    "href": "Medical education/zotero.html#to-master",
+    "title": "Zotero",
+    "section": "",
+    "text": "Note\n\n\n\ncwyw and formatting bibliography are deterrents to the flow of manuscript writing and this can be a painful exercise if done manually. While several commercial cwyw softwares are available, zotero is not only free and open source, it is an exceptional scribe for academic work.\n\n\n\nIt can be reached via ZOTERO OFFICIAL WEBSITE",
+    "crumbs": [
+      "Home",
+      "Medical education",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "Medical education/zotero.html#installation",
+    "href": "Medical education/zotero.html#installation",
+    "title": "Zotero",
+    "section": "Installation",
+    "text": "Installation\n\nIt comes with 2 pieces of software\n\nzotero 6 for mac desktop\nzotero connector for browser 1\n\nAfter successful installation, you are good to go",
+    "crumbs": [
+      "Home",
+      "Medical education",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "Medical education/zotero.html#zotero-6-desktop-app",
+    "href": "Medical education/zotero.html#zotero-6-desktop-app",
+    "title": "Zotero",
+    "section": "Zotero 6 desktop app",
+    "text": "Zotero 6 desktop app\n\nIt has got 3 colums\n\nFirst column\nShows the collections under the main folder My Library. We can add new collections by clicking on the folder icon. Subcollectins can be added by right clicking the collection.\n\n\nSecond column\nShows the individual citations, retrieved pdfs and notes\n\n\nThird column\nShows\n\ninfo, information about the selected citation\nNotes\nTags\nRelated items",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1508,8 +1544,8 @@
     "objectID": "Medical education/zotero.html#uses",
     "href": "Medical education/zotero.html#uses",
     "title": "Zotero",
-    "section": "",
-    "text": "helps to \n\nRetrieve Citations \nOrganise them to Collections \ntag them for retrieval \nRead and annotate PDFs \nRetrieve annotations as notes \nCWYW \nAdd bibliography \nFormat bibliography.",
+    "section": "Uses",
+    "text": "Uses\nhelps to\n\nRetrieve citations and associated pdf full texts\nOrganise them to Collections\ntag them for retrieval\nRead and annotate PDFs\nRetrieve annotations as notes\nCWYW\nAdd bibliography\nFormat bibliography",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1517,11 +1553,11 @@
     ]
   },
   {
-    "objectID": "Medical education/zotero.html#citations",
-    "href": "Medical education/zotero.html#citations",
+    "objectID": "Medical education/zotero.html#citations-3-methods",
+    "href": "Medical education/zotero.html#citations-3-methods",
     "title": "Zotero",
-    "section": "Citations",
-    "text": "Citations\n\nExtension for Firefox sending citations to desktop Collection \nDrag & drop to zotero desktop app\nAdd as a .ris file, downloaded from repositories. \n\nZotero extension for Safari does not work properly. \nZotero desktop will automatically fetch pdfs of available online",
+    "section": "Citations, 3 methods",
+    "text": "Citations, 3 methods\n\nExtension for Firefox sending citations to desktop Collection\n\n\n\nThe curser shows the zotero extension. Click on the same\n\n\nDrag & drop to zotero desktop app from computer file\nAdd as a .ris file, downloaded from repositories.\n\nZotero desktop will automatically fetch pdfs if available online",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1533,7 +1569,7 @@
     "href": "Medical education/zotero.html#organisation",
     "title": "Zotero",
     "section": "ORGANISATION",
-    "text": "ORGANISATION\n\nCollections \ntags \nRelated items \n\nthey are building block for zotero library. Can be used together or separately.",
+    "text": "ORGANISATION\n\nCollections\ntags\nRelated items\n\nthey are building block for zotero library. Can be used together or separately.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1545,7 +1581,7 @@
     "href": "Medical education/zotero.html#collections-tags",
     "title": "Zotero",
     "section": "Collections & tags:",
-    "text": "Collections & tags:\nHelps to keep track of our work & workflow.",
+    "text": "Collections & tags:\n\nHelps to keep track of our work & workflow.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1565,11 +1601,11 @@
     ]
   },
   {
-    "objectID": "Medical education/zotero.html#zutfile-extension",
-    "href": "Medical education/zotero.html#zutfile-extension",
+    "objectID": "Medical education/zotero.html#zutilo-extension",
+    "href": "Medical education/zotero.html#zutilo-extension",
     "title": "Zotero",
-    "section": "zutfile extension",
-    "text": "zutfile extension\nThis extension helps to add improved work flow for creating tags and related items",
+    "section": "zutilo extension",
+    "text": "zutilo extension\n\nThis extension helps to add improved work flow for creating tags and related items",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1593,7 +1629,7 @@
     "href": "Medical education/zotero.html#zotfile-extension",
     "title": "Zotero",
     "section": "zotfile extension",
-    "text": "zotfile extension\nThis extension helps to Create an excellent workflow, if a tablet or similar device is used for reading. Zotfile if properly configured, can send files to the tablet, via a cloud service of our choice, and retrieve it back after annotation. It can also automatically extract those annotations made in the pdf with the tablet in to a separate folder.",
+    "text": "zotfile extension\nThis extension helps to create an excellent workflow, if a tablet or similar device is used for reading. Zotfile if properly configured, can send files to the tablet, via a cloud service of our choice, and retrieve it back after annotation. It can also automatically extract those annotations made in the pdf with the tablet in to a separate folder.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1617,7 +1653,7 @@
     "href": "Medical education/zotero.html#cwyw-in-libreoffice-ms-word",
     "title": "Zotero",
     "section": "CWYW in Libreoffice / MS word",
-    "text": "CWYW in Libreoffice / MS word\nZotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection. \nIt can automatically format and insert a list of bibliography. The format can be easily modified with a single click of button.",
+    "text": "CWYW in Libreoffice / MS word\nZotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection.\n\nThe extension will be added to the ribbon. It has got 3 main options\n\nadd/edit citation\nadd/edit bibliography\nadd note\n\nOther functionality include document preference where we can modify the citation style\n\nIt can automatically format and insert a list of bibliography with the style of our choice. The format can be easily modified with a single click of button.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1629,7 +1665,31 @@
     "href": "Medical education/zotero.html#cwyw-in-quarto",
     "title": "Zotero",
     "section": "CWYW in Quarto",
-    "text": "CWYW in Quarto\nRequires Better bibtex extension and the .bib file should be placed in the parent directory. \nZotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file. \nIf properly configured, @ Command in quarto will open the window with all the Citations, Which can be searched and inserted.",
+    "text": "CWYW in Quarto\nRequires Better bibtex extension and the .bib file should be placed in the parent directory.\nZotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file.\nIf properly configured, @ Command or clicking on the insert: citations in quarto will open the window with all the Citations, Which can be searched and inserted.",
+    "crumbs": [
+      "Home",
+      "Medical education",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "Medical education/zotero.html#zoterobib",
+    "href": "Medical education/zotero.html#zoterobib",
+    "title": "Zotero",
+    "section": "Zoterobib",
+    "text": "Zoterobib\n\nIt is a web based citation and bibliography service by the zotero team. It is free and add free. If we are working on a public computer, it can be used to collect bibliography which can be downloaded in different formats",
+    "crumbs": [
+      "Home",
+      "Medical education",
+      "Zotero"
+    ]
+  },
+  {
+    "objectID": "Medical education/zotero.html#footnotes",
+    "href": "Medical education/zotero.html#footnotes",
+    "title": "Zotero",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nZotero extension for Safari does not work properly.↩︎",
     "crumbs": [
       "Home",
       "Medical education",

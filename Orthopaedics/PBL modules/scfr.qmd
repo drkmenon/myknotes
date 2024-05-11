@@ -20,7 +20,7 @@ A 7 year old girl had a fall on out-stretched hand. She has got a `pink pulse le
 
 [Glades is a 7 year old girl. She fell from a small tree, with her left outstretched hand, at around 7:30pm. She had no other injuries and she was conscious. Parents Immediately took her to a nearby hospital. X-ray of the left elbow was taken and the CMO told them that there is a fracture of the elbow and as the orthopedic Surgeon us out of station, he referred her to your hospital.]{style="color: blue"}
 
-The emergency medicine Consultant had noticed that, though the O~2~ saturation of the left upper limb was `99%` and the Capillary filling was not delayed, `she could not palpate the radial & ulnar artery pulsation`. You reached the Emergency department at 12:15AM
+The emergency medicine Consultant had noticed that, though the O~2~ saturation of the left upper limb was `99%` and the Capillary filling was not delayed, `she could not palpate the radial & ulnar artery pulsation`. You reached the Emergency department at 12:15AM.
 
 ::: callout-caution
 ## Questions

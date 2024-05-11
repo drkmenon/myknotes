@@ -2,82 +2,158 @@
 title: "Zotero"
 ---
 
+## to master
+
+::: callout-note
+cwyw and formatting bibliography are deterrents to the flow of manuscript writing and this can be a painful exercise if done manually. While several commercial cwyw softwares are available, zotero is not only free and open source, it is an exceptional scribe for academic work.
+:::
+
+![](images/zotero1.png)
+
+It can be reached via [ZOTERO OFFICIAL WEBSITE](https://www.zotero.org)
+
+## Installation
+
+![](images/zotero2.png)
+
+It comes with 2 pieces of software
+
+-   zotero 6 for mac desktop
+
+-   zotero connector for browser [^1]
+
+[^1]: Zotero extension for Safari does not work properly.
+
+`After successful installation, you are good to go`
+
+## Zotero 6 desktop app
+
+![](images/zotero4.png)
+
+It has got 3 colums
+
+### First column 
+
+Shows the collections under the main folder `My Library.` We can add new collections by clicking on the folder icon. Subcollectins can be added by right clicking the collection.
+
+### Second column
+
+Shows the individual citations, retrieved pdfs and notes
+
+### Third column
+
+Shows
+
+-   info, information about the selected citation
+
+-   Notes
+
+-   Tags
+
+-   Related items
+
 ## Uses
 
-helps to 
+helps to
 
--   Retrieve Citations 
+-   Retrieve citations and associated pdf full texts
 
--   Organise them to Collections 
+-   Organise them to Collections
 
--   tag them for retrieval 
+-   tag them for retrieval
 
--   Read and annotate PDFs 
+-   Read and annotate PDFs
 
--   Retrieve annotations as notes 
+-   Retrieve annotations as notes
 
--   CWYW 
+-   CWYW
 
--   Add bibliography 
+-   Add bibliography
 
--   Format bibliography. 
+-   Format bibliography
 
-## **Citations** 
+## **Citations, 3 methods**
 
--   Extension for Firefox sending citations to desktop Collection 
+-   Extension for Firefox sending citations to desktop Collection
 
--   Drag & drop to zotero desktop app
+    ![The curser shows the zotero extension. Click on the same](images/zotero3.png)
 
--   Add as a .ris file, downloaded from repositories. 
+-   Drag & drop to zotero desktop app from computer file
 
-Zotero extension for Safari does not work properly. 
+-   Add as a .ris file, downloaded from repositories.
 
-Zotero desktop will automatically fetch pdfs of available online
+Zotero desktop will automatically fetch pdfs if available online
 
-## **ORGANISATION** 
+## **ORGANISATION**
 
--   Collections 
+-   Collections
 
--   tags 
+-   tags
 
--   Related items 
+-   Related items
 
 they are building block for zotero library. Can be used together or separately.
 
-## **Collections & tags:** 
+## **Collections & tags:**
 
-Helps to keep track of our work & workflow. 
+![](images/zotero4.png)
 
-## **Related items :** 
+Helps to keep track of our work & workflow.
 
-Indicate relations. 
+## **Related items :**
 
-## **zutfile extension**
+Indicate relations.
 
-This extension helps to add improved work flow for creating tags and related items 
+## **zutilo extension**
 
-## **Reading & annotation** 
+![](images/zotero5.png)
 
-Zotero has got a native pdf reader which can be annotated . The annotations can be retrieved as notes which can be utilised for creating manuscripts. 
+This extension helps to add improved work flow for creating tags and related items
 
-## **zotfile extension** 
+## **Reading & annotation**
 
-This extension helps to Create an excellent workflow, if a tablet or similar device is used for reading. Zotfile if properly configured, can send files to the tablet, via a cloud service of our choice, and retrieve it back after annotation. It can also automatically extract those annotations made in the pdf with the tablet in to a separate folder. 
+Zotero has got a native pdf reader which can be annotated . The annotations can be retrieved as notes which can be utilised for creating manuscripts.
 
-## **CWYW** 
+## **zotfile extension**
 
-The main attraction. 
+This extension helps to create an excellent workflow, if a tablet or similar device is used for reading. Zotfile if properly configured, can send files to the tablet, via a cloud service of our choice, and retrieve it back after annotation. It can also automatically extract those annotations made in the pdf with the tablet in to a separate folder. 
 
-## **CWYW in Libreoffice / MS word** 
+## **CWYW**
 
-Zotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection. 
+The main attraction.
 
-It can automatically format and insert a list of bibliography. The format can be easily modified with a single click of button.
+## **CWYW in Libreoffice / MS word**
 
-## **CWYW in Quarto** 
+Zotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection.
 
-Requires Better bibtex extension and the .bib file should be placed in the parent directory. 
+![](images/zotero6.png)
 
-Zotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file. 
+The extension will be added to the ribbon. It has got 3 main options
 
-If properly configured, \@ Command in quarto will open the window with all the Citations, Which can be searched and inserted.
+-   add/edit citation
+
+-   add/edit bibliography
+
+-   add note
+
+Other functionality include `document preference` where we can modify the citation style
+
+![](images/zotero 7.png)
+
+It can automatically format and insert a list of bibliography with the style of our choice. The format can be easily modified with a single click of button.
+
+## **CWYW in Quarto**
+
+Requires Better bibtex extension and the .bib file should be placed in the parent directory.
+
+Zotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file.
+
+If properly configured, \@ Command or clicking on the insert: citations in quarto will open the window with all the Citations, Which can be searched and inserted.
+
+![](images/zotero8.png)
+
+## Zoterobib
+
+![](images/zotero9.png)
+
+It is a web based citation and bibliography service by the zotero team. It is free and add free. If we are working on a public computer, it can be used to collect bibliography which can be downloaded in different formats
