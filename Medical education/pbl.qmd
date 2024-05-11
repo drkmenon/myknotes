@@ -4,6 +4,8 @@ title: "PBL methodology"
 
 ## Problem based learning
 
+Go to [PBL Module](https://www.knotes.co.in/orthopaedics/pbl%20modules/scfr)
+
 What is PBL?
 
 :   `In problem based learning (PBL) students use “triggers” from the problem case or scenario to define their own learning objectives.`
@@ -14,8 +16,11 @@ What is PBL?
 
 ## How to create effective PBL scenarios\*
 
-\_ Learning objectives likely to be defined by the students after studying the scenario should be consistent with the faculty learning objectives
+-   Learning objectives likely to be defined by the students after studying the scenario should be consistent with the faculty learning objectives
 
+```{=html}
+<!-- -->
+```
 -   Problems should be appropriate to the stage of the curriculum and the level of the students’ understanding
 
 -   Scenarios should have sufficient intrinsic interest for the students or relevance to future practice
