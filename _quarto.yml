@@ -8,7 +8,9 @@ website:
   description: "Kishore Puthezhath's official website"
   favicon: /image/logo.png
   navbar:
-    logo: /image/logo.png
+    background: light
+    logo: /image/knotes.png
+    title: false
     left:
       - href: index.qmd
         text: Home
