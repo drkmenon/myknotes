@@ -4,6 +4,8 @@ project:
 
 website:
   title: "knotes"
+  site-url: https://www.knotes.co.in
+  description: "Kishore Puthezhath's official website"
   favicon: /image/logo.png
   navbar:
     left:
@@ -32,7 +34,10 @@ format:
   html:
     theme:
      journal
-  
+    mainfont: Amazon ember
+    fontsize: 1.2rem
+    fontcolor: black
+    background-color: 704214
     css: styles.css
     toc: true
 

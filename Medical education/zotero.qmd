@@ -72,7 +72,7 @@ helps to
 
 -   Format bibliography
 
-## **Citations, 3 methods**
+## Citations, 3 methods
 
 -   Extension for Firefox sending citations to desktop Collection
 
@@ -84,7 +84,7 @@ helps to
 
 Zotero desktop will automatically fetch pdfs if available online
 
-## **ORGANISATION**
+## Organisation
 
 -   Collections
 
@@ -94,35 +94,35 @@ Zotero desktop will automatically fetch pdfs if available online
 
 they are building block for zotero library. Can be used together or separately.
 
-## **Collections & tags:**
+## Collections & tags:
 
 ![](images/zotero4.png)
 
 Helps to keep track of our work & workflow.
 
-## **Related items :**
+## Related items :
 
 Indicate relations.
 
-## **zutilo extension**
+## zutilo extension
 
 ![](images/zotero5.png)
 
 This extension helps to add improved work flow for creating tags and related items
 
-## **Reading & annotation**
+## Reading & annotation
 
 Zotero has got a native pdf reader which can be annotated . The annotations can be retrieved as notes which can be utilised for creating manuscripts.
 
-## **zotfile extension**
+## zotfile extension
 
 This extension helps to create an excellent workflow, if a tablet or similar device is used for reading. Zotfile if properly configured, can send files to the tablet, via a cloud service of our choice, and retrieve it back after annotation. It can also automatically extract those annotations made in the pdf with the tablet in to a separate folder. 
 
-## **CWYW**
+## cwyw
 
 The main attraction.
 
-## **CWYW in Libreoffice / MS word**
+## cwyw in Libreoffice / MS word
 
 Zotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection.
 
@@ -142,7 +142,7 @@ Other functionality include `document preference` where we can modify the citati
 
 It can automatically format and insert a list of bibliography with the style of our choice. The format can be easily modified with a single click of button.
 
-## **CWYW in Quarto**
+## cwyw in Quarto
 
 Requires Better bibtex extension and the .bib file should be placed in the parent directory.
 

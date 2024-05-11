@@ -67,12 +67,12 @@
   {
     "objectID": "author.html",
     "href": "author.html",
-    "title": "Author",
+    "title": "Kishore Puthezhath",
     "section": "",
-    "text": "I am a Professor of Orthopaedic Surgery and Sr Consultant of Paediatric Orthopaedic division, Amala Institute of Medical Sciences, Thrissur. After medical school, I completed my residency in Orthopaedic Surgery at Government Medical College, Calicut and a fellowship in Trauma and Orthopaedics from Royal College of Surgeons, England. I am awarded FACS by American College of Surgeons in 2020. \nI have authored several web of science indexed articles and have authored and/or edited book chapter. My research interests include fracture healing and bone brain cross talk, in which I am currently persuing a PhD from KUHS.\nBeyond medicine, I am driven by a deep passion for Chess and Catallactics. These interests not only provide intellectual stimulation but also influence my perspectives and opinions, which may occasionally manifest on this platform.\n\n\n\n\n Back to top",
+    "text": "I am a Professor of Orthopaedic Surgery and Sr Consultant of Paediatric Orthopaedic division, Amala Institute of Medical Sciences, Thrissur. Beyond medicine, I am driven by a deep passion for Chess and Catallactics. These interests not only provide intellectual stimulation but also influence my perspectives and opinions, which may occasionally manifest on this platform.\n\n\n Back to top",
     "crumbs": [
       "Home",
-      "Author"
+      "Kishore Puthezhath"
     ]
   },
   {
@@ -1568,8 +1568,8 @@
     "objectID": "Medical education/zotero.html#organisation",
     "href": "Medical education/zotero.html#organisation",
     "title": "Zotero",
-    "section": "ORGANISATION",
-    "text": "ORGANISATION\n\nCollections\ntags\nRelated items\n\nthey are building block for zotero library. Can be used together or separately.",
+    "section": "Organisation",
+    "text": "Organisation\n\nCollections\ntags\nRelated items\n\nthey are building block for zotero library. Can be used together or separately.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1640,8 +1640,8 @@
     "objectID": "Medical education/zotero.html#cwyw",
     "href": "Medical education/zotero.html#cwyw",
     "title": "Zotero",
-    "section": "CWYW",
-    "text": "CWYW\nThe main attraction.",
+    "section": "cwyw",
+    "text": "cwyw\nThe main attraction.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1652,8 +1652,8 @@
     "objectID": "Medical education/zotero.html#cwyw-in-libreoffice-ms-word",
     "href": "Medical education/zotero.html#cwyw-in-libreoffice-ms-word",
     "title": "Zotero",
-    "section": "CWYW in Libreoffice / MS word",
-    "text": "CWYW in Libreoffice / MS word\nZotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection.\n\nThe extension will be added to the ribbon. It has got 3 main options\n\nadd/edit citation\nadd/edit bibliography\nadd note\n\nOther functionality include document preference where we can modify the citation style\n\nIt can automatically format and insert a list of bibliography with the style of our choice. The format can be easily modified with a single click of button.",
+    "section": "cwyw in Libreoffice / MS word",
+    "text": "cwyw in Libreoffice / MS word\nZotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection.\n\nThe extension will be added to the ribbon. It has got 3 main options\n\nadd/edit citation\nadd/edit bibliography\nadd note\n\nOther functionality include document preference where we can modify the citation style\n\nIt can automatically format and insert a list of bibliography with the style of our choice. The format can be easily modified with a single click of button.",
     "crumbs": [
       "Home",
       "Medical education",
@@ -1664,8 +1664,8 @@
     "objectID": "Medical education/zotero.html#cwyw-in-quarto",
     "href": "Medical education/zotero.html#cwyw-in-quarto",
     "title": "Zotero",
-    "section": "CWYW in Quarto",
-    "text": "CWYW in Quarto\nRequires Better bibtex extension and the .bib file should be placed in the parent directory.\nZotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file.\nIf properly configured, @ Command or clicking on the insert: citations in quarto will open the window with all the Citations, Which can be searched and inserted.",
+    "section": "cwyw in Quarto",
+    "text": "cwyw in Quarto\nRequires Better bibtex extension and the .bib file should be placed in the parent directory.\nZotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file.\nIf properly configured, @ Command or clicking on the insert: citations in quarto will open the window with all the Citations, Which can be searched and inserted.",
     "crumbs": [
       "Home",
       "Medical education",
