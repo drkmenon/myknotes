@@ -10,6 +10,7 @@ website:
   navbar:
     background: light
     foreground: dark
+    search: false
     tools:
      - icon: twitter
        text: twitter
@@ -27,6 +28,7 @@ website:
         text: Home
   sidebar:
     contents: auto
+    search: true
   page-navigation: true
   back-to-top-navigation: true
   page-footer: 
