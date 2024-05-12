@@ -28,7 +28,6 @@ website:
         text: Home
   sidebar:
     contents: auto
-    search: true
   page-navigation: true
   back-to-top-navigation: true
   page-footer: 
