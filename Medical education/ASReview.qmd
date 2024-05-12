@@ -1,0 +1,71 @@
+---
+title: ASReview Lab
+---
+
+A systematic review and meta-analysis, when conducted properly, can indeed yield empirical evidence applicable to real-world scenarios.
+
+With vast databases of literature now accessible online, however, the sheer volume of articles retrieved poses a significant challenge. Sorting through potentially thousands of citations manually, even with tools like [Zotero](https://www.knotes.co.in/medical%20education/zotero), can be tedious and time-consuming.
+
+Enter `ASReview Lab`. This free, open-source software streamlines the process by arranging the most relevant articles at the forefront of the task. With this assistance, researchers can efficiently identify and separate the most pertinent articles from the rest, saving valuable time and effort.
+
+Moreover, Review Lab operates offline, ensuring that all data remains securely stored on the user's personal computer.
+
+## Installation
+
+Using terminal is the easiest
+
+```         
+pip install asreview
+```
+
+## Deploy as local host
+
+terminal command
+
+```         
+asreview lab
+```
+
+`http://localhost:5001/` will get automatically opened in our default browser and the following window will open
+
+![](images/as2.png)
+
+## Creating projects
+
+By clicking on `create` we can start creating a project
+
+![](images/as3.png)
+
+## Adding data
+
+Data-set can be uploaded from the computer as .ris format or similar ones.
+
+![](images/as4.png)
+
+## Giving prior knowledge
+
+We can key in the relevant keyword in the search menu. ASReview Lab will display few abstracts from which we should select at-least on relevant and one irrelevant article.
+
+::: columns
+::: column
+![](images/as5.png)
+:::
+
+::: column
+![](images/as6.png)
+:::
+:::
+
+## Selecting the learning model
+
+Atleast 7 different models are available to select from. I prefer Naive Bayes.
+
+![](images/as7.png)
+
+## Review
+
+ASReview Lab will display the most relevant articles first. As we progress forward, an analysis will be created and we can get an idea about how many more `relevant` articles can be expected, using the prediction model.
+
+![](images/as8.png)
+
+`Happy review !`
