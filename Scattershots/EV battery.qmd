@@ -21,3 +21,15 @@ Most commonly used EV battery today are Li- ion. They include
 | Life is \~ 3000 cycles of charge   | `Life is ~ 1500 cycles of charge` |
 | `Sub-par range & charging in cold` | Temperature insensitive           |
 | e.g: MG 50.3 pack, Tesla, BYD      | e.g: MG 44.5 pack, Nissan, Benz   |
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6654317637230610"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6654317637230610"
+     data-ad-slot="9318236526"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
