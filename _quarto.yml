@@ -10,7 +10,7 @@ website:
   description: "Kishore Puthezhath's official website"
   favicon: /image/logo.png
   navbar:
-    background: light
+    background: "#f9fbf9"
     foreground: dark
     search: false
     tools:
@@ -30,11 +30,13 @@ website:
         text: Home
   sidebar:
     contents: auto
+    background: "#f9fbf9"
   page-navigation: true
   back-to-top-navigation: true
-  page-footer: 
+  page-footer:
     right: "Copyright 2024 @ Kishore Puthezhath"
     left: "Opinions are for informational purposes only and not personalized advice"
+    background: "#fbf9fb"
   reader-mode: true
   cookie-consent:
     type: implied
@@ -47,6 +49,7 @@ website:
     "Kishore's official website"
   open-graph: true
   
+  
     
 format:
   html:
@@ -55,7 +58,8 @@ format:
     mainfont: Amazon ember
     fontsize: 1.2rem
     fontcolor: black
-    background-color: 704214
+    linkcolor: blue
+    backgroundcolor: "#f9fbf9"
     css: styles.css
     toc: true
 
