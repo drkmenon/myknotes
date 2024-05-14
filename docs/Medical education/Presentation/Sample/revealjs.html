@@ -439,19 +439,36 @@ By Kishore Puthezhath
 </div>
 
 </section>
+<section id="the-title-of-presentation" class="slide level2">
+<h2>The title of presentation</h2>
+<p>yaml of the quarto document should include the necessary <code>title</code> and <code>format</code> ( as revealjs)</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource html number-lines code-with-copy"><code class="sourceCode html"><span id="cb1-1"><a></a>---</span>
+<span id="cb1-2"><a></a>title: "sample presentation"</span>
+<span id="cb1-3"><a></a>subtitle: "A quick guide"</span>
+<span id="cb1-4"><a></a>author: "By Kishore Puthezhath"</span>
+<span id="cb1-5"><a></a>format:</span>
+<span id="cb1-6"><a></a>  revealjs:</span>
+<span id="cb1-7"><a></a>    logo: /images/tie-01.png</span>
+<span id="cb1-8"><a></a>    footer: "Kishore Puthezhath FRCS (Tr <span class="er">&amp;</span> Orth)(Eng)"</span>
+<span id="cb1-9"><a></a>    smaller: true</span>
+<span id="cb1-10"><a></a>    scrollable: true</span>
+<span id="cb1-11"><a></a>    chalkboard: true</span>
+<span id="cb1-12"><a></a>    multiplex: true</span>
+<span id="cb1-13"><a></a>    code-copy: true</span>
+<span id="cb1-14"><a></a>publish: false</span>
+<span id="cb1-15"><a></a>---</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
 <section id="sec-individual-slides" class="slide level2">
 <h2>Individual slides</h2>
-<ul>
-<li>They are marked with # or ## and the title</li>
-</ul>
+<p>They are marked with # or ## and forms the title of the slide</p>
 </section>
 <section id="incremental-points" class="slide level2">
 <h2>Incremental Points</h2>
-<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="sc">:::</span>{.incremental} </span>
-<span id="cb1-2"><a></a><span class="sc">-</span> This comes first</span>
-<span id="cb1-3"><a></a></span>
-<span id="cb1-4"><a></a><span class="sc">-</span> This second</span>
-<span id="cb1-5"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a></a><span class="sc">:::</span>{.incremental} </span>
+<span id="cb2-2"><a></a><span class="sc">-</span> This comes first</span>
+<span id="cb2-3"><a></a></span>
+<span id="cb2-4"><a></a><span class="sc">-</span> This second</span>
+<span id="cb2-5"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div>
 <ul>
 <li class="fragment"><p>This comes first</p></li>
@@ -461,21 +478,21 @@ By Kishore Puthezhath
 </section>
 <section id="columns" class="slide level2">
 <h2>Columns</h2>
-<div class="sourceCode" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a></a><span class="st">```</span><span class="at"> </span></span>
-<span id="cb2-2"><a></a><span class="at">:::{.columns} </span></span>
-<span id="cb2-3"><a></a><span class="at">This is outside the column, may be heading</span></span>
-<span id="cb2-4"><a></a><span class="at">:::{.column .fragment .width="50%"} </span></span>
-<span id="cb2-5"><a></a><span class="at">content 1 </span></span>
-<span id="cb2-6"><a></a><span class="at">:::</span></span>
-<span id="cb2-7"><a></a></span>
-<span id="cb2-8"><a></a><span class="at">::: {.column .fragment} </span></span>
-<span id="cb2-9"><a></a><span class="at">content 2 </span></span>
-<span id="cb2-10"><a></a></span>
-<span id="cb2-11"><a></a><span class="at">:::</span></span>
-<span id="cb2-12"><a></a><span class="at">This is outside the column, again a legent or something like that .incremental works only with list </span></span>
-<span id="cb2-13"><a></a><span class="at">:::</span></span>
-<span id="cb2-14"><a></a><span class="at">#The .fragment span style helps to achieve sequencial appearance, just like .incremental in list.</span></span>
-<span id="cb2-15"><a></a><span class="st">```</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a></a><span class="st">```</span><span class="at"> </span></span>
+<span id="cb3-2"><a></a><span class="at">:::{.columns} </span></span>
+<span id="cb3-3"><a></a><span class="at">This is outside the column, may be heading</span></span>
+<span id="cb3-4"><a></a><span class="at">:::{.column .fragment .width="50%"} </span></span>
+<span id="cb3-5"><a></a><span class="at">content 1 </span></span>
+<span id="cb3-6"><a></a><span class="at">:::</span></span>
+<span id="cb3-7"><a></a></span>
+<span id="cb3-8"><a></a><span class="at">::: {.column .fragment} </span></span>
+<span id="cb3-9"><a></a><span class="at">content 2 </span></span>
+<span id="cb3-10"><a></a></span>
+<span id="cb3-11"><a></a><span class="at">:::</span></span>
+<span id="cb3-12"><a></a><span class="at">This is outside the column, again a legent or something like that .incremental works only with list </span></span>
+<span id="cb3-13"><a></a><span class="at">:::</span></span>
+<span id="cb3-14"><a></a><span class="at">#The .fragment span style helps to achieve sequencial appearance, just like .incremental in list.</span></span>
+<span id="cb3-15"><a></a><span class="st">```</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="columns">
 <hr><p>This is outside the column, may be heading</p><div class="column fragment" style="width:20%;">
 <p>content 1</p>
@@ -486,13 +503,13 @@ By Kishore Puthezhath
 </section>
 <section id="footnote-and-speaker-notes" class="slide level2">
 <h2>Footnote and Speaker notes</h2>
-<div class="sourceCode" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a></a><span class="sc">:::</span>aside</span>
-<span id="cb3-2"><a></a><span class="cf">for</span> footnote</span>
-<span id="cb3-3"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="sourceCode" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a></a><span class="sc">:::</span> notes</span>
-<span id="cb4-2"><a></a><span class="cf">for</span> speaker notes.</span>
-<span id="cb4-3"><a></a><span class="sc">:::</span> </span>
-<span id="cb4-4"><a></a>Hit <span class="st">`</span><span class="at">s</span><span class="st">`</span> to reveal speaker notes</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a></a><span class="sc">:::</span>aside</span>
+<span id="cb4-2"><a></a><span class="cf">for</span> footnote</span>
+<span id="cb4-3"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a></a><span class="sc">:::</span> notes</span>
+<span id="cb5-2"><a></a><span class="cf">for</span> speaker notes.</span>
+<span id="cb5-3"><a></a><span class="sc">:::</span> </span>
+<span id="cb5-4"><a></a>Hit <span class="st">`</span><span class="at">s</span><span class="st">`</span> to reveal speaker notes</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 <aside class="notes">
 <p>This is a speaker note</p>
@@ -532,12 +549,12 @@ By Kishore Puthezhath
 </section>
 <section id="tabsets" class="slide level2">
 <h2>Tabsets</h2>
-<div class="sourceCode" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a></a><span class="sc">:::</span> {.panel<span class="sc">-</span>tabset}</span>
-<span id="cb5-2"><a></a><span class="do">### Tab A </span></span>
-<span id="cb5-3"><a></a>content </span>
-<span id="cb5-4"><a></a><span class="do">### Tab B</span></span>
-<span id="cb5-5"><a></a>others</span>
-<span id="cb5-6"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a></a><span class="sc">:::</span> {.panel<span class="sc">-</span>tabset}</span>
+<span id="cb6-2"><a></a><span class="do">### Tab A </span></span>
+<span id="cb6-3"><a></a>content </span>
+<span id="cb6-4"><a></a><span class="do">### Tab B</span></span>
+<span id="cb6-5"><a></a>others</span>
+<span id="cb6-6"><a></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="tabsets-1" class="slide level2">
 <h2>Tabsets</h2>
@@ -555,9 +572,9 @@ By Kishore Puthezhath
 </section>
 <section id="pause" class="slide level2">
 <h2>Pause</h2>
-<div class="sourceCode" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a></a>content before </span>
-<span id="cb6-2"><a></a>. . . </span>
-<span id="cb6-3"><a></a>Content after</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a></a>content before </span>
+<span id="cb7-2"><a></a>. . . </span>
+<span id="cb7-3"><a></a>Content after</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>content before</p>
 <div class="fragment">
 <p>Content after</p>

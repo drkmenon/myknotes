@@ -1,0 +1,28 @@
+---
+title: "Wrinkles in the vast genetic sea"
+nosite:
+  -@woese2004
+  -@bostonuniversity2010
+---
+
+![Dalle 3 imagined picture of vertical wrinkle in the vast sea.](images/wrinkle.jpeg)
+
+## Horizontal gene transfer (HGT) in the primitive world
+
+Carl Woese is one of the leading taxonomical microbiologists is the world. His paper "A New Biology for a New Century" discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.
+
+That world was a vast sea of `cosmopolitan` genes, freely flowing from one entity to another. Because of HGT, evolution might have been largely communal and reticulate, rather than individual. We may never know whether their communal bonds persisted solely through gene exchanges or whether they evolved into physically organized groups, possibly resembling contemporary bacterial consortia but exhibiting even greater diversity in composition and methods of interaction. But it seems that efficient genes produced better systems of metabolism and reproduction, which got readily transferred to the community, thereby upgrading the system as a whole.
+
+## Bumpy roads to who knows where
+
+This reticulate evolution sometimes reaches a saturation point as far as a particular individual entity (e.g., cells) is concerned. What may mean by a saturation point is that HGT breaks the existing composition, and a new entity emerges from the existing one. Very often, such an entity will not have any survival advantage and becomes obsolete over the passage of time.
+
+But, as Freeman Dyson would call it, a 'Bill Gates' moment can happen at this juncture. The entity or cell that gains a new emergent property, a saltation, suddenly feels it inconceivable to share that property with the rest of the community. The advancement thus happened gets reserved to the private consumption rather than the advancement of the community. Muliple such events might have happened.
+
+These saltatory moments become the start of a winner-takes-all, fractal cascade, the `vertical individual evolution`. This vertical wrinkle in the vast sea of horizontal evolution is marked by canonical interactions based on competition for survival rather than free transfer.
+
+That wrinkle could be `archaea`, `bacteria`, a `eukaryote`, or even an unknown entity that could be evolving vertically in their own right. What is clear here is that vertical evolution is not only bumpy or staccato, but it seemingly leads to nowhere.
+
+## Who will straighten the wrinkles?
+
+Almost everything that defines humans boils down to reticulation. Whether it is language, religion, and such social organizations, or gene therapy and the worldwide web, what we see is pure horizontal transfer of information. This `cultural` evolution is 1000s of times more faster and potent than Darwinian evolution of competition for survival between non interbreeding species. Except for some aberrations, we can see that Homo sapiens as a whole are attempting to straighten the wrinkle. In a sense, they are trying to rectify the Darwinian error.

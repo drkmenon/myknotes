@@ -14,9 +14,31 @@ format:
 publish: false
 ---
 
+## The title of presentation
+
+yaml of the quarto document should include the necessary `title` and `format` ( as revealjs)
+
+``` html
+---
+title: "sample presentation"
+subtitle: "A quick guide"
+author: "By Kishore Puthezhath"
+format:
+  revealjs:
+    logo: /images/tie-01.png
+    footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
+    smaller: true
+    scrollable: true
+    chalkboard: true
+    multiplex: true
+    code-copy: true
+publish: false
+---
+```
+
 ## Individual slides {#sec-individual-slides}
 
--   They are marked with \# or \## and the title
+They are marked with \# or \## and forms the title of the slide
 
 ## Incremental Points
 
