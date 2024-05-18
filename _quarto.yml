@@ -25,6 +25,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: https://www.knotes.co.in/revision%20notes/basic%20science/bone
+        text: Orthopaedics
+      - href: https://www.knotes.co.in/biomedical/research%20methodology/science
+        text: Research
+      - href: https://www.knotes.co.in/scattershots/hgt
+        text: Blog
   sidebar:
     contents: 
       - section: Orthopaedics
