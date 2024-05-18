@@ -32,7 +32,7 @@ If you send me an email and you don't hear back, Send it again!
 ::: {.get-started .alt-background}
 ::: {.content-block}
 
-[Orthopaedics](/docs/get-started/index.qmd){.btn-action-primary  .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
+[Orthopaedics](https://www.knotes.co.in/revision%20notes/adult%20pathology/charcot){.btn-action-primary  .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
 
 :::
 :::
@@ -41,7 +41,7 @@ If you send me an email and you don't hear back, Send it again!
 ::: {.get-started .alt-background}
 ::: {.content-block}
 
-[Research](/docs/get-started/index.qmd){.btn-action-primary  .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
+[Research](https://www.knotes.co.in/biomedical/research%20methodology/science){.btn-action-primary  .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
 :::
 :::
 :::
