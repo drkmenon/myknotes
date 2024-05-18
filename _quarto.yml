@@ -14,9 +14,6 @@ website:
     foreground: dark
     search: false
     tools:
-     - icon: twitter
-       text: twitter
-       href: https://twitter.com/drkmenon
      - icon: linkedin
        text: linkedin
        href: https://www.linkedin.com/in/kishore-puthezhath-frcs-48482747/
@@ -58,7 +55,7 @@ website:
     right: "Copyright 2024 @ Kishore Puthezhath"
     left: "Opinions are for informational purposes"
     background: white
-  reader-mode: true
+  reader-mode: false
   cookie-consent:
     type: implied
     style: simple
