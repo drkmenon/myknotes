@@ -31,7 +31,6 @@ website:
         text: Research
       - text: My blog
         href: posts.qmd
-    right: 
       - icon: rss
         href: posts.xml
   sidebar:
