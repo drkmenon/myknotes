@@ -47,6 +47,9 @@ website:
       - section: Practical Catallactics
         contents: Catallactics
       - text: "---"
+      - section: Blog
+        contents: posts
+      - text: "---"
       - section: About the author
         contents: 
           - href: author.qmd
