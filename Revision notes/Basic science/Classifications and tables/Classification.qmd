@@ -1,8 +1,6 @@
 ---
 title: "Classifications"
 toc: true
-toc-location: right-body
-toc-title: Quick links
 ---
 
 ## Wagner Classification of Diabetic Foot Ulcers
@@ -26,7 +24,6 @@ toc-title: Quick links
 ## Eichenholz Classification of Charcot Foot
 
 ::: callout
-
 +---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
 | [Stage]{style="font-weight: bold; color:#000090"} | [Name]{style="font-weight: bold; color:#000090"} | [Features]{style="font-weight: bold; color:#000090"} |
 +---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
@@ -52,7 +49,6 @@ toc-title: Quick links
 |                                                   |                                                  |                                                      |
 |                                                   |                                                  | Malunited, Ankylosed joints                          |
 +---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
-
 :::
 
 ## Osteochondral Defects of Talus
@@ -336,17 +332,17 @@ MRI classification by Bristol Group
 ## Hallux Valgus Severity
 
 ::: callout
-+----------+----------+----------+
-| Grade    | HVA      | IMA      |
-+----------+----------+----------+
-| Normal   | \<15     | \<8      |
-+----------+----------+----------+
-| Mild     | 15-19    | 8-13     |
-+----------+----------+----------+
-| Moderate | 20-40    | 13-20    |
-+----------+----------+----------+
-| Severe   | \>40     | \>20     |
-+----------+----------+----------+
++----------+---------+---------+
+| Grade    | HVA     | IMA     |
++----------+---------+---------+
+| Normal   | \<15    | \<8     |
++----------+---------+---------+
+| Mild     | 15-19   | 8-13    |
++----------+---------+---------+
+| Moderate | 20-40   | 13-20   |
++----------+---------+---------+
+| Severe   | \>40    | \>20    |
++----------+---------+---------+
 :::
 
 ## Avascular Necrosis of the Hip (FICAT)
@@ -1689,7 +1685,5 @@ Based on Alpha angle and femoral head position
 :::
 
 ::: column-margin
-
 *this contend is inspired by Revision notes by Phadnis J*
-
 :::

@@ -694,7 +694,7 @@
     "href": "Revision notes/Basic science/Classifications and tables/Classification.html",
     "title": "Classifications",
     "section": "",
-    "text": "Wagner Classification of Diabetic Foot Ulcers\n  Eichenholz Classification of Charcot Foot\n  Osteochondral Defects of Talus\n  Occipital Condyle Fractures\n  Atlas. (C1) Fractures - Levine Classification\n  Hangmans Fracture (Traumatic C2 Spondylolisthesis) Classification (Levine & Edwards)\n  PEG Fractures - Classification (Anderson)\n  Spinal Muscular Atrophy\n  HSMN Sub-types\n  Spina Bifida Types\n  Capitellar Fractures (Bryan & Morrey)\n  Radial Head (Mason)\n  Radial Neck (Mason)\n  Coronoid Process (Morrey)\n  Coronoid (O’Driscoll)\n  Tibialis Posterior Insufficiency (Johnson – Myerson grade 4)\n  Hallux Valgus Severity\n  Avascular Necrosis of the Hip (FICAT)\n  Avascular Necrosis of the Hip (Steinberg)\n  Femoral Head fracture dislocations (Pipkin)\n  Tibial Plateau (Schatzker)\n  Stages of Elbow Instability\n  ASIA Scale of SCI\n  Glenoid Fractures\n  Calcaneal Fractures – Sanders \n  Soft Tissue Injuries – Tscherne\n  Open Fractures – Gustillo Anderson\n  Acetabular Fractures – Letournel\n  Pelvic Fractures - Tile\n  Pelvic Fractures – Young & Burgess\n  Periprosthetic Hip – Vancouver\n  Impending Pathologic Fracture – Mirel’s\n  Monteggia Fracture – Bado\n  MESS Score\n  Classification of Rheumatoid Thumb - Naelbuf\n  TFCC Tears – Palmer Classification\n  Scaphoid Fractures\n  Keinbock’s Disease – Lichtman\n  Classification of SLAP tears – Schneider\n  Rheumatoid Arthritis Elbow – Larsen\n  Thumb CMCJ Arthritis – Eaton\n  Hallux Rigidus – Coughlin\n  AVN Humeral Head – Creuss\n  Classification of Cerebral Palsy\n  Perthes Disease – Herring Lateral Pillar Height\n  Cervical Spine Rheumatoid Arthritis Severity – Ranawat\n  Ferguson Mechanistic Classification of Sub-Axial Fractures\n  Spondylolisthesis\n  Nerve Injury\n  Sacral Fractures – Denis\n  Femoral head Fracture Dislocation – Pipkin\n  Bone Tumours – Enneking\n  SUFE Severity – Southwick Angle\n  Talar Neck Fractures – Hawkins\n  Discoid Meniscus\n  Meniscal Tears – tear pattern\n  Adult Hip Dysplasia – Crowe\n  Classification of Tibial Bone Defects in TKR\n  Knee Dislocation - Schenk\n  Clavicle Fractures – Neer\n  Graf classification of DDH \n  Denis – 3 Column Theory of Spinal Stability\n  Swanson’s Classification of Congenital Anomalies\n  Wassel’s Classification of Thumb Duplications\n  Classification of Articular Cartilage Degeneration (Jackson)\n  Lauge Hansen Classification of Ankle Fractures\n  Paprosky Classification of Femoral Defects\n  Paprosky Classification of Acetabular Defects",
+    "text": "Grade 0\nNo ulcer but foot deformity at risk of causing ulceration\n\n\nGrade 1\nSuperficial ulcer\n\n\nGrade 2\nDeep ulcer with visible bone or tendon\n\n\nGrade 3\nDeep ulcer with abscess or osteomyelitis\n\n\nGrade 4\nUlcer with gangrene limited to the forefoot\n\n\nGrade 5\nUlcer with gangrene of the whole foot",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -708,8 +708,8 @@
     "objectID": "Revision notes/Basic science/Classifications and tables/Classification.html#wagner-classification-of-diabetic-foot-ulcers",
     "href": "Revision notes/Basic science/Classifications and tables/Classification.html#wagner-classification-of-diabetic-foot-ulcers",
     "title": "Classifications",
-    "section": "Wagner Classification of Diabetic Foot Ulcers",
-    "text": "Wagner Classification of Diabetic Foot Ulcers\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrade 0\nNo ulcer but foot deformity at risk of causing ulceration\n\n\nGrade 1\nSuperficial ulcer\n\n\nGrade 2\nDeep ulcer with visible bone or tendon\n\n\nGrade 3\nDeep ulcer with abscess or osteomyelitis\n\n\nGrade 4\nUlcer with gangrene limited to the forefoot\n\n\nGrade 5\nUlcer with gangrene of the whole foot",
+    "section": "",
+    "text": "Grade 0\nNo ulcer but foot deformity at risk of causing ulceration\n\n\nGrade 1\nSuperficial ulcer\n\n\nGrade 2\nDeep ulcer with visible bone or tendon\n\n\nGrade 3\nDeep ulcer with abscess or osteomyelitis\n\n\nGrade 4\nUlcer with gangrene limited to the forefoot\n\n\nGrade 5\nUlcer with gangrene of the whole foot",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -2475,27 +2475,6 @@
     "text": "Contact me\nI teach at a medical school, Amala Institute of Medical Sciences and my office address is below:\nKishore Puthezhath\nDepartment of Orthopaedics\nAIMS, Kerala, Thrissur, KL 680555\nYou can reach me by email at drkmenon@gmail.com. I do try to answer.\nIf you send me an email and you don’t hear back, Send it again!\n\n\n\n\nOrthopaedics\n\n\n\n\n\nResearch"
   },
   {
-    "objectID": "posts/EV battery.html",
-    "href": "posts/EV battery.html",
-    "title": "EV battery",
-    "section": "",
-    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt"
-  },
-  {
-    "objectID": "posts/EV battery.html#types-of-battery",
-    "href": "posts/EV battery.html#types-of-battery",
-    "title": "EV battery",
-    "section": "",
-    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt"
-  },
-  {
-    "objectID": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
-    "href": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
-    "title": "EV battery",
-    "section": "Comparison of LFP and NMC Li-ion battery",
-    "text": "Comparison of LFP and NMC Li-ion battery\n\n\n\n\n\n\n\nLFP\nNMC\n\n\n\n\nCheap ($ 100/unit)\nCostly\n\n\nLess thermal run away\nMore thermal run away\n\n\nSafe to charge 100%\nLess safe for 100% charge\n\n\nLess energy density\nMore energy density\n\n\nLife is ~ 3000 cycles of charge\nLife is ~ 1500 cycles of charge\n\n\nSub-par range & charging in cold\nTemperature insensitive\n\n\ne.g: MG 50.3 pack, Tesla, BYD\ne.g: MG 44.5 pack, Nissan, Benz"
-  },
-  {
     "objectID": "posts/HGT.html",
     "href": "posts/HGT.html",
     "title": "Wrinkles in the vast genetic sea",
@@ -2524,11 +2503,25 @@
     "text": "Who will straighten the wrinkles?\nAlmost everything that defines humans boils down to reticulation. Whether it is language, religion, and such social organizations, or gene therapy and the worldwide web, what we see is pure horizontal transfer of information. This cultural evolution is 1000s of times more faster and potent than Darwinian evolution of competition for survival between non interbreeding species. Except for some aberrations, we can see that Homo sapiens as a whole are attempting to straighten the wrinkle. In a sense, they are trying to rectify the Darwinian error."
   },
   {
-    "objectID": "subscribe.html",
-    "href": "subscribe.html",
-    "title": "knotes",
+    "objectID": "posts/EV battery.html",
+    "href": "posts/EV battery.html",
+    "title": "EV battery",
     "section": "",
-    "text": "Back to top"
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt"
+  },
+  {
+    "objectID": "posts/EV battery.html#types-of-battery",
+    "href": "posts/EV battery.html#types-of-battery",
+    "title": "EV battery",
+    "section": "",
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt"
+  },
+  {
+    "objectID": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "href": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "title": "EV battery",
+    "section": "Comparison of LFP and NMC Li-ion battery",
+    "text": "Comparison of LFP and NMC Li-ion battery\n\n\n\n\n\n\n\nLFP\nNMC\n\n\n\n\nCheap ($ 100/unit)\nCostly\n\n\nLess thermal run away\nMore thermal run away\n\n\nSafe to charge 100%\nLess safe for 100% charge\n\n\nLess energy density\nMore energy density\n\n\nLife is ~ 3000 cycles of charge\nLife is ~ 1500 cycles of charge\n\n\nSub-par range & charging in cold\nTemperature insensitive\n\n\ne.g: MG 50.3 pack, Tesla, BYD\ne.g: MG 44.5 pack, Nissan, Benz"
   },
   {
     "objectID": "Education technology/ECE.html",
@@ -2600,7 +2593,7 @@
     "href": "Education technology/pbl.html",
     "title": "PBL methodology",
     "section": "",
-    "text": "Go to PBL Module\n\nWhat is PBL?\n\nIn problem based learning (PBL) students use “triggers” from the problem case or scenario to define their own learning objectives.\nSubsequently they do independent, self directed study before returning to the group to discuss and refine their acquired knowledge.\nThus, PBL is not about problem solving per se, but rather it uses appropriate problems to increase knowledge and understanding (Wood 2003).",
+    "text": "Go to PBLModule\n\nWhat is PBL?\n\nIn problem based learning (PBL) students use “triggers” from the problem case or scenario to define their own learning objectives.\nSubsequently they do independent, self directed study before returning to the group to discuss and refine their acquired knowledge.\nThus, PBL is not about problem solving per se, but rather it uses appropriate problems to increase knowledge and understanding (Wood 2003).",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -2613,7 +2606,7 @@
     "href": "Education technology/pbl.html#problem-based-learning",
     "title": "PBL methodology",
     "section": "",
-    "text": "Go to PBL Module\n\nWhat is PBL?\n\nIn problem based learning (PBL) students use “triggers” from the problem case or scenario to define their own learning objectives.\nSubsequently they do independent, self directed study before returning to the group to discuss and refine their acquired knowledge.\nThus, PBL is not about problem solving per se, but rather it uses appropriate problems to increase knowledge and understanding (Wood 2003).",
+    "text": "Go to PBLModule\n\nWhat is PBL?\n\nIn problem based learning (PBL) students use “triggers” from the problem case or scenario to define their own learning objectives.\nSubsequently they do independent, self directed study before returning to the group to discuss and refine their acquired knowledge.\nThus, PBL is not about problem solving per se, but rather it uses appropriate problems to increase knowledge and understanding (Wood 2003).",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -4249,7 +4242,7 @@
     "href": "Revision notes/Basic science/Classifications and tables/Tables.html#pathologic-process-of-osteoarthritis",
     "title": "Useful Tables",
     "section": "Pathologic Process of Osteoarthritis",
-    "text": "Pathologic Process of Osteoarthritis\n\n\n\n\n\n\n\n\nStage 1\nMechanical disruption of the collagen network\nIncreased water content\n\n\nStage 2\nAlters balance of cartilage metabolism – catabolic processes dominate\nProducts of catabolism are released into synovial fluid\n(Chondroitin & keratan sulphate, collagen & PGs fragments)\n\n\nStage 3\nIncites an inflammatory response\nPMNs, Macrophages, IL-1 and MMPs accumilate\n\n\nStage 4\nThese mediators degrade the cartilage matrix, disrupt collagen further and alter chondrocyte function\n\n\nStage 5\nHistology shows Fibrillated, eburnated, sclerotic shiny cartilage with loss of chondrocytes, collagen and PGs",
+    "text": "Pathologic Process of Osteoarthritis\n\n\n\n\n\n\n\n\nStage 1\nMechanical disruption of the collagen network\nIncreased water content\n\n\nStage 2\nAlters balance of cartilage metabolism – catabolic processes dominate\nProducts of catabolism are released into synovial fluid\n(Chondroitin & keratan sulphate, collagen & PGs fragments)\n\n\nStage 3\nIncites an inflammatory response\nPMNs, Macrophages, IL-1 and MMPs accumilate\n\n\nStage 4\nThese mediators degrade the cartilage matrix, disrupt collagen further and alter chondrocyte function\n\n\nStage 5\nHistology shows Fibrillated, eburnated, sclerotic shiny cartilage with loss of chondrocytes, collagen and PGs\n\n\n\n\n\n\n\n\nthis contend is inspired by Revision notes by Phadnis J",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -4642,7 +4635,7 @@
     "href": "Revision notes/PBL modules/scfr.html",
     "title": "Pink Pulseless Hand",
     "section": "",
-    "text": "To learn how to conduct the session, CLICK HERE\n\n\n\n\n\n\nProblem Statement\n\n\n\nYou are the member of orthopedic team of a large hospital. It is the team’s Job to make decision and treat all trauma brought to it. You are on duty on alternate days and on duty days you are supposed to take decisions, operate and seek help on behalf of the team. You received an emergency call at 12 midnight to attend a case.",
+    "text": "To learn how to conduct the session, CLICKHERE\n\n\n\n\n\n\nProblem Statement\n\n\n\nYou are the member of orthopedic team of a large hospital. It is the team’s Job to make decision and treat all trauma brought to it. You are on duty on alternate days and on duty days you are supposed to take decisions, operate and seek help on behalf of the team. You received an emergency call at 12 midnight to attend a case.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -4656,7 +4649,7 @@
     "href": "Revision notes/PBL modules/scfr.html#how-to-use-this-module",
     "title": "Pink Pulseless Hand",
     "section": "",
-    "text": "To learn how to conduct the session, CLICK HERE\n\n\n\n\n\n\nProblem Statement\n\n\n\nYou are the member of orthopedic team of a large hospital. It is the team’s Job to make decision and treat all trauma brought to it. You are on duty on alternate days and on duty days you are supposed to take decisions, operate and seek help on behalf of the team. You received an emergency call at 12 midnight to attend a case.",
+    "text": "To learn how to conduct the session, CLICKHERE\n\n\n\n\n\n\nProblem Statement\n\n\n\nYou are the member of orthopedic team of a large hospital. It is the team’s Job to make decision and treat all trauma brought to it. You are on duty on alternate days and on duty days you are supposed to take decisions, operate and seek help on behalf of the team. You received an emergency call at 12 midnight to attend a case.",
     "crumbs": [
       "Home",
       "Orthopaedics",

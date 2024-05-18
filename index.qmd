@@ -5,13 +5,9 @@ backgroundcolor: white
 
 ![](image/knotes.png){width="150"}
 
-
-
-This compilation represents a collection of notes and insights I have gathered over the years, primarily focusing on topics related to [Research](https://www.knotes.co.in/research/research%20methodology/science), [Orthopaedics](https://www.knotes.co.in/orthopaedics/basic%20science/bone), [Medical Education](https://www.knotes.co.in/medical%20education/zotero), [Catallactics](https://www.knotes.co.in/practical%20catallactics/personal/speculation) and my general experiences in these fields. It serves as a reflection of my journey and learning in these areas, encapsulating both the technical aspects of these subjects and the practical experiences I have encountered.
+This compilation represents a collection of notes and insights I have gathered over the years, primarily focusing on topics related to [Research](https://www.knotes.co.in/biomedical/research%20methodology/science), [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone), [Medical Education,](https://www.knotes.co.in/education%20technology/zotero) [Catallactics](https://www.knotes.co.in/catallactics/personal/conifers) and my general experiences in these fields. It serves as a reflection of my journey and learning in these areas, encapsulating both the technical aspects of these subjects and the practical experiences I have encountered.
 
 Everything that I learn, do or write will be on this site sooner or later. I hope that you find the content useful and that you will share it with others. Good luck!
-
-
 
 ## Contact me {#sec-contact-me}
 
@@ -25,24 +21,20 @@ You can reach me by email at [drkmenon\@gmail.com](mailto:drkmenon@gmail.com){.e
 
 If you send me an email and you don't hear back, Send it again!
 
-:::: columns
-
-::: column
-
-::: {.get-started .alt-background}
-::: {.content-block}
-
-[Orthopaedics](https://www.knotes.co.in/revision%20notes/adult%20pathology/charcot){.btn-action-primary  .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
-
-:::
-:::
-:::
+::: columns
 ::: column
 ::: {.get-started .alt-background}
-::: {.content-block}
+::: content-block
+[Orthopaedics](https://www.knotes.co.in/revision%20notes/adult%20pathology/charcot){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
+:::
+:::
+:::
 
-[Research](https://www.knotes.co.in/biomedical/research%20methodology/science){.btn-action-primary  .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
+::: column
+::: {.get-started .alt-background}
+::: content-block
+[Research](https://www.knotes.co.in/biomedical/research%20methodology/science){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 1em;"}
 :::
 :::
 :::
-::::
+:::
