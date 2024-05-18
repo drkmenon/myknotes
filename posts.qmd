@@ -1,0 +1,9 @@
+---
+title: "My blog"
+listing: 
+  contents: posts
+  type: default
+  categories: true
+  fields: [image, date, title,  reading-time, description]
+  feed: true
+---

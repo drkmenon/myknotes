@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>knotes - Zotero</title>
+<title>knotes - My blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../Education technology/skill.html" rel="next">
-<link href="..//image/logo.png" rel="icon" type="image/png">
-<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href=".//image/logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7GYDLCJCZE"></script>
 
 <script type="text/plain" cookie-consent="tracking">
@@ -98,10 +128,38 @@ cookieconsent.run({
 </script> 
   
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="knotes - Zotero">
-<meta property="og:description" content="Kishore Puthezhath’s official website">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+<link rel="alternate" type="application/rss+xml" title="knotes" href="posts.xml" data-external="1"><meta property="og:title" content="knotes - My blog">
 <meta property="og:site_name" content="knotes">
 </head>
 
@@ -112,8 +170,8 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../image/knotes.png" alt="" class="navbar-logo">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./image/knotes.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -123,7 +181,7 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -135,13 +193,13 @@ cookieconsent.run({
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../posts.html"> 
+    <a class="nav-link active" href="./posts.html" aria-current="page"> 
 <span class="menu-text">My blog</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="../posts.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./posts.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -158,7 +216,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Medical Education</li><li class="breadcrumb-item"><a href="../Education technology/zotero.html">Education technology</a></li><li class="breadcrumb-item"><a href="../Education technology/zotero.html">Zotero</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">My blog</li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -199,37 +257,37 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Charcot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diabetic foot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fragility prevention</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteoporosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteosarcopenia</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tuberculosis</span></a>
   </div>
 </li>
@@ -246,13 +304,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fracture</span></a>
   </div>
 </li>
@@ -267,7 +325,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Free body diagram</span></a>
   </div>
 </li>
@@ -284,13 +342,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Classifications</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Useful Tables</span></a>
   </div>
 </li>
@@ -309,7 +367,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diagrams</span></a>
   </div>
 </li>
@@ -326,7 +384,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pink Pulseless Hand</span></a>
   </div>
 </li>
@@ -343,7 +401,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Basic Science</span></a>
   </div>
 </li>
@@ -360,31 +418,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">books</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FRCS application</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 1 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 2 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
+  <a href="./Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">questions</span></a>
   </div>
 </li>
@@ -406,40 +464,40 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-11" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="false">
  <span class="menu-text">Education technology</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Education technology/zotero.html" class="sidebar-item-text sidebar-link active">
+  <a href="./Education technology/zotero.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Zotero</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Education technology/skill.html" class="sidebar-item-text sidebar-link">
+  <a href="./Education technology/skill.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Skill teaching</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Education technology/pbl.html" class="sidebar-item-text sidebar-link">
+  <a href="./Education technology/pbl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">PBL methodology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Education technology/ECE.html" class="sidebar-item-text sidebar-link">
+  <a href="./Education technology/ECE.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Early clinical exposure</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
+  <a href="./Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">ASReview Lab</span></a>
   </div>
 </li>
@@ -454,7 +512,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link">
+  <a href="./Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Revealjs for Presentation</span></a>
   </div>
 </li>
@@ -469,7 +527,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-14" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
+  <a href="./Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">sample presentation</span></a>
   </div>
 </li>
@@ -511,25 +569,25 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-17" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Biomedical/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
+  <a href="./Biomedical/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
+  <a href="./Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Averages and measures of dispersion</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Biomedical/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
+  <a href="./Biomedical/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">p and CI</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Biomedical/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
+  <a href="./Biomedical/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Funnel plot</span></a>
   </div>
 </li>
@@ -569,25 +627,25 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
+  <a href="./Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">IMA SSS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
+  <a href="./Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Productivity</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
+  <a href="./Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Retirement fund</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
+  <a href="./Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Risk mitigation</span></a>
   </div>
 </li>
@@ -609,13 +667,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-21" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../author.html" class="sidebar-item-text sidebar-link">
+  <a href="./author.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Author</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../tenet.html" class="sidebar-item-text sidebar-link">
+  <a href="./tenet.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Privacy Policy</span></a>
   </div>
 </li>
@@ -641,7 +699,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-23" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../Journal articles/Articles.html" class="sidebar-item-text sidebar-link">
+  <a href="./Journal articles/Articles.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Published articles</span></a>
   </div>
 </li>
@@ -657,39 +715,14 @@ cookieconsent.run({
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
 <p>Kishore’s official website</p>
 </div></div>
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#to-master" id="toc-to-master" class="nav-link active" data-scroll-target="#to-master">to master</a></li>
-  <li><a href="#installation" id="toc-installation" class="nav-link" data-scroll-target="#installation">Installation</a></li>
-  <li><a href="#zotero-6-desktop-app" id="toc-zotero-6-desktop-app" class="nav-link" data-scroll-target="#zotero-6-desktop-app">Zotero 6 desktop app</a>
-  <ul class="collapse">
-  <li><a href="#first-column" id="toc-first-column" class="nav-link" data-scroll-target="#first-column">First column</a></li>
-  <li><a href="#second-column" id="toc-second-column" class="nav-link" data-scroll-target="#second-column">Second column</a></li>
-  <li><a href="#third-column" id="toc-third-column" class="nav-link" data-scroll-target="#third-column">Third column</a></li>
-  </ul></li>
-  <li><a href="#uses" id="toc-uses" class="nav-link" data-scroll-target="#uses">Uses</a></li>
-  <li><a href="#citations-3-methods" id="toc-citations-3-methods" class="nav-link" data-scroll-target="#citations-3-methods">Citations, 3 methods</a></li>
-  <li><a href="#organisation" id="toc-organisation" class="nav-link" data-scroll-target="#organisation">Organisation</a></li>
-  <li><a href="#collections-tags" id="toc-collections-tags" class="nav-link" data-scroll-target="#collections-tags">Collections &amp; tags:</a></li>
-  <li><a href="#related-items" id="toc-related-items" class="nav-link" data-scroll-target="#related-items">Related items :</a></li>
-  <li><a href="#zutilo-extension" id="toc-zutilo-extension" class="nav-link" data-scroll-target="#zutilo-extension">zutilo extension</a></li>
-  <li><a href="#reading-annotation" id="toc-reading-annotation" class="nav-link" data-scroll-target="#reading-annotation">Reading &amp; annotation</a></li>
-  <li><a href="#zotfile-extension" id="toc-zotfile-extension" class="nav-link" data-scroll-target="#zotfile-extension">zotfile extension</a></li>
-  <li><a href="#cwyw" id="toc-cwyw" class="nav-link" data-scroll-target="#cwyw">cwyw</a></li>
-  <li><a href="#cwyw-in-libreoffice-ms-word" id="toc-cwyw-in-libreoffice-ms-word" class="nav-link" data-scroll-target="#cwyw-in-libreoffice-ms-word">cwyw in Libreoffice / MS word</a></li>
-  <li><a href="#cwyw-in-quarto" id="toc-cwyw-in-quarto" class="nav-link" data-scroll-target="#cwyw-in-quarto">cwyw in Quarto</a></li>
-  <li><a href="#zoterobib" id="toc-zoterobib" class="nav-link" data-scroll-target="#zoterobib">Zoterobib</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ev">ev <span class="quarto-category-count">(1)</span></div><div class="category" data-category="philosophy">philosophy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="science">science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="technology">technology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Medical Education</li><li class="breadcrumb-item"><a href="../Education technology/zotero.html">Education technology</a></li><li class="breadcrumb-item"><a href="../Education technology/zotero.html">Zotero</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Zotero</h1>
+<h1 class="title">My blog</h1>
 </div>
 
 
@@ -706,157 +739,67 @@ cookieconsent.run({
 </header>
 
 
-<section id="to-master" class="level2">
-<h2 class="anchored" data-anchor-id="to-master">to master</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>cwyw and formatting bibliography are deterrents to the flow of manuscript writing and this can be a painful exercise if done manually. While several commercial cwyw softwares are available, zotero is not only free and open source, it is an exceptional scribe for academic work.</p>
-</div>
-</div>
-<p><img src="images/zotero1.png" class="img-fluid"></p>
-<p>It can be reached via <a href="https://www.zotero.org">ZOTERO OFFICIAL WEBSITE</a></p>
-</section>
-<section id="installation" class="level2">
-<h2 class="anchored" data-anchor-id="installation">Installation</h2>
-<p><img src="images/zotero2.png" class="img-fluid"></p>
-<p>It comes with 2 pieces of software</p>
-<ul>
-<li><p>zotero 6 for mac desktop</p></li>
-<li><p>zotero connector for browser <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p></li>
-</ul>
-<p><code>After successful installation, you are good to go</code></p>
-</section>
-<section id="zotero-6-desktop-app" class="level2">
-<h2 class="anchored" data-anchor-id="zotero-6-desktop-app">Zotero 6 desktop app</h2>
-<p><img src="images/zotero4.png" class="img-fluid"></p>
-<p>It has got 3 colums</p>
-<section id="first-column" class="level3">
-<h3 class="anchored" data-anchor-id="first-column">First column</h3>
-<p>Shows the collections under the main folder <code>My Library.</code> We can add new collections by clicking on the folder icon. Subcollectins can be added by right clicking the collection.</p>
-</section>
-<section id="second-column" class="level3">
-<h3 class="anchored" data-anchor-id="second-column">Second column</h3>
-<p>Shows the individual citations, retrieved pdfs and notes</p>
-</section>
-<section id="third-column" class="level3">
-<h3 class="anchored" data-anchor-id="third-column">Third column</h3>
-<p>Shows</p>
-<ul>
-<li><p>info, information about the selected citation</p></li>
-<li><p>Notes</p></li>
-<li><p>Tags</p></li>
-<li><p>Related items</p></li>
-</ul>
-</section>
-</section>
-<section id="uses" class="level2">
-<h2 class="anchored" data-anchor-id="uses">Uses</h2>
-<p>helps to</p>
-<ul>
-<li><p>Retrieve citations and associated pdf full texts</p></li>
-<li><p>Organise them to Collections</p></li>
-<li><p>tag them for retrieval</p></li>
-<li><p>Read and annotate PDFs</p></li>
-<li><p>Retrieve annotations as notes</p></li>
-<li><p>CWYW</p></li>
-<li><p>Add bibliography</p></li>
-<li><p>Format bibliography</p></li>
-</ul>
-</section>
-<section id="citations-3-methods" class="level2">
-<h2 class="anchored" data-anchor-id="citations-3-methods">Citations, 3 methods</h2>
-<ul>
-<li><p>Extension for Firefox sending citations to desktop Collection</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/zotero3.png" class="img-fluid figure-img"></p>
-<figcaption>The curser shows the zotero extension. Click on the same</figcaption>
-</figure>
-</div></li>
-<li><p>Drag &amp; drop to zotero desktop app from computer file</p></li>
-<li><p>Add as a .ris file, downloaded from repositories.</p></li>
-</ul>
-<p>Zotero desktop will automatically fetch pdfs if available online</p>
-</section>
-<section id="organisation" class="level2">
-<h2 class="anchored" data-anchor-id="organisation">Organisation</h2>
-<ul>
-<li><p>Collections</p></li>
-<li><p>tags</p></li>
-<li><p>Related items</p></li>
-</ul>
-<p>they are building block for zotero library. Can be used together or separately.</p>
-</section>
-<section id="collections-tags" class="level2">
-<h2 class="anchored" data-anchor-id="collections-tags">Collections &amp; tags:</h2>
-<p><img src="images/zotero4.png" class="img-fluid"></p>
-<p>Helps to keep track of our work &amp; workflow.</p>
-</section>
-<section id="related-items" class="level2">
-<h2 class="anchored" data-anchor-id="related-items">Related items :</h2>
-<p>Indicate relations.</p>
-</section>
-<section id="zutilo-extension" class="level2">
-<h2 class="anchored" data-anchor-id="zutilo-extension">zutilo extension</h2>
-<p><img src="images/zotero5.png" class="img-fluid"></p>
-<p>This extension helps to add improved work flow for creating tags and related items</p>
-</section>
-<section id="reading-annotation" class="level2">
-<h2 class="anchored" data-anchor-id="reading-annotation">Reading &amp; annotation</h2>
-<p>Zotero has got a native pdf reader which can be annotated . The annotations can be retrieved as notes which can be utilised for creating manuscripts.</p>
-</section>
-<section id="zotfile-extension" class="level2">
-<h2 class="anchored" data-anchor-id="zotfile-extension">zotfile extension</h2>
-<p>This extension helps to create an excellent workflow, if a tablet or similar device is used for reading. Zotfile if properly configured, can send files to the tablet, via a cloud service of our choice, and retrieve it back after annotation. It can also automatically extract those annotations made in the pdf with the tablet in to a separate folder.&nbsp;</p>
-</section>
-<section id="cwyw" class="level2">
-<h2 class="anchored" data-anchor-id="cwyw">cwyw</h2>
-<p>The main attraction.</p>
-</section>
-<section id="cwyw-in-libreoffice-ms-word" class="level2">
-<h2 class="anchored" data-anchor-id="cwyw-in-libreoffice-ms-word">cwyw in Libreoffice / MS word</h2>
-<p>Zotero has extensions for these word processors. After installing the extension, Zotero can cite in text using the articles / books stored on the Collection.</p>
-<p><img src="images/zotero6.png" class="img-fluid"></p>
-<p>The extension will be added to the ribbon. It has got 3 main options</p>
-<ul>
-<li><p>add/edit citation</p></li>
-<li><p>add/edit bibliography</p></li>
-<li><p>add note</p></li>
-</ul>
-<p>Other functionality include <code>document preference</code> where we can modify the citation style</p>
-<p><img src="images/zotero 7.png" class="img-fluid"></p>
-<p>It can automatically format and insert a list of bibliography with the style of our choice. The format can be easily modified with a single click of button.</p>
-</section>
-<section id="cwyw-in-quarto" class="level2">
-<h2 class="anchored" data-anchor-id="cwyw-in-quarto">cwyw in Quarto</h2>
-<p>Requires Better bibtex extension and the .bib file should be placed in the parent directory.</p>
-<p>Zotero will automatically update the .bib file every time a new Citation is added to the Collection if we select auto update, during the first export of .bib file.</p>
-<p>If properly configured, @ Command or clicking on the insert: citations in quarto will open the window with all the Citations, Which can be searched and inserted.</p>
-<p><img src="images/zotero8.png" class="img-fluid"></p>
-</section>
-<section id="zoterobib" class="level2">
-<h2 class="anchored" data-anchor-id="zoterobib">Zoterobib</h2>
-<p><img src="images/zotero9.png" class="img-fluid"></p>
-<p>It is a web based citation and bibliography service by the zotero team. It is free and add free. If we are working on a public computer, it can be used to collect bibliography which can be downloaded in different formats</p>
 
 
-</section>
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Zotero extension for Safari does not work properly.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="technology,ev" data-listing-file-modified-sort="1716044907658" data-listing-reading-time-sort="2" data-listing-word-count-sort="323">
+<div class="thumbnail">
+<p><a href="./posts/EV battery.html" class="no-external"></a></p><a href="./posts/EV battery.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/EV battery.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/EV battery.html" class="no-external">EV battery</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/EV battery.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/EV battery.html" class="no-external">Most commonly used EV battery today are Li- ion. They include</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./posts/EV battery.html" class="no-external"></a></p><a href="./posts/EV battery.html" class="no-external">
+<div class="listing-reading-time">
+2 min
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="philosophy,science" data-listing-file-modified-sort="1716044884025" data-listing-reading-time-sort="3" data-listing-word-count-sort="455">
+<div class="thumbnail">
+<p><a href="./posts/HGT.html" class="no-external"></a></p><a href="./posts/HGT.html" class="no-external">
+<p class="card-img-top"><img src="posts/images/wrinkle.jpeg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/HGT.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/HGT.html" class="no-external">Wrinkles in the vast genetic sea</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/HGT.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/HGT.html" class="no-external">Carl Woese is one of the leading taxonomical microbiologists is the world. His paper “A New Biology for a New Century” discusses his insights in to the working of primitive…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./posts/HGT.html" class="no-external"></a></p><a href="./posts/HGT.html" class="no-external">
+<div class="listing-reading-time">
+3 min
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1266,15 +1209,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../Education technology/skill.html" class="pagination-link" aria-label="Skill teaching">
-        <span class="nav-page-text">Skill teaching</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

@@ -1,5 +1,9 @@
 ---
 title: "Wrinkles in the vast genetic sea"
+categories: 
+   - philosophy
+   - science
+author: "Kishore Puthezhath"
 nosite:
   -@woese2004
   -@bostonuniversity2010

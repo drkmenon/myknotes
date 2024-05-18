@@ -29,8 +29,11 @@ website:
         text: Orthopaedics
       - href: https://www.knotes.co.in/biomedical/research%20methodology/science
         text: Research
-      - href: https://www.knotes.co.in/scattershots/hgt
-        text: Blog
+      - text: My blog
+        href: posts.qmd
+    right: 
+      - icon: rss
+        href: posts.xml
   sidebar:
     contents: 
       - section: Orthopaedics
@@ -41,9 +44,6 @@ website:
       - text: "---"  
       - section: Research
         contents: Biomedical
-      - text: "---"
-      - section: Blog
-        contents: Scattershots
       - text: "---"
       - section: Practical Catallactics
         contents: Catallactics

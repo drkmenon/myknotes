@@ -1,5 +1,9 @@
 ---
 title: "EV battery"
+categories: 
+   - technology
+   - ev
+author: "Kishore Puthezhath"
 ---
 
 ## Types of battery
@@ -22,14 +26,16 @@ Most commonly used EV battery today are Li- ion. They include
 | `Sub-par range & charging in cold` | Temperature insensitive           |
 | e.g: MG 50.3 pack, Tesla, BYD      | e.g: MG 44.5 pack, Nissan, Benz   |
 
+```{=html}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6654317637230610"
      crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6654317637230610"
-     data-ad-slot="9318236526"></ins>
+```
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-6654317637230610" data-ad-slot="9318236526">
+
+</ins>
+
+```{=html}
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+```
