@@ -10,7 +10,7 @@ website:
   description: "Kishore Puthezhath's official website"
   favicon: /image/logo.png
   navbar:
-    background: "#f9fbf9"
+    background: "#f9fbfd"
     foreground: dark
     search: false
     tools:
@@ -29,14 +29,35 @@ website:
       - href: index.qmd
         text: Home
   sidebar:
-    contents: auto
-    background: "#f9fbf9"
+    contents: 
+      - section: Orthopaedics
+        contents: Revision notes
+      - text: "---"
+      - section: Medical Education
+        contents: Education technology
+      - text: "---"  
+      - section: Research
+        contents: Biomedical
+      - text: "---"
+      - section: Blog
+        contents: Scattershots
+      - text: "---"
+      - section: Practical Catallactics
+        contents: Catallactics
+      - text: "---"
+      - section: About the author
+        contents: 
+          - href: author.qmd
+          - href: tenet.qmd
+      - section: Publications
+        contents: Journal articles
+    background: white
   page-navigation: true
   back-to-top-navigation: true
   page-footer:
     right: "Copyright 2024 @ Kishore Puthezhath"
-    left: "Opinions are for informational purposes only and not personalized advice"
-    background: "#fbf9fb"
+    left: "Opinions are for informational purposes"
+    background: white
   reader-mode: true
   cookie-consent:
     type: implied
@@ -59,7 +80,7 @@ format:
     fontsize: 1.2rem
     fontcolor: black
     linkcolor: blue
-    backgroundcolor: "#f9fbf9"
+    backgroundcolor: white
     css: styles.css
     toc: true
 
