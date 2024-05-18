@@ -5,9 +5,11 @@ backgroundcolor: white
 
 ![](image/knotes.png){width="150"}
 
-This compilation represents a collection of notes and insights I have gathered over the years, primarily focusing on topics related to [Research](https://www.knotes.co.in/biomedical/research%20methodology/science), [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone), [Medical Education,](https://www.knotes.co.in/education%20technology/zotero) [Catallactics](https://www.knotes.co.in/catallactics/personal/conifers) and my general experiences in these fields. It serves as a reflection of my journey and learning in these areas, encapsulating both the technical aspects of these subjects and the practical experiences I have encountered.
+Contents are best viewed on a screen 10 inches or larger.
 
-Everything that I learn, do or write will be on this site sooner or later. I hope that you find the content useful and that you will share it with others. Good luck!
+This compilation represents a collection of my notes and insights gathered over the years, primarily focusing on topics related to [Research](https://www.knotes.co.in/biomedical/research%20methodology/science), [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone), [Medical Education,](https://www.knotes.co.in/education%20technology/zotero) [Catallactics](https://www.knotes.co.in/catallactics/personal/conifers) and my general experiences in these fields. Some of the [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone) content is a compilation of already available materials rather than original works. These are included for quick revision purposes. If you notice any copyright infringement, please inform me via email.
+
+Everything I learn, do, or write will be added to this site over time. I hope you find the content useful and share it with others. Good luck!
 
 ## Contact me {#sec-contact-me}
 

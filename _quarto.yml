@@ -33,7 +33,7 @@ website:
         href: posts.qmd
       - icon: rss
         href: posts.xml
-  sidebar:
+  sidebar: 
     contents: 
       - section: Orthopaedics
         contents: Revision notes
@@ -54,6 +54,7 @@ website:
         contents: 
           - href: author.qmd
           - href: tenet.qmd
+      - text: "---"
       - section: Publications
         contents: Journal articles
     background: white
