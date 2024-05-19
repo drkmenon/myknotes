@@ -2,8 +2,8 @@
 title: "My blog"
 listing: 
   contents: posts
-  type: default
+  type: table
   categories: true
-  fields: [image, date, title, reading-time, description]
+  fields: [date, title, reading-time, categories]
   feed: true
 ---
