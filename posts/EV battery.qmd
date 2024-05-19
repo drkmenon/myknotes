@@ -4,6 +4,7 @@ categories:
    - technology
    - ev
 author: "Kishore Puthezhath"
+date: 11 may 2024
 ---
 
 ## Types of battery

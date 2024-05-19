@@ -82,8 +82,8 @@ format:
   html:
     theme:
      journal
-    mainfont: Amazon ember
-    fontsize: 1.2rem
+    mainfont: Avenir Next
+    fontsize: 1.1rem
     fontcolor: black
     linkcolor: blue
     backgroundcolor: white
