@@ -2505,7 +2505,7 @@
     "href": "index.html#keep-updated",
     "title": "Welcome new readers",
     "section": "Keep updated",
-    "text": "Keep updated\nTo subscribe for regular updates whenever a new blog post is published, please provide your email address in the field below:\n\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */\n        \n    \n        \n            \n                \n                \n            \n        \n    \n\n\n\n\nBy submitting your email address and clicking “Subscribe”, you consent to receive updates whenever a new blog post is published. This will help us improve the meaning and content of our blog by keeping you informed about our latest articles and updates. Thank you for subscribing!"
+    "text": "Keep updated\nTo subscribe for regular updates whenever a new blog post is published, please provide your email address in the field below and hit subscribe:\n\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */\n        \n    \n        \n            \n                \n                \n            \n        \n    \n\n\n\n\nBy submitting your email address and clicking “Subscribe”, you consent to receive updates whenever a new blog post is published. This will help us improve the meaning and content of our blog by keeping you informed about our latest articles and updates. Thank you for subscribing!"
   },
   {
     "objectID": "Education technology/zotero.html",
@@ -3056,7 +3056,14 @@
     "href": "posts.html",
     "title": "My blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\nCategories\n\n\n\n\n\n\nMay 11, 2024\n\n\nEV battery\n\n\n2 min\n\n\ntechnology, ev\n\n\n\n\nMay 10, 2024\n\n\nWrinkles in the vast genetic sea\n\n\n3 min\n\n\nphilosophy, science\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "To subscribe for regular updates whenever a new blog post is published, please provide your email address in the field below and hit subscribe:\n\n\n      \n  \n\n    \n        \n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+  },
+  {
+    "objectID": "posts.html#keep-updated",
+    "href": "posts.html#keep-updated",
+    "title": "My blog",
+    "section": "",
+    "text": "To subscribe for regular updates whenever a new blog post is published, please provide your email address in the field below and hit subscribe:\n\n\n      \n  \n\n    \n        \n            * indicates required\n            Email Address *\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
   },
   {
     "objectID": "author.html",

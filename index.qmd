@@ -32,7 +32,7 @@ If you send me an email and you don't hear back, Send it again!
 
 ## Keep updated
 
-To subscribe for regular updates whenever a new blog post is published, please provide your email address in the field below:
+To subscribe for regular updates whenever a new blog post is published, please provide your email address in the field below and hit subscribe:
 
 ```{=html}
 <!-- Begin Mailchimp Signup Form -->
