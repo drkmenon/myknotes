@@ -203,3 +203,11 @@ Median income is around ₹5375.
 These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let's have a final look at [Income distribution](#fig-path).
 
 The individual incomes of many, represented by the red lines, languish in the shadows of colossal giants. These titanic paths of income towering above, dwarfing the humble incomes below, paints a stark contrast between the `vital few` and `the useful many`.
+
+We can make another important inference from this analysis:
+
+::: callout
+
+Any meaningful and organic improvement in the *xm*, that is the minimum value of *x*, (the minimum wage here) will exponentially increase the total wealth of the community.
+
+:::

@@ -239,7 +239,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   204830    294381    341625    551151    437828 206009449 </code></pre>
+   209154    296612    341931    567883    430476 307876399 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62173   64081   64501   64512   64938   67655 </code></pre>
+  62113   64072   64492   64506   64919   66735 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-8.613e+05 3.261e+06 5.550e+06 2.572e+07 1.210e+07 2.056e+10 </code></pre>
+9.469e+05 3.311e+06 5.562e+06 2.747e+07 1.136e+07 3.076e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -348,6 +348,17 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 <p>Median income is around ₹5375.</p>
 <p>These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let’s have a final look at Income distribution.</p>
 <p>The individual incomes of many, represented by the red lines, languish in the shadows of colossal giants. These titanic paths of income towering above, dwarfing the humble incomes below, paints a stark contrast between the <code>vital few</code> and <code>the useful many</code>.</p>
+<p>We can make another important inference from this analysis:</p>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Any meaningful and organic improvement in the <em>xm</em>, that is the minimum value of <em>x</em>, (the minimum wage here) will exponentially increase the total wealth of the community.</p>
+</div>
+</div>
+</div>
 
 
 </section>

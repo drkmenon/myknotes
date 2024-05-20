@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>knotes - FRCS application</title>
+<title>knotes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../Revision notes/Recommendations/Part 1 FRCS.html" rel="next">
-<link href="../../Revision notes/Recommendations/books.html" rel="prev">
+<link href="../../Catallactics/Personal/Retirement.html" rel="next">
+<link href="../../Catallactics/Personal/Conifers.html" rel="prev">
 <link href="../..//image/logo.png" rel="icon" type="image/png">
 <script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
@@ -99,9 +99,38 @@ cookieconsent.run({
 </script> 
   
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="knotes - FRCS application">
+<meta property="og:title" content="knotes">
 <meta property="og:description" content="Kishore Puthezhath’s official website">
 <meta property="og:site_name" content="knotes">
 </head>
@@ -157,7 +186,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Orthopaedics</li><li class="breadcrumb-item">Revision notes</li><li class="breadcrumb-item"><a href="../../Revision notes/Recommendations/books.html">Recommendations</a></li><li class="breadcrumb-item"><a href="../../Revision notes/Recommendations/FRCS application.html">FRCS application</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Practical Catallactics</li><li class="breadcrumb-item">Catallactics</li><li class="breadcrumb-item"><a href="../../Catallactics/Personal/IMA SSS.html">Personal</a></li><li class="breadcrumb-item"><a href="../../Catallactics/Personal/Premium calculation.html">Insurance pay-off</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -180,13 +209,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
  <span class="menu-text">Revision notes</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
@@ -350,13 +379,13 @@ cookieconsent.run({
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" aria-expanded="false">
  <span class="menu-text">Recommendations</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth3 show">  
+      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
@@ -365,7 +394,7 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FRCS application</span></a>
   </div>
 </li>
@@ -556,22 +585,22 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-18" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-19" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-19" aria-expanded="true">
  <span class="menu-text">Catallactics</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-19" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-19" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-19" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-19" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-20" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-20" aria-expanded="true">
  <span class="menu-text">Personal</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-20" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-20" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth3 ">  
+      <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth3 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
@@ -586,7 +615,7 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Premium calculation.html" class="sidebar-item-text sidebar-link">
+  <a href="../../Catallactics/Personal/Premium calculation.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Insurance pay-off</span></a>
   </div>
 </li>
@@ -744,85 +773,58 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#application" id="toc-application" class="nav-link active" data-scroll-target="#application">Application</a>
-  <ul class="collapse">
-  <li><a href="#examination-pattern" id="toc-examination-pattern" class="nav-link" data-scroll-target="#examination-pattern">Examination Pattern</a></li>
-  <li><a href="#how-to-apply" id="toc-how-to-apply" class="nav-link" data-scroll-target="#how-to-apply">How to apply</a></li>
-  </ul></li>
+  <li><a href="#insurance-pay-off" id="toc-insurance-pay-off" class="nav-link active" data-scroll-target="#insurance-pay-off">Insurance pay-off</a></li>
+  <li><a href="#insurance-premium" id="toc-insurance-premium" class="nav-link" data-scroll-target="#insurance-premium">Insurance premium</a></li>
+  <li><a href="#when-to-exercise-the-insurance" id="toc-when-to-exercise-the-insurance" class="nav-link" data-scroll-target="#when-to-exercise-the-insurance">When to exercise the insurance</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Orthopaedics</li><li class="breadcrumb-item">Revision notes</li><li class="breadcrumb-item"><a href="../../Revision notes/Recommendations/books.html">Recommendations</a></li><li class="breadcrumb-item"><a href="../../Revision notes/Recommendations/FRCS application.html">FRCS application</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">FRCS application</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Here I’ll share my personal experience and tips for FRCS (Tr &amp; Orth) application and preparation:</p>
-<section id="application" class="level2">
-<h2 class="anchored" data-anchor-id="application">Application</h2>
-<p><strong>Evolution of Orthopaedic training examination in UK</strong></p>
-<blockquote class="blockquote">
-<ul>
-<li><p>The old-style FRCS: Until late 1970s.</p></li>
-<li><p>MCh(Orth) from the University of Liverpool: Now obsolete</p></li>
-<li><p>OPTIONAL Specialty Fellowship exam in orthopaedics in 1979.</p></li>
-<li><p>A new intercollegiate exam was introduced in 1990, which was accepted by all four Royal Colleges.</p></li>
-<li><p>In 1991 FRCS became a requirement for accreditation.</p></li>
-<li><p>The four Surgical Royal Colleges (Edinburgh, England, Glasgow &amp; Ireland) in 2015 introduced a new suite of Intercollegiate Fellowship Examinations for the international surgical community.</p></li>
-<li><p>The JSCFE has parity of standard with the existing UK/Ireland Intercollegiate Fellowship. Examinations and is recognised by GMC for Speciality registration.</p></li>
-</ul>
-</blockquote>
-<section id="examination-pattern" class="level3">
-<h3 class="anchored" data-anchor-id="examination-pattern">Examination Pattern</h3>
-<p>The current International FRCS (Tr &amp; Orth) exam encompasses two sections: Part I is a written exam and Part II the clinical and oral exam. For further information, and to make sure that your information is up to date, I suggest that you carefully review the Intercollegiate Speciality Board website.<a href="https://www.jscfe.co.uk/Content/content.aspx">This is the link</a>.</p>
-<section id="part-i" class="level5">
-<h5 class="anchored" data-anchor-id="part-i">Part I</h5>
-<p>This section consists of two separate papers ( a Computer Based Testing-CBT); essentially, a multiple-choice question (MCQ) paper (2 Hours) and an extended matching question (EMQ) paper (2 hours 30 minutes). Part I is generally regarded as the easier section of exam to pass. A number of candidates may be OK learning for an MCQ/EMI paper but be a long way off the standard for a clinical and viva exam.</p>
-<p>Format of Section 1 examination changes from 2021</p>
-<p>The GMC has approved an alteration to the format of the Section 1 examination. The following format is applicable to all Section 1 examinations from January 2021:</p>
-<p>Paper 1 – 120 Single Best [SBA] (2 hours 15 mins)</p>
-<p>Paper 2 – 120 Single Best [SBA] (2 hours 15 mins)</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td>title: “Pay-off formula”</td>
+</tr>
+</tbody>
+</table>
+<section id="insurance-pay-off" class="level2">
+<h2 class="anchored" data-anchor-id="insurance-pay-off">Insurance pay-off</h2>
+<p>Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.</p>
+<p>N= 1/p<sub>e</sub></p>
+<p>N is the gross pay-off in percentage</p>
+<p>p<sub>e</sub> is the probability of event. It takes value between 1 and 0, and never 0.</p>
+<p>If the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then p<sub>e</sub> = 0.09</p>
+<p>now,</p>
+<p>N=1/0.09, approximately 11 or 1100% of premium</p>
+<p>n= N-100% of premium</p>
+<p>n is the net pay-off</p>
+<p>n here is 10 or 1000%</p>
+<p>Assume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,</p>
+<p><span class="math display">\[(0.85)X 22500=19125\]</span></p>
+<p>So our target price, T is 19125</p>
 </section>
+<section id="insurance-premium" class="level2">
+<h2 class="anchored" data-anchor-id="insurance-premium">Insurance premium</h2>
+<p><span class="math display">\[P=(M-T)/(1+n)\]</span></p>
+<p>P here</p>
+<p><span class="math display">\[
+P=(22500-19125)/(1+10)
+\]</span></p>
+<p>i.e, P=306.8</p>
+<p>306.8 is the maximum amount we should be paying for 1 year premium. If we want to renew the policy every 2 month, the amount should be roughly 50.</p>
+<p><code>NB: This premium should be between 2-4% of the M, never more than 4%</code></p>
+<p>For the current M, it should be less than 900 for an Year and less than 150 for bi-monthly insurance.</p>
 </section>
-<section id="how-to-apply" class="level3">
-<h3 class="anchored" data-anchor-id="how-to-apply">How to apply</h3>
-<p><a href="https://www.jscfe.co.uk" class="uri">https://www.jscfe.co.uk</a> is the official website for registering and applying for the examination. It costs £520.00 for Part I application and £1,785.00 for Part II. To apply,</p>
-<blockquote class="blockquote">
-<ul>
-<li><p>Applicants must be six years medically qualified</p></li>
-<li><p>Applicants would normally have passed the MRCS examination of one ofthe four Surgical Royal Colleges but this is currently not mandatory</p></li>
-<li><p>Applicants must have successfully completed a locally recognised surgical training programme and are required to provide evidence of having achieved the required standard of a recognised specialist (day one NHS UK/Ireland consultant standard) in the generality of Trauma and Orthopaedic Surgery</p></li>
-<li><p>This evidence must consist of three structured references as follows:</p></li>
-<li><p>The principal referee must be the applicant’s current of Head of Department or Head of the Recognised Training Committee/Programme in which the applicant has participated.</p></li>
-<li><p>The second referee must be a senior clinician who has worked with the applicant and has knowledge of the applicant’s work in his/her specialty within the last two years</p></li>
-<li><p>The third referee must be a senior clinician who has worked with the applicant and has knowledge of the applicant’s work in his/her specialty within the last two years</p></li>
-<li><p>The final decision on eligibility for admission to the examination will lie with the Joint Surgical Colleges Fellowship Examination Specialty Board in Trauma and Orthopaedic Surgery</p></li>
-<li><p>Examination Attempts:<br>
-Candidates will have up to a maximum of 7 years to complete the examination process as follows:<br>
-<strong>Section 1</strong>:Candidates will have a maximum of 4 attempts with no re-entry<br>
-<strong>Section 2</strong>:Candidates will have a maximum of 4 attempts with no re-entry</p></li>
-</ul>
-</blockquote>
+<section id="when-to-exercise-the-insurance" class="level2">
+<h2 class="anchored" data-anchor-id="when-to-exercise-the-insurance">When to exercise the insurance</h2>
+<p>Once the pay-off reaches 1000% of yearly spent for insurance, we should exercise the option to use the insurance.For the given case, 306.8 X 10, <code>3068</code> should be the cut-off for exercising the option.</p>
 
 
-</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
@@ -1237,13 +1239,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../Revision notes/Recommendations/books.html" class="pagination-link" aria-label="books">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">books</span>
+      <a href="../../Catallactics/Personal/Conifers.html" class="pagination-link" aria-label="Productivity">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Productivity</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../Revision notes/Recommendations/Part 1 FRCS.html" class="pagination-link" aria-label="Part 1 FRCS">
-        <span class="nav-page-text">Part 1 FRCS</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../Catallactics/Personal/Retirement.html" class="pagination-link" aria-label="Retirement fund">
+        <span class="nav-page-text">Retirement fund</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
