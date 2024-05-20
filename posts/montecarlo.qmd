@@ -39,7 +39,13 @@ If the Pareto ratio is x:y,
 
 $$𝛼 = log(x+y)/log(x)$$
 
-Here, the $$𝛼=log(41)/log(40)$$
+::: {.column-margin}
+
+Exact formula is log~x~(x+y)
+
+:::
+
+Here, $$𝛼=log(41)/log(40)$$
 
 ⍺ = 1.0067
 

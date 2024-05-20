@@ -53,11 +53,14 @@ Income distribution is not normal
 <h2 class="anchored" data-anchor-id="parameters-of-pareto-distribution">Parameters of Pareto distribution</h2>
 <p>The Pareto distribution can be described with only 2 simple parameters, ⍺ and xm.</p>
 </section>
-<section id="sec-cal" class="level2">
+<section id="sec-cal" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="sec-cal">Calculating the 𝛂</h2>
 <p>If the Pareto ratio is x:y,</p>
 <p><img src="https://latex.codecogs.com/png.latex?%F0%9D%9B%BC%20=%20log(x+y)/log(x)"></p>
-<p>Here, the <img src="https://latex.codecogs.com/png.latex?%F0%9D%9B%BC=log(41)/log(40)"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Exact formula is log<sub>x</sub>(x+y)</p>
+</div></div><p>Here, <img src="https://latex.codecogs.com/png.latex?%F0%9D%9B%BC=log(41)/log(40)"></p>
 <p>⍺ = 1.0067</p>
 <p>Smaller the ⍺, the larger the proportion of very high-income people and vice verse. Here we can that the index is very low, close to 1.</p>
 </section>
@@ -236,7 +239,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   206922    295955    344899    668662    439677 511731225 </code></pre>
+   204830    294381    341625    551151    437828 206009449 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -246,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  61857   64076   64514   64514   64944   66843 </code></pre>
+  62173   64081   64501   64512   64938   67655 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -256,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.799e+05 3.345e+06 5.730e+06 3.748e+07 1.223e+07 5.109e+10 </code></pre>
+8.613e+05 3.261e+06 5.550e+06 2.572e+07 1.210e+07 2.056e+10 </code></pre>
 </div>
 </div>
 </section>

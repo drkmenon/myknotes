@@ -2478,7 +2478,7 @@
     "href": "posts/montecarlo.html#sec-cal",
     "title": "Income distribution",
     "section": "Calculating the 𝛂",
-    "text": "Calculating the 𝛂\nIf the Pareto ratio is x:y,\n\\[𝛼 = log(x+y)/log(x)\\]\nHere, the \\[𝛼=log(41)/log(40)\\]\n⍺ = 1.0067\nSmaller the ⍺, the larger the proportion of very high-income people and vice verse. Here we can that the index is very low, close to 1.",
+    "text": "Calculating the 𝛂\nIf the Pareto ratio is x:y,\n\\[𝛼 = log(x+y)/log(x)\\]\n\n\nExact formula is logx(x+y)\nHere, \\[𝛼=log(41)/log(40)\\]\n⍺ = 1.0067\nSmaller the ⍺, the larger the proportion of very high-income people and vice verse. Here we can that the index is very low, close to 1.",
     "crumbs": [
       "Home",
       "Blog",
@@ -2556,7 +2556,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   206922    295955    344899    668662    439677 511731225 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61857   64076   64514   64514   64944   66843 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.799e+05 3.345e+06 5.730e+06 3.748e+07 1.223e+07 5.109e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   204830    294381    341625    551151    437828 206009449 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62173   64081   64501   64512   64938   67655 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n8.613e+05 3.261e+06 5.550e+06 2.572e+07 1.210e+07 2.056e+10",
     "crumbs": [
       "Home",
       "Blog",
