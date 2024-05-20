@@ -974,8 +974,8 @@ Income distribution is not normal
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(mean_income)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-2.123e+05 2.962e+05 3.424e+05 7.551e+05 4.321e+05 2.025e+09 </code></pre>
+<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  212446   296544   344103   522136   439824 69034850 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -983,7 +983,7 @@ Income distribution is not normal
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62137   64066   64495   64506   64938   67095 </code></pre>
+  62237   64052   64488   64504   64945   67116 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -991,7 +991,7 @@ Income distribution is not normal
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-1.027e+06 3.291e+06 5.626e+06 4.619e+07 1.155e+07 2.025e+11 </code></pre>
+9.707e+05 3.339e+06 5.747e+06 2.277e+07 1.218e+07 6.867e+09 </code></pre>
 </div>
 </div>
 <div class="cell">
@@ -1008,29 +1008,18 @@ Income distribution is not normal
 </div>
 </div>
 </div>
-<div class="cell">
-<details open="" class="code-fold">
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Generate colors for the paths</span></span>
-<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>colors <span class="ot">&lt;-</span> <span class="fu">rainbow</span>(num_simulations)</span>
+<div class="sourceCode" id="cb13"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a># Generate colors for the paths</span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>colors &lt;- rainbow(num_simulations)</span>
 <span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the first simulated path with the first color</span></span>
-<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="dv">1</span><span class="sc">:</span>n, simulation_results[<span class="dv">1</span>, ], <span class="at">type =</span> <span class="st">"l"</span>, <span class="at">ylim =</span> <span class="fu">c</span>(<span class="fu">min</span>(simulation_results), <span class="fu">max</span>(simulation_results)),</span>
-<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>     <span class="at">xlab =</span> <span class="st">"Individual"</span>, <span class="at">ylab =</span> <span class="st">"Income"</span>, <span class="at">main =</span> <span class="st">"Simulated Paths of Income"</span>, <span class="at">col =</span> colors[<span class="dv">1</span>], <span class="at">lwd =</span> <span class="dv">2</span>)</span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a># Plot the first simulated path with the first color</span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>plot(1:n, simulation_results[1, ], type = "l", ylim = c(min(simulation_results), max(simulation_results)),</span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>     xlab = "Individual", ylab = "Income", main = "Simulated Paths of Income", col = colors[1], lwd = 2)</span>
 <span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Add the rest of the simulated paths with different colors</span></span>
-<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">2</span><span class="sc">:</span>num_simulations) {</span>
-<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">lines</span>(<span class="dv">1</span><span class="sc">:</span>n, simulation_results[i, ], <span class="at">col =</span> colors[i], <span class="at">lwd =</span> <span class="dv">2</span>)</span>
-<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="montecarlo_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a># Add the rest of the simulated paths with different colors</span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a>for (i in 2:num_simulations) {</span>
+<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a>  lines(1:n, simulation_results[i, ], col = colors[i], lwd = 2)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><img src="images/clipboard-1360920300.png" class="img-fluid"></p>
 </section>
 <section id="interpretation" class="level2">
 <h2 class="anchored" data-anchor-id="interpretation">Interpretation</h2>
@@ -1068,7 +1057,8 @@ Income distribution is not normal
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>While the marginal worker is earning ₹2700 per month, the minimum mean income per month for the community is 17500 per month. i.e, the lowest observed mean of the simulations. Similarly, the maximum mean income is ₹3.1Cr.</p>
 <p>Median income is around ₹5375.</p>
-<p>These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let’s have a final look at @fig-paths. The red individual incomes in the basement is dwarfed by huge gigantic giants.</p>
+<p>These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let’s have a final look at <a href="#fig-path">Income distribution</a>.</p>
+<p>The individual incomes of many, represented by the red lines, languish in the shadows of colossal giants. These titanic paths of income towering above, dwarfing the humble incomes below, paints a stark contrast between the <code>vital few</code> and <code>the useful many</code>.</p>
 
 
 </section>

@@ -10,7 +10,350 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.4.553</generator>
-<lastBuildDate>Fri, 10 May 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 May 2024 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Income distribution</title>
+  <link>https://www.knotes.co.in/posts/montecarlo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A BBC report dated 16<sup>th</sup> January 2023 presents an interesting statistics. It quotes an OXFAM report, stating that 40% wealth is in the hands of top 1%.</p>
+<p>This can be taken as 40:1 Pareto index.</p>
+<div id="fig-path" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-path-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://www.knotes.co.in/posts/images/clipboard-1360920300.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-path-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Income distribution as seen by Pareto
+</figcaption>
+</figure>
+</div>
+<section id="what-is-pareto-index" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-pareto-index">What is Pareto index?</h2>
+<p>Italian polymath Vilfredo Pareto observed that approximately 80% of Italy’s land was owned by 20% of the population. It is surprisingly self similar over a wide range of magnitudes. That means, 20% of the 20% of total population own 80% of 80% of total land and goes on.</p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Income distribution is not normal
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Hence the outcomes completely differ from&nbsp;Normal or Gaussian distribution.</p>
+</div>
+</div>
+<p>This is a simplification of a general rule. The ratio or index can be any where and need not add up to 100.</p>
+</section>
+<section id="parameters-of-pareto-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="parameters-of-pareto-distribution">Parameters of Pareto distribution</h2>
+<p>The Pareto distribution can be described with only 2 simple parameters, ⍺ and xm.</p>
+</section>
+<section id="sec-cal" class="level2">
+<h2 class="anchored" data-anchor-id="sec-cal">Calculating the 𝛂</h2>
+<p>If the Pareto ratio is x:y,</p>
+<p><img src="https://latex.codecogs.com/png.latex?%F0%9D%9B%BC%20=%20log(x+y)/log(x)"></p>
+<p>Here, the <img src="https://latex.codecogs.com/png.latex?%F0%9D%9B%BC=log(41)/log(40)"></p>
+<p>⍺ = 1.0067</p>
+<p>Smaller the ⍺, the larger the proportion of very high-income people and vice verse. Here we can that the index is very low, close to 1.</p>
+</section>
+<section id="xm" class="level2">
+<h2 class="anchored" data-anchor-id="xm">xm</h2>
+<p>It is the minimum value of the parameter under study.</p>
+</section>
+<section id="case-scenario" class="level2">
+<h2 class="anchored" data-anchor-id="case-scenario">Case Scenario</h2>
+<p>Assume that a marginal individual works for 308 days a year with a minimum wage of ₹105. Her yearly income will be around ₹32400. This can be taken as the minimum value of x, the income distribution we are studying. Let’s call it <em>xm.</em></p>
+<p>What will be the mean and median income of the community in which she is living? What will be the maximum income possible? Let’s calculate</p>
+</section>
+<section id="monte-carlo-simulation-of-income-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="monte-carlo-simulation-of-income-distribution">Monte Carlo simulation of income distribution</h2>
+<p>Monte Carlo Simulation can be defined as a computational method of repeated random sampling to obtain numerical results. It can be done using <code>excel</code> with or without add-ons for simulation. Excel does not natively support Pareto sampling. Free Open Sourse add-ons like <code>XLRisk</code> also (right now) does not support the same. <code>r</code> is excellent tool in this situation and also for Monte Carlo simulation of returns form volatile instruments using <code>levi stable distribution</code></p>
+</section>
+<section id="r-for-simulating-income-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="r-for-simulating-income-distribution">r for simulating income distribution</h2>
+<p>First, install the necessary package VGAM if you haven’t already and load.</p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(VGAM)</span></code></pre></div>
+</details>
+</div>
+<p>Choose the parameters for the Pareto distribution. We have already calculated the ⍺ and xm. See Section&nbsp;3</p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">alpha <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1.0067</span></span>
+<span id="cb2-2">xm <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">32400</span></span></code></pre></div>
+</details>
+</div>
+<p>Use the <strong><code>rpareto</code></strong> function to generate random samples. Let’s simulate the wealth of 1000 individuals.</p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">n <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10000</span>  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Number of individuals</span></span>
+<span id="cb3-2">income_samples <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rpareto</span>(n, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">scale =</span> xm, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">shape =</span> alpha)</span></code></pre></div>
+</details>
+</div>
+<p>To perform a Monte Carlo simulation, we will repeat the random sampling multiple times and analyze the results. Let’s say we want to perform 10000 simulations.</p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1">num_simulations <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10000</span></span>
+<span id="cb4-2">simulation_results <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">matrix</span>(<span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">NA</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">nrow =</span> num_simulations, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">ncol =</span> n)</span>
+<span id="cb4-3"></span>
+<span id="cb4-4"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">for</span> (i <span class="cf" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">in</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span>num_simulations) {</span>
+<span id="cb4-5">  simulation_results[i, ] <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rpareto</span>(n, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">scale =</span> xm, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">shape =</span> alpha)</span>
+<span id="cb4-6">}</span>
+<span id="cb4-7"></span>
+<span id="cb4-8"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Summarize the results</span></span>
+<span id="cb4-9">mean_income <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">apply</span>(simulation_results, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>, mean)</span>
+<span id="cb4-10">median_income <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">apply</span>(simulation_results, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>, median)</span>
+<span id="cb4-11">sd_income <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">apply</span>(simulation_results, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>, sd)</span></code></pre></div>
+</details>
+</div>
+</section>
+<section id="explanation-of-the-code" class="level2">
+<h2 class="anchored" data-anchor-id="explanation-of-the-code">Explanation of the code</h2>
+<ul>
+<li><p><strong><code>NA</code></strong>: This specifies the value that will fill the matrix. In this case, <strong><code>NA</code></strong> indicates that each element of the matrix will be initialized as a missing value.</p></li>
+<li><p><strong><code>nrow = num_simulations</code></strong>: This argument specifies the number of rows in the matrix. Here, <strong><code>num_simulations</code></strong> is the number of simulations we want to run, so the matrix will have <strong><code>num_simulations</code></strong> rows.</p></li>
+<li><p><strong><code>ncol = n</code></strong>: This argument specifies the number of columns in the matrix. In our code, <strong><code>n</code></strong> is the number of individuals we want to simulate wealth for, so the matrix will have <strong><code>n</code></strong> columns.</p></li>
+<li><p><strong><code>for (i in 1:num_simulations)</code></strong>: This loop iterates <strong><code>num_simulations</code></strong> times, where <strong><code>i</code></strong> takes on the values from 1 to <strong><code>num_simulations</code></strong>.</p></li>
+<li><p><strong><code>simulation_results[i, ] &lt;- rpareto(n, scale = xm, shape = alpha)</code></strong>: In each iteration of the loop, you’re generating a set of random wealth values for <strong><code>n</code></strong> individuals using the Pareto distribution specified by the parameters <strong><code>scale = xm</code></strong> and <strong><code>shape = alpha</code></strong>.</p></li>
+<li><p><strong><code>rpareto(n, scale = xm, shape = alpha)</code></strong>: This function generates <strong><code>n</code></strong> random numbers from a Pareto distribution with scale <strong><code>xm</code></strong> and shape <strong><code>alpha</code></strong>.</p></li>
+<li><p><strong><code>simulation_results[i, ] &lt;- ...</code></strong>: This assigns the generated random wealth values to the <strong><code>i</code></strong>-th row of the <strong><code>simulation_results</code></strong> matrix. Each row of <strong><code>simulation_results</code></strong> represents the wealth distribution for one simulation iteration.</p></li>
+</ul>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Histogram of mean income from simulations</span></span>
+<span id="cb5-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">hist</span>(mean_income, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">breaks =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">125</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">main =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Histogram of Mean income from Monte Carlo Simulations"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">xlab =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Mean income"</span>)</span></code></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://www.knotes.co.in/posts/montecarlo_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Summary statistics</span></span>
+<span id="cb6-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  212446   296544   344103   522136   439824 69034850 </code></pre>
+</div>
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  62237   64052   64488   64504   64945   67116 </code></pre>
+</div>
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb10" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+9.707e+05 3.339e+06 5.747e+06 2.277e+07 1.218e+07 6.867e+09 </code></pre>
+</div>
+</div>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb12" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Density plot of median income</span></span>
+<span id="cb12-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">plot</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">density</span>(median_income), <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">main =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Density Plot of Median income"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">xlab =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Median income"</span>)</span></code></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://www.knotes.co.in/posts/montecarlo_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="sourceCode" id="cb13" style="background: #f1f3f5;"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb13-1"># Generate colors for the paths</span>
+<span id="cb13-2">colors &lt;- rainbow(num_simulations)</span>
+<span id="cb13-3"></span>
+<span id="cb13-4"># Plot the first simulated path with the first color</span>
+<span id="cb13-5">plot(1:n, simulation_results[1, ], type = "l", ylim = c(min(simulation_results), max(simulation_results)),</span>
+<span id="cb13-6">     xlab = "Individual", ylab = "Income", main = "Simulated Paths of Income", col = colors[1], lwd = 2)</span>
+<span id="cb13-7"></span>
+<span id="cb13-8"># Add the rest of the simulated paths with different colors</span>
+<span id="cb13-9"></span>
+<span id="cb13-10">for (i in 2:num_simulations) {</span>
+<span id="cb13-11">  lines(1:n, simulation_results[i, ], col = colors[i], lwd = 2)</span></code></pre></div>
+<p><img src="https://www.knotes.co.in/posts/images/clipboard-1360920300.png" class="img-fluid"></p>
+</section>
+<section id="interpretation" class="level2">
+<h2 class="anchored" data-anchor-id="interpretation">Interpretation</h2>
+<ul>
+<li><strong>Mean income</strong>:
+<ul>
+<li>The minimum mean income observed across simulations is ₹210,665.</li>
+<li>The first quartile (25th percentile) of mean income is ₹296,141, indicating that 25% of simulations have mean income below this value.</li>
+<li>The median mean income is ₹342,900, which represents the middle value of the distribution.</li>
+<li>The mean mean income across all simulations is ₹585,468.</li>
+<li>The third quartile (75th percentile) of mean income is ₹437,320, indicating that 75% of simulations have mean income below this value.</li>
+<li>The maximum mean income observed is ₹372,658,431.</li>
+</ul></li>
+<li><strong>Median income</strong>:
+<ul>
+<li>The minimum median income observed across simulations is ₹62,016.</li>
+<li>The first quartile (25th percentile) of median income is ₹64,076, indicating that 25% of simulations have median income below this value.</li>
+<li>The median median income is ₹64,504, which represents the middle value of the distribution.</li>
+<li>The mean median income across all simulations is ₹64,513.</li>
+<li>The third quartile (75th percentile) of median income is ₹64,941, indicating that 75% of simulations have median income below this value.</li>
+<li>The maximum median income observed is ₹66,950.</li>
+</ul></li>
+<li><strong>Standard Deviation of income</strong>:
+<ul>
+<li><p>The minimum standard deviation of income observed across simulations is ₹883,000.</p></li>
+<li><p>The first quartile (25th percentile) of standard deviation of income is ₹3,341,000, indicating that 25% of simulations have standard deviation of income below this value.</p></li>
+<li><p>The median standard deviation of income is ₹5,665,000, which represents the middle value of the distribution.</p></li>
+<li><p>The mean standard deviation of income across all simulations is ₹29,140,000.</p></li>
+<li><p>The third quartile (75th percentile) of standard deviation of income is ₹11,940,000, indicating that 75% of simulations have standard deviation of income below this value.</p></li>
+<li><p>The maximum standard deviation of income observed is ₹37,240,000,000.</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>While the marginal worker is earning ₹2700 per month, the minimum mean income per month for the community is 17500 per month. i.e, the lowest observed mean of the simulations. Similarly, the maximum mean income is ₹3.1Cr.</p>
+<p>Median income is around ₹5375.</p>
+<p>These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let’s have a final look at Income distribution.</p>
+<p>The individual incomes of many, represented by the red lines, languish in the shadows of colossal giants. These titanic paths of income towering above, dwarfing the humble incomes below, paints a stark contrast between the <code>vital few</code> and <code>the useful many</code>.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Monte Carlo simulation</category>
+  <category>economics</category>
+  <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
+  <pubDate>Sun, 19 May 2024 18:30:00 GMT</pubDate>
+</item>
 <item>
   <title>EV battery</title>
   <dc:creator>Kishore Puthezhath</dc:creator>

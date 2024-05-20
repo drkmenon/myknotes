@@ -1,7 +1,7 @@
 ---
-title: Income distribution
+title: "Income distribution"
 date: today
-draft: true
+draft: false
 categories:
    - Monte Carlo simulation
    - economics
@@ -129,7 +129,7 @@ summary(sd_income)
 plot(density(median_income), main = "Density Plot of Median income", xlab = "Median income")
 ```
 
-```{r}
+``` default
 # Generate colors for the paths
 colors <- rainbow(num_simulations)
 
@@ -138,10 +138,12 @@ plot(1:n, simulation_results[1, ], type = "l", ylim = c(min(simulation_results),
      xlab = "Individual", ylab = "Income", main = "Simulated Paths of Income", col = colors[1], lwd = 2)
 
 # Add the rest of the simulated paths with different colors
+
 for (i in 2:num_simulations) {
   lines(1:n, simulation_results[i, ], col = colors[i], lwd = 2)
-}
 ```
+
+![](images/clipboard-1360920300.png)
 
 ## Interpretation
 
@@ -178,4 +180,6 @@ While the marginal worker is earning ₹2700 per month, the minimum mean income 
 
 Median income is around ₹5375.
 
-These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let's have a final look at \@fig-paths. The red individual incomes in the basement is dwarfed by huge gigantic giants.
+These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let's have a final look at [Income distribution](#fig-path).
+
+The individual incomes of many, represented by the red lines, languish in the shadows of colossal giants. These titanic paths of income towering above, dwarfing the humble incomes below, paints a stark contrast between the `vital few` and `the useful many`.
