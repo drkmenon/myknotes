@@ -2674,7 +2674,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   209154    296612    341931    567883    430476 307876399 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62113   64072   64492   64506   64919   66735 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.469e+05 3.311e+06 5.562e+06 2.747e+07 1.136e+07 3.076e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.090e+05 2.970e+05 3.448e+05 7.042e+05 4.405e+05 1.018e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62110   64083   64492   64508   64932   67284 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.078e+06 3.343e+06 5.679e+06 4.097e+07 1.212e+07 1.017e+11",
     "crumbs": [
       "Home",
       "Blog",
@@ -3347,7 +3347,7 @@
     "href": "Catallactics/Personal/Premium calculation.html#insurance-premium",
     "title": "knotes",
     "section": "Insurance premium",
-    "text": "Insurance premium\n\\[P=(M-T)/(1+n)\\]\nP here\n\\[\nP=(22500-19125)/(1+10)\n\\]\ni.e, P=306.8\n306.8 is the maximum amount we should be paying for 1 year premium. If we want to renew the policy every 2 month, the amount should be roughly 50.\nNB: This premium should be between 2-4% of the M, never more than 4%\nFor the current M, it should be less than 900 for an Year and less than 150 for bi-monthly insurance.",
+    "text": "Insurance premium\n\\[P=(M-T)/(1+n)\\]\nP here\nP = (22500-19125)/1+10)\ni.e, P=306.8\n306.8 is the maximum amount we should be paying for 1 year premium. If we want to renew the policy every 2 month, the amount should be roughly 50.\nNB: This premium should be between 2-4% of the M, never more than 4%\nFor the current M, it should be less than 900 for an Year and less than 150 for bi-monthly insurance.",
     "crumbs": [
       "Home",
       "Practical Catallactics",
