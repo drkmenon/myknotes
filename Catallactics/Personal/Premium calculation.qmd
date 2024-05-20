@@ -1,6 +1,6 @@
-|                          |
-|--------------------------|
-| title: "Pay-off formula" |
+---
+title: "Pay-off formula"
+---
 
 ## Insurance pay-off
 

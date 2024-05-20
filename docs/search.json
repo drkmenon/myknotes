@@ -2674,7 +2674,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.090e+05 2.970e+05 3.448e+05 7.042e+05 4.405e+05 1.018e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62110   64083   64492   64508   64932   67284 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.078e+06 3.343e+06 5.679e+06 4.097e+07 1.212e+07 1.017e+11",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.141e+05 2.967e+05 3.451e+05 9.475e+05 4.396e+05 2.025e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62346   64099   64506   64513   64929   66940 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.797e+05 3.351e+06 5.759e+06 6.521e+07 1.215e+07 2.025e+11",
     "crumbs": [
       "Home",
       "Blog",
@@ -3317,35 +3317,35 @@
   {
     "objectID": "Catallactics/Personal/Premium calculation.html",
     "href": "Catallactics/Personal/Premium calculation.html",
-    "title": "knotes",
+    "title": "Pay-off formula",
     "section": "",
-    "text": "title: “Pay-off formula”",
+    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
     "crumbs": [
       "Home",
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Insurance pay-off"
+      "Pay-off formula"
     ]
   },
   {
     "objectID": "Catallactics/Personal/Premium calculation.html#insurance-pay-off",
     "href": "Catallactics/Personal/Premium calculation.html#insurance-pay-off",
-    "title": "knotes",
-    "section": "Insurance pay-off",
-    "text": "Insurance pay-off\nBefore buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
+    "title": "Pay-off formula",
+    "section": "",
+    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
     "crumbs": [
       "Home",
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Insurance pay-off"
+      "Pay-off formula"
     ]
   },
   {
     "objectID": "Catallactics/Personal/Premium calculation.html#insurance-premium",
     "href": "Catallactics/Personal/Premium calculation.html#insurance-premium",
-    "title": "knotes",
+    "title": "Pay-off formula",
     "section": "Insurance premium",
     "text": "Insurance premium\n\\[P=(M-T)/(1+n)\\]\nP here\nP = (22500-19125)/1+10)\ni.e, P=306.8\n306.8 is the maximum amount we should be paying for 1 year premium. If we want to renew the policy every 2 month, the amount should be roughly 50.\nNB: This premium should be between 2-4% of the M, never more than 4%\nFor the current M, it should be less than 900 for an Year and less than 150 for bi-monthly insurance.",
     "crumbs": [
@@ -3353,13 +3353,13 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Insurance pay-off"
+      "Pay-off formula"
     ]
   },
   {
     "objectID": "Catallactics/Personal/Premium calculation.html#when-to-exercise-the-insurance",
     "href": "Catallactics/Personal/Premium calculation.html#when-to-exercise-the-insurance",
-    "title": "knotes",
+    "title": "Pay-off formula",
     "section": "When to exercise the insurance",
     "text": "When to exercise the insurance\nOnce the pay-off reaches 1000% of yearly spent for insurance, we should exercise the option to use the insurance.For the given case, 306.8 X 10, 3068 should be the cut-off for exercising the option.",
     "crumbs": [
@@ -3367,7 +3367,7 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Insurance pay-off"
+      "Pay-off formula"
     ]
   },
   {
