@@ -72,7 +72,7 @@ Income distribution is not normal
 </section>
 <section id="monte-carlo-simulation-of-income-distribution" class="level2">
 <h2 class="anchored" data-anchor-id="monte-carlo-simulation-of-income-distribution">Monte Carlo simulation of income distribution</h2>
-<p>Monte Carlo Simulation can be defined as a computational method of repeated random sampling to obtain numerical results. It can be done using <code>excel</code> with or without add-ons for simulation. Excel does not natively support Pareto sampling. Free Open Sourse add-ons like <code>XLRisk</code> also (right now) does not support the same. <code>r</code> is excellent tool in this situation and also for Monte Carlo simulation of returns form volatile instruments using <code>levi stable distribution</code></p>
+<p>Monte Carlo Simulation can be defined as a computational method of repeated random sampling to obtain numerical results. It can be done using <code>excel</code> with or without add-ons for simulation. Excel does not natively support Pareto sampling. Free Open Sourse add-ons like <code>XLRisk</code> also (right now) does not support the same. <code>r</code> is excellent tool in this situation and also for Monte Carlo simulation of returns for volatile instruments using <code>levi stable distribution</code></p>
 </section>
 <section id="r-for-simulating-income-distribution" class="level2">
 <h2 class="anchored" data-anchor-id="r-for-simulating-income-distribution">r for simulating income distribution</h2>
@@ -124,15 +124,18 @@ font-style: inherit;">shape =</span> alpha)</span></code></pre></div>
 </details>
 </div>
 <p>To perform a Monte Carlo simulation, we will repeat the random sampling multiple times and analyze the results. Let’s say we want to perform 10000 simulations.</p>
+</section>
+<section id="the-simulation1" class="level2">
+<h2 class="anchored" data-anchor-id="the-simulation1">The simulation<sup>1</sup></h2>
 <div class="cell">
 <details open="" class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1">num_simulations <span class="ot" style="color: #003B4F;
+<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1">num_simulations <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">10000</span></span>
-<span id="cb4-2">simulation_results <span class="ot" style="color: #003B4F;
+<span id="cb5-2">simulation_results <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -143,8 +146,8 @@ background-color: null;
 font-style: inherit;">nrow =</span> num_simulations, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">ncol =</span> n)</span>
-<span id="cb4-3"></span>
-<span id="cb4-4"><span class="cf" style="color: #003B4F;
+<span id="cb5-3"></span>
+<span id="cb5-4"><span class="cf" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">for</span> (i <span class="cf" style="color: #003B4F;
 background-color: null;
@@ -153,7 +156,7 @@ background-color: null;
 font-style: inherit;">1</span><span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">:</span>num_simulations) {</span>
-<span id="cb4-5">  simulation_results[i, ] <span class="ot" style="color: #003B4F;
+<span id="cb5-5">  simulation_results[i, ] <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -162,26 +165,26 @@ background-color: null;
 font-style: inherit;">scale =</span> xm, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">shape =</span> alpha)</span>
-<span id="cb4-6">}</span>
-<span id="cb4-7"></span>
-<span id="cb4-8"><span class="co" style="color: #5E5E5E;
+<span id="cb5-6">}</span>
+<span id="cb5-7"></span>
+<span id="cb5-8"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Summarize the results</span></span>
-<span id="cb4-9">mean_income <span class="ot" style="color: #003B4F;
+<span id="cb5-9">mean_income <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">apply</span>(simulation_results, <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">1</span>, mean)</span>
-<span id="cb4-10">median_income <span class="ot" style="color: #003B4F;
+<span id="cb5-10">median_income <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">apply</span>(simulation_results, <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">1</span>, median)</span>
-<span id="cb4-11">sd_income <span class="ot" style="color: #003B4F;
+<span id="cb5-11">sd_income <span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -191,24 +194,15 @@ font-style: inherit;">1</span>, sd)</span></code></pre></div>
 </details>
 </div>
 </section>
-<section id="explanation-of-the-code" class="level2">
-<h2 class="anchored" data-anchor-id="explanation-of-the-code">Explanation of the code</h2>
-<ul>
-<li><p><strong><code>NA</code></strong>: This specifies the value that will fill the matrix. In this case, <strong><code>NA</code></strong> indicates that each element of the matrix will be initialized as a missing value.</p></li>
-<li><p><strong><code>nrow = num_simulations</code></strong>: This argument specifies the number of rows in the matrix. Here, <strong><code>num_simulations</code></strong> is the number of simulations we want to run, so the matrix will have <strong><code>num_simulations</code></strong> rows.</p></li>
-<li><p><strong><code>ncol = n</code></strong>: This argument specifies the number of columns in the matrix. In our code, <strong><code>n</code></strong> is the number of individuals we want to simulate wealth for, so the matrix will have <strong><code>n</code></strong> columns.</p></li>
-<li><p><strong><code>for (i in 1:num_simulations)</code></strong>: This loop iterates <strong><code>num_simulations</code></strong> times, where <strong><code>i</code></strong> takes on the values from 1 to <strong><code>num_simulations</code></strong>.</p></li>
-<li><p><strong><code>simulation_results[i, ] &lt;- rpareto(n, scale = xm, shape = alpha)</code></strong>: In each iteration of the loop, you’re generating a set of random wealth values for <strong><code>n</code></strong> individuals using the Pareto distribution specified by the parameters <strong><code>scale = xm</code></strong> and <strong><code>shape = alpha</code></strong>.</p></li>
-<li><p><strong><code>rpareto(n, scale = xm, shape = alpha)</code></strong>: This function generates <strong><code>n</code></strong> random numbers from a Pareto distribution with scale <strong><code>xm</code></strong> and shape <strong><code>alpha</code></strong>.</p></li>
-<li><p><strong><code>simulation_results[i, ] &lt;- ...</code></strong>: This assigns the generated random wealth values to the <strong><code>i</code></strong>-th row of the <strong><code>simulation_results</code></strong> matrix. Each row of <strong><code>simulation_results</code></strong> represents the wealth distribution for one simulation iteration.</p></li>
-</ul>
+<section id="visualisation-of-mean-income" class="level2">
+<h2 class="anchored" data-anchor-id="visualisation-of-mean-income">Visualisation of mean income</h2>
 <div class="cell">
 <details open="" class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="co" style="color: #5E5E5E;
+<div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Histogram of mean income from simulations</span></span>
-<span id="cb5-2"><span class="fu" style="color: #4758AB;
+<span id="cb6-2"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">hist</span>(mean_income, <span class="at" style="color: #657422;
 background-color: null;
@@ -233,45 +227,49 @@ font-style: inherit;">"Mean income"</span>)</span></code></pre></div>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><span class="co" style="color: #5E5E5E;
+<div class="sourceCode cell-code" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Summary statistics</span></span>
-<span id="cb6-2"><span class="fu" style="color: #4758AB;
+<span id="cb7-2"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
-  212446   296544   344103   522136   439824 69034850 </code></pre>
+<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+   206922    295955    344899    668662    439677 511731225 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><span class="fu" style="color: #4758AB;
+<div class="sourceCode cell-code" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62237   64052   64488   64504   64945   67116 </code></pre>
+  61857   64076   64514   64514   64944   66843 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb10" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><span class="fu" style="color: #4758AB;
+<div class="sourceCode cell-code" id="cb11" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.707e+05 3.339e+06 5.747e+06 2.277e+07 1.218e+07 6.867e+09 </code></pre>
+9.799e+05 3.345e+06 5.730e+06 3.748e+07 1.223e+07 5.109e+10 </code></pre>
 </div>
 </div>
+</section>
+<section id="distribution-of-median-income" class="level2">
+<h2 class="anchored" data-anchor-id="distribution-of-median-income">Distribution of median income</h2>
+<p>Median income is the most likely income one can expect in this community. It is an approximation of geometric mean of all the possible incomes.</p>
 <div class="cell">
 <details open="" class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb12" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><span class="co" style="color: #5E5E5E;
+<div class="sourceCode cell-code" id="cb13" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Density plot of median income</span></span>
-<span id="cb12-2"><span class="fu" style="color: #4758AB;
+<span id="cb13-2"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">plot</span>(<span class="fu" style="color: #4758AB;
 background-color: null;
@@ -293,17 +291,20 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 </div>
 </div>
 </div>
-<div class="sourceCode" id="cb13" style="background: #f1f3f5;"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb13-1"># Generate colors for the paths</span>
-<span id="cb13-2">colors &lt;- rainbow(num_simulations)</span>
-<span id="cb13-3"></span>
-<span id="cb13-4"># Plot the first simulated path with the first color</span>
-<span id="cb13-5">plot(1:n, simulation_results[1, ], type = "l", ylim = c(min(simulation_results), max(simulation_results)),</span>
-<span id="cb13-6">     xlab = "Individual", ylab = "Income", main = "Simulated Paths of Income", col = colors[1], lwd = 2)</span>
-<span id="cb13-7"></span>
-<span id="cb13-8"># Add the rest of the simulated paths with different colors</span>
-<span id="cb13-9"></span>
-<span id="cb13-10">for (i in 2:num_simulations) {</span>
-<span id="cb13-11">  lines(1:n, simulation_results[i, ], col = colors[i], lwd = 2)</span></code></pre></div>
+</section>
+<section id="visualisation-of-the-paths" class="level2">
+<h2 class="anchored" data-anchor-id="visualisation-of-the-paths">Visualisation of the paths</h2>
+<div class="sourceCode" id="cb14" style="background: #f1f3f5;"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb14-1"># Generate colors for the paths</span>
+<span id="cb14-2">colors &lt;- rainbow(num_simulations)</span>
+<span id="cb14-3"></span>
+<span id="cb14-4"># Plot the first simulated path with the first color</span>
+<span id="cb14-5">plot(1:n, simulation_results[1, ], type = "l", ylim = c(min(simulation_results), max(simulation_results)),</span>
+<span id="cb14-6">     xlab = "Individual", ylab = "Income", main = "Simulated Paths of Income", col = colors[1], lwd = 2)</span>
+<span id="cb14-7"></span>
+<span id="cb14-8"># Add the rest of the simulated paths with different colors</span>
+<span id="cb14-9"></span>
+<span id="cb14-10">for (i in 2:num_simulations) {</span>
+<span id="cb14-11">  lines(1:n, simulation_results[i, ], col = colors[i], lwd = 2)</span></code></pre></div>
 <p><img src="https://www.knotes.co.in/posts/images/clipboard-1360920300.png" class="img-fluid"></p>
 </section>
 <section id="interpretation" class="level2">
@@ -348,7 +349,24 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><h2 id="explanation-of-the-code" class="anchored">Explanation of the code</h2>
+<ul>
+<li><p><strong><code>NA</code></strong>: This specifies the value that will fill the matrix. In this case, <strong><code>NA</code></strong> indicates that each element of the matrix will be initialized as a missing value.</p></li>
+<li><p><strong><code>nrow = num_simulations</code></strong>: This argument specifies the number of rows in the matrix. Here, <strong><code>num_simulations</code></strong> is the number of simulations we want to run, so the matrix will have <strong><code>num_simulations</code></strong> rows.</p></li>
+<li><p><strong><code>ncol = n</code></strong>: This argument specifies the number of columns in the matrix. In our code, <strong><code>n</code></strong> is the number of individuals we want to simulate wealth for, so the matrix will have <strong><code>n</code></strong> columns.</p></li>
+<li><p><strong><code>for (i in 1:num_simulations)</code></strong>: This loop iterates <strong><code>num_simulations</code></strong> times, where <strong><code>i</code></strong> takes on the values from 1 to <strong><code>num_simulations</code></strong>.</p></li>
+<li><p><strong><code>simulation_results[i, ] &lt;- rpareto(n, scale = xm, shape = alpha)</code></strong>: In each iteration of the loop, you’re generating a set of random wealth values for <strong><code>n</code></strong> individuals using the Pareto distribution specified by the parameters <strong><code>scale = xm</code></strong> and <strong><code>shape = alpha</code></strong>.</p></li>
+<li><p><strong><code>rpareto(n, scale = xm, shape = alpha)</code></strong>: This function generates <strong><code>n</code></strong> random numbers from a Pareto distribution with scale <strong><code>xm</code></strong> and shape <strong><code>alpha</code></strong>.</p></li>
+<li><p><strong><code>simulation_results[i, ] &lt;- ...</code></strong>: This assigns the generated random wealth values to the <strong><code>i</code></strong>-th row of the <strong><code>simulation_results</code></strong> matrix. Each row of <strong><code>simulation_results</code></strong> represents the wealth distribution for one simulation iteration.</p></li>
+</ul>
+<pre><code></code></pre>
+↩︎</li>
+</ol>
+</section></div> ]]></description>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>

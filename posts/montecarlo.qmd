@@ -57,7 +57,7 @@ What will be the mean and median income of the community in which she is living?
 
 ## Monte Carlo simulation of income distribution
 
-Monte Carlo Simulation can be defined as a computational method of repeated random sampling to obtain numerical results. It can be done using `excel` with or without add-ons for simulation. Excel does not natively support Pareto sampling. Free Open Sourse add-ons like `XLRisk` also (right now) does not support the same. `r` is excellent tool in this situation and also for Monte Carlo simulation of returns form volatile instruments using `levi stable distribution`
+Monte Carlo Simulation can be defined as a computational method of repeated random sampling to obtain numerical results. It can be done using `excel` with or without add-ons for simulation. Excel does not natively support Pareto sampling. Free Open Sourse add-ons like `XLRisk` also (right now) does not support the same. `r` is excellent tool in this situation and also for Monte Carlo simulation of returns for volatile instruments using `levi stable distribution`
 
 ## r for simulating income distribution
 
@@ -83,6 +83,28 @@ income_samples <- rpareto(n, scale = xm, shape = alpha)
 
 To perform a Monte Carlo simulation, we will repeat the random sampling multiple times and analyze the results. Let's say we want to perform 10000 simulations.
 
+## The simulation[^1]
+
+[^1]:
+    ## Explanation of the code
+
+    -   **`NA`**: This specifies the value that will fill the matrix. In this case, **`NA`** indicates that each element of the matrix will be initialized as a missing value.
+
+    -   **`nrow = num_simulations`**: This argument specifies the number of rows in the matrix. Here, **`num_simulations`** is the number of simulations we want to run, so the matrix will have **`num_simulations`** rows.
+
+    -   **`ncol = n`**: This argument specifies the number of columns in the matrix. In our code, **`n`** is the number of individuals we want to simulate wealth for, so the matrix will have **`n`** columns.
+
+    -   **`for (i in 1:num_simulations)`**: This loop iterates **`num_simulations`** times, where **`i`** takes on the values from 1 to **`num_simulations`**.
+
+    -   **`simulation_results[i, ] <- rpareto(n, scale = xm, shape = alpha)`**: In each iteration of the loop, you're generating a set of random wealth values for **`n`** individuals using the Pareto distribution specified by the parameters **`scale = xm`** and **`shape = alpha`**.
+
+    -   **`rpareto(n, scale = xm, shape = alpha)`**: This function generates **`n`** random numbers from a Pareto distribution with scale **`xm`** and shape **`alpha`**.
+
+    -   **`simulation_results[i, ] <- ...`**: This assigns the generated random wealth values to the **`i`**-th row of the **`simulation_results`** matrix. Each row of **`simulation_results`** represents the wealth distribution for one simulation iteration.
+
+    ```{}
+    ```
+
 ```{r}
 num_simulations <- 10000
 simulation_results <- matrix(NA, nrow = num_simulations, ncol = n)
@@ -98,21 +120,7 @@ sd_income <- apply(simulation_results, 1, sd)
 
 ```
 
-## Explanation of the code
-
--   **`NA`**: This specifies the value that will fill the matrix. In this case, **`NA`** indicates that each element of the matrix will be initialized as a missing value.
-
--   **`nrow = num_simulations`**: This argument specifies the number of rows in the matrix. Here, **`num_simulations`** is the number of simulations we want to run, so the matrix will have **`num_simulations`** rows.
-
--   **`ncol = n`**: This argument specifies the number of columns in the matrix. In our code, **`n`** is the number of individuals we want to simulate wealth for, so the matrix will have **`n`** columns.
-
--   **`for (i in 1:num_simulations)`**: This loop iterates **`num_simulations`** times, where **`i`** takes on the values from 1 to **`num_simulations`**.
-
--   **`simulation_results[i, ] <- rpareto(n, scale = xm, shape = alpha)`**: In each iteration of the loop, you're generating a set of random wealth values for **`n`** individuals using the Pareto distribution specified by the parameters **`scale = xm`** and **`shape = alpha`**.
-
--   **`rpareto(n, scale = xm, shape = alpha)`**: This function generates **`n`** random numbers from a Pareto distribution with scale **`xm`** and shape **`alpha`**.
-
--   **`simulation_results[i, ] <- ...`**: This assigns the generated random wealth values to the **`i`**-th row of the **`simulation_results`** matrix. Each row of **`simulation_results`** represents the wealth distribution for one simulation iteration.
+## Visualisation of mean income
 
 ```{r}
 # Histogram of mean income from simulations
@@ -124,10 +132,16 @@ summary(median_income)
 summary(sd_income)
 ```
 
+## Distribution of median income
+
+Median income is the most likely income one can expect in this community. It is an approximation of geometric mean of all the possible incomes.
+
 ```{r}
 # Density plot of median income
 plot(density(median_income), main = "Density Plot of Median income", xlab = "Median income")
 ```
+
+## Visualisation of the paths
 
 ``` default
 # Generate colors for the paths
