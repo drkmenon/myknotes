@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-05-20">
 
-<title>knotes - Revealjs for Presentation</title>
+<title>knotes - Income distribution</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -57,27 +58,26 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../Education technology/Presentation/Sample/revealjs.html" rel="next">
-<link href="../../Education technology/quality.html" rel="prev">
-<link href="../..//image/logo.png" rel="icon" type="image/png">
-<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../posts/HGT.html" rel="prev">
+<link href="..//image/logo.png" rel="icon" type="image/png">
+<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -133,22 +133,51 @@ cookieconsent.run({
 </script> 
   
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="knotes - Revealjs for Presentation">
-<meta property="og:description" content="A quick guide">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="knotes - Income distribution">
+<meta property="og:description" content="Kishore Puthezhath’s official website">
 <meta property="og:site_name" content="knotes">
 </head>
 
-<body class="nav-sidebar floating nav-fixed slimcontent">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../image/knotes.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../image/knotes.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -158,7 +187,7 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -170,11 +199,11 @@ cookieconsent.run({
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../posts.html"> 
+    <a class="nav-link" href="../posts.html"> 
 <span class="menu-text">My blog</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="../../posts.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../posts.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -191,7 +220,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Medical Education</li><li class="breadcrumb-item"><a href="../../Education technology/zotero.html">Education technology</a></li><li class="breadcrumb-item"><a href="../../Education technology/Presentation/revealjstext.html">Presentation</a></li><li class="breadcrumb-item"><a href="../../Education technology/Presentation/revealjstext.html">Revealjs for Presentation</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Blog</li><li class="breadcrumb-item"><a href="../posts/EV battery.html">Posts</a></li><li class="breadcrumb-item"><a href="../posts/montecarlo.html">Income distribution</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -232,37 +261,37 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Charcot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diabetic foot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fragility prevention</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteoporosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteosarcopenia</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tuberculosis</span></a>
   </div>
 </li>
@@ -279,13 +308,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fracture</span></a>
   </div>
 </li>
@@ -300,7 +329,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Free body diagram</span></a>
   </div>
 </li>
@@ -317,13 +346,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Classifications</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Useful Tables</span></a>
   </div>
 </li>
@@ -342,7 +371,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diagrams</span></a>
   </div>
 </li>
@@ -359,7 +388,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pink Pulseless Hand</span></a>
   </div>
 </li>
@@ -376,7 +405,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Basic Science</span></a>
   </div>
 </li>
@@ -393,31 +422,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">books</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FRCS application</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 1 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 2 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">questions</span></a>
   </div>
 </li>
@@ -439,61 +468,61 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-11" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="false">
  <span class="menu-text">Education technology</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/zotero.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/zotero.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Zotero</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/skill.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/skill.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Skill teaching</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/pbl.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/pbl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">PBL methodology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/ECE.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/ECE.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Early clinical exposure</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">ASReview Lab</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/quality.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/quality.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Clinical Audit</span></a>
   </div>
 </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" aria-expanded="false">
  <span class="menu-text">Presentation</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth3 show">  
+      <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link active">
+  <a href="../Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Revealjs for Presentation</span></a>
   </div>
 </li>
@@ -508,7 +537,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-14" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">sample presentation</span></a>
   </div>
 </li>
@@ -550,25 +579,25 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-17" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../Biomedical/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
+  <a href="../Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Averages and measures of dispersion</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
+  <a href="../Biomedical/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">p and CI</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
+  <a href="../Biomedical/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Funnel plot</span></a>
   </div>
 </li>
@@ -608,25 +637,25 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">IMA SSS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Productivity</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Retirement fund</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Risk mitigation</span></a>
   </div>
 </li>
@@ -648,28 +677,28 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-21" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-22" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-22" aria-expanded="true">
  <span class="menu-text">Posts</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-22" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-22" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-22" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-22" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/EV battery.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/EV battery.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">EV battery</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/HGT.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/HGT.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Wrinkles in the vast genetic sea</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/montecarlo.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/montecarlo.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Income distribution</span></a>
   </div>
 </li>
@@ -689,13 +718,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-23" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../author.html" class="sidebar-item-text sidebar-link">
+  <a href="../author.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Author</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../tenet.html" class="sidebar-item-text sidebar-link">
+  <a href="../tenet.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Privacy Policy</span></a>
   </div>
 </li>
@@ -722,7 +751,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-25" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Journal articles/Articles.html" class="sidebar-item-text sidebar-link">
+  <a href="../Journal articles/Articles.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Published articles</span></a>
   </div>
 </li>
@@ -772,36 +801,42 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#reveal.j.s" id="toc-reveal.j.s" class="nav-link active" data-scroll-target="#reveal.j.s"><strong>Reveal.J.S</strong></a></li>
-  <li><a href="#creating-slides" id="toc-creating-slides" class="nav-link" data-scroll-target="#creating-slides">Creating Slides</a>
-  <ul class="collapse">
-  <li><a href="#title-slide" id="toc-title-slide" class="nav-link" data-scroll-target="#title-slide">Title Slide</a></li>
-  </ul></li>
-  <li><a href="#sec-individual-slides" id="toc-sec-individual-slides" class="nav-link" data-scroll-target="#sec-individual-slides">Individual slides</a></li>
-  <li><a href="#incremental-points" id="toc-incremental-points" class="nav-link" data-scroll-target="#incremental-points">Incremental Points</a></li>
-  <li><a href="#columns" id="toc-columns" class="nav-link" data-scroll-target="#columns">Columns</a></li>
-  <li><a href="#footnote-and-speaker-notes" id="toc-footnote-and-speaker-notes" class="nav-link" data-scroll-target="#footnote-and-speaker-notes">Footnote and Speaker notes</a></li>
-  <li><a href="#font-colour" id="toc-font-colour" class="nav-link" data-scroll-target="#font-colour">Font colour</a></li>
-  <li><a href="#tabsets" id="toc-tabsets" class="nav-link" data-scroll-target="#tabsets">Tabsets</a></li>
-  <li><a href="#tabsets-1" id="toc-tabsets-1" class="nav-link" data-scroll-target="#tabsets-1">Tabsets</a></li>
-  <li><a href="#pause" id="toc-pause" class="nav-link" data-scroll-target="#pause">Pause</a></li>
+  <li><a href="#what-is-pareto-index" id="toc-what-is-pareto-index" class="nav-link active" data-scroll-target="#what-is-pareto-index">What is Pareto index?</a></li>
+  <li><a href="#parameters-of-pareto-distribution" id="toc-parameters-of-pareto-distribution" class="nav-link" data-scroll-target="#parameters-of-pareto-distribution">Parameters of Pareto distribution</a></li>
+  <li><a href="#sec-cal" id="toc-sec-cal" class="nav-link" data-scroll-target="#sec-cal">Calculating the 𝛂</a></li>
+  <li><a href="#xm" id="toc-xm" class="nav-link" data-scroll-target="#xm">xm</a></li>
+  <li><a href="#case-scenario" id="toc-case-scenario" class="nav-link" data-scroll-target="#case-scenario">Case Scenario</a></li>
+  <li><a href="#monte-carlo-simulation-of-income-distribution" id="toc-monte-carlo-simulation-of-income-distribution" class="nav-link" data-scroll-target="#monte-carlo-simulation-of-income-distribution">Monte Carlo simulation of income distribution</a></li>
+  <li><a href="#r-for-simulating-income-distribution" id="toc-r-for-simulating-income-distribution" class="nav-link" data-scroll-target="#r-for-simulating-income-distribution">r for simulating income distribution</a></li>
+  <li><a href="#explanation-of-the-code" id="toc-explanation-of-the-code" class="nav-link" data-scroll-target="#explanation-of-the-code">Explanation of the code</a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Medical Education</li><li class="breadcrumb-item"><a href="../../Education technology/zotero.html">Education technology</a></li><li class="breadcrumb-item"><a href="../../Education technology/Presentation/revealjstext.html">Presentation</a></li><li class="breadcrumb-item"><a href="../../Education technology/Presentation/revealjstext.html">Revealjs for Presentation</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Blog</li><li class="breadcrumb-item"><a href="../posts/EV battery.html">Posts</a></li><li class="breadcrumb-item"><a href="../posts/montecarlo.html">Income distribution</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Revealjs for Presentation</h1>
-<p class="subtitle lead">A quick guide</p>
-</div>
+<h1 class="title">Income distribution</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Monte Carlo simulation</div>
+    <div class="quarto-category">economics</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 20, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -811,128 +846,229 @@ cookieconsent.run({
 </header>
 
 
-<section id="reveal.j.s" class="level2">
-<h2 class="anchored" data-anchor-id="reveal.j.s"><strong>Reveal.J.S</strong></h2>
-<p>Reveal.j.s is an open source HTML presentation frame-work. It requires only a web browser for fully featured presentation and Can be easily shared as a standalone webpage</p>
+<p>A BBC report dated 16<sup>th</sup> January 2023 presents an interesting statistics. It quotes an OXFAM report, stating that 40% wealth is in the hands of top 1%.</p>
+<p>This can be taken as 40:1 Pareto index.</p>
+<div id="fig-path" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-path-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/clipboard-1360920300.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-path-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Income distribution as seen by Pareto
+</figcaption>
+</figure>
+</div>
+<section id="what-is-pareto-index" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-pareto-index">What is Pareto index?</h2>
+<p>Italian polymath Vilfredo Pareto observed that approximately 80% of Italy’s land was owned by 20% of the population. It is surprisingly self similar over a wide range of magnitudes. That means, 20% of the 20% of total population own 80% of 80% of total land and goes on.</p>
+<div class="callout callout-style-simple callout-none no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Income distribution is not normal
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Hence the outcomes completely differ from&nbsp;Normal or Gaussian distribution.</p>
+</div>
+</div>
+<p>This is a simplification of a general rule. The ratio or index can be any where and need not add up to 100.</p>
 </section>
-<section id="creating-slides" class="level2">
-<h2 class="anchored" data-anchor-id="creating-slides">Creating Slides</h2>
-<section id="title-slide" class="level3">
-<h3 class="anchored" data-anchor-id="title-slide">Title Slide</h3>
-<p>Automatically Created from YAML</p>
+<section id="parameters-of-pareto-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="parameters-of-pareto-distribution">Parameters of Pareto distribution</h2>
+<p>The Pareto distribution can be described with only 2 simple parameters, ⍺ and xm.</p>
 </section>
+<section id="sec-cal" class="level2">
+<h2 class="anchored" data-anchor-id="sec-cal">Calculating the 𝛂</h2>
+<p>If the Pareto ratio is x:y,</p>
+<p><span class="math display">\[𝛼 = log(x+y)/log(x)\]</span></p>
+<p>Here, the <span class="math display">\[𝛼=log(41)/log(40)\]</span></p>
+<p>⍺ = 1.0067</p>
+<p>Smaller the ⍺, the larger the proportion of very high-income people and vice verse. Here we can that the index is very low, close to 1.</p>
 </section>
-<section id="sec-individual-slides" class="level2">
-<h2 class="anchored" data-anchor-id="sec-individual-slides">Individual slides</h2>
-<p>They are marked with # or ## and the slides are delineated using headings.&nbsp;</p>
+<section id="xm" class="level2">
+<h2 class="anchored" data-anchor-id="xm">xm</h2>
+<p>It is the minimum value of the parameter under study.</p>
 </section>
-<section id="incremental-points" class="level2">
-<h2 class="anchored" data-anchor-id="incremental-points">Incremental Points</h2>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="sc">:::</span>{.incremental} </span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="sc">-</span> This comes first</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="sc">-</span> This second</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="incremental">
-<ul class="incremental">
-<li><p>This comes first</p></li>
-<li><p>This second</p></li>
+<section id="case-scenario" class="level2">
+<h2 class="anchored" data-anchor-id="case-scenario">Case Scenario</h2>
+<p>Assume that a marginal individual works for 308 days a year with a minimum wage of ₹105. Her yearly income will be around ₹32400. This can be taken as the minimum value of x, the income distribution we are studying. Let’s call it <em>xm.</em></p>
+<p>What will be the mean and median income of the community in which she is living? What will be the maximum income possible? Let’s calculate</p>
+</section>
+<section id="monte-carlo-simulation-of-income-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="monte-carlo-simulation-of-income-distribution">Monte Carlo simulation of income distribution</h2>
+<p>Monte Carlo Simulation can be defined as a computational method of repeated random sampling to obtain numerical results. It can be done using <code>excel</code> with or without add-ons for simulation. Excel does not natively support Pareto sampling. Free Open Sourse add-ons like <code>XLRisk</code> also (right now) does not support the same. <code>r</code> is excellent tool in this situation and also for Monte Carlo simulation of returns form volatile instruments using <code>levi stable distribution</code></p>
+</section>
+<section id="r-for-simulating-income-distribution" class="level2">
+<h2 class="anchored" data-anchor-id="r-for-simulating-income-distribution">r for simulating income distribution</h2>
+<p>First, install the necessary package VGAM if you haven’t already and load.</p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(VGAM)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+</div>
+<p>Choose the parameters for the Pareto distribution. We have already calculated the ⍺ and xm. See <a href="#sec-cal" class="quarto-xref">Section&nbsp;3</a></p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>alpha <span class="ot">&lt;-</span> <span class="fl">1.0067</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>xm <span class="ot">&lt;-</span> <span class="dv">32400</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+</div>
+<p>Use the <strong><code>rpareto</code></strong> function to generate random samples. Let’s simulate the wealth of 1000 individuals.</p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>n <span class="ot">&lt;-</span> <span class="dv">10000</span>  <span class="co"># Number of individuals</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>income_samples <span class="ot">&lt;-</span> <span class="fu">rpareto</span>(n, <span class="at">scale =</span> xm, <span class="at">shape =</span> alpha)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+</div>
+<p>To perform a Monte Carlo simulation, we will repeat the random sampling multiple times and analyze the results. Let’s say we want to perform 10000 simulations.</p>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>num_simulations <span class="ot">&lt;-</span> <span class="dv">10000</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>simulation_results <span class="ot">&lt;-</span> <span class="fu">matrix</span>(<span class="cn">NA</span>, <span class="at">nrow =</span> num_simulations, <span class="at">ncol =</span> n)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>num_simulations) {</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>  simulation_results[i, ] <span class="ot">&lt;-</span> <span class="fu">rpareto</span>(n, <span class="at">scale =</span> xm, <span class="at">shape =</span> alpha)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Summarize the results</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>mean_income <span class="ot">&lt;-</span> <span class="fu">apply</span>(simulation_results, <span class="dv">1</span>, mean)</span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>median_income <span class="ot">&lt;-</span> <span class="fu">apply</span>(simulation_results, <span class="dv">1</span>, median)</span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>sd_income <span class="ot">&lt;-</span> <span class="fu">apply</span>(simulation_results, <span class="dv">1</span>, sd)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+</div>
+</section>
+<section id="explanation-of-the-code" class="level2">
+<h2 class="anchored" data-anchor-id="explanation-of-the-code">Explanation of the code</h2>
+<ul>
+<li><p><strong><code>NA</code></strong>: This specifies the value that will fill the matrix. In this case, <strong><code>NA</code></strong> indicates that each element of the matrix will be initialized as a missing value.</p></li>
+<li><p><strong><code>nrow = num_simulations</code></strong>: This argument specifies the number of rows in the matrix. Here, <strong><code>num_simulations</code></strong> is the number of simulations we want to run, so the matrix will have <strong><code>num_simulations</code></strong> rows.</p></li>
+<li><p><strong><code>ncol = n</code></strong>: This argument specifies the number of columns in the matrix. In our code, <strong><code>n</code></strong> is the number of individuals we want to simulate wealth for, so the matrix will have <strong><code>n</code></strong> columns.</p></li>
+<li><p><strong><code>for (i in 1:num_simulations)</code></strong>: This loop iterates <strong><code>num_simulations</code></strong> times, where <strong><code>i</code></strong> takes on the values from 1 to <strong><code>num_simulations</code></strong>.</p></li>
+<li><p><strong><code>simulation_results[i, ] &lt;- rpareto(n, scale = xm, shape = alpha)</code></strong>: In each iteration of the loop, you’re generating a set of random wealth values for <strong><code>n</code></strong> individuals using the Pareto distribution specified by the parameters <strong><code>scale = xm</code></strong> and <strong><code>shape = alpha</code></strong>.</p></li>
+<li><p><strong><code>rpareto(n, scale = xm, shape = alpha)</code></strong>: This function generates <strong><code>n</code></strong> random numbers from a Pareto distribution with scale <strong><code>xm</code></strong> and shape <strong><code>alpha</code></strong>.</p></li>
+<li><p><strong><code>simulation_results[i, ] &lt;- ...</code></strong>: This assigns the generated random wealth values to the <strong><code>i</code></strong>-th row of the <strong><code>simulation_results</code></strong> matrix. Each row of <strong><code>simulation_results</code></strong> represents the wealth distribution for one simulation iteration.</p></li>
 </ul>
-</div>
-</section>
-<section id="columns" class="level2">
-<h2 class="anchored" data-anchor-id="columns">Columns</h2>
-<div class="sourceCode" id="cb2"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>:::{.columns} </span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>This is outside the column, may be heading</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>:::{.column .fragment .width="50%"} </span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>content 1 </span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>::: {.column .fragment} </span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>content 2 </span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>This is outside the column, again a legent</span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>or something like that .incremental works only with list </span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>#The .fragment span style helps to achieve </span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>sequencial appearance, just like .incremental in list.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="columns">
-<hr><p>This is outside the column, may be heading</p><div class="column fragment" style="width:20%;">
-<p>content 1</p>
-</div><div class="column fragment" style="width:80%;">
-<p>content 2</p>
-</div><hr><p>This is outside the column, again a legent or something like that</p>
-</div>
-</section>
-<section id="footnote-and-speaker-notes" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="footnote-and-speaker-notes">Footnote and Speaker notes</h2>
-<div class="sourceCode" id="cb3"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>:::aside</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>for footnote</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="sourceCode" id="cb4"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>::: notes</span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>for speaker notes.</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>::: </span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>Hit `s` to reveal speaker notes</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-
-<div class="no-row-height column-margin column-container"><div class="margin-aside">
-<p>This is a footnote</p>
-</div></div><div class="notes">
-<p>This is a speaker note</p>
-</div>
-</section>
-<section id="font-colour" class="level2">
-<h2 class="anchored" data-anchor-id="font-colour">Font colour</h2>
-<div class="columns">
-<p>Go to visual <span style="color: red">editor</span> in <code>r</code></p><div class="column fragment" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Histogram of mean income from simulations</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(mean_income, <span class="at">breaks =</span> <span class="dv">125</span>, <span class="at">main =</span> <span class="st">"Histogram of Mean income from Monte Carlo Simulations"</span>, <span class="at">xlab =</span> <span class="st">"Mean income"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
 <figure class="figure">
-<p><img src="images/colour1.png" class="img-fluid figure-img"></p>
-<figcaption>Highlight the word and open span from format in visual editor</figcaption>
+<p><img src="montecarlo_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
-</div><div class="column fragment" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
+</div>
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Summary statistics</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(mean_income)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+2.123e+05 2.962e+05 3.424e+05 7.551e+05 4.321e+05 2.025e+09 </code></pre>
+</div>
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(median_income)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  62137   64066   64495   64506   64938   67095 </code></pre>
+</div>
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(sd_income)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+1.027e+06 3.291e+06 5.626e+06 4.619e+07 1.155e+07 2.025e+11 </code></pre>
+</div>
+</div>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Density plot of median income</span></span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="fu">density</span>(median_income), <span class="at">main =</span> <span class="st">"Density Plot of Median income"</span>, <span class="at">xlab =</span> <span class="st">"Median income"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
 <figure class="figure">
-<p><img src="images/colour2.png" class="img-fluid figure-img"></p>
-<figcaption>enter the colour of choice after color:</figcaption>
+<p><img src="montecarlo_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 </div>
+<div class="cell">
+<details open="" class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Generate colors for the paths</span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>colors <span class="ot">&lt;-</span> <span class="fu">rainbow</span>(num_simulations)</span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the first simulated path with the first color</span></span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="dv">1</span><span class="sc">:</span>n, simulation_results[<span class="dv">1</span>, ], <span class="at">type =</span> <span class="st">"l"</span>, <span class="at">ylim =</span> <span class="fu">c</span>(<span class="fu">min</span>(simulation_results), <span class="fu">max</span>(simulation_results)),</span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>     <span class="at">xlab =</span> <span class="st">"Individual"</span>, <span class="at">ylab =</span> <span class="st">"Income"</span>, <span class="at">main =</span> <span class="st">"Simulated Paths of Income"</span>, <span class="at">col =</span> colors[<span class="dv">1</span>], <span class="at">lwd =</span> <span class="dv">2</span>)</span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Add the rest of the simulated paths with different colors</span></span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">2</span><span class="sc">:</span>num_simulations) {</span>
+<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">lines</span>(<span class="dv">1</span><span class="sc">:</span>n, simulation_results[i, ], <span class="at">col =</span> colors[i], <span class="at">lwd =</span> <span class="dv">2</span>)</span>
+<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="montecarlo_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
 </section>
-<section id="tabsets" class="level2">
-<h2 class="anchored" data-anchor-id="tabsets">Tabsets</h2>
-<div class="sourceCode" id="cb5"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>::: {.panel-tabset}</span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>### Tab A </span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>content </span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>### Tab B</span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>others</span>
-<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<hr>
+<section id="interpretation" class="level2">
+<h2 class="anchored" data-anchor-id="interpretation">Interpretation</h2>
+<ul>
+<li><strong>Mean income</strong>:
+<ul>
+<li>The minimum mean income observed across simulations is ₹210,665.</li>
+<li>The first quartile (25th percentile) of mean income is ₹296,141, indicating that 25% of simulations have mean income below this value.</li>
+<li>The median mean income is ₹342,900, which represents the middle value of the distribution.</li>
+<li>The mean mean income across all simulations is ₹585,468.</li>
+<li>The third quartile (75th percentile) of mean income is ₹437,320, indicating that 75% of simulations have mean income below this value.</li>
+<li>The maximum mean income observed is ₹372,658,431.</li>
+</ul></li>
+<li><strong>Median income</strong>:
+<ul>
+<li>The minimum median income observed across simulations is ₹62,016.</li>
+<li>The first quartile (25th percentile) of median income is ₹64,076, indicating that 25% of simulations have median income below this value.</li>
+<li>The median median income is ₹64,504, which represents the middle value of the distribution.</li>
+<li>The mean median income across all simulations is ₹64,513.</li>
+<li>The third quartile (75th percentile) of median income is ₹64,941, indicating that 75% of simulations have median income below this value.</li>
+<li>The maximum median income observed is ₹66,950.</li>
+</ul></li>
+<li><strong>Standard Deviation of income</strong>:
+<ul>
+<li><p>The minimum standard deviation of income observed across simulations is ₹883,000.</p></li>
+<li><p>The first quartile (25th percentile) of standard deviation of income is ₹3,341,000, indicating that 25% of simulations have standard deviation of income below this value.</p></li>
+<li><p>The median standard deviation of income is ₹5,665,000, which represents the middle value of the distribution.</p></li>
+<li><p>The mean standard deviation of income across all simulations is ₹29,140,000.</p></li>
+<li><p>The third quartile (75th percentile) of standard deviation of income is ₹11,940,000, indicating that 75% of simulations have standard deviation of income below this value.</p></li>
+<li><p>The maximum standard deviation of income observed is ₹37,240,000,000.</p></li>
+</ul></li>
+</ul>
 </section>
-<section id="tabsets-1" class="level2">
-<h2 class="anchored" data-anchor-id="tabsets-1">Tabsets</h2>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">Tab A</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Tab B</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<p>content</p>
-</div>
-<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<p>others</p>
-</div>
-</div>
-</div>
-</section>
-<section id="pause" class="level2">
-<h2 class="anchored" data-anchor-id="pause">Pause</h2>
-<div class="sourceCode" id="cb6"><pre class="sourceCode default code-with-copy"><code class="sourceCode default"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>content before </span>
-<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>. . . </span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>Content after</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>content before</p>
-<p>. . .</p>
-<p>Content after</p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>While the marginal worker is earning ₹2700 per month, the minimum mean income per month for the community is 17500 per month. i.e, the lowest observed mean of the simulations. Similarly, the maximum mean income is ₹3.1Cr.</p>
+<p>Median income is around ₹5375.</p>
+<p>These summary statistics provide insights into the asymmetry of income distribution and variability of income across the simulated scenarios. Let’s have a final look at @fig-paths. The red individual incomes in the basement is dwarfed by huge gigantic giants.</p>
 
 
 </section>
@@ -1349,14 +1485,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../Education technology/quality.html" class="pagination-link" aria-label="Clinical Audit">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Clinical Audit</span>
+      <a href="../posts/HGT.html" class="pagination-link" aria-label="Wrinkles in the vast genetic sea">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Wrinkles in the vast genetic sea</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../Education technology/Presentation/Sample/revealjs.html" class="pagination-link" aria-label="sample presentation">
-        <span class="nav-page-text">sample presentation</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
