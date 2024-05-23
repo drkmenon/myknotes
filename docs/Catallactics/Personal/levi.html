@@ -791,6 +791,16 @@ cookieconsent.run({
   <li><a href="#fat-tail" id="toc-fat-tail" class="nav-link" data-scroll-target="#fat-tail">Fat tail</a></li>
   <li><a href="#levy-distribution" id="toc-levy-distribution" class="nav-link" data-scroll-target="#levy-distribution">Levy distribution</a></li>
   <li><a href="#left-skewed-levy-distribution" id="toc-left-skewed-levy-distribution" class="nav-link" data-scroll-target="#left-skewed-levy-distribution">Left skewed Levy distribution</a></li>
+  <li><a href="#alternate-worlds" id="toc-alternate-worlds" class="nav-link" data-scroll-target="#alternate-worlds">1000 alternate worlds</a></li>
+  <li><a href="#what-is-the-probability-of-various-return-rates" id="toc-what-is-the-probability-of-various-return-rates" class="nav-link" data-scroll-target="#what-is-the-probability-of-various-return-rates">What is the probability of various return rates?</a>
+  <ul class="collapse">
+  <li><a href="#summing-up-all-probabilities" id="toc-summing-up-all-probabilities" class="nav-link" data-scroll-target="#summing-up-all-probabilities"><strong>Summing Up All Probabilities:</strong></a></li>
+  </ul></li>
+  <li><a href="#value-at-risk-var-and-conditional-var" id="toc-value-at-risk-var-and-conditional-var" class="nav-link" data-scroll-target="#value-at-risk-var-and-conditional-var">Value at Risk (VaR) and Conditional VaR</a>
+  <ul class="collapse">
+  <li><a href="#var" id="toc-var" class="nav-link" data-scroll-target="#var">VaR</a></li>
+  <li><a href="#cvar" id="toc-cvar" class="nav-link" data-scroll-target="#cvar">CVaR</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -879,6 +889,8 @@ cookieconsent.run({
 <h2 class="anchored" data-anchor-id="left-skewed-levy-distribution">Left skewed Levy distribution</h2>
 <p>We are particularly interested in Levy distribution while analysing returns from a volatile instrument.</p>
 <div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Install and load the necessary package</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("stabledist")</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(stabledist)</span>
@@ -898,6 +910,7 @@ cookieconsent.run({
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the histogram of the simulated data</span></span>
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(levy_data, <span class="at">breaks =</span> <span class="dv">50</span>, <span class="at">main =</span> <span class="st">"Left-Skewed Lévy Distribution"</span>, <span class="at">xlab =</span> <span class="st">"Data"</span>, <span class="at">ylab =</span> <span class="st">"Frequency"</span>, <span class="at">col =</span> <span class="st">"blue"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
@@ -917,7 +930,18 @@ cookieconsent.run({
 <li><p><code>Frequency of huge loss is more than huge gains.</code></p></li>
 </ul>
 <p><code>But in case of standard volatile instruments, the left side is truncated at -100%</code></p>
+</section>
+<section id="alternate-worlds" class="level2">
+<h2 class="anchored" data-anchor-id="alternate-worlds">1000 alternate worlds</h2>
+<p>If we imagine 1000 alternative worlds were this distribution is at play, we can see that each world will be experiencing different returns.</p>
+<p><img src="images/notsogoo.png" class="img-fluid" width="60"></p>
+<p>Some will be experiencing repeated huge draw-downs followed by not so huge build-ups.</p>
+<p>Others may experience significant draw-downs followed by multiple towering build-ups.</p>
+<p><img src="images/huge.png" class="img-fluid" width="84"></p>
+<p>What is common to all these worlds are frequent and extreme draw-downs.</p>
 <div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(stabledist)</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">42</span>)</span>
@@ -937,11 +961,16 @@ cookieconsent.run({
 <span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate cumulative sum for each simulation to get the stock prices</span></span>
 <span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>stock_prices <span class="ot">&lt;-</span> <span class="fu">apply</span>(simulations, <span class="dv">1</span>, cumsum)</span>
 <span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a><span class="co"># Add mean return to the stock prices</span></span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>stock_prices <span class="ot">&lt;-</span> stock_prices <span class="sc">+</span> mean_return</span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot some sample simulations</span></span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(stock_prices[<span class="dv">1</span>, ], <span class="at">type =</span> <span class="st">"l"</span>, <span class="at">xlab =</span> <span class="st">"Time"</span>, <span class="at">ylab =</span> <span class="st">"Stock Price"</span>, <span class="at">main =</span> <span class="st">"Monte Carlo Simulation of Stock Prices with Levy Distribution"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a><span class="co"># Truncate downside to maximum -100% and adjust baseline stock price to 100</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>stock_prices_truncated <span class="ot">&lt;-</span> <span class="fu">pmax</span>(stock_prices, <span class="sc">-</span><span class="dv">100</span>)</span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>stock_prices_adjusted <span class="ot">&lt;-</span> stock_prices_truncated <span class="sc">+</span> (<span class="dv">100</span> <span class="sc">-</span> mean_return)</span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot some sample simulations</span></span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(stock_prices_adjusted[<span class="dv">1</span>, ], <span class="at">type =</span> <span class="st">"l"</span>, <span class="at">xlab =</span> <span class="st">"Time"</span>, <span class="at">ylab =</span> <span class="st">"Adjusted Stock Price"</span>, <span class="at">main =</span> <span class="st">"Monte Carlo Simulation of volatile instrument"</span>)</span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a><span class="co"># Add a horizontal line at y = 100 (baseline price)</span></span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a><span class="fu">abline</span>(<span class="at">h =</span> <span class="dv">100</span>, <span class="at">col =</span> <span class="st">"red"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
@@ -950,7 +979,12 @@ cookieconsent.run({
 </div>
 </div>
 </div>
+</section>
+<section id="what-is-the-probability-of-various-return-rates" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-the-probability-of-various-return-rates">What is the probability of various return rates?</h2>
 <div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(Rcpp)</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(stabledist)</span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -973,16 +1007,23 @@ cookieconsent.run({
 <span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a><span class="co"># Basic summary statistics</span></span>
 <span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Summary Statistics:</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>Summary Statistics:</code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="fu">summary</span>(future_returns))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
  -100.00   -11.06    13.78    26.94    37.50 73155.33 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Basic histogram</span></span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(future_returns, <span class="at">breaks=</span><span class="dv">200</span>, <span class="at">main=</span><span class="st">"Histogram of Simulated Returns"</span>, <span class="at">xlab=</span><span class="st">"Returns"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(future_returns, <span class="at">breaks=</span><span class="dv">175</span>, <span class="at">main=</span><span class="st">"Histogram of Simulated Returns"</span>, <span class="at">xlab=</span><span class="st">"Returns"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
@@ -990,57 +1031,114 @@ cookieconsent.run({
 </figure>
 </div>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Probability calculations</span></span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Probability calculations</span></span>
 <span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>p_return_greater_15 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&gt;</span> <span class="dv">15</span>)</span>
 <span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &gt; 15) ="</span>, p_return_greater_15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(Return &gt; 15) = 0.4876 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>p_return_greater_30 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&gt;</span> <span class="dv">30</span>)</span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &gt; 30) ="</span>, p_return_greater_30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(Return &gt; 30) = 0.3211 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Additional probability calculations</span></span>
 <span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>p_between_5_and_15 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&gt;</span> <span class="dv">5</span> <span class="sc">&amp;</span> future_returns <span class="sc">&lt;</span> <span class="dv">15</span>)</span>
 <span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(5 &lt; Return &lt; 15) ="</span>, p_between_5_and_15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(5 &lt; Return &lt; 15) = 0.1115 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>p_between_15_and_30 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&gt;</span> <span class="dv">15</span> <span class="sc">&amp;</span> future_returns <span class="sc">&lt;</span> <span class="dv">30</span>)</span>
 <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(15 &lt; Return &lt; 30) ="</span>, p_between_15_and_30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(15 &lt; Return &lt; 30) = 0.1665 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>p_between_neg5_and_5 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&gt;</span> <span class="sc">-</span><span class="dv">5</span> <span class="sc">&amp;</span> future_returns <span class="sc">&lt;</span> <span class="dv">5</span>)</span>
 <span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(-5 &lt; Return &lt; 5) ="</span>, p_between_neg5_and_5, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(-5 &lt; Return &lt; 5) = 0.1008 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>p_between_neg15_and_neg5 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&gt;</span> <span class="sc">-</span><span class="dv">15</span> <span class="sc">&amp;</span> future_returns <span class="sc">&lt;</span> <span class="sc">-</span><span class="dv">5</span>)</span>
 <span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(-15 &lt; Return &lt; -5) ="</span>, p_between_neg15_and_neg5, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(-15 &lt; Return &lt; -5) = 0.0796 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>p_less_neg15 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&lt;</span> <span class="sc">-</span><span class="dv">15</span>)</span>
 <span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -15) ="</span>, p_less_neg15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(Return &lt; -15) = 0.2205 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a>p_less_neg30 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&lt;</span> <span class="sc">-</span><span class="dv">30</span>)</span>
 <span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -30) ="</span>, p_less_neg30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(Return &lt; -30) = 0.1382 </code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a>p_less_neg60 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns <span class="sc">&lt;</span> <span class="sc">-</span><span class="dv">60</span>)</span>
 <span id="cb24-2"><a href="#cb24-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -60) ="</span>, p_less_neg60, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>P(Return &lt; -60) = 0.0684 </code></pre>
 </div>
 </div>
+<section id="summing-up-all-probabilities" class="level3">
+<h3 class="anchored" data-anchor-id="summing-up-all-probabilities"><strong>Summing Up All Probabilities:</strong></h3>
+<p>Now we sum all these mutually exclusive probabilities<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:</p>
+<ul>
+<li><p><strong>P(Return &lt; -60)</strong>: 0.0648</p></li>
+<li><p><strong>P(-60 ≤ Return &lt; -30)</strong>: 0.0754</p></li>
+<li><p><strong>P(-30 ≤ Return &lt; -15)</strong>: 0.0795</p></li>
+<li><p><strong>P(-15 ≤ Return &lt; -5)</strong>: 0.0829</p></li>
+<li><p><strong>P(-5 ≤ Return &lt; 5)</strong>: 0.0952</p></li>
+<li><p><strong>P(5 ≤ Return &lt; 15)</strong>: 0.1155</p></li>
+<li><p><strong>P(15 ≤ Return &lt; 30)</strong>: 0.1626</p></li>
+<li><p><strong>P(Return &gt; 30)</strong>: 0.3241</p></li>
+</ul>
+</section>
+</section>
+<section id="value-at-risk-var-and-conditional-var" class="level2">
+<h2 class="anchored" data-anchor-id="value-at-risk-var-and-conditional-var">Value at Risk (VaR) and Conditional VaR</h2>
+<p>Traditionally, mean and the variance are used as metrics to select an appropriate portfolio. One down side of mean-variance-risk assessment is that it assumes a symmetric distribution and secondly proposes to truncate variance on either side to reduce risk.</p>
+<p>In fact variance is beneficial for buildup of the right side of the distribution and adds convexity to the benefit if we can mitigate the risk of large draw-downs on the left side.</p>
+<p>Two metrics that specifically looks for tail risk are Value at Risk (VaR) and Conditional Value at Risk (CVaR)</p>
+<section id="var" class="level3">
+<h3 class="anchored" data-anchor-id="var">VaR</h3>
+<p>This measures the maximum loss over a given time period with a certain confidence level. For example, VaR at a 95% confidence level is the loss that will not be exceeded with 95% probability.</p>
+</section>
+<section id="cvar" class="level3">
+<h3 class="anchored" data-anchor-id="cvar">CVaR</h3>
+<p>This measures the expected loss given that the loss has exceeded the VaR threshold. It’s also known as Expected Shortfall.</p>
+<p>CVaR is the most useful measure to foresee the shortfall in the capital, if the tail risk remains unattended.</p>
 <div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate VaR and CVaR</span></span>
 <span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>confidence_level <span class="ot">&lt;-</span> <span class="fl">0.95</span></span>
 <span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -1057,19 +1155,32 @@ cookieconsent.run({
 <span id="cb26-14"><a href="#cb26-14" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb26-15"><a href="#cb26-15" aria-hidden="true" tabindex="-1"></a><span class="co"># Print results rounded to 2 decimal places</span></span>
 <span id="cb26-16"><a href="#cb26-16" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"VaR (95% confidence level) ="</span>, <span class="fu">round</span>(VaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>VaR (95% confidence level) = -74.94 rupees</code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"CVaR (95% confidence level) ="</span>, <span class="fu">round</span>(CVaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-stdout">
 <pre><code>CVaR (95% confidence level) = -95.88 rupees</code></pre>
 </div>
 </div>
+<p>In this scenario, we can see that CVaR can be huge and can potentially wipe out the entire capital.</p>
+<p>This take us to the logical next step, how to <a href="https://www.knotes.co.in/catallactics/personal/speculation">mitigate the tail risk</a></p>
 
 
 </section>
+</section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Sum = 0.0648 + 0.0754 + 0.0795 + 0.0829 + 0.0952 + 0.1155 + 0.1626 + 0.3241 = 0.9999<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

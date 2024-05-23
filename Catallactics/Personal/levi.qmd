@@ -1,5 +1,6 @@
 ---
 title: "Draw-downs and buildups"
+code-fold: true
 ---
 
 ## Skewed and fat tailed
@@ -86,6 +87,20 @@ If we analyse the Levy distribution shown in the picture above, we can conclude 
 
 `But in case of standard volatile instruments, the left side is truncated at -100%`
 
+## 1000 alternate worlds
+
+If we imagine 1000 alternative worlds were this distribution is at play, we can see that each world will be experiencing different returns.
+
+![](images/notsogoo.png){width="60"}
+
+Some will be experiencing repeated huge draw-downs followed by not so huge build-ups.
+
+Others may experience significant draw-downs followed by multiple towering build-ups.
+
+![](images/huge.png){width="84"}
+
+What is common to all these worlds are frequent and extreme draw-downs.
+
 ```{r}
 library(stabledist)
 
@@ -106,13 +121,18 @@ simulations <- matrix(r_stable, nrow = n_simulations, ncol = n_periods)
 # Calculate cumulative sum for each simulation to get the stock prices
 stock_prices <- apply(simulations, 1, cumsum)
 
-# Add mean return to the stock prices
-stock_prices <- stock_prices + mean_return
+# Truncate downside to maximum -100% and adjust baseline stock price to 100
+stock_prices_truncated <- pmax(stock_prices, -100)
+stock_prices_adjusted <- stock_prices_truncated + (100 - mean_return)
 
 # Plot some sample simulations
-plot(stock_prices[1, ], type = "l", xlab = "Time", ylab = "Stock Price", main = "Monte Carlo Simulation of Stock Prices with Levy Distribution")
+plot(stock_prices_adjusted[1, ], type = "l", xlab = "Time", ylab = "Adjusted Stock Price", main = "Monte Carlo Simulation of volatile instrument")
 
+# Add a horizontal line at y = 100 (baseline price)
+abline(h = 100, col = "red")
 ```
+
+## What is the probability of various return rates?
 
 ```{r}
 
@@ -142,7 +162,7 @@ print(summary(future_returns))
 
 
 # Basic histogram
-hist(future_returns, breaks=200, main="Histogram of Simulated Returns", xlab="Returns")
+hist(future_returns, breaks=175, main="Histogram of Simulated Returns", xlab="Returns")
 
 # Probability calculations
 
@@ -177,6 +197,46 @@ cat(paste("P(Return < -60) =", p_less_neg60, "\n"))
 
 ```
 
+### **Summing Up All Probabilities:**
+
+Now we sum all these mutually exclusive probabilities[^1]:
+
+[^1]: Sum = 0.0648 + 0.0754 + 0.0795 + 0.0829 + 0.0952 + 0.1155 + 0.1626 + 0.3241 = 0.9999
+
+-   **P(Return \< -60)**: 0.0648
+
+-   **P(-60 ≤ Return \< -30)**: 0.0754
+
+-   **P(-30 ≤ Return \< -15)**: 0.0795
+
+-   **P(-15 ≤ Return \< -5)**: 0.0829
+
+-   **P(-5 ≤ Return \< 5)**: 0.0952
+
+-   **P(5 ≤ Return \< 15)**: 0.1155
+
+-   **P(15 ≤ Return \< 30)**: 0.1626
+
+-   **P(Return \> 30)**: 0.3241
+
+## Value at Risk (VaR) and Conditional VaR
+
+Traditionally, mean and the variance are used as metrics to select an appropriate portfolio. One down side of mean-variance-risk assessment is that it assumes a symmetric distribution and secondly proposes to truncate variance on either side to reduce risk.
+
+In fact variance is beneficial for buildup of the right side of the distribution and adds convexity to the benefit if we can mitigate the risk of large draw-downs on the left side.
+
+Two metrics that specifically looks for tail risk are Value at Risk (VaR) and Conditional Value at Risk (CVaR)
+
+### VaR
+
+This measures the maximum loss over a given time period with a certain confidence level. For example, VaR at a 95% confidence level is the loss that will not be exceeded with 95% probability.
+
+### CVaR
+
+This measures the expected loss given that the loss has exceeded the VaR threshold. It's also known as Expected Shortfall.
+
+CVaR is the most useful measure to foresee the shortfall in the capital, if the tail risk remains unattended.
+
 ```{r}
 # Calculate VaR and CVaR
 confidence_level <- 0.95
@@ -196,3 +256,7 @@ CVaR_95_rupees <- investment * (CVaR_95 / 100)
 cat("VaR (95% confidence level) =", round(VaR_95_rupees, 2), "rupees\n")
 cat("CVaR (95% confidence level) =", round(CVaR_95_rupees, 2), "rupees\n")
 ```
+
+In this scenario, we can see that CVaR can be huge and can potentially wipe out the entire capital.
+
+This take us to the logical next step, how to [mitigate the tail risk](https://www.knotes.co.in/catallactics/personal/speculation)
