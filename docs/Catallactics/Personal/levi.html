@@ -954,38 +954,39 @@ cookieconsent.run({
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(stabledist)</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Simulation parameters</span></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>alpha <span class="ot">&lt;-</span> <span class="fl">1.505</span>  <span class="co"># Stability parameter</span></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>beta <span class="ot">&lt;-</span> <span class="sc">-</span><span class="fl">0.084</span> <span class="co"># Negative skewness parameter (left-skewed)</span></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>gamma <span class="ot">&lt;-</span> <span class="fl">0.006433654</span>  <span class="co"># Scale parameter</span></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>delta <span class="ot">&lt;-</span> <span class="fl">0.0007449581</span> <span class="co"># Location parameter</span></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>n <span class="ot">&lt;-</span> <span class="dv">10000</span>  <span class="co"># Number of simulations</span></span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="co"># Generate samples from a stable distribution</span></span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>levy_samples <span class="ot">&lt;-</span> <span class="fu">rstable</span>(n, alpha, beta, gamma, delta)  </span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Truncate returns at -100%</span></span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>truncated_samples <span class="ot">&lt;-</span> <span class="fu">pmax</span>(levy_samples, <span class="sc">-</span><span class="dv">100</span>)</span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Adjust mean and standard deviation</span></span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>desired_mean <span class="ot">&lt;-</span> <span class="fl">10.8</span></span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>desired_sd <span class="ot">&lt;-</span> <span class="dv">21</span></span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate current mean and standard deviation</span></span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>current_mean <span class="ot">&lt;-</span> <span class="fu">mean</span>(truncated_samples)</span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>current_sd <span class="ot">&lt;-</span> <span class="fu">sd</span>(truncated_samples)</span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply linear transformation to adjust mean and standard deviation</span></span>
-<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>adjusted_samples <span class="ot">&lt;-</span> (truncated_samples <span class="sc">-</span> current_mean) <span class="sc">*</span> (desired_sd <span class="sc">/</span> current_sd) <span class="sc">+</span> desired_mean</span>
-<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a><span class="co"># Ensure minimum value is -100 after truncation</span></span>
-<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>adjusted_samples <span class="ot">&lt;-</span> <span class="fu">pmax</span>(adjusted_samples, <span class="sc">-</span><span class="dv">100</span>)</span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a><span class="co"># Example: Simulate future returns over a period</span></span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>future_returns <span class="ot">&lt;-</span> adjusted_samples</span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a><span class="co"># Basic summary statistics</span></span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Summary Statistics:</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">233</span>)</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>alpha <span class="ot">&lt;-</span> <span class="fl">1.505</span>  <span class="co"># Stability parameter</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>beta <span class="ot">&lt;-</span> <span class="sc">-</span><span class="fl">0.084</span> <span class="co"># Negative skewness parameter (left-skewed)</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>gamma <span class="ot">&lt;-</span> <span class="fl">0.006433654</span>  <span class="co"># Scale parameter</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>delta <span class="ot">&lt;-</span> <span class="fl">0.0007449581</span> <span class="co"># Location parameter</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>n <span class="ot">&lt;-</span> <span class="dv">10000</span>  <span class="co"># Number of simulations</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Generate samples from a stable distribution</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>levy_samples <span class="ot">&lt;-</span> <span class="fu">rstable</span>(n, alpha, beta, gamma, delta)  </span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a><span class="co"># Truncate returns at -100%</span></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>truncated_samples <span class="ot">&lt;-</span> <span class="fu">pmax</span>(levy_samples, <span class="sc">-</span><span class="dv">100</span>)</span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a><span class="co"># Adjust mean and standard deviation (Historical)</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>desired_mean <span class="ot">&lt;-</span> <span class="fl">10.8</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>desired_sd <span class="ot">&lt;-</span> <span class="dv">21</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate current mean and standard deviation</span></span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>current_mean <span class="ot">&lt;-</span> <span class="fu">mean</span>(truncated_samples)</span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>current_sd <span class="ot">&lt;-</span> <span class="fu">sd</span>(truncated_samples)</span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply linear transformation to adjust mean and standard deviation</span></span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>adjusted_samples <span class="ot">&lt;-</span> (truncated_samples <span class="sc">-</span> current_mean) <span class="sc">*</span> (desired_sd <span class="sc">/</span> current_sd) <span class="sc">+</span> desired_mean</span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a><span class="co"># Ensure minimum value is -100 after truncation</span></span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>adjusted_samples <span class="ot">&lt;-</span> <span class="fu">pmax</span>(adjusted_samples, <span class="sc">-</span><span class="dv">100</span>)</span>
+<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a><span class="co"># Example: Simulate future returns over a period</span></span>
+<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>future_returns <span class="ot">&lt;-</span> adjusted_samples</span>
+<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a><span class="co"># Basic summary statistics</span></span>
+<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Summary Statistics:</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>Summary Statistics:</code></pre>
@@ -995,8 +996,8 @@ cookieconsent.run({
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="fu">summary</span>(future_returns))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
--100.00    6.79   10.96   11.01   15.11  662.36 </code></pre>
+<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-100.000    8.271   11.365   11.146   14.424  252.402 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1017,7 +1018,7 @@ cookieconsent.run({
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &gt; 15) ="</span>, p_return_greater_15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &gt; 15) = 0.2556 </code></pre>
+<pre><code>P(Return &gt; 15) = 0.213 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1025,7 +1026,7 @@ cookieconsent.run({
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &gt; 30) ="</span>, p_return_greater_30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &gt; 30) = 0.0231 </code></pre>
+<pre><code>P(Return &gt; 30) = 0.0134 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1034,7 +1035,7 @@ cookieconsent.run({
 <span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(5 &lt; Return &lt;= 15) ="</span>, p_between_5_and_15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(5 &lt; Return &lt;= 15) = 0.5621 </code></pre>
+<pre><code>P(5 &lt; Return &lt;= 15) = 0.6792 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1042,7 +1043,7 @@ cookieconsent.run({
 <span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(15 &lt; Return &lt;= 30) ="</span>, p_between_15_and_30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(15 &lt; Return &lt;= 30) = 0.2325 </code></pre>
+<pre><code>P(15 &lt; Return &lt;= 30) = 0.1996 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1050,7 +1051,7 @@ cookieconsent.run({
 <span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(-5 &lt;= Return &lt;= 5) ="</span>, p_between_neg5_and_5, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(-5 &lt;= Return &lt;= 5) = 0.1436 </code></pre>
+<pre><code>P(-5 &lt;= Return &lt;= 5) = 0.0849 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1058,7 +1059,7 @@ cookieconsent.run({
 <span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(-15 &lt;= Return &lt;= -5) ="</span>, p_between_neg15_and_neg5, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(-15 &lt;= Return &lt;= -5) = 0.0238 </code></pre>
+<pre><code>P(-15 &lt;= Return &lt;= -5) = 0.0126 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1066,7 +1067,7 @@ cookieconsent.run({
 <span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -15) ="</span>, p_less_neg15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &lt; -15) = 0.0149 </code></pre>
+<pre><code>P(Return &lt; -15) = 0.0103 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1074,7 +1075,7 @@ cookieconsent.run({
 <span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -30) ="</span>, p_less_neg30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &lt; -30) = 0.0071 </code></pre>
+<pre><code>P(Return &lt; -30) = 0.0057 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1082,23 +1083,31 @@ cookieconsent.run({
 <span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -60) ="</span>, p_less_neg60, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &lt; -60) = 0.0026 </code></pre>
+<pre><code>P(Return &lt; -60) = 0.0023 </code></pre>
 </div>
 </div>
 <section id="summary" class="level3">
 <h3 class="anchored" data-anchor-id="summary">Summary</h3>
-<p>In summary, the simulated returns indicate a distribution centered around a mean of approximately 11.09, with a minimum truncated value of -100 and a maximum value of 505.309.</p>
-<p>The probability calculations reveal that there is a:</p>
+<p><strong>The simulated returns exhibit the following characteristics:</strong></p>
 <ul>
-<li><p>31.53% chance that the return will exceed 15,</p></li>
-<li><p>3.81% chance that the return will exceed 30,</p></li>
-<li><p>46.62% chance that the return will fall between 5 and 15,</p></li>
-<li><p>27.72% chance that the return will fall between 15 and 30,</p></li>
-<li><p>16.21% chance that the return will fall between -5 and 5,</p></li>
-<li><p>3.06% chance that the return will fall between -15 and -5,</p></li>
-<li><p>2.58% chance that the return will be less than -15,</p></li>
-<li><p>1.26% chance that the return will be less than -30, and</p></li>
-<li><p>0.58% chance that the return will be less than -60.</p></li>
+<li><p><strong>Minimum</strong>: The lowest return observed after truncation is -100, indicating that no return falls below this threshold due to truncation.</p></li>
+<li><p><strong>1st Quartile</strong>: 25% of the returns fall below this value.</p></li>
+<li><p><strong>Median</strong>: 50% of the returns fall below this value, indicating the central tendency of the distribution.</p></li>
+<li><p><strong>Mean</strong>: The average return is approximately 11.146, representing the central tendency of the distribution.</p></li>
+<li><p><strong>3rd Quartile</strong>: 75% of the returns fall below this value.</p></li>
+<li><p><strong>Maximum</strong>: The highest return observed after truncation is 252.402, indicating that no return exceeds this threshold due to truncation.</p></li>
+</ul>
+<p>The probability calculations reveal the likelihood of observing returns within specific ranges:</p>
+<ul>
+<li><p>There is a 21.3% chance that the return will exceed 15.</p></li>
+<li><p>There is a 1.34% chance that the return will exceed 30.</p></li>
+<li><p>There is a 67.92% chance that the return will fall between 5 and 15.</p></li>
+<li><p>There is a 19.96% chance that the return will fall between 15 and 30.</p></li>
+<li><p>There is an 8.49% chance that the return will fall between -5 and 5.</p></li>
+<li><p>There is a 1.26% chance that the return will fall between -15 and -5.</p></li>
+<li><p>There is a 1.03% chance that the return will be less than -15.</p></li>
+<li><p>There is a 0.57% chance that the return will be less than -30.</p></li>
+<li><p>There is a 0.23% chance that the return will be less than -60.</p></li>
 </ul>
 </section>
 </section>
@@ -1136,14 +1145,14 @@ cookieconsent.run({
 <span id="cb25-16"><a href="#cb25-16" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"VaR (95% confidence level) ="</span>, <span class="fu">round</span>(VaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>VaR (95% confidence level) = -2.83 rupees</code></pre>
+<pre><code>VaR (95% confidence level) = 1.5 rupees</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"CVaR (95% confidence level) ="</span>, <span class="fu">round</span>(CVaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>CVaR (95% confidence level) = -17.08 rupees</code></pre>
+<pre><code>CVaR (95% confidence level) = -11.61 rupees</code></pre>
 </div>
 </div>
 <p>In this scenario, we can see that CVaR can be huge and can potentially wipe out the entire capital.</p>
