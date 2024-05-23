@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>knotes</title>
+<link>https://www.knotes.co.in/posts.html</link>
+<atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Kishore Puthezhath&#39;s official website</description>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Wed, 22 May 2024 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/montecarlo.html}</title>
+  <link>https://www.knotes.co.in/posts/montecarlo.html</link>
+  <description>{B4F502887207:/posts/montecarlo.html}</description>
+  <category>Monte Carlo simulation</category>
+  <category>economics</category>
+  <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
+  <pubDate>Wed, 22 May 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/EV battery.html}</title>
+  <dc:creator>Kishore Puthezhath</dc:creator>
+  <link>https://www.knotes.co.in/posts/EV battery.html</link>
+  <description>{B4F502887207:/posts/EV battery.html}</description>
+  <category>technology</category>
+  <category>ev</category>
+  <guid>https://www.knotes.co.in/posts/EV battery.html</guid>
+  <pubDate>Fri, 10 May 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/HGT.html}</title>
+  <dc:creator>Kishore Puthezhath</dc:creator>
+  <link>https://www.knotes.co.in/posts/HGT.html</link>
+  <description>{B4F502887207:/posts/HGT.html}</description>
+  <category>philosophy</category>
+  <category>science</category>
+  <guid>https://www.knotes.co.in/posts/HGT.html</guid>
+  <pubDate>Thu, 09 May 2024 18:30:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
