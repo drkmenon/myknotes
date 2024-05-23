@@ -1,0 +1,198 @@
+---
+title: "Draw-downs and buildups"
+---
+
+## Skewed and fat tailed
+
+![A skewed distribution with fat tails. Tail is truncated on left side at zero](images/skewed.png)
+
+### Skewed
+
+A distribution is called left skewed if it has got a long tail on the left side. This means most of the data points are concentrated on the right side. But there are `a number of data points` that are significantly lower than the bulk of the values.
+
+A distribution is called right skewed if it has got a long tail on the right side. This means most of the data points are concentrated on the left side. But there are `a number of data points` that are significantly higher than the bulk of the values.
+
+𝜷, the skewness parameter is used to define this.
+
+| 𝜷    | Skewness          |
+|------|-------------------|
+| \< 0 | Negatively skewed |
+| 0    | Symmetric         |
+| \>0  | Positively skewed |
+
+: Skewness and 𝜷
+
+## Fat tail
+
+In a normal distribution, data points on either ends of the distribution are not only symmetric, but they significantly thin out while we move away from the central location. This means that we can ignore these tails on either ends and reach meaningful conclusions with out significant departure from the reality.
+
+But in case of fat tailed distributions, the data points in the tails significantly alter the reality if they are ignored.
+
+⍺, the stability factor determines this tail behaviour. It lies between 0 and 2.
+
+An ⍺ of 2 represents a normal distribution with very thin tails.
+
+::: callout
+
+As ⍺ moves away from 2 (towards 0), the fatness of the tail increases. That means there are more number of data points in the tail
+
+:::
+
+## Levy distribution
+
+It is a kind of distribution where the ⍺ is moved away from 2, meaning, **fat tailed** and 𝜷 is moving away from 0. That means, it can be either left or right skewed.
+
+## Left skewed Levy distribution
+
+We are particularly interested in Levy distribution while analysing returns from a volatile instrument.
+
+```{r}
+# Install and load the necessary package
+# install.packages("stabledist")
+library(stabledist)
+
+# Parameters for the Lévy distribution
+alpha <- 1.42 # Stability parameter
+beta <- -0.047 # Negative skewness parameter (left-skewed)
+gamma <- 22 # Scale parameter
+delta <- 11 # Location parameter
+
+# Number of simulations
+n <- 150
+
+# Generate random numbers from the Lévy distribution
+set.seed(123) # For reproducibility
+levy_data <- rstable(n, alpha, beta, gamma, delta)
+
+# Plot the histogram of the simulated data
+hist(levy_data, breaks = 50, main = "Left-Skewed Lévy Distribution", xlab = "Data", ylab = "Frequency", col = "blue")
+```
+
+If we analyse the Levy distribution shown in the picture above, we can conclude on following points:
+
+-   Most of the data are clustered around the central point, 𝜸.
+
+-   There are no values on the right side of 𝜸 which are way to far away.
+
+-   There are data points on the left side of 𝜸 which are significantly far away.
+
+-   Their frequency is not negligible, considering the sample size of just 150.
+
+-   Gains are limited and stays closer to 𝜸.
+
+-   `Losses are often significantly huge.`
+
+-   `Frequency of huge loss is more than huge gains.`
+
+`But in case of standard volatile instruments, the left side is truncated at -100%`
+
+```{r}
+library(stabledist)
+
+set.seed(42)
+alpha <- 1.42
+beta <- -0.047
+sd <- 25
+mean_return <- 14.5
+n_simulations <- 1000
+n_periods <- 252
+
+# Generate random numbers from Levy distribution
+r_stable <- rstable(n_simulations * n_periods, alpha = alpha, beta = beta, gamma = sd, delta = mean_return)
+
+# Reshape the random numbers into a matrix of simulations over time periods
+simulations <- matrix(r_stable, nrow = n_simulations, ncol = n_periods)
+
+# Calculate cumulative sum for each simulation to get the stock prices
+stock_prices <- apply(simulations, 1, cumsum)
+
+# Add mean return to the stock prices
+stock_prices <- stock_prices + mean_return
+
+# Plot some sample simulations
+plot(stock_prices[1, ], type = "l", xlab = "Time", ylab = "Stock Price", main = "Monte Carlo Simulation of Stock Prices with Levy Distribution")
+
+```
+
+```{r}
+
+library(Rcpp)
+library(stabledist)
+
+alpha <- 1.42
+beta <- -0.047
+mean_return <- 14.5
+sd_return <- 25
+
+n <- 10000  # Number of simulations
+levy_samples <- rstable(n, alpha, beta, 1, 0)  # Scale parameter is 1, location is 0
+
+scaled_samples <- sd_return * levy_samples + mean_return
+
+
+# Truncate returns at -100%
+truncated_samples <- pmax(scaled_samples, -100)
+
+# Example: Simulate future returns over a period
+future_returns <- truncated_samples
+
+# Basic summary statistics
+cat("Summary Statistics:\n")
+print(summary(future_returns))
+
+
+# Basic histogram
+hist(future_returns, breaks=200, main="Histogram of Simulated Returns", xlab="Returns")
+
+# Probability calculations
+
+# Probability calculations
+p_return_greater_15 <- mean(future_returns > 15)
+cat(paste("P(Return > 15) =", p_return_greater_15, "\n"))
+
+p_return_greater_30 <- mean(future_returns > 30)
+cat(paste("P(Return > 30) =", p_return_greater_30, "\n"))
+
+# Additional probability calculations
+p_between_5_and_15 <- mean(future_returns > 5 & future_returns < 15)
+cat(paste("P(5 < Return < 15) =", p_between_5_and_15, "\n"))
+
+p_between_15_and_30 <- mean(future_returns > 15 & future_returns < 30)
+cat(paste("P(15 < Return < 30) =", p_between_15_and_30, "\n"))
+
+p_between_neg5_and_5 <- mean(future_returns > -5 & future_returns < 5)
+cat(paste("P(-5 < Return < 5) =", p_between_neg5_and_5, "\n"))
+
+p_between_neg15_and_neg5 <- mean(future_returns > -15 & future_returns < -5)
+cat(paste("P(-15 < Return < -5) =", p_between_neg15_and_neg5, "\n"))
+
+p_less_neg15 <- mean(future_returns < -15)
+cat(paste("P(Return < -15) =", p_less_neg15, "\n"))
+
+p_less_neg30 <- mean(future_returns < -30)
+cat(paste("P(Return < -30) =", p_less_neg30, "\n"))
+
+p_less_neg60 <- mean(future_returns < -60)
+cat(paste("P(Return < -60) =", p_less_neg60, "\n"))
+
+```
+
+```{r}
+# Calculate VaR and CVaR
+confidence_level <- 0.95
+
+# Calculate VaR
+VaR_95 <- quantile(future_returns, 1 - confidence_level)
+
+# Calculate CVaR (Expected Shortfall)
+CVaR_95 <- mean(future_returns[future_returns <= VaR_95])
+
+# Adjust for the investment amount
+investment <- 100
+VaR_95_rupees <- investment * (VaR_95 / 100)
+CVaR_95_rupees <- investment * (CVaR_95 / 100)
+
+# Print results rounded to 2 decimal places
+cat("VaR (95% confidence level) =", round(VaR_95_rupees, 2), "rupees\n")
+cat("CVaR (95% confidence level) =", round(CVaR_95_rupees, 2), "rupees\n")
+```
