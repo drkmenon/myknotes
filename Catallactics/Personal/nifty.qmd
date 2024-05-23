@@ -1,8 +1,5 @@
 ---
 title: "Seeking Levi parameters"
-output:
-  html_document:
-    message: false
 ---
 
 ## Get data
