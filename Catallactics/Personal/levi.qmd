@@ -188,7 +188,7 @@ cat(paste("P(Return < -60) =", p_less_neg60, "\n"))
 
 -   **3rd Quartile**: 75% of the returns fall below this value.
 
--   **Maximum**: The highest return observed after truncation is 252.402, indicating that no return exceeds this threshold due to truncation.
+-   **Maximum**: The highest return observed is 252.402, indicating that no return exceeds this threshold.
 
 The probability calculations reveal the likelihood of observing returns within specific ranges:
 
@@ -237,6 +237,8 @@ VaR_95 <- quantile(future_returns, 1 - confidence_level)
 
 # Calculate CVaR (Expected Shortfall)
 CVaR_95 <- mean(future_returns[future_returns <= VaR_95])
+CVaR_95 <- max(CVaR_95, 0)
+
 
 # Adjust for the investment amount
 investment <- 100

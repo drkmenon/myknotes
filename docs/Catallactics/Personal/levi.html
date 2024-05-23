@@ -1095,7 +1095,7 @@ cookieconsent.run({
 <li><p><strong>Median</strong>: 50% of the returns fall below this value, indicating the central tendency of the distribution.</p></li>
 <li><p><strong>Mean</strong>: The average return is approximately 11.146, representing the central tendency of the distribution.</p></li>
 <li><p><strong>3rd Quartile</strong>: 75% of the returns fall below this value.</p></li>
-<li><p><strong>Maximum</strong>: The highest return observed after truncation is 252.402, indicating that no return exceeds this threshold due to truncation.</p></li>
+<li><p><strong>Maximum</strong>: The highest return observed is 252.402, indicating that no return exceeds this threshold.</p></li>
 </ul>
 <p>The probability calculations reveal the likelihood of observing returns within specific ranges:</p>
 <ul>
@@ -1135,14 +1135,16 @@ cookieconsent.run({
 <span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate CVaR (Expected Shortfall)</span></span>
 <span id="cb25-8"><a href="#cb25-8" aria-hidden="true" tabindex="-1"></a>CVaR_95 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns[future_returns <span class="sc">&lt;=</span> VaR_95])</span>
-<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb25-10"><a href="#cb25-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Adjust for the investment amount</span></span>
-<span id="cb25-11"><a href="#cb25-11" aria-hidden="true" tabindex="-1"></a>investment <span class="ot">&lt;-</span> <span class="dv">100</span></span>
-<span id="cb25-12"><a href="#cb25-12" aria-hidden="true" tabindex="-1"></a>VaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (VaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
-<span id="cb25-13"><a href="#cb25-13" aria-hidden="true" tabindex="-1"></a>CVaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (CVaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
-<span id="cb25-14"><a href="#cb25-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb25-15"><a href="#cb25-15" aria-hidden="true" tabindex="-1"></a><span class="co"># Print results rounded to 2 decimal places</span></span>
-<span id="cb25-16"><a href="#cb25-16" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"VaR (95% confidence level) ="</span>, <span class="fu">round</span>(VaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a>CVaR_95 <span class="ot">&lt;-</span> <span class="fu">max</span>(CVaR_95, <span class="dv">0</span>)</span>
+<span id="cb25-10"><a href="#cb25-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-11"><a href="#cb25-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-12"><a href="#cb25-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Adjust for the investment amount</span></span>
+<span id="cb25-13"><a href="#cb25-13" aria-hidden="true" tabindex="-1"></a>investment <span class="ot">&lt;-</span> <span class="dv">100</span></span>
+<span id="cb25-14"><a href="#cb25-14" aria-hidden="true" tabindex="-1"></a>VaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (VaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
+<span id="cb25-15"><a href="#cb25-15" aria-hidden="true" tabindex="-1"></a>CVaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (CVaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
+<span id="cb25-16"><a href="#cb25-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-17"><a href="#cb25-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Print results rounded to 2 decimal places</span></span>
+<span id="cb25-18"><a href="#cb25-18" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"VaR (95% confidence level) ="</span>, <span class="fu">round</span>(VaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>VaR (95% confidence level) = 1.5 rupees</code></pre>
@@ -1152,7 +1154,7 @@ cookieconsent.run({
 <div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"CVaR (95% confidence level) ="</span>, <span class="fu">round</span>(CVaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>CVaR (95% confidence level) = -11.61 rupees</code></pre>
+<pre><code>CVaR (95% confidence level) = 0 rupees</code></pre>
 </div>
 </div>
 <p>In this scenario, we can see that CVaR can be huge and can potentially wipe out the entire capital.</p>
