@@ -53,10 +53,10 @@ We are particularly interested in Levy distribution while analysing returns from
 library(stabledist)
 
 # Parameters for the Lévy distribution
-alpha <- 1.42 # Stability parameter
-beta <- -0.047 # Negative skewness parameter (left-skewed)
-gamma <- 22 # Scale parameter
-delta <- 11 # Location parameter
+alpha <- 1.505  # Stability parameter
+beta <- -0.084 # Negative skewness parameter (left-skewed)
+gamma <- 0.006433654  # Scale parameter
+delta <- 0.0007449581 # Location parameter
 
 # Number of simulations
 n <- 150
@@ -139,10 +139,10 @@ abline(h = 100, col = "red")
 library(Rcpp)
 library(stabledist)
 
-alpha <- 1.42
-beta <- -0.047
-mean_return <- 14.5
-sd_return <- 25
+alpha <- 1.505
+beta <- -0.084
+mean_return <- 10.8419
+sd_return <- 21.83348
 
 n <- 10000  # Number of simulations
 levy_samples <- rstable(n, alpha, beta, 1, 0)  # Scale parameter is 1, location is 0
@@ -199,25 +199,36 @@ cat(paste("P(Return < -60) =", p_less_neg60, "\n"))
 
 ### **Summing Up All Probabilities:**
 
-Now we sum all these mutually exclusive probabilities[^1]:
+Here’s a summary of the provided probabilities for different ranges of returns:
 
-[^1]: Sum = 0.0648 + 0.0754 + 0.0795 + 0.0829 + 0.0952 + 0.1155 + 0.1626 + 0.3241 = 0.9999
+1.  **Positive Returns**:
+    -   **P(Return \> 15)**: 43.73%
+    -   **P(Return \> 30)**: 25.98%
+    -   **P(5 \< Return \< 15)**: 13.53%
+    -   **P(15 \< Return \< 30)**: 17.75%
+2.  **Neutral Returns**:
+    -   **P(-5 \< Return \< 5)**: 11.7%
+3.  **Negative Returns**:
+    -   **P(-15 \< Return \< -5)**: 9.3%
+    -   **P(Return \< -15)**: 21.74%
+    -   **P(Return \< -30)**: 12.6%
+    -   **P(Return \< -60)**: 4.66%
 
--   **P(Return \< -60)**: 0.0648
+### Interpretation:
 
--   **P(-60 ≤ Return \< -30)**: 0.0754
-
--   **P(-30 ≤ Return \< -15)**: 0.0795
-
--   **P(-15 ≤ Return \< -5)**: 0.0829
-
--   **P(-5 ≤ Return \< 5)**: 0.0952
-
--   **P(5 ≤ Return \< 15)**: 0.1155
-
--   **P(15 ≤ Return \< 30)**: 0.1626
-
--   **P(Return \> 30)**: 0.3241
+1.  **High Positive Returns**:
+    -   There is a relatively high probability (43.73%) of returns exceeding 15%.
+    -   The probability of returns exceeding 30% is lower but still significant at 25.98%.
+    -   Within the range of 15% to 30%, the probability is 17.75%.
+2.  **Moderate Positive Returns**:
+    -   The probability of moderate returns between 5% and 15% is 13.53%.
+3.  **Neutral Returns**:
+    -   The probability of returns being between -5% and 5% is 11.7%, indicating a modest likelihood of small changes in returns around zero.
+4.  **Moderate Negative Returns**:
+    -   There is a 9.3% probability of returns being between -5% and -15%.
+5.  **High Negative Returns**:
+    -   The probability of returns falling below -15% is 21.74%.
+    -   Within the more extreme negative ranges, the probability of returns dropping below -30% is 12.6%, and below -60% is 4.66%.
 
 ## Value at Risk (VaR) and Conditional VaR
 

@@ -1,0 +1,55 @@
+---
+title: "Seeking Levi parameters"
+output:
+  html_document:
+    message: false
+---
+
+## Get data
+
+```{r, message=FALSE}
+# Load the required libraries
+library(data.table)
+library(tidyquant)
+
+# Fetch the Nifty 50 index data
+nifty_data <- tq_get("^NSEI", from = "1980-01-01", to = "2023-04-30")
+
+# Convert the data to a data.table
+dt <- data.table(nifty_data)
+
+
+# Select the relevant columns and calculate returns
+dt <- dt[, .(date, adjusted, returns = adjusted / shift(adjusted, 1) - 1)]
+
+
+# Calculate mean return and annualized standard deviation
+result <- dt[, .(
+  annualized_mean_return = 252 * mean(returns, na.rm = TRUE) * 100,
+  annualized_sd = sqrt(252) * sd(returns, na.rm = TRUE) * 100
+)]
+show(result)
+```
+
+## Find 𝛼,𝛽,𝛾,𝛿
+
+```{r, message=FALSE}
+library(data.table)
+library(stabledist)
+# install.packages("fitdistrplus")
+library(fitdistrplus)
+
+fit <- fBasics::stableFit(dt$returns, "stable")
+
+# Access the estimated parameters
+alpha <- fit@fit$estimate["alpha"]
+beta <- fit@fit$estimate["beta"]
+gamma <- fit@fit$estimate["gamma"]
+delta <- fit@fit$estimate["delta"]
+
+# Print the estimated parameters
+cat("Alpha:", alpha, "\n")
+cat("Beta:", beta, "\n")
+cat("Gamma:", gamma, "\n")
+cat("Delta:", delta, "\n")
+```

@@ -64,7 +64,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../Catallactics/Personal/Premium calculation.html" rel="next">
+<link href="../../Catallactics/Personal/nifty.html" rel="next">
 <link href="../../Catallactics/Personal/Conifers.html" rel="prev">
 <link href="../..//image/logo.png" rel="icon" type="image/png">
 <script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
@@ -626,6 +626,12 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../../Catallactics/Personal/nifty.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Seeking Levi parameters</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../../Catallactics/Personal/Premium calculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pay-off formula</span></a>
   </div>
@@ -795,6 +801,7 @@ cookieconsent.run({
   <li><a href="#what-is-the-probability-of-various-return-rates" id="toc-what-is-the-probability-of-various-return-rates" class="nav-link" data-scroll-target="#what-is-the-probability-of-various-return-rates">What is the probability of various return rates?</a>
   <ul class="collapse">
   <li><a href="#summing-up-all-probabilities" id="toc-summing-up-all-probabilities" class="nav-link" data-scroll-target="#summing-up-all-probabilities"><strong>Summing Up All Probabilities:</strong></a></li>
+  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation:</a></li>
   </ul></li>
   <li><a href="#value-at-risk-var-and-conditional-var" id="toc-value-at-risk-var-and-conditional-var" class="nav-link" data-scroll-target="#value-at-risk-var-and-conditional-var">Value at Risk (VaR) and Conditional VaR</a>
   <ul class="collapse">
@@ -896,10 +903,10 @@ cookieconsent.run({
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(stabledist)</span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Parameters for the Lévy distribution</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>alpha <span class="ot">&lt;-</span> <span class="fl">1.42</span> <span class="co"># Stability parameter</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>beta <span class="ot">&lt;-</span> <span class="sc">-</span><span class="fl">0.047</span> <span class="co"># Negative skewness parameter (left-skewed)</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>gamma <span class="ot">&lt;-</span> <span class="dv">22</span> <span class="co"># Scale parameter</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>delta <span class="ot">&lt;-</span> <span class="dv">11</span> <span class="co"># Location parameter</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>alpha <span class="ot">&lt;-</span> <span class="fl">1.505</span>  <span class="co"># Stability parameter</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>beta <span class="ot">&lt;-</span> <span class="sc">-</span><span class="fl">0.084</span> <span class="co"># Negative skewness parameter (left-skewed)</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>gamma <span class="ot">&lt;-</span> <span class="fl">0.006433654</span>  <span class="co"># Scale parameter</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>delta <span class="ot">&lt;-</span> <span class="fl">0.0007449581</span> <span class="co"># Location parameter</span></span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co"># Number of simulations</span></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>n <span class="ot">&lt;-</span> <span class="dv">150</span></span>
@@ -988,10 +995,10 @@ cookieconsent.run({
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(Rcpp)</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(stabledist)</span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>alpha <span class="ot">&lt;-</span> <span class="fl">1.42</span></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>beta <span class="ot">&lt;-</span> <span class="sc">-</span><span class="fl">0.047</span></span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>mean_return <span class="ot">&lt;-</span> <span class="fl">14.5</span></span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>sd_return <span class="ot">&lt;-</span> <span class="dv">25</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>alpha <span class="ot">&lt;-</span> <span class="fl">1.505</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>beta <span class="ot">&lt;-</span> <span class="sc">-</span><span class="fl">0.084</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>mean_return <span class="ot">&lt;-</span> <span class="fl">10.8419</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>sd_return <span class="ot">&lt;-</span> <span class="fl">21.83348</span></span>
 <span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>n <span class="ot">&lt;-</span> <span class="dv">10000</span>  <span class="co"># Number of simulations</span></span>
 <span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>levy_samples <span class="ot">&lt;-</span> <span class="fu">rstable</span>(n, alpha, beta, <span class="dv">1</span>, <span class="dv">0</span>)  <span class="co"># Scale parameter is 1, location is 0</span></span>
@@ -1017,7 +1024,7 @@ cookieconsent.run({
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
- -100.00   -11.06    13.78    26.94    37.50 73155.33 </code></pre>
+ -100.00   -11.61    10.02    15.83    30.74 32194.20 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1040,7 +1047,7 @@ cookieconsent.run({
 <span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &gt; 15) ="</span>, p_return_greater_15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &gt; 15) = 0.4876 </code></pre>
+<pre><code>P(Return &gt; 15) = 0.4353 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1048,7 +1055,7 @@ cookieconsent.run({
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &gt; 30) ="</span>, p_return_greater_30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &gt; 30) = 0.3211 </code></pre>
+<pre><code>P(Return &gt; 30) = 0.2571 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1057,7 +1064,7 @@ cookieconsent.run({
 <span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(5 &lt; Return &lt; 15) ="</span>, p_between_5_and_15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(5 &lt; Return &lt; 15) = 0.1115 </code></pre>
+<pre><code>P(5 &lt; Return &lt; 15) = 0.1302 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1065,7 +1072,7 @@ cookieconsent.run({
 <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(15 &lt; Return &lt; 30) ="</span>, p_between_15_and_30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(15 &lt; Return &lt; 30) = 0.1665 </code></pre>
+<pre><code>P(15 &lt; Return &lt; 30) = 0.1782 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1073,7 +1080,7 @@ cookieconsent.run({
 <span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(-5 &lt; Return &lt; 5) ="</span>, p_between_neg5_and_5, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(-5 &lt; Return &lt; 5) = 0.1008 </code></pre>
+<pre><code>P(-5 &lt; Return &lt; 5) = 0.119 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1081,7 +1088,7 @@ cookieconsent.run({
 <span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(-15 &lt; Return &lt; -5) ="</span>, p_between_neg15_and_neg5, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(-15 &lt; Return &lt; -5) = 0.0796 </code></pre>
+<pre><code>P(-15 &lt; Return &lt; -5) = 0.0946 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1089,7 +1096,7 @@ cookieconsent.run({
 <span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -15) ="</span>, p_less_neg15, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &lt; -15) = 0.2205 </code></pre>
+<pre><code>P(Return &lt; -15) = 0.2209 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1097,7 +1104,7 @@ cookieconsent.run({
 <span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -30) ="</span>, p_less_neg30, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &lt; -30) = 0.1382 </code></pre>
+<pre><code>P(Return &lt; -30) = 0.1282 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1105,22 +1112,60 @@ cookieconsent.run({
 <span id="cb24-2"><a href="#cb24-2" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"P(Return &lt; -60) ="</span>, p_less_neg60, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>P(Return &lt; -60) = 0.0684 </code></pre>
+<pre><code>P(Return &lt; -60) = 0.0535 </code></pre>
 </div>
 </div>
 <section id="summing-up-all-probabilities" class="level3">
 <h3 class="anchored" data-anchor-id="summing-up-all-probabilities"><strong>Summing Up All Probabilities:</strong></h3>
-<p>Now we sum all these mutually exclusive probabilities<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:</p>
+<p>Here’s a summary of the provided probabilities for different ranges of returns:</p>
+<ol type="1">
+<li><strong>Positive Returns</strong>:
 <ul>
-<li><p><strong>P(Return &lt; -60)</strong>: 0.0648</p></li>
-<li><p><strong>P(-60 ≤ Return &lt; -30)</strong>: 0.0754</p></li>
-<li><p><strong>P(-30 ≤ Return &lt; -15)</strong>: 0.0795</p></li>
-<li><p><strong>P(-15 ≤ Return &lt; -5)</strong>: 0.0829</p></li>
-<li><p><strong>P(-5 ≤ Return &lt; 5)</strong>: 0.0952</p></li>
-<li><p><strong>P(5 ≤ Return &lt; 15)</strong>: 0.1155</p></li>
-<li><p><strong>P(15 ≤ Return &lt; 30)</strong>: 0.1626</p></li>
-<li><p><strong>P(Return &gt; 30)</strong>: 0.3241</p></li>
-</ul>
+<li><strong>P(Return &gt; 15)</strong>: 43.73%</li>
+<li><strong>P(Return &gt; 30)</strong>: 25.98%</li>
+<li><strong>P(5 &lt; Return &lt; 15)</strong>: 13.53%</li>
+<li><strong>P(15 &lt; Return &lt; 30)</strong>: 17.75%</li>
+</ul></li>
+<li><strong>Neutral Returns</strong>:
+<ul>
+<li><strong>P(-5 &lt; Return &lt; 5)</strong>: 11.7%</li>
+</ul></li>
+<li><strong>Negative Returns</strong>:
+<ul>
+<li><strong>P(-15 &lt; Return &lt; -5)</strong>: 9.3%</li>
+<li><strong>P(Return &lt; -15)</strong>: 21.74%</li>
+<li><strong>P(Return &lt; -30)</strong>: 12.6%</li>
+<li><strong>P(Return &lt; -60)</strong>: 4.66%</li>
+</ul></li>
+</ol>
+</section>
+<section id="interpretation" class="level3">
+<h3 class="anchored" data-anchor-id="interpretation">Interpretation:</h3>
+<ol type="1">
+<li><strong>High Positive Returns</strong>:
+<ul>
+<li>There is a relatively high probability (43.73%) of returns exceeding 15%.</li>
+<li>The probability of returns exceeding 30% is lower but still significant at 25.98%.</li>
+<li>Within the range of 15% to 30%, the probability is 17.75%.</li>
+</ul></li>
+<li><strong>Moderate Positive Returns</strong>:
+<ul>
+<li>The probability of moderate returns between 5% and 15% is 13.53%.</li>
+</ul></li>
+<li><strong>Neutral Returns</strong>:
+<ul>
+<li>The probability of returns being between -5% and 5% is 11.7%, indicating a modest likelihood of small changes in returns around zero.</li>
+</ul></li>
+<li><strong>Moderate Negative Returns</strong>:
+<ul>
+<li>There is a 9.3% probability of returns being between -5% and -15%.</li>
+</ul></li>
+<li><strong>High Negative Returns</strong>:
+<ul>
+<li>The probability of returns falling below -15% is 21.74%.</li>
+<li>Within the more extreme negative ranges, the probability of returns dropping below -30% is 12.6%, and below -60% is 4.66%.</li>
+</ul></li>
+</ol>
 </section>
 </section>
 <section id="value-at-risk-var-and-conditional-var" class="level2">
@@ -1157,14 +1202,14 @@ cookieconsent.run({
 <span id="cb26-16"><a href="#cb26-16" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"VaR (95% confidence level) ="</span>, <span class="fu">round</span>(VaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>VaR (95% confidence level) = -74.94 rupees</code></pre>
+<pre><code>VaR (95% confidence level) = -63.04 rupees</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"CVaR (95% confidence level) ="</span>, <span class="fu">round</span>(CVaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>CVaR (95% confidence level) = -95.88 rupees</code></pre>
+<pre><code>CVaR (95% confidence level) = -88.5 rupees</code></pre>
 </div>
 </div>
 <p>In this scenario, we can see that CVaR can be huge and can potentially wipe out the entire capital.</p>
@@ -1174,13 +1219,7 @@ cookieconsent.run({
 </section>
 </section>
 
-
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>Sum = 0.0648 + 0.0754 + 0.0795 + 0.0829 + 0.0952 + 0.1155 + 0.1626 + 0.3241 = 0.9999<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1597,8 +1636,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../Catallactics/Personal/Premium calculation.html" class="pagination-link" aria-label="Pay-off formula">
-        <span class="nav-page-text">Pay-off formula</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../Catallactics/Personal/nifty.html" class="pagination-link" aria-label="Seeking Levi parameters">
+        <span class="nav-page-text">Seeking Levi parameters</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
