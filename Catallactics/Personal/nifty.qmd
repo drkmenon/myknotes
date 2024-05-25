@@ -50,3 +50,25 @@ cat("Beta:", beta, "\n")
 cat("Gamma:", gamma, "\n")
 cat("Delta:", delta, "\n")
 ```
+
+```{r}
+nifty <-as.data.table(nifty_data)
+```
+
+```{r}
+# Calculating daily returns
+nifty_return <- nifty[, daily_return := (adjusted / shift(adjusted, 1)) - 1]
+nifty_return1<-nifty_return[is.na(daily_return), daily_return := 0]
+return_only<-nifty_return1[, .(adjusted, daily_return)]
+sd_daily_return<-return_only[, sd(daily_return)]
+sd_nifty<-sd_daily_return*sqrt(252)
+sd_nifty
+average_daily_return<-nifty_return1[, mean(daily_return)]
+annual_return <- (1 + average_daily_return) ^ 252 - 1
+annual_return
+median_daily_return<-nifty_return1[, median(daily_return)]
+median_return <- (1 + median_daily_return) ^ 252 - 1
+median_return
+
+
+```
