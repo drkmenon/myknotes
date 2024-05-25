@@ -1,5 +1,6 @@
 ---
 title: "Risk mitigation"
+order: 1
 ---
 
 ## Barbell strategy

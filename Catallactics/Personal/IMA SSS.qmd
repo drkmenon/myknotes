@@ -1,7 +1,7 @@
 ---
 title: "IMA SSS"
 date: today
-order: 4
+order: 7
 ---
 
 ## Scenario
@@ -20,8 +20,9 @@ Joins all three SSS today at age 25.
 
 Total premium for 23 years with 7% inflation (**`premium is not capped, so this is a conservative estimate.Premium was 12000/year 10 years back, and the inflation for last 10 years is 18%`**)
 
-:::{.callout-tip}
+::: callout-tip
 ## Inflation
+
 Here what we are talking about is how much the premium paid has increased over a period of time, not the general consumer inflation
 :::
 
