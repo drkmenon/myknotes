@@ -1802,7 +1802,21 @@
     "href": "Catallactics/Personal/nifty.html#find-𝛼𝛽𝛾𝛿",
     "title": "Seeking Levy parameters",
     "section": "Find 𝛼,𝛽,𝛾,𝛿",
-    "text": "Find 𝛼,𝛽,𝛾,𝛿\n\nlibrary(data.table)\nlibrary(stabledist)\n# install.packages(\"fitdistrplus\")\nlibrary(fitdistrplus)\n\nfit &lt;- fBasics::stableFit(dt$returns, \"stable\")\n\n\n\n\n\n\n\n# Access the estimated parameters\nalpha &lt;- fit@fit$estimate[\"alpha\"]\nbeta &lt;- fit@fit$estimate[\"beta\"]\ngamma &lt;- fit@fit$estimate[\"gamma\"]\ndelta &lt;- fit@fit$estimate[\"delta\"]\n\n# Print the estimated parameters\ncat(\"Alpha:\", alpha, \"\\n\")\n\nAlpha: 1.505 \n\ncat(\"Beta:\", beta, \"\\n\")\n\nBeta: -0.084 \n\ncat(\"Gamma:\", gamma, \"\\n\")\n\nGamma: 0.006433654 \n\ncat(\"Delta:\", delta, \"\\n\")\n\nDelta: 0.0007449581 \n\n\n\nnifty &lt;-as.data.table(nifty_data)\n\n\n# Calculating daily returns\nnifty_return &lt;- nifty[, daily_return := (adjusted / shift(adjusted, 1)) - 1]\nnifty_return1&lt;-nifty_return[is.na(daily_return), daily_return := 0]\nreturn_only&lt;-nifty_return1[, .(adjusted, daily_return)]\nsd_daily_return&lt;-return_only[, sd(daily_return)]\nsd_nifty&lt;-sd_daily_return*sqrt(252)\nsd_nifty\n\n[1] 0.2166021\n\naverage_daily_return&lt;-nifty_return1[, mean(daily_return)]\nannual_return &lt;- (1 + average_daily_return) ^ 252 - 1\nannual_return\n\n[1] 0.1125796\n\nmedian_daily_return&lt;-nifty_return1[, median(daily_return)]\nmedian_return &lt;- (1 + median_daily_return) ^ 252 - 1\nmedian_return\n\n[1] 0.1094737",
+    "text": "Find 𝛼,𝛽,𝛾,𝛿\n\nlibrary(data.table)\nlibrary(stabledist)\n# install.packages(\"fitdistrplus\")\nlibrary(fitdistrplus)\n\nfit &lt;- fBasics::stableFit(dt$returns, \"stable\")\n\n\n\n\n\n\n\n# Access the estimated parameters\nalpha &lt;- fit@fit$estimate[\"alpha\"]\nbeta &lt;- fit@fit$estimate[\"beta\"]\ngamma &lt;- fit@fit$estimate[\"gamma\"]\ndelta &lt;- fit@fit$estimate[\"delta\"]\n\n# Print the estimated parameters\ncat(\"Alpha:\", alpha, \"\\n\")\n\nAlpha: 1.505 \n\ncat(\"Beta:\", beta, \"\\n\")\n\nBeta: -0.084 \n\ncat(\"Gamma:\", gamma, \"\\n\")\n\nGamma: 0.006433654 \n\ncat(\"Delta:\", delta, \"\\n\")\n\nDelta: 0.0007449581",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "Seeking Levy parameters"
+    ]
+  },
+  {
+    "objectID": "Catallactics/Personal/nifty.html#calculate-central-tendency",
+    "href": "Catallactics/Personal/nifty.html#calculate-central-tendency",
+    "title": "Seeking Levy parameters",
+    "section": "Calculate central tendency",
+    "text": "Calculate central tendency\n\nnifty &lt;-as.data.table(nifty_data)\n\n\n# Calculating daily returns\nnifty_return &lt;- nifty[, daily_return := (adjusted / shift(adjusted, 1)) - 1]\nnifty_return1&lt;-nifty_return[is.na(daily_return), daily_return := 0]\nreturn_only&lt;-nifty_return1[, .(adjusted, daily_return)]\nsd_daily_return&lt;-return_only[, sd(daily_return)]\nsd_nifty&lt;-sd_daily_return*sqrt(252)\nsd_nifty\n\n[1] 0.2166021\n\naverage_daily_return&lt;-nifty_return1[, mean(daily_return)]\nannual_return &lt;- (1 + average_daily_return) ^ 252 - 1\nannual_return\n\n[1] 0.1125796\n\nmedian_daily_return&lt;-nifty_return1[, median(daily_return)]\nmedian_return &lt;- (1 + median_daily_return) ^ 252 - 1\nmedian_return\n\n[1] 0.1094737",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -2716,7 +2730,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   213698    295954    343949    539191    435459 193320534 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62169   64080   64501   64506   64933   67225 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.039e+06 3.343e+06 5.655e+06 2.455e+07 1.183e+07 1.929e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.106e+05 2.959e+05 3.446e+05 6.703e+05 4.435e+05 1.017e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62076   64070   64496   64507   64945   67042 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.252e+05 3.287e+06 5.672e+06 3.752e+07 1.224e+07 1.017e+11",
     "crumbs": [
       "Home",
       "Blog",

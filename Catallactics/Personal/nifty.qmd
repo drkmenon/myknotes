@@ -51,6 +51,8 @@ cat("Gamma:", gamma, "\n")
 cat("Delta:", delta, "\n")
 ```
 
+## Calculate central tendency
+
 ```{r}
 nifty <-as.data.table(nifty_data)
 ```
