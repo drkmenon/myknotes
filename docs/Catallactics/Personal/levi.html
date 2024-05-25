@@ -54,7 +54,27 @@ div.sourceCode
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -1127,24 +1147,26 @@ cookieconsent.run({
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate VaR and CVaR</span></span>
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Confidence level</span></span>
 <span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>confidence_level <span class="ot">&lt;-</span> <span class="fl">0.95</span></span>
 <span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate VaR</span></span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate VaR (95% confidence level)</span></span>
 <span id="cb25-5"><a href="#cb25-5" aria-hidden="true" tabindex="-1"></a>VaR_95 <span class="ot">&lt;-</span> <span class="fu">quantile</span>(future_returns, <span class="dv">1</span> <span class="sc">-</span> confidence_level)</span>
 <span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate CVaR (Expected Shortfall)</span></span>
 <span id="cb25-8"><a href="#cb25-8" aria-hidden="true" tabindex="-1"></a>CVaR_95 <span class="ot">&lt;-</span> <span class="fu">mean</span>(future_returns[future_returns <span class="sc">&lt;=</span> VaR_95])</span>
-<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a>CVaR_95 <span class="ot">&lt;-</span> <span class="fu">max</span>(CVaR_95, <span class="dv">0</span>)</span>
-<span id="cb25-10"><a href="#cb25-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb25-11"><a href="#cb25-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb25-12"><a href="#cb25-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Adjust for the investment amount</span></span>
-<span id="cb25-13"><a href="#cb25-13" aria-hidden="true" tabindex="-1"></a>investment <span class="ot">&lt;-</span> <span class="dv">100</span></span>
-<span id="cb25-14"><a href="#cb25-14" aria-hidden="true" tabindex="-1"></a>VaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (VaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
-<span id="cb25-15"><a href="#cb25-15" aria-hidden="true" tabindex="-1"></a>CVaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (CVaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
-<span id="cb25-16"><a href="#cb25-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb25-17"><a href="#cb25-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Print results rounded to 2 decimal places</span></span>
-<span id="cb25-18"><a href="#cb25-18" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"VaR (95% confidence level) ="</span>, <span class="fu">round</span>(VaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-10"><a href="#cb25-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate maximum CVaR (worst loss within the VaR threshold)</span></span>
+<span id="cb25-11"><a href="#cb25-11" aria-hidden="true" tabindex="-1"></a>max_CVaR_95 <span class="ot">&lt;-</span> <span class="fu">min</span>(future_returns[future_returns <span class="sc">&lt;=</span> VaR_95])</span>
+<span id="cb25-12"><a href="#cb25-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-13"><a href="#cb25-13" aria-hidden="true" tabindex="-1"></a><span class="co"># Adjust for the investment amount (assuming VaR and CVaR are in percentage terms)</span></span>
+<span id="cb25-14"><a href="#cb25-14" aria-hidden="true" tabindex="-1"></a>investment <span class="ot">&lt;-</span> <span class="dv">100</span></span>
+<span id="cb25-15"><a href="#cb25-15" aria-hidden="true" tabindex="-1"></a>VaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (VaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
+<span id="cb25-16"><a href="#cb25-16" aria-hidden="true" tabindex="-1"></a>CVaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (CVaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
+<span id="cb25-17"><a href="#cb25-17" aria-hidden="true" tabindex="-1"></a>max_CVaR_95_rupees <span class="ot">&lt;-</span> investment <span class="sc">*</span> (max_CVaR_95 <span class="sc">/</span> <span class="dv">100</span>)</span>
+<span id="cb25-18"><a href="#cb25-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb25-19"><a href="#cb25-19" aria-hidden="true" tabindex="-1"></a><span class="co"># Print results rounded to 2 decimal places</span></span>
+<span id="cb25-20"><a href="#cb25-20" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"VaR (95% confidence level) ="</span>, <span class="fu">round</span>(VaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>VaR (95% confidence level) = 1.5 rupees</code></pre>
@@ -1154,17 +1176,37 @@ cookieconsent.run({
 <div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"CVaR (95% confidence level) ="</span>, <span class="fu">round</span>(CVaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>CVaR (95% confidence level) = 0 rupees</code></pre>
+<pre><code>CVaR (95% confidence level) = -11.61 rupees</code></pre>
+</div>
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Maximum CVaR (95% confidence level) ="</span>, <span class="fu">round</span>(max_CVaR_95_rupees, <span class="dv">2</span>), <span class="st">"rupees</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>Maximum CVaR (95% confidence level) = -100 rupees</code></pre>
 </div>
 </div>
-<p>In this scenario, we can see that CVaR can be huge and can potentially wipe out the entire capital.</p>
+<p>In this scenario, we can see that VaR and CVaR are reasonably managable. We can say with in 95 % of scenarios, loss well not exeed ₹1.5 and in 5% scenarios where it exeeds ₹1.5, average loss will be aroud ₹11.61, for every ₹100 invested.</p>
+<p>Important catch is that in those 5% rare scenarios, the maximum CVaR can reach upto ₹100, that is the entire corpus can be washed out.</p>
+<p>As Bernoulli would insist</p>
+<ul>
+<li><p>Larger the part of fortune greater the imprudence of the gambler in a game of chance</p></li>
+<li><p>A man who risks his entire fortune acts like a simpleton, however great may be the possible gain</p></li>
+<li><p>Either take insurance or keep a significant portion away from the game of chance</p></li>
+<li><p>It is advisable to divide the fortune which are exposed to chance in to several portions rather than to risk them all together</p></li>
+</ul>
 <p>This take us to the logical next step, how to <a href="https://www.knotes.co.in/catallactics/personal/speculation">mitigate the tail risk</a></p>
 
 
+
 </section>
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-bernoulli1954" class="csl-entry" role="listitem">
+Bernoulli, Daniel. 1954. <span>“Exposition of a New Theory on the Measurement of Risk.”</span> <em>Econometrica</em> 22 (1): 23–36. <a href="https://doi.org/10.2307/1909829">https://doi.org/10.2307/1909829</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

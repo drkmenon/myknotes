@@ -1,6 +1,8 @@
 ---
 title: "Draw-downs and buildups"
 code-fold: true
+nosite: |
+  @bernoulli1954
 order: 5
 ---
 
@@ -175,7 +177,7 @@ cat(paste("P(Return < -60) =", p_less_neg60, "\n"))
 
 ```
 
-### Summary 
+### Summary
 
 **The simulated returns exhibit the following characteristics:**
 
@@ -230,27 +232,42 @@ This measures the expected loss given that the loss has exceeded the VaR thresho
 CVaR is the most useful measure to foresee the shortfall in the capital, if the tail risk remains unattended.
 
 ```{r}
-# Calculate VaR and CVaR
+# Confidence level
 confidence_level <- 0.95
 
-# Calculate VaR
+# Calculate VaR (95% confidence level)
 VaR_95 <- quantile(future_returns, 1 - confidence_level)
 
 # Calculate CVaR (Expected Shortfall)
 CVaR_95 <- mean(future_returns[future_returns <= VaR_95])
-CVaR_95 <- max(CVaR_95, 0)
 
+# Calculate maximum CVaR (worst loss within the VaR threshold)
+max_CVaR_95 <- min(future_returns[future_returns <= VaR_95])
 
-# Adjust for the investment amount
+# Adjust for the investment amount (assuming VaR and CVaR are in percentage terms)
 investment <- 100
 VaR_95_rupees <- investment * (VaR_95 / 100)
 CVaR_95_rupees <- investment * (CVaR_95 / 100)
+max_CVaR_95_rupees <- investment * (max_CVaR_95 / 100)
 
 # Print results rounded to 2 decimal places
 cat("VaR (95% confidence level) =", round(VaR_95_rupees, 2), "rupees\n")
 cat("CVaR (95% confidence level) =", round(CVaR_95_rupees, 2), "rupees\n")
+cat("Maximum CVaR (95% confidence level) =", round(max_CVaR_95_rupees, 2), "rupees\n")
 ```
 
-In this scenario, we can see that CVaR can be huge and can potentially wipe out the entire capital.
+In this scenario, we can see that VaR and CVaR are reasonably managable. We can say with in 95 % of scenarios, loss well not exeed ₹1.5 and in 5% scenarios where it exeeds ₹1.5, average loss will be aroud ₹11.61, for every ₹100 invested.
+
+Important catch is that in those 5% rare scenarios, the maximum CVaR can reach upto ₹100, that is the entire corpus can be washed out.
+
+As Bernoulli would insist
+
+-   Larger the part of fortune greater the imprudence of the gambler in a game of chance
+
+-   A man who risks his entire fortune acts like a simpleton, however great may be the possible gain
+
+-   Either take insurance or keep a significant portion away from the game of chance
+
+-   It is advisable to divide the fortune which are exposed to chance in to several portions rather than to risk them all together
 
 This take us to the logical next step, how to [mitigate the tail risk](https://www.knotes.co.in/catallactics/personal/speculation)
