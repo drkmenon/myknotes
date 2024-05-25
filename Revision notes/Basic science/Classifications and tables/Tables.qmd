@@ -114,29 +114,29 @@ toc: true
 ## Young's Modulus for various Orthopaedic Materials
 
 ::: callout
-+:--------------------------------------------+:------------------------+
-| **Material**                                | **Young's Modulus**     |
-+---------------------------------------------+-------------------------+
-| [Ceramic]{style="font-weight:bold"}         | 250                     |
-+---------------------------------------------+-------------------------+
-| [CoCr]{style="font-weight:bold"}            | 225                     |
-+---------------------------------------------+-------------------------+
-| [Stainless Steel]{style="font-weight:bold"} | 200                     |
-+---------------------------------------------+-------------------------+
-| [Titanium]{style="font-weight:bold"}        | 100                     |
-+---------------------------------------------+-------------------------+
-| [Cortical Bone]{style="font-weight:bold"}   | 20                      |
-+---------------------------------------------+-------------------------+
-| [PMMA]{style="font-weight:bold"}            | 2                       |
-+---------------------------------------------+-------------------------+
-| [Polyethylene]{style="font-weight:bold"}    | 1.5                     |
-+---------------------------------------------+-------------------------+
-| [Cancellous Bone]{style="font-weight:bold"} | 1                       |
-+---------------------------------------------+-------------------------+
-| [Tendon]{style="font-weight:bold"}          | 0.1                     |
-+---------------------------------------------+-------------------------+
-| [Cartilage]{style="font-weight:bold"}       | 0.02                    |
-+---------------------------------------------+-------------------------+
++:--------------------------------------------+:-----------------------+
+| **Material**                                | **Young's Modulus**    |
++---------------------------------------------+------------------------+
+| [Ceramic]{style="font-weight:bold"}         | 250                    |
++---------------------------------------------+------------------------+
+| [CoCr]{style="font-weight:bold"}            | 225                    |
++---------------------------------------------+------------------------+
+| [Stainless Steel]{style="font-weight:bold"} | 200                    |
++---------------------------------------------+------------------------+
+| [Titanium]{style="font-weight:bold"}        | 100                    |
++---------------------------------------------+------------------------+
+| [Cortical Bone]{style="font-weight:bold"}   | 20                     |
++---------------------------------------------+------------------------+
+| [PMMA]{style="font-weight:bold"}            | 2                      |
++---------------------------------------------+------------------------+
+| [Polyethylene]{style="font-weight:bold"}    | 1.5                    |
++---------------------------------------------+------------------------+
+| [Cancellous Bone]{style="font-weight:bold"} | 1                      |
++---------------------------------------------+------------------------+
+| [Tendon]{style="font-weight:bold"}          | 0.1                    |
++---------------------------------------------+------------------------+
+| [Cartilage]{style="font-weight:bold"}       | 0.02                   |
++---------------------------------------------+------------------------+
 :::
 
 ## Genes & Inheritance patterns in Orthopaedic Disease
@@ -434,27 +434,27 @@ toc: true
 ## X Ray Features of Rickets
 
 ::: callout
-+:------------------------------+
-| Hazy Physis                   |
-+-------------------------------+
-| Widened Physis                |
-+-------------------------------+
-| Metaphyseal cupping           |
-+-------------------------------+
-| Metaphyseal Flaring           |
-+-------------------------------+
-| Looser's zones                |
-+-------------------------------+
-| Coxa Vara                     |
-+-------------------------------+
-| Tibial Varus                  |
-+-------------------------------+
-| Small ossific nuclei          |
-+-------------------------------+
-| Coarse Trabecullae            |
-+-------------------------------+
-| Thickened cortices            |
-+-------------------------------+
++:-----------------------------+
+| Hazy Physis                  |
++------------------------------+
+| Widened Physis               |
++------------------------------+
+| Metaphyseal cupping          |
++------------------------------+
+| Metaphyseal Flaring          |
++------------------------------+
+| Looser's zones               |
++------------------------------+
+| Coxa Vara                    |
++------------------------------+
+| Tibial Varus                 |
++------------------------------+
+| Small ossific nuclei         |
++------------------------------+
+| Coarse Trabecullae           |
++------------------------------+
+| Thickened cortices           |
++------------------------------+
 :::
 
 ## Clinical Features of Rickets
@@ -1007,471 +1007,6 @@ toc: true
 +--------------------------------------------+---------------------------+
 :::
 
-## Surgical Approaches
-
- 
-
-<table style="width:58%;">
-<colgroup>
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-<col style="width: 4%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p> <strong>Approach</strong></p></td>
-<td></td>
-<td><p><strong>IN Plane</strong></p></td>
-<td><p> </p></td>
-<td></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td><p><strong>Muscles</strong></p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td><p><strong>Dangers</strong></p></td>
-<td><p> </p></td>
-</tr>
-<tr class="even">
-<td><p>Ankle Anterior</p></td>
-<td><p> </p></td>
-<td><p>Deep Peroneal nerve</p></td>
-<td><p> </p></td>
-<td><p>EDL &amp; EHL</p></td>
-<td><p> </p></td>
-<td><p>Midpoint of malleoli</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ankle Posterolateral</p></td>
-<td><p> </p></td>
-<td><p>SPN &amp; Post Tibial</p></td>
-<td><p> </p></td>
-<td><p>PB &amp; FHL</p></td>
-<td><p> </p></td>
-<td><p>Between achillies and fibula</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ankle Posteromedial</p></td>
-<td><p> </p></td>
-<td><p>Posterior Tibial nerve</p></td>
-<td><p> </p></td>
-<td><p>Medial to TP</p>
-<p>Between TP &amp; FDL</p></td>
-<td><p> </p></td>
-<td><p>Posterior aspect MM</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ankle Anterolateral</p></td>
-<td><p> </p></td>
-<td><p>SPN &amp; DPN</p></td>
-<td><p> </p></td>
-<td><p>PB &amp; PT/EDL</p></td>
-<td><p> </p></td>
-<td><p>In line with 4th ray </p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ankle Anteromedial</p></td>
-<td><p>Deep Peroneal nerve</p></td>
-<td><p>Medial to TA</p></td>
-<td><p>Medial border TA</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Thigh Lateral</p></td>
-<td><p>None</p></td>
-<td><p>Split VL</p></td>
-<td><p>Perforators of Profunda</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Thigh Posterolateral</p></td>
-<td><p>Sciatic &amp; Femoral</p></td>
-<td><p>Biceps Femoris &amp; VL</p></td>
-<td><p>Perforators</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Thigh Anteromedial</p></td>
-<td><p>None</p></td>
-<td><p>VM &amp; RF then through VI (femoral)</p></td>
-<td><p>Medial Sup Geniculate</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Femur Posterior</p></td>
-<td><p>Femoral &amp; Sciatic</p></td>
-<td><p>Biceps &amp; VL</p></td>
-<td><p>Posterior Cut nerve thigh</p>
-<p>Sciatic distally</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Henry’s Forearm</p></td>
-<td><p>Radial &amp; Median</p></td>
-<td><p>Elbow – BR &amp;</p>
-<p>Biceps</p>
-<p>Prox 1/3 – BR &amp; PT</p>
-<p>Dist 2/3 – BR &amp; FCR</p></td>
-<td><p>PIN</p>
-<p>Radial artery</p>
-<p>LFCN</p>
-<p>S Radial nerve</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Thompson’s Forearm</p></td>
-<td><p>Radial &amp; PIN</p>
-<p>None if ECRB is innervated by PIN</p></td>
-<td><p>Prox ½ ECRB &amp; EDC</p>
-<p>Dist ½ ECRB&amp; EPL</p></td>
-<td><p>PIN proximally</p>
-<p>APL &amp; EDB crossing</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Ulna approach</p></td>
-<td><p>PIN &amp; Ulna</p>
-<p>Elbow – Radial &amp;</p>
-<p>Ulna</p></td>
-<td><p>FCU &amp; ECU</p>
-<p>Elbow – ANC &amp; FCU</p></td>
-<td><p>Dorsal cutaneous branch ulna</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Deltopectoral </p></td>
-<td><p>L Pectoral &amp; Axilliary</p></td>
-<td><p>Pec Major, Deltoid</p></td>
-<td><p>Cephalic vein</p>
-<p>Axilliary nerve</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Anterolateral to humerus shaft</p></td>
-<td><p>Prox – LP &amp; AX</p>
-<p>Distal – Radial &amp; MC</p></td>
-<td><p>PM &amp; Deltoid</p>
-<p>Through Brachialis</p></td>
-<td><p>MC nrve</p>
-<p>Axilliary nerve</p>
-<p>Radial nerve</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Anterolateral to Distal</p>
-<p>Humerus</p></td>
-<td><p>None</p></td>
-<td><p>BR &amp; Brachialis</p></td>
-<td><p>Radial nerve throughout</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Posterior to Humerus</p></td>
-<td><p>None</p></td>
-<td><p>Lateral &amp; Long head triceps</p>
-<p>Through Medial head</p></td>
-<td><p>Radial Nerve</p>
-<p>Profunda Brachii</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Anterior to Hip</p></td>
-<td><p>SG &amp; Femoral</p></td>
-<td><p>TFL &amp; Sartorius</p>
-<p>GM &amp; Rectus</p>
-<p>Femoris</p></td>
-<td><p>LFCN</p>
-<p>Ascending LFC</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Lateral to Hip</p></td>
-<td><p>None</p></td>
-<td><p>Split GM &amp;GMi</p></td>
-<td><p>SG nerve</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p> </p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td><p>Sciatic &amp; Femoral nerves with errant retractors</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Watson Jones</p></td>
-<td><p>None</p></td>
-<td><p>GM &amp; TFL</p></td>
-<td><p>SG nerve</p>
-<p>Sciatic &amp; Femoral nerves with errant retractors</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Posterior Approach Hip</p></td>
-<td><p>None</p></td>
-<td><p>Split G Max</p></td>
-<td><p>Inferior Gluteal Artery</p>
-<p>Ascending MFCA</p>
-<p>Sciatic Nerve</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Medial (Ludloff) Hip</p></td>
-<td><p>Superficial – None</p>
-<p>Deep – OB &amp; Sciatic</p>
-<p>(AM has dual innervation)</p></td>
-<td><p>Sup – ADL &amp;</p>
-<p>Gracilis</p>
-<p>Deep – AB &amp; AM </p></td>
-<td><p>Obturator nerve A &amp; P branches around ADB</p>
-<p>MCFA near LT</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ilioinguinal to Pelvis</p></td>
-<td><p>None</p></td>
-<td><p>No muscles cut</p></td>
-<td><p>Lat – LFCN</p>
-<p>Mid – Ext Iliac vessels</p>
-<p>&amp; Femoral nerve</p>
-<p>Med – Bladder, aberrant anastamoses </p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Kocher Langenback</p></td>
-<td><p>SGn &amp; IGn</p></td>
-<td><p>G max Split</p>
-<p>G med stripped </p></td>
-<td><p>SG nerve &amp; artery</p>
-<p>IG nerve &amp; artery</p>
-<p>Sciatic nerve</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-[ ]{style="font-weight:bold; color:#000090"}
-
-##### \[Angles in the Foot & Ankle\]{#Chapter%2014.html#\_Toc529231684} {#Chapter%2014.html#sigil_toc_id_103}
-
- 
-
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-|                                                                         | \[Name\]{ style ="fon t-wei ght:b old; color :#000 090"} |      |                                                                                                                                           | \[Loc ation\]{ style ="fon t-wei ght:b old; color :#000 090"} |      |                               | \[N ormal value\]{ style ="fon t-wei ght:b old; color :#000 090"} |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[K ite's Angle\]{ style ="fon t-wei ght:b old"}                        |                                                          |      | Be tween axis of talus and axis of calc aneus                                                                                             |                                                               |      | \<20                          |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      | (\>20 indi cates pes pl anus) |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[Calc aneal Pitch\]{ style ="fon t-wei ght:b old"}                     |                                                          |      | Floor and pl antar su rface Calc aneus                                                                                                    |                                                               |      | 30 de grees                   |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      | In c/dec = pl anus/ cavus     |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[H ibb's Angle\]{ style ="fon t-wei ght:b old"}                        |                                                          |      | Axis of calc aneus & axis 1\[st\] {styl e="fo nt-si ze:8p t; ve rtica l-ali gn:su per"}                                                   |                                                               |      | \<45                          |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-|                                                                         |                                                          |      | MT                                                                                                                                        |                                                               |      | Incr eased in Cavus           |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[Me ary's Angle\]{ style ="fon t-wei ght:b old"}                       |                                                          |      | Axis of talus & axis of 1\[st\] {styl e="fo nt-si ze:8p t; ve rtica l-ali gn:su per"} MT                                                  |                                                               |      | 0-5                           |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      | Inc in c avus, dec in p lanus |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[Boh ler's Angle\]{ style ="fon t-wei ght:b old"}                      |                                                          |      | Ant t ubero sity, Post erior f acet, post erior tuber osity                                                                               |                                                               |      | 20-40                         |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      | Decr eased in fra cture       |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[Cr ucial angle Gi saine\]{ style ="fon t-wei ght:b old"}              |                                                          |      | Cor tical bone s truts                                                                                                                    |                                                               |      | 12 0-140                      |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      | Incr eased in fra cture       |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[H allux V algus\]{ style ="fon t-wei ght:b old"}                      |                                                          |      | 1\[st\] {styl e="fo nt-si ze:8p t; ve rtica l-ali gn:su per"} ray & P1 Big toe                                                            |                                                               |      | \<15                          |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[ Inter metat arsal Angle\]{ style ="fon t-wei ght:b old"}             |                                                          |      | Be tween 1\[st\] {styl e="fo nt-si ze:8p t; ve rtica l-ali gn:su per"} & 2\[nd\] {styl e="fo nt-si ze:8p t; ve rtica l-ali gn:su per"} MT |                                                               |      | \<7                           |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[H allux V algus\]{ style ="fon t-wei ght:b old"}                      |                                                          |      | Be tween P1 & P2 axes                                                                                                                     |                                                               |      | \<10                          |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-| \[ Inter phala ngeus\]{ style ="fon t-wei ght:b old"}                   |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-| \[ Angle\]{ style ="fon t-wei ght:b old"}                               |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[ Phala ngeal\]{ style ="fon t-wei ght:b old"}                         |                                                          |      | B tween P1 pro ximal & d istal arti cular su races                                                                                        |                                                               |      | \<10                          |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-| \[Arti cular Angle\]{ style ="fon t-wei ght:b old"}                     |                                                          |      |                                                                                                                                           |                                                               |      |                               |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-| \[D istal Metat arsal Arti cular Angle\]{ style ="fon t-wei ght:b old"} |                                                          |      | Axis of 1\[st\] {styl e="fo nt-si ze:8p t; ve rtica l-ali gn:su per"} MT & Arti cular su rface big toe                                    |                                                               |      | \<10 (\                       |                                                                   |      |
-|                                                                         |                                                          |      |                                                                                                                                           |                                                               |      | \<100)                        |                                                                   |      |
-+-------------------------------------------------------------------------+----------------------------------------------------------+------+-------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------+-------------------------------+-------------------------------------------------------------------+------+
-
- 
-
 ## Types of Pelvic Osteotomy
 
 ::: callout
@@ -1970,37 +1505,37 @@ toc: true
 ## Composition of Orthopaedic Metals
 
 ::: callout 
-+----------------------+-----------------------------------------------+
-| Metal                | Composition                                   |
-+----------------------+-----------------------------------------------+
-| Stainless Steel 316L | 60% Iron                                      |
-|                      |                                               |
-|                      | 20% Chromium                                  |
-|                      |                                               |
-|                      | 16% Nickel                                    |
-|                      |                                               |
-|                      | 3% Molybdenum                                 |
-|                      |                                               |
-|                      | 0.03% Carbon                                  |
-|                      |                                               |
-|                      | L = low carbon: improves heat resistance      |
-+----------------------+-----------------------------------------------+
-| Titanium AL-6 V-4    | 90% Titanium                                  |
-|                      |                                               |
-|                      | 6% Aluminium                                  |
-|                      |                                               |
-|                      | 4% Vanadium                                   |
-|                      |                                               |
-|                      | \<1% other                                    |
-+----------------------+-----------------------------------------------+
-| Cobalt Chrome        | 60% Cobalt                                    |
-|                      |                                               |
-|                      | 25% Chromium                                  |
-|                      |                                               |
-|                      | 5% M olybdenum                                |
-|                      |                                               |
-|                      | 10 % other                                    |
-+----------------------+-----------------------------------------------+
++----------------------+----------------------------------------------+
+| Metal                | Composition                                  |
++----------------------+----------------------------------------------+
+| Stainless Steel 316L | 60% Iron                                     |
+|                      |                                              |
+|                      | 20% Chromium                                 |
+|                      |                                              |
+|                      | 16% Nickel                                   |
+|                      |                                              |
+|                      | 3% Molybdenum                                |
+|                      |                                              |
+|                      | 0.03% Carbon                                 |
+|                      |                                              |
+|                      | L = low carbon: improves heat resistance     |
++----------------------+----------------------------------------------+
+| Titanium AL-6 V-4    | 90% Titanium                                 |
+|                      |                                              |
+|                      | 6% Aluminium                                 |
+|                      |                                              |
+|                      | 4% Vanadium                                  |
+|                      |                                              |
+|                      | \<1% other                                   |
++----------------------+----------------------------------------------+
+| Cobalt Chrome        | 60% Cobalt                                   |
+|                      |                                              |
+|                      | 25% Chromium                                 |
+|                      |                                              |
+|                      | 5% M olybdenum                               |
+|                      |                                              |
+|                      | 10 % other                                   |
++----------------------+----------------------------------------------+
 :::
 
 ## Types of Nerve Fibre
@@ -2417,27 +1952,27 @@ toc: true
 ## Composition of Ligaments and Tendons
 
 ::: callout 
-+-------------+----------------+---------------------------------------------------------------+
-|             | Component      | Fea ures                                                      |
-+-------------+----------------+---------------------------------------------------------------+
-| Cells       | Fibrob lasts   | Predominate                                                   |
-|             |                |                                                               |
-| 20%         |                |                                                               |
-+-------------+----------------+---------------------------------------------------------------+
-|             | Tenocytes      | Some present after healing of tendon/ligament                 |
-+-------------+----------------+---------------------------------------------------------------+
-| Matrix 80%  | Collagen 90%   | 90% Type 1                                                    |
-|             |                |                                                               |
-|             |                | Type 3 during proliferative phase of healing                  |
-|             |                |                                                               |
-|             |                | \<1% other types                                              |
-+-------------+----------------+---------------------------------------------------------------+
-|             | Proteoglycans  | Negatively charged at tract water -- create gelatinous matrix |
-+-------------+----------------+---------------------------------------------------------------+
-|             | Elastin        | Aids ability to recoil -- more in ligaments                   |
-+-------------+----------------+---------------------------------------------------------------+
-|             | Other Proteins | MMP's, glycoprotein's etc.                                    |
-+-------------+----------------+---------------------------------------------------------------+
++------------+----------------+---------------------------------------------------------------+
+|            | Component      | Fea ures                                                      |
++------------+----------------+---------------------------------------------------------------+
+| Cells      | Fibrob lasts   | Predominate                                                   |
+|            |                |                                                               |
+| 20%        |                |                                                               |
++------------+----------------+---------------------------------------------------------------+
+|            | Tenocytes      | Some present after healing of tendon/ligament                 |
++------------+----------------+---------------------------------------------------------------+
+| Matrix 80% | Collagen 90%   | 90% Type 1                                                    |
+|            |                |                                                               |
+|            |                | Type 3 during proliferative phase of healing                  |
+|            |                |                                                               |
+|            |                | \<1% other types                                              |
++------------+----------------+---------------------------------------------------------------+
+|            | Proteoglycans  | Negatively charged at tract water -- create gelatinous matrix |
++------------+----------------+---------------------------------------------------------------+
+|            | Elastin        | Aids ability to recoil -- more in ligaments                   |
++------------+----------------+---------------------------------------------------------------+
+|            | Other Proteins | MMP's, glycoprotein's etc.                                    |
++------------+----------------+---------------------------------------------------------------+
 :::
 
 ## Stem Failure

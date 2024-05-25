@@ -64,13 +64,13 @@ nifty_return1<-nifty_return[is.na(daily_return), daily_return := 0]
 return_only<-nifty_return1[, .(adjusted, daily_return)]
 sd_daily_return<-return_only[, sd(daily_return)]
 sd_nifty<-sd_daily_return*sqrt(252)
-sd_nifty
+print(sd_nifty)
 average_daily_return<-nifty_return1[, mean(daily_return)]
 annual_return <- (1 + average_daily_return) ^ 252 - 1
-annual_return
+print(annual_return)
 median_daily_return<-nifty_return1[, median(daily_return)]
 median_return <- (1 + median_daily_return) ^ 252 - 1
-median_return
+print(median_return)
 
 
 ```
