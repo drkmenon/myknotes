@@ -2654,7 +2654,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   206501    295142    341813    547056    435274 202644224 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62291   64083   64509   64518   64947   67420 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.026e+05 3.285e+06 5.491e+06 2.527e+07 1.173e+07 2.023e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   204832    296783    345495    620404    444443 533305128 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61517   64049   64498   64502   64938   66779 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.761e+05 3.358e+06 5.682e+06 3.247e+07 1.243e+07 5.330e+10",
     "crumbs": [
       "Home",
       "Blog",
@@ -3371,18 +3371,17 @@
     ]
   },
   {
-    "objectID": "Catallactics/Personal/Retirement calculator/Plan retirement.html",
-    "href": "Catallactics/Personal/Retirement calculator/Plan retirement.html",
-    "title": "knotes",
+    "objectID": "Catallactics/Personal/calc.html",
+    "href": "Catallactics/Personal/calc.html",
+    "title": "Retirement Calculator",
     "section": "",
-    "text": "#| standalone: true\n#| viewerHeight: 1400\nlibrary(shiny)\nlibrary(plotly)\n\nui &lt;- fluidPage(\n  titlePanel(\"Early Retirement Calculator\"),\n  sidebarLayout(\n    sidebarPanel(\n      numericInput(\"income\", \"Annual Income (₹):\", min = 0, value = 70000),\n      numericInput(\"initial_balance\", \"Initial Balance (₹):\", min = 0, value = 0),\n      numericInput(\"saving_rate\", \"Saving Rate (% of income):\", min = 0, max = 100, value = 20),\n      numericInput(\"withdrawal_rate\", \"Safe Withdrawal Rate (%):\", min = 0, max = 100, value = 4),\n      numericInput(\"annual_pct\", \"Annual Return Rate (%):\", min = 0, max = 100, value = 5),\n      numericInput(\"inflation_rate\", \"Annual Inflation Rate (%):\", min = 0, max = 100, value = 3),\n      numericInput(\"current_expenses\", \"Current Annual Expenses (₹):\", min = 0, value = 25200),\n      actionButton(\"calculate\", \"Calculate\")\n    ),\n    mainPanel(\n      verbatimTextOutput(\"result\"),\n      plotlyOutput(\"retirementPlot\")\n    )\n  )\n)\n\nserver &lt;- function(input, output) {\n  calculate_years_to_retirement &lt;- reactive({\n    input$calculate\n    isolate({\n      income &lt;- input$income\n      initial_balance &lt;- input$initial_balance\n      saving_rate &lt;- input$saving_rate / 100\n      withdrawal_rate &lt;- input$withdrawal_rate / 100\n      annual_pct &lt;- input$annual_pct / 100\n      inflation_rate &lt;- input$inflation_rate / 100\n      current_expenses &lt;- input$current_expenses\n      \n      # Calculate current annual savings based on income and saving rate\n      current_annual_savings &lt;- income * saving_rate\n      expenses &lt;- current_expenses\n      \n      total_balance &lt;- initial_balance\n      years &lt;- 0\n      balances &lt;- c(total_balance)\n      \n      while (total_balance * withdrawal_rate &lt; expenses) {\n        # Adjust expenses and annual savings for inflation\n        expenses &lt;- expenses * (1 + inflation_rate)\n        current_annual_savings &lt;- current_annual_savings * (1 + inflation_rate)\n        \n        # Adjust investment returns for inflation\n        total_balance &lt;- total_balance * (1 + annual_pct) * (1 - inflation_rate) + current_annual_savings\n        balances &lt;- c(balances, total_balance)\n        years &lt;- years + 1\n      }\n      \n      list(years = years, balances = balances)\n    })\n  })\n  \n  output$result &lt;- renderText({\n    result &lt;- calculate_years_to_retirement()\n    years &lt;- result$years\n    total_balance &lt;- result$balances[length(result$balances)]\n    formatted_balance &lt;- scales::dollar(total_balance, prefix = \"₹\")\n    paste(\"You can retire in approximately\", years, \"years with a total balance of\", formatted_balance)\n  })\n  \n  output$retirementPlot &lt;- renderPlotly({\n    result &lt;- calculate_years_to_retirement()\n    years &lt;- 0:result$years\n    balances &lt;- result$balances\n    \n    plot_ly(x = ~years, y = ~balances, type = 'scatter', mode = 'lines+markers',\n            line = list(shape = \"linear\")) %&gt;%\n      layout(title = \"Retirement Fund Growth Over Time\",\n             xaxis = list(title = \"Years\"),\n             yaxis = list(title = \"Balance (₹)\"))\n  })\n}\n\nshinyApp(ui = ui, server = server)\n\n\n\n Back to top",
+    "text": "Back to top",
     "crumbs": [
       "Home",
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Retirement calculator",
-      "Plan retirement"
+      "Retirement Calculator"
     ]
   },
   {
