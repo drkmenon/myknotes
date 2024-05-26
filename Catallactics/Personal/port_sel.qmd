@@ -1,0 +1,19 @@
+---
+title: "Portfolio Selection"
+---
+
+## Risk measures
+
+One of the crucial & difficult area in investment decision making is how to Select from Various return distributions. The most commonly used method is mean-risk method, of which mean-Variance method is the oldest and commonest method employed world wide.
+
+It is a general assumption that the returns are normally distributed. Hence , reducing the information needed for portfolio solution in to Just two scalars make life simpler. Using mean & variance one can easily compare pay-off distributions and can select the one with maximum mean & minimum variance.
+
+## Problem of Variance as risk measure
+
+Variance penalises both Sides of the distribution. This is against the moral concept of risk. Risk is the probability of loss of value and lies on the left side of the distribution . By reducing the variance, the beneficial right Side of the pay-off distribution also get nullified. The problem is true for all risk measures that address the deviation from a Central target.
+
+## Tail risk measures
+
+Another class of risk measure available for portfolio selection can be collectively called `tail risk measures`. They consider only the worst outcomes (generally considered as rare,especially if one considers the pay-off distribution as normal). In environments where the returns are assymetric with the tails longer and fatter, 'tail risk measures' assume great significance . VaR and CVaR come under this class.
+
+VaR is programically difficult to solve due to its non- convex nature. Where as CVaR is consistent with all orders of stochastic dominance and can be considered as one of the promising risk measure for portfolio Selection.
