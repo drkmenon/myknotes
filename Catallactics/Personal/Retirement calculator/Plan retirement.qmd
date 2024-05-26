@@ -1,0 +1,91 @@
+---
+project:
+  title: "Plan retirement"
+filters:
+    - shinylive
+---
+
+```{shinylive-r}
+#| standalone: true
+#| viewerHeight: 1400
+library(shiny)
+library(plotly)
+
+ui <- fluidPage(
+  titlePanel("Early Retirement Calculator"),
+  sidebarLayout(
+    sidebarPanel(
+      numericInput("income", "Annual Income (₹):", min = 0, value = 70000),
+      numericInput("initial_balance", "Initial Balance (₹):", min = 0, value = 0),
+      numericInput("saving_rate", "Saving Rate (% of income):", min = 0, max = 100, value = 20),
+      numericInput("withdrawal_rate", "Safe Withdrawal Rate (%):", min = 0, max = 100, value = 4),
+      numericInput("annual_pct", "Annual Return Rate (%):", min = 0, max = 100, value = 5),
+      numericInput("inflation_rate", "Annual Inflation Rate (%):", min = 0, max = 100, value = 3),
+      numericInput("current_expenses", "Current Annual Expenses (₹):", min = 0, value = 25200),
+      actionButton("calculate", "Calculate")
+    ),
+    mainPanel(
+      verbatimTextOutput("result"),
+      plotlyOutput("retirementPlot")
+    )
+  )
+)
+
+server <- function(input, output) {
+  calculate_years_to_retirement <- reactive({
+    input$calculate
+    isolate({
+      income <- input$income
+      initial_balance <- input$initial_balance
+      saving_rate <- input$saving_rate / 100
+      withdrawal_rate <- input$withdrawal_rate / 100
+      annual_pct <- input$annual_pct / 100
+      inflation_rate <- input$inflation_rate / 100
+      current_expenses <- input$current_expenses
+      
+      # Calculate current annual savings based on income and saving rate
+      current_annual_savings <- income * saving_rate
+      expenses <- current_expenses
+      
+      total_balance <- initial_balance
+      years <- 0
+      balances <- c(total_balance)
+      
+      while (total_balance * withdrawal_rate < expenses) {
+        # Adjust expenses and annual savings for inflation
+        expenses <- expenses * (1 + inflation_rate)
+        current_annual_savings <- current_annual_savings * (1 + inflation_rate)
+        
+        # Adjust investment returns for inflation
+        total_balance <- total_balance * (1 + annual_pct) * (1 - inflation_rate) + current_annual_savings
+        balances <- c(balances, total_balance)
+        years <- years + 1
+      }
+      
+      list(years = years, balances = balances)
+    })
+  })
+  
+  output$result <- renderText({
+    result <- calculate_years_to_retirement()
+    years <- result$years
+    total_balance <- result$balances[length(result$balances)]
+    formatted_balance <- scales::dollar(total_balance, prefix = "₹")
+    paste("You can retire in approximately", years, "years with a total balance of", formatted_balance)
+  })
+  
+  output$retirementPlot <- renderPlotly({
+    result <- calculate_years_to_retirement()
+    years <- 0:result$years
+    balances <- result$balances
+    
+    plot_ly(x = ~years, y = ~balances, type = 'scatter', mode = 'lines+markers',
+            line = list(shape = "linear")) %>%
+      layout(title = "Retirement Fund Growth Over Time",
+             xaxis = list(title = "Years"),
+             yaxis = list(title = "Balance (₹)"))
+  })
+}
+
+shinyApp(ui = ui, server = server)
+```
