@@ -23,7 +23,7 @@ toc: true
 
 ## Eichenholz Classification of Charcot Foot
 
-::: callout
+
 +---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
 | [Stage]{style="font-weight: bold; color:#000090"} | [Name]{style="font-weight: bold; color:#000090"} | [Features]{style="font-weight: bold; color:#000090"} |
 +---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
@@ -49,7 +49,7 @@ toc: true
 |                                                   |                                                  |                                                      |
 |                                                   |                                                  | Malunited, Ankylosed joints                          |
 +---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
-:::
+
 
 ## Osteochondral Defects of Talus
 
@@ -293,19 +293,19 @@ MRI classification by Bristol Group
 +--------------+--------------+--------------------------------------------+
 | Type         | Subtype      | Description                                |
 +--------------+--------------+--------------------------------------------+
-| Tip          | 1            | \<2mm cor onoid h eight                    |
+| Tip          | 1            | \<2mm coronoid height                    |
 |              |              |                                            |
-|              | 2            | \>2mm cor onoid h eight                    |
+|              | 2            | \>2mm coronoid height                    |
 +--------------+--------------+--------------------------------------------+
 | Anteromedial | 1            | Rim                                        |
 |              |              |                                            |
 |              | 2            | Rim and Tip                                |
 |              |              |                                            |
-|              | 3            | Invo lving su blime tub ercle              |
+|              | 3            | Involving sublime tubercle              |
 +--------------+--------------+--------------------------------------------+
-| Basal        | 1            | Cor onoid body and base                    |
+| Basal        | 1            | Coronoid body and base                    |
 |              |              |                                            |
-|              | 2            | Tran solec ranon basal cor onoid fra cture |
+|              | 2            | Transolecranon basal coronoid fracture |
 +--------------+--------------+--------------------------------------------+
 :::
 
