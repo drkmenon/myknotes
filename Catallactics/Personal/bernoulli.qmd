@@ -42,7 +42,7 @@ M~e~ is the Moral Expectation.
 
 -   ( x ) is the fortune in hand.
 -   ( a ) and ( b ) are the gain or loss.
--   ( p_1 ) and ( p_2 ) are the probabilities.
+-   ( p~1~ ) and ( p~2~ ) are the probabilities.
 
 In other words, **§3** is the geometric mean of all possible returns.
 
