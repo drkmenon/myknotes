@@ -2842,7 +2842,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   217928    296947    344091    577477    440903 129495206 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62452   64082   64519   64518   64945   66978 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.034e+06 3.342e+06 5.663e+06 2.830e+07 1.233e+07 1.289e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.060e+05 2.968e+05 3.436e+05 8.673e+05 4.342e+05 3.030e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61959   64070   64503   64512   64945   66936 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n8.985e+05 3.326e+06 5.632e+06 5.730e+07 1.153e+07 3.029e+11",
     "crumbs": [
       "Home",
       "Blog",
