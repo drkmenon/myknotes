@@ -807,8 +807,12 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#calculate-implied-volatility" id="toc-calculate-implied-volatility" class="nav-link active" data-scroll-target="#calculate-implied-volatility">Calculate implied volatility</a></li>
-  <li><a href="#pricing" id="toc-pricing" class="nav-link" data-scroll-target="#pricing">Pricing</a></li>
+  <li><a href="#calculate-implied-volatility" id="toc-calculate-implied-volatility" class="nav-link active" data-scroll-target="#calculate-implied-volatility">Calculate implied volatility</a>
+  <ul class="collapse">
+  <li><a href="#get-closing-price" id="toc-get-closing-price" class="nav-link" data-scroll-target="#get-closing-price">Get closing price</a></li>
+  <li><a href="#implied-volatility-calculation" id="toc-implied-volatility-calculation" class="nav-link" data-scroll-target="#implied-volatility-calculation">Implied Volatility calculation</a></li>
+  </ul></li>
+  <li><a href="#option-pricing-calculation" id="toc-option-pricing-calculation" class="nav-link" data-scroll-target="#option-pricing-calculation">Option pricing calculation</a></li>
   </ul>
 </nav>
     </div>
@@ -836,6 +840,7 @@ cookieconsent.run({
 
 <section id="calculate-implied-volatility" class="level2">
 <h2 class="anchored" data-anchor-id="calculate-implied-volatility">Calculate implied volatility</h2>
+<p>First we have to extract nifty data using <code>tidyquant</code> or <code>Rquantlib</code>.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -846,34 +851,53 @@ cookieconsent.run({
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Load necessary packages</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(quantmod)</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(RQuantLib)</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyquant)</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co"># Fetch the Nifty 50 index data</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>nifty_data <span class="ot">&lt;-</span> <span class="fu">tq_get</span>(<span class="st">"^NSEI"</span>, <span class="at">from =</span> <span class="st">"1980-01-1"</span>, <span class="at">to =</span> <span class="st">"2024-05-30"</span>)</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co"># Convert the data to a data.table</span></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>nifty_data <span class="ot">&lt;-</span> <span class="fu">data.table</span>(nifty_data)</span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="co"># Extract the last closing price directly from nifty_data</span></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="co"># Get the latest closing price</span></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>closing_price <span class="ot">&lt;-</span> <span class="fu">tail</span>(nifty_data<span class="sc">$</span>close, <span class="dv">1</span>)</span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="co"># Define option parameters for a single observation</span></span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>nifty_price<span class="ot">&lt;-</span><span class="dv">22530</span></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>option_price <span class="ot">&lt;-</span> <span class="dv">127</span>   <span class="co"># Current market price of the option</span></span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>strike_price <span class="ot">&lt;-</span> <span class="dv">20000</span>  <span class="co"># Strike price of the option</span></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">120</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>volatility_guess <span class="ot">&lt;-</span> <span class="fl">0.2</span>  <span class="co"># Initial guess for the volatility</span></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate implied volatility for a put option</span></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>vol<span class="ot">&lt;-</span> <span class="fu">EuropeanOptionImpliedVolatility</span>(<span class="at">type =</span> <span class="st">"put"</span>,<span class="at">value =</span>option_price ,<span class="at">underlying =</span> nifty_price,<span class="at">strike =</span> strike_price,<span class="at">dividendYield =</span> <span class="dv">0</span>,<span class="at">riskFreeRate =</span> risk_free_rate,<span class="at">maturity =</span> time_to_expiry,<span class="at">volatility =</span> .<span class="dv">2</span>)</span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>vol</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyquant)</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Fetch the Nifty 50 index data</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>nifty_data <span class="ot">&lt;-</span> <span class="fu">tq_get</span>(<span class="st">"^NSEI"</span>, <span class="at">from =</span> <span class="st">"1980-01-01"</span>, <span class="at">to =</span> <span class="fu">Sys.Date</span>())</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co"># Convert the data to a data.table</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>nifty_data <span class="ot">&lt;-</span> <span class="fu">data.table</span>(nifty_data)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+</div>
+<section id="get-closing-price" class="level3">
+<h3 class="anchored" data-anchor-id="get-closing-price">Get closing price</h3>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Extract the last closing price directly from nifty_data</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>closing_price <span class="ot">&lt;-</span> <span class="fu">tail</span>(nifty_data<span class="sc">$</span>close, <span class="dv">1</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>closing_price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 22530.7</code></pre>
+</div>
+</div>
+</section>
+<section id="implied-volatility-calculation" class="level3">
+<h3 class="anchored" data-anchor-id="implied-volatility-calculation">Implied Volatility calculation</h3>
+<p>Plugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(quantmod)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(RQuantLib)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Define option parameters for a single observation</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>nifty_price<span class="ot">&lt;-</span><span class="dv">22530</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>option_price <span class="ot">&lt;-</span> <span class="dv">127</span>  <span class="co"># Current market price of the option</span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>strike_price <span class="ot">&lt;-</span> <span class="dv">20000</span>  <span class="co"># Strike price of the option</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">120</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>volatility_guess <span class="ot">&lt;-</span> <span class="fl">0.2</span>  <span class="co"># Initial guess for the volatility</span></span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate implied volatility for a put option</span></span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>vol<span class="ot">&lt;-</span> <span class="fu">EuropeanOptionImpliedVolatility</span>(<span class="at">type =</span> <span class="st">"put"</span>,<span class="at">value =</span>option_price ,<span class="at">underlying =</span> nifty_price,<span class="at">strike =</span> strike_price,<span class="at">dividendYield =</span> <span class="dv">0</span>,<span class="at">riskFreeRate =</span> risk_free_rate,<span class="at">maturity =</span> time_to_expiry,<span class="at">volatility =</span> .<span class="dv">2</span>)</span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>vol</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] 0.2017762
@@ -881,43 +905,51 @@ attr(,"class")
 [1] "EuropeanOptionImpliedVolatility" "ImpliedVolatility"              </code></pre>
 </div>
 </div>
-<p>At present the <strong>implied volatility is 0.2017762</strong></p>
+<p>At present the <strong>implied volatility is 20</strong></p>
 </section>
-<section id="pricing" class="level2">
-<h2 class="anchored" data-anchor-id="pricing">Pricing</h2>
+</section>
+<section id="option-pricing-calculation" class="level2">
+<h2 class="anchored" data-anchor-id="option-pricing-calculation">Option pricing calculation</h2>
+<p>Aim for a strike <strong>~10 delta.</strong></p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>closing_price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>closing_price<span class="ot">&lt;-</span>closing_price</span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>strike <span class="ot">&lt;-</span> closing_price <span class="sc">*</span> <span class="fl">0.9</span>  <span class="co"># Strike price of the option</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">120</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>price<span class="ot">&lt;-</span><span class="fu">EuropeanOption</span>(<span class="at">type =</span> <span class="st">"put"</span>,<span class="at">underlying =</span> closing_price,<span class="at">strike =</span> strike,<span class="at">dividendYield =</span> <span class="dv">0</span>,<span class="at">riskFreeRate =</span> risk_free_rate,<span class="at">maturity =</span> time_to_expiry,<span class="at">volatility =</span> vol)</span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Closing price of nifty:</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 22704.7</code></pre>
+<pre><code>Closing price of nifty:</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>strike <span class="ot">&lt;-</span> closing_price <span class="sc">*</span> <span class="fl">0.9</span>  <span class="co"># Strike price of the option</span></span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">120</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>price<span class="ot">&lt;-</span><span class="fu">EuropeanOption</span>(<span class="at">type =</span> <span class="st">"put"</span>,<span class="at">underlying =</span> closing_price,<span class="at">strike =</span> strike,<span class="at">dividendYield =</span> <span class="dv">0</span>,<span class="at">riskFreeRate =</span> risk_free_rate,<span class="at">maturity =</span> time_to_expiry,<span class="at">volatility =</span> vol)</span>
-<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a>price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(closing_price)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>Concise summary of valuation for EuropeanOption 
-    value     delta     gamma      vega     theta       rho    divRho 
- 164.1308   -0.1207    0.0001 2611.6789 -597.5593 -952.4033  898.6049 </code></pre>
+<pre><code>[1] 22530.7</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>strike</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Strike price:</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 20434.23</code></pre>
+<pre><code>Strike price:</code></pre>
+</div>
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>strike</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 20277.63</code></pre>
 </div>
 </div>
-<p>Price of a <strong>4 month 12 delta option</strong> is 127</p>
+<p>Price of a <strong>4 month 12 delta option</strong> is 163 for the given strike price</p>
 
 
 </section>
