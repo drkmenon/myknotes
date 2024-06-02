@@ -69,7 +69,7 @@ Aim for a strike **\~10 delta.**
 ```{r}
 
 closing_price<-closing_price
-strike <- closing_price * 0.9  # Strike price of the option
+strike <- closing_price * 0.85  # Strike price of the option
 time_to_expiry <- 120/365  # Time to expiration in years
 risk_free_rate <- 0.071   # Risk-free interest rate
 
