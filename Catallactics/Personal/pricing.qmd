@@ -1,5 +1,6 @@
 ---
 title: "Hedge pricing"
+date: today
 code-fold: true
 ---
 
