@@ -8,16 +8,23 @@ title: "Seeking Levy parameters"
 # Load the required libraries
 library(data.table)
 library(tidyquant)
+library(quantmod)
+
+
 
 # Fetch the Nifty 50 index data
-nifty_data <- tq_get("^NSEI", from = "1980-01-01", to = "2023-04-30")
+nifty_data <- tq_get("^NSEI", from = "1980-01-1", to = "2024-05-30")
 
 # Convert the data to a data.table
-dt <- data.table(nifty_data)
+nifty_data <- data.table(nifty_data)
+
+# Extract the last closing price directly from nifty_data
+# Get the latest closing price
+latest_close <- tail(nifty_data$close, 1)
 
 
 # Select the relevant columns and calculate returns
-dt <- dt[, .(date, adjusted, returns = adjusted / shift(adjusted, 1) - 1)]
+dt <- nifty_data[, .(date, adjusted, returns = adjusted / shift(adjusted, 1) - 1)]
 
 
 # Calculate mean return and annualized standard deviation
@@ -26,6 +33,11 @@ result <- dt[, .(
   annualized_sd = sqrt(252) * sd(returns, na.rm = TRUE) * 100
 )]
 show(result)
+
+latest_close
+
+
+
 ```
 
 ## Find 𝛼,𝛽,𝛾,𝛿

@@ -1,0 +1,64 @@
+---
+title: "Hedge pricing"
+code-fold: true
+---
+
+## Calculate implied volatility
+
+```{r message=FALSE}
+
+# Install necessary packages if not already installed
+
+# install.packages("quantmod")
+# install.packages("RQuantLib")
+
+
+# Load necessary packages
+library(quantmod)
+library(RQuantLib)
+library(data.table)
+library(tidyquant)
+
+# Fetch the Nifty 50 index data
+nifty_data <- tq_get("^NSEI", from = "1980-01-1", to = "2024-05-30")
+
+# Convert the data to a data.table
+nifty_data <- data.table(nifty_data)
+
+# Extract the last closing price directly from nifty_data
+# Get the latest closing price
+closing_price <- tail(nifty_data$close, 1)
+
+# Define option parameters for a single observation
+nifty_price<-22530
+option_price <- 127   # Current market price of the option
+strike_price <- 20000  # Strike price of the option
+time_to_expiry <- 120/365  # Time to expiration in years
+risk_free_rate <- 0.071   # Risk-free interest rate
+volatility_guess <- 0.2  # Initial guess for the volatility
+
+# Calculate implied volatility for a put option
+
+vol<- EuropeanOptionImpliedVolatility(type = "put",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)
+
+vol
+```
+
+At present the **implied volatility is `r vol`**
+
+## Pricing
+
+```{r}
+closing_price
+strike <- closing_price * 0.9  # Strike price of the option
+time_to_expiry <- 120/365  # Time to expiration in years
+risk_free_rate <- 0.071   # Risk-free interest rate
+
+
+price<-EuropeanOption(type = "put",underlying = closing_price,strike = strike,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = vol)
+
+price
+strike
+```
+
+Price of a **4 month 12 delta option** is 127
