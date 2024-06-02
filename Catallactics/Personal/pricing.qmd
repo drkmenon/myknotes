@@ -88,6 +88,8 @@ strike
 
 Price of a **4 month 12 delta option** is `r round(price$value)` for the given strike price
 
+## Take home message
+
 ::: callout-note
 
 ### Summary
