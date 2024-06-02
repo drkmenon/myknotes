@@ -889,7 +889,7 @@ attr(,"class")
 </section>
 <section id="option-pricing-calculation" class="level2">
 <h2 class="anchored" data-anchor-id="option-pricing-calculation">Option pricing calculation</h2>
-<p>Aim for a strike <strong>~10 delta.</strong></p>
+<p>Aim for a strike <strong>less than 10 delta.</strong></p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -927,8 +927,17 @@ attr(,"class")
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] 19151.09</code></pre>
 </div>
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>Concise summary of valuation for EuropeanOption 
+    value     delta     gamma      vega     theta       rho    divRho 
+  53.9913   -0.0479    0.0000 1284.4907 -314.9786 -371.0821  353.3849 </code></pre>
 </div>
-<p>Price of a <strong>4 month 12 delta option</strong> is 54 for the given strike price</p>
+</div>
+<p>Price of a <strong>4 month 5 delta option</strong> is 54 for the given strike price</p>
 </section>
 <section id="take-home-message" class="level2">
 <h2 class="anchored" data-anchor-id="take-home-message">Take home message</h2>
@@ -948,14 +957,14 @@ Summary
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>closing<span class="ot">&lt;-</span><span class="dv">22530</span></span>
-<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>strikerate <span class="ot">&lt;-</span> <span class="dv">18000</span>  <span class="co"># Strike price of the option</span></span>
-<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>time<span class="ot">&lt;-</span> <span class="dv">210</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
-<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
-<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>vol<span class="ot">&lt;-</span>vol <span class="co"># implied volatility</span></span>
-<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a>price<span class="ot">&lt;-</span><span class="fu">EuropeanOption</span>(<span class="at">type =</span> <span class="st">"put"</span>,<span class="at">underlying =</span> closing,<span class="at">strike =</span> strikerate,<span class="at">dividendYield =</span> <span class="dv">0</span>,<span class="at">riskFreeRate =</span> risk_free_rate,<span class="at">maturity =</span> time,<span class="at">volatility =</span> vol)</span>
-<span id="cb14-8"><a href="#cb14-8" aria-hidden="true" tabindex="-1"></a>price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>closing<span class="ot">&lt;-</span><span class="dv">22530</span></span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>strikerate <span class="ot">&lt;-</span> <span class="dv">18000</span>  <span class="co"># Strike price of the option</span></span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>time<span class="ot">&lt;-</span> <span class="dv">210</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a>vol<span class="ot">&lt;-</span>vol <span class="co"># implied volatility</span></span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true" tabindex="-1"></a>price<span class="ot">&lt;-</span><span class="fu">EuropeanOption</span>(<span class="at">type =</span> <span class="st">"put"</span>,<span class="at">underlying =</span> closing,<span class="at">strike =</span> strikerate,<span class="at">dividendYield =</span> <span class="dv">0</span>,<span class="at">riskFreeRate =</span> risk_free_rate,<span class="at">maturity =</span> time,<span class="at">volatility =</span> vol)</span>
+<span id="cb16-8"><a href="#cb16-8" aria-hidden="true" tabindex="-1"></a>price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 

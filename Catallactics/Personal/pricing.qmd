@@ -64,7 +64,7 @@ At present the **implied volatility is `r round(vol*100)`**
 
 ## Option pricing calculation
 
-Aim for a strike **\~10 delta.**
+Aim for a strike **less than 10 delta.**
 
 ```{r}
 
@@ -83,10 +83,11 @@ print(closing_price)
 cat("Strike price:\n")
 
 strike
+price
 
 ```
 
-Price of a **4 month 12 delta option** is `r round(price$value)` for the given strike price
+Price of a **4 month 5 delta option** is `r round(price$value)` for the given strike price
 
 ## Take home message
 
