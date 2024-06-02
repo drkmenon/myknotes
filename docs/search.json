@@ -5352,5 +5352,19 @@
       "Personal",
       "Hedge pricing"
     ]
+  },
+  {
+    "objectID": "Catallactics/Personal/pricing.html#monitising-the-hedge",
+    "href": "Catallactics/Personal/pricing.html#monitising-the-hedge",
+    "title": "Hedge pricing",
+    "section": "Monitising the hedge",
+    "text": "Monitising the hedge\n§a passive - at the time of expiry.\n§b Empirical multiples of Initial cost. \n§a is ideal for long time horizon with potential big drawdown happening once or twice. §b out performs §a if no such tail events occur. In such a situation, even no-hedge strategy performs better than one with a hedge. \nFor the hedging to outperform a pure buy and hold strategy with out hedging, it should be mortised at 8- 10 times the initial premium or a catastrophy should happen. In any case, the proceedings should be used to buy further far OTM puts and rest may be invested in the crashing asset.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "Hedge pricing"
+    ]
   }
 ]
