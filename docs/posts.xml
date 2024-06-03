@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.4.553</generator>
-<lastBuildDate>Sat, 01 Jun 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Jun 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -239,7 +239,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   214100    296189    345424    587175    435498 228597172 </code></pre>
+   211676    295605    342813    592498    433705 293671249 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62231   64070   64492   64503   64926   66929 </code></pre>
+  62100   64086   64510   64515   64945   67123 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.999e+05 3.308e+06 5.692e+06 2.929e+07 1.183e+07 2.283e+10 </code></pre>
+9.732e+05 3.335e+06 5.616e+06 2.984e+07 1.155e+07 2.931e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -384,7 +384,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Sat, 01 Jun 2024 18:30:00 GMT</pubDate>
+  <pubDate>Sun, 02 Jun 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>EV battery</title>
