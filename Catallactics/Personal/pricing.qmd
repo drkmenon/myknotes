@@ -64,7 +64,7 @@ At present the **implied volatility is `r round(vol*100)`**
 
 ## Option pricing calculation
 
-Aim for a strike **less than 10 delta.**
+Aim for a strike **less than 10 delta.** Plugin the **implied volatility** and other data.
 
 ```{r}
 
