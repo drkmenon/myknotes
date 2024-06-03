@@ -118,4 +118,4 @@ price
 
 **§a** is ideal for long time horizon with potential big drawdown happening once or twice. **§b** out performs **§a** if no such tail events occur. In such a situation, even no-hedge strategy performs better than one with a hedge. 
 
-For the hedging to outperform a pure buy and hold strategy with out hedging, it should be mortised at 8- 10 times the initial premium or a catastrophy should happen. In any case, the proceedings should be used to buy further far OTM puts and rest may be invested in the crashing asset.
+For the hedging to outperform a pure buy and hold strategy with out hedging, it should be monitised at 8- 10 times the initial premium or a catastrophy should happen. In any case, the proceedings should be used to buy further far OTM puts and rest may be invested in the crashing asset.
