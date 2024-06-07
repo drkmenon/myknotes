@@ -168,6 +168,20 @@
     ]
   },
   {
+    "objectID": "Revision notes/Adult pathology/polio.html#see-with-your-device",
+    "href": "Revision notes/Adult pathology/polio.html#see-with-your-device",
+    "title": "Poliomyelitis",
+    "section": "See with your device",
+    "text": "See with your device",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Adult pathology",
+      "Poliomyelitis"
+    ]
+  },
+  {
     "objectID": "Revision notes/Adult pathology/polio.html#poliomyelitis",
     "href": "Revision notes/Adult pathology/polio.html#poliomyelitis",
     "title": "Poliomyelitis",
@@ -2761,7 +2775,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   199939    297295    345234    591490    440177 216712322 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62160   64084   64514   64518   64950   66759 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.436e+05 3.357e+06 5.777e+06 2.967e+07 1.213e+07 2.164e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   214647    295488    342933    634398    432598 342014337 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62158   64071   64502   64510   64938   67247 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.692e+05 3.316e+06 5.610e+06 3.415e+07 1.174e+07 3.415e+10",
     "crumbs": [
       "Home",
       "Blog",

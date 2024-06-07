@@ -1,6 +1,6 @@
 ---
 title: "Poliomyelitis"
-subtitle: "PPRP"
+subtitle: "Introduction for UG Students"
 author: "By Kishore Puthezhath"
 format:
   revealjs:
@@ -13,6 +13,10 @@ format:
     code-copy: true
 publish: false
 ---
+
+## See with your device
+
+![](images/qr code.png)
 
 ## Poliomyelitis
 
