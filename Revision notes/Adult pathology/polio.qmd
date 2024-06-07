@@ -1,0 +1,149 @@
+---
+title: "Poliomyelitis"
+subtitle: "PPRP"
+author: "By Kishore Puthezhath"
+format:
+  revealjs:
+    logo: images/tie-01.png
+    footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
+    smaller: true
+    scrollable: true
+    chalkboard: true
+    multiplex: true
+    code-copy: true
+publish: false
+---
+
+## Poliomyelitis
+
+Poliomyelitis is an acute infectious viral disease, spread by the oropharyngeal route that passes through several distinct phases.
+
+The word poliomyelitis originates from the Greek word “polio” meaning “gray” and “myelon” meaning “marrow”
+
+-   Identified in 1909
+-   Picornavirus
+-   2 and 3 eradicated
+-   1 endemic in Pakistan and Afganistan
+-   10% develop symptoms
+-   1% develop LMN palsy
+
+## Clinical Phases
+
+-   Acute illness resembling meningitis or paralysis
+-   Slow recovery or convalescence phase
+-   Long period of residual paralysis
+
+## Acute Phase
+
+-   Early symptoms are fever and headache
+-   Prodromal symptoms of a sore throat, mild headache and slight pyrexia.
+-   In severe cases neck stiffness appears and meningitis may be suspected.
+-   The patient lies curled up with the joints flexed
+-   Muscles are painful and tender and passive stretching provokes painful spasms.
+
+## Paralysis
+
+-   Muscle weakness appears
+-   Reaches a peak in the course of 2–3 days and may give rise to difficulty with breathing and swallowing.
+-   Pain and pyrexia subside after 7–10 days
+-   infective for at least 4 weeks from the onset of illness.
+
+## Recovery and convalescence
+
+-   A return of muscle power is most noticeable within the first 6 months
+-   Continuing improvement for up to 2 years.
+
+## Post Polio Residual Paralysis
+
+::: callout-note
+### Definition
+
+Selective affection of Anterior Horn Cells in an unimmunised child causing assymetrical motor paralysis with intact sensation
+:::
+
+-   In some patients the illness does not progress beyond the early stage of meningeal irritation
+-   some who develop muscle weakness do recover completely
+-   Recovery is incomplete in few and they are left with some degree of asymmetric flaccid (LMN) paralysis or unbalanced muscle weakness that in time leads to joint deformities and growth defects.
+-   Sensation is intact
+
+## Post-polio syndrome
+
+-   In most people pattern of muscle weakness became firmly established by 2 years
+-   In up to 50% of cases reactivation of the virus results in progressive muscle weakness in both old and new muscle groups
+-   This give rise to unaccustomed fatigue.
+
+::: callout-note
+### Definition
+
+Weakness that occurs in patients with a confirmed history of poliomyelitis and a period of neurological stability of at least 15 years.
+:::
+
+-   PPS is a diagnosis of exclusion and care must be taken to investigate for other medical diagnoses that might
+
+## Early treatment
+
+-   Isolate and keep at complete rest
+-   Symptomatic treatment for pain and muscle spasm.
+-   Active movement is avoided but gentle passive stretching helps to prevent contractures.
+-   Paralysis of the respiratory muscles and respiratory failure calls for intermittent positive pressure ventilation and sometimes a tracheotomy.
+-   Once the acute illness settles, physiotherapy is stepped up
+
+## Subsequent treatment
+
+-   Active movements are encouraged and every effort is made to regain maximum power.
+-   Between exercise periods, splintage to maintain joint and limb alignment and prevent fixed deformities.
+-   Muscle charting is carried out at regular intervals until no further recovery is detected.
+
+## Late treatment
+
+PPRP produce
+
+-   Deformity
+
+    -   Gravity
+    -   Muscle imbalance
+    -   Bad posture
+
+-   Weakness
+
+-   Limb length discrepancy
+
+-   Instability
+
+## Aim of treatment
+
+-   Correct deformity
+-   Restore muscle balance
+-   Restore stability
+-   Equalise limbs
+
+## Deformity
+
+::: panel-tabset
+### Hip FABER deformity
+
+-   Release TFL, Sartorious and deep fascia
+
+### Knee FER deformity
+
+-   Yount's procedure: Transection and excision of part of ITB/Hamstring transfer
+
+### Foot
+
+-   Cavus: Skindler procedure (release TPost)
+-   Equinous: Z plasty elongation of Achillis tendon
+-   Equino cavus: JESS
+:::
+
+## Muscle imbalance
+
+-   Gluteal Paralysis (dislocation due to strong iliopsoas)
+    -   Muscul-aponeurotic transfer of external oblique muscle
+    -   Psoas transfer
+-   Knee (Quadriceps weakness)
+    -   Hamstring transfer
+    -   Supracondylar extension osteotomy
+        -   Brings weight bearing axis anterior to knee
+-   Foot and ankle
+    -   EDL/TibAnt transfer
+    -   Tripple arthrodesis

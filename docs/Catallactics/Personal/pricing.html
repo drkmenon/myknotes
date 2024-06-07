@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-06-03">
+<meta name="dcterms.date" content="2024-06-07">
 
 <title>knotes - Hedge pricing</title>
 <style>
@@ -258,6 +258,12 @@ cookieconsent.run({
   <div class="sidebar-item-container"> 
   <a href="../../Revision notes/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteosarcopenia</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../Revision notes/Adult pathology/polio.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Poliomyelitis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -835,7 +841,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 3, 2024</p>
+      <p class="date">June 7, 2024</p>
     </div>
   </div>
   
@@ -881,7 +887,7 @@ cookieconsent.run({
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>closing_price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 22530.7</code></pre>
+<pre><code>[1] 22821.4</code></pre>
 </div>
 </div>
 </section>
@@ -895,10 +901,10 @@ cookieconsent.run({
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(RQuantLib)</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Define option parameters for a single observation</span></span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>nifty_price<span class="ot">&lt;-</span><span class="dv">22530</span></span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>option_price <span class="ot">&lt;-</span> <span class="dv">127</span>  <span class="co"># Current market price of the option</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>nifty_price<span class="ot">&lt;-</span><span class="fl">21884.5</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>option_price <span class="ot">&lt;-</span> <span class="dv">238</span>  <span class="co"># Current market price of the option</span></span>
 <span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>strike_price <span class="ot">&lt;-</span> <span class="dv">20000</span>  <span class="co"># Strike price of the option</span></span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">120</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">210</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
 <span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
 <span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>volatility_guess <span class="ot">&lt;-</span> <span class="fl">0.2</span>  <span class="co"># Initial guess for the volatility</span></span>
 <span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a></span>
@@ -909,12 +915,12 @@ cookieconsent.run({
 <span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>vol</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 0.2017762
+<pre><code>[1] 0.1764878
 attr(,"class")
 [1] "EuropeanOptionImpliedVolatility" "ImpliedVolatility"              </code></pre>
 </div>
 </div>
-<p>At present the <strong>implied volatility is 20</strong></p>
+<p>At present the <strong>implied volatility is 18</strong></p>
 </section>
 </section>
 <section id="option-pricing-calculation" class="level2">
@@ -941,7 +947,7 @@ attr(,"class")
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(closing_price)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 22530.7</code></pre>
+<pre><code>[1] 22821.4</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -955,7 +961,7 @@ attr(,"class")
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>strike</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 19151.09</code></pre>
+<pre><code>[1] 19398.19</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -964,10 +970,10 @@ attr(,"class")
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 
     value     delta     gamma      vega     theta       rho    divRho 
-  53.9913   -0.0479    0.0000 1284.4907 -314.9786 -371.0821  353.3849 </code></pre>
+  27.1682   -0.0294    0.0000  874.9351 -185.9366 -229.0394  220.1343 </code></pre>
 </div>
 </div>
-<p>Price of a <strong>4 month 5 delta option</strong> is 54 for the given strike price</p>
+<p>Price of a <strong>4 month 5 delta option</strong> is 27 for the given strike price</p>
 </section>
 <section id="take-home-message" class="level2">
 <h2 class="anchored" data-anchor-id="take-home-message">Take home message</h2>
@@ -987,8 +993,8 @@ Summary
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>closing<span class="ot">&lt;-</span><span class="dv">22530</span></span>
-<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>strikerate <span class="ot">&lt;-</span> <span class="dv">18000</span>  <span class="co"># Strike price of the option</span></span>
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>closing<span class="ot">&lt;-</span><span class="fl">21884.9</span></span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>strikerate <span class="ot">&lt;-</span> <span class="dv">20000</span>  <span class="co"># Strike price of the option</span></span>
 <span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>time<span class="ot">&lt;-</span> <span class="dv">210</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
 <span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
 <span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a>vol<span class="ot">&lt;-</span>vol <span class="co"># implied volatility</span></span>
@@ -998,8 +1004,15 @@ Summary
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 
-    value     delta     gamma      vega     theta       rho    divRho 
-  50.6913   -0.0351    0.0000 1323.6046 -172.4690 -484.0316  454.8841 </code></pre>
+     value      delta      gamma       vega      theta        rho     divRho 
+  237.9412    -0.1480     0.0001  3835.1214  -341.6725 -1999.4989  1862.6827 </code></pre>
+</div>
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>strikerate</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 20000</code></pre>
 </div>
 </div>
 </section>
