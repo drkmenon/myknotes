@@ -92,11 +92,9 @@ Price of a **4 month 5 delta option** is `r round(price$value)` for the given st
 ## Take home message
 
 ::: callout-note
-
 ### Summary
 
 Before buying hedge, plugin the market price, strike price, time to maturity, implied volatility and risk free rate to the BS formula and find out the fair value. Then only buy the hedge.
-
 :::
 
 ```{r}
@@ -111,7 +109,7 @@ price
 strikerate
 ```
 
-## **Monitising the hedge** 
+## **Monitising the hedge**
 
 **§a** passive - at the time of expiry.
 

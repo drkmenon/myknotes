@@ -11,12 +11,14 @@ format:
     chalkboard: true
     multiplex: true
     code-copy: true
-publish: false
+publish: true
+nosite:
+  -@apley2018 
 ---
 
 ## See with your device
 
-![](images/qr code.png)
+![](images/qr%20code.png)
 
 ## Poliomyelitis
 
@@ -142,7 +144,7 @@ PPRP produce
 ## Muscle imbalance
 
 -   Gluteal Paralysis (dislocation due to strong iliopsoas)
-    -   Muscul-aponeurotic transfer of external oblique muscle
+    -   Musculo-aponeurotic transfer of external oblique muscle
     -   Psoas transfer
 -   Knee (Quadriceps weakness)
     -   Hamstring transfer
@@ -151,3 +153,8 @@ PPRP produce
 -   Foot and ankle
     -   EDL/TibAnt transfer
     -   Tripple arthrodesis
+-   Restore stability and length
+
+@apley2018
+
+## 
