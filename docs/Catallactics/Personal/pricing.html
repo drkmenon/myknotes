@@ -821,7 +821,7 @@ cookieconsent.run({
   </ul></li>
   <li><a href="#option-pricing-calculation" id="toc-option-pricing-calculation" class="nav-link" data-scroll-target="#option-pricing-calculation">Option pricing calculation</a></li>
   <li><a href="#take-home-message" id="toc-take-home-message" class="nav-link" data-scroll-target="#take-home-message">Take home message</a></li>
-  <li><a href="#monitising-the-hedge" id="toc-monitising-the-hedge" class="nav-link" data-scroll-target="#monitising-the-hedge"><strong>Monitising the hedge</strong></a></li>
+  <li><a href="#monetising-the-hedge" id="toc-monetising-the-hedge" class="nav-link" data-scroll-target="#monetising-the-hedge"><strong>Monetising the hedge</strong></a></li>
   </ul>
 </nav>
     </div>
@@ -901,10 +901,10 @@ cookieconsent.run({
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(RQuantLib)</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Define option parameters for a single observation</span></span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>nifty_price<span class="ot">&lt;-</span><span class="fl">21884.5</span></span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>option_price <span class="ot">&lt;-</span> <span class="dv">238</span>  <span class="co"># Current market price of the option</span></span>
-<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>strike_price <span class="ot">&lt;-</span> <span class="dv">20000</span>  <span class="co"># Strike price of the option</span></span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">210</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>nifty_price<span class="ot">&lt;-</span><span class="fl">23290.5</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>option_price <span class="ot">&lt;-</span> <span class="dv">105</span>  <span class="co"># Current market price of the option</span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>strike_price <span class="ot">&lt;-</span> <span class="dv">22500</span>  <span class="co"># Strike price of the option</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>time_to_expiry <span class="ot">&lt;-</span> <span class="dv">19</span><span class="sc">/</span><span class="dv">365</span>  <span class="co"># Time to expiration in years</span></span>
 <span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>risk_free_rate <span class="ot">&lt;-</span> <span class="fl">0.071</span>   <span class="co"># Risk-free interest rate</span></span>
 <span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>volatility_guess <span class="ot">&lt;-</span> <span class="fl">0.2</span>  <span class="co"># Initial guess for the volatility</span></span>
 <span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a></span>
@@ -915,12 +915,12 @@ cookieconsent.run({
 <span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>vol</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 0.1764878
+<pre><code>[1] 0.1903814
 attr(,"class")
 [1] "EuropeanOptionImpliedVolatility" "ImpliedVolatility"              </code></pre>
 </div>
 </div>
-<p>At present the <strong>implied volatility is 18</strong></p>
+<p>At present the <strong>implied volatility is 19</strong></p>
 </section>
 </section>
 <section id="option-pricing-calculation" class="level2">
@@ -970,10 +970,10 @@ attr(,"class")
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 
     value     delta     gamma      vega     theta       rho    divRho 
-  27.7263   -0.0294    0.0000  892.9062 -189.7557 -233.7439  224.6558 </code></pre>
+  41.7922   -0.0393    0.0000 1132.2981 -260.9055 -313.5946  299.8960 </code></pre>
 </div>
 </div>
-<p>Price of a <strong>4 month 5 delta option</strong> is 28 for the given strike price</p>
+<p>Price of a <strong>4 month 5 delta option</strong> is 42 for the given strike price</p>
 </section>
 <section id="take-home-message" class="level2">
 <h2 class="anchored" data-anchor-id="take-home-message">Take home message</h2>
@@ -1005,7 +1005,7 @@ Summary
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 
      value      delta      gamma       vega      theta        rho     divRho 
-  237.9412    -0.1480     0.0001  3835.1214  -341.6725 -1999.4989  1862.6827 </code></pre>
+  293.1177    -0.1638     0.0001  4100.4435  -403.4529 -2230.1221  2061.5794 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1016,8 +1016,8 @@ Summary
 </div>
 </div>
 </section>
-<section id="monitising-the-hedge" class="level2">
-<h2 class="anchored" data-anchor-id="monitising-the-hedge"><strong>Monitising the hedge</strong></h2>
+<section id="monetising-the-hedge" class="level2">
+<h2 class="anchored" data-anchor-id="monetising-the-hedge"><strong>Monetising the hedge</strong></h2>
 <p><strong>§a</strong> passive - at the time of expiry.</p>
 <p><strong>§b</strong> Empirical multiples of Initial cost.&nbsp;</p>
 <p><strong>§a</strong> is ideal for long time horizon with potential big drawdown happening once or twice. <strong>§b</strong> out performs <strong>§a</strong> if no such tail events occur. In such a situation, even no-hedge strategy performs better than one with a hedge.&nbsp;</p>

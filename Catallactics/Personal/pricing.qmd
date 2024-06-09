@@ -46,10 +46,10 @@ library(quantmod)
 library(RQuantLib)
 
 # Define option parameters for a single observation
-nifty_price<-21884.5
-option_price <- 238  # Current market price of the option
-strike_price <- 20000  # Strike price of the option
-time_to_expiry <- 210/365  # Time to expiration in years
+nifty_price<-23290.5
+option_price <- 105  # Current market price of the option
+strike_price <- 22500  # Strike price of the option
+time_to_expiry <- 19/365  # Time to expiration in years
 risk_free_rate <- 0.071   # Risk-free interest rate
 volatility_guess <- 0.2  # Initial guess for the volatility
 
@@ -109,7 +109,7 @@ price
 strikerate
 ```
 
-## **Monitising the hedge**
+## **Monetising the hedge**
 
 **§a** passive - at the time of expiry.
 
