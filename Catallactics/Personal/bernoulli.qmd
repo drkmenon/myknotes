@@ -1,5 +1,7 @@
 ---
 title: Moral expectation
+comments: 
+  hypothesis: true
 ---
 
 ![The title page of Bernoulli's seminal contribution, published in St. Peters-burg in 1738, to the theory of risk.](images/clipboard-2446642265.png)
