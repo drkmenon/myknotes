@@ -12,6 +12,7 @@ title: "Poliomyelitis"
     #multiplex: true
     #code-copy: true
 publish: true
+
 nosite:
   -@apley2018 
 ---
@@ -144,11 +145,12 @@ PPRP produce
     -   Hamstring transfer
     -   Supracondylar extension osteotomy
         -   Brings weight bearing axis anterior to knee
--   Foot and ankle
-    -   EDL/TibAnt transfer
-    -   Tripple arthrodesis
--   Restore stability and length
 
-@apley2018
+Foot and ankle
+
+-   EDL/TibAnt transfer
+-   Tripple arthrodesis
+
+### Restore stability and length
 
 ## 
