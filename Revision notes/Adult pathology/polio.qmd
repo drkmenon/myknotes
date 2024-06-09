@@ -1,28 +1,22 @@
 ---
 title: "Poliomyelitis"
-subtitle: "Introduction for UG Students"
-author: "By Kishore Puthezhath"
-format:
-  revealjs:
-    logo: images/tie-01.png
-    footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
-    smaller: true
-    scrollable: true
-    chalkboard: true
-    multiplex: true
-    code-copy: true
+#subtitle: "Introduction for UG Students"
+#author: "By Kishore Puthezhath"
+#format:
+  # revealjs:
+    # logo: images/tie-01.png
+    #footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
+    #smaller: true
+    #scrollable: true
+    #chalkboard: true
+    #multiplex: true
+    #code-copy: true
 publish: true
 nosite:
   -@apley2018 
 ---
 
-## See with your device
-
-![](images/qr%20code.png)
-
-## Poliomyelitis
-
-Poliomyelitis is an acute infectious viral disease, spread by the oropharyngeal route that passes through several distinct phases.
+[Poliomyelitis is an acute infectious viral disease, spread by the oropharyngeal route that passes through several distinct phases.]{style="color: blue"}
 
 The word poliomyelitis originates from the Greek word “polio” meaning “gray” and “myelon” meaning “marrow”
 

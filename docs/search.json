@@ -168,25 +168,11 @@
     ]
   },
   {
-    "objectID": "Revision notes/Adult pathology/polio.html#see-with-your-device",
-    "href": "Revision notes/Adult pathology/polio.html#see-with-your-device",
+    "objectID": "Revision notes/Adult pathology/polio.html",
+    "href": "Revision notes/Adult pathology/polio.html",
     "title": "Poliomyelitis",
-    "section": "See with your device",
-    "text": "See with your device",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Adult pathology",
-      "Poliomyelitis"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Adult pathology/polio.html#poliomyelitis",
-    "href": "Revision notes/Adult pathology/polio.html#poliomyelitis",
-    "title": "Poliomyelitis",
-    "section": "Poliomyelitis",
-    "text": "Poliomyelitis\nPoliomyelitis is an acute infectious viral disease, spread by the oropharyngeal route that passes through several distinct phases.\nThe word poliomyelitis originates from the Greek word “polio” meaning “gray” and “myelon” meaning “marrow”\n\nIdentified in 1909\nPicornavirus\n2 and 3 eradicated\n1 endemic in Pakistan and Afganistan\n10% develop symptoms\n1% develop LMN palsy",
+    "section": "",
+    "text": "Poliomyelitis is an acute infectious viral disease, spread by the oropharyngeal route that passes through several distinct phases.\nThe word poliomyelitis originates from the Greek word “polio” meaning “gray” and “myelon” meaning “marrow”",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -256,7 +242,7 @@
     "href": "Revision notes/Adult pathology/polio.html#post-polio-residual-paralysis",
     "title": "Poliomyelitis",
     "section": "Post Polio Residual Paralysis",
-    "text": "Post Polio Residual Paralysis\n\n\n\n\n\n\nDefinition\n\n\nSelective affection of Anterior Horn Cells in an unimmunised child causing assymetrical motor paralysis with intact sensation\n\n\n\n\nIn some patients the illness does not progress beyond the early stage of meningeal irritation\nsome who develop muscle weakness do recover completely\nRecovery is incomplete in few and they are left with some degree of asymmetric flaccid (LMN) paralysis or unbalanced muscle weakness that in time leads to joint deformities and growth defects.\nSensation is intact",
+    "text": "Post Polio Residual Paralysis\n\n\n\n\n\n\nDefinition\n\n\n\nSelective affection of Anterior Horn Cells in an unimmunised child causing assymetrical motor paralysis with intact sensation\n\n\n\nIn some patients the illness does not progress beyond the early stage of meningeal irritation\nsome who develop muscle weakness do recover completely\nRecovery is incomplete in few and they are left with some degree of asymmetric flaccid (LMN) paralysis or unbalanced muscle weakness that in time leads to joint deformities and growth defects.\nSensation is intact",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -270,7 +256,7 @@
     "href": "Revision notes/Adult pathology/polio.html#post-polio-syndrome",
     "title": "Poliomyelitis",
     "section": "Post-polio syndrome",
-    "text": "Post-polio syndrome\n\nIn most people pattern of muscle weakness became firmly established by 2 years\nIn up to 50% of cases reactivation of the virus results in progressive muscle weakness in both old and new muscle groups\nThis give rise to unaccustomed fatigue.\n\n\n\n\n\n\n\nDefinition\n\n\nWeakness that occurs in patients with a confirmed history of poliomyelitis and a period of neurological stability of at least 15 years.\n\n\n\n\nPPS is a diagnosis of exclusion and care must be taken to investigate for other medical diagnoses that might",
+    "text": "Post-polio syndrome\n\nIn most people pattern of muscle weakness became firmly established by 2 years\nIn up to 50% of cases reactivation of the virus results in progressive muscle weakness in both old and new muscle groups\nThis give rise to unaccustomed fatigue.\n\n\n\n\n\n\n\nDefinition\n\n\n\nWeakness that occurs in patients with a confirmed history of poliomyelitis and a period of neurological stability of at least 15 years.\n\n\n\nPPS is a diagnosis of exclusion and care must be taken to investigate for other medical diagnoses that might",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -355,20 +341,6 @@
     "title": "Poliomyelitis",
     "section": "Muscle imbalance",
     "text": "Muscle imbalance\n\nGluteal Paralysis (dislocation due to strong iliopsoas)\n\nMusculo-aponeurotic transfer of external oblique muscle\nPsoas transfer\n\nKnee (Quadriceps weakness)\n\nHamstring transfer\nSupracondylar extension osteotomy\n\nBrings weight bearing axis anterior to knee\n\n\nFoot and ankle\n\nEDL/TibAnt transfer\nTripple arthrodesis\n\nRestore stability and length\n\nBlom et al. (2018)",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Adult pathology",
-      "Poliomyelitis"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Adult pathology/polio.html#section",
-    "href": "Revision notes/Adult pathology/polio.html#section",
-    "title": "Poliomyelitis",
-    "section": "",
-    "text": "Kishore Puthezhath FRCS (Tr & Orth)(Eng)\n\n\n\n\nBlom, Ashley, David Warwick, Michael Whitehouse, and Louis Solomon, eds. 2018. Apley & Solomon’s System of Orthopaedics and Trauma. Tenth edition. Boca Raton, FL: CRC Press.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -2789,7 +2761,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   211267    296212    344498    656777    440007 204368606 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62279   64076   64487   64507   64937   66798 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.019e+06 3.329e+06 5.752e+06 3.609e+07 1.211e+07 2.023e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. \n  213024   296078   345097   521034   439526 56635934 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61893   64088   64514   64510   64939   67075 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.020e+06 3.371e+06 5.688e+06 2.265e+07 1.194e+07 5.631e+09",
     "crumbs": [
       "Home",
       "Blog",
