@@ -1,0 +1,319 @@
+---
+title: "Data wrangling"
+code-fold: true
+---
+
+Data wrangling is the process of making data ready for modelling.
+
+```{mermaid}
+flowchart LR
+    Record --> Data --> Tidy\ndata --> Data\nanalysis
+    
+```
+
+## Core Concepts 
+
+1.  Always look directly into data
+
+2.  Think how it should look like
+
+3.  Think how to rearrange Information to achieve what we want 
+
+4.  Make sure that its' doing what we want at every step. 
+
+`r` is an excellent lower level language for data wrangling. The newer `data.table` make it even more faster and intuitive. `data. table` is a package in `r` which is faster than tidyverse. It is mainly used for data manipulation . As it retains native `data. frame`, all functions written for base r and tidyverse work with data. table. 
+
+eg: `% > %` is called pipe function. It essentially means 'take whatever on the left side and make it the first argument for anything on the right Side'. It comes with tidyverse package. It can also be used with `data.table.` [^1]
+
+[^1]: Now from r 4.1 onwards it is built in to base v as I \>
+
+## data.table
+
+```{mermaid}
+flowchart TD
+data.table --> i
+i --> subsetting\nrow
+data.table --> j
+j --> subsetting\n&\ncalculating\nin\ncolumn
+data.table --> by
+by --> grouping
+
+```
+
+Old `data.frame` allow sub-setting rows and selecting columns. `data.table` which uses the extended syntax
+
+$$
+dt[i,j,by]
+$$
+
+allow lot more options.
+
+**`i`**`allows sub-setting and ordering row`
+
+```{mermaid}
+flowchart TD
+i --> subsetting
+i --> ordering
+
+
+```
+
+### Sub-setting
+
+#### Select only virtual data 
+
+``` r
+dtv=dt[type.class == "virtual"]
+head(dtv)
+```
+
+```{r}
+#| collapse: true
+library(data.table)
+dt=fread("virtual.csv")
+dtv=dt[type.class == "virtual"]
+head(dtv)
+```
+
+#### Select first 2 rows
+
+``` r
+dt2=dt[1:2]
+dt2
+```
+
+```{r}
+#| collapse: true
+dt2=dt[1:2]
+dt2
+```
+
+### Ordering
+
+``` r
+dta=dt[order(posttest.score)] # use -posttest.score for descending order
+dta
+```
+
+```{r}
+#| collapse: true
+dta=dt[order(posttest.score)] 
+# use -posttest.score for descending order
+dta
+```
+
+**`j`**`allow calculation in the column`
+
+```{mermaid}
+flowchart TD
+j --> Select
+j --> Calculation
+j --> Correct\ntypo
+
+```
+
+### Select specific column
+
+``` r
+dtc=dt[,.(idertifier,type.class,pretest.score,posttest.score,sex,likert.total)]
+dtc
+```
+
+```{r}
+#| collapse: true
+dtc=dt[,.(idertifier,type.class,pretest.score,posttest.score,sex,likert.total)]
+dtc
+```
+
+`data.table`‘s `j` can handle more than just *selecting columns* - it can handle *expressions*, i.e., *computing on columns*. 
+
+### Correct typos
+
+```{r}
+#| collapse: true
+dtc=dt[,.(identifier=idertifier,type.class,pretest.score,posttest.score,sex,likert.total)]
+dtc
+```
+
+### Computing on columns
+
+``` r
+dtm=dt[type.class=="virtual",mean(posttest.score)]
+dtm
+```
+
+```{r}
+dtm=dt[type.class=="virtual",mean(posttest.score)]
+dtm
+```
+
+**`by`**`allow grouping`
+
+### Aggregation
+
+``` r
+dtmn=dt[,mean(posttest.score), by=.(type.class)]
+dtmn
+```
+
+```{r}
+#| collapse: true
+dtmn=dt[,mean(posttest.score), by=.(type.class)]
+dtmn
+```
+
+### Adding data to r and reading it as data.table
+
+``` r
+library(data.table)
+dt=fread("virtual.csv")
+class(df)
+str(dt)
+```
+
+```{r}
+#| collapse: true
+library(data.table)
+dt=fread("virtual.csv")
+class(df)
+str(dt)
+```
+
+```{r}
+#| collapse: true
+vtable::vt(dt)
+```
+
+### How to look at data 
+
+-   str (dt) 
+
+    ```{r}
+    #| collapse: true
+    str(dt)
+    ```
+
+-   tables (dt)
+
+-   summary (dt) 
+
+-   vtable:: vt(dt)
+
+### Stages of data wrangling
+
+-   from record to data
+
+-   data to tidy data
+
+-   from tidy data to data analysis. 
+
+### Process of wrangling
+
+#### From records to data
+
+::: callout-note
+## Record
+
+'Raw source', not in workable format. 
+:::
+
+If data is in multiple excel files, use map C) , `rbindlist ( )` to compile data.
+
+`map ( )` comes with `purr` package. ✗ bind list c) 
+
+`rbindlist ( )` stacks data variables on top of one another from different data. tables. For this to work all the identifiers should be same on the different data. tables that has to be compiled.
+
+We can merge the data tables using `merge ( )` function, if there is atleast one common ID .
+
+### 
+
+```{r}
+fdt=dt[,.(identifier=as.factor(idertifier),type.class=as.factor(type.class),posttest.score=as.numeric(posttest.score),pretest.score=as.numeric(pretest.score),total.likert=as.numeric(likert.total), sex=as.factor(sex))]
+head(fdt)
+```
+
+```{r}
+summary(fdt)
+attach(fdt)
+mean.score= fdt[,mean(posttest.score),by=type.class]
+mean.pre.score= fdt[,mean(pretest.score),by=type.class]
+mean.likert= fdt[,mean(total.likert),by=type.class]
+mean.pre.score
+mean.score
+mean.likert
+boxplot(posttest.score~type.class)
+boxplot(pretest.score~type.class)
+boxplot(total.likert~type.class)
+boxplot(total.likert~sex)
+```
+
+```{r}
+shapiro.test(posttest.score)
+```
+
+```{r}
+t.test(posttest.score,pretest.score,var.equal=FALSE)
+```
+
+```{r}
+t.test(posttest.score~type.class,var.equal=FALSE)
+```
+
+```{r}
+shapiro.test(total.likert)
+```
+
+```{r}
+t.test(total.likert~type.class, var.equal=FALSE)
+```
+
+### Interpretation
+
+1.  **Data: `total.likert` by `type.class`**: The test is comparing the `total.likert` scores between two groups defined by `type.class` (physical and virtual).
+
+2.  **t = 5.9265**: This is the t-statistic value. A larger absolute value indicates a greater difference between the groups.
+
+3.  **df = 42.974**: This is the degrees of freedom, adjusted for Welch's t-test. It's not an integer because the test accounts for unequal variances.
+
+4.  **p-value = 4.686e-07**: This is the p-value. A very small p-value (much less than 0.05) indicates strong evidence against the null hypothesis, suggesting a significant difference between the groups.
+
+5.  **Alternative Hypothesis**: The test is checking if the true difference in means between the physical and virtual groups is not equal to 0.
+
+6.  **95% Confidence Interval: 0.2172646 to 0.4414021**: This interval suggests that the true difference in means is between 0.217 and 0.441, with 95% confidence. This range does not include 0, supporting the conclusion that there is a significant difference between the groups.
+
+7.  **Sample Estimates**:
+
+    -   **Mean in group physical**: 3.833333
+
+    -   **Mean in group virtual**: 3.504000
+
+    These are the average `total.likert` scores for the physical and virtual groups, respectively. The physical group has a higher mean score.
+
+### Summary
+
+The results indicate a significant difference in `total.likert` scores between the physical and virtual groups, with the physical group having a higher average score. The very low p-value confirms the statistical significance of this difference. The confidence interval provides a range for the difference in means, further supporting the conclusion that the difference is meaningful and not due to random chance.
+
+## readxl() and map()
+
+```{r}
+library(readxl)
+library(purrr)
+
+filelist=list.files(path="/Users/drkmenon/Sync/knotesquarto/Biomedical/Research Methodology",pattern='xlsx',full.names = TRUE)
+
+
+process.file=function(df) {
+   sales=df[1:5,4]
+   employee=df[1:5,3]
+   return(data.table(sales=sales,employee=employee))
+}
+   
+
+compiled.data=filelist |>
+  map(read_excel) |>
+  map(process.file) |>
+  rbindlist()
+
+compiled.data
+
+```

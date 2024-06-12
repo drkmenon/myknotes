@@ -33,7 +33,7 @@ It comes with 2 pieces of software
 
 It has got 3 colums
 
-### First column 
+### First column
 
 Shows the collections under the main folder `My Library.` We can add new collections by clicking on the folder icon. Subcollectins can be added by right clicking the collection.
 
@@ -139,7 +139,7 @@ The extension will be added to the ribbon. It has got 3 main options
 
 Other functionality include `document preference` where we can modify the citation style
 
-![](images/zotero 7.png)
+![](images/zotero%207.png)
 
 It can automatically format and insert a list of bibliography with the style of our choice. The format can be easily modified with a single click of button.
 

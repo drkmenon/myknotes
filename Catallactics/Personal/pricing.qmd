@@ -32,7 +32,7 @@ nifty_data <- data.table(nifty_data)
 
 ```{r}
 # Extract the last closing price directly from nifty_data
-closing_price <- tail(nifty_data$close, 1)
+closing_price <- tail(nifty_data$close, 2)
 closing_price
 ```
 
@@ -68,7 +68,7 @@ Aim for a strike **less than 10 delta.** Plugin the **implied volatility** and o
 
 ```{r}
 
-closing_price<-closing_price
+closing_price<-23250
 strike <- closing_price * 0.85  # Strike price of the option
 time_to_expiry <- 120/365  # Time to expiration in years
 risk_free_rate <- 0.071   # Risk-free interest rate

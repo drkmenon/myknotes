@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.4.553</generator>
-<lastBuildDate>Sat, 08 Jun 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Jun 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -238,8 +238,8 @@ background-color: null;
 font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
-  209689   295178   342204   486847   434736 41104946 </code></pre>
+<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+2.041e+05 2.958e+05 3.425e+05 1.084e+06 4.377e+05 4.032e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62246   64077   64509   64513   64949   66865 </code></pre>
+  62276   64085   64513   64514   64944   67342 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.824e+05 3.295e+06 5.587e+06 1.940e+07 1.174e+07 4.050e+09 </code></pre>
+8.515e+05 3.345e+06 5.575e+06 7.899e+07 1.207e+07 4.031e+11 </code></pre>
 </div>
 </div>
 </section>
@@ -384,7 +384,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Sat, 08 Jun 2024 18:30:00 GMT</pubDate>
+  <pubDate>Tue, 11 Jun 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>EV battery</title>
