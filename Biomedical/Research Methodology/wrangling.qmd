@@ -327,7 +327,7 @@ library(data.table)
 # Create the first data table with names and ages
 dt1 <- data.table(
   id=c("1","2","3","4","5"),
-  Name = c("Scott", "Sambu", "Shibu", "Diana", "Echu"),
+  Name = c("Scut", "Sambu", "Shibu", "Diana", "Echu"),
   Age = c(28, 34, 23, 41, 30)
 )
 
@@ -357,7 +357,8 @@ If data is in multiple excel files, use `readxl( )`, `map ( )` and `rbindlist ( 
 
 `map ( )` comes with `purr` package.
 
-```{r}
+```{r warning=FALSE}
+#| collapse: true
 library(readxl)
 library(purrr)
 
@@ -475,10 +476,10 @@ mean.likert= fdt[,mean(total.likert),by=type.class]
 mean.pre.score
 mean.score
 mean.likert
-boxplot(posttest.score~type.class)
-boxplot(pretest.score~type.class)
-boxplot(total.likert~type.class)
-boxplot(total.likert~sex)
+boxplot(posttest.score~type.class, main="Box plot showing Post test score vs type of class")
+boxplot(pretest.score~type.class,main="Box plot showing Pre test score vs type of class")
+boxplot(total.likert~type.class, main="Box plot showing likert score vs type of class")
+boxplot(total.likert~sex, main="Box plot showing likert score vs sex")
 ```
 
 ### Check for normality visually
@@ -490,8 +491,8 @@ hist(total.likert, main="",breaks = 10)
 
 ```{r}
 #| collapse: true
-hist(posttest.score, main = "",breaks = 15)
-hist(total.likert, main="",breaks = 10)
+hist(posttest.score, main = "Histogram showing non normal distribution of post test score",breaks = 15)
+hist(total.likert, main="Histogram showing doubtful normal distribution of likert score",breaks = 10)
 
 ```
 
