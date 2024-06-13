@@ -829,37 +829,7 @@ window.Quarto = {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
-<div id="mc_embed_shell">
-      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: px;}
-        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-    <form action="https://knotes.us17.list-manage.com/subscribe/post?u=cbd11e712b45e98cdaab2dd4d&amp;id=aeaca1e768&amp;f_id=00dbc2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
-            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
-        <div id="mce-responses" class="clear foot">
-            <div class="response" id="mce-error-response" style="display: none;"></div>
-            <div class="response" id="mce-success-response" style="display: none;"></div>
-        </div>
-    <div aria-hidden="true" style="position: absolute; left: -5000px;">
-        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
-        <input type="text" name="b_cbd11e712b45e98cdaab2dd4d_aeaca1e768" tabindex="-1" value="">
-    </div>
-        <div class="optionalParent">
-            <div class="clear foot">
-                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                
-            </div>
-        </div>
-    </div>
-</form>
-</div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
-
+<p>subscribe.html</p>
 </div></div>
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
@@ -871,12 +841,10 @@ window.Quarto = {
   <li><a href="#ij-and-by" id="toc-ij-and-by" class="nav-link" data-scroll-target="#ij-and-by">i,j and by</a></li>
   <li><a href="#aggregation" id="toc-aggregation" class="nav-link" data-scroll-target="#aggregation">Aggregation</a></li>
   <li><a href="#adding-data-to-r-and-reading-it-as-data.table" id="toc-adding-data-to-r-and-reading-it-as-data.table" class="nav-link" data-scroll-target="#adding-data-to-r-and-reading-it-as-data.table">Adding data to r and reading it as data.table</a></li>
-  <li><a href="#how-to-look-at-data" id="toc-how-to-look-at-data" class="nav-link" data-scroll-target="#how-to-look-at-data">How to look at data&nbsp;</a></li>
+  <li><a href="#how-to-look-at-data" id="toc-how-to-look-at-data" class="nav-link" data-scroll-target="#how-to-look-at-data">How to look at data</a></li>
   <li><a href="#stages-of-data-wrangling" id="toc-stages-of-data-wrangling" class="nav-link" data-scroll-target="#stages-of-data-wrangling">Stages of data wrangling</a></li>
   <li><a href="#process-of-wrangling" id="toc-process-of-wrangling" class="nav-link" data-scroll-target="#process-of-wrangling">Process of wrangling</a></li>
   <li><a href="#rbind" id="toc-rbind" class="nav-link" data-scroll-target="#rbind">rbind</a></li>
-  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a></li>
-  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
   </ul></li>
   <li><a href="#readxl-and-map" id="toc-readxl-and-map" class="nav-link" data-scroll-target="#readxl-and-map">readxl() and map()</a></li>
   </ul>
@@ -927,12 +895,12 @@ window.Quarto = {
 <li><p>Think how to rearrange Information to achieve what we want&nbsp;</p></li>
 <li><p>Make sure that what we does is doing what we want at every step.&nbsp;</p></li>
 </ol>
-<p><code>r</code> is an excellent lower level language for data wrangling. The newer <code>data.table</code> make it even more faster and intuitive. <code>data. table</code> package in <code>r</code> which is faster than tidyverse. It is mainly used for data manipulation . As it retains native <code>data. frame</code>, all functions written for base r and tidyverse work with data. table.&nbsp;</p>
+<p><code>r</code> is an excellent lower level language for data wrangling. The newer <code>data.table</code> make it even more faster and intuitive. <code>data. table</code> package in <code>r</code> is faster than not only tidyverse, it beats most other languages including python. Mainly used for data manipulation, it retains native <code>data. frame</code> and all functions written for base r and tidyverse work with data. table.&nbsp;</p>
 <p>eg: <code>% &gt; %</code> is called pipe function.&nbsp;It essentially means ‘take whatever on the left side and make it the first argument for anything on the right Side’. It comes with tidyverse package. It can also be used with <code>data.table.</code> <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 </section>
 <section id="data.table" class="level2">
 <h2 class="anchored" data-anchor-id="data.table">data.table</h2>
-<p><code>data.table</code> looks like <code>data.frame</code> superficially but it is lot more efficient, fast and allow numerous actions by simple commants.</p>
+<p><code>data.table</code> looks like <code>data.frame</code> superficially but it is lot more efficient, fast and allow numerous actions by simple commands.</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
@@ -981,7 +949,16 @@ i --&gt; ordering
 </div>
 <section id="sub-setting" class="level4">
 <h4 class="anchored" data-anchor-id="sub-setting">Sub-setting</h4>
-<p>Let us take an example of data set dt</p>
+<p>Let us take an example,</p>
+<p>We have a data set called <code>virtual.csv</code> stored in our computer. The data belongs to a quasi experimental study which compared the effectiveness of virtual class room with respect to physical class room. It also compared the student perception of the two modalities on a likert scale. Study divided students in to two groups, virtual and physical and asked following questions:</p>
+<ul>
+<li>Is there any difference in the post test score of students in virtual and physical group?</li>
+</ul>
+<!-- -->
+<ul>
+<li>Is there any difference in the student perception in virtual and physical group about the modality of delivery of class?</li>
+</ul>
+<p>We can bring it to <code>r</code> environment using <code>fread</code> command in the data.table library.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
@@ -991,11 +968,14 @@ i --&gt; ordering
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<p>It contains a set of simple data comparing the performance of medical students in physical classes vs virtual classes and their perceptions. Assume, we want to see only the virtual class students. This can be easily achieved by sub-setting the type.class key in the data by “virtual” as shown below.</p>
+<p>We can see that it contains a set of simple data comparing the performance of medical students in physical classes vs virtual classes and their perceptions.</p>
 <section id="select-only-virtual-data" class="level5">
 <h5 class="anchored" data-anchor-id="select-only-virtual-data">Select only virtual data</h5>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>dtv<span class="ot">=</span>dt[type.class <span class="sc">==</span> <span class="st">"virtual"</span>]</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dtv)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Assume, we want to see only the virtual class students. This can be easily achieved by sub-setting the type.class key in the data by “virtual” as shown below.</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>dtv<span class="ot">=</span>dt[type.class <span class="sc">==</span> <span class="st">"virtual"</span>]</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dtv)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -1378,12 +1358,12 @@ j --&gt; Add\nor\nDelete\ncolumn
 <section id="computing-on-columns" class="level5">
 <h5 class="anchored" data-anchor-id="computing-on-columns">Computing on columns</h5>
 <p>To calculate the mean post test score of the virtual class, following code can be used.</p>
-<div class="sourceCode" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>dtm<span class="ot">=</span>dt[type.class<span class="sc">==</span><span class="st">"virtual"</span>,<span class="fu">mean</span>(posttest.score)]</span>
+<div class="sourceCode" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>dtm<span class="ot">=</span>dtc[type.class<span class="sc">==</span><span class="st">"virtual"</span>,<span class="fu">mean</span>(posttest.score)]</span>
 <span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>dtm</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>dtm<span class="ot">=</span>dt[type.class<span class="sc">==</span><span class="st">"virtual"</span>,<span class="fu">mean</span>(posttest.score)]</span>
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>dtm<span class="ot">=</span>dtc[type.class<span class="sc">==</span><span class="st">"virtual"</span>,<span class="fu">mean</span>(posttest.score)]</span>
 <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>dtm</span>
 <span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a><span class="do">## [1] 78.2</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
@@ -1393,107 +1373,47 @@ j --&gt; Add\nor\nDelete\ncolumn
 <h5 class="anchored" data-anchor-id="add-or-delete-column">Add or delete column</h5>
 <p>If we want to add mean post test score of virtual on to dtv.</p>
 <p>To create or delete column, we use <code>:=</code>, called walrus operator.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
-<div class="sourceCode" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>dtv[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="fu">mean</span>(posttest.score)]</span>
-<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>dtv</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>dtvm<span class="ot">=</span>dtc[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="fu">mean</span>(posttest.score)]</span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>dtvm</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>dtvm<span class="ot">=</span>dtv[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="fu">mean</span>(posttest.score)]</span>
-<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>dtvm</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>dtvm<span class="ot">=</span>dtc[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="fu">mean</span>(posttest.score)]</span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dtvm)</span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a><span class="do">##    identifier type.class pretest.score posttest.score   sex likert.total</span></span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a><span class="do">##        &lt;char&gt;     &lt;char&gt;         &lt;int&gt;          &lt;int&gt; &lt;int&gt;        &lt;num&gt;</span></span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a><span class="do">## 1:       VIR1    virtual            40            100     1          3.3</span></span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a><span class="do">## 2:       VIR2    virtual            40             95     1          3.6</span></span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true" tabindex="-1"></a><span class="do">## 3:       VIR3    virtual            60             85     2          3.2</span></span>
+<span id="cb16-8"><a href="#cb16-8" aria-hidden="true" tabindex="-1"></a><span class="do">## 4:       VIR4    virtual            40             70     2          3.5</span></span>
+<span id="cb16-9"><a href="#cb16-9" aria-hidden="true" tabindex="-1"></a><span class="do">## 5:       VIR5    virtual            60             75     1          3.3</span></span>
+<span id="cb16-10"><a href="#cb16-10" aria-hidden="true" tabindex="-1"></a><span class="do">## 6:       VIR6    virtual            60             90     1          3.3</span></span>
+<span id="cb16-11"><a href="#cb16-11" aria-hidden="true" tabindex="-1"></a><span class="do">##    mean.pt.score</span></span>
+<span id="cb16-12"><a href="#cb16-12" aria-hidden="true" tabindex="-1"></a><span class="do">##            &lt;num&gt;</span></span>
+<span id="cb16-13"><a href="#cb16-13" aria-hidden="true" tabindex="-1"></a><span class="do">## 1:      78.06122</span></span>
+<span id="cb16-14"><a href="#cb16-14" aria-hidden="true" tabindex="-1"></a><span class="do">## 2:      78.06122</span></span>
+<span id="cb16-15"><a href="#cb16-15" aria-hidden="true" tabindex="-1"></a><span class="do">## 3:      78.06122</span></span>
+<span id="cb16-16"><a href="#cb16-16" aria-hidden="true" tabindex="-1"></a><span class="do">## 4:      78.06122</span></span>
+<span id="cb16-17"><a href="#cb16-17" aria-hidden="true" tabindex="-1"></a><span class="do">## 5:      78.06122</span></span>
+<span id="cb16-18"><a href="#cb16-18" aria-hidden="true" tabindex="-1"></a><span class="do">## 6:      78.06122</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 <p>To delete mean.pt.score,</p>
-<div class="sourceCode" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>dtv[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="cn">NULL</span>]</span>
-<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>dtv</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>dtvn<span class="ot">=</span>dtvm[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="cn">NULL</span>]</span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>dtvn</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>dtvm[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="cn">NULL</span>]</span>
-<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a>dtvm</span>
-<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a><span class="do">##     idertifier type.class pretest.score pretest.rank posttest.score</span></span>
-<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a><span class="do">##         &lt;char&gt;     &lt;char&gt;         &lt;int&gt;        &lt;int&gt;          &lt;int&gt;</span></span>
-<span id="cb18-5"><a href="#cb18-5" aria-hidden="true" tabindex="-1"></a><span class="do">##  1:       VIR1    virtual            40            2            100</span></span>
-<span id="cb18-6"><a href="#cb18-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  2:       VIR2    virtual            40            2             95</span></span>
-<span id="cb18-7"><a href="#cb18-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  3:       VIR3    virtual            60            3             85</span></span>
-<span id="cb18-8"><a href="#cb18-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  4:       VIR4    virtual            40            2             70</span></span>
-<span id="cb18-9"><a href="#cb18-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  5:       VIR5    virtual            60            3             75</span></span>
-<span id="cb18-10"><a href="#cb18-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  6:       VIR6    virtual            60            3             90</span></span>
-<span id="cb18-11"><a href="#cb18-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  7:       VIR7    virtual            40            2             80</span></span>
-<span id="cb18-12"><a href="#cb18-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  8:       VIR8    virtual            40            2             60</span></span>
-<span id="cb18-13"><a href="#cb18-13" aria-hidden="true" tabindex="-1"></a><span class="do">##  9:       VIR9    virtual            20            1             90</span></span>
-<span id="cb18-14"><a href="#cb18-14" aria-hidden="true" tabindex="-1"></a><span class="do">## 10:      VIR10    virtual            60            3             90</span></span>
-<span id="cb18-15"><a href="#cb18-15" aria-hidden="true" tabindex="-1"></a><span class="do">## 11:      VIR11    virtual            40            2             55</span></span>
-<span id="cb18-16"><a href="#cb18-16" aria-hidden="true" tabindex="-1"></a><span class="do">## 12:      VIR12    virtual             0            1             90</span></span>
-<span id="cb18-17"><a href="#cb18-17" aria-hidden="true" tabindex="-1"></a><span class="do">## 13:      VIR13    virtual            40            2             75</span></span>
-<span id="cb18-18"><a href="#cb18-18" aria-hidden="true" tabindex="-1"></a><span class="do">## 14:      VIR14    virtual            20            1             80</span></span>
-<span id="cb18-19"><a href="#cb18-19" aria-hidden="true" tabindex="-1"></a><span class="do">## 15:      VIR15    virtual            20            1             90</span></span>
-<span id="cb18-20"><a href="#cb18-20" aria-hidden="true" tabindex="-1"></a><span class="do">## 16:      VIR16    virtual            60            3             55</span></span>
-<span id="cb18-21"><a href="#cb18-21" aria-hidden="true" tabindex="-1"></a><span class="do">## 17:      VIR17    virtual            40            2             85</span></span>
-<span id="cb18-22"><a href="#cb18-22" aria-hidden="true" tabindex="-1"></a><span class="do">## 18:      VIR18    virtual            80            4             80</span></span>
-<span id="cb18-23"><a href="#cb18-23" aria-hidden="true" tabindex="-1"></a><span class="do">## 19:      VIR19    virtual            60            3             80</span></span>
-<span id="cb18-24"><a href="#cb18-24" aria-hidden="true" tabindex="-1"></a><span class="do">## 20:      VIR20    virtual            20            1             80</span></span>
-<span id="cb18-25"><a href="#cb18-25" aria-hidden="true" tabindex="-1"></a><span class="do">## 21:      VIR21    virtual            80            4             85</span></span>
-<span id="cb18-26"><a href="#cb18-26" aria-hidden="true" tabindex="-1"></a><span class="do">## 22:      VIR22    virtual            60            3             70</span></span>
-<span id="cb18-27"><a href="#cb18-27" aria-hidden="true" tabindex="-1"></a><span class="do">## 23:      VIR23    virtual            80            4             65</span></span>
-<span id="cb18-28"><a href="#cb18-28" aria-hidden="true" tabindex="-1"></a><span class="do">## 24:      VIR24    virtual            60            3             55</span></span>
-<span id="cb18-29"><a href="#cb18-29" aria-hidden="true" tabindex="-1"></a><span class="do">## 25:      VIR25    virtual            60            3             75</span></span>
-<span id="cb18-30"><a href="#cb18-30" aria-hidden="true" tabindex="-1"></a><span class="do">##     idertifier type.class pretest.score pretest.rank posttest.score</span></span>
-<span id="cb18-31"><a href="#cb18-31" aria-hidden="true" tabindex="-1"></a><span class="do">##     posttest.rank   sex likert.1 likert.2 likert.3 likert.4 likert.5 likert.6</span></span>
-<span id="cb18-32"><a href="#cb18-32" aria-hidden="true" tabindex="-1"></a><span class="do">##             &lt;int&gt; &lt;int&gt;    &lt;int&gt;    &lt;int&gt;    &lt;int&gt;    &lt;int&gt;    &lt;int&gt;    &lt;int&gt;</span></span>
-<span id="cb18-33"><a href="#cb18-33" aria-hidden="true" tabindex="-1"></a><span class="do">##  1:             5     1        3        4        3        3        4        4</span></span>
-<span id="cb18-34"><a href="#cb18-34" aria-hidden="true" tabindex="-1"></a><span class="do">##  2:             5     1        3        5        4        2        3        4</span></span>
-<span id="cb18-35"><a href="#cb18-35" aria-hidden="true" tabindex="-1"></a><span class="do">##  3:             5     2        4        4        3        3        4        3</span></span>
-<span id="cb18-36"><a href="#cb18-36" aria-hidden="true" tabindex="-1"></a><span class="do">##  4:             4     2        5        4        4        2        3        4</span></span>
-<span id="cb18-37"><a href="#cb18-37" aria-hidden="true" tabindex="-1"></a><span class="do">##  5:             4     1        4        4        3        3        4        3</span></span>
-<span id="cb18-38"><a href="#cb18-38" aria-hidden="true" tabindex="-1"></a><span class="do">##  6:             5     1        3        5        3        2        3        4</span></span>
-<span id="cb18-39"><a href="#cb18-39" aria-hidden="true" tabindex="-1"></a><span class="do">##  7:             4     2        4        4        4        3        4        3</span></span>
-<span id="cb18-40"><a href="#cb18-40" aria-hidden="true" tabindex="-1"></a><span class="do">##  8:             3     2        3        5        3        2        2        3</span></span>
-<span id="cb18-41"><a href="#cb18-41" aria-hidden="true" tabindex="-1"></a><span class="do">##  9:             5     2        4        5        3        3        4        4</span></span>
-<span id="cb18-42"><a href="#cb18-42" aria-hidden="true" tabindex="-1"></a><span class="do">## 10:             5     2        3        5        4        2        3        4</span></span>
-<span id="cb18-43"><a href="#cb18-43" aria-hidden="true" tabindex="-1"></a><span class="do">## 11:             3     1        3        5        4        3        4        4</span></span>
-<span id="cb18-44"><a href="#cb18-44" aria-hidden="true" tabindex="-1"></a><span class="do">## 12:             5     1        4        4        3        3        3        4</span></span>
-<span id="cb18-45"><a href="#cb18-45" aria-hidden="true" tabindex="-1"></a><span class="do">## 13:             4     1        3        4        3        3        3        3</span></span>
-<span id="cb18-46"><a href="#cb18-46" aria-hidden="true" tabindex="-1"></a><span class="do">## 14:             4     2        3        4        4        4        3        3</span></span>
-<span id="cb18-47"><a href="#cb18-47" aria-hidden="true" tabindex="-1"></a><span class="do">## 15:             5     2        5        4        4        3        4        3</span></span>
-<span id="cb18-48"><a href="#cb18-48" aria-hidden="true" tabindex="-1"></a><span class="do">## 16:             3     2        3        4        3        3        3        4</span></span>
-<span id="cb18-49"><a href="#cb18-49" aria-hidden="true" tabindex="-1"></a><span class="do">## 17:             5     2        4        4        2        3        2        4</span></span>
-<span id="cb18-50"><a href="#cb18-50" aria-hidden="true" tabindex="-1"></a><span class="do">## 18:             4     2        4        4        2        4        4        2</span></span>
-<span id="cb18-51"><a href="#cb18-51" aria-hidden="true" tabindex="-1"></a><span class="do">## 19:             4     1        5        4        3        3        3        3</span></span>
-<span id="cb18-52"><a href="#cb18-52" aria-hidden="true" tabindex="-1"></a><span class="do">## 20:             4     2        4        4        2        3        4        4</span></span>
-<span id="cb18-53"><a href="#cb18-53" aria-hidden="true" tabindex="-1"></a><span class="do">## 21:             5     2        4        4        3        3        4        4</span></span>
-<span id="cb18-54"><a href="#cb18-54" aria-hidden="true" tabindex="-1"></a><span class="do">## 22:             4     1        4        4        4        4        2        2</span></span>
-<span id="cb18-55"><a href="#cb18-55" aria-hidden="true" tabindex="-1"></a><span class="do">## 23:             4     2        4        4        4        4        4        2</span></span>
-<span id="cb18-56"><a href="#cb18-56" aria-hidden="true" tabindex="-1"></a><span class="do">## 24:             3     2        4        4        3        3        4        3</span></span>
-<span id="cb18-57"><a href="#cb18-57" aria-hidden="true" tabindex="-1"></a><span class="do">## 25:             4     2        4        4        4        4        4        4</span></span>
-<span id="cb18-58"><a href="#cb18-58" aria-hidden="true" tabindex="-1"></a><span class="do">##     posttest.rank   sex likert.1 likert.2 likert.3 likert.4 likert.5 likert.6</span></span>
-<span id="cb18-59"><a href="#cb18-59" aria-hidden="true" tabindex="-1"></a><span class="do">##     likert.7 likert.8 likert.9 likert.10 likert.total</span></span>
-<span id="cb18-60"><a href="#cb18-60" aria-hidden="true" tabindex="-1"></a><span class="do">##        &lt;int&gt;    &lt;int&gt;    &lt;int&gt;     &lt;int&gt;        &lt;num&gt;</span></span>
-<span id="cb18-61"><a href="#cb18-61" aria-hidden="true" tabindex="-1"></a><span class="do">##  1:        4        2        4         2          3.3</span></span>
-<span id="cb18-62"><a href="#cb18-62" aria-hidden="true" tabindex="-1"></a><span class="do">##  2:        4        3        4         4          3.6</span></span>
-<span id="cb18-63"><a href="#cb18-63" aria-hidden="true" tabindex="-1"></a><span class="do">##  3:        4        2        3         2          3.2</span></span>
-<span id="cb18-64"><a href="#cb18-64" aria-hidden="true" tabindex="-1"></a><span class="do">##  4:        4        3        4         2          3.5</span></span>
-<span id="cb18-65"><a href="#cb18-65" aria-hidden="true" tabindex="-1"></a><span class="do">##  5:        4        2        4         2          3.3</span></span>
-<span id="cb18-66"><a href="#cb18-66" aria-hidden="true" tabindex="-1"></a><span class="do">##  6:        3        3        3         4          3.3</span></span>
-<span id="cb18-67"><a href="#cb18-67" aria-hidden="true" tabindex="-1"></a><span class="do">##  7:        3        2        3         2          3.2</span></span>
-<span id="cb18-68"><a href="#cb18-68" aria-hidden="true" tabindex="-1"></a><span class="do">##  8:        3        4        4         2          3.1</span></span>
-<span id="cb18-69"><a href="#cb18-69" aria-hidden="true" tabindex="-1"></a><span class="do">##  9:        3        4        4         3          3.7</span></span>
-<span id="cb18-70"><a href="#cb18-70" aria-hidden="true" tabindex="-1"></a><span class="do">## 10:        3        4        4         4          3.6</span></span>
-<span id="cb18-71"><a href="#cb18-71" aria-hidden="true" tabindex="-1"></a><span class="do">## 11:        4        4        4         3          3.8</span></span>
-<span id="cb18-72"><a href="#cb18-72" aria-hidden="true" tabindex="-1"></a><span class="do">## 12:        4        4        3         3          3.5</span></span>
-<span id="cb18-73"><a href="#cb18-73" aria-hidden="true" tabindex="-1"></a><span class="do">## 13:        4        4        2         3          3.2</span></span>
-<span id="cb18-74"><a href="#cb18-74" aria-hidden="true" tabindex="-1"></a><span class="do">## 14:        4        4        4         4          3.7</span></span>
-<span id="cb18-75"><a href="#cb18-75" aria-hidden="true" tabindex="-1"></a><span class="do">## 15:        3        4        4         4          3.8</span></span>
-<span id="cb18-76"><a href="#cb18-76" aria-hidden="true" tabindex="-1"></a><span class="do">## 16:        3        4        4         4          3.5</span></span>
-<span id="cb18-77"><a href="#cb18-77" aria-hidden="true" tabindex="-1"></a><span class="do">## 17:        4        4        4         4          3.5</span></span>
-<span id="cb18-78"><a href="#cb18-78" aria-hidden="true" tabindex="-1"></a><span class="do">## 18:        4        4        3         3          3.4</span></span>
-<span id="cb18-79"><a href="#cb18-79" aria-hidden="true" tabindex="-1"></a><span class="do">## 19:        4        4        3         3          3.5</span></span>
-<span id="cb18-80"><a href="#cb18-80" aria-hidden="true" tabindex="-1"></a><span class="do">## 20:        4        4        2         4          3.5</span></span>
-<span id="cb18-81"><a href="#cb18-81" aria-hidden="true" tabindex="-1"></a><span class="do">## 21:        4        4        4         4          3.8</span></span>
-<span id="cb18-82"><a href="#cb18-82" aria-hidden="true" tabindex="-1"></a><span class="do">## 22:        3        4        4         4          3.5</span></span>
-<span id="cb18-83"><a href="#cb18-83" aria-hidden="true" tabindex="-1"></a><span class="do">## 23:        3        4        4         4          3.7</span></span>
-<span id="cb18-84"><a href="#cb18-84" aria-hidden="true" tabindex="-1"></a><span class="do">## 24:        3        4        2         4          3.4</span></span>
-<span id="cb18-85"><a href="#cb18-85" aria-hidden="true" tabindex="-1"></a><span class="do">## 25:        4        3        4         5          4.0</span></span>
-<span id="cb18-86"><a href="#cb18-86" aria-hidden="true" tabindex="-1"></a><span class="do">##     likert.7 likert.8 likert.9 likert.10 likert.total</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>dtvn<span class="ot">=</span>dtvm[,mean.pt.score<span class="sc">:</span><span class="er">=</span><span class="cn">NULL</span>]</span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dtvn)</span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a><span class="do">##    identifier type.class pretest.score posttest.score   sex likert.total</span></span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a><span class="do">##        &lt;char&gt;     &lt;char&gt;         &lt;int&gt;          &lt;int&gt; &lt;int&gt;        &lt;num&gt;</span></span>
+<span id="cb18-5"><a href="#cb18-5" aria-hidden="true" tabindex="-1"></a><span class="do">## 1:       VIR1    virtual            40            100     1          3.3</span></span>
+<span id="cb18-6"><a href="#cb18-6" aria-hidden="true" tabindex="-1"></a><span class="do">## 2:       VIR2    virtual            40             95     1          3.6</span></span>
+<span id="cb18-7"><a href="#cb18-7" aria-hidden="true" tabindex="-1"></a><span class="do">## 3:       VIR3    virtual            60             85     2          3.2</span></span>
+<span id="cb18-8"><a href="#cb18-8" aria-hidden="true" tabindex="-1"></a><span class="do">## 4:       VIR4    virtual            40             70     2          3.5</span></span>
+<span id="cb18-9"><a href="#cb18-9" aria-hidden="true" tabindex="-1"></a><span class="do">## 5:       VIR5    virtual            60             75     1          3.3</span></span>
+<span id="cb18-10"><a href="#cb18-10" aria-hidden="true" tabindex="-1"></a><span class="do">## 6:       VIR6    virtual            60             90     1          3.3</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 <p><strong><code>by</code></strong><code>allow grouping</code></p>
@@ -1533,44 +1453,28 @@ by --&gt; grouping
 </section>
 <section id="adding-data-to-r-and-reading-it-as-data.table" class="level3">
 <h3 class="anchored" data-anchor-id="adding-data-to-r-and-reading-it-as-data.table">Adding data to r and reading it as data.table</h3>
+<p>We may once more visit how to add data to <code>r</code> using data table and try to do simple analysis</p>
 <div class="sourceCode" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
-<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span>
-<span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a><span class="fu">class</span>(df)</span>
-<span id="cb21-4"><a href="#cb21-4" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
-<span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span>
-<span id="cb22-3"><a href="#cb22-3" aria-hidden="true" tabindex="-1"></a><span class="fu">class</span>(df)</span>
-<span id="cb22-4"><a href="#cb22-4" aria-hidden="true" tabindex="-1"></a><span class="do">## [1] "function"</span></span>
-<span id="cb22-5"><a href="#cb22-5" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(dt)</span>
-<span id="cb22-6"><a href="#cb22-6" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   49 obs. of  18 variables:</span></span>
-<span id="cb22-7"><a href="#cb22-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ idertifier    : chr  "VIR1" "VIR2" "VIR3" "VIR4" ...</span></span>
-<span id="cb22-8"><a href="#cb22-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ type.class    : chr  "virtual" "virtual" "virtual" "virtual" ...</span></span>
-<span id="cb22-9"><a href="#cb22-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.score : int  40 40 60 40 60 60 40 40 20 60 ...</span></span>
-<span id="cb22-10"><a href="#cb22-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.rank  : int  2 2 3 2 3 3 2 2 1 3 ...</span></span>
-<span id="cb22-11"><a href="#cb22-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.score: int  100 95 85 70 75 90 80 60 90 90 ...</span></span>
-<span id="cb22-12"><a href="#cb22-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.rank : int  5 5 5 4 4 5 4 3 5 5 ...</span></span>
-<span id="cb22-13"><a href="#cb22-13" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ sex           : int  1 1 2 2 1 1 2 2 2 2 ...</span></span>
-<span id="cb22-14"><a href="#cb22-14" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.1      : int  3 3 4 5 4 3 4 3 4 3 ...</span></span>
-<span id="cb22-15"><a href="#cb22-15" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.2      : int  4 5 4 4 4 5 4 5 5 5 ...</span></span>
-<span id="cb22-16"><a href="#cb22-16" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.3      : int  3 4 3 4 3 3 4 3 3 4 ...</span></span>
-<span id="cb22-17"><a href="#cb22-17" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.4      : int  3 2 3 2 3 2 3 2 3 2 ...</span></span>
-<span id="cb22-18"><a href="#cb22-18" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.5      : int  4 3 4 3 4 3 4 2 4 3 ...</span></span>
-<span id="cb22-19"><a href="#cb22-19" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.6      : int  4 4 3 4 3 4 3 3 4 4 ...</span></span>
-<span id="cb22-20"><a href="#cb22-20" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.7      : int  4 4 4 4 4 3 3 3 3 3 ...</span></span>
-<span id="cb22-21"><a href="#cb22-21" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.8      : int  2 3 2 3 2 3 2 4 4 4 ...</span></span>
-<span id="cb22-22"><a href="#cb22-22" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.9      : int  4 4 3 4 4 3 3 4 4 4 ...</span></span>
-<span id="cb22-23"><a href="#cb22-23" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.10     : int  2 4 2 2 2 4 2 2 3 4 ...</span></span>
-<span id="cb22-24"><a href="#cb22-24" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.total  : num  3.3 3.6 3.2 3.5 3.3 3.3 3.2 3.1 3.7 3.6 ...</span></span>
-<span id="cb22-25"><a href="#cb22-25" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
+</section>
+<section id="how-to-look-at-data" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-look-at-data">How to look at data</h3>
+<section id="vtable" class="level4">
+<h4 class="anchored" data-anchor-id="vtable">vtable</h4>
+<p><code>vtable</code> is a package that helps to display the structure better than other commands.</p>
+<div class="sourceCode" id="cb23"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| collapse: true</span></span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a>vtable<span class="sc">::</span><span class="fu">vt</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a>vtable<span class="sc">::</span><span class="fu">vt</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a>vtable<span class="sc">::</span><span class="fu">vt</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
@@ -1680,43 +1584,44 @@ by --&gt; grouping
 </div>
 </div>
 </section>
-<section id="how-to-look-at-data" class="level3">
-<h3 class="anchored" data-anchor-id="how-to-look-at-data">How to look at data&nbsp;</h3>
+<section id="other-methods" class="level4">
+<h4 class="anchored" data-anchor-id="other-methods">Other methods</h4>
 <ul>
 <li><p>str(dt)&nbsp;</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(dt)</span>
-<span id="cb24-2"><a href="#cb24-2" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   49 obs. of  18 variables:</span></span>
-<span id="cb24-3"><a href="#cb24-3" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ idertifier    : chr  "VIR1" "VIR2" "VIR3" "VIR4" ...</span></span>
-<span id="cb24-4"><a href="#cb24-4" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ type.class    : chr  "virtual" "virtual" "virtual" "virtual" ...</span></span>
-<span id="cb24-5"><a href="#cb24-5" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.score : int  40 40 60 40 60 60 40 40 20 60 ...</span></span>
-<span id="cb24-6"><a href="#cb24-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.rank  : int  2 2 3 2 3 3 2 2 1 3 ...</span></span>
-<span id="cb24-7"><a href="#cb24-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.score: int  100 95 85 70 75 90 80 60 90 90 ...</span></span>
-<span id="cb24-8"><a href="#cb24-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.rank : int  5 5 5 4 4 5 4 3 5 5 ...</span></span>
-<span id="cb24-9"><a href="#cb24-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ sex           : int  1 1 2 2 1 1 2 2 2 2 ...</span></span>
-<span id="cb24-10"><a href="#cb24-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.1      : int  3 3 4 5 4 3 4 3 4 3 ...</span></span>
-<span id="cb24-11"><a href="#cb24-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.2      : int  4 5 4 4 4 5 4 5 5 5 ...</span></span>
-<span id="cb24-12"><a href="#cb24-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.3      : int  3 4 3 4 3 3 4 3 3 4 ...</span></span>
-<span id="cb24-13"><a href="#cb24-13" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.4      : int  3 2 3 2 3 2 3 2 3 2 ...</span></span>
-<span id="cb24-14"><a href="#cb24-14" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.5      : int  4 3 4 3 4 3 4 2 4 3 ...</span></span>
-<span id="cb24-15"><a href="#cb24-15" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.6      : int  4 4 3 4 3 4 3 3 4 4 ...</span></span>
-<span id="cb24-16"><a href="#cb24-16" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.7      : int  4 4 4 4 4 3 3 3 3 3 ...</span></span>
-<span id="cb24-17"><a href="#cb24-17" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.8      : int  2 3 2 3 2 3 2 4 4 4 ...</span></span>
-<span id="cb24-18"><a href="#cb24-18" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.9      : int  4 4 3 4 4 3 3 4 4 4 ...</span></span>
-<span id="cb24-19"><a href="#cb24-19" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.10     : int  2 4 2 2 2 4 2 2 3 4 ...</span></span>
-<span id="cb24-20"><a href="#cb24-20" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.total  : num  3.3 3.6 3.2 3.5 3.3 3.3 3.2 3.1 3.7 3.6 ...</span></span>
-<span id="cb24-21"><a href="#cb24-21" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(dt)</span>
+<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   49 obs. of  18 variables:</span></span>
+<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ idertifier    : chr  "VIR1" "VIR2" "VIR3" "VIR4" ...</span></span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ type.class    : chr  "virtual" "virtual" "virtual" "virtual" ...</span></span>
+<span id="cb25-5"><a href="#cb25-5" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.score : int  40 40 60 40 60 60 40 40 20 60 ...</span></span>
+<span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.rank  : int  2 2 3 2 3 3 2 2 1 3 ...</span></span>
+<span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.score: int  100 95 85 70 75 90 80 60 90 90 ...</span></span>
+<span id="cb25-8"><a href="#cb25-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.rank : int  5 5 5 4 4 5 4 3 5 5 ...</span></span>
+<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ sex           : int  1 1 2 2 1 1 2 2 2 2 ...</span></span>
+<span id="cb25-10"><a href="#cb25-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.1      : int  3 3 4 5 4 3 4 3 4 3 ...</span></span>
+<span id="cb25-11"><a href="#cb25-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.2      : int  4 5 4 4 4 5 4 5 5 5 ...</span></span>
+<span id="cb25-12"><a href="#cb25-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.3      : int  3 4 3 4 3 3 4 3 3 4 ...</span></span>
+<span id="cb25-13"><a href="#cb25-13" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.4      : int  3 2 3 2 3 2 3 2 3 2 ...</span></span>
+<span id="cb25-14"><a href="#cb25-14" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.5      : int  4 3 4 3 4 3 4 2 4 3 ...</span></span>
+<span id="cb25-15"><a href="#cb25-15" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.6      : int  4 4 3 4 3 4 3 3 4 4 ...</span></span>
+<span id="cb25-16"><a href="#cb25-16" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.7      : int  4 4 4 4 4 3 3 3 3 3 ...</span></span>
+<span id="cb25-17"><a href="#cb25-17" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.8      : int  2 3 2 3 2 3 2 4 4 4 ...</span></span>
+<span id="cb25-18"><a href="#cb25-18" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.9      : int  4 4 3 4 4 3 3 4 4 4 ...</span></span>
+<span id="cb25-19"><a href="#cb25-19" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.10     : int  2 4 2 2 2 4 2 2 3 4 ...</span></span>
+<span id="cb25-20"><a href="#cb25-20" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.total  : num  3.3 3.6 3.2 3.5 3.3 3.3 3.2 3.1 3.7 3.6 ...</span></span>
+<span id="cb25-21"><a href="#cb25-21" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div></li>
 <li><p>tables(dt)</p></li>
 <li><p>summary(dt)&nbsp;</p></li>
-<li><p>vtable:: vt(dt)</p></li>
 </ul>
+</section>
 </section>
 <section id="stages-of-data-wrangling" class="level3">
 <h3 class="anchored" data-anchor-id="stages-of-data-wrangling">Stages of data wrangling</h3>
+<p>Having added the data and looked in to the structure, me have to go through 3 stages before we can do analysis especially if the record is not structured properly</p>
 <ul>
 <li><p>from record to data</p></li>
 <li><p>data to tidy data</p></li>
@@ -1762,79 +1667,79 @@ Record
 <section id="rbind" class="level3">
 <h3 class="anchored" data-anchor-id="rbind">rbind</h3>
 <p><code>rbind ( )</code> stacks data variables on top of one another from different data. tables. For this to work all the identifiers should be same on the different files that has to be compiled.</p>
-<div class="sourceCode" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| collapse: true</span></span>
-<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
-<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a>Jan <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Jan.xlsx"</span>)</span>
-<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>jandt<span class="ot">=</span><span class="fu">as.data.table</span>(Jan)</span>
-<span id="cb25-5"><a href="#cb25-5" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(jandt)</span>
-<span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a>Feb <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Feb.xlsx"</span>)</span>
-<span id="cb25-8"><a href="#cb25-8" aria-hidden="true" tabindex="-1"></a>febdt<span class="ot">=</span><span class="fu">as.data.table</span>(Feb)</span>
-<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(febdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| collapse: true</span></span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a>Jan <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Jan.xlsx"</span>)</span>
+<span id="cb26-4"><a href="#cb26-4" aria-hidden="true" tabindex="-1"></a>jandt<span class="ot">=</span><span class="fu">as.data.table</span>(Jan)</span>
+<span id="cb26-5"><a href="#cb26-5" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(jandt)</span>
+<span id="cb26-6"><a href="#cb26-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb26-7"><a href="#cb26-7" aria-hidden="true" tabindex="-1"></a>Feb <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Feb.xlsx"</span>)</span>
+<span id="cb26-8"><a href="#cb26-8" aria-hidden="true" tabindex="-1"></a>febdt<span class="ot">=</span><span class="fu">as.data.table</span>(Feb)</span>
+<span id="cb26-9"><a href="#cb26-9" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(febdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
-<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>Jan <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Jan.xlsx"</span>)</span>
-<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a>jandt<span class="ot">=</span><span class="fu">as.data.table</span>(Jan)</span>
-<span id="cb26-4"><a href="#cb26-4" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(jandt)</span>
-<span id="cb26-5"><a href="#cb26-5" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   10 obs. of  4 variables:</span></span>
-<span id="cb26-6"><a href="#cb26-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Name      : chr  "xy" "xy" "xy" "xy" ...</span></span>
-<span id="cb26-7"><a href="#cb26-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Age       : chr  "dd" "dd" "dd" "dd" ...</span></span>
-<span id="cb26-8"><a href="#cb26-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Sex       : chr  "ss" "ss" "ss" "scott" ...</span></span>
-<span id="cb26-9"><a href="#cb26-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Occupation: num  1 1 1 200 1 1 1 1 2 2</span></span>
-<span id="cb26-10"><a href="#cb26-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span>
-<span id="cb26-11"><a href="#cb26-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb26-12"><a href="#cb26-12" aria-hidden="true" tabindex="-1"></a>Feb <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Feb.xlsx"</span>)</span>
-<span id="cb26-13"><a href="#cb26-13" aria-hidden="true" tabindex="-1"></a>febdt<span class="ot">=</span><span class="fu">as.data.table</span>(Feb)</span>
-<span id="cb26-14"><a href="#cb26-14" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(febdt)</span>
-<span id="cb26-15"><a href="#cb26-15" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   10 obs. of  4 variables:</span></span>
-<span id="cb26-16"><a href="#cb26-16" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Name      : chr  "ab" "ab" "ab" "ab" ...</span></span>
-<span id="cb26-17"><a href="#cb26-17" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Age       : chr  "cc" "cc" "cc" "cc" ...</span></span>
-<span id="cb26-18"><a href="#cb26-18" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Sex       : chr  "tt" "tt" "tt" "sambu" ...</span></span>
-<span id="cb26-19"><a href="#cb26-19" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Occupation: num  3 3 3 500 2 2 2 2 2 2</span></span>
-<span id="cb26-20"><a href="#cb26-20" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a>Jan <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Jan.xlsx"</span>)</span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>jandt<span class="ot">=</span><span class="fu">as.data.table</span>(Jan)</span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(jandt)</span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   10 obs. of  4 variables:</span></span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Name      : chr  "xy" "xy" "xy" "xy" ...</span></span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Age       : chr  "dd" "dd" "dd" "dd" ...</span></span>
+<span id="cb27-8"><a href="#cb27-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Sex       : chr  "ss" "ss" "ss" "scott" ...</span></span>
+<span id="cb27-9"><a href="#cb27-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Occupation: num  1 1 1 200 1 1 1 1 2 2</span></span>
+<span id="cb27-10"><a href="#cb27-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span>
+<span id="cb27-11"><a href="#cb27-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-12"><a href="#cb27-12" aria-hidden="true" tabindex="-1"></a>Feb <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Feb.xlsx"</span>)</span>
+<span id="cb27-13"><a href="#cb27-13" aria-hidden="true" tabindex="-1"></a>febdt<span class="ot">=</span><span class="fu">as.data.table</span>(Feb)</span>
+<span id="cb27-14"><a href="#cb27-14" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(febdt)</span>
+<span id="cb27-15"><a href="#cb27-15" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   10 obs. of  4 variables:</span></span>
+<span id="cb27-16"><a href="#cb27-16" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Name      : chr  "ab" "ab" "ab" "ab" ...</span></span>
+<span id="cb27-17"><a href="#cb27-17" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Age       : chr  "cc" "cc" "cc" "cc" ...</span></span>
+<span id="cb27-18"><a href="#cb27-18" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Sex       : chr  "tt" "tt" "tt" "sambu" ...</span></span>
+<span id="cb27-19"><a href="#cb27-19" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Occupation: num  3 3 3 500 2 2 2 2 2 2</span></span>
+<span id="cb27-20"><a href="#cb27-20" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<div class="sourceCode" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| collapse: true</span></span>
-<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a><span class="fu">rbind</span>(jandt,febdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| collapse: true</span></span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a><span class="fu">rbind</span>(jandt,febdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">rbind</span>(jandt,febdt)</span>
-<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a><span class="do">##       Name    Age    Sex Occupation</span></span>
-<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a><span class="do">##     &lt;char&gt; &lt;char&gt; &lt;char&gt;      &lt;num&gt;</span></span>
-<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a><span class="do">##  1:     xy     dd     ss          1</span></span>
-<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a><span class="do">##  2:     xy     dd     ss          1</span></span>
-<span id="cb28-6"><a href="#cb28-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  3:     xy     dd     ss          1</span></span>
-<span id="cb28-7"><a href="#cb28-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  4:     xy     dd  scott        200</span></span>
-<span id="cb28-8"><a href="#cb28-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  5:     xy     dd     ss          1</span></span>
-<span id="cb28-9"><a href="#cb28-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  6:     xy     dd     ss          1</span></span>
-<span id="cb28-10"><a href="#cb28-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  7:     xy     dd     ss          1</span></span>
-<span id="cb28-11"><a href="#cb28-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  8:     xy     dd      s          1</span></span>
-<span id="cb28-12"><a href="#cb28-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  9:     xy     dd      y          2</span></span>
-<span id="cb28-13"><a href="#cb28-13" aria-hidden="true" tabindex="-1"></a><span class="do">## 10:     xy     dd      y          2</span></span>
-<span id="cb28-14"><a href="#cb28-14" aria-hidden="true" tabindex="-1"></a><span class="do">## 11:     ab     cc     tt          3</span></span>
-<span id="cb28-15"><a href="#cb28-15" aria-hidden="true" tabindex="-1"></a><span class="do">## 12:     ab     cc     tt          3</span></span>
-<span id="cb28-16"><a href="#cb28-16" aria-hidden="true" tabindex="-1"></a><span class="do">## 13:     ab     cc     tt          3</span></span>
-<span id="cb28-17"><a href="#cb28-17" aria-hidden="true" tabindex="-1"></a><span class="do">## 14:     ab     cc  sambu        500</span></span>
-<span id="cb28-18"><a href="#cb28-18" aria-hidden="true" tabindex="-1"></a><span class="do">## 15:     ab     cc     tt          2</span></span>
-<span id="cb28-19"><a href="#cb28-19" aria-hidden="true" tabindex="-1"></a><span class="do">## 16:     ab     cc     tt          2</span></span>
-<span id="cb28-20"><a href="#cb28-20" aria-hidden="true" tabindex="-1"></a><span class="do">## 17:     ab     cc     tt          2</span></span>
-<span id="cb28-21"><a href="#cb28-21" aria-hidden="true" tabindex="-1"></a><span class="do">## 18:     ab     cc     tt          2</span></span>
-<span id="cb28-22"><a href="#cb28-22" aria-hidden="true" tabindex="-1"></a><span class="do">## 19:     ab     cc     tt          2</span></span>
-<span id="cb28-23"><a href="#cb28-23" aria-hidden="true" tabindex="-1"></a><span class="do">## 20:     ab     cc     tt          2</span></span>
-<span id="cb28-24"><a href="#cb28-24" aria-hidden="true" tabindex="-1"></a><span class="do">##       Name    Age    Sex Occupation</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a><span class="fu">rbind</span>(jandt,febdt)</span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a><span class="do">##       Name    Age    Sex Occupation</span></span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a><span class="do">##     &lt;char&gt; &lt;char&gt; &lt;char&gt;      &lt;num&gt;</span></span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true" tabindex="-1"></a><span class="do">##  1:     xy     dd     ss          1</span></span>
+<span id="cb29-5"><a href="#cb29-5" aria-hidden="true" tabindex="-1"></a><span class="do">##  2:     xy     dd     ss          1</span></span>
+<span id="cb29-6"><a href="#cb29-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  3:     xy     dd     ss          1</span></span>
+<span id="cb29-7"><a href="#cb29-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  4:     xy     dd  scott        200</span></span>
+<span id="cb29-8"><a href="#cb29-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  5:     xy     dd     ss          1</span></span>
+<span id="cb29-9"><a href="#cb29-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  6:     xy     dd     ss          1</span></span>
+<span id="cb29-10"><a href="#cb29-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  7:     xy     dd     ss          1</span></span>
+<span id="cb29-11"><a href="#cb29-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  8:     xy     dd      s          1</span></span>
+<span id="cb29-12"><a href="#cb29-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  9:     xy     dd      y          2</span></span>
+<span id="cb29-13"><a href="#cb29-13" aria-hidden="true" tabindex="-1"></a><span class="do">## 10:     xy     dd      y          2</span></span>
+<span id="cb29-14"><a href="#cb29-14" aria-hidden="true" tabindex="-1"></a><span class="do">## 11:     ab     cc     tt          3</span></span>
+<span id="cb29-15"><a href="#cb29-15" aria-hidden="true" tabindex="-1"></a><span class="do">## 12:     ab     cc     tt          3</span></span>
+<span id="cb29-16"><a href="#cb29-16" aria-hidden="true" tabindex="-1"></a><span class="do">## 13:     ab     cc     tt          3</span></span>
+<span id="cb29-17"><a href="#cb29-17" aria-hidden="true" tabindex="-1"></a><span class="do">## 14:     ab     cc  sambu        500</span></span>
+<span id="cb29-18"><a href="#cb29-18" aria-hidden="true" tabindex="-1"></a><span class="do">## 15:     ab     cc     tt          2</span></span>
+<span id="cb29-19"><a href="#cb29-19" aria-hidden="true" tabindex="-1"></a><span class="do">## 16:     ab     cc     tt          2</span></span>
+<span id="cb29-20"><a href="#cb29-20" aria-hidden="true" tabindex="-1"></a><span class="do">## 17:     ab     cc     tt          2</span></span>
+<span id="cb29-21"><a href="#cb29-21" aria-hidden="true" tabindex="-1"></a><span class="do">## 18:     ab     cc     tt          2</span></span>
+<span id="cb29-22"><a href="#cb29-22" aria-hidden="true" tabindex="-1"></a><span class="do">## 19:     ab     cc     tt          2</span></span>
+<span id="cb29-23"><a href="#cb29-23" aria-hidden="true" tabindex="-1"></a><span class="do">## 20:     ab     cc     tt          2</span></span>
+<span id="cb29-24"><a href="#cb29-24" aria-hidden="true" tabindex="-1"></a><span class="do">##       Name    Age    Sex Occupation</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<p>If data is in multiple excel files, use <code>map ( )</code> and <code>rbindlist ( )</code> to compile data.</p>
-<p><code>map ( )</code> comes with <code>purr</code> package.</p>
+<section id="merge" class="level4">
+<h4 class="anchored" data-anchor-id="merge">merge</h4>
 <p>We can merge the data tables using <code>merge ( )</code> function, if there is atleast one common identifier in each row.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a>fdt<span class="ot">=</span>dt[,.(<span class="at">identifier=</span><span class="fu">as.factor</span>(idertifier),<span class="at">type.class=</span><span class="fu">as.factor</span>(type.class),<span class="at">posttest.score=</span><span class="fu">as.numeric</span>(posttest.score),<span class="at">pretest.score=</span><span class="fu">as.numeric</span>(pretest.score),<span class="at">total.likert=</span><span class="fu">as.numeric</span>(likert.total), <span class="at">sex=</span><span class="fu">as.factor</span>(sex))]</span>
-<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a>fdt<span class="ot">=</span>dt[,.(<span class="at">identifier=</span><span class="fu">as.factor</span>(idertifier),<span class="at">type.class=</span><span class="fu">as.factor</span>(type.class),<span class="at">posttest.score=</span><span class="fu">as.numeric</span>(posttest.score),<span class="at">pretest.score=</span><span class="fu">as.numeric</span>(pretest.score),<span class="at">total.likert=</span><span class="fu">as.numeric</span>(likert.total), <span class="at">sex=</span><span class="fu">as.factor</span>(sex))]</span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   identifier type.class posttest.score pretest.score total.likert    sex
@@ -1850,7 +1755,7 @@ Record
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb32"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   identifier    type.class posttest.score   pretest.score    total.likert  
@@ -1872,11 +1777,11 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb33"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="fu">attach</span>(fdt)</span>
-<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a>mean.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(posttest.score),by<span class="ot">=</span>type.class]</span>
-<span id="cb33-3"><a href="#cb33-3" aria-hidden="true" tabindex="-1"></a>mean.pre.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(pretest.score),by<span class="ot">=</span>type.class]</span>
-<span id="cb33-4"><a href="#cb33-4" aria-hidden="true" tabindex="-1"></a>mean.likert<span class="ot">=</span> fdt[,<span class="fu">mean</span>(total.likert),by<span class="ot">=</span>type.class]</span>
-<span id="cb33-5"><a href="#cb33-5" aria-hidden="true" tabindex="-1"></a>mean.pre.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb34"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a><span class="fu">attach</span>(fdt)</span>
+<span id="cb34-2"><a href="#cb34-2" aria-hidden="true" tabindex="-1"></a>mean.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(posttest.score),by<span class="ot">=</span>type.class]</span>
+<span id="cb34-3"><a href="#cb34-3" aria-hidden="true" tabindex="-1"></a>mean.pre.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(pretest.score),by<span class="ot">=</span>type.class]</span>
+<span id="cb34-4"><a href="#cb34-4" aria-hidden="true" tabindex="-1"></a>mean.likert<span class="ot">=</span> fdt[,<span class="fu">mean</span>(total.likert),by<span class="ot">=</span>type.class]</span>
+<span id="cb34-5"><a href="#cb34-5" aria-hidden="true" tabindex="-1"></a>mean.pre.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   type.class       V1
@@ -1886,7 +1791,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb35"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a>mean.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb36"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a>mean.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   type.class       V1
@@ -1896,7 +1801,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb37"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb37-1"><a href="#cb37-1" aria-hidden="true" tabindex="-1"></a>mean.likert</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb38"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb38-1"><a href="#cb38-1" aria-hidden="true" tabindex="-1"></a>mean.likert</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   type.class       V1
@@ -1906,7 +1811,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb39"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb39-1"><a href="#cb39-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(posttest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb40"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(posttest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -1917,7 +1822,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb40"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(pretest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb41"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(pretest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -1928,7 +1833,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb41"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb42"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -1939,7 +1844,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb42"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>sex)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb43"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb43-1"><a href="#cb43-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>sex)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -1952,7 +1857,7 @@ Record
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb43"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb43-1"><a href="#cb43-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(posttest.score)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb44"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb44-1"><a href="#cb44-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(posttest.score)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -1965,7 +1870,7 @@ W = 0.92716, p-value = 0.004812</code></pre>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb45"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb45-1"><a href="#cb45-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score,pretest.score,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb46"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb46-1"><a href="#cb46-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score,pretest.score,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -1984,7 +1889,7 @@ mean of x mean of y
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb47"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb47-1"><a href="#cb47-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score<span class="sc">~</span>type.class,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb48"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb48-1"><a href="#cb48-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score<span class="sc">~</span>type.class,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -2003,7 +1908,7 @@ mean in group physical  mean in group virtual
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb49"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb49-1"><a href="#cb49-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(total.likert)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb50"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb50-1"><a href="#cb50-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(total.likert)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -2016,7 +1921,7 @@ W = 0.96471, p-value = 0.1479</code></pre>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb51"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb51-1"><a href="#cb51-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(total.likert<span class="sc">~</span>type.class, <span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb52"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb52-1"><a href="#cb52-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(total.likert<span class="sc">~</span>type.class, <span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -2033,35 +1938,17 @@ mean in group physical  mean in group virtual
 </div>
 </div>
 </section>
-<section id="interpretation" class="level3">
-<h3 class="anchored" data-anchor-id="interpretation">Interpretation</h3>
-<ol type="1">
-<li><p><strong>Data:&nbsp;<code>total.likert</code>&nbsp;by&nbsp;<code>type.class</code></strong>: The test is comparing the&nbsp;<code>total.likert</code>&nbsp;scores between two groups defined by&nbsp;<code>type.class</code>&nbsp;(physical and virtual).</p></li>
-<li><p><strong>t = 5.9265</strong>: This is the t-statistic value. A larger absolute value indicates a greater difference between the groups.</p></li>
-<li><p><strong>df = 42.974</strong>: This is the degrees of freedom, adjusted for Welch’s t-test. It’s not an integer because the test accounts for unequal variances.</p></li>
-<li><p><strong>p-value = 4.686e-07</strong>: This is the p-value. A very small p-value (much less than 0.05) indicates strong evidence against the null hypothesis, suggesting a significant difference between the groups.</p></li>
-<li><p><strong>Alternative Hypothesis</strong>: The test is checking if the true difference in means between the physical and virtual groups is not equal to 0.</p></li>
-<li><p><strong>95% Confidence Interval: 0.2172646 to 0.4414021</strong>: This interval suggests that the true difference in means is between 0.217 and 0.441, with 95% confidence. This range does not include 0, supporting the conclusion that there is a significant difference between the groups.</p></li>
-<li><p><strong>Sample Estimates</strong>:</p>
-<ul>
-<li><p><strong>Mean in group physical</strong>: 3.833333</p></li>
-<li><p><strong>Mean in group virtual</strong>: 3.504000</p></li>
-</ul>
-<p>These are the average&nbsp;<code>total.likert</code>&nbsp;scores for the physical and virtual groups, respectively. The physical group has a higher mean score.</p></li>
-</ol>
-</section>
-<section id="summary" class="level3">
-<h3 class="anchored" data-anchor-id="summary">Summary</h3>
-<p>The results indicate a significant difference in&nbsp;<code>total.likert</code>&nbsp;scores between the physical and virtual groups, with the physical group having a higher average score. The very low p-value confirms the statistical significance of this difference. The confidence interval provides a range for the difference in means, further supporting the conclusion that the difference is meaningful and not due to random chance.</p>
 </section>
 </section>
 <section id="readxl-and-map" class="level2">
 <h2 class="anchored" data-anchor-id="readxl-and-map">readxl() and map()</h2>
+<p>If data is in multiple excel files, use <code>readxl( )</code>, <code>map ( )</code> and <code>rbindlist ( )</code> to compile data.</p>
+<p><code>map ( )</code> comes with <code>purr</code> package.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb53"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb53-1"><a href="#cb53-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
-<span id="cb53-2"><a href="#cb53-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(purrr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb54"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb54-1"><a href="#cb54-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb54-2"><a href="#cb54-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(purrr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stderr">
 <pre><code>
@@ -2074,22 +1961,22 @@ Attaching package: 'purrr'</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb56"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb56-1"><a href="#cb56-1" aria-hidden="true" tabindex="-1"></a>filelist<span class="ot">=</span><span class="fu">list.files</span>(<span class="at">path=</span><span class="st">"/Users/drkmenon/Sync/knotesquarto/Biomedical/Research Methodology"</span>,<span class="at">pattern=</span><span class="st">'xlsx'</span>,<span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
-<span id="cb56-2"><a href="#cb56-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb56-3"><a href="#cb56-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb56-4"><a href="#cb56-4" aria-hidden="true" tabindex="-1"></a>process.file<span class="ot">=</span><span class="cf">function</span>(df) {</span>
-<span id="cb56-5"><a href="#cb56-5" aria-hidden="true" tabindex="-1"></a>   sales<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">4</span>]</span>
-<span id="cb56-6"><a href="#cb56-6" aria-hidden="true" tabindex="-1"></a>   employee<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">3</span>]</span>
-<span id="cb56-7"><a href="#cb56-7" aria-hidden="true" tabindex="-1"></a>   <span class="fu">return</span>(<span class="fu">data.table</span>(<span class="at">sales=</span>sales,<span class="at">employee=</span>employee))</span>
-<span id="cb56-8"><a href="#cb56-8" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb56-9"><a href="#cb56-9" aria-hidden="true" tabindex="-1"></a>   </span>
-<span id="cb56-10"><a href="#cb56-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb56-11"><a href="#cb56-11" aria-hidden="true" tabindex="-1"></a>compiled.data<span class="ot">=</span>filelist <span class="sc">|&gt;</span></span>
-<span id="cb56-12"><a href="#cb56-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(read_excel) <span class="sc">|&gt;</span></span>
-<span id="cb56-13"><a href="#cb56-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(process.file) <span class="sc">|&gt;</span></span>
-<span id="cb56-14"><a href="#cb56-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rbindlist</span>()</span>
-<span id="cb56-15"><a href="#cb56-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb56-16"><a href="#cb56-16" aria-hidden="true" tabindex="-1"></a>compiled.data</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb57"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb57-1"><a href="#cb57-1" aria-hidden="true" tabindex="-1"></a>filelist<span class="ot">=</span><span class="fu">list.files</span>(<span class="at">path=</span><span class="st">"/Users/drkmenon/Sync/knotesquarto/Biomedical/Research Methodology"</span>,<span class="at">pattern=</span><span class="st">'xlsx'</span>,<span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb57-2"><a href="#cb57-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb57-3"><a href="#cb57-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb57-4"><a href="#cb57-4" aria-hidden="true" tabindex="-1"></a>process.file<span class="ot">=</span><span class="cf">function</span>(df) {</span>
+<span id="cb57-5"><a href="#cb57-5" aria-hidden="true" tabindex="-1"></a>   sales<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">4</span>]</span>
+<span id="cb57-6"><a href="#cb57-6" aria-hidden="true" tabindex="-1"></a>   employee<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">3</span>]</span>
+<span id="cb57-7"><a href="#cb57-7" aria-hidden="true" tabindex="-1"></a>   <span class="fu">return</span>(<span class="fu">data.table</span>(<span class="at">sales=</span>sales,<span class="at">employee=</span>employee))</span>
+<span id="cb57-8"><a href="#cb57-8" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb57-9"><a href="#cb57-9" aria-hidden="true" tabindex="-1"></a>   </span>
+<span id="cb57-10"><a href="#cb57-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb57-11"><a href="#cb57-11" aria-hidden="true" tabindex="-1"></a>compiled.data<span class="ot">=</span>filelist <span class="sc">|&gt;</span></span>
+<span id="cb57-12"><a href="#cb57-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(read_excel) <span class="sc">|&gt;</span></span>
+<span id="cb57-13"><a href="#cb57-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(process.file) <span class="sc">|&gt;</span></span>
+<span id="cb57-14"><a href="#cb57-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rbindlist</span>()</span>
+<span id="cb57-15"><a href="#cb57-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb57-16"><a href="#cb57-16" aria-hidden="true" tabindex="-1"></a>compiled.data</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>    sales.Occupation employee.Sex

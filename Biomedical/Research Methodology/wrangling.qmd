@@ -21,7 +21,7 @@ flowchart LR
 
 4.  Make sure that what we does is doing what we want at every step. 
 
-`r` is an excellent lower level language for data wrangling. The newer `data.table` make it even more faster and intuitive. `data. table` package in `r` which is faster than tidyverse. It is mainly used for data manipulation . As it retains native `data. frame`, all functions written for base r and tidyverse work with data. table. 
+`r` is an excellent lower level language for data wrangling. The newer `data.table` make it even more faster and intuitive. `data. table` package in `r` is faster than not only tidyverse, it beats most other languages including python. Mainly used for data manipulation, it retains native `data. frame` and all functions written for base r and tidyverse work with data. table. 
 
 eg: `% > %` is called pipe function. It essentially means 'take whatever on the left side and make it the first argument for anything on the right Side'. It comes with tidyverse package. It can also be used with `data.table.` [^1]
 
@@ -29,7 +29,7 @@ eg: `% > %` is called pipe function. It essentially means 'take whatever on the
 
 ## data.table
 
-`data.table` looks like `data.frame` superficially but it is lot more efficient, fast and allow numerous actions by simple commants.
+`data.table` looks like `data.frame` superficially but it is lot more efficient, fast and allow numerous actions by simple commands.
 
 ```{mermaid}
 flowchart TD
@@ -69,7 +69,18 @@ i --> ordering
 
 #### Sub-setting
 
-Let us take an example of data set dt
+Let us take an example,
+
+We have a data set called `virtual.csv` stored in our computer. The data belongs to a quasi experimental study which compared the effectiveness of virtual class room with respect to physical class room. It also compared the student perception of the two modalities on a likert scale. Study divided students in to two groups, virtual and physical and asked following questions:
+
+-   Is there any difference in the post test score of students in virtual and physical group?
+
+```{=html}
+<!-- -->
+```
+-   Is there any difference in the student perception in virtual and physical group about the modality of delivery of class?
+
+We can bring it to `r` environment using `fread` command in the data.table library.
 
 ``` r
 library(data.table)
@@ -81,11 +92,15 @@ library(data.table)
 dt=fread("virtual.csv")
 ```
 
-It contains a set of simple data comparing the performance of medical students in physical classes vs virtual classes and their perceptions. Assume, we want to see only the virtual class students. This can be easily achieved by sub-setting the type.class key in the data by "virtual" as shown below.
+We can see that it contains a set of simple data comparing the performance of medical students in physical classes vs virtual classes and their perceptions.
 
 ##### Select only virtual data
 
+Assume, we want to see only the virtual class students. This can be easily achieved by sub-setting the type.class key in the data by "virtual" as shown below.
+
 ``` r
+library(data.table)
+dt=fread("virtual.csv")
 dtv=dt[type.class == "virtual"]
 head(dtv)
 ```
@@ -185,13 +200,13 @@ dtc
 To calculate the mean post test score of the virtual class, following code can be used.
 
 ``` r
-dtm=dt[type.class=="virtual",mean(posttest.score)]
+dtm=dtc[type.class=="virtual",mean(posttest.score)]
 dtm
 ```
 
 ```{r}
 #| collapse: true
-dtm=dt[type.class=="virtual",mean(posttest.score)]
+dtm=dtc[type.class=="virtual",mean(posttest.score)]
 dtm
 ```
 
@@ -204,27 +219,27 @@ To create or delete column, we use `:=`, called walrus operator.[^4]
 [^4]: The walrus is a large pinniped marine mammal with discontinuous distribution about the North Pole in the Arctic Ocean and subarctic seas of the Northern Hemisphere. 
 
 ``` r
-dtv[,mean.pt.score:=mean(posttest.score)]
-dtv
+dtvm=dtc[,mean.pt.score:=mean(posttest.score)]
+dtvm
 ```
 
 ```{r}
 #| collapse: true
-dtvm=dtv[,mean.pt.score:=mean(posttest.score)]
-dtvm
+dtvm=dtc[,mean.pt.score:=mean(posttest.score)]
+head(dtvm)
 ```
 
 To delete mean.pt.score,
 
 ``` r
-dtv[,mean.pt.score:=NULL]
-dtv
+dtvn=dtvm[,mean.pt.score:=NULL]
+dtvn
 ```
 
 ```{r}
 #| collapse: true
-dtvm[,mean.pt.score:=NULL]
-dtvm
+dtvn=dtvm[,mean.pt.score:=NULL]
+head(dtvn)
 ```
 
 **`by`**`allow grouping`
@@ -253,19 +268,28 @@ dtmn
 
 ### Adding data to r and reading it as data.table
 
+We may once more visit how to add data to `r` using data table and try to do simple analysis
+
 ``` r
 library(data.table)
 dt=fread("virtual.csv")
-class(df)
-str(dt)
 ```
 
 ```{r}
 #| collapse: true
 library(data.table)
 dt=fread("virtual.csv")
-class(df)
-str(dt)
+```
+
+### How to look at data
+
+#### vtable
+
+`vtable` is a package that helps to display the structure better than other commands.
+
+``` r
+#| collapse: true
+vtable::vt(dt)
 ```
 
 ```{r}
@@ -273,7 +297,7 @@ str(dt)
 vtable::vt(dt)
 ```
 
-### How to look at data 
+#### Other methods
 
 -   str(dt) 
 
@@ -286,9 +310,9 @@ vtable::vt(dt)
 
 -   summary(dt) 
 
--   vtable:: vt(dt)
-
 ### Stages of data wrangling
+
+Having added the data and looked in to the structure, me have to go through 3 stages before we can do analysis especially if the record is not structured properly
 
 -   from record to data
 
@@ -354,9 +378,7 @@ rbind(jandt,febdt)
 rbind(jandt,febdt)
 ```
 
-If data is in multiple excel files, use `map ( )` and `rbindlist ( )` to compile data.
-
-`map ( )` comes with `purr` package.
+#### merge
 
 We can merge the data tables using `merge ( )` function, if there is atleast one common identifier in each row.
 
@@ -400,33 +422,11 @@ shapiro.test(total.likert)
 t.test(total.likert~type.class, var.equal=FALSE)
 ```
 
-### Interpretation
-
-1.  **Data: `total.likert` by `type.class`**: The test is comparing the `total.likert` scores between two groups defined by `type.class` (physical and virtual).
-
-2.  **t = 5.9265**: This is the t-statistic value. A larger absolute value indicates a greater difference between the groups.
-
-3.  **df = 42.974**: This is the degrees of freedom, adjusted for Welch's t-test. It's not an integer because the test accounts for unequal variances.
-
-4.  **p-value = 4.686e-07**: This is the p-value. A very small p-value (much less than 0.05) indicates strong evidence against the null hypothesis, suggesting a significant difference between the groups.
-
-5.  **Alternative Hypothesis**: The test is checking if the true difference in means between the physical and virtual groups is not equal to 0.
-
-6.  **95% Confidence Interval: 0.2172646 to 0.4414021**: This interval suggests that the true difference in means is between 0.217 and 0.441, with 95% confidence. This range does not include 0, supporting the conclusion that there is a significant difference between the groups.
-
-7.  **Sample Estimates**:
-
-    -   **Mean in group physical**: 3.833333
-
-    -   **Mean in group virtual**: 3.504000
-
-    These are the average `total.likert` scores for the physical and virtual groups, respectively. The physical group has a higher mean score.
-
-### Summary
-
-The results indicate a significant difference in `total.likert` scores between the physical and virtual groups, with the physical group having a higher average score. The very low p-value confirms the statistical significance of this difference. The confidence interval provides a range for the difference in means, further supporting the conclusion that the difference is meaningful and not due to random chance.
-
 ## readxl() and map()
+
+If data is in multiple excel files, use `readxl( )`, `map ( )` and `rbindlist ( )` to compile data.
+
+`map ( )` comes with `purr` package.
 
 ```{r}
 library(readxl)
