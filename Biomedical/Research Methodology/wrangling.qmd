@@ -75,9 +75,8 @@ We have a data set called `virtual.csv` stored in our computer. The data belongs
 
 -   Is there any difference in the post test score of students in virtual and physical group?
 
-```{=html}
 <!-- -->
-```
+
 -   Is there any difference in the student perception in virtual and physical group about the modality of delivery of class?
 
 We can bring it to `r` environment using `fread` command in the data.table library.
@@ -266,6 +265,92 @@ dtmn
 
 `data.table` allow fast reading of data in to data table
 
+```{mermaid}
+flowchart TD
+  A[multiple data tables] --> B(map)
+  B --> C(rbind or rbindlist)
+  C --> D[Stack one on top of another column]
+  A --> E[merge]
+  E --> F(attach raws to the side of raws)
+```
+
+### rbind
+
+`rbind ( )` stacks data variables on top of one another from different data. tables. For this to work all the identifiers should be same on the different files that has to be compiled.
+
+``` r
+#| collapse: true
+library(readxl)
+Jan <- read_excel("Jan.xlsx")
+jandt=as.data.table(Jan)
+str(jandt)
+
+Feb <- read_excel("Feb.xlsx")
+febdt=as.data.table(Feb)
+str(febdt)
+```
+
+```{r}
+#| collapse: true
+library(readxl)
+Jan <- read_excel("Jan.xlsx")
+jandt=as.data.table(Jan)
+str(jandt)
+
+Feb <- read_excel("Feb.xlsx")
+febdt=as.data.table(Feb)
+str(febdt)
+
+```
+
+``` r
+#| collapse: true
+rbind(jandt,febdt)
+```
+
+```{r}
+#| collapse: true
+rbind(jandt,febdt)
+```
+
+#### merge
+
+We can merge the data tables using `merge ( )` function, if there is at-least one common identifier in each row.
+
+eg: Assume we have two data tables with a common identifier ID.
+
+```{r}
+#| collapse: true
+# Load the data.table package
+library(data.table)
+
+# Create the first data table with names and ages
+dt1 <- data.table(
+  id=c("1","2","3","4","5"),
+  Name = c("Scott", "Sambu", "Shibu", "Diana", "Echu"),
+  Age = c(28, 34, 23, 41, 30)
+)
+
+# Create the second data table with sex and occupation
+dt2 <- data.table(
+  id=c("1","2","3","4","5"),
+  Sex = c("Female", "Male", "Male", "Female", "Male"),
+  Occupation = c("Fraudster", "Doctor", "Artist", "Teacher", "Chef")
+)
+
+# Print the data tables to verify
+print(dt1)
+print(dt2)
+```
+
+Now we can merge dt1 and dt2 using `merge( )` function
+
+```{r}
+#|collapse: TRUE
+dtf=merge.data.table(dt1,dt2, by="id")
+head(dtf)
+```
+
 ### Adding data to r and reading it as data.table
 
 We may once more visit how to add data to `r` using data table and try to do simple analysis
@@ -329,58 +414,6 @@ Having added the data and looked in to the structure, me have to go through 3 st
 
 'Raw source', not in workable format. 
 :::
-
-```{mermaid}
-flowchart TD
-  A[multiple data tables] --> B(map)
-  B --> C(rbind or rbindlist)
-  C --> D[Stack one on top of another column]
-  A --> E[merge]
-  E --> F(attach raws to the side of raws)
-```
-
-### rbind
-
-`rbind ( )` stacks data variables on top of one another from different data. tables. For this to work all the identifiers should be same on the different files that has to be compiled.
-
-``` r
-#| collapse: true
-library(readxl)
-Jan <- read_excel("Jan.xlsx")
-jandt=as.data.table(Jan)
-str(jandt)
-
-Feb <- read_excel("Feb.xlsx")
-febdt=as.data.table(Feb)
-str(febdt)
-```
-
-```{r}
-#| collapse: true
-library(readxl)
-Jan <- read_excel("Jan.xlsx")
-jandt=as.data.table(Jan)
-str(jandt)
-
-Feb <- read_excel("Feb.xlsx")
-febdt=as.data.table(Feb)
-str(febdt)
-
-```
-
-``` r
-#| collapse: true
-rbind(jandt,febdt)
-```
-
-```{r}
-#| collapse: true
-rbind(jandt,febdt)
-```
-
-#### merge
-
-We can merge the data tables using `merge ( )` function, if there is atleast one common identifier in each row.
 
 ```{r}
 fdt=dt[,.(identifier=as.factor(idertifier),type.class=as.factor(type.class),posttest.score=as.numeric(posttest.score),pretest.score=as.numeric(pretest.score),total.likert=as.numeric(likert.total), sex=as.factor(sex))]
