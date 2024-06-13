@@ -315,6 +315,17 @@ rbind(jandt,febdt)
 
 #### merge
 
+```{mermaid}
+flowchart TD
+  A[merge] --> B(outer join)
+  B --> C(use all=TRUE)
+  A --> D[left join]
+  D --> E[use all.x=TRUE]
+  A --> F(right join)
+  F --> G(use all.y=TRUE)
+ 
+```
+
 We can merge the data tables using `merge ( )` function, if there is at-least one common identifier in each row.
 
 eg: Assume we have two data tables with a common identifier ID.
@@ -347,7 +358,7 @@ Now we can merge dt1 and dt2 using `merge( )` function
 
 ```{r}
 #|collapse: TRUE
-dtf=merge.data.table(dt1,dt2, by="id")
+dtf=merge.data.table(dt1,dt2, by="id", all = TRUE)
 head(dtf)
 ```
 
@@ -379,6 +390,99 @@ compiled.data=filelist |>
 
 compiled.data
 
+```
+
+## Data to tidy data
+
+A tidy data should satisfy following criteria
+
+-   Each variable forms a column
+
+-   Each observation should form a row
+
+-   Each observation unit forms a table
+
+In tidy data there are two types of data points
+
+-   Identifying variable (key)
+
+-   Measures/Values
+
+eg:
+
+| ID  | Person | Points | Consumption |
+|-----|--------|--------|-------------|
+| 1   | scut   | 1      | 100         |
+| 2   | sambu  | 30     | 10          |
+| 3   | shibu  | 50     | 5           |
+
+: An example tidy data table
+
+## Untidy data
+
+Following data is not so tidy
+
+| ID  | Religion | 10-20k | 20-30k | \>30k |
+|-----|----------|--------|--------|-------|
+| Jew | Jew      | 100    | 20     | 10    |
+| Chr | Chr      | 200    | 40     | 15    |
+| Hin | Hin      | 2      | 30     | 500   |
+
+: Not so tidy data
+
+### How to tidy data
+
+`melt ( )` to pivot long and `dcast( )` for pivot wide
+
+::: callout-note
+### melt
+
+It takes a single row of N columns and turn it in to N rows in a single column, using keys
+:::
+
+`melt ( )` asks for
+
+-   data.table
+
+-   id.vars
+
+-   measure.vars (Column names)
+
+-   variable.name (new name)
+
+-   value.name (new name)
+
+#### Syntax
+
+``` r
+df |>
+
+melt(measure.vars=patterns='^xyz',
+     variable.name= "",
+     value.name='')
+```
+
+```{r}
+#| collapse: true
+wd=data.table(
+  ID=c(1,2,3),
+  Religion=c("jew","chr","hin"),
+  "10-20k"=c(100,200,2),
+  "20-30k"=c(20,40,30),
+  ">30k"=c(10,15,500)
+)
+head(wd)
+```
+
+#### Make data.table "wd" long
+
+```{r}
+#| collapse: true
+wd |>
+melt(measure.vars = patterns('k'),
+    variable.name = "Income",
+    value.name = "Number"
+  )
 ```
 
 ### Adding data to r and reading it as data.table

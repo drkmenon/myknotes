@@ -1545,6 +1545,25 @@ by --&gt; grouping
 </div>
 <section id="merge" class="level4">
 <h4 class="anchored" data-anchor-id="merge">merge</h4>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  A[merge] --&gt; B(outer join)
+  B --&gt; C(use all=TRUE)
+  A --&gt; D[left join]
+  D --&gt; E[use all.x=TRUE]
+  A --&gt; F(right join)
+  F --&gt; G(use all.y=TRUE)
+ 
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 <p>We can merge the data tables using <code>merge ( )</code> function, if there is at-least one common identifier in each row.</p>
 <p>eg: Assume we have two data tables with a common identifier ID.</p>
 <div class="cell">
@@ -1591,7 +1610,7 @@ by --&gt; grouping
 <details class="code-fold">
 <summary>Code</summary>
 <div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="co">#|collapse: TRUE</span></span>
-<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>dtf<span class="ot">=</span><span class="fu">merge.data.table</span>(dt1,dt2, <span class="at">by=</span><span class="st">"id"</span>)</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>dtf<span class="ot">=</span><span class="fu">merge.data.table</span>(dt1,dt2, <span class="at">by=</span><span class="st">"id"</span>, <span class="at">all =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dtf)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
@@ -1918,7 +1937,7 @@ Record
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-26-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-27-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -1929,7 +1948,7 @@ Record
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-26-2.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-27-2.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -1940,7 +1959,7 @@ Record
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-26-3.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-27-3.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -1951,7 +1970,7 @@ Record
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-26-4.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-27-4.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -1969,7 +1988,7 @@ Record
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-27-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-28-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -1980,7 +1999,7 @@ Record
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-27-2.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-28-2.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
