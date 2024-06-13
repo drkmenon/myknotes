@@ -841,12 +841,19 @@ window.Quarto = {
   <li><a href="#ij-and-by" id="toc-ij-and-by" class="nav-link" data-scroll-target="#ij-and-by">i,j and by</a></li>
   <li><a href="#aggregation" id="toc-aggregation" class="nav-link" data-scroll-target="#aggregation">Aggregation</a></li>
   <li><a href="#rbind" id="toc-rbind" class="nav-link" data-scroll-target="#rbind">rbind</a></li>
+  </ul></li>
+  <li><a href="#readxl-and-map" id="toc-readxl-and-map" class="nav-link" data-scroll-target="#readxl-and-map">readxl() and map()</a>
+  <ul class="collapse">
   <li><a href="#adding-data-to-r-and-reading-it-as-data.table" id="toc-adding-data-to-r-and-reading-it-as-data.table" class="nav-link" data-scroll-target="#adding-data-to-r-and-reading-it-as-data.table">Adding data to r and reading it as data.table</a></li>
   <li><a href="#how-to-look-at-data" id="toc-how-to-look-at-data" class="nav-link" data-scroll-target="#how-to-look-at-data">How to look at data</a></li>
   <li><a href="#stages-of-data-wrangling" id="toc-stages-of-data-wrangling" class="nav-link" data-scroll-target="#stages-of-data-wrangling">Stages of data wrangling</a></li>
   <li><a href="#process-of-wrangling" id="toc-process-of-wrangling" class="nav-link" data-scroll-target="#process-of-wrangling">Process of wrangling</a></li>
+  <li><a href="#summary-of-data" id="toc-summary-of-data" class="nav-link" data-scroll-target="#summary-of-data">Summary of data</a></li>
+  <li><a href="#check-for-normality" id="toc-check-for-normality" class="nav-link" data-scroll-target="#check-for-normality">Check for normality</a></li>
+  <li><a href="#test-for-normality" id="toc-test-for-normality" class="nav-link" data-scroll-target="#test-for-normality">Test for normality</a></li>
+  <li><a href="#welch-t-test" id="toc-welch-t-test" class="nav-link" data-scroll-target="#welch-t-test">Welch t test</a></li>
+  <li><a href="#shapiro-test-for-total.likert" id="toc-shapiro-test-for-total.likert" class="nav-link" data-scroll-target="#shapiro-test-for-total.likert">Shapiro test for total.likert</a></li>
   </ul></li>
-  <li><a href="#readxl-and-map" id="toc-readxl-and-map" class="nav-link" data-scroll-target="#readxl-and-map">readxl() and map()</a></li>
   </ul>
 </nav>
     </div>
@@ -1600,16 +1607,70 @@ by --&gt; grouping
 </div>
 </section>
 </section>
-<section id="adding-data-to-r-and-reading-it-as-data.table" class="level3">
-<h3 class="anchored" data-anchor-id="adding-data-to-r-and-reading-it-as-data.table">Adding data to r and reading it as data.table</h3>
-<p>We may once more visit how to add data to <code>r</code> using data table and try to do simple analysis</p>
-<div class="sourceCode" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
-<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="readxl-and-map" class="level2">
+<h2 class="anchored" data-anchor-id="readxl-and-map">readxl() and map()</h2>
+<p>If data is in multiple excel files, use <code>readxl( )</code>, <code>map ( )</code> and <code>rbindlist ( )</code> to compile data.</p>
+<p><code>map ( )</code> comes with <code>purr</code> package.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
-<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(purrr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stderr">
+<pre><code>
+Attaching package: 'purrr'</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>The following object is masked from 'package:data.table':
+
+    transpose</code></pre>
+</div>
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>filelist<span class="ot">=</span><span class="fu">list.files</span>(<span class="at">path=</span><span class="st">"/Users/drkmenon/Sync/knotesquarto/Biomedical/Research Methodology"</span>,<span class="at">pattern=</span><span class="st">'xlsx'</span>,<span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-3"><a href="#cb31-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-4"><a href="#cb31-4" aria-hidden="true" tabindex="-1"></a>process.file<span class="ot">=</span><span class="cf">function</span>(df) {</span>
+<span id="cb31-5"><a href="#cb31-5" aria-hidden="true" tabindex="-1"></a>   sales<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">4</span>]</span>
+<span id="cb31-6"><a href="#cb31-6" aria-hidden="true" tabindex="-1"></a>   employee<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">3</span>]</span>
+<span id="cb31-7"><a href="#cb31-7" aria-hidden="true" tabindex="-1"></a>   <span class="fu">return</span>(<span class="fu">data.table</span>(<span class="at">sales=</span>sales,<span class="at">employee=</span>employee))</span>
+<span id="cb31-8"><a href="#cb31-8" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb31-9"><a href="#cb31-9" aria-hidden="true" tabindex="-1"></a>   </span>
+<span id="cb31-10"><a href="#cb31-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-11"><a href="#cb31-11" aria-hidden="true" tabindex="-1"></a>compiled.data<span class="ot">=</span>filelist <span class="sc">|&gt;</span></span>
+<span id="cb31-12"><a href="#cb31-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(read_excel) <span class="sc">|&gt;</span></span>
+<span id="cb31-13"><a href="#cb31-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(process.file) <span class="sc">|&gt;</span></span>
+<span id="cb31-14"><a href="#cb31-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rbindlist</span>()</span>
+<span id="cb31-15"><a href="#cb31-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-16"><a href="#cb31-16" aria-hidden="true" tabindex="-1"></a>compiled.data</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>    sales.Occupation employee.Sex
+               &lt;num&gt;       &lt;char&gt;
+ 1:                3           tt
+ 2:                3           tt
+ 3:                3           tt
+ 4:              500        sambu
+ 5:                2           tt
+ 6:                1           ss
+ 7:                1           ss
+ 8:                1           ss
+ 9:              200        scott
+10:                1           ss</code></pre>
+</div>
+</div>
+<section id="adding-data-to-r-and-reading-it-as-data.table" class="level3">
+<h3 class="anchored" data-anchor-id="adding-data-to-r-and-reading-it-as-data.table">Adding data to r and reading it as data.table</h3>
+<p>We may once more visit how to add data to <code>r</code> using data table and try to do simple analysis</p>
+<div class="sourceCode" id="cb33"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
+<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb34"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
+<span id="cb34-2"><a href="#cb34-2" aria-hidden="true" tabindex="-1"></a>dt<span class="ot">=</span><span class="fu">fread</span>(<span class="st">"virtual.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 </section>
@@ -1618,12 +1679,12 @@ by --&gt; grouping
 <section id="vtable" class="level4">
 <h4 class="anchored" data-anchor-id="vtable">vtable</h4>
 <p><code>vtable</code> is a package that helps to display the structure better than other commands.</p>
-<div class="sourceCode" id="cb30"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| collapse: true</span></span>
-<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a>vtable<span class="sc">::</span><span class="fu">vt</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb35"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| collapse: true</span></span>
+<span id="cb35-2"><a href="#cb35-2" aria-hidden="true" tabindex="-1"></a>vtable<span class="sc">::</span><span class="fu">vt</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>vtable<span class="sc">::</span><span class="fu">vt</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb36"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a>vtable<span class="sc">::</span><span class="fu">vt</span>(dt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
@@ -1740,27 +1801,27 @@ by --&gt; grouping
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb32"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(dt)</span>
-<span id="cb32-2"><a href="#cb32-2" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   49 obs. of  18 variables:</span></span>
-<span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ idertifier    : chr  "VIR1" "VIR2" "VIR3" "VIR4" ...</span></span>
-<span id="cb32-4"><a href="#cb32-4" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ type.class    : chr  "virtual" "virtual" "virtual" "virtual" ...</span></span>
-<span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.score : int  40 40 60 40 60 60 40 40 20 60 ...</span></span>
-<span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.rank  : int  2 2 3 2 3 3 2 2 1 3 ...</span></span>
-<span id="cb32-7"><a href="#cb32-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.score: int  100 95 85 70 75 90 80 60 90 90 ...</span></span>
-<span id="cb32-8"><a href="#cb32-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.rank : int  5 5 5 4 4 5 4 3 5 5 ...</span></span>
-<span id="cb32-9"><a href="#cb32-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ sex           : int  1 1 2 2 1 1 2 2 2 2 ...</span></span>
-<span id="cb32-10"><a href="#cb32-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.1      : int  3 3 4 5 4 3 4 3 4 3 ...</span></span>
-<span id="cb32-11"><a href="#cb32-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.2      : int  4 5 4 4 4 5 4 5 5 5 ...</span></span>
-<span id="cb32-12"><a href="#cb32-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.3      : int  3 4 3 4 3 3 4 3 3 4 ...</span></span>
-<span id="cb32-13"><a href="#cb32-13" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.4      : int  3 2 3 2 3 2 3 2 3 2 ...</span></span>
-<span id="cb32-14"><a href="#cb32-14" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.5      : int  4 3 4 3 4 3 4 2 4 3 ...</span></span>
-<span id="cb32-15"><a href="#cb32-15" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.6      : int  4 4 3 4 3 4 3 3 4 4 ...</span></span>
-<span id="cb32-16"><a href="#cb32-16" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.7      : int  4 4 4 4 4 3 3 3 3 3 ...</span></span>
-<span id="cb32-17"><a href="#cb32-17" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.8      : int  2 3 2 3 2 3 2 4 4 4 ...</span></span>
-<span id="cb32-18"><a href="#cb32-18" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.9      : int  4 4 3 4 4 3 3 4 4 4 ...</span></span>
-<span id="cb32-19"><a href="#cb32-19" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.10     : int  2 4 2 2 2 4 2 2 3 4 ...</span></span>
-<span id="cb32-20"><a href="#cb32-20" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.total  : num  3.3 3.6 3.2 3.5 3.3 3.3 3.2 3.1 3.7 3.6 ...</span></span>
-<span id="cb32-21"><a href="#cb32-21" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb37"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb37-1"><a href="#cb37-1" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(dt)</span>
+<span id="cb37-2"><a href="#cb37-2" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   49 obs. of  18 variables:</span></span>
+<span id="cb37-3"><a href="#cb37-3" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ idertifier    : chr  "VIR1" "VIR2" "VIR3" "VIR4" ...</span></span>
+<span id="cb37-4"><a href="#cb37-4" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ type.class    : chr  "virtual" "virtual" "virtual" "virtual" ...</span></span>
+<span id="cb37-5"><a href="#cb37-5" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.score : int  40 40 60 40 60 60 40 40 20 60 ...</span></span>
+<span id="cb37-6"><a href="#cb37-6" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ pretest.rank  : int  2 2 3 2 3 3 2 2 1 3 ...</span></span>
+<span id="cb37-7"><a href="#cb37-7" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.score: int  100 95 85 70 75 90 80 60 90 90 ...</span></span>
+<span id="cb37-8"><a href="#cb37-8" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ posttest.rank : int  5 5 5 4 4 5 4 3 5 5 ...</span></span>
+<span id="cb37-9"><a href="#cb37-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ sex           : int  1 1 2 2 1 1 2 2 2 2 ...</span></span>
+<span id="cb37-10"><a href="#cb37-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.1      : int  3 3 4 5 4 3 4 3 4 3 ...</span></span>
+<span id="cb37-11"><a href="#cb37-11" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.2      : int  4 5 4 4 4 5 4 5 5 5 ...</span></span>
+<span id="cb37-12"><a href="#cb37-12" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.3      : int  3 4 3 4 3 3 4 3 3 4 ...</span></span>
+<span id="cb37-13"><a href="#cb37-13" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.4      : int  3 2 3 2 3 2 3 2 3 2 ...</span></span>
+<span id="cb37-14"><a href="#cb37-14" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.5      : int  4 3 4 3 4 3 4 2 4 3 ...</span></span>
+<span id="cb37-15"><a href="#cb37-15" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.6      : int  4 4 3 4 3 4 3 3 4 4 ...</span></span>
+<span id="cb37-16"><a href="#cb37-16" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.7      : int  4 4 4 4 4 3 3 3 3 3 ...</span></span>
+<span id="cb37-17"><a href="#cb37-17" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.8      : int  2 3 2 3 2 3 2 4 4 4 ...</span></span>
+<span id="cb37-18"><a href="#cb37-18" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.9      : int  4 4 3 4 4 3 3 4 4 4 ...</span></span>
+<span id="cb37-19"><a href="#cb37-19" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.10     : int  2 4 2 2 2 4 2 2 3 4 ...</span></span>
+<span id="cb37-20"><a href="#cb37-20" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ likert.total  : num  3.3 3.6 3.2 3.5 3.3 3.3 3.2 3.1 3.7 3.6 ...</span></span>
+<span id="cb37-21"><a href="#cb37-21" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div></li>
 <li><p>tables(dt)</p></li>
@@ -1794,27 +1855,37 @@ Record
 <p>‘Raw source’, not in workable format.&nbsp;</p>
 </div>
 </div>
+</section>
+<section id="create-a-data.table" class="level4">
+<h4 class="anchored" data-anchor-id="create-a-data.table">Create a data.table</h4>
+<p>virtual.csv has multiple columns, of which we require only the following:</p>
+<div class="sourceCode" id="cb38"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb38-1"><a href="#cb38-1" aria-hidden="true" tabindex="-1"></a>fdt<span class="ot">=</span>dt[,.(<span class="at">identifier=</span><span class="fu">as.factor</span>(idertifier),<span class="at">type.class=</span><span class="fu">as.factor</span>(type.class),<span class="at">posttest.score=</span><span class="fu">as.numeric</span>(posttest.score),<span class="at">pretest.score=</span><span class="fu">as.numeric</span>(pretest.score),<span class="at">total.likert=</span><span class="fu">as.numeric</span>(likert.total), <span class="at">sex=</span><span class="fu">as.factor</span>(sex))]</span>
+<span id="cb38-2"><a href="#cb38-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Here we can see that using <code>j</code>, we have sub-setted, renamed and fixed the type of data</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb33"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a>fdt<span class="ot">=</span>dt[,.(<span class="at">identifier=</span><span class="fu">as.factor</span>(idertifier),<span class="at">type.class=</span><span class="fu">as.factor</span>(type.class),<span class="at">posttest.score=</span><span class="fu">as.numeric</span>(posttest.score),<span class="at">pretest.score=</span><span class="fu">as.numeric</span>(pretest.score),<span class="at">total.likert=</span><span class="fu">as.numeric</span>(likert.total), <span class="at">sex=</span><span class="fu">as.factor</span>(sex))]</span>
-<span id="cb33-2"><a href="#cb33-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb39"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb39-1"><a href="#cb39-1" aria-hidden="true" tabindex="-1"></a>fdt<span class="ot">=</span>dt[,.(<span class="at">identifier=</span><span class="fu">as.factor</span>(idertifier),<span class="at">type.class=</span><span class="fu">as.factor</span>(type.class),<span class="at">posttest.score=</span><span class="fu">as.numeric</span>(posttest.score),<span class="at">pretest.score=</span><span class="fu">as.numeric</span>(pretest.score),<span class="at">total.likert=</span><span class="fu">as.numeric</span>(likert.total), <span class="at">sex=</span><span class="fu">as.factor</span>(sex))]</span>
+<span id="cb39-2"><a href="#cb39-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(fdt)</span>
+<span id="cb39-3"><a href="#cb39-3" aria-hidden="true" tabindex="-1"></a><span class="do">##    identifier type.class posttest.score pretest.score total.likert    sex</span></span>
+<span id="cb39-4"><a href="#cb39-4" aria-hidden="true" tabindex="-1"></a><span class="do">##        &lt;fctr&gt;     &lt;fctr&gt;          &lt;num&gt;         &lt;num&gt;        &lt;num&gt; &lt;fctr&gt;</span></span>
+<span id="cb39-5"><a href="#cb39-5" aria-hidden="true" tabindex="-1"></a><span class="do">## 1:       VIR1    virtual            100            40          3.3      1</span></span>
+<span id="cb39-6"><a href="#cb39-6" aria-hidden="true" tabindex="-1"></a><span class="do">## 2:       VIR2    virtual             95            40          3.6      1</span></span>
+<span id="cb39-7"><a href="#cb39-7" aria-hidden="true" tabindex="-1"></a><span class="do">## 3:       VIR3    virtual             85            60          3.2      2</span></span>
+<span id="cb39-8"><a href="#cb39-8" aria-hidden="true" tabindex="-1"></a><span class="do">## 4:       VIR4    virtual             70            40          3.5      2</span></span>
+<span id="cb39-9"><a href="#cb39-9" aria-hidden="true" tabindex="-1"></a><span class="do">## 5:       VIR5    virtual             75            60          3.3      1</span></span>
+<span id="cb39-10"><a href="#cb39-10" aria-hidden="true" tabindex="-1"></a><span class="do">## 6:       VIR6    virtual             90            60          3.3      1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
-<div class="cell-output cell-output-stdout">
-<pre><code>   identifier type.class posttest.score pretest.score total.likert    sex
-       &lt;fctr&gt;     &lt;fctr&gt;          &lt;num&gt;         &lt;num&gt;        &lt;num&gt; &lt;fctr&gt;
-1:       VIR1    virtual            100            40          3.3      1
-2:       VIR2    virtual             95            40          3.6      1
-3:       VIR3    virtual             85            60          3.2      2
-4:       VIR4    virtual             70            40          3.5      2
-5:       VIR5    virtual             75            60          3.3      1
-6:       VIR6    virtual             90            60          3.3      1</code></pre>
 </div>
-</div>
+<p>In our study, the outcome variables are <code>posttest.score</code> and <code>total.likert</code>. The grouping variable is <code>type.class</code>.</p>
+</section>
+</section>
+<section id="summary-of-data" class="level3">
+<h3 class="anchored" data-anchor-id="summary-of-data">Summary of data</h3>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb35"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb40"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(fdt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   identifier    type.class posttest.score   pretest.score    total.likert  
@@ -1836,11 +1907,11 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb37"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb37-1"><a href="#cb37-1" aria-hidden="true" tabindex="-1"></a><span class="fu">attach</span>(fdt)</span>
-<span id="cb37-2"><a href="#cb37-2" aria-hidden="true" tabindex="-1"></a>mean.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(posttest.score),by<span class="ot">=</span>type.class]</span>
-<span id="cb37-3"><a href="#cb37-3" aria-hidden="true" tabindex="-1"></a>mean.pre.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(pretest.score),by<span class="ot">=</span>type.class]</span>
-<span id="cb37-4"><a href="#cb37-4" aria-hidden="true" tabindex="-1"></a>mean.likert<span class="ot">=</span> fdt[,<span class="fu">mean</span>(total.likert),by<span class="ot">=</span>type.class]</span>
-<span id="cb37-5"><a href="#cb37-5" aria-hidden="true" tabindex="-1"></a>mean.pre.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb42"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a><span class="fu">attach</span>(fdt)</span>
+<span id="cb42-2"><a href="#cb42-2" aria-hidden="true" tabindex="-1"></a>mean.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(posttest.score),by<span class="ot">=</span>type.class]</span>
+<span id="cb42-3"><a href="#cb42-3" aria-hidden="true" tabindex="-1"></a>mean.pre.score<span class="ot">=</span> fdt[,<span class="fu">mean</span>(pretest.score),by<span class="ot">=</span>type.class]</span>
+<span id="cb42-4"><a href="#cb42-4" aria-hidden="true" tabindex="-1"></a>mean.likert<span class="ot">=</span> fdt[,<span class="fu">mean</span>(total.likert),by<span class="ot">=</span>type.class]</span>
+<span id="cb42-5"><a href="#cb42-5" aria-hidden="true" tabindex="-1"></a>mean.pre.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   type.class       V1
@@ -1850,7 +1921,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb39"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb39-1"><a href="#cb39-1" aria-hidden="true" tabindex="-1"></a>mean.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb44"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb44-1"><a href="#cb44-1" aria-hidden="true" tabindex="-1"></a>mean.score</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   type.class       V1
@@ -1860,7 +1931,7 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb41"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a>mean.likert</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb46"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb46-1"><a href="#cb46-1" aria-hidden="true" tabindex="-1"></a>mean.likert</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   type.class       V1
@@ -1870,53 +1941,86 @@ Record
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb43"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb43-1"><a href="#cb43-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(posttest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb48"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb48-1"><a href="#cb48-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(posttest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-25-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-26-1.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb44"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb44-1"><a href="#cb44-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(pretest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb49"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb49-1"><a href="#cb49-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(pretest.score<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-25-2.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-26-2.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb45"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb45-1"><a href="#cb45-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb50"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb50-1"><a href="#cb50-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-25-3.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-26-3.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb46"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb46-1"><a href="#cb46-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>sex)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb51"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb51-1"><a href="#cb51-1" aria-hidden="true" tabindex="-1"></a><span class="fu">boxplot</span>(total.likert<span class="sc">~</span>sex)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="wrangling_files/figure-html/unnamed-chunk-25-4.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="wrangling_files/figure-html/unnamed-chunk-26-4.png" class="img-fluid figure-img" width="672"></p>
 </figure>
 </div>
 </div>
 </div>
+</section>
+<section id="check-for-normality" class="level3">
+<h3 class="anchored" data-anchor-id="check-for-normality">Check for normality</h3>
+<div class="sourceCode" id="cb52"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb52-1"><a href="#cb52-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(posttest.score, <span class="at">main =</span> <span class="st">""</span>)</span>
+<span id="cb52-2"><a href="#cb52-2" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(total.likert, <span class="at">main=</span><span class="st">""</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb47"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb47-1"><a href="#cb47-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(posttest.score)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb53"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb53-1"><a href="#cb53-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(posttest.score, <span class="at">main =</span> <span class="st">""</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="wrangling_files/figure-html/unnamed-chunk-27-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb54"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb54-1"><a href="#cb54-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(total.likert, <span class="at">main=</span><span class="st">""</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="wrangling_files/figure-html/unnamed-chunk-27-2.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Here we can see that both posttest.score and total.likert are visually not normally distributed. He may cross check it by doing shapiro test</p>
+</section>
+<section id="test-for-normality" class="level3">
+<h3 class="anchored" data-anchor-id="test-for-normality">Test for normality</h3>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb55"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb55-1"><a href="#cb55-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(posttest.score)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -1926,10 +2030,15 @@ data:  posttest.score
 W = 0.92716, p-value = 0.004812</code></pre>
 </div>
 </div>
+<p>a <code>p value</code> of &lt;.005 suggest that posttest score is significantly not normal.</p>
+</section>
+<section id="welch-t-test" class="level3">
+<h3 class="anchored" data-anchor-id="welch-t-test">Welch t test</h3>
+<p>As data is not normal, we have to do modified t test.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb49"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb49-1"><a href="#cb49-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score,pretest.score,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb57"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb57-1"><a href="#cb57-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score,pretest.score,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -1948,7 +2057,7 @@ mean of x mean of y
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb51"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb51-1"><a href="#cb51-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score<span class="sc">~</span>type.class,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb59"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb59-1"><a href="#cb59-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(posttest.score<span class="sc">~</span>type.class,<span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -1964,10 +2073,13 @@ mean in group physical  mean in group virtual
               77.91667               78.20000 </code></pre>
 </div>
 </div>
+</section>
+<section id="shapiro-test-for-total.likert" class="level3">
+<h3 class="anchored" data-anchor-id="shapiro-test-for-total.likert">Shapiro test for total.likert</h3>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb53"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb53-1"><a href="#cb53-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(total.likert)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb61"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb61-1"><a href="#cb61-1" aria-hidden="true" tabindex="-1"></a><span class="fu">shapiro.test</span>(total.likert)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -1977,10 +2089,11 @@ data:  total.likert
 W = 0.96471, p-value = 0.1479</code></pre>
 </div>
 </div>
+<p>Here the shapiro test is not significant. So the data can be taken as normal.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
-<div class="sourceCode cell-code" id="cb55"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb55-1"><a href="#cb55-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(total.likert<span class="sc">~</span>type.class, <span class="at">var.equal=</span><span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb63"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb63-1"><a href="#cb63-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(total.likert<span class="sc">~</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>
@@ -1996,64 +2109,9 @@ mean in group physical  mean in group virtual
               3.833333               3.504000 </code></pre>
 </div>
 </div>
-</section>
-</section>
-</section>
-<section id="readxl-and-map" class="level2">
-<h2 class="anchored" data-anchor-id="readxl-and-map">readxl() and map()</h2>
-<p>If data is in multiple excel files, use <code>readxl( )</code>, <code>map ( )</code> and <code>rbindlist ( )</code> to compile data.</p>
-<p><code>map ( )</code> comes with <code>purr</code> package.</p>
-<div class="cell">
-<details class="code-fold">
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb57"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb57-1"><a href="#cb57-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
-<span id="cb57-2"><a href="#cb57-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(purrr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output cell-output-stderr">
-<pre><code>
-Attaching package: 'purrr'</code></pre>
-</div>
-<div class="cell-output cell-output-stderr">
-<pre><code>The following object is masked from 'package:data.table':
-
-    transpose</code></pre>
-</div>
-<details class="code-fold">
-<summary>Code</summary>
-<div class="sourceCode cell-code" id="cb60"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb60-1"><a href="#cb60-1" aria-hidden="true" tabindex="-1"></a>filelist<span class="ot">=</span><span class="fu">list.files</span>(<span class="at">path=</span><span class="st">"/Users/drkmenon/Sync/knotesquarto/Biomedical/Research Methodology"</span>,<span class="at">pattern=</span><span class="st">'xlsx'</span>,<span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
-<span id="cb60-2"><a href="#cb60-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb60-3"><a href="#cb60-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb60-4"><a href="#cb60-4" aria-hidden="true" tabindex="-1"></a>process.file<span class="ot">=</span><span class="cf">function</span>(df) {</span>
-<span id="cb60-5"><a href="#cb60-5" aria-hidden="true" tabindex="-1"></a>   sales<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">4</span>]</span>
-<span id="cb60-6"><a href="#cb60-6" aria-hidden="true" tabindex="-1"></a>   employee<span class="ot">=</span>df[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,<span class="dv">3</span>]</span>
-<span id="cb60-7"><a href="#cb60-7" aria-hidden="true" tabindex="-1"></a>   <span class="fu">return</span>(<span class="fu">data.table</span>(<span class="at">sales=</span>sales,<span class="at">employee=</span>employee))</span>
-<span id="cb60-8"><a href="#cb60-8" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb60-9"><a href="#cb60-9" aria-hidden="true" tabindex="-1"></a>   </span>
-<span id="cb60-10"><a href="#cb60-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb60-11"><a href="#cb60-11" aria-hidden="true" tabindex="-1"></a>compiled.data<span class="ot">=</span>filelist <span class="sc">|&gt;</span></span>
-<span id="cb60-12"><a href="#cb60-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(read_excel) <span class="sc">|&gt;</span></span>
-<span id="cb60-13"><a href="#cb60-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">map</span>(process.file) <span class="sc">|&gt;</span></span>
-<span id="cb60-14"><a href="#cb60-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rbindlist</span>()</span>
-<span id="cb60-15"><a href="#cb60-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb60-16"><a href="#cb60-16" aria-hidden="true" tabindex="-1"></a>compiled.data</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</details>
-<div class="cell-output cell-output-stdout">
-<pre><code>    sales.Occupation employee.Sex
-               &lt;num&gt;       &lt;char&gt;
- 1:                3           tt
- 2:                3           tt
- 3:                3           tt
- 4:              500        sambu
- 5:                2           tt
- 6:                1           ss
- 7:                1           ss
- 8:                1           ss
- 9:              200        scott
-10:                1           ss</code></pre>
-</div>
-</div>
 
 
+</section>
 </section>
 
 

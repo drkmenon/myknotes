@@ -351,6 +351,35 @@ dtf=merge.data.table(dt1,dt2, by="id")
 head(dtf)
 ```
 
+## readxl() and map()
+
+If data is in multiple excel files, use `readxl( )`, `map ( )` and `rbindlist ( )` to compile data.
+
+`map ( )` comes with `purr` package.
+
+```{r}
+library(readxl)
+library(purrr)
+
+filelist=list.files(path="/Users/drkmenon/Sync/knotesquarto/Biomedical/Research Methodology",pattern='xlsx',full.names = TRUE)
+
+
+process.file=function(df) {
+   sales=df[1:5,4]
+   employee=df[1:5,3]
+   return(data.table(sales=sales,employee=employee))
+}
+   
+
+compiled.data=filelist |>
+  map(read_excel) |>
+  map(process.file) |>
+  rbindlist()
+
+compiled.data
+
+```
+
 ### Adding data to r and reading it as data.table
 
 We may once more visit how to add data to `r` using data table and try to do simple analysis
@@ -415,10 +444,26 @@ Having added the data and looked in to the structure, me have to go through 3 st
 'Raw source', not in workable format. 
 :::
 
-```{r}
+#### Create a data.table
+
+virtual.csv has multiple columns, of which we require only the following:
+
+``` r
 fdt=dt[,.(identifier=as.factor(idertifier),type.class=as.factor(type.class),posttest.score=as.numeric(posttest.score),pretest.score=as.numeric(pretest.score),total.likert=as.numeric(likert.total), sex=as.factor(sex))]
 head(fdt)
 ```
+
+Here we can see that using `j`, we have sub-setted, renamed and fixed the type of data
+
+```{r}
+#| collapse: true
+fdt=dt[,.(identifier=as.factor(idertifier),type.class=as.factor(type.class),posttest.score=as.numeric(posttest.score),pretest.score=as.numeric(pretest.score),total.likert=as.numeric(likert.total), sex=as.factor(sex))]
+head(fdt)
+```
+
+In our study, the outcome variables are `posttest.score` and `total.likert`. The grouping variable is `type.class`.
+
+### Summary of data
 
 ```{r}
 summary(fdt)
@@ -435,9 +480,33 @@ boxplot(total.likert~type.class)
 boxplot(total.likert~sex)
 ```
 
+### Check for normality
+
+``` r
+hist(posttest.score, main = "")
+hist(total.likert, main="")
+```
+
+```{r}
+#| collapse: true
+hist(posttest.score, main = "")
+hist(total.likert, main="")
+
+```
+
+Here we can see that both posttest.score and total.likert are visually not normally distributed. He may cross check it by doing shapiro test
+
+### Test for normality
+
 ```{r}
 shapiro.test(posttest.score)
 ```
+
+a `p value` of \<.005 suggest that posttest score is significantly not normal.
+
+### Welch t test
+
+As data is not normal, we have to do modified t test.
 
 ```{r}
 t.test(posttest.score,pretest.score,var.equal=FALSE)
@@ -447,39 +516,14 @@ t.test(posttest.score,pretest.score,var.equal=FALSE)
 t.test(posttest.score~type.class,var.equal=FALSE)
 ```
 
+### Shapiro test for total.likert
+
 ```{r}
 shapiro.test(total.likert)
 ```
 
-```{r}
-t.test(total.likert~type.class, var.equal=FALSE)
-```
-
-## readxl() and map()
-
-If data is in multiple excel files, use `readxl( )`, `map ( )` and `rbindlist ( )` to compile data.
-
-`map ( )` comes with `purr` package.
+Here the shapiro test is not significant. So the data can be taken as normal.
 
 ```{r}
-library(readxl)
-library(purrr)
-
-filelist=list.files(path="/Users/drkmenon/Sync/knotesquarto/Biomedical/Research Methodology",pattern='xlsx',full.names = TRUE)
-
-
-process.file=function(df) {
-   sales=df[1:5,4]
-   employee=df[1:5,3]
-   return(data.table(sales=sales,employee=employee))
-}
-   
-
-compiled.data=filelist |>
-  map(read_excel) |>
-  map(process.file) |>
-  rbindlist()
-
-compiled.data
-
+t.test(total.likert~type.class)
 ```
