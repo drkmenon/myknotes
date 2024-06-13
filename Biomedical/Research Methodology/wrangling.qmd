@@ -466,6 +466,7 @@ In our study, the outcome variables are `posttest.score` and `total.likert`. The
 ### Summary of data
 
 ```{r}
+#| collapse: true
 summary(fdt)
 attach(fdt)
 mean.score= fdt[,mean(posttest.score),by=type.class]
@@ -480,17 +481,17 @@ boxplot(total.likert~type.class)
 boxplot(total.likert~sex)
 ```
 
-### Check for normality
+### Check for normality visually
 
 ``` r
-hist(posttest.score, main = "")
-hist(total.likert, main="")
+hist(posttest.score, main = "",breaks = 15)
+hist(total.likert, main="",breaks = 10)
 ```
 
 ```{r}
 #| collapse: true
-hist(posttest.score, main = "")
-hist(total.likert, main="")
+hist(posttest.score, main = "",breaks = 15)
+hist(total.likert, main="",breaks = 10)
 
 ```
 
@@ -498,7 +499,12 @@ Here we can see that both posttest.score and total.likert are visually not norma
 
 ### Test for normality
 
+``` r
+shapiro.test(posttest.score)
+```
+
 ```{r}
+#| collapse: true
 shapiro.test(posttest.score)
 ```
 
@@ -508,22 +514,42 @@ a `p value` of \<.005 suggest that posttest score is significantly not normal.
 
 As data is not normal, we have to do modified t test.
 
-```{r}
+``` r
 t.test(posttest.score,pretest.score,var.equal=FALSE)
 ```
 
 ```{r}
+#| collapse: true
+t.test(posttest.score,pretest.score,var.equal=FALSE)
+```
+
+``` r
+t.test(posttest.score~type.class,var.equal=FALSE)
+```
+
+```{r}
+#| collapse: true
 t.test(posttest.score~type.class,var.equal=FALSE)
 ```
 
 ### Shapiro test for total.likert
 
+``` r
+shapiro.test(total.likert)
+```
+
 ```{r}
+#| collapse: true
 shapiro.test(total.likert)
 ```
 
 Here the shapiro test is not significant. So the data can be taken as normal.
 
+``` r
+t.test(total.likert~type.class)
+```
+
 ```{r}
+#| collapse: true
 t.test(total.likert~type.class)
 ```
