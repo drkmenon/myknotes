@@ -3,7 +3,7 @@ title: "Data wrangling"
 code-fold: true
 ---
 
-Data wrangling is the process of making data ready for modelling.
+Data wrangling is the process of making data ready for modelling. It is a tedious task and involves different logical steps.
 
 ```{mermaid}
 flowchart LR
@@ -13,21 +13,23 @@ flowchart LR
 
 ## Core Concepts 
 
-1.  Always look directly into data
+1.  Always look directly into data and see how it look like
 
 2.  Think how it should look like
 
 3.  Think how to rearrange Information to achieve what we want 
 
-4.  Make sure that its' doing what we want at every step. 
+4.  Make sure that what we does is doing what we want at every step. 
 
-`r` is an excellent lower level language for data wrangling. The newer `data.table` make it even more faster and intuitive. `data. table` is a package in `r` which is faster than tidyverse. It is mainly used for data manipulation . As it retains native `data. frame`, all functions written for base r and tidyverse work with data. table. 
+`r` is an excellent lower level language for data wrangling. The newer `data.table` make it even more faster and intuitive. `data. table` package in `r` which is faster than tidyverse. It is mainly used for data manipulation . As it retains native `data. frame`, all functions written for base r and tidyverse work with data. table. 
 
 eg: `% > %` is called pipe function. It essentially means 'take whatever on the left side and make it the first argument for anything on the right Side'. It comes with tidyverse package. It can also be used with `data.table.` [^1]
 
 [^1]: Now from r 4.1 onwards it is built in to base v as I \>
 
 ## data.table
+
+`data.table` looks like `data.frame` superficially but it is lot more efficient, fast and allow numerous actions by simple commants.
 
 ```{mermaid}
 flowchart TD
@@ -37,6 +39,9 @@ data.table --> j
 j --> subsetting\n&\ncalculating\nin\ncolumn
 data.table --> by
 by --> grouping
+data.table --> useful\ncodes
+useful\ncodes --> fread
+useful\ncodes --> walrus
 
 ```
 
@@ -48,7 +53,11 @@ $$
 
 allow lot more options.
 
+### i,j and by
+
 **`i`**`allows sub-setting and ordering row`
+
+`dt[i]` allow multiple actions at row level of the data. Fundamentally this can be grouped in to sub-setting and ordering.
 
 ```{mermaid}
 flowchart TD
@@ -58,9 +67,23 @@ i --> ordering
 
 ```
 
-### Sub-setting
+#### Sub-setting
 
-#### Select only virtual data 
+Let us take an example of data set dt
+
+``` r
+library(data.table)
+dt=fread("virtual.csv")
+```
+
+```{r}
+library(data.table)
+dt=fread("virtual.csv")
+```
+
+It contains a set of simple data comparing the performance of medical students in physical classes vs virtual classes and their perceptions. Assume, we want to see only the virtual class students. This can be easily achieved by sub-setting the type.class key in the data by "virtual" as shown below.
+
+##### Select only virtual data
 
 ``` r
 dtv=dt[type.class == "virtual"]
@@ -75,7 +98,13 @@ dtv=dt[type.class == "virtual"]
 head(dtv)
 ```
 
-#### Select first 2 rows
+##### Select first 2 rows
+
+If we want to select only first 2 rows[^2] , us the following code.
+
+[^2]: note that, \[1:2,\] is not necessary. However \[1:2,\] shows the full picture.
+
+    > Select first 2 rows and retain all the columns
 
 ``` r
 dt2=dt[1:2]
@@ -88,7 +117,9 @@ dt2=dt[1:2]
 dt2
 ```
 
-### Ordering
+##### Ordering
+
+Variables in the rows can be arranged in ascending or descending order by using the `order()` command as shown below.
 
 ``` r
 dta=dt[order(posttest.score)] # use -posttest.score for descending order
@@ -102,17 +133,24 @@ dta=dt[order(posttest.score)]
 dta
 ```
 
-**`j`**`allow calculation in the column`
+**`j`**`allows manipulations in the column`
+
+dt\[,j\] allow selection, correction or mutation and calculations at column level.
 
 ```{mermaid}
 flowchart TD
 j --> Select
 j --> Calculation
 j --> Correct\ntypo
+j --> Add\nor\nDelete\ncolumn
 
 ```
 
-### Select specific column
+##### Select specific column[^3]
+
+[^3]: dt\[,.(j)\]: blank followed by , denotes selecting all rows. "." denote "list". if "`."`is not used, data.table will give the output as vectors, instead of list.
+
+Suppose we want to select only the necessary columns from our `dt` data set. We can do this by simple code as shown below.
 
 ``` r
 dtc=dt[,.(idertifier,type.class,pretest.score,posttest.score,sex,likert.total)]
@@ -127,7 +165,14 @@ dtc
 
 `data.table`‘s `j` can handle more than just *selecting columns* - it can handle *expressions*, i.e., *computing on columns*. 
 
-### Correct typos
+##### Correct typos
+
+In the dataset dt, we can see that the first key, identifier is misspelt as idertifier. We can correct it by following code
+
+``` r
+dtc=dt[,.(identifier=idertifier,type.class,pretest.score,posttest.score,sex,likert.total)]
+dtc
+```
 
 ```{r}
 #| collapse: true
@@ -135,7 +180,9 @@ dtc=dt[,.(identifier=idertifier,type.class,pretest.score,posttest.score,sex,like
 dtc
 ```
 
-### Computing on columns
+##### Computing on columns
+
+To calculate the mean post test score of the virtual class, following code can be used.
 
 ``` r
 dtm=dt[type.class=="virtual",mean(posttest.score)]
@@ -143,13 +190,53 @@ dtm
 ```
 
 ```{r}
+#| collapse: true
 dtm=dt[type.class=="virtual",mean(posttest.score)]
 dtm
 ```
 
+##### Add or delete column
+
+If we want to add mean post test score of virtual on to dtv.
+
+To create or delete column, we use `:=`, called walrus operator.[^4]
+
+[^4]: The walrus is a large pinniped marine mammal with discontinuous distribution about the North Pole in the Arctic Ocean and subarctic seas of the Northern Hemisphere. 
+
+``` r
+dtv[,mean.pt.score:=mean(posttest.score)]
+dtv
+```
+
+```{r}
+#| collapse: true
+dtvm=dtv[,mean.pt.score:=mean(posttest.score)]
+dtvm
+```
+
+To delete mean.pt.score,
+
+``` r
+dtv[,mean.pt.score:=NULL]
+dtv
+```
+
+```{r}
+#| collapse: true
+dtvm[,mean.pt.score:=NULL]
+dtvm
+```
+
 **`by`**`allow grouping`
 
+```{mermaid}
+flowchart LR
+by --> grouping
+```
+
 ### Aggregation
+
+To group or aggregate data based on a `key`, the `by` operator can be used.
 
 ``` r
 dtmn=dt[,mean(posttest.score), by=.(type.class)]
@@ -161,6 +248,8 @@ dtmn
 dtmn=dt[,mean(posttest.score), by=.(type.class)]
 dtmn
 ```
+
+`data.table` allow fast reading of data in to data table
 
 ### Adding data to r and reading it as data.table
 
@@ -186,16 +275,16 @@ vtable::vt(dt)
 
 ### How to look at data 
 
--   str (dt) 
+-   str(dt) 
 
     ```{r}
     #| collapse: true
     str(dt)
     ```
 
--   tables (dt)
+-   tables(dt)
 
--   summary (dt) 
+-   summary(dt) 
 
 -   vtable:: vt(dt)
 
@@ -217,15 +306,59 @@ vtable::vt(dt)
 'Raw source', not in workable format. 
 :::
 
-If data is in multiple excel files, use map C) , `rbindlist ( )` to compile data.
+```{mermaid}
+flowchart TD
+  A[multiple data tables] --> B(map)
+  B --> C(rbind or rbindlist)
+  C --> D[Stack one on top of another column]
+  A --> E[merge]
+  E --> F(attach raws to the side of raws)
+```
 
-`map ( )` comes with `purr` package. ✗ bind list c) 
+### rbind
 
-`rbindlist ( )` stacks data variables on top of one another from different data. tables. For this to work all the identifiers should be same on the different data. tables that has to be compiled.
+`rbind ( )` stacks data variables on top of one another from different data. tables. For this to work all the identifiers should be same on the different files that has to be compiled.
 
-We can merge the data tables using `merge ( )` function, if there is atleast one common ID .
+``` r
+#| collapse: true
+library(readxl)
+Jan <- read_excel("Jan.xlsx")
+jandt=as.data.table(Jan)
+str(jandt)
 
-### 
+Feb <- read_excel("Feb.xlsx")
+febdt=as.data.table(Feb)
+str(febdt)
+```
+
+```{r}
+#| collapse: true
+library(readxl)
+Jan <- read_excel("Jan.xlsx")
+jandt=as.data.table(Jan)
+str(jandt)
+
+Feb <- read_excel("Feb.xlsx")
+febdt=as.data.table(Feb)
+str(febdt)
+
+```
+
+``` r
+#| collapse: true
+rbind(jandt,febdt)
+```
+
+```{r}
+#| collapse: true
+rbind(jandt,febdt)
+```
+
+If data is in multiple excel files, use `map ( )` and `rbindlist ( )` to compile data.
+
+`map ( )` comes with `purr` package.
+
+We can merge the data tables using `merge ( )` function, if there is atleast one common identifier in each row.
 
 ```{r}
 fdt=dt[,.(identifier=as.factor(idertifier),type.class=as.factor(type.class),posttest.score=as.numeric(posttest.score),pretest.score=as.numeric(pretest.score),total.likert=as.numeric(likert.total), sex=as.factor(sex))]
