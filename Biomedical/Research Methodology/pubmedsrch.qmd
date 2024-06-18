@@ -26,7 +26,7 @@ We can type in the keyword, say "Arthroscopy" and this will retrieve the proper 
 
 ![](images/search.png)
 
-Having added the first search term, we may add the second search term, say "Shoulder" using any of the 3 Boolean operators of our choice. We can gradually build the search keywords by adding more and more terms to the query.
+Having added the first search term, we may add the second search term, say "Shoulder" by following the previous steps and using any of the 3 Boolean operators of our choice. We can gradually build the search keywords by adding more and more terms to the query.
 
 ![](images/MeSH2.png)
 
