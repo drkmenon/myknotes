@@ -600,6 +600,13 @@ hist(total.likert, main="Histogram showing doubtful normal distribution of liker
 
 ```
 
+```{r}
+library(ggplot2)
+ggplot(fdt)+
+  geom_histogram(mapping = aes(x=posttest.score))+
+  labs(title = "test")
+```
+
 Here we can see that both posttest.score and total.likert are visually not normally distributed. He may cross check it by doing shapiro test
 
 ### Test for normality

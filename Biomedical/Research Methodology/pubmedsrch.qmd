@@ -1,0 +1,53 @@
+---
+title: "Pubmed search"
+---
+
+"PubMed^®^ comprises more than 37 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites" **Pubmed official website**
+
+PubMed^®^ is the first place we go for a literature search. The website greets us with a search box.
+
+![](images/pubmed.png)
+
+In general what we do is to type in a random search word or phrase pertaining to our area of interest and click on search, just as we do in case of a Google search. In-fact, PubMed^®^ can perform lot more advanced and specific search of biomedical literature, which is reproducible.
+
+## MeSH
+
+MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed. MeSH is a highly specific and curated vocabulary, and can be effectively used to retrieve specific articles using Boolean operators. It can be combined with text words for more comprehensive search.
+
+### Boolean operators 
+
+![](images/boolean.png)
+
+By clicking on the "MeSH Database" in the right lower quadrant of the official PubMed^®^ website, we reach the following window with a smaller search bar. The webpage also contains help and tutorials about the usage of MeSH and advanced search.
+
+![](images/MeSH.png)
+
+We can type in the keyword, say "Arthroscopy" and this will retrieve the proper MeSH term for that keyword. We can add that MeSH term to the search builder by clicking on the "Add to search builder" tab below the pubmed search builder.
+
+![](images/search.png)
+
+Having added the first search term, we may add the second search term, say "Shoulder" using any of the 3 Boolean operators of our choice. We can gradually build the search keywords by adding more and more terms to the query.
+
+![](images/MeSH2.png)
+
+Once finished with the MeSH search, click on the "search PubMed" field.
+
+After the new window is opened, click on advanced search and we will be able ot see all the search terms as shown below. It will show the individual MeSH search as well as the Boolean connected search. What the advanced search does extra is to allow us add text words to the query box and further build our query.
+
+![](images/advsrch.png)
+
+We can also add new search terms as `text words` in the Query box, search in the PubMed and add to the search builder.
+
+e.g., `"MRI"[tw]`
+
+Search query can be finalised by clicking on the action button which allow connecting the individual search terms with necessary Boolean operator.
+
+This specific PubMed query can be downloaded as .csv file or can be copied and pasted to a word processor for future reference.
+
+### Truncation
+
+Some search terms will be similar but will be used as singular or pleural by different authors. e.g., `fracture` and `fractures`
+
+We can tell the computer that both are same for the purpose of our query by adding "*"* at the end of the word; *`fracture*.`*
+
+This will include both fracture and fractures in our search
