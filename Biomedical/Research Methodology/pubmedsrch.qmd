@@ -2,7 +2,7 @@
 title: "Pubmed search"
 ---
 
-"PubMed^®^ comprises more than 37 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites" **Pubmed official website**
+"PubMed^®^ comprises more than 37 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites" **PubMed** **official website**
 
 PubMed^®^ is the first place we go for a literature search. The website greets us with a search box.
 
