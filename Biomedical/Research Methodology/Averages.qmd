@@ -1,6 +1,6 @@
 ---
 title: "Averages and measures of dispersion"
-order: 2
+order: 3
 ---
 
 ## Averages

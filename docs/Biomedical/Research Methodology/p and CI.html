@@ -540,6 +540,12 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../../Biomedical/Research Methodology/statistics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Statistics</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../../Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Averages and measures of dispersion</span></a>
   </div>
@@ -560,12 +566,6 @@ cookieconsent.run({
   <div class="sidebar-item-container"> 
   <a href="../../Biomedical/Research Methodology/pubmedsrch.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pubmed search</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/statistics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -774,37 +774,7 @@ cookieconsent.run({
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
-<div id="mc_embed_shell">
-      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: px;}
-        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-    <form action="https://knotes.us17.list-manage.com/subscribe/post?u=cbd11e712b45e98cdaab2dd4d&amp;id=aeaca1e768&amp;f_id=00dbc2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
-            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
-        <div id="mce-responses" class="clear foot">
-            <div class="response" id="mce-error-response" style="display: none;"></div>
-            <div class="response" id="mce-success-response" style="display: none;"></div>
-        </div>
-    <div aria-hidden="true" style="position: absolute; left: -5000px;">
-        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
-        <input type="text" name="b_cbd11e712b45e98cdaab2dd4d_aeaca1e768" tabindex="-1" value="">
-    </div>
-        <div class="optionalParent">
-            <div class="clear foot">
-                <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                
-            </div>
-        </div>
-    </div>
-</form>
-</div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
-
+<p>subscribe.html</p>
 </div></div>
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
@@ -816,6 +786,7 @@ cookieconsent.run({
   <li><a href="#fisher" id="toc-fisher" class="nav-link" data-scroll-target="#fisher">Fisher</a></li>
   <li><a href="#neyman-pearson-decision-framework" id="toc-neyman-pearson-decision-framework" class="nav-link" data-scroll-target="#neyman-pearson-decision-framework">Neyman-Pearson decision framework</a></li>
   <li><a href="#decision-framework" id="toc-decision-framework" class="nav-link" data-scroll-target="#decision-framework">Decision framework</a></li>
+  <li><a href="#bayesian-approach" id="toc-bayesian-approach" class="nav-link" data-scroll-target="#bayesian-approach">Bayesian approach</a></li>
   </ul></li>
   <li><a href="#confidence-interval" id="toc-confidence-interval" class="nav-link" data-scroll-target="#confidence-interval">Confidence Interval</a>
   <ul class="collapse">
@@ -858,8 +829,8 @@ cookieconsent.run({
 </div>
 </div>
 </div>
-<p>Assume that we have a normally distributed population of males and females with a mean height of 168.5444368 cms and 157.8109596 cms respectively.</p>
-<p>We can see that the mean difference in the height is 10.7334772.</p>
+<p>Assume that we have a normally distributed population of males and females with a mean height of 168.5 cms and 157.8 cms respectively.</p>
+<p>We can see that the mean difference in the height is 10.7.</p>
 <blockquote class="blockquote">
 <p>If I measure the entire population in the world, will I find that the mean height for each sex is different? or would I find that difference between the mean height is zero?</p>
 </blockquote>
@@ -895,10 +866,15 @@ cookieconsent.run({
 <p>So the decision framework is to</p>
 <ul>
 <li><p>Compute p-value</p></li>
-<li><p>Choose the Null if p-value is &gt; α</p></li>
-<li><p>Choose the alternative if p-value is &lt;= α</p></li>
+<li><p>Fail to reject the Null if p-value is &gt; α</p></li>
+<li><p>Reject the Null if p-value is &lt;= α</p></li>
 </ul>
 <p>Typically α is set at 0.05</p>
+</section>
+<section id="bayesian-approach" class="level3">
+<h3 class="anchored" data-anchor-id="bayesian-approach">Bayesian approach</h3>
+<p>Bayesian approach is more humane and direct. The researcher ‘should’ have prior believes about the probability of null and alternate hypotheses. She then construct a posterior probability of null from the joint probability of finding data for null p(d,H<sub>0</sub>) and the marginal probability of data p(d)</p>
+<p>p(H<sub>0</sub>|d) = p(d,H<sub>0</sub>)/p(d) = p(d|H<sub>0</sub>)* p(H<sub>0</sub>)/p(d)</p>
 </section>
 </section>
 <section id="confidence-interval" class="level2">

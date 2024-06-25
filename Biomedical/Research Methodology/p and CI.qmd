@@ -1,6 +1,6 @@
 ---
 title: "p and CI"
-order: 3
+order: 4
 ---
 
 ## p-value
@@ -28,10 +28,9 @@ mf %>%
 
 ```{r include=FALSE}
 
-mm= mean(m)
-mf= mean(f)
-htdif=mean(m)-mean(f)
-round(htdif,digits = 1)
+mm= round(mean(m),digits = 1)
+mf= round(mean(f),digits = 1)
+htdif=round(mean(m)-mean(f),digits = 1)
 ```
 
 Assume that we have a normally distributed population of males and females with a mean height of `r mm` cms and `r mf` cms respectively.
@@ -84,11 +83,17 @@ So the decision framework is to
 
 -   Compute p-value
 
--   Choose the Null if p-value is \> α
+-   Fail to reject the Null if p-value is \> α
 
--   Choose the alternative if p-value is \<= α
+-   Reject the Null if p-value is \<= α
 
 Typically α is set at 0.05
+
+### Bayesian approach
+
+Bayesian approach is more humane and direct. The researcher 'should' have prior believes about the probability of null and alternate hypotheses. She then construct a posterior probability of null from the joint probability of finding data for null p(d,H~0~) and the marginal probability of data p(d)
+
+p(H~0~\|d) = p(d,H~0~)/p(d) = p(d\|H~0~)\* p(H~0~)/p(d)
 
 ## Confidence Interval
 
