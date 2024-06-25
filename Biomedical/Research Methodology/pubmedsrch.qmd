@@ -14,7 +14,7 @@ In general what we do is to type in a random search word or phrase pertaining to
 
 MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed. MeSH is a highly specific and curated vocabulary, and can be effectively used to retrieve specific articles using Boolean operators. It can be combined with text words for more comprehensive search.
 
-### Boolean operators 
+### Boolean operators
 
 ![](images/boolean.png)
 
