@@ -665,3 +665,20 @@ t.test(total.likert~type.class)
 #| collapse: true
 t.test(total.likert~type.class)
 ```
+
+## Creating breaks 
+
+``` r
+{r}
+age=c(1:100)
+dtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))
+dtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c("child","young","mature","old","aged"))
+head(dtb)
+```
+
+```{r}
+age=c(1:100)
+dtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))
+dtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c("child","young","mature","old","aged"))
+head(dtb)
+```

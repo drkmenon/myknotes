@@ -5743,5 +5743,19 @@
       "PBL modules",
       "Pink Pulseless Hand"
     ]
+  },
+  {
+    "objectID": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
+    "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
+    "title": "Data wrangling",
+    "section": "Creating breaks",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     1  child\n3:     3     1  child\n4:     4     0  child\n5:     5     0  child\n6:     6     1  child",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Biomedical",
+      "Research Methodology",
+      "Data wrangling"
+    ]
   }
 ]
