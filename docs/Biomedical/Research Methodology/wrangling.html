@@ -869,7 +869,10 @@ window.Quarto = {
   <li><a href="#welch-t-test" id="toc-welch-t-test" class="nav-link" data-scroll-target="#welch-t-test">Welch t test</a></li>
   <li><a href="#shapiro-test-for-total.likert" id="toc-shapiro-test-for-total.likert" class="nav-link" data-scroll-target="#shapiro-test-for-total.likert">Shapiro test for total.likert</a></li>
   </ul></li>
-  <li><a href="#creating-breaks" id="toc-creating-breaks" class="nav-link" data-scroll-target="#creating-breaks">Creating breaks</a></li>
+  <li><a href="#creating-breaks" id="toc-creating-breaks" class="nav-link" data-scroll-target="#creating-breaks">Creating breaks</a>
+  <ul class="collapse">
+  <li><a href="#making-data-wide" id="toc-making-data-wide" class="nav-link" data-scroll-target="#making-data-wide">Making data wide</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -2310,16 +2313,40 @@ Record
 <div class="cell-output cell-output-stdout">
 <pre><code>     age   sex  class
    &lt;int&gt; &lt;int&gt; &lt;fctr&gt;
-1:     1     1  child
-2:     2     1  child
-3:     3     1  child
-4:     4     0  child
+1:     1     0  child
+2:     2     0  child
+3:     3     0  child
+4:     4     1  child
 5:     5     0  child
 6:     6     1  child</code></pre>
 </div>
 </div>
+<section id="making-data-wide" class="level3">
+<h3 class="anchored" data-anchor-id="making-data-wide">Making data wide</h3>
+<div class="sourceCode" id="cb61"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb61-1"><a href="#cb61-1" aria-hidden="true" tabindex="-1"></a>{r}</span>
+<span id="cb61-2"><a href="#cb61-2" aria-hidden="true" tabindex="-1"></a>dtw<span class="ot">=</span><span class="fu">dcast</span>(<span class="at">data =</span> dtb,<span class="at">formula =</span> age<span class="sc">~</span>sex,<span class="at">value.var =</span> <span class="st">"class"</span>)</span>
+<span id="cb61-3"><a href="#cb61-3" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dtw)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb62"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb62-1"><a href="#cb62-1" aria-hidden="true" tabindex="-1"></a>dtw<span class="ot">=</span><span class="fu">dcast</span>(<span class="at">data =</span> dtb,<span class="at">formula =</span> age<span class="sc">~</span>sex,<span class="at">value.var =</span> <span class="st">"class"</span>)</span>
+<span id="cb62-2"><a href="#cb62-2" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dtw)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>Key: &lt;age&gt;
+     age      0      1
+   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;
+1:     1  child   &lt;NA&gt;
+2:     2  child   &lt;NA&gt;
+3:     3  child   &lt;NA&gt;
+4:     4   &lt;NA&gt;  child
+5:     5  child   &lt;NA&gt;
+6:     6   &lt;NA&gt;  child</code></pre>
+</div>
+</div>
 
 
+</section>
 </section>
 
 

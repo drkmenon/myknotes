@@ -682,3 +682,16 @@ dtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))
 dtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c("child","young","mature","old","aged"))
 head(dtb)
 ```
+
+### Making data wide
+
+``` r
+{r}
+dtw=dcast(data = dtb,formula = age~sex,value.var = "class")
+head(dtw)
+```
+
+```{r}
+dtw=dcast(data = dtb,formula = age~sex,value.var = "class")
+head(dtw)
+```
