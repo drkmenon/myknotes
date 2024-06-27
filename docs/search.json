@@ -5757,5 +5757,75 @@
       "Research Methodology",
       "Data wrangling"
     ]
+  },
+  {
+    "objectID": "Biomedical/Research Methodology/measure.html",
+    "href": "Biomedical/Research Methodology/measure.html",
+    "title": "Data",
+    "section": "",
+    "text": "Datum is a piece of information. A number of datum is data\nResearch starts with data collection. Data collection can be considered as a form of measurement.",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Biomedical",
+      "Research Methodology",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "Biomedical/Research Methodology/measure.html#measurement",
+    "href": "Biomedical/Research Methodology/measure.html#measurement",
+    "title": "Data",
+    "section": "Measurement",
+    "text": "Measurement\nMeasurement is the allocation of number, label or definition to a “Stuff” we want to measure. “Stuff” we want to measure is called theoretical framework. The process of connecting theoretical framework to measurement is called operationalisation. The end product of measurement is Variable.\nVariable is an attribute that varies\nDifferentiating different types of variables is called Scaling.\n\n\n\n\n\nflowchart LR \n Theoretical\\nframework --&gt; Operationalisation \n Mearsure --&gt; Operationalisation\n Operationalisation --&gt; Variable",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Biomedical",
+      "Research Methodology",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "Biomedical/Research Methodology/measure.html#variables",
+    "href": "Biomedical/Research Methodology/measure.html#variables",
+    "title": "Data",
+    "section": "Variables",
+    "text": "Variables\n\nTypes of variables\n\n\n\n\n\n\n\n\n\nScale\nType\nMath Group\nBasic operation\nStatistics\n\n\n\n\nNominal\nDiscrete\ny=f(x)\nf(x) is one to one substitution\nDetermination of equality\nFrequency\nMode\nContigency correlation\n\n\nOrdinal\nDiscrete\ny=f(x)\nf(x) is monotonic increasing function\nDetermination of greater or less\nMedian\nPercentile\n\n\nInterval\nContinuous\ny=ax+b\nGeneral linear group\nDetermination of equality of interval or difference\nRank and product moment correlation\nmean\nstandard deviation\n\n\nRatio\nContinuous\ny=ax\nSimilarity group\nDetermination of equality of ratio or difference\nCoefficient of Variation\n\n\n\n\n\n\n\n\nflowchart LR\nTheoreticalconstruct --&gt; Operationalisation --&gt; Measurement --&gt; Variable",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Biomedical",
+      "Research Methodology",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "Biomedical/Research Methodology/measure.html#variable-scales",
+    "href": "Biomedical/Research Methodology/measure.html#variable-scales",
+    "title": "Data",
+    "section": "Variable Scales",
+    "text": "Variable Scales\n\nTypes of variables\n\n\n\n\n\n\n\n\n\nScale\nType\nMath Group\nBasic operation\nStatistics\n\n\n\n\nNominal\nDiscrete\ny=f(x)\nf(x) is one to one substitution\nDetermination of equality\nFrequency\nMode\nContegency correlation\n\n\nOrdinal\nDiscrete\ny=f(x)\nf(x) is monotonic increasing function\nDetermination of greater or less\nMedian\nPercentile\n\n\nInterval\nContinuous\nDiscrete\ny=ax+b\nGeneral linear group\nDetermination of equality of interval or difference\nRank and product moment correlation\nmean\nstandard deviation\n\n\nRatio\nContinuousDiscrete\ny=ax\nSimilarity group\nDetermination of equality of ratio or difference\nCoefficient of Variation",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Biomedical",
+      "Research Methodology",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "Biomedical/Research Methodology/measure.html#gross-difference-in-scales",
+    "href": "Biomedical/Research Methodology/measure.html#gross-difference-in-scales",
+    "title": "Data",
+    "section": "Gross difference in scales",
+    "text": "Gross difference in scales\n\n\n\n\n\n\n\n\nScale\nUnderstanding\nExample\n\n\n\n\nNominal\nThey are different\nBrown and White\n\n\nOrdinal\nOrdered, can be grouped\nRank\n\n\nInterval\nNumbers with meaning, no definite zero\nTemperature in 0 C\n\n\nRatio\nNumbers with meaning, has definite zero\nResponse time",
+    "crumbs": [
+      "Home",
+      "Research",
+      "Biomedical",
+      "Research Methodology",
+      "Data"
+    ]
   }
 ]

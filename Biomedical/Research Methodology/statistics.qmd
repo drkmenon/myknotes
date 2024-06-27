@@ -19,24 +19,3 @@ Social and cultural evolution is lot more faster in pace and larger in scale whe
 
 Statistics is the tool we should use when dealing with data. It is no more or no less than a tool. It is not a substitute for logical thinking. In fact it should instigate us to ponder more and understand the meaning of the stuff around us in a new light.
 
-## Measurement
-
-```{mermaid}
-flowchart LR 
- Theoretical\nframework --> Operationalisation 
- Mearsure --> Operationalisation
- Operationalisation --> Variable
-
-
-```
-
-## Variables
-
-| Scale    | Type       |
-|----------|------------|
-| Nominal  | Discrete   |
-| Ordinal  | Discrete   |
-| Interval | Continuous |
-| Ratio    | Continuous |
-
-: Types of variables

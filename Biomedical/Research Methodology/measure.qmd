@@ -1,0 +1,62 @@
+---
+title: "Data"
+order: 3
+---
+
+Datum is a piece of information. A number of datum is data
+
+Research starts with data collection. Data collection can be considered as a form of measurement.
+
+## Measurement
+
+Measurement is the allocation of number, label or definition to a "**Stuff**" we want to measure. "**Stuff**" we want to measure is called theoretical framework. The process of connecting theoretical framework to measurement is called `operationalisation`. The end product of measurement is `Variable.`
+
+***Variable is an attribute that varies***
+
+Differentiating different types of variables is called Scaling.
+
+```{mermaid}
+flowchart LR 
+ Theoretical\nframework --> Operationalisation 
+ Mearsure --> Operationalisation
+ Operationalisation --> Variable
+
+
+```
+
+## Variable Scales
+
++----------+--------------------+---------------------------------------+-----------------------------------------------------+-------------------------------------+
+| Scale    | Type               | Math Group                            | Basic operation                                     | Statistics                          |
++==========+====================+=======================================+=====================================================+=====================================+
+| Nominal  | Discrete           | y=f(x)                                | Determination of equality                           | Frequency                           |
+|          |                    |                                       |                                                     |                                     |
+|          |                    | f(x) is one to one substitution       |                                                     | Mode                                |
+|          |                    |                                       |                                                     |                                     |
+|          |                    |                                       |                                                     | Contegency correlation              |
++----------+--------------------+---------------------------------------+-----------------------------------------------------+-------------------------------------+
+| Ordinal  | Discrete           | y=f(x)                                | Determination of greater or less                    | Median                              |
+|          |                    |                                       |                                                     |                                     |
+|          |                    | f(x) is monotonic increasing function |                                                     | Percentile                          |
++----------+--------------------+---------------------------------------+-----------------------------------------------------+-------------------------------------+
+| Interval | Continuous         | y=ax+b                                | Determination of equality of interval or difference | Rank and product moment correlation |
+|          |                    |                                       |                                                     |                                     |
+|          | Discrete           | General linear group                  |                                                     | mean                                |
+|          |                    |                                       |                                                     |                                     |
+|          |                    |                                       |                                                     | standard deviation                  |
++----------+--------------------+---------------------------------------+-----------------------------------------------------+-------------------------------------+
+| Ratio    | ContinuousDiscrete | y=ax                                  | Determination of equality of ratio or difference    | Coefficient of Variation            |
+|          |                    |                                       |                                                     |                                     |
+|          |                    | Similarity group                      |                                                     |                                     |
++----------+--------------------+---------------------------------------+-----------------------------------------------------+-------------------------------------+
+
+: Types of variables
+
+## Gross difference in scales
+
+| Scale    | Understanding                           | Example              |
+|----------|-----------------------------------------|----------------------|
+| Nominal  | They are different                      | Brown and White      |
+| Ordinal  | Ordered, can be grouped                 | Rank                 |
+| Interval | Numbers with meaning, no definite zero  | Temperature in ^0^ C |
+| Ratio    | Numbers with meaning, has definite zero | Response time        |
