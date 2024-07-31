@@ -20,7 +20,7 @@ Assume that the possible gains are ( r~1~, r~2~, r~3~ ) and their probabilities 
 
 [^1]: p1=p2=p3
 
-E~v~ is the expected return. It is independent of the financial status of the individual. It can be also called average return.
+E~v~ is the expected return. It is independent of the **financial status** of the individual. It can be also called average return.
 
 **§2. Assume a game in which heads give you ₹75 for every ₹100 bet, along with the ₹100 you have invested. If the result is tails, you lose ₹50.**
 
