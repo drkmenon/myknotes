@@ -666,7 +666,7 @@ t.test(total.likert~type.class)
 t.test(total.likert~type.class)
 ```
 
-## Creating breaks 
+## Creating breaks
 
 ``` r
 {r}

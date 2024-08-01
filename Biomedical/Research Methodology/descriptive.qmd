@@ -1,0 +1,92 @@
+---
+title: "Descriptive statistics"
+---
+
+## Data Import
+
+We have collected data from a quasi experimental study of medical students which was conducted in 2019. At that time nobody was familiar with the various meeting platforms like zoom or teams. Let us import the data to `r` :
+
+```{r}
+require(data.table)
+require(lsr)
+classStudyRaw=fread(file = "virtual.csv")
+who(expand = T)
+```
+
+We can see that `classStudyRaw` is a data.table with a dimension of 49 x 18. There are 49 rows, curresponding 49 students and 18 variable columns. It include an identifier for each student. The type of class is in the "character" class, which we want as "factor", because it should be the grouping variable. Likert score of 1 to 10 could be the score for each question and the researcher might have considered it as pseudo-interval scale to get a total likert score, likert.total. So we may ignore the individual questions from the analysis for the time being. Similarly we may remove pretest and post test ranks from analysis, because what we are interested in is the score.
+
+So the final data table can be sub-setted in to 6 columns and type.class should be converted to factor.
+
+```{r}
+classStudy=classStudyRaw[,c(1,2,3,5,7,18)]
+classStudy$type.class=as.factor(classStudy$type.class)
+who(expand = T)
+
+```
+
+## Summarise data
+
+We have several options to summarise data in `r`. The base pack comes with `summary()` package
+
+```{r}
+summary(classStudy)
+```
+
+We can see that sex is another grouping variable and the labels are not given for 1 and 2. We can give male and female labels to 1 and 2 using `levels()` function, of course, after converting sex in to factors.
+
+```{r}
+classStudy$sex=as.factor(x = classStudy$sex)
+levels(classStudy$sex)=c("male","female")
+classStudy$sex
+```
+
+Lets summarise again
+
+```{r}
+summary(classStudy)
+```
+
+### Summarise based on group
+
+```{r}
+by(classStudy,INDICES = ~classStudy$type.class+classStudy$sex,FUN = summary)
+```
+
+### Describe function
+
+```{r}
+require(psych)
+describe.by(x=classStudy,group = classStudy$type.class)
+```
+
+### Aggregate
+
+```{r}
+meanPre=aggregate(x = classStudy,by = classStudy$pretest.score~classStudy$type.class+classStudy$sex,FUN = mean)
+meanPre
+```
+
+```{r}
+meanPost=aggregate(x = classStudy,by = classStudy$posttest.score~classStudy$type.class+classStudy$sex,FUN = mean)
+meanPost
+```
+
+```{r}
+meanLik=aggregate(x = classStudy,by = classStudy$likert.total~classStudy$type.class+classStudy$sex,FUN = mean)
+meanLik
+```
+
+## Graphing data
+
+### Post test score
+
+```{r}
+hist(classStudy$posttest.score,breaks = 10,main = "Hsitogram of Posttest Score of all students",xlab = "Post test score",ylab = "Number",col = "light blue")
+  
+```
+
+### Pre test score
+
+```{r}
+hist(classStudy$pretest.score,breaks = 5,main = "Hsitogram of Pretest Score of all students",xlab = "Pre test score",ylab = "Number",col = "light yellow")
+```
