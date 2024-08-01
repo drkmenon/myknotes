@@ -36,7 +36,7 @@ Flatpak is a tool designed for software deployment and package management on Lin
 
 ## Installation preparation
 
-### Download  Linux mint
+### Download Linux mint
 
 ### Flash as USB UEFI
 
@@ -61,14 +61,14 @@ List installed packages: apt list --installed
 
 ### Via Software manager
 
-#### Zotero 
+#### Zotero
 
-#### Zotero connector 
+#### Zotero connector
 
-#### Better BibTEX 
+#### Better BibTEX
 
-#### r-base 
+#### r-base
 
-#### rStudio 
+#### rStudio
 
 #### git
