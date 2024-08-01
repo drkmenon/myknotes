@@ -780,6 +780,12 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../../posts/mint.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Through Windows to open world</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../../posts/montecarlo.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Income distribution</span></a>
   </div>
@@ -1556,7 +1562,7 @@ by --&gt; grouping
 <span id="cb22-9"><a href="#cb22-9" aria-hidden="true" tabindex="-1"></a><span class="do">##  $ Occupation: num  1 1 1 200 1 1 1 1 2 2</span></span>
 <span id="cb22-10"><a href="#cb22-10" aria-hidden="true" tabindex="-1"></a><span class="do">##  - attr(*, ".internal.selfref")=&lt;externalptr&gt;</span></span>
 <span id="cb22-11"><a href="#cb22-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb22-12"><a href="#cb22-12" aria-hidden="true" tabindex="-1"></a>Feb <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"Feb.xlsx"</span>)</span>
+<span id="cb22-12"><a href="#cb22-12" aria-hidden="true" tabindex="-1"></a>Feb <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"feb.xlsx"</span>)</span>
 <span id="cb22-13"><a href="#cb22-13" aria-hidden="true" tabindex="-1"></a>febdt<span class="ot">=</span><span class="fu">as.data.table</span>(Feb)</span>
 <span id="cb22-14"><a href="#cb22-14" aria-hidden="true" tabindex="-1"></a><span class="fu">str</span>(febdt)</span>
 <span id="cb22-15"><a href="#cb22-15" aria-hidden="true" tabindex="-1"></a><span class="do">## Classes 'data.table' and 'data.frame':   10 obs. of  4 variables:</span></span>
@@ -1713,18 +1719,7 @@ by --&gt; grouping
 <span id="cb28-22"><a href="#cb28-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rbindlist</span>()</span>
 <span id="cb28-23"><a href="#cb28-23" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb28-24"><a href="#cb28-24" aria-hidden="true" tabindex="-1"></a>compiled.data</span>
-<span id="cb28-25"><a href="#cb28-25" aria-hidden="true" tabindex="-1"></a><span class="do">##     sales.Occupation employee.Sex</span></span>
-<span id="cb28-26"><a href="#cb28-26" aria-hidden="true" tabindex="-1"></a><span class="do">##                &lt;num&gt;       &lt;char&gt;</span></span>
-<span id="cb28-27"><a href="#cb28-27" aria-hidden="true" tabindex="-1"></a><span class="do">##  1:                3           tt</span></span>
-<span id="cb28-28"><a href="#cb28-28" aria-hidden="true" tabindex="-1"></a><span class="do">##  2:                3           tt</span></span>
-<span id="cb28-29"><a href="#cb28-29" aria-hidden="true" tabindex="-1"></a><span class="do">##  3:                3           tt</span></span>
-<span id="cb28-30"><a href="#cb28-30" aria-hidden="true" tabindex="-1"></a><span class="do">##  4:              500        sambu</span></span>
-<span id="cb28-31"><a href="#cb28-31" aria-hidden="true" tabindex="-1"></a><span class="do">##  5:                2           tt</span></span>
-<span id="cb28-32"><a href="#cb28-32" aria-hidden="true" tabindex="-1"></a><span class="do">##  6:                1           ss</span></span>
-<span id="cb28-33"><a href="#cb28-33" aria-hidden="true" tabindex="-1"></a><span class="do">##  7:                1           ss</span></span>
-<span id="cb28-34"><a href="#cb28-34" aria-hidden="true" tabindex="-1"></a><span class="do">##  8:                1           ss</span></span>
-<span id="cb28-35"><a href="#cb28-35" aria-hidden="true" tabindex="-1"></a><span class="do">##  9:              200         scut</span></span>
-<span id="cb28-36"><a href="#cb28-36" aria-hidden="true" tabindex="-1"></a><span class="do">## 10:                1           ss</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb28-25"><a href="#cb28-25" aria-hidden="true" tabindex="-1"></a><span class="do">## Null data.table (0 rows and 0 cols)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 </section>
@@ -2349,10 +2344,10 @@ Record
 <div class="cell-output cell-output-stdout">
 <pre><code>     age   sex  class
    &lt;int&gt; &lt;int&gt; &lt;fctr&gt;
-1:     1     1  child
+1:     1     0  child
 2:     2     1  child
 3:     3     0  child
-4:     4     1  child
+4:     4     0  child
 5:     5     1  child
 6:     6     0  child</code></pre>
 </div>
@@ -2372,10 +2367,10 @@ Record
 <pre><code>Key: &lt;age&gt;
      age      0      1
    &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;
-1:     1   &lt;NA&gt;  child
+1:     1  child   &lt;NA&gt;
 2:     2   &lt;NA&gt;  child
 3:     3  child   &lt;NA&gt;
-4:     4   &lt;NA&gt;  child
+4:     4  child   &lt;NA&gt;
 5:     5   &lt;NA&gt;  child
 6:     6  child   &lt;NA&gt;</code></pre>
 </div>

@@ -1,0 +1,74 @@
+---
+title: "Through Windows to open world"
+categories: 
+   - philosophy
+   - technology
+author: "Kishore Puthezhath"
+date: 31 July 2024
+nosite:
+---
+
+## Breaking open the window
+
+![A generic image downloaded from google](images/clipboard-452681702.png)
+
+My wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.
+
+Meanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds "Linus Torvalds") quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both **Linux** and **Git**.
+
+## Linux
+
+Believe me or not, Linux is the most commonly used operating system in the world. Yes, you heard me right: it is not the windows. Because of the dominance of Linux-based Android on smartphones, Linux, including Android, has the largest installed base of all general-purpose operating systems as of now. It is a completely free kernal for operating system. But, two eternal impediments of the system are
+
+-   Multiple distributions, called "distros"
+
+-   Equally fragmented application development and availability
+
+These impediments are not limitations in the strictest sense. Linux is not developed, it **evolves** by trial and error. It emulates socio cultural evolution and strongly resonates with our own position in the Darvenian interlude. Just like the author, Linux is completely agnostic about why and where.
+
+Linux captured my mind and I immediately jumped in.
+
+### Distro
+
+The multitude of Linux distributions can be overwhelming for newcomers, but among them, Ubuntu and Linux Mint are particularly notable for their user-friendliness and quick setup. Ubuntu tends to be more technical, while Linux Mint is known for supporting Flatpak.
+
+Flatpak is a tool designed for software deployment and package management on Linux. It claims to provide a sandboxed environment where applications can run independently from the rest of the system. In theory, Flatpak apps can be installed on any existing or future Linux distribution, including those running under the Windows Subsystem for Linux, as long as bubblewrap and OSTree are present. Linux Mint felt more appealing for me.
+
+## Installation preparation
+
+### Download  Linux mint
+
+### Flash as USB UEFI
+
+### Enter BIOS setup
+
+## BIOS Changes
+
+## Linux Mint installation
+
+## Application installation
+
+### Via Terminal
+
+``` terminal
+Update package list: sudo apt update
+Upgrade packages: sudo apt upgrade
+Install a package: sudo apt install package_name
+Remove a package: sudo apt remove package_name
+Search for a package: apt search package_name
+List installed packages: apt list --installed
+```
+
+### Via Software manager
+
+#### Zotero 
+
+#### Zotero connector 
+
+#### Better BibTEX 
+
+#### r-base 
+
+#### rStudio 
+
+#### git

@@ -297,7 +297,7 @@ Jan <- read_excel("Jan.xlsx")
 jandt=as.data.table(Jan)
 str(jandt)
 
-Feb <- read_excel("Feb.xlsx")
+Feb <- read_excel("feb.xlsx")
 febdt=as.data.table(Feb)
 str(febdt)
 
