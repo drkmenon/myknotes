@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-07-31">
+<meta name="dcterms.date" content="2024-08-01">
 
 <title>knotes - Hedge pricing</title>
 <style>
@@ -747,6 +747,12 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../../posts/mint.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Through Windows to open world</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../../posts/montecarlo.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Income distribution</span></a>
   </div>
@@ -877,7 +883,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">July 31, 2024</p>
+      <p class="date">August 1, 2024</p>
     </div>
   </div>
   
@@ -923,7 +929,7 @@ cookieconsent.run({
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>closing_price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 24857.3</code></pre>
+<pre><code>[1] 24951.15</code></pre>
 </div>
 </div>
 </section>
@@ -983,7 +989,7 @@ attr(,"class")
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(closing_price)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 24857.3</code></pre>
+<pre><code>[1] 24951.15</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -997,7 +1003,7 @@ attr(,"class")
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>strike</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 21128.71</code></pre>
+<pre><code>[1] 21208.48</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1006,10 +1012,10 @@ attr(,"class")
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 
      value      delta      gamma       vega      theta        rho     divRho 
-  119.4537    -0.0705     0.0000  2544.1512  -290.6720 -1076.3036  1007.5769 </code></pre>
+  119.9047    -0.0705     0.0000  2553.7568  -291.7694 -1080.3672  1011.3811 </code></pre>
 </div>
 </div>
-<p>Price of a <strong>4 month 5 delta option</strong> is 119 for the given strike price</p>
+<p>Price of a <strong>4 month 5 delta option</strong> is 120 for the given strike price</p>
 </section>
 <section id="take-home-message" class="level2">
 <h2 class="anchored" data-anchor-id="take-home-message">Take home message</h2>

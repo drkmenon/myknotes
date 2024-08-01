@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Tue, 30 Jul 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 31 Jul 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -239,7 +239,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   213175    296589    344524    563287    438743 187285934 </code></pre>
+   210766    296242    343340    556046    439583 141291170 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62114   64078   64491   64508   64934   66706 </code></pre>
+  61972   64071   64494   64502   64923   66925 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.692e+05 3.336e+06 5.672e+06 2.695e+07 1.205e+07 1.871e+10 </code></pre>
+9.856e+05 3.326e+06 5.634e+06 2.605e+07 1.203e+07 1.406e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -384,6 +384,101 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
+  <pubDate>Wed, 31 Jul 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>Through Windows to open world</title>
+  <dc:creator>Kishore Puthezhath</dc:creator>
+  <link>https://www.knotes.co.in/posts/mint.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="breaking-open-the-window" class="level2">
+<h2 class="anchored" data-anchor-id="breaking-open-the-window">Breaking open the window</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.knotes.co.in/posts/images/clipboard-452681702.png" class="img-fluid figure-img"></p>
+<figcaption>A generic image downloaded from google</figcaption>
+</figure>
+</div>
+<p>My wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.</p>
+<p>Meanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a> quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both <strong>Linux</strong> and <strong>Git</strong>.</p>
+</section>
+<section id="linux" class="level2">
+<h2 class="anchored" data-anchor-id="linux">Linux</h2>
+<p>Believe me or not, Linux is the most commonly used operating system in the world. Yes, you heard me right: it is not the windows. Because of the dominance of Linux-based Android on smartphones, Linux, including Android, has the largest installed base of all general-purpose operating systems as of now. It is a completely free kernal for operating system. But, two eternal impediments of the system are</p>
+<ul>
+<li><p>Multiple distributions, called “distros”</p></li>
+<li><p>Equally fragmented application development and availability</p></li>
+</ul>
+<p>These impediments are not limitations in the strictest sense. Linux is not developed, it <strong>evolves</strong> by trial and error. It emulates socio cultural evolution and strongly resonates with our own position in the Darvenian interlude. Just like the author, Linux is completely agnostic about why and where.</p>
+<p>Linux captured my mind and I immediately jumped in.</p>
+<section id="distro" class="level3">
+<h3 class="anchored" data-anchor-id="distro">Distro</h3>
+<p>The multitude of Linux distributions can be overwhelming for newcomers, but among them, Ubuntu and Linux Mint are particularly notable for their user-friendliness and quick setup. Ubuntu tends to be more technical, while Linux Mint is known for supporting Flatpak.</p>
+<p>Flatpak is a tool designed for software deployment and package management on Linux. It claims to provide a sandboxed environment where applications can run independently from the rest of the system. In theory, Flatpak apps can be installed on any existing or future Linux distribution, including those running under the Windows Subsystem for Linux, as long as bubblewrap and OSTree are present. Linux Mint felt more appealing for me.</p>
+</section>
+</section>
+<section id="installation-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="installation-preparation">Installation preparation</h2>
+<section id="download-linux-mint" class="level3">
+<h3 class="anchored" data-anchor-id="download-linux-mint">Download Linux mint</h3>
+</section>
+<section id="flash-as-usb-uefi" class="level3">
+<h3 class="anchored" data-anchor-id="flash-as-usb-uefi">Flash as USB UEFI</h3>
+</section>
+<section id="enter-bios-setup" class="level3">
+<h3 class="anchored" data-anchor-id="enter-bios-setup">Enter BIOS setup</h3>
+</section>
+</section>
+<section id="bios-changes" class="level2">
+<h2 class="anchored" data-anchor-id="bios-changes">BIOS Changes</h2>
+</section>
+<section id="linux-mint-installation" class="level2">
+<h2 class="anchored" data-anchor-id="linux-mint-installation">Linux Mint installation</h2>
+</section>
+<section id="application-installation" class="level2">
+<h2 class="anchored" data-anchor-id="application-installation">Application installation</h2>
+<section id="via-terminal" class="level3">
+<h3 class="anchored" data-anchor-id="via-terminal">Via Terminal</h3>
+<pre class="terminal"><code>Update package list: sudo apt update
+Upgrade packages: sudo apt upgrade
+Install a package: sudo apt install package_name
+Remove a package: sudo apt remove package_name
+Search for a package: apt search package_name
+List installed packages: apt list --installed</code></pre>
+</section>
+<section id="via-software-manager" class="level3">
+<h3 class="anchored" data-anchor-id="via-software-manager">Via Software manager</h3>
+<section id="zotero" class="level4">
+<h4 class="anchored" data-anchor-id="zotero">Zotero</h4>
+</section>
+<section id="zotero-connector" class="level4">
+<h4 class="anchored" data-anchor-id="zotero-connector">Zotero connector</h4>
+</section>
+<section id="better-bibtex" class="level4">
+<h4 class="anchored" data-anchor-id="better-bibtex">Better BibTEX</h4>
+</section>
+<section id="r-base" class="level4">
+<h4 class="anchored" data-anchor-id="r-base">r-base</h4>
+</section>
+<section id="rstudio" class="level4">
+<h4 class="anchored" data-anchor-id="rstudio">rStudio</h4>
+</section>
+<section id="git" class="level4">
+<h4 class="anchored" data-anchor-id="git">git</h4>
+
+
+</section>
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>philosophy</category>
+  <category>technology</category>
+  <guid>https://www.knotes.co.in/posts/mint.html</guid>
   <pubDate>Tue, 30 Jul 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
