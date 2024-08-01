@@ -239,7 +239,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-2.091e+05 2.959e+05 3.434e+05 8.855e+05 4.332e+05 2.427e+09 </code></pre>
+   214021    294953    343166    579196    438653 241978451 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  61952   64068   64492   64501   64936   66950 </code></pre>
+  62333   64073   64492   64505   64925   67002 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.742e+05 3.312e+06 5.651e+06 5.907e+07 1.159e+07 2.427e+11 </code></pre>
+1.013e+06 3.298e+06 5.664e+06 2.840e+07 1.181e+07 2.417e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -399,7 +399,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 <h2 class="anchored" data-anchor-id="breaking-open-the-window">Breaking open the window</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://www.knotes.co.in/posts/images/clipboard-452681702.png" class="img-fluid figure-img"></p>
+<p><img src="https://www.knotes.co.in/posts/images/window.png" class="img-fluid figure-img"></p>
 <figcaption>A generic image downloaded from google</figcaption>
 </figure>
 </div>
@@ -423,21 +423,51 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 </section>
 <section id="installation-preparation" class="level2">
 <h2 class="anchored" data-anchor-id="installation-preparation">Installation preparation</h2>
+<p>Installation involve multiple steps. Basically we have to create a bootable USB drive for linux, delete all remeasurement of Windows from the PC, boot and install Linux Mint and finally download necessary packages to run and use them.</p>
 <section id="download-linux-mint" class="level3">
 <h3 class="anchored" data-anchor-id="download-linux-mint">Download Linux mint</h3>
+<p>This is the official website to reach <a href="https://www.linuxmint.com">Wilma</a>, the latest version Linux Mint 22.</p>
+<p><img src="https://www.knotes.co.in/posts/images/mint.png" class="img-fluid"></p>
+<p>It is a long time support version and is fairly stable and usable out of the box. Download the iso file after verification.</p>
 </section>
 <section id="flash-as-usb-uefi" class="level3">
 <h3 class="anchored" data-anchor-id="flash-as-usb-uefi">Flash as USB UEFI</h3>
+<p>Get a USB flash drive of sufficient storage space(~10 GB).</p>
+<p><img src="https://www.knotes.co.in/posts/images/balena.png" class="img-fluid"></p>
+<p>Download <a href="https://etcher.balena.io">BalenaEtcher</a>. It is a USB flashing software. Install it on the machine and follow the instructions, select image, select drive and flash!</p>
 </section>
-<section id="enter-bios-setup" class="level3">
-<h3 class="anchored" data-anchor-id="enter-bios-setup">Enter BIOS setup</h3>
+<section id="enter-bios-set-up" class="level3">
+<h3 class="anchored" data-anchor-id="enter-bios-set-up">Enter BIOS set-up</h3>
+<p>For dell laptops, following steps will take you to BIOS setting</p>
+<ol type="1">
+<li><p>Connect USB flash drive</p></li>
+<li><p>Shut-down the PC</p></li>
+<li><p>Keep pressing fn and f12 keys</p></li>
+<li><p>Switch on the PC</p></li>
+<li><p>Hold the fn and f12 keys until BIOS menu is open</p></li>
+</ol>
 </section>
 </section>
 <section id="bios-changes" class="level2">
 <h2 class="anchored" data-anchor-id="bios-changes">BIOS Changes</h2>
+<section id="boot-set-up" class="level3">
+<h3 class="anchored" data-anchor-id="boot-set-up">Boot set up</h3>
+<p>Delete all options except USB UEFI flash drive</p>
+</section>
+<section id="storage-controller" class="level3">
+<h3 class="anchored" data-anchor-id="storage-controller">Storage controller</h3>
+<p>Set to AHCI/NVMe from RAID on</p>
+</section>
+<section id="security" class="level3">
+<h3 class="anchored" data-anchor-id="security">Security</h3>
+<p>Toggle <strong>data wipe</strong> on. This will take several minutes to hours based on the size and type of drive. SSD is faster. Our PC took hours (kept running overnight).</p>
+<p>After data wipe, the PC will be automatically switched off</p>
+</section>
 </section>
 <section id="linux-mint-installation" class="level2">
 <h2 class="anchored" data-anchor-id="linux-mint-installation">Linux Mint installation</h2>
+<p>Switch on the PC after holding fn and f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.</p>
+<p>The desktop will show installation file. Click on it and follow the instructions.</p>
 </section>
 <section id="application-installation" class="level2">
 <h2 class="anchored" data-anchor-id="application-installation">Application installation</h2>
@@ -452,23 +482,33 @@ List installed packages: apt list --installed</code></pre>
 </section>
 <section id="via-software-manager" class="level3">
 <h3 class="anchored" data-anchor-id="via-software-manager">Via Software manager</h3>
+<p>Linux Mint comes with a software manager inbuilt. It has a store with popular softwares.</p>
 <section id="zotero" class="level4">
 <h4 class="anchored" data-anchor-id="zotero">Zotero</h4>
+<pre class="terminal"><code>sudo apt install zotero</code></pre>
 </section>
 <section id="zotero-connector" class="level4">
 <h4 class="anchored" data-anchor-id="zotero-connector">Zotero connector</h4>
+<p><img src="https://www.knotes.co.in/posts/images/zotero.png" class="img-fluid"></p>
+<p>Launch mozella, go to <a href="https://www.zotero.org/download/connectors">Zotero connector link</a> and install</p>
 </section>
 <section id="better-bibtex" class="level4">
 <h4 class="anchored" data-anchor-id="better-bibtex">Better BibTEX</h4>
+<p>Download from <a href="https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.214">github link</a></p>
 </section>
 <section id="r-base" class="level4">
 <h4 class="anchored" data-anchor-id="r-base">r-base</h4>
+<pre class="terminal"><code>sudo apt install r-base</code></pre>
 </section>
 <section id="rstudio" class="level4">
 <h4 class="anchored" data-anchor-id="rstudio">rStudio</h4>
+<p><img src="https://www.knotes.co.in/posts/images/posit.png" class="img-fluid"></p>
+<p>Download from <a href="https://posit.co/download/rstudio-desktop/">official posit website</a>. Download the Ubundu 22/Debian 12 version and install</p>
 </section>
 <section id="git" class="level4">
 <h4 class="anchored" data-anchor-id="git">git</h4>
+<pre class="terminal"><code>sudo apt install git</code></pre>
+<p>Use ssh key for secure login</p>
 
 
 </section>

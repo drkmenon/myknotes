@@ -2209,7 +2209,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     0  child\n3:     3     1  child\n4:     4     0  child\n5:     5     0  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2  child   &lt;NA&gt;\n3:     3   &lt;NA&gt;  child\n4:     4  child   &lt;NA&gt;\n5:     5  child   &lt;NA&gt;\n6:     6  child   &lt;NA&gt;",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     0  child\n2:     2     1  child\n3:     3     0  child\n4:     4     0  child\n5:     5     1  child\n6:     6     1  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1  child   &lt;NA&gt;\n2:     2   &lt;NA&gt;  child\n3:     3  child   &lt;NA&gt;\n4:     4  child   &lt;NA&gt;\n5:     5   &lt;NA&gt;  child\n6:     6   &lt;NA&gt;  child",
     "crumbs": [
       "Home",
       "Research",
@@ -2689,7 +2689,7 @@
     "href": "posts/mint.html#installation-preparation",
     "title": "Through Windows to open world",
     "section": "Installation preparation",
-    "text": "Installation preparation\n\nDownload Linux mint\n\n\nFlash as USB UEFI\n\n\nEnter BIOS setup",
+    "text": "Installation preparation\nInstallation involve multiple steps. Basically we have to create a bootable USB drive for linux, delete all remeasurement of Windows from the PC, boot and install Linux Mint and finally download necessary packages to run and use them.\n\nDownload Linux mint\nThis is the official website to reach Wilma, the latest version Linux Mint 22.\n\nIt is a long time support version and is fairly stable and usable out of the box. Download the iso file after verification.\n\n\nFlash as USB UEFI\nGet a USB flash drive of sufficient storage space(~10 GB).\n\nDownload BalenaEtcher. It is a USB flashing software. Install it on the machine and follow the instructions, select image, select drive and flash!\n\n\nEnter BIOS set-up\nFor dell laptops, following steps will take you to BIOS setting\n\nConnect USB flash drive\nShut-down the PC\nKeep pressing fn and f12 keys\nSwitch on the PC\nHold the fn and f12 keys until BIOS menu is open",
     "crumbs": [
       "Home",
       "Blog",
@@ -2702,7 +2702,7 @@
     "href": "posts/mint.html#bios-changes",
     "title": "Through Windows to open world",
     "section": "BIOS Changes",
-    "text": "BIOS Changes",
+    "text": "BIOS Changes\n\nBoot set up\nDelete all options except USB UEFI flash drive\n\n\nStorage controller\nSet to AHCI/NVMe from RAID on\n\n\nSecurity\nToggle data wipe on. This will take several minutes to hours based on the size and type of drive. SSD is faster. Our PC took hours (kept running overnight).\nAfter data wipe, the PC will be automatically switched off",
     "crumbs": [
       "Home",
       "Blog",
@@ -2715,7 +2715,7 @@
     "href": "posts/mint.html#linux-mint-installation",
     "title": "Through Windows to open world",
     "section": "Linux Mint installation",
-    "text": "Linux Mint installation",
+    "text": "Linux Mint installation\nSwitch on the PC after holding fn and f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.\nThe desktop will show installation file. Click on it and follow the instructions.",
     "crumbs": [
       "Home",
       "Blog",
@@ -2728,7 +2728,7 @@
     "href": "posts/mint.html#application-installation",
     "title": "Through Windows to open world",
     "section": "Application installation",
-    "text": "Application installation\n\nVia Terminal\nUpdate package list: sudo apt update\nUpgrade packages: sudo apt upgrade\nInstall a package: sudo apt install package_name\nRemove a package: sudo apt remove package_name\nSearch for a package: apt search package_name\nList installed packages: apt list --installed\n\n\nVia Software manager\n\nZotero\n\n\nZotero connector\n\n\nBetter BibTEX\n\n\nr-base\n\n\nrStudio\n\n\ngit",
+    "text": "Application installation\n\nVia Terminal\nUpdate package list: sudo apt update\nUpgrade packages: sudo apt upgrade\nInstall a package: sudo apt install package_name\nRemove a package: sudo apt remove package_name\nSearch for a package: apt search package_name\nList installed packages: apt list --installed\n\n\nVia Software manager\nLinux Mint comes with a software manager inbuilt. It has a store with popular softwares.\n\nZotero\nsudo apt install zotero\n\n\nZotero connector\n\nLaunch mozella, go to Zotero connector link and install\n\n\nBetter BibTEX\nDownload from github link\n\n\nr-base\nsudo apt install r-base\n\n\nrStudio\n\nDownload from official posit website. Download the Ubundu 22/Debian 12 version and install\n\n\ngit\nsudo apt install git\nUse ssh key for secure login",
     "crumbs": [
       "Home",
       "Blog",
@@ -2858,7 +2858,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.091e+05 2.959e+05 3.434e+05 8.855e+05 4.332e+05 2.427e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61952   64068   64492   64501   64936   66950 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.742e+05 3.312e+06 5.651e+06 5.907e+07 1.159e+07 2.427e+11",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   214021    294953    343166    579196    438653 241978451 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62333   64073   64492   64505   64925   67002 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.013e+06 3.298e+06 5.664e+06 2.840e+07 1.181e+07 2.417e+10",
     "crumbs": [
       "Home",
       "Blog",

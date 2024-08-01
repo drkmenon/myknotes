@@ -10,7 +10,7 @@ nosite:
 
 ## Breaking open the window
 
-![A generic image downloaded from google](images/clipboard-452681702.png)
+![A generic image downloaded from google](images/window.png)
 
 My wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.
 
@@ -36,15 +36,59 @@ Flatpak is a tool designed for software deployment and package management on Lin
 
 ## Installation preparation
 
+Installation involve multiple steps. Basically we have to create a bootable USB drive for linux, delete all remeasurement of Windows from the PC, boot and install Linux Mint and finally download necessary packages to run and use them.
+
 ### Download Linux mint
+
+This is the official website to reach [Wilma](https://www.linuxmint.com), the latest version Linux Mint 22.
+
+![](images/mint.png)
+
+It is a long time support version and is fairly stable and usable out of the box. Download the iso file after verification.
 
 ### Flash as USB UEFI
 
-### Enter BIOS setup
+Get a USB flash drive of sufficient storage space(\~10 GB).
+
+![](images/balena.png)
+
+Download [BalenaEtcher](https://etcher.balena.io). It is a USB flashing software. Install it on the machine and follow the instructions, select image, select drive and flash!
+
+### Enter BIOS set-up
+
+For dell laptops, following steps will take you to BIOS setting
+
+1.  Connect USB flash drive
+
+2.  Shut-down the PC
+
+3.  Keep pressing fn and f12 keys
+
+4.  Switch on the PC
+
+5.  Hold the fn and f12 keys until BIOS menu is open
 
 ## BIOS Changes
 
+### Boot set up
+
+Delete all options except USB UEFI flash drive
+
+### Storage controller
+
+Set to AHCI/NVMe from RAID on
+
+### Security
+
+Toggle **data wipe** on. This will take several minutes to hours based on the size and type of drive. SSD is faster. Our PC took hours (kept running overnight).
+
+After data wipe, the PC will be automatically switched off
+
 ## Linux Mint installation
+
+Switch on the PC after holding fn and f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.
+
+The desktop will show installation file. Click on it and follow the instructions.
 
 ## Application installation
 
@@ -61,14 +105,40 @@ List installed packages: apt list --installed
 
 ### Via Software manager
 
+Linux Mint comes with a software manager inbuilt. It has a store with popular softwares.
+
 #### Zotero
+
+``` terminal
+sudo apt install zotero
+```
 
 #### Zotero connector
 
+![](images/zotero.png)
+
+Launch mozella, go to [Zotero connector link](https://www.zotero.org/download/connectors) and install
+
 #### Better BibTEX
+
+Download from [github link](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.214)
 
 #### r-base
 
+``` terminal
+sudo apt install r-base
+```
+
 #### rStudio
 
+![](images/posit.png)
+
+Download from [official posit website](https://posit.co/download/rstudio-desktop/). Download the Ubundu 22/Debian 12 version and install
+
 #### git
+
+``` terminal
+sudo apt install git
+```
+
+Use ssh key for secure login
