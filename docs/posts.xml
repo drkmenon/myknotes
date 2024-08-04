@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Wed, 31 Jul 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Aug 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -239,7 +239,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   214021    294953    343166    579196    438653 241978451 </code></pre>
+   209567    295241    342056    563390    432943 286555037 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62333   64073   64492   64505   64925   67002 </code></pre>
+  62249   64079   64521   64515   64943   66947 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-1.013e+06 3.298e+06 5.664e+06 2.840e+07 1.181e+07 2.417e+10 </code></pre>
+9.548e+05 3.293e+06 5.533e+06 2.701e+07 1.158e+07 2.863e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -384,7 +384,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Wed, 31 Jul 2024 18:30:00 GMT</pubDate>
+  <pubDate>Sat, 03 Aug 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Through Windows to open world</title>
@@ -444,7 +444,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 <li><p>Shut-down the PC</p></li>
 <li><p>Keep pressing fn and f12 keys</p></li>
 <li><p>Switch on the PC</p></li>
-<li><p>Hold the fn and f12 keys until BIOS menu is open</p></li>
+<li><p>Hold the f12 key until BIOS menu is open</p></li>
 </ol>
 </section>
 </section>
@@ -466,7 +466,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 </section>
 <section id="linux-mint-installation" class="level2">
 <h2 class="anchored" data-anchor-id="linux-mint-installation">Linux Mint installation</h2>
-<p>Switch on the PC after holding fn and f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.</p>
+<p>Switch on the PC after holding f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.</p>
 <p>The desktop will show installation file. Click on it and follow the instructions.</p>
 </section>
 <section id="application-installation" class="level2">
