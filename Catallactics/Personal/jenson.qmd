@@ -23,11 +23,17 @@ $$
 
 > Never put all eggs in one basket of similar risk-pay-off profile.
 
-Our immediate hunch will be to distribute the asset in all possible values of x to get an expected pay-off which is greater than the sum of the individual returns. Problem with this approach is the fact that we are neglecting the play of probability where the moral expectation is the true pay-off or return. In other words, the true return is not the arithmetic mean, it is the geometric mean of probability weighted return on capital.
+Our immediate hunch will be to distribute the asset in all possible values of x to get an expected pay-off which is greater than the sum of the individual returns. Problem with this approach is the fact that we are neglecting the play of probability where the moral expectation is the true pay-off or return.
+
+::: callout-caution
+In other words, the true return is not the arithmetic mean, it is the geometric mean of probability weighted return on capital.
+:::
+
+Then, what should be our strategy?
+
+It is impossible to predict the future return. What we can do is try to domesticate uncertainty by limiting the downside risk to minimum fixed value while keeping all the upside risks untouched.
 
 ## Best of both worlds
-
-What we need is not indiscriminate diversification. We can domesticate the uncertainty basically by two methods:
 
 §1. Deploy almost all assets in a risk free instrument and use a small amount of capital to speculate in a highly convex instrument
 
