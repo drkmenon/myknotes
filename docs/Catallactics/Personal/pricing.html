@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-08-04">
+<meta name="dcterms.date" content="2024-09-02">
 
 <title>knotes - Hedge pricing</title>
 <style>
@@ -692,6 +692,12 @@ cookieconsent.run({
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../../Catallactics/Personal/jenson.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Jenson’s inequality and risk reward</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../../Catallactics/Personal/nifty.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Seeking Levy parameters</span></a>
   </div>
@@ -889,7 +895,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 4, 2024</p>
+      <p class="date">September 2, 2024</p>
     </div>
   </div>
   
@@ -935,7 +941,7 @@ cookieconsent.run({
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>closing_price</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 24717.7</code></pre>
+<pre><code>[1] 25235.9</code></pre>
 </div>
 </div>
 </section>
@@ -963,7 +969,7 @@ cookieconsent.run({
 <span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>vol</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 0.1915399
+<pre><code>[1] 0.1903814
 attr(,"class")
 [1] "EuropeanOptionImpliedVolatility" "ImpliedVolatility"              </code></pre>
 </div>
@@ -995,7 +1001,7 @@ attr(,"class")
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(closing_price)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 24717.7</code></pre>
+<pre><code>[1] 25235.9</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1009,7 +1015,7 @@ attr(,"class")
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>strike</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 21010.04</code></pre>
+<pre><code>[1] 21450.52</code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>
@@ -1018,10 +1024,10 @@ attr(,"class")
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 
      value      delta      gamma       vega      theta        rho     divRho 
-  118.7829    -0.0705     0.0000  2529.8630  -289.0395 -1070.2590  1001.9183 </code></pre>
+  118.1998    -0.0693     0.0000  2550.6554  -289.6287 -1074.1151  1006.1502 </code></pre>
 </div>
 </div>
-<p>Price of a <strong>4 month 5 delta option</strong> is 119 for the given strike price</p>
+<p>Price of a <strong>4 month 5 delta option</strong> is 118 for the given strike price</p>
 </section>
 <section id="take-home-message" class="level2">
 <h2 class="anchored" data-anchor-id="take-home-message">Take home message</h2>
@@ -1053,7 +1059,7 @@ Summary
 <div class="cell-output cell-output-stdout">
 <pre><code>Concise summary of valuation for EuropeanOption 
      value      delta      gamma       vega      theta        rho     divRho 
-  298.0192    -0.1651     0.0001  4122.2287  -408.4845 -2250.2464  2078.7836 </code></pre>
+  293.1177    -0.1638     0.0001  4100.4435  -403.4529 -2230.1221  2061.5794 </code></pre>
 </div>
 <details class="code-fold">
 <summary>Code</summary>

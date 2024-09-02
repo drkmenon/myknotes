@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.4.555</generator>
-<lastBuildDate>Sat, 03 Aug 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Sep 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -239,7 +239,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   209567    295241    342056    563390    432943 286555037 </code></pre>
+   217158    296161    343336    581999    439593 133399014 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +249,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62249   64079   64521   64515   64943   66947 </code></pre>
+  62138   64071   64496   64505   64934   67063 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +259,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.548e+05 3.293e+06 5.533e+06 2.701e+07 1.158e+07 2.863e+10 </code></pre>
+1.038e+06 3.335e+06 5.694e+06 2.877e+07 1.221e+07 1.330e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -384,7 +384,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Sat, 03 Aug 2024 18:30:00 GMT</pubDate>
+  <pubDate>Sun, 01 Sep 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Through Windows to open world</title>
