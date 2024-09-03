@@ -5,9 +5,13 @@ comments:
 date: today
 ---
 
+## What is convex position?
+
+Any activity that result in unlimited potential upside with a limited quantifiable downside can be called convex. Eg: Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.
+
 ## Risk and pay-off graph
 
-Pay-off, g, is a convex function of risk, x, given by f(x)=g.
+Assume that we have a pay-off, g, which is a convex function of risk, x, given by f(x)=g.
 
 Let us plot **risk**, x, in x axis and **pay-off**, g, in y axis. When we go to the right in the x axis, risk goes on increasing and at one point x~2~, risk is 100%. We can loose everything deployed. Yet the reward is exponentially high to ignore,1000%!. In the extreme left, x~1~ , we can deploy the same asset with zero risk to get a modest return of 9%. Let the probability of x~1~ be p~1~ and probability of x~2~ be p~2~. p~1~ is extremely likely event and p~2~ is less likely event, and they can be unrelated. But for simplicity, p~1~ is around 66% and p~2~ is around 33% ( assuming that x~2~ happens when ever market moves more than 10% in either directions in 6 months). The below diagram graphically depicts the above mentioned scenario.
 
