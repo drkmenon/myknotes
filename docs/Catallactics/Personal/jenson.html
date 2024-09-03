@@ -864,7 +864,7 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#risk-and-payoff-graph" id="toc-risk-and-payoff-graph" class="nav-link active" data-scroll-target="#risk-and-payoff-graph">Risk and payoff graph</a>
+  <li><a href="#risk-and-pay-off-graph" id="toc-risk-and-pay-off-graph" class="nav-link active" data-scroll-target="#risk-and-pay-off-graph">Risk and pay-off graph</a>
   <ul class="collapse">
   <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
   </ul></li>
@@ -901,9 +901,10 @@ window.Quarto = {
 </header>
 
 
-<section id="risk-and-payoff-graph" class="level2">
-<h2 class="anchored" data-anchor-id="risk-and-payoff-graph">Risk and payoff graph</h2>
-<p>Pay-off, g, is a function of x, given by f(x)=g. Let us plot <strong>risk</strong>, x, in x axis and <strong>pay-off</strong>, g, in y axis. When we go to the right in the x axis, risk goes on increasing and at one point x<sub>2</sub>, risk is 100%. We can loose everything deployed. Yet the reward is exponentially high to ignore,1000%!. In the extreme left, x<sub>1</sub> , we can deploy the same asset with zero risk to get a modest return of 9%. Let the probability of x<sub>1</sub> be p<sub>1</sub> and probability of p<sub>2</sub> be (1-p<sub>1</sub>). p<sub>1</sub> is extremely likely event and p<sub>2</sub> is less likely event. But for simplicity, p<sub>1</sub> is around 66% and p<sub>2</sub> is around 33% ( assuming that x<sub>2</sub> happens when ever market moves more than 10% in either directions in 6 months). The below diagram graphically depicts the above mentioned scenario.</p>
+<section id="risk-and-pay-off-graph" class="level2">
+<h2 class="anchored" data-anchor-id="risk-and-pay-off-graph">Risk and pay-off graph</h2>
+<p>Pay-off, g, is a convex function of x, given by f(x)=g.</p>
+<p>Let us plot <strong>risk</strong>, x, in x axis and <strong>pay-off</strong>, g, in y axis. When we go to the right in the x axis, risk goes on increasing and at one point x<sub>2</sub>, risk is 100%. We can loose everything deployed. Yet the reward is exponentially high to ignore,1000%!. In the extreme left, x<sub>1</sub> , we can deploy the same asset with zero risk to get a modest return of 9%. Let the probability of x<sub>1</sub> be p<sub>1</sub> and probability of x<sub>2</sub> be p<sub>2</sub>. p<sub>1</sub> is extremely likely event and p<sub>2</sub> is less likely event, and they can be unrelated. But for simplicity, p<sub>1</sub> is around 66% and p<sub>2</sub> is around 33% ( assuming that x<sub>2</sub> happens when ever market moves more than 10% in either directions in 6 months). The below diagram graphically depicts the above mentioned scenario.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/jenson.png" class="img-fluid figure-img"></p>
@@ -920,7 +921,13 @@ E(g) &gt;= f(E(x))
 <blockquote class="blockquote">
 <p>Never put all eggs in one basket of similar risk-pay-off profile.</p>
 </blockquote>
-<p>Our immediate hunch will be to distribute the asset in all possible values of x to get an expected pay-off which is greater than the sum of the individual returns. Problem with this approach is the fact that we are neglecting the play of probability where the moral expectation is the true pay-off or return.</p>
+<p>Our immediate hunch will be to distribute the asset in all possible values of x to get an expected pay-off which is greater than the sum of the individual returns. This is true for a single period return.</p>
+<p>Problem with this is, when we invest for multiple periods without rebalancing, the approach neglect the following facts:</p>
+<ul>
+<li><p>the money weighted moral expectation (geometric mean) is the true pay-off or return.</p></li>
+<li><p>The correlation between various asset classes play a major role in determining the final return.</p></li>
+</ul>
+<p>Because most asset classes which are originally negatively correlated become positively correlated during a draw-down, diversification reduces the geometric mean to mediocre levels.</p>
 <div class="callout callout-style-default callout-caution callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -931,17 +938,17 @@ Caution
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>In other words, the true return is not the arithmetic mean, it is the geometric mean of probability weighted return on capital.</p>
+<p>In other words, for multiple period investment, the true return is not the arithmetic mean, it is the geometric mean of money weighted return on capital. Diversification reduces the downside risk, but with a bad side effect of reducing the <strong>upside risk</strong>.</p>
 </div>
 </div>
 <p>Then, what should be our strategy?</p>
-<p>It is impossible to predict the future return. What we can do is try to domesticate uncertainty by limiting the downside risk to minimum fixed value while keeping all the upside risks untouched.</p>
+<p>For multiple period time horizon, it is impossible to predict the future return. What we can do is try to domesticate uncertainty by limiting the downside risk to minimum fixed value while keeping all the upside risks untouched.</p>
 </section>
 </section>
 <section id="best-of-both-worlds" class="level2">
 <h2 class="anchored" data-anchor-id="best-of-both-worlds">Best of both worlds</h2>
-<p>§1. Deploy almost all assets in a risk free instrument and use a small amount of capital to speculate in a highly convex instrument</p>
-<p>§2. Deploy almost all assets in a moderately risky instrument and take insurance against downside</p>
+<p>§1. Deploy almost all assets in a risk free instrument with an certain return for all time periods and use a small amount of capital to speculate in a highly convex instrument totally unrelated to the original asset.</p>
+<p>§2. Deploy almost all assets in a moderately risky instrument and take insurance against downside.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://png.pngtree.com/png-clipart/20230816/original/pngtree-barbeldumbbell-gym-icon-logo-template-barbells-weights-press-vector-picture-image_10919626.png" class="img-fluid figure-img" width="411"></p>

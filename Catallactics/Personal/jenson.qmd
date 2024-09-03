@@ -5,9 +5,11 @@ comments:
 date: today
 ---
 
-## Risk and payoff graph
+## Risk and pay-off graph
 
-Pay-off, g, is a function of x, given by f(x)=g. Let us plot **risk**, x, in x axis and **pay-off**, g, in y axis. When we go to the right in the x axis, risk goes on increasing and at one point x~2~, risk is 100%. We can loose everything deployed. Yet the reward is exponentially high to ignore,1000%!. In the extreme left, x~1~ , we can deploy the same asset with zero risk to get a modest return of 9%. Let the probability of x~1~ be p~1~ and probability of p~2~ be (1-p~1~). p~1~ is extremely likely event and p~2~ is less likely event. But for simplicity, p~1~ is around 66% and p~2~ is around 33% ( assuming that x~2~ happens when ever market moves more than 10% in either directions in 6 months). The below diagram graphically depicts the above mentioned scenario.
+Pay-off, g, is a convex function of x, given by f(x)=g.
+
+Let us plot **risk**, x, in x axis and **pay-off**, g, in y axis. When we go to the right in the x axis, risk goes on increasing and at one point x~2~, risk is 100%. We can loose everything deployed. Yet the reward is exponentially high to ignore,1000%!. In the extreme left, x~1~ , we can deploy the same asset with zero risk to get a modest return of 9%. Let the probability of x~1~ be p~1~ and probability of x~2~ be p~2~. p~1~ is extremely likely event and p~2~ is less likely event, and they can be unrelated. But for simplicity, p~1~ is around 66% and p~2~ is around 33% ( assuming that x~2~ happens when ever market moves more than 10% in either directions in 6 months). The below diagram graphically depicts the above mentioned scenario.
 
 ![Jensen's inequality](images/jenson.png)
 
@@ -23,21 +25,29 @@ $$
 
 > Never put all eggs in one basket of similar risk-pay-off profile.
 
-Our immediate hunch will be to distribute the asset in all possible values of x to get an expected pay-off which is greater than the sum of the individual returns. Problem with this approach is the fact that we are neglecting the play of probability where the moral expectation is the true pay-off or return.
+Our immediate hunch will be to distribute the asset in all possible values of x to get an expected pay-off which is greater than the sum of the individual returns. This is true for a single period return.
+
+Problem with this is, when we invest for multiple periods without rebalancing, the approach neglect the following facts:
+
+-   the money weighted moral expectation (geometric mean) is the true pay-off or return.
+
+-   The correlation between various asset classes play a major role in determining the final return.
+
+Because most asset classes which are originally negatively correlated become positively correlated during a draw-down, diversification reduces the geometric mean to mediocre levels.
 
 ::: callout-caution
-In other words, the true return is not the arithmetic mean, it is the geometric mean of probability weighted return on capital.
+In other words, for multiple period investment, the true return is not the arithmetic mean, it is the geometric mean of money weighted return on capital. Diversification reduces the downside risk, but with a bad side effect of reducing the **upside risk**.
 :::
 
 Then, what should be our strategy?
 
-It is impossible to predict the future return. What we can do is try to domesticate uncertainty by limiting the downside risk to minimum fixed value while keeping all the upside risks untouched.
+For multiple period time horizon, it is impossible to predict the future return. What we can do is try to domesticate uncertainty by limiting the downside risk to minimum fixed value while keeping all the upside risks untouched.
 
 ## Best of both worlds
 
-§1. Deploy almost all assets in a risk free instrument and use a small amount of capital to speculate in a highly convex instrument
+§1. Deploy almost all assets in a risk free instrument with an certain return for all time periods and use a small amount of capital to speculate in a highly convex instrument totally unrelated to the original asset.
 
-§2. Deploy almost all assets in a moderately risky instrument and take insurance against downside
+§2. Deploy almost all assets in a moderately risky instrument and take insurance against downside.
 
 ![Barbell](https://png.pngtree.com/png-clipart/20230816/original/pngtree-barbeldumbbell-gym-icon-logo-template-barbells-weights-press-vector-picture-image_10919626.png){width="411"}
 
