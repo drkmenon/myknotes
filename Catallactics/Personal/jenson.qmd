@@ -17,7 +17,7 @@ Let us plot **risk**, x, in x axis and **pay-off**, g, in y axis. When we go to 
 
 ![Jensen's inequality](images/jenson.png)
 
-If all assets are deployed at x~1~, the pay-off, g, which is the f(x~1~), we can generate a return of f(E(x~1~))=9% with very high probability of success with almost zero risk. On the other hand, if we deploy all the assets at x~2~, we may generate a mind blowing return of f(E(x~2~))=1000%, but with a very high probability of 100% capital loss.
+If all assets are deployed at x~1~, we can generate a return of f(E(x~1~))=9% with very high probability of success with almost zero risk. On the other hand, if we deploy all the assets at x~2~, we may generate a mind blowing return of f(E(x~2~))=1000%, but with a very high probability of 100% capital loss.
 
 Assume we have a combination of x~1~ and x~2~. Here, Jensen's inequality says that **expected value of g will always be greater than or equal to the function of the expected value of x, given that the f(x) is convex**
 
