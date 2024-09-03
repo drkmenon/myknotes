@@ -5,7 +5,7 @@ comments:
 date: today
 ---
 
-## What is convex position?
+## What is a convex position?
 
 ::: callout-important
 Any activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.

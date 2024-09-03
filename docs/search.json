@@ -1759,8 +1759,8 @@
     ]
   },
   {
-    "objectID": "Catallactics/Personal/jenson.html#what-is-convex-position",
-    "href": "Catallactics/Personal/jenson.html#what-is-convex-position",
+    "objectID": "Catallactics/Personal/jenson.html#what-is-a-convex-position",
+    "href": "Catallactics/Personal/jenson.html#what-is-a-convex-position",
     "title": "Jensen’s inequality and risk reward",
     "section": "",
     "text": "Important\n\n\n\nAny activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.\n\n\nEg: Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.",
@@ -3028,7 +3028,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.099e+05 2.953e+05 3.438e+05 6.535e+05 4.356e+05 1.109e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62382   64071   64508   64509   64944   66915 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.881e+05 3.350e+06 5.691e+06 3.599e+07 1.194e+07 1.109e+11",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   215249    296385    343176    540022    437222 117217439 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62209   64071   64500   64506   64932   67520 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.087e+06 3.345e+06 5.598e+06 2.459e+07 1.171e+07 1.168e+10",
     "crumbs": [
       "Home",
       "Blog",
@@ -3694,7 +3694,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     1  child\n3:     3     0  child\n4:     4     0  child\n5:     5     0  child\n6:     6     1  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2   &lt;NA&gt;  child\n3:     3  child   &lt;NA&gt;\n4:     4  child   &lt;NA&gt;\n5:     5  child   &lt;NA&gt;\n6:     6   &lt;NA&gt;  child",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     0  child\n2:     2     1  child\n3:     3     1  child\n4:     4     1  child\n5:     5     1  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1  child   &lt;NA&gt;\n2:     2   &lt;NA&gt;  child\n3:     3   &lt;NA&gt;  child\n4:     4   &lt;NA&gt;  child\n5:     5   &lt;NA&gt;  child\n6:     6  child   &lt;NA&gt;",
     "crumbs": [
       "Home",
       "Research",
