@@ -1,5 +1,5 @@
 ---
-title: Jenson's inequality and risk reward
+title: Jensen's inequality and risk reward
 comments: 
   hypothesis: true
 date: today
@@ -9,11 +9,11 @@ date: today
 
 Pay-off, g, is a function of x, given by f(x)=g. Let us plot **risk**, x, in x axis and **pay-off**, g, in y axis. When we go to the right in the x axis, risk goes on increasing and at one point x~2~, risk is 100%. We can loose everything deployed. Yet the reward is exponentially high to ignore,1000%!. In the extreme left, x~1~ , we can deploy the same asset with zero risk to get a modest return of 9%. Let the probability of x~1~ be p~1~ and probability of p~2~ be (1-p~1~). p~1~ is extremely likely event and p~2~ is less likely event. But for simplicity, p~1~ is around 66% and p~2~ is around 33% ( assuming that x~2~ happens when ever market moves more than 10% in either directions in 6 months). The below diagram graphically depicts the above mentioned scenario.
 
-![Jenson's inequality](images/jenson.png)
+![Jensen's inequality](images/jenson.png)
 
 If all assets are deployed at x~1~, the pay-off, g, which is the f(x~1~), we can generate a return of f(E(x~1~))=9% with very high probability of success with almost zero risk. On the other hand, if we deploy all the assets at x~2~, we may generate a mind blowing return of f(E(x~2~))=1000%, but with a very high probability of 100% capital loss.
 
-Assume we have a combination of x~1~ and x~2~. Here, Jenson's inequality says that **expected value of g will always be greater than or equal to the function of the expected value of x, given that the f(x) is convex**
+Assume we have a combination of x~1~ and x~2~. Here, Jensen's inequality says that **expected value of g will always be greater than or equal to the function of the expected value of x, given that the f(x) is convex**
 
 $$
 E(g) >= f(E(x))
