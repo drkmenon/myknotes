@@ -2,7 +2,7 @@
 title: Jensen's inequality and risk reward
 comments: 
   hypothesis: true
-date: today
+date: 09/02/2024
 ---
 
 ## What is a convex position?
@@ -50,6 +50,8 @@ In other words, for multiple period investment, the true return is not the arith
 Then, what should be our strategy?
 
 For multiple period time horizon, it is impossible to predict the future return. What we can do is try to domesticate uncertainty by limiting the downside risk to minimum fixed value while keeping all the upside risks untouched.
+
+In short, what we should try for is **diversification in time** using asset classes that can capture unlimited upside risk and at the same time limit any downside risk to fixed quantity, **not diversification of assets**.
 
 ## Best of both worlds
 
