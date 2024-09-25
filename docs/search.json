@@ -1749,7 +1749,7 @@
     "href": "Catallactics/Personal/jenson.html",
     "title": "Jensen’s inequality and risk reward",
     "section": "",
-    "text": "Important\n\n\n\nAny activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.\n\n\nEg: Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.",
+    "text": "Important\n\n\n\nAny activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.\n\n\ne.g., Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -1763,7 +1763,7 @@
     "href": "Catallactics/Personal/jenson.html#what-is-a-convex-position",
     "title": "Jensen’s inequality and risk reward",
     "section": "",
-    "text": "Important\n\n\n\nAny activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.\n\n\nEg: Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.",
+    "text": "Important\n\n\n\nAny activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.\n\n\ne.g., Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -1931,7 +1931,7 @@
     "href": "Catallactics/Personal/pricing.html",
     "title": "Hedge pricing",
     "section": "",
-    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 25279.85\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
+    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 25940.4\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -1945,7 +1945,7 @@
     "href": "Catallactics/Personal/pricing.html#calculate-implied-volatility",
     "title": "Hedge pricing",
     "section": "",
-    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 25279.85\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
+    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 25940.4\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -1959,7 +1959,7 @@
     "href": "Catallactics/Personal/pricing.html#option-pricing-calculation",
     "title": "Hedge pricing",
     "section": "Option pricing calculation",
-    "text": "Option pricing calculation\nAim for a strike less than 10 delta. Plugin the implied volatility and other data.\n\n\nCode\nclosing_price&lt;-closing_price\nstrike &lt;- closing_price * 0.85  # Strike price of the option\ntime_to_expiry &lt;- 210/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\n\n\nprice&lt;-EuropeanOption(type = \"put\",underlying = closing_price,strike = strike,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = vol)\n\ncat(\"Closing price of nifty:\\n\")\n\n\nClosing price of nifty:\n\n\nCode\nprint(closing_price)\n\n\n[1] 25279.85\n\n\nCode\ncat(\"Strike price:\\n\")\n\n\nStrike price:\n\n\nCode\nstrike\n\n\n[1] 21487.87\n\n\nCode\nprice\n\n\nConcise summary of valuation for EuropeanOption \n     value      delta      gamma       vega      theta        rho     divRho \n  118.4056    -0.0693     0.0000  2555.0975  -290.1331 -1075.9857  1007.9025 \n\n\nPrice of a 4 month 5 delta option is 118 for the given strike price",
+    "text": "Option pricing calculation\nAim for a strike less than 10 delta. Plugin the implied volatility and other data.\n\n\nCode\nclosing_price&lt;-closing_price\nstrike &lt;- closing_price * 0.85  # Strike price of the option\ntime_to_expiry &lt;- 210/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\n\n\nprice&lt;-EuropeanOption(type = \"put\",underlying = closing_price,strike = strike,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = vol)\n\ncat(\"Closing price of nifty:\\n\")\n\n\nClosing price of nifty:\n\n\nCode\nprint(closing_price)\n\n\n[1] 25940.4\n\n\nCode\ncat(\"Strike price:\\n\")\n\n\nStrike price:\n\n\nCode\nstrike\n\n\n[1] 22049.34\n\n\nCode\nprice\n\n\nConcise summary of valuation for EuropeanOption \n     value      delta      gamma       vega      theta        rho     divRho \n  121.4995    -0.0693     0.0000  2621.8610  -297.7141 -1104.1007  1034.2385 \n\n\nPrice of a 4 month 5 delta option is 121 for the given strike price",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -2816,94 +2816,159 @@
     ]
   },
   {
-    "objectID": "posts/EV battery.html",
-    "href": "posts/EV battery.html",
-    "title": "EV battery",
+    "objectID": "posts/Pink roses.html",
+    "href": "posts/Pink roses.html",
+    "title": "Pink roses in a white pot",
     "section": "",
-    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
+    "text": "Pink roses in a white pot. Artist:Parvathy Menon\nWork: Pink roses in a white pot\nArtist: Parvathy Menon\nMedium: Water-colour",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "EV battery"
+      "Pink roses in a white pot"
     ]
   },
   {
-    "objectID": "posts/EV battery.html#types-of-battery",
-    "href": "posts/EV battery.html#types-of-battery",
-    "title": "EV battery",
+    "objectID": "posts/Pink roses.html#aesthetic-appeal",
+    "href": "posts/Pink roses.html#aesthetic-appeal",
+    "title": "Pink roses in a white pot",
+    "section": "Aesthetic Appeal",
+    "text": "Aesthetic Appeal\n\nColor Palette: The soft pinks of the roses complement the light, creamy yellow background, giving the painting a gentle and soothing appearance. The green leaves add contrast, balancing the overall composition.\nTechnique: The watercolor style is evident in the soft blending of colors, especially in the background, which creates a textured effect. The roses are more defined, with delicate shading, which enhances their three-dimensional look. The artist has achieved a nice balance between detail and softness.\nComposition: Centering the pot and flowers works well here, focusing the viewer’s attention directly on the subject. The background has a textured yet minimalistic feel, which avoids distracting from the focal point of the painting.\nLighting: The light effect in the background, with rays gently illuminating the roses, adds a warm, almost glowing atmosphere to the scene, giving the painting a serene and uplifting mood.\n\nOverall, it’s a beautifully executed piece, with a pleasing balance of color, light, and composition. The artist’s choice to keep the background soft helps to bring out the details in the flowers, making them the highlight of the piece.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Pink roses in a white pot"
+    ]
+  },
+  {
+    "objectID": "posts/Pink roses.html#technique",
+    "href": "posts/Pink roses.html#technique",
+    "title": "Pink roses in a white pot",
+    "section": "Technique",
+    "text": "Technique\nIn terms of technical skill and execution, this watercolor painting showcases a balanced mix of techniques and thoughtful decisions that enhance its overall effect.\n\nWatercolour Technique\n\nBlending and Washes: The artist has used soft washes for the background, creating a subtle gradient effect with a warm, light yellow hue. This is well executed, as the blending of colours feels smooth and controlled. The watercolour medium shines here with its fluidity, giving the background an almost ethereal quality.\nTexturing: The background also features some interesting texture, possibly achieved through the “wet-on-wet” technique or dabbing with a sponge. This adds depth and dimension without overwhelming the focal point, which is the potted roses.\n\n\n\nDetail in the Roses\n\nLayering:\nThe roses themselves are rendered with more defined details, which indicates the artist’s understanding of how to layer watercolour effectively. Watercolor can be tricky when it comes to building layers, as it can easily overwork or muddy the paper. However, in this case, the artist has successfully built up the forms of the roses through layered washes and strategic shading, giving them a natural, soft appearance.\n\n\nShading and Volume\nThe shading on the petals creates a sense of depth and realism, enhancing the three-dimensional look of the flowers. The artist has carefully shaded the undersides of petals and added highlights, showing an understanding of how light interacts with organic forms.\n\n\n\nControl and Precision\n\nClean Edges\nThe edges of the leaves, stems, and the pot are fairly crisp, which is difficult to achieve with watercolors since the paint tends to bleed. The control here suggests the artist has a good grasp of when to let the paint flow and when to contain it.\n\n\nWhite Space\nThe white pot, while simple, is well-executed with minimal colour, relying on shading to define its form. The artist uses the white of the paper for highlights, which is a common watercolour technique that requires forethought and restraint.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Pink roses in a white pot"
+    ]
+  },
+  {
+    "objectID": "posts/Pink roses.html#composition",
+    "href": "posts/Pink roses.html#composition",
+    "title": "Pink roses in a white pot",
+    "section": "Composition",
+    "text": "Composition\n\nCentre Focus\nThe composition is straightforward, with the roses placed centrally in the frame. This works well because the simplicity of the arrangement allows the viewer to focus entirely on the flowers. The pot anchors the composition, giving it a grounded feel.\n\n\nBalance Between Foreground and Background\nThe artist has balanced the detailed foreground (roses and pot) with the soft, flowing background. The focus remains on the flowers, yet the background supports them by providing a sense of light and warmth without being overly detailed or distracting",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Pink roses in a white pot"
+    ]
+  },
+  {
+    "objectID": "posts/Pink roses.html#concept-and-meaning",
+    "href": "posts/Pink roses.html#concept-and-meaning",
+    "title": "Pink roses in a white pot",
+    "section": "Concept and meaning",
+    "text": "Concept and meaning\nThe watercolour artwork featuring pink roses in a white pot against a soft yellow background evokes a sense of tranquillity, beauty, and simplicity.\nPink Roses: traditionally symbolize love, grace, and gratitude.\n\nThe choice of pink rather than bold red suggests a subtler, more refined expression of these feelings, leaning toward peacefulness and tenderness rather than passion.\n\nWhite Pot as a Vessel:The plain white pot can symbolize purity and simplicity. It contrasts with the vibrant colours of the roses, serving as a neutral base that allows the beauty of the flowers to take center stage.\n\nThe pot, being a vessel, might also suggest that beauty and love need nurturing and care to grow.\n\nSoft Yellow Background:The background, rendered in soft yellows and creams, brings warmth and light into the scene. Yellow often symbolizes optimism, happiness, and energy. The subtle gradient in the background, with light beams suggesting illumination, may represent a positive, uplifting atmosphere, possibly signifying hope, joy, or new beginnings.\n\n\n\n\n\n\nOverall message\n\n\n\nThe overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in a humble, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.\nThe warm, glowing background adds a timeless, ethereal quality to the image, almost as if it’s capturing a moment of peace that could last forever.\nIn essence,\nthe work reminds the viewer to find beauty in ordinary moments and to nurture the things that bring light and warmth into their lives.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Pink roses in a white pot"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html",
+    "href": "posts/mint.html",
+    "title": "Through Windows to open world",
     "section": "",
-    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
+    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "EV battery"
+      "Through Windows to open world"
     ]
   },
   {
-    "objectID": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
-    "href": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
-    "title": "EV battery",
-    "section": "Comparison of LFP and NMC Li-ion battery",
-    "text": "Comparison of LFP and NMC Li-ion battery\n\n\n\n\n\n\n\nLFP\nNMC\n\n\n\n\nCheap ($ 100/unit)\nCostly\n\n\nLess thermal run away\nMore thermal run away\n\n\nSafe to charge 100%\nLess safe for 100% charge\n\n\nLess energy density\nMore energy density\n\n\nLife is ~ 3000 cycles of charge\nLife is ~ 1500 cycles of charge\n\n\nSub-par range & charging in cold\nTemperature insensitive\n\n\ne.g: MG 50.3 pack, Tesla, BYD\ne.g: MG 44.5 pack, Nissan, Benz",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "EV battery"
-    ]
-  },
-  {
-    "objectID": "posts/HGT.html",
-    "href": "posts/HGT.html",
-    "title": "Wrinkles in the vast genetic sea",
+    "objectID": "posts/mint.html#breaking-open-the-window",
+    "href": "posts/mint.html#breaking-open-the-window",
+    "title": "Through Windows to open world",
     "section": "",
-    "text": "Dalle 3 imagined picture of vertical wrinkle in the vast sea.",
+    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Wrinkles in the vast genetic sea"
+      "Through Windows to open world"
     ]
   },
   {
-    "objectID": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
-    "href": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
-    "title": "Wrinkles in the vast genetic sea",
-    "section": "Horizontal gene transfer (HGT) in the primitive world",
-    "text": "Horizontal gene transfer (HGT) in the primitive world\nCarl Woese is one of the leading taxonomical microbiologists is the world. His paper “A New Biology for a New Century” discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.\nThat world was a vast sea of cosmopolitan genes, freely flowing from one entity to another. Because of HGT, evolution might have been largely communal and reticulate, rather than individual. We may never know whether their communal bonds persisted solely through gene exchanges or whether they evolved into physically organized groups, possibly resembling contemporary bacterial consortia but exhibiting even greater diversity in composition and methods of interaction. But it seems that efficient genes produced better systems of metabolism and reproduction, which got readily transferred to the community, thereby upgrading the system as a whole.",
+    "objectID": "posts/mint.html#linux",
+    "href": "posts/mint.html#linux",
+    "title": "Through Windows to open world",
+    "section": "Linux",
+    "text": "Linux\nBelieve me or not, Linux is the most commonly used operating system in the world. Yes, you heard me right: it is not the windows. Because of the dominance of Linux-based Android on smartphones, Linux, including Android, has the largest installed base of all general-purpose operating systems as of now. It is a completely free kernal for operating system. But, two eternal impediments of the system are\n\nMultiple distributions, called “distros”\nEqually fragmented application development and availability\n\nThese impediments are not limitations in the strictest sense. Linux is not developed, it evolves by trial and error. It emulates socio cultural evolution and strongly resonates with our own position in the Darvenian interlude. Just like the author, Linux is completely agnostic about why and where.\nLinux captured my mind and I immediately jumped in.\n\nDistro\nThe multitude of Linux distributions can be overwhelming for newcomers, but among them, Ubuntu and Linux Mint are particularly notable for their user-friendliness and quick setup. Ubuntu tends to be more technical, while Linux Mint is known for supporting Flatpak.\nFlatpak is a tool designed for software deployment and package management on Linux. It claims to provide a sandboxed environment where applications can run independently from the rest of the system. In theory, Flatpak apps can be installed on any existing or future Linux distribution, including those running under the Windows Subsystem for Linux, as long as bubblewrap and OSTree are present. Linux Mint felt more appealing for me.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Wrinkles in the vast genetic sea"
+      "Through Windows to open world"
     ]
   },
   {
-    "objectID": "posts/HGT.html#bumpy-roads-to-who-knows-where",
-    "href": "posts/HGT.html#bumpy-roads-to-who-knows-where",
-    "title": "Wrinkles in the vast genetic sea",
-    "section": "Bumpy roads to who knows where",
-    "text": "Bumpy roads to who knows where\nThis reticulate evolution sometimes reaches a saturation point as far as a particular individual entity (e.g., cells) is concerned. What may mean by a saturation point is that HGT breaks the existing composition, and a new entity emerges from the existing one. Very often, such an entity will not have any survival advantage and becomes obsolete over the passage of time.\nBut, as Freeman Dyson would call it, a ‘Bill Gates’ moment can happen at this juncture. The entity or cell that gains a new emergent property, a saltation, suddenly feels it inconceivable to share that property with the rest of the community. The advancement thus happened gets reserved to the private consumption rather than the advancement of the community. Muliple such events might have happened.\nThese saltatory moments become the start of a winner-takes-all, fractal cascade, the vertical individual evolution. This vertical wrinkle in the vast sea of horizontal evolution is marked by canonical interactions based on competition for survival rather than free transfer.\nThat wrinkle could be archaea, bacteria, a eukaryote, or even an unknown entity that could be evolving vertically in their own right. What is clear here is that vertical evolution is not only bumpy or staccato, but it seemingly leads to nowhere.",
+    "objectID": "posts/mint.html#installation-preparation",
+    "href": "posts/mint.html#installation-preparation",
+    "title": "Through Windows to open world",
+    "section": "Installation preparation",
+    "text": "Installation preparation\nInstallation involve multiple steps. Basically we have to create a bootable USB drive for linux, delete all remeasurement of Windows from the PC, boot and install Linux Mint and finally download necessary packages to run and use them.\n\nDownload Linux mint\nThis is the official website to reach Wilma, the latest version Linux Mint 22.\n\nIt is a long time support version and is fairly stable and usable out of the box. Download the iso file after verification.\n\n\nFlash as USB UEFI\nGet a USB flash drive of sufficient storage space(~10 GB).\n\nDownload BalenaEtcher. It is a USB flashing software. Install it on the machine and follow the instructions, select image, select drive and flash!\n\n\nEnter BIOS set-up\nFor dell laptops, following steps will take you to BIOS setting\n\nConnect USB flash drive\nShut-down the PC\nKeep pressing fn and f12 keys\nSwitch on the PC\nHold the f12 key until BIOS menu is open",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Wrinkles in the vast genetic sea"
+      "Through Windows to open world"
     ]
   },
   {
-    "objectID": "posts/HGT.html#who-will-straighten-the-wrinkles",
-    "href": "posts/HGT.html#who-will-straighten-the-wrinkles",
-    "title": "Wrinkles in the vast genetic sea",
-    "section": "Who will straighten the wrinkles?",
-    "text": "Who will straighten the wrinkles?\nAlmost everything that defines humans boils down to reticulation. Whether it is language, religion, and such social organizations, or gene therapy and the worldwide web, what we see is pure horizontal transfer of information. This cultural evolution is 1000s of times more faster and potent than Darwinian evolution of competition for survival between non interbreeding species. Except for some aberrations, we can see that Homo sapiens as a whole are attempting to straighten the wrinkle. In a sense, they are trying to rectify the Darwinian error.",
+    "objectID": "posts/mint.html#bios-changes",
+    "href": "posts/mint.html#bios-changes",
+    "title": "Through Windows to open world",
+    "section": "BIOS Changes",
+    "text": "BIOS Changes\n\nBoot set up\nDelete all options except USB UEFI flash drive\n\n\nStorage controller\nSet to AHCI/NVMe from RAID on\n\n\nSecurity\nToggle data wipe on. This will take several minutes to hours based on the size and type of drive. SSD is faster. Our PC took hours (kept running overnight).\nAfter data wipe, the PC will be automatically switched off",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Wrinkles in the vast genetic sea"
+      "Through Windows to open world"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html#linux-mint-installation",
+    "href": "posts/mint.html#linux-mint-installation",
+    "title": "Through Windows to open world",
+    "section": "Linux Mint installation",
+    "text": "Linux Mint installation\nSwitch on the PC after holding f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.\nThe desktop will show installation file. Click on it and follow the instructions.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Through Windows to open world"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html#application-installation",
+    "href": "posts/mint.html#application-installation",
+    "title": "Through Windows to open world",
+    "section": "Application installation",
+    "text": "Application installation\n\nVia Terminal\nUpdate package list: sudo apt update\nUpgrade packages: sudo apt upgrade\nInstall a package: sudo apt install package_name\nRemove a package: sudo apt remove package_name\nSearch for a package: apt search package_name\nList installed packages: apt list --installed\n\n\nVia Software manager\nLinux Mint comes with a software manager inbuilt. It has a store with popular softwares.\n\nZotero\nsudo apt install zotero\n\n\nZotero connector\n\nLaunch mozella, go to Zotero connector link and install\n\n\nBetter BibTEX\nDownload from github link\n\n\nr-base\nsudo apt install r-base\n\n\nrStudio\n\nDownload from official posit website. Download the Ubundu 22/Debian 12 version and install\n\n\ngit\nsudo apt install git\nUse ssh key for secure login",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Through Windows to open world"
     ]
   },
   {
@@ -3028,7 +3093,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   207148    295231    341943    600628    434663 396552986 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62110   64062   64497   64504   64930   67015 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.441e+05 3.323e+06 5.576e+06 3.066e+07 1.169e+07 3.962e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   215957    297193    345403    536932    439557 104496760 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61945   64059   64494   64499   64934   66939 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.084e+06 3.391e+06 5.758e+06 2.425e+07 1.214e+07 1.016e+10",
     "crumbs": [
       "Home",
       "Blog",
@@ -3102,94 +3167,94 @@
     ]
   },
   {
-    "objectID": "posts/mint.html",
-    "href": "posts/mint.html",
-    "title": "Through Windows to open world",
+    "objectID": "posts/HGT.html",
+    "href": "posts/HGT.html",
+    "title": "Wrinkles in the vast genetic sea",
     "section": "",
-    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
+    "text": "Dalle 3 imagined picture of vertical wrinkle in the vast sea.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Through Windows to open world"
+      "Wrinkles in the vast genetic sea"
     ]
   },
   {
-    "objectID": "posts/mint.html#breaking-open-the-window",
-    "href": "posts/mint.html#breaking-open-the-window",
-    "title": "Through Windows to open world",
+    "objectID": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
+    "href": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
+    "title": "Wrinkles in the vast genetic sea",
+    "section": "Horizontal gene transfer (HGT) in the primitive world",
+    "text": "Horizontal gene transfer (HGT) in the primitive world\nCarl Woese is one of the leading taxonomical microbiologists is the world. His paper “A New Biology for a New Century” discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.\nThat world was a vast sea of cosmopolitan genes, freely flowing from one entity to another. Because of HGT, evolution might have been largely communal and reticulate, rather than individual. We may never know whether their communal bonds persisted solely through gene exchanges or whether they evolved into physically organized groups, possibly resembling contemporary bacterial consortia but exhibiting even greater diversity in composition and methods of interaction. But it seems that efficient genes produced better systems of metabolism and reproduction, which got readily transferred to the community, thereby upgrading the system as a whole.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Wrinkles in the vast genetic sea"
+    ]
+  },
+  {
+    "objectID": "posts/HGT.html#bumpy-roads-to-who-knows-where",
+    "href": "posts/HGT.html#bumpy-roads-to-who-knows-where",
+    "title": "Wrinkles in the vast genetic sea",
+    "section": "Bumpy roads to who knows where",
+    "text": "Bumpy roads to who knows where\nThis reticulate evolution sometimes reaches a saturation point as far as a particular individual entity (e.g., cells) is concerned. What may mean by a saturation point is that HGT breaks the existing composition, and a new entity emerges from the existing one. Very often, such an entity will not have any survival advantage and becomes obsolete over the passage of time.\nBut, as Freeman Dyson would call it, a ‘Bill Gates’ moment can happen at this juncture. The entity or cell that gains a new emergent property, a saltation, suddenly feels it inconceivable to share that property with the rest of the community. The advancement thus happened gets reserved to the private consumption rather than the advancement of the community. Muliple such events might have happened.\nThese saltatory moments become the start of a winner-takes-all, fractal cascade, the vertical individual evolution. This vertical wrinkle in the vast sea of horizontal evolution is marked by canonical interactions based on competition for survival rather than free transfer.\nThat wrinkle could be archaea, bacteria, a eukaryote, or even an unknown entity that could be evolving vertically in their own right. What is clear here is that vertical evolution is not only bumpy or staccato, but it seemingly leads to nowhere.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Wrinkles in the vast genetic sea"
+    ]
+  },
+  {
+    "objectID": "posts/HGT.html#who-will-straighten-the-wrinkles",
+    "href": "posts/HGT.html#who-will-straighten-the-wrinkles",
+    "title": "Wrinkles in the vast genetic sea",
+    "section": "Who will straighten the wrinkles?",
+    "text": "Who will straighten the wrinkles?\nAlmost everything that defines humans boils down to reticulation. Whether it is language, religion, and such social organizations, or gene therapy and the worldwide web, what we see is pure horizontal transfer of information. This cultural evolution is 1000s of times more faster and potent than Darwinian evolution of competition for survival between non interbreeding species. Except for some aberrations, we can see that Homo sapiens as a whole are attempting to straighten the wrinkle. In a sense, they are trying to rectify the Darwinian error.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Wrinkles in the vast genetic sea"
+    ]
+  },
+  {
+    "objectID": "posts/EV battery.html",
+    "href": "posts/EV battery.html",
+    "title": "EV battery",
     "section": "",
-    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Through Windows to open world"
+      "EV battery"
     ]
   },
   {
-    "objectID": "posts/mint.html#linux",
-    "href": "posts/mint.html#linux",
-    "title": "Through Windows to open world",
-    "section": "Linux",
-    "text": "Linux\nBelieve me or not, Linux is the most commonly used operating system in the world. Yes, you heard me right: it is not the windows. Because of the dominance of Linux-based Android on smartphones, Linux, including Android, has the largest installed base of all general-purpose operating systems as of now. It is a completely free kernal for operating system. But, two eternal impediments of the system are\n\nMultiple distributions, called “distros”\nEqually fragmented application development and availability\n\nThese impediments are not limitations in the strictest sense. Linux is not developed, it evolves by trial and error. It emulates socio cultural evolution and strongly resonates with our own position in the Darvenian interlude. Just like the author, Linux is completely agnostic about why and where.\nLinux captured my mind and I immediately jumped in.\n\nDistro\nThe multitude of Linux distributions can be overwhelming for newcomers, but among them, Ubuntu and Linux Mint are particularly notable for their user-friendliness and quick setup. Ubuntu tends to be more technical, while Linux Mint is known for supporting Flatpak.\nFlatpak is a tool designed for software deployment and package management on Linux. It claims to provide a sandboxed environment where applications can run independently from the rest of the system. In theory, Flatpak apps can be installed on any existing or future Linux distribution, including those running under the Windows Subsystem for Linux, as long as bubblewrap and OSTree are present. Linux Mint felt more appealing for me.",
+    "objectID": "posts/EV battery.html#types-of-battery",
+    "href": "posts/EV battery.html#types-of-battery",
+    "title": "EV battery",
+    "section": "",
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Through Windows to open world"
+      "EV battery"
     ]
   },
   {
-    "objectID": "posts/mint.html#installation-preparation",
-    "href": "posts/mint.html#installation-preparation",
-    "title": "Through Windows to open world",
-    "section": "Installation preparation",
-    "text": "Installation preparation\nInstallation involve multiple steps. Basically we have to create a bootable USB drive for linux, delete all remeasurement of Windows from the PC, boot and install Linux Mint and finally download necessary packages to run and use them.\n\nDownload Linux mint\nThis is the official website to reach Wilma, the latest version Linux Mint 22.\n\nIt is a long time support version and is fairly stable and usable out of the box. Download the iso file after verification.\n\n\nFlash as USB UEFI\nGet a USB flash drive of sufficient storage space(~10 GB).\n\nDownload BalenaEtcher. It is a USB flashing software. Install it on the machine and follow the instructions, select image, select drive and flash!\n\n\nEnter BIOS set-up\nFor dell laptops, following steps will take you to BIOS setting\n\nConnect USB flash drive\nShut-down the PC\nKeep pressing fn and f12 keys\nSwitch on the PC\nHold the f12 key until BIOS menu is open",
+    "objectID": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "href": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "title": "EV battery",
+    "section": "Comparison of LFP and NMC Li-ion battery",
+    "text": "Comparison of LFP and NMC Li-ion battery\n\n\n\n\n\n\n\nLFP\nNMC\n\n\n\n\nCheap ($ 100/unit)\nCostly\n\n\nLess thermal run away\nMore thermal run away\n\n\nSafe to charge 100%\nLess safe for 100% charge\n\n\nLess energy density\nMore energy density\n\n\nLife is ~ 3000 cycles of charge\nLife is ~ 1500 cycles of charge\n\n\nSub-par range & charging in cold\nTemperature insensitive\n\n\ne.g: MG 50.3 pack, Tesla, BYD\ne.g: MG 44.5 pack, Nissan, Benz",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/mint.html#bios-changes",
-    "href": "posts/mint.html#bios-changes",
-    "title": "Through Windows to open world",
-    "section": "BIOS Changes",
-    "text": "BIOS Changes\n\nBoot set up\nDelete all options except USB UEFI flash drive\n\n\nStorage controller\nSet to AHCI/NVMe from RAID on\n\n\nSecurity\nToggle data wipe on. This will take several minutes to hours based on the size and type of drive. SSD is faster. Our PC took hours (kept running overnight).\nAfter data wipe, the PC will be automatically switched off",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/mint.html#linux-mint-installation",
-    "href": "posts/mint.html#linux-mint-installation",
-    "title": "Through Windows to open world",
-    "section": "Linux Mint installation",
-    "text": "Linux Mint installation\nSwitch on the PC after holding f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.\nThe desktop will show installation file. Click on it and follow the instructions.",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/mint.html#application-installation",
-    "href": "posts/mint.html#application-installation",
-    "title": "Through Windows to open world",
-    "section": "Application installation",
-    "text": "Application installation\n\nVia Terminal\nUpdate package list: sudo apt update\nUpgrade packages: sudo apt upgrade\nInstall a package: sudo apt install package_name\nRemove a package: sudo apt remove package_name\nSearch for a package: apt search package_name\nList installed packages: apt list --installed\n\n\nVia Software manager\nLinux Mint comes with a software manager inbuilt. It has a store with popular softwares.\n\nZotero\nsudo apt install zotero\n\n\nZotero connector\n\nLaunch mozella, go to Zotero connector link and install\n\n\nBetter BibTEX\nDownload from github link\n\n\nr-base\nsudo apt install r-base\n\n\nrStudio\n\nDownload from official posit website. Download the Ubundu 22/Debian 12 version and install\n\n\ngit\nsudo apt install git\nUse ssh key for secure login",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
+      "EV battery"
     ]
   },
   {
@@ -3694,7 +3759,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     0  child\n2:     2     0  child\n3:     3     0  child\n4:     4     1  child\n5:     5     1  child\n6:     6     1  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1  child   &lt;NA&gt;\n2:     2  child   &lt;NA&gt;\n3:     3  child   &lt;NA&gt;\n4:     4   &lt;NA&gt;  child\n5:     5   &lt;NA&gt;  child\n6:     6   &lt;NA&gt;  child",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     0  child\n3:     3     1  child\n4:     4     1  child\n5:     5     1  child\n6:     6     1  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2  child   &lt;NA&gt;\n3:     3   &lt;NA&gt;  child\n4:     4   &lt;NA&gt;  child\n5:     5   &lt;NA&gt;  child\n6:     6   &lt;NA&gt;  child",
     "crumbs": [
       "Home",
       "Research",
