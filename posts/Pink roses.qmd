@@ -18,24 +18,25 @@ Medium: Water-colour
 
 1.  **Color Palette**: The soft pinks of the roses complement the light, creamy yellow background, giving the painting a gentle and soothing appearance. The green leaves add contrast, balancing the overall composition.
 
-2.  **Technique**: The watercolor style is evident in the soft blending of colors, especially in the background, which creates a textured effect. The roses are more defined, with delicate shading, which enhances their three-dimensional look. The artist has achieved a nice balance between detail and softness.
+2.  **Technique**: The watercolour style with the soft blending of colours, especially in the background, creates a textured effect. The roses are more defined, with delicate shading, which enhances their three-dimensional look. The artist has achieved a nice balance between detail and softness.
 
-3.  **Composition**: Centering the pot and flowers works well here, focusing the viewer’s attention directly on the subject. The background has a textured yet minimalistic feel, which avoids distracting from the focal point of the painting.
+3.  **Composition**: Centering the pot and flowers focus the viewer’s attention directly on the subject. The background has a textured yet minimalistic feel, which avoids distracting from the focal point of the painting.
 
 4.  **Lighting**: The light effect in the background, with rays gently illuminating the roses, adds a warm, almost glowing atmosphere to the scene, giving the painting a serene and uplifting mood.
 
-Overall, it’s a beautifully executed piece, with a pleasing balance of color, light, and composition. The artist’s choice to keep the background soft helps to bring out the details in the flowers, making them the highlight of the piece.
+Overall, it’s a beautifully executed piece, with a pleasing balance of colour, light, and composition. The artist’s choice to keep the background soft helps to bring out the details in the flowers, making them the highlight of the piece.
 
 ## Technique
 
-In terms of technical skill and execution, this watercolor painting showcases a balanced mix of techniques and thoughtful decisions that enhance its overall effect.
+#### **Blending and Washes**: 
 
-### **Watercolour Technique**
+The artist has used soft washes for the background, creating a subtle gradient effect with a warm, light yellow hue. This is well executed, as the blending of colours feels smooth and controlled. The watercolour medium shines here with its fluidity, giving the background an almost ethereal quality.
 
--   **Blending and Washes**: The artist has used soft washes for the background, creating a subtle gradient effect with a warm, light yellow hue. This is well executed, as the blending of colours feels smooth and controlled. The watercolour medium shines here with its fluidity, giving the background an almost ethereal quality.
--   **Texturing**: The background also features some interesting texture, possibly achieved through the "wet-on-wet" technique or dabbing with a sponge. This adds depth and dimension without overwhelming the focal point, which is the potted roses.
+#### **Texturing**: 
 
-### **Detail in the Roses**
+The background also features some interesting texture, possibly achieved through the "wet-on-wet" technique or dabbing with a sponge. This adds depth and dimension without overwhelming the focal point.
+
+#### **Detail in the Roses**
 
 #### **Layering**: 
 
@@ -69,15 +70,15 @@ The artist has balanced the detailed foreground (roses and pot) with the soft, f
 
 The watercolour artwork featuring pink roses in a white pot against a soft yellow background evokes a sense of tranquillity, beauty, and simplicity.
 
-**Pink Roses**: traditionally symbolize love, grace, and ***gratitude***.
+**Pink Roses** traditionally symbolize love, grace, and ***gratitude***.
 
 > The choice of pink rather than bold red suggests a subtler, more refined expression of these feelings, leaning toward peacefulness and tenderness rather than passion.
 
-**White Pot as a Vessel**:The plain white pot can symbolize purity and simplicity. It contrasts with the vibrant colours of the roses, serving as a neutral base that allows the beauty of the flowers to take center stage.
+**White Pot as a Vessel** symbolize purity and simplicity. It contrasts with the vibrant colours of the roses, serving as a neutral base that allows the beauty of the flowers to take center stage.
 
 > The pot, being a vessel, might also suggest that beauty and love need nurturing and care to grow.
 
-**Soft Yellow Background**:The background, rendered in soft yellows and creams, brings warmth and light into the scene. Yellow often symbolizes optimism, happiness, and energy. The subtle gradient in the background, with light beams suggesting illumination, may ***represent a positive, uplifting atmosphere, possibly signifying hope, joy, or new beginnings***.
+**Soft Yellow Background** brings warmth and light into the scene. Yellow often symbolizes optimism, happiness, and energy. The subtle gradient in the background, with light beams suggesting illumination, ***representing a positive, uplifting atmosphere, possibly signifying hope, joy, and a bright future***.
 
 ::: callout-important
 ## Overall message
@@ -85,8 +86,8 @@ The watercolour artwork featuring pink roses in a white pot against a soft yello
 The overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in a humble, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.
 
 The warm, glowing background adds a timeless, ethereal quality to the image, almost as if it's capturing a moment of peace that could last forever.
+:::
 
 In essence,
 
-***the work reminds the viewer to find beauty in ordinary moments and to nurture the things that bring light and warmth into their lives.***
-:::
+[***the work reminds the viewer to find beauty in ordinary moments and to nurture the things that bring light and warmth into their lives.***]{style="color: blue"}
