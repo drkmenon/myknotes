@@ -28,7 +28,7 @@ This requires temporal coordinated action of several different cell types, prote
 
 This is the basis of **Diamond concept** of healing which we will discuss later.
 
-![](images/20.png)
+![](/image/20.png)
 
 ## Perrin's strain theory
 
@@ -69,7 +69,7 @@ Cortical bone heals by *Osteonal remodeling* by **Osteonal cutting cones** if th
 -   No gap
 -   Viable bone ends
 
-![](images/21.png)
+![](/image/21.png)
 
 *If there is gap but \< 500µm, healing is by **gap healing**. In gap healing, osteoblast lays down sequential layers of bone to close the gap.*
 
@@ -77,13 +77,13 @@ Cortical bone heals by *Osteonal remodeling* by **Osteonal cutting cones** if th
 
 Heals primarily by a mechanism called **bony ingrowth**. Here revascularisation followed by osteoblasts laying down new bone.
 
-![Bone ingrowth in cancellous bone](images/23.png)
+![Bone ingrowth in cancellous bone](/image/23.png)
 
 ### Secondary bone healing
 
 Ham in 1930 published a description of early phases of bone healing after studying fractured rabbit fibulae and ribs. Phases of bone healing was more fully described by **McKibbin in 1978**. In simple terms, bone heals in 3 phases, like any other tissue.
 
-![Secondary bone healing](images/22.png)
+![Secondary bone healing](/image/22.png)
 
 ### Phases of bone healing
 
@@ -108,4 +108,4 @@ Differentiation of primitive mesenchymal stem cells in to cells with osteogenic 
 
 2^0^ process directed by osteoclastic resorption by **howship lacunae in metaphysis** through Osteons in the cortices. Involves complex interplay of RANK-RANKL
 
-![](images/24.png)
+![](/image/24.png)
