@@ -6,7 +6,7 @@ title: "Fragility prevention"
 
 AMP kinase is believed to be the central switch that positively regulate the life span of an individual.
 
-It is up regulated by:
+It is up regulated by (via SIRT 1):
 
 -   Aerobic exercise
 
@@ -43,3 +43,9 @@ This cell level interplay has got important practical implications.
 ## **Aerobic exercise**
 
 -   150 minutes of moderate intensity or 75 minutes of high intensity aerobic exercise are both beneficial
+
+## Barbell approach
+
+It is fair to assume that our genes have not yet evolved enough to process an abundance of food and a total lack of physical exertion. Cavemen were accustomed to bouts of physical exertion (for food, mates, and escaping enemies) and sporadic feasts with prolonged periods of an empty stomach.
+
+Emulating eating and exercise patterns in line with our ancestors could be promising.
