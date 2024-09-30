@@ -6,7 +6,7 @@ title: "Fragility prevention"
 
 AMP kinase is believed to be the central switch that positively regulate the life span of an individual.
 
-It is up regulated by (via SIRT 1):
+It is up regulated by (via SIRT 1 [@chen2020]):
 
 -   Aerobic exercise
 
@@ -14,7 +14,7 @@ It is up regulated by (via SIRT 1):
 
 -   Decreased protein intake
 
-mTOR, mammalian target of rapamycin, is central in building muscle mass. Muscle mass is important for healthy ageing, i.e., health span.
+mTOR, mammalian target of rapamycin, is central in building muscle mass[@mota-martorell2022]. Muscle mass is important for healthy ageing, i.e., health span.
 
 mTOR is up regulated by:
 

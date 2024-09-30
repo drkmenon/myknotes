@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -875,13 +895,13 @@ cookieconsent.run({
 </figure>
 </div>
 <p>AMP kinase is believed to be the central switch that positively regulate the life span of an individual.</p>
-<p>It is up regulated by (via SIRT 1):</p>
+<p>It is up regulated by (via SIRT 1 <span class="citation" data-cites="chen2020">(<a href="#ref-chen2020" role="doc-biblioref">Chen et al. 2020</a>)</span>):</p>
 <ul>
 <li><p>Aerobic exercise</p></li>
 <li><p>Starvation</p></li>
 <li><p>Decreased protein intake</p></li>
 </ul>
-<p>mTOR, mammalian target of rapamycin, is central in building muscle mass. Muscle mass is important for healthy ageing, i.e., health span.</p>
+<p>mTOR, mammalian target of rapamycin, is central in building muscle mass<span class="citation" data-cites="mota-martorell2022">(<a href="#ref-mota-martorell2022" role="doc-biblioref">Mota-Martorell, Jové, and Pamplona 2022</a>)</span>. Muscle mass is important for healthy ageing, i.e., health span.</p>
 <p>mTOR is up regulated by:</p>
 <ul>
 <li><p>Animal protein</p></li>
@@ -914,9 +934,17 @@ cookieconsent.run({
 <p>Emulating eating and exercise patterns in line with our ancestors could be promising.</p>
 
 
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-chen2020" class="csl-entry" role="listitem">
+Chen, Cui, Min Zhou, Yuchen Ge, and Xiaobo Wang. 2020. <span>“SIRT1 and aging related signaling pathways.”</span> <em>Mechanisms of Ageing and Development</em> 187 (April): 111215. <a href="https://doi.org/10.1016/j.mad.2020.111215">https://doi.org/10.1016/j.mad.2020.111215</a>.
+</div>
+<div id="ref-mota-martorell2022" class="csl-entry" role="listitem">
+Mota-Martorell, Natalia, Mariona Jové, and Reinald Pamplona. 2022. <span>“mTOR Complex 1 Content and Regulation Is Adapted to Animal Longevity.”</span> <em>International Journal of Molecular Sciences</em> 23 (15): 8747. <a href="https://doi.org/10.3390/ijms23158747">https://doi.org/10.3390/ijms23158747</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
