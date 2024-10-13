@@ -9,8 +9,8 @@
 <link>https://www.knotes.co.in/posts.html</link>
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
-<generator>quarto-1.4.555</generator>
-<lastBuildDate>Sun, 29 Sep 2024 18:30:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sat, 12 Oct 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -21,7 +21,7 @@
 
 <p>A BBC report dated 16<sup>th</sup> January 2023 presents an interesting statistics. It quotes an OXFAM report, stating that 40% wealth is in the hands of top 1%.</p>
 <p>This can be taken as 40:1 Pareto index.</p>
-<div id="fig-path" class="quarto-figure quarto-figure-center quarto-float anchored">
+<div id="fig-path" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-path-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="https://www.knotes.co.in/posts/images/clipboard-1360920300.png" class="img-fluid figure-img">
@@ -152,8 +152,10 @@ font-style: inherit;">ncol =</span> n)</span>
 <span id="cb5-3"></span>
 <span id="cb5-4"><span class="cf" style="color: #003B4F;
 background-color: null;
+font-weight: bold;
 font-style: inherit;">for</span> (i <span class="cf" style="color: #003B4F;
 background-color: null;
+font-weight: bold;
 font-style: inherit;">in</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">1</span><span class="sc" style="color: #5E5E5E;
@@ -239,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   211558    295174    343074    627808    436339 324024600 </code></pre>
+2.005e+05 2.961e+05 3.434e+05 6.998e+05 4.388e+05 1.219e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -249,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62039   64077   64499   64504   64928   67005 </code></pre>
+  62122   64066   64499   64500   64926   67099 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -259,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.381e+05 3.323e+06 5.620e+06 3.330e+07 1.188e+07 3.237e+10 </code></pre>
+9.271e+05 3.360e+06 5.672e+06 4.053e+07 1.215e+07 1.219e+11 </code></pre>
 </div>
 </div>
 </section>
@@ -384,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Sun, 29 Sep 2024 18:30:00 GMT</pubDate>
+  <pubDate>Sat, 12 Oct 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Pink roses in a white pot</title>
