@@ -7,7 +7,7 @@ date: 13 October 2024
 
 The Nifty index came into existence around 29 years ago in April 1996. If you had invested ₹100 on that date, you would have received a compounded annual growth rate (CAGR) of 12.03%, with the initial corpus growing to ₹2296. We all know that in the future, the return may be lower, higher, or even the same. We are blind to the future return of the index, say, after another 29 years; this is what we may call **market risk**.
 
-This average return cleverly hides two other important risks: **volatility risk** and **sequence of return risk**. Both require a little explanation to understand their true impact on us.
+This average return cleverly hides other important risks: **volatility risk, inaction risk** and **sequence of return risk**. They require a little explanation to understand their true impact on us.
 
 **Sequence of return risk** originates from the fact that, unlike an index, we have a life cycle, and we invest to meet life cycle events without having to beg for help. These events include non-discretionary and discretionary spending after retirement (forced or voluntary), child education, marriage expenses, medical expenses, etc., to mention a few. Hence, whether we like it or not, we have to involuntarily time the market—namely, the starting point of the investment journey, in-between investments (regular or irregular SIPs), and the endpoint when we start withdrawing money as a lump sum or as regular or irregular SWPs.
 
@@ -74,4 +74,4 @@ In summary, if we are buying and holding a volatile asset like an equity index, 
 Sequence of return risk not only affects the TPV when we withdraw but also equally affects TPV when we are periodically adding money through SIPs.
 :::
 
-What if we withdraw or add a fixed percentage instead of a fixed amount? When exactly in your life cycle does sequence of return risk bites you most? These and the other two risks can be discussed in upcoming articles.
+What if we withdraw or add a fixed percentage instead of a fixed amount? When exactly in your life cycle does sequence of return risk bites you most? These and the other risks can be discussed in upcoming articles.
