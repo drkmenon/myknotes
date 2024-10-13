@@ -41,17 +41,17 @@ It is just like walking towards the crest of the water fall. Instead of waterfal
 
 ![](images/clipboard-4148764586.png)
 
-| Loss | Return need to rest |
-|------|---------------------|
-| 1%   | 1%                  |
-| 5%   | 5.3                 |
-| 10%  | 11.1%               |
-| 20%  | 25%                 |
-| 40%  | 66.67%              |
-| 50%  | 100%                |
-| 75%  | 300%                |
-| 95%  | 1900%               |
-| 100% | ∞                   |
+| Loss | Return need to reset |
+|------|----------------------|
+| 1%   | 1%                   |
+| 5%   | 5.3                  |
+| 10%  | 11.1%                |
+| 20%  | 25%                  |
+| 40%  | 66.67%               |
+| 50%  | 100%                 |
+| 75%  | 300%                 |
+| 95%  | 1900%                |
+| 100% | ∞                    |
 
 Modern portfolio theory attempts to address the problem of volatility through diversification and proposes the Sharpe ratio to evaluate the risk-adjusted return of a portfolio. It reduces downward volatility to some extent, but in doing so, it also reduces favorable upward movements, prescribing a cure that may be costlier than the disease—ultimately leaving you in a zoo instead of a grand forest, out of fear.
 
