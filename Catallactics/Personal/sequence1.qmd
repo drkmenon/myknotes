@@ -74,4 +74,4 @@ In summary, if we are buying and holding a volatile asset like an equity index, 
 Sequence of return risk not only affects the TPV when we withdraw but also equally affects TPV when we are periodically adding money through SIPs.
 :::
 
-What if we withdraw or add a fixed percentage instead of a fixed amount? When exactly in your life cycle does sequence of return risk bites you most? These and the other risks can be discussed in upcoming articles.
+What if we withdraw or add a fixed percentage instead of a fixed amount? When exactly in your life cycle does sequence of return risk bites you most? see

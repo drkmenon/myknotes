@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sat, 12 Oct 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Oct 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   210702    297113    344322    553082    433038 242080896 </code></pre>
+   201844    294786    341414    550675    435124 169525336 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62112   64067   64492   64501   64934   67189 </code></pre>
+  61989   64069   64495   64508   64938   67103 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.650e+05 3.341e+06 5.701e+06 2.589e+07 1.157e+07 2.417e+10 </code></pre>
+9.701e+05 3.286e+06 5.586e+06 2.571e+07 1.174e+07 1.692e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Sat, 12 Oct 2024 18:30:00 GMT</pubDate>
+  <pubDate>Sun, 13 Oct 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Pink roses in a white pot</title>
