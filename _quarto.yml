@@ -73,8 +73,9 @@ website:
     tracking-id: "G-7GYDLCJCZE"
     anonymize-ip: true
   margin-header: subscribe.html
-    
+  twitter-card: true  
   open-graph: true
+  
   
   
     
@@ -94,5 +95,6 @@ editor: visual
 bibliography: references.bib
 comments: 
   hypothesis: true
+
 
  
