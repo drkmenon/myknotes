@@ -8,6 +8,7 @@ website:
   title: "knotes"
   site-url: https://www.knotes.co.in
   description: "Kishore Puthezhath's official website"
+  site-path: '/'
   favicon: /image/logo.png
   navbar:
     background: "#f9fbfd"
