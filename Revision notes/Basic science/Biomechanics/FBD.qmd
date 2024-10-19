@@ -1,94 +1,48 @@
 ---
 title: "Free body diagram"
+order: 2
+number-sections: false
 ---
 
 **Free body diagram**: `A special type of vector diagram used to study the magnitude and direction of forces acting on body`
 
-## **Newtons laws of motion**
+## Free Body Diagrams
 
-The entire concept of FBD revolves around the the following laws:
+A way of analysing the **static forces** and **moments** acting on a joint, FBD is a 2d simplification of a 3d structure
 
--   Every body continue to be in rest or motion unless acted upon by external force.
+It is a static analysis (inertia – Newton’s first law) 
 
--   F= MA
+All other variables must be equal to zero
 
--   For every force there is an equal and opposite force.
+**6 variables are present**
 
-## **What is weight?**
+• Force in the x, y and z axes
 
--   Weight is a force
+• The moments created in these axes
 
--   Mass x Gravity = F , Kg m/s²=N
+**Seven assumptions are made when using free body analysis**
 
--   This means a 70kg person will have a weight of 700N
+**(JOIN BMW)**
 
--   This is not important for day to day practice
+1\.     **J**oints are frictionless hinges
 
-## **Levers**
+2\.     **O**nly compressive forces act on joints
 
-Lever is a machine designed to move objects
+3\.     **I**nternal forces are equal - therefore not analysed (within the body)
 
-It has got a bar and a fulcrum.
+4\.     **N**o antagonistic muscle action
 
-3 classes of levers
+5\.     **B**ones are rigid rods
 
--   Class 1
+6\.     **M**uscular force is in the direction of the muscle belly
 
-    ![](images/1.png){width="350"}
+7\.     **W**eight of the body is concentrated at the centre of the body mass
 
-    e.g.: see-saw, scissors
-
-    Hipjoint
-
--   Class 2
-
-    ![](images/2.png){width="350"}
-
-    e.g.: Stapler, Doors
-
-    Knee joint in flexion
-
--   Class 3
-
-![](images/3.png){width="350"}
-
-e.g.: Broom
-
-Jaw, Forearm in flexi
-
-## **Vector**
-
-![](images/4.png){width="150"}
-
-It is the diagrammatic representation of force. Has got magnitude and direction
-
-## **Moment**
-
-![](images/5.png){width="400"}
-
-A force applied at a distance from pivot point will cause segment to rotate. The distance is called moment arm and the rotational effect is called turning moment.
-
-Turning moment = F x moment arm
-
-Turning moment is also called torque.
-
-**F x d = Turning Moment or torque**
-
-## **Assumptions**
-
--   FBD is a 2d simplification of a 3d structure
-
--   We are using vectors and moments
+## **Also remember**
 
 -   Body we draw should be in equilibrium
 
--   Bones are rigid rods
-
--   Joints are frictionless hinges
-
 -   There are no antagonistic muscles
-
--   Fore act through the centre of muscle
 
 -   Muscle act only through tendon
 

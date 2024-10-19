@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>p and CI – knotes</title>
+<title>Basic Biomechanics – knotes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,30 +20,50 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../Biomedical/Research Methodology/descriptive.html" rel="next">
-<link href="../../Biomedical/Research Methodology/measure.html" rel="prev">
-<link href="../..//image/logo.png" rel="icon" type="image/png">
-<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../Revision notes/Basic science/Biomechanics/FBD.html" rel="next">
+<link href="../../../Revision notes/Basic science/fracture.html" rel="prev">
+<link href="../../..//image/logo.png" rel="icon" type="image/png">
+<script src="../../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -106,11 +126,11 @@ cookieconsent.run({
 </script>
 
 
-<link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="p and CI – knotes">
+<link rel="stylesheet" href="../../../styles.css">
+<meta property="og:title" content="Basic Biomechanics – knotes">
 <meta property="og:description" content="Kishore Puthezhath’s official website">
 <meta property="og:site_name" content="knotes">
-<meta name="twitter:title" content="p and CI – knotes">
+<meta name="twitter:title" content="Basic Biomechanics – knotes">
 <meta name="twitter:description" content="Kishore Puthezhath’s official website">
 <meta name="twitter:card" content="summary">
 </head>
@@ -122,8 +142,8 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../image/knotes.png" alt="" class="navbar-logo">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../image/knotes.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -133,7 +153,7 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -145,11 +165,11 @@ cookieconsent.run({
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../posts.html"> 
+    <a class="nav-link" href="../../../posts.html"> 
 <span class="menu-text">My blog</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="../../posts.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../../posts.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -166,7 +186,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item">Biomedical</li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/p and CI.html">p and CI</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Orthopaedics</li><li class="breadcrumb-item">Revision notes</li><li class="breadcrumb-item"><a href="../../../Revision notes/Basic science/Bone.html">Basic science</a></li><li class="breadcrumb-item"><a href="../../../Revision notes/Basic science/Biomechanics/biomechanics.html">Biomechanics</a></li><li class="breadcrumb-item"><a href="../../../Revision notes/Basic science/Biomechanics/biomechanics.html">Basic Biomechanics</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -189,13 +209,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
  <span class="menu-text">Revision notes</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
@@ -207,43 +227,43 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Adult pathology/Charcot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Charcot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Adult pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diabetic foot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Adult pathology/Fragility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fragility prevention</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Adult pathology/Osteoporosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteoporosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Adult pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteosarcopenia</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/polio.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Adult pathology/polio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Poliomyelitis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Adult pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tuberculosis</span></a>
   </div>
 </li>
@@ -251,43 +271,43 @@ cookieconsent.run({
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
  <span class="menu-text">Basic science</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth3 ">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth3 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Basic science/fracture.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fracture</span></a>
   </div>
 </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
  <span class="menu-text">Biomechanics</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth4 ">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth4 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/biomechanics.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Basic science/Biomechanics/biomechanics.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Basic Biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Free body diagram</span></a>
   </div>
 </li>
@@ -304,13 +324,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Classifications</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Useful Tables</span></a>
   </div>
 </li>
@@ -329,7 +349,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Diagrams/diagrams.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diagrams</span></a>
   </div>
 </li>
@@ -346,7 +366,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pink Pulseless Hand</span></a>
   </div>
 </li>
@@ -363,7 +383,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Basic Science</span></a>
   </div>
 </li>
@@ -380,31 +400,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">books</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FRCS application</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 1 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 2 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">questions</span></a>
   </div>
 </li>
@@ -435,43 +455,43 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/zotero.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/zotero.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Zotero</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/skill.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/skill.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Skill teaching</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/pbl.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/pbl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">PBL methodology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/ECE.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/ECE.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Early clinical exposure</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">ASReview Lab</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/mermaid.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/mermaid.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Gantt chart</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/quality.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/quality.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Clinical Audit</span></a>
   </div>
 </li>
@@ -486,7 +506,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Revealjs for Presentation</span></a>
   </div>
 </li>
@@ -501,7 +521,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-14" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">sample presentation</span></a>
   </div>
 </li>
@@ -525,73 +545,73 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-15" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="false">
  <span class="menu-text">Biomedical</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-16" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-16" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="quarto-sidebar-section-16" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-17" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-17" role="navigation" aria-expanded="false">
  <span class="menu-text">Research Methodology</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-17" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-17" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-17" class="collapse list-unstyled sidebar-section depth3 show">  
+      <ul id="quarto-sidebar-section-17" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/statistics.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/statistics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Averages and measures of dispersion</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/measure.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/measure.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../Biomedical/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">p and CI</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/descriptive.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/descriptive.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Descriptive statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Funnel plot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/pubmedsrch.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/pubmedsrch.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pubmed search</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/wrangling.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Biomedical/Research Methodology/wrangling.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data wrangling</span></a>
   </div>
 </li>
@@ -631,85 +651,85 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Risk mitigation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Retirement fund</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Productivity</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/levi.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/levi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Draw-downs and buildups</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">IMA SSS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/bernoulli.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/bernoulli.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Moral expectation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/jenson.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/jenson.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Jensen’s inequality and risk reward</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/nifty.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/nifty.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Seeking Levy parameters</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/port_sel.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/port_sel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Portfolio Selection</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Premium calculation.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/Premium calculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pay-off formula</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/pricing.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/pricing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hedge pricing</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/sequence1.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/sequence1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Market risk is not the only risk in market</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/sequence2.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/sequence2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sequence of return risk</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/volatility.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Catallactics/Personal/volatility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Volatility matters</span></a>
   </div>
 </li>
@@ -740,31 +760,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-22" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/EV battery.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../posts/EV battery.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">EV battery</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/HGT.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../posts/HGT.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Wrinkles in the vast genetic sea</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/mint.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../posts/mint.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Through Windows to open world</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/montecarlo.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../posts/montecarlo.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Income distribution</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/Pink roses.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../posts/Pink roses.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pink roses in a white pot</span></a>
   </div>
 </li>
@@ -784,13 +804,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-23" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../author.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../author.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Author</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../tenet.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../tenet.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Privacy Policy</span></a>
   </div>
 </li>
@@ -817,7 +837,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-25" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Journal articles/Articles.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../Journal articles/Articles.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Published articles</span></a>
   </div>
 </li>
@@ -867,27 +887,27 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#p-value" id="toc-p-value" class="nav-link active" data-scroll-target="#p-value">p-value</a>
+  <li><a href="#inertia" id="toc-inertia" class="nav-link active" data-scroll-target="#inertia"><strong>Inertia</strong></a></li>
+  <li><a href="#acceleration" id="toc-acceleration" class="nav-link" data-scroll-target="#acceleration"><strong>Acceleration</strong> &nbsp;</a></li>
+  <li><a href="#reaction" id="toc-reaction" class="nav-link" data-scroll-target="#reaction"><strong>Reaction</strong> &nbsp;</a></li>
+  <li><a href="#what-exactly-is-force" id="toc-what-exactly-is-force" class="nav-link" data-scroll-target="#what-exactly-is-force">What exactly is force?</a></li>
+  <li><a href="#what-is-weight" id="toc-what-is-weight" class="nav-link" data-scroll-target="#what-is-weight"><strong>What is weight?</strong></a>
   <ul class="collapse">
-  <li><a href="#frequentest-method" id="toc-frequentest-method" class="nav-link" data-scroll-target="#frequentest-method">Frequentest method</a></li>
-  <li><a href="#fisher" id="toc-fisher" class="nav-link" data-scroll-target="#fisher">Fisher</a></li>
-  <li><a href="#neyman-pearson-decision-framework" id="toc-neyman-pearson-decision-framework" class="nav-link" data-scroll-target="#neyman-pearson-decision-framework">Neyman-Pearson decision framework</a></li>
-  <li><a href="#decision-framework" id="toc-decision-framework" class="nav-link" data-scroll-target="#decision-framework">Decision framework</a></li>
-  <li><a href="#bayesian-approach" id="toc-bayesian-approach" class="nav-link" data-scroll-target="#bayesian-approach">Bayesian approach</a></li>
+  <li><a href="#moment" id="toc-moment" class="nav-link" data-scroll-target="#moment">Moment</a></li>
+  <li><a href="#couples" id="toc-couples" class="nav-link" data-scroll-target="#couples">Couples</a></li>
   </ul></li>
-  <li><a href="#confidence-interval" id="toc-confidence-interval" class="nav-link" data-scroll-target="#confidence-interval">Confidence Interval</a>
-  <ul class="collapse">
-  <li><a href="#confidence-limit" id="toc-confidence-limit" class="nav-link" data-scroll-target="#confidence-limit">Confidence limit</a></li>
-  </ul></li>
+  <li><a href="#sec-lever" id="toc-sec-lever" class="nav-link" data-scroll-target="#sec-lever"><strong>Levers</strong></a></li>
+  <li><a href="#kinematics-definitions" id="toc-kinematics-definitions" class="nav-link" data-scroll-target="#kinematics-definitions"><strong>Kinematics – definitions</strong></a></li>
+  <li><a href="#finite-element-analysis-fea" id="toc-finite-element-analysis-fea" class="nav-link" data-scroll-target="#finite-element-analysis-fea"><strong>Finite Element Analysis (FEA)</strong></a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item">Biomedical</li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/p and CI.html">p and CI</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Orthopaedics</li><li class="breadcrumb-item">Revision notes</li><li class="breadcrumb-item"><a href="../../../Revision notes/Basic science/Bone.html">Basic science</a></li><li class="breadcrumb-item"><a href="../../../Revision notes/Basic science/Biomechanics/biomechanics.html">Biomechanics</a></li><li class="breadcrumb-item"><a href="../../../Revision notes/Basic science/Biomechanics/biomechanics.html">Basic Biomechanics</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">p and CI</h1>
+<h1 class="title">Basic Biomechanics</h1>
 </div>
 
 
@@ -904,86 +924,105 @@ cookieconsent.run({
 </header>
 
 
-<section id="p-value" class="level2">
-<h2 class="anchored" data-anchor-id="p-value">p-value</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="p-and-CI_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" style="width:100.0%"></p>
-<figcaption>Histogram showing male and female height ploted againt the count</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<p>Assume that we have a normally distributed population of males and females with a mean height of 168.5 cms and 157.8 cms respectively.</p>
-<p>We can see that the mean difference in the height is 10.7.</p>
-<blockquote class="blockquote">
-<p>If I measure the entire population in the world, will I find that the mean height for each sex is different? or would I find that difference between the mean height is zero?</p>
-</blockquote>
-<p>How to answer this question?</p>
-<section id="frequentest-method" class="level3">
-<h3 class="anchored" data-anchor-id="frequentest-method">Frequentest method</h3>
-<p>Assume a hypothetical world with no difference in the height between the sexes.Do repeated experiments and find out what proportion of times would I obtain a difference between the observed means (ø) in that hypothetical world which is as great as or greater than difference I observed in my real experiment. This proportion of time is abbreviated as p-value</p>
-<p>In other words p-value=P(ø/H),i.e., given the null (H), what is the probability of data(ø)</p>
-<p>but p-value is an answer to a question we didn’t intend to ask. So what to do with it?</p>
-<p>Traditional Answers</p>
+<p>Newton’s contribution to medicine is luckily not limited to some distinctly queasy toad vomit for curing plague<span class="citation" data-cites="flood2020">(<a href="#ref-flood2020" role="doc-biblioref">Flood 2020</a>)</span> <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. He was genius enough to foresee the coming of Orthopaedics and define the <strong>three laws of motions,</strong> namely <strong>Inertia, Acceleration and Reaction.</strong> These three laws govern the bio-mechanics of human motion.</p>
+<section id="inertia" class="level3">
+<h3 class="anchored" data-anchor-id="inertia"><strong>Inertia</strong></h3>
+<p>Every body continues to be in a state of rest or uniform motion, unless acted upon by an external force.</p>
 </section>
-<section id="fisher" class="level3">
-<h3 class="anchored" data-anchor-id="fisher">Fisher</h3>
-<p>Treat it as a measure of strength of evidence.</p>
-<p><code>This is not objectively satisfactory because, p-value=P(ø/H)≠P(H/ø)</code></p>
+<section id="acceleration" class="level3">
+<h3 class="anchored" data-anchor-id="acceleration"><strong>Acceleration</strong> &nbsp;</h3>
+<p>Acceleration of a mass is directly proportional to the force applied to mass&nbsp;</p>
+<p>Force = Mass x Acceleration (F=MA)</p>
 </section>
-<section id="neyman-pearson-decision-framework" class="level3">
-<h3 class="anchored" data-anchor-id="neyman-pearson-decision-framework">Neyman-Pearson decision framework</h3>
-<p>In each experiment, if you need to choose between the Null and the alternative, then there is possibility for two types of errors</p>
-<blockquote class="blockquote">
-<p>False Positive: Choosing the alternative when Null is true</p>
-<p>False Negative: Choosing the Null when the alternative is true</p>
-</blockquote>
-<p>Control the rate at which you commit decision errors of false positive type by applying a strict procedure to each experiment:</p>
-<p>The researcher has to make a decision. In research, convention is to choose the alternative hypothesis if the test result is outside the 95% mark in the normal curve. The remaining 5% is called œ. The boundary is approximately 1.96z, ie, 1.96 standard deviations away from the mean.</p>
-<p><code>A Z-score is a numerical measurement that describes a value's relationship to the mean of a group of values.</code></p>
-<p>Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point’s score is identical to the mean score. A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.</p>
-<p><code>œ is the zone of rejection of null hypothesis and z the boundary between the acceptance and rejection zones of null hypothesis.</code></p>
-<p>If we refer the statistical charts, p value for a z score of ≤1.96 is ≤0.05</p>
+<section id="reaction" class="level3">
+<h3 class="anchored" data-anchor-id="reaction"><strong>Reaction</strong> &nbsp;</h3>
+<p>For every action there is an equal and opposite reaction.</p>
+<p>Apart from these, we should be clear about the concepts <strong>Force, Vector, Moment, Torque, Couples, Levers etc.</strong> These are prerequisites to understand free body diagrams and joint reaction forces.</p>
 </section>
-<section id="decision-framework" class="level3">
-<h3 class="anchored" data-anchor-id="decision-framework">Decision framework</h3>
-<p>So the decision framework is to</p>
+<section id="what-exactly-is-force" class="level3">
+<h3 class="anchored" data-anchor-id="what-exactly-is-force">What exactly is force?</h3>
+<p>Force is a mechanical load in a particular direction. Hence force is a <strong>vector</strong> and can be plotted in x, y and z-axes. <strong>Vector</strong> introduces the concept of direction to a quantity. Force vector is the direction of the force.</p>
+<p>Pythagoras theorem, c<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup>, allows calculation of an unknown force if the force in the two other axes is known</p>
+<p><img src="images/clipboard-2610588918.png" class="img-fluid"></p>
+</section>
+<section id="what-is-weight" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-weight"><strong>What is weight?</strong></h2>
+<p>Weight is the force exerted by gravity on an object, calculated using the formula: <strong>Weight = Mass x Gravity</strong>. In this equation, mass is measured in kilograms (kg), gravity in meters per second squared (m/s²), and the resulting force, or weight, is in newtons (N). For instance, a person with a mass of 70 kg would have a weight of approximately 700 N (assuming gravity is 10 m/s² for simplicity).</p>
+<section id="moment" class="level3">
+<h3 class="anchored" data-anchor-id="moment">Moment</h3>
+<p><img src="images/clipboard-1085291611.png" class="img-fluid"></p>
+<p>The effect of a force acting at a given distance perpendicular to a body is known as a moment. It is calculated as <strong>Moment = Force x Perpendicular Distance</strong>. When a force is applied at a distance from a pivot point, it causes the segment to rotate, resulting in rotational or angular movement. The distance from the pivot to the point where the force is applied is called the <strong>moment arm</strong>, and the rotational effect produced is referred to as the <strong>turning moment</strong>. The turning moment, also called torque, is expressed as <strong>Turning Moment = Force x Moment Arm</strong> or <strong>F x d = Torque</strong>, representing the magnitude of rotational force.</p>
+</section>
+<section id="couples" class="level3">
+<h3 class="anchored" data-anchor-id="couples">Couples</h3>
+<p>A pair of forces acting to create the same moment</p>
+<p>e.g.&nbsp;opening a bottle cap with two fingers</p>
+</section>
+</section>
+<section id="sec-lever" class="level2">
+<h2 class="anchored" data-anchor-id="sec-lever"><strong>Levers</strong></h2>
+<p>Lever is a machine designed to move objects</p>
+<p>It has got a bar and a fulcrum.</p>
+<p>3 classes of levers</p>
 <ul>
-<li><p>Compute p-value</p></li>
-<li><p>Fail to reject the Null if p-value is &gt; α</p></li>
-<li><p>Reject the Null if p-value is &lt;= α</p></li>
+<li><p>Class 1</p>
+<p><img src="images/1.png" class="img-fluid" width="350"></p>
+<p>e.g.: see-saw, scissors</p></li>
+<li><p>Class 2</p>
+<p><img src="images/2.png" class="img-fluid" width="350"></p>
+<p>e.g.: Stapler, Doors</p></li>
+<li><p>Class 3</p>
+<p>Most common lever in the body</p></li>
 </ul>
-<p>Typically α is set at 0.05</p>
+<p><img src="images/3.png" class="img-fluid" width="350"></p>
+<p>e.g.: Broom</p>
+<p>The body is a system of levers</p>
 </section>
-<section id="bayesian-approach" class="level3">
-<h3 class="anchored" data-anchor-id="bayesian-approach">Bayesian approach</h3>
-<p>Bayesian approach is more humane and direct. The researcher ‘should’ have prior believes about the probability of null and alternate hypotheses. She then construct a posterior probability of null from the joint probability of finding data for null p(d,H<sub>0</sub>) and the marginal probability of data p(d)</p>
-<p>p(H<sub>0</sub>|d) = p(d,H<sub>0</sub>)/p(d) = p(d|H<sub>0</sub>)* p(H<sub>0</sub>)/p(d)</p>
+<section id="kinematics-definitions" class="level2">
+<h2 class="anchored" data-anchor-id="kinematics-definitions"><strong>Kinematics – definitions</strong></h2>
+<p><strong>Kinematics</strong> is the study of motion (acceleration, velocity, displacement) without reference to the forces causing motion</p>
+<p><strong>Work is</strong> Force x Degree of displacement</p>
+<p><strong>Energy</strong>: It is a measure of work and its units are joules or Newton-metres. Energy is never created or destroyed; instead, it can be transferred between different forms of energy and between bodies. Despite these transformations, the total amount of energy in a closed system always remains constant.</p>
+<p><strong>Potential energy</strong></p>
+<p>Stored energy – the potential of a body to do work whilst at rest</p>
+<p><strong>Kinetic energy</strong></p>
+<p>The energy required to stop a moving body&nbsp;</p>
+<p>E=1/2MV<sup>2</sup></p>
+<p><strong>Power</strong> is work done per unit time</p>
+<p><strong>Momentum</strong></p>
+<p>A body’s mass multiplied by its velocity</p>
+<p><strong>Speed</strong></p>
+<p>A measure of distance travelled over a certain time</p>
+<p>It gives no indication of the direction of travel</p>
+<p><strong>Velocity</strong></p>
+<p>A measure of distance of displacement over a given time</p>
+<p>Same units as speed but adding information regarding direction</p>
+<p>M/second east for example</p>
+<p><strong>Acceleration</strong> describes the rate of change of velocity or speed and is measured in metres per second square (m/sec<sup>2</sup>)</p>
+<p><strong>Mass moment of inertia</strong></p>
+<p>Ability of a body to resist rotational moment</p>
+<p>Depends on the body’s mass and its shape</p>
 </section>
-</section>
-<section id="confidence-interval" class="level2">
-<h2 class="anchored" data-anchor-id="confidence-interval">Confidence Interval</h2>
-<p>Under repeated sampling in hypothetical world, 95% of confidence intervals constructed the same way will include the true value of the mean difference.</p>
-<p>It ranges between a fixed value x and y on either side of zero,i.e., x-0-y.</p>
-<p>0-x is the lower confidence limit and 0+y is the upper confidence limit.</p>
-<section id="confidence-limit" class="level3">
-<h3 class="anchored" data-anchor-id="confidence-limit">Confidence limit</h3>
-<p>This sets the boundary of confidence interval and it is generally taken as 95%.</p>
-<p>Confidence interval is generally considered as more important than p value because it gives</p>
-<ul>
-<li><p>Statistical significance</p></li>
-<li><p>Clinical significance</p></li>
-<li><p>Precision</p></li>
-</ul>
+<section id="finite-element-analysis-fea" class="level2">
+<h2 class="anchored" data-anchor-id="finite-element-analysis-fea"><strong>Finite Element Analysis (FEA)</strong></h2>
+<p>It is a computer-generated method used to analyze the forces and interactions between two bodies. This technique is particularly valuable in studying stresses and strains at the bone-implant interface. By breaking down complex structures into smaller, manageable elements, FEA allows for a detailed assessment of how forces are distributed and how materials respond under various conditions. It is commonly used in biomedical engineering to optimize the design and performance of implants, ensuring they can withstand the mechanical demands placed on them while minimizing the risk of failure.<br>
+</p>
 
 
-</section>
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-flood2020" class="csl-entry" role="listitem">
+Flood, Alison. 2020. <span>“Isaac Newton Proposed Curing Plague with Toad Vomit, Unseen Papers Show.”</span> <em>The Guardian</em>, June. <a href="https://www.theguardian.com/books/2020/jun/02/isaac-newton-plague-cure-toad-vomit">https://www.theguardian.com/books/2020/jun/02/isaac-newton-plague-cure-toad-vomit</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Newton had been a student at Trinity College, Cambridge, when the university closed as a precaution against the bubonic plague, which killed 100,000 people in London in 1665 and 1666. Newton’s analysis of De Peste is the most substantial written statement he is known to have made about the plague!<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1406,13 +1445,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../Biomedical/Research Methodology/measure.html" class="pagination-link" aria-label="Data">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Data</span>
+      <a href="../../../Revision notes/Basic science/fracture.html" class="pagination-link" aria-label="Fracture">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Fracture</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../Biomedical/Research Methodology/descriptive.html" class="pagination-link" aria-label="Descriptive statistics">
-        <span class="nav-page-text">Descriptive statistics</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../Revision notes/Basic science/Biomechanics/FBD.html" class="pagination-link" aria-label="Free body diagram">
+        <span class="nav-page-text">Free body diagram</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

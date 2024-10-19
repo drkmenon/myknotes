@@ -1,0 +1,130 @@
+---
+title: "Basic Biomechanics"
+toc: true
+number-sections: false
+order: 1
+---
+
+Newton's contribution to medicine is luckily not limited to some distinctly queasy toad vomit for curing plague[@flood2020] [^1]. He was genius enough to foresee the coming of Orthopaedics and define the **three laws of motions,** namely **Inertia, Acceleration and Reaction.** These three laws govern the bio-mechanics of human motion.
+
+[^1]: Newton had been a student at Trinity College, Cambridge, when the university closed as a precaution against the bubonic plague, which killed 100,000 people in London in 1665 and 1666. Newton’s analysis of De Peste is the most substantial written statement he is known to have made about the plague!
+
+### **Inertia**
+
+Every body continues to be in a state of rest or uniform motion, unless acted upon by an external force.
+
+### **Acceleration**  
+
+Acceleration of a mass is directly proportional to the force applied to mass 
+
+Force = Mass x Acceleration (F=MA)
+
+### **Reaction**  
+
+For every action there is an equal and opposite reaction.
+
+Apart from these, we should be clear about the concepts **Force, Vector, Moment, Torque, Couples, Levers etc.** These are prerequisites to understand free body diagrams and joint reaction forces.
+
+### What exactly is force?
+
+Force is a mechanical load in a particular direction. Hence force is a **vector** and can be plotted in x, y and z-axes. **Vector** introduces the concept of direction to a quantity. Force vector is the direction of the force.
+
+Pythagoras theorem, c^2^ = a^2^ + b^2^, allows calculation of an unknown force if the force in the two other axes is known
+
+![](images/clipboard-2610588918.png)
+
+## **What is weight?**
+
+Weight is the force exerted by gravity on an object, calculated using the formula: **Weight = Mass x Gravity**. In this equation, mass is measured in kilograms (kg), gravity in meters per second squared (m/s²), and the resulting force, or weight, is in newtons (N). For instance, a person with a mass of 70 kg would have a weight of approximately 700 N (assuming gravity is 10 m/s² for simplicity).
+
+### Moment
+
+![](images/clipboard-1085291611.png)
+
+The effect of a force acting at a given distance perpendicular to a body is known as a moment. It is calculated as **Moment = Force x Perpendicular Distance**. When a force is applied at a distance from a pivot point, it causes the segment to rotate, resulting in rotational or angular movement. The distance from the pivot to the point where the force is applied is called the **moment arm**, and the rotational effect produced is referred to as the **turning moment**. The turning moment, also called torque, is expressed as **Turning Moment = Force x Moment Arm** or **F x d = Torque**, representing the magnitude of rotational force.
+
+### Couples
+
+A pair of forces acting to create the same moment
+
+e.g. opening a bottle cap with two fingers
+
+## **Levers**  {#sec-lever}
+
+Lever is a machine designed to move objects
+
+It has got a bar and a fulcrum.
+
+3 classes of levers
+
+-   Class 1
+
+    ![](images/1.png){width="350"}
+
+    e.g.: see-saw, scissors
+
+-   Class 2
+
+    ![](images/2.png){width="350"}
+
+    e.g.: Stapler, Doors
+
+-   Class 3
+
+    Most common lever in the body
+
+![](images/3.png){width="350"}
+
+e.g.: Broom
+
+The body is a system of levers
+
+## **Kinematics – definitions**
+
+**Kinematics** is the study of motion (acceleration, velocity, displacement) without reference to the forces causing motion
+
+**Work is** Force x Degree of displacement
+
+**Energy**: It is a measure of work and its units are joules or Newton-metres. Energy is never created or destroyed; instead, it can be transferred between different forms of energy and between bodies. Despite these transformations, the total amount of energy in a closed system always remains constant.
+
+**Potential energy**
+
+Stored energy – the potential of a body to do work whilst at rest
+
+**Kinetic energy**
+
+The energy required to stop a moving body 
+
+E=1/2MV^2^
+
+**Power** is work done per unit time
+
+**Momentum**
+
+A body’s mass multiplied by its velocity
+
+**Speed**
+
+A measure of distance travelled over a certain time
+
+It gives no indication of the direction of travel
+
+**Velocity**
+
+A measure of distance of displacement over a given time
+
+Same units as speed but adding information regarding direction
+
+M/second east for example
+
+**Acceleration** describes the rate of change of velocity or speed and is measured in metres per second square (m/sec^2^)
+
+**Mass moment of inertia**
+
+Ability of a body to resist rotational moment
+
+Depends on the body’s mass and its shape
+
+## **Finite Element Analysis (FEA)** 
+
+It is a computer-generated method used to analyze the forces and interactions between two bodies. This technique is particularly valuable in studying stresses and strains at the bone-implant interface. By breaking down complex structures into smaller, manageable elements, FEA allows for a detailed assessment of how forces are distributed and how materials respond under various conditions. It is commonly used in biomedical engineering to optimize the design and performance of implants, ensuring they can withstand the mechanical demands placed on them while minimizing the risk of failure.\
