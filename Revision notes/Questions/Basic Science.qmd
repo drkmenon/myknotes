@@ -5,58 +5,55 @@ filters:
 ---
 
 ## Question 1
-::::: {.question}
+
+::::::::: question
 Bone is a:
 
-:::: {.choices}
-
+:::::::: choices
 ::: {.choice .correct-choice}
 Specialised connective tissue
 :::
 
-::: {.choice}
+::: choice
 Specialised connected tissue
 :::
 
-::: {.choice}
+::: choice
 Generalised connected tissue
 :::
 
-::: {.choice}
+::: choice
 Generalised connective tissue
 :::
 
-:::{.button-clear title="Clear answer" button-class="btn btn-light btn-xs"}
+::: {.button-clear title="Clear answer" button-class="btn btn-light btn-xs"}
 :::
-
-::::
-:::::
+::::::::
+:::::::::
 
 ## Question 2
 
-::::: {.question}
+::::::::: question
 Most abundant collagen in bone:
 
-:::: {.choices}
-
+:::::::: choices
 ::: {.choice .correct-choice}
 Type 1
 :::
 
-::: {.choice}
+::: choice
 Type 2
 :::
 
-::: {.choice}
+::: choice
 Type 3
 :::
 
-::: {.choice}
+::: choice
 Type 4
 :::
 
-:::{.button-clear title="Clear answer" button-class="btn btn-light btn-xs"}
+::: {.button-clear title="Clear answer" button-class="btn btn-light btn-xs"}
 :::
-
-::::
-:::::
+::::::::
+:::::::::
