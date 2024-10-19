@@ -588,93 +588,213 @@
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html",
-    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html",
-    "title": "Basic Biomechanics",
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html",
+    "title": "Free body diagram",
     "section": "",
-    "text": "Newton’s contribution to medicine is luckily not limited to some distinctly queasy toad vomit for curing plague(Flood 2020) 1. He was genius enough to foresee the coming of Orthopaedics and define the three laws of motions, namely Inertia, Acceleration and Reaction. These three laws govern the bio-mechanics of human motion.",
+    "text": "Free body diagram: A special type of vector diagram used to study the magnitude and direction of forces acting on body",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Basic science",
       "Biomechanics",
-      "Basic Biomechanics"
+      "Free body diagram"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#what-is-weight",
-    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#what-is-weight",
-    "title": "Basic Biomechanics",
-    "section": "What is weight?",
-    "text": "What is weight?\nWeight is the force exerted by gravity on an object, calculated using the formula: Weight = Mass x Gravity. In this equation, mass is measured in kilograms (kg), gravity in meters per second squared (m/s²), and the resulting force, or weight, is in newtons (N). For instance, a person with a mass of 70 kg would have a weight of approximately 700 N (assuming gravity is 10 m/s² for simplicity).\n\nMoment\n\nThe effect of a force acting at a given distance perpendicular to a body is known as a moment. It is calculated as Moment = Force x Perpendicular Distance. When a force is applied at a distance from a pivot point, it causes the segment to rotate, resulting in rotational or angular movement. The distance from the pivot to the point where the force is applied is called the moment arm, and the rotational effect produced is referred to as the turning moment. The turning moment, also called torque, is expressed as Turning Moment = Force x Moment Arm or F x d = Torque, representing the magnitude of rotational force.\n\n\nCouples\nA pair of forces acting to create the same moment\ne.g. opening a bottle cap with two fingers",
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#free-body-diagrams",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#free-body-diagrams",
+    "title": "Free body diagram",
+    "section": "Free Body Diagrams",
+    "text": "Free Body Diagrams\nA way of analysing the static forces and moments acting on a joint, FBD is a 2d simplification of a 3d structure\nIt is a static analysis (inertia – Newton’s first law) \nAll other variables must be equal to zero\n6 variables are present\n• Force in the x, y and z axes\n• The moments created in these axes\nSeven assumptions are made when using free body analysis\n(JOIN BMW)\n1.     Joints are frictionless hinges\n2.     Only compressive forces act on joints\n3.     Internal forces are equal - therefore not analysed (within the body)\n4.     No antagonistic muscle action\n5.     Bones are rigid rods\n6.     Muscular force is in the direction of the muscle belly\n7.     Weight of the body is concentrated at the centre of the body mass",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Basic science",
       "Biomechanics",
-      "Basic Biomechanics"
+      "Free body diagram"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#sec-lever",
-    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#sec-lever",
-    "title": "Basic Biomechanics",
-    "section": "Levers",
-    "text": "Levers\nLever is a machine designed to move objects\nIt has got a bar and a fulcrum.\n3 classes of levers\n\nClass 1\n\ne.g.: see-saw, scissors\nClass 2\n\ne.g.: Stapler, Doors\nClass 3\nMost common lever in the body\n\n\ne.g.: Broom\nThe body is a system of levers",
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#also-remember",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#also-remember",
+    "title": "Free body diagram",
+    "section": "Also remember",
+    "text": "Also remember\n\nBody we draw should be in equilibrium\nThere are no antagonistic muscles\nMuscle act only through tendon\nJRF is always compressive",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Basic science",
       "Biomechanics",
-      "Basic Biomechanics"
+      "Free body diagram"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#kinematics-definitions",
-    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#kinematics-definitions",
-    "title": "Basic Biomechanics",
-    "section": "Kinematics – definitions",
-    "text": "Kinematics – definitions\nKinematics is the study of motion (acceleration, velocity, displacement) without reference to the forces causing motion\nWork is Force x Degree of displacement\nEnergy: It is a measure of work and its units are joules or Newton-metres. Energy is never created or destroyed; instead, it can be transferred between different forms of energy and between bodies. Despite these transformations, the total amount of energy in a closed system always remains constant.\nPotential energy\nStored energy – the potential of a body to do work whilst at rest\nKinetic energy\nThe energy required to stop a moving body \nE=1/2MV2\nPower is work done per unit time\nMomentum\nA body’s mass multiplied by its velocity\nSpeed\nA measure of distance travelled over a certain time\nIt gives no indication of the direction of travel\nVelocity\nA measure of distance of displacement over a given time\nSame units as speed but adding information regarding direction\nM/second east for example\nAcceleration describes the rate of change of velocity or speed and is measured in metres per second square (m/sec2)\nMass moment of inertia\nAbility of a body to resist rotational moment\nDepends on the body’s mass and its shape",
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#hip-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#hip-fbd",
+    "title": "Free body diagram",
+    "section": "Hip FBD",
+    "text": "Hip FBD\n\nAbductor moment = body moment in equilibrium\nFd = w x 5d\nF = 5w\n*w is generally taken as 5/6 of the body weight as the person is standing on one leg. Weight of one leg is generally taken a 1/6 body weight.\n*F is the abductor force of contraction.\nJRF",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Basic science",
       "Biomechanics",
-      "Basic Biomechanics"
+      "Free body diagram"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#finite-element-analysis-fea",
-    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#finite-element-analysis-fea",
-    "title": "Basic Biomechanics",
-    "section": "Finite Element Analysis (FEA)",
-    "text": "Finite Element Analysis (FEA)\nIt is a computer-generated method used to analyze the forces and interactions between two bodies. This technique is particularly valuable in studying stresses and strains at the bone-implant interface. By breaking down complex structures into smaller, manageable elements, FEA allows for a detailed assessment of how forces are distributed and how materials respond under various conditions. It is commonly used in biomedical engineering to optimize the design and performance of implants, ensuring they can withstand the mechanical demands placed on them while minimizing the risk of failure.",
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#how-to-reduce-jrf-in-hip",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#how-to-reduce-jrf-in-hip",
+    "title": "Free body diagram",
+    "section": "How to reduce JRF in hip?",
+    "text": "How to reduce JRF in hip?\nCarry weight on same side!\n\nF x d + F’ x 2d = w x 5d\nF + F’ = 5w\nF = 5w - F’\nSo the abductor force of contraction required is reduced from F to F-2F’\nCarry stick on the opposite side!\n\nPressing the stick on to the ground will produce an equal and opposite ground reaction force, s.\nF x d = w x 5d - s x 10d\nF = 5w - 10s\nSo the abductor force of contraction required is reduced from F to F-10s",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Basic science",
       "Biomechanics",
-      "Basic Biomechanics"
+      "Free body diagram"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#footnotes",
-    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#footnotes",
-    "title": "Basic Biomechanics",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nNewton had been a student at Trinity College, Cambridge, when the university closed as a precaution against the bubonic plague, which killed 100,000 people in London in 1665 and 1666. Newton’s analysis of De Peste is the most substantial written statement he is known to have made about the plague!↩︎",
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#ankle-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#ankle-fbd",
+    "title": "Free body diagram",
+    "section": "Ankle FBD",
+    "text": "Ankle FBD\nIt is important to keep the ankle in dynamic equilibrium\n\nThis essentially make ankle a reverse hip joint, another type one lever\n\nF x d = w x 3d\nF = 3 w",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Basic science",
       "Biomechanics",
-      "Basic Biomechanics"
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-ankle",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-ankle",
+    "title": "Free body diagram",
+    "section": "JRF ankle",
+    "text": "JRF ankle",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#spine-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#spine-fbd",
+    "title": "Free body diagram",
+    "section": "Spine FBD",
+    "text": "Spine FBD\nAssume a man bending forward and trying to take a brick. Here the motion segment is again acting as a type 1 lever.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-spine",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-spine",
+    "title": "Free body diagram",
+    "section": "JRF Spine",
+    "text": "JRF Spine",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#cervical-spine-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#cervical-spine-fbd",
+    "title": "Free body diagram",
+    "section": "Cervical Spine FBD",
+    "text": "Cervical Spine FBD\n\nF x d = w x d\nF = w",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#patello-femoral-joint-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#patello-femoral-joint-fbd",
+    "title": "Free body diagram",
+    "section": "Patello femoral joint FBD",
+    "text": "Patello femoral joint FBD\n\nThe quadriceps and patellar tendon are in equilibria, with a force 4F on either direction. The JRF is less than 4F. JRF is maximum when in flexion and negligible in extension of knee joint.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#knee-joint-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#knee-joint-fbd",
+    "title": "Free body diagram",
+    "section": "Knee joint FBD",
+    "text": "Knee joint FBD\n\nWe can see that when a person is about to raise from a chair, knee joint acts as a second order lever. Weight is acting down from the middle of the thigh and the quadriceps force F is directed towards the knee.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#shoulder-joint-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#shoulder-joint-fbd",
+    "title": "Free body diagram",
+    "section": "Shoulder joint FBD",
+    "text": "Shoulder joint FBD\n\nHere we can see that shoulder is a third order lever.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#elbow-and-fingers-fbd",
+    "href": "Revision notes/Basic science/Biomechanics/FBD.html#elbow-and-fingers-fbd",
+    "title": "Free body diagram",
+    "section": "Elbow and fingers FBD",
+    "text": "Elbow and fingers FBD",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Free body diagram"
     ]
   },
   {
@@ -2482,7 +2602,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     1  child\n3:     3     0  child\n4:     4     1  child\n5:     5     0  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2   &lt;NA&gt;  child\n3:     3  child   &lt;NA&gt;\n4:     4   &lt;NA&gt;  child\n5:     5  child   &lt;NA&gt;\n6:     6  child   &lt;NA&gt;",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     1  child\n3:     3     1  child\n4:     4     0  child\n5:     5     0  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2   &lt;NA&gt;  child\n3:     3   &lt;NA&gt;  child\n4:     4  child   &lt;NA&gt;\n5:     5  child   &lt;NA&gt;\n6:     6  child   &lt;NA&gt;",
     "crumbs": [
       "Home",
       "Research",
@@ -3131,7 +3251,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   219241    296746    344544    571510    436525 184588935 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62223   64071   64501   64505   64936   67178 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n1.052e+06 3.346e+06 5.674e+06 2.764e+07 1.185e+07 1.843e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   210987    295379    342040    610556    431642 384299953 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62225   64064   64497   64502   64939   67252 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.666e+05 3.342e+06 5.562e+06 3.172e+07 1.161e+07 3.839e+10",
     "crumbs": [
       "Home",
       "Blog",
@@ -5596,8 +5716,98 @@
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/kneebio.html",
-    "href": "Revision notes/Basic science/kneebio.html",
+    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html",
+    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html",
+    "title": "Basic Biomechanics",
+    "section": "",
+    "text": "Newton’s contribution to medicine is luckily not limited to some distinctly queasy toad vomit for curing plague(Flood 2020) 1. He was genius enough to foresee the coming of Orthopaedics and define the three laws of motions, namely Inertia, Acceleration and Reaction. These three laws govern the bio-mechanics of human motion.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Basic Biomechanics"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#what-is-weight",
+    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#what-is-weight",
+    "title": "Basic Biomechanics",
+    "section": "What is weight?",
+    "text": "What is weight?\nWeight is the force exerted by gravity on an object, calculated using the formula: Weight = Mass x Gravity. In this equation, mass is measured in kilograms (kg), gravity in meters per second squared (m/s²), and the resulting force, or weight, is in newtons (N). For instance, a person with a mass of 70 kg would have a weight of approximately 700 N (assuming gravity is 10 m/s² for simplicity).\n\nMoment\n\nThe effect of a force acting at a given distance perpendicular to a body is known as a moment. It is calculated as Moment = Force x Perpendicular Distance. When a force is applied at a distance from a pivot point, it causes the segment to rotate, resulting in rotational or angular movement. The distance from the pivot to the point where the force is applied is called the moment arm, and the rotational effect produced is referred to as the turning moment. The turning moment, also called torque, is expressed as Turning Moment = Force x Moment Arm or F x d = Torque, representing the magnitude of rotational force.\n\n\nCouples\nA pair of forces acting to create the same moment\ne.g. opening a bottle cap with two fingers",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Basic Biomechanics"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#sec-lever",
+    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#sec-lever",
+    "title": "Basic Biomechanics",
+    "section": "Levers",
+    "text": "Levers\nLever is a machine designed to move objects\nIt has got a bar and a fulcrum.\n3 classes of levers\n\nClass 1\n\ne.g.: see-saw, scissors\nClass 2\n\ne.g.: Stapler, Doors\nClass 3\nMost common lever in the body\n\n\ne.g.: Broom\nThe body is a system of levers",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Basic Biomechanics"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#kinematics-definitions",
+    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#kinematics-definitions",
+    "title": "Basic Biomechanics",
+    "section": "Kinematics – definitions",
+    "text": "Kinematics – definitions\nKinematics is the study of motion (acceleration, velocity, displacement) without reference to the forces causing motion\nWork is Force x Degree of displacement\nEnergy: It is a measure of work and its units are joules or Newton-metres. Energy is never created or destroyed; instead, it can be transferred between different forms of energy and between bodies. Despite these transformations, the total amount of energy in a closed system always remains constant.\nPotential energy\nStored energy – the potential of a body to do work whilst at rest\nKinetic energy\nThe energy required to stop a moving body \nE=1/2MV2\nPower is work done per unit time\nMomentum\nA body’s mass multiplied by its velocity\nSpeed\nA measure of distance travelled over a certain time\nIt gives no indication of the direction of travel\nVelocity\nA measure of distance of displacement over a given time\nSame units as speed but adding information regarding direction\nM/second east for example\nAcceleration describes the rate of change of velocity or speed and is measured in metres per second square (m/sec2)\nMass moment of inertia\nAbility of a body to resist rotational moment\nDepends on the body’s mass and its shape",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Basic Biomechanics"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#finite-element-analysis-fea",
+    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#finite-element-analysis-fea",
+    "title": "Basic Biomechanics",
+    "section": "Finite Element Analysis (FEA)",
+    "text": "Finite Element Analysis (FEA)\nIt is a computer-generated method used to analyze the forces and interactions between two bodies. This technique is particularly valuable in studying stresses and strains at the bone-implant interface. By breaking down complex structures into smaller, manageable elements, FEA allows for a detailed assessment of how forces are distributed and how materials respond under various conditions. It is commonly used in biomedical engineering to optimize the design and performance of implants, ensuring they can withstand the mechanical demands placed on them while minimizing the risk of failure.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Basic Biomechanics"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/biomechanics.html#footnotes",
+    "href": "Revision notes/Basic science/Biomechanics/biomechanics.html#footnotes",
+    "title": "Basic Biomechanics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNewton had been a student at Trinity College, Cambridge, when the university closed as a precaution against the bubonic plague, which killed 100,000 people in London in 1665 and 1666. Newton’s analysis of De Peste is the most substantial written statement he is known to have made about the plague!↩︎",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Biomechanics",
+      "Basic Biomechanics"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Biomechanics/kneebio.html",
+    "href": "Revision notes/Basic science/Biomechanics/kneebio.html",
     "title": "Knee Biomechanics",
     "section": "",
     "text": "Figure 1\n\n\n\nThe medial femoral condyle (MFC) is larger and located more distally compared to lateral femoral condyle. Like wise, The medial tibial plateau is lower and has a more concave shape, to accomodate MFC jutting more distally. This provide stability and support. In contrast, the lateral tibial plateau is positioned higher and has a convex shape. This over all anatomical arrangement contributes to the complex biomechanics and movement patterns of the knee joint.\nThe joint line (green) is perpendicular to the vertical line drawn from the centre of pubic symphysis (red).The Mechanical axis (purple) extending from the centre of the hip-joint to the centre of the ankle is at 3° varus to the vertical Figure 1.\n\n\n\n\n\n\nFigure 2\n\n\n\nCoronal alignment refers to the mechanical axis of the lower limb, which typically passes just medial to the lateral tibial spine.Due to the 3° varus angulation of the distal femur, which is parallel to the joint line, it is positioned at a 3° valgus relative to the mechanical axis. In a normal knee, the tibial plateau is angled approximately 3° in varus with respect to the mechanical axis. How ever, during total knee replacement (TKR), cuts are made perpendicular to this axis to ensure even loading of the prosthetic components.\nFor the posterior and anterior femoral cuts, the posterior condyles are used as a reference point Figure 2. Notably, the posterior condyles are also at a 3° varus angle to the mechanical axis. Therefore, when performing TKR, the cutting jig should be externally rotated by 3° to achieve a cut that is perpendicular to the mechanical axis. Figure 3. Similarly, the proximal tibia, which is again parallel to the joint line, is positioned at a 3° varus angle to the mechanical axis.1\n\n\n\n\n\n\nFigure 3\n\n\n\nIn terms of sagittal alignment, the mechanical axis of the knee is located just anterior to the midpoint of the tibial plateau. This alignment is stabilized by the posterior capsule and surrounding ligaments. Regarding tibial slope, a 7-degree posterior slope is considered normal, with the lateral tibial plateau having a slightly greater slope than the medial side, allowing for balanced joint movement.\nDuring normal Knee motion, Flexion-extension axis corresponds to transepicondylar line",
@@ -5606,12 +5816,13 @@
       "Orthopaedics",
       "Revision notes",
       "Basic science",
+      "Biomechanics",
       "Knee Biomechanics"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/kneebio.html#normal-knee",
-    "href": "Revision notes/Basic science/kneebio.html#normal-knee",
+    "objectID": "Revision notes/Basic science/Biomechanics/kneebio.html#normal-knee",
+    "href": "Revision notes/Basic science/Biomechanics/kneebio.html#normal-knee",
     "title": "Knee Biomechanics",
     "section": "",
     "text": "Figure 1\n\n\n\nThe medial femoral condyle (MFC) is larger and located more distally compared to lateral femoral condyle. Like wise, The medial tibial plateau is lower and has a more concave shape, to accomodate MFC jutting more distally. This provide stability and support. In contrast, the lateral tibial plateau is positioned higher and has a convex shape. This over all anatomical arrangement contributes to the complex biomechanics and movement patterns of the knee joint.\nThe joint line (green) is perpendicular to the vertical line drawn from the centre of pubic symphysis (red).The Mechanical axis (purple) extending from the centre of the hip-joint to the centre of the ankle is at 3° varus to the vertical Figure 1.\n\n\n\n\n\n\nFigure 2\n\n\n\nCoronal alignment refers to the mechanical axis of the lower limb, which typically passes just medial to the lateral tibial spine.Due to the 3° varus angulation of the distal femur, which is parallel to the joint line, it is positioned at a 3° valgus relative to the mechanical axis. In a normal knee, the tibial plateau is angled approximately 3° in varus with respect to the mechanical axis. How ever, during total knee replacement (TKR), cuts are made perpendicular to this axis to ensure even loading of the prosthetic components.\nFor the posterior and anterior femoral cuts, the posterior condyles are used as a reference point Figure 2. Notably, the posterior condyles are also at a 3° varus angle to the mechanical axis. Therefore, when performing TKR, the cutting jig should be externally rotated by 3° to achieve a cut that is perpendicular to the mechanical axis. Figure 3. Similarly, the proximal tibia, which is again parallel to the joint line, is positioned at a 3° varus angle to the mechanical axis.1\n\n\n\n\n\n\nFigure 3\n\n\n\nIn terms of sagittal alignment, the mechanical axis of the knee is located just anterior to the midpoint of the tibial plateau. This alignment is stabilized by the posterior capsule and surrounding ligaments. Regarding tibial slope, a 7-degree posterior slope is considered normal, with the lateral tibial plateau having a slightly greater slope than the medial side, allowing for balanced joint movement.\nDuring normal Knee motion, Flexion-extension axis corresponds to transepicondylar line",
@@ -5620,12 +5831,13 @@
       "Orthopaedics",
       "Revision notes",
       "Basic science",
+      "Biomechanics",
       "Knee Biomechanics"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/kneebio.html#femoral-rollback",
-    "href": "Revision notes/Basic science/kneebio.html#femoral-rollback",
+    "objectID": "Revision notes/Basic science/Biomechanics/kneebio.html#femoral-rollback",
+    "href": "Revision notes/Basic science/Biomechanics/kneebio.html#femoral-rollback",
     "title": "Knee Biomechanics",
     "section": "Femoral rollback",
     "text": "Femoral rollback\nFemur rolls and slides posteriorly during flexion to increase the lever arm of quadriceps enhancing their functional capability and also to allow for deeper knee flexion.\nHowever, femoral rollback is not symmetric due to the differing articular geometries of the medial and lateral compartments. In the medial compartment, the large medial femoral condyle (MFC) conforms to the convex medial plateau, while the medial meniscus is relatively fixed with only 0.5 cm of excursion, resulting in fairly uniform flexion. Conversely, in the lateral compartment, the lateral plateau is concave, and the lateral meniscus is mobile, allowing for an 11 cm excursion. This mobility permits the femoral condyle to slide and rollback on the lateral plateau. The differential rollback creates a polycentric instant center of rotation during flexion, resulting in a J-shaped curve when plotted, as it moves posteriorly with flexion. Additionally, the lateral femoral condyle (LFC) externally rotates during flexion, which corresponds to relative tibial internal rotation, and internally rotates during extension, corresponding to relative tibial external rotation. The knee achieves a “screw-home” mechanism and locks the knee in full extension, which is the most conforming and stable position for the joint. In this extended position, the cruciate ligaments are taut, further enhancing joint stability. Energy expended by the muscles to keep knee in this position is zero.\nThe popliteus muscle originates from the posteromedial border of the tibia and extends to the posterior aspect of the lateral femoral condyle (LFC). Its primary function is to unlock the knee from the extended position. Upon contraction, the popliteus facilitates femoral external rotation and tibial internal rotation, allowing for the transition from full extension to flexion.\nPopliteus flexus and LaFtER",
@@ -5634,12 +5846,13 @@
       "Orthopaedics",
       "Revision notes",
       "Basic science",
+      "Biomechanics",
       "Knee Biomechanics"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/kneebio.html#patellofemoral-joint",
-    "href": "Revision notes/Basic science/kneebio.html#patellofemoral-joint",
+    "objectID": "Revision notes/Basic science/Biomechanics/kneebio.html#patellofemoral-joint",
+    "href": "Revision notes/Basic science/Biomechanics/kneebio.html#patellofemoral-joint",
     "title": "Knee Biomechanics",
     "section": "Patellofemoral joint",
     "text": "Patellofemoral joint\nThe patellofemoral joint plays a crucial role in knee function, with the patella acting as a pulley that enhances the quadriceps lever arm. This biomechanical advantage is significant, as evidenced by studies showing that patellectomy can lead to a 20% decrease in quadriceps power.\nThe Q angle, formed by a line from the anterior superior iliac spine (ASIS) to the center of the patella and a line from the center of the patella to the tibial tuberosity, typically ranges from 5 to 20 degrees, with women often exhibiting a larger Q angle. An increased Q angle can result from any condition that result in lateralization of the ASIS or tibial tuberosity, leading to a lateral pull on the patella during extension and contributing to flexion instability. This can cause uneven distribution of patellofemoral contact pressures, which may contribute to the development of patellar arthrosis. Factors such as an increased Q angle, a shallow trochlea (dysplastic), or a deficient medial patella facet (Wiberg type 3) can exacerbate this issue. In normal patellofemoral motion, the patella engages the trochlea at about 20 degrees of flexion, conforming well to the groove during deep flexion; however, it is most prone to instability in extension. The patella’s contact pressures are significant, with the thickest cartilage in the body measuring approximately 1 cm. During flexion, the contact pressure is about 0.5 times body weight, while activities such as going upstairs and downstairs increase this pressure to 2.5 times and 3.3 times body weight, respectively.",
@@ -5648,12 +5861,13 @@
       "Orthopaedics",
       "Revision notes",
       "Basic science",
+      "Biomechanics",
       "Knee Biomechanics"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/kneebio.html#restraints-to-abnormal-knee-motion",
-    "href": "Revision notes/Basic science/kneebio.html#restraints-to-abnormal-knee-motion",
+    "objectID": "Revision notes/Basic science/Biomechanics/kneebio.html#restraints-to-abnormal-knee-motion",
+    "href": "Revision notes/Basic science/Biomechanics/kneebio.html#restraints-to-abnormal-knee-motion",
     "title": "Knee Biomechanics",
     "section": "Restraints to abnormal knee motion",
     "text": "Restraints to abnormal knee motion\n\nAnterior tibial translation\n\n\n\n\n\n\n\n\nType of Restraint\nStructures\nFunction\n\n\n\n\nPrimary Static Restraint\n- Anterior cruciate ligament (ACL)\nMain restraint against anterior tibial translation.\n\n\n\n- Anteromedial bundle (tight in flexion)\n\n\n\n\n- Posterolateral bundle (taut in extension)\n\n\n\nSecondary Static Restraints\n- Collateral ligaments\nProvide additional stabilization.\n\n\n\n- Iliotibial band (ITB)\nContributes to knee stability.\n\n\nDynamic Restraint\n- Hamstrings\nControl knee movement and provide dynamic stability. Rehabilitation is essential post-ACL injury to enhance knee stability and prevent excessive anterior translation.\n\n\n\n\n\nPosterior tibial translation\n\n\n\n\n\n\n\n\nType of Restraint\nStructures\nFunction\n\n\n\n\nPrimary Static Restraint\n- Posterior cruciate ligament (PCL)\nMain restraint against posterior tibial translation.\n\n\n\n- Anterolateral bundle (tight in flexion)\n\n\n\n\n- Posteromedial bundle (taut in extension)\n\n\n\nSecondary Static Restraints\n- Posterolateral corner\nContributes to knee stability.\n\n\n\n- Lateral collateral ligament\nProvides additional stabilization.\n\n\nDynamic Restraint\n- Quadriceps\nControl knee movement and provide dynamic stability. Strengthening is essential for maintaining proper knee function and stability, especially after injuries affecting posterior tibial translation.\n\n\n\n\n\nVarus, valgus stability\n\n\n\n\n\n\n\n\n\nType of Stress\nType of Restraint\nStructures\nFunction\n\n\n\n\nVarus Stress\nPrimary Static Restraint\n- Lateral collateral ligament (LCL)\nProvides support against inward bending of the knee.\n\n\n\nSecondary Static Restraints\n- Posterolateral corner\nContributes to overall knee stability during varus loading.\n\n\n\n\n- Anterior cruciate ligament (ACL)\nAssists in maintaining knee stability.\n\n\n\n\n- Posterior cruciate ligament (PCL)\nAids in overall knee stability.\n\n\nValgus Stress\nPrimary Static Restraint\n- Superficial medial collateral ligament (MCL)\nProvides 57% resistance in extension; 75% in 25° flexion.\n\n\n\nSecondary Static Restraints\n- Posteromedial corner\nContributes to valgus stability.\n\n\n\n\n- Deep MCL (attaches to the meniscus)\nActs as a secondary restraint in extension.\n\n\n\nOther Stabilizing Structures\n- Posterolateral corner\nPrevents rotatory instability and posterior translation of the tibia.\n\n\n\n\n\nThe posterolateral corner of the knee\nIt plays a crucial role in preventing rotatory instability and posterior translation of the tibia. This region consists of three distinct anatomical layers that contribute to its function.\n\n\n\n\n\n\n\n\nLayer\nStructures\nFunction\n\n\n\n\nSuperficial\n- Biceps femoris\nProvides support and stability during movement.\n\n\n\n- Iliotibial band (ITB)\nAids in maintaining knee alignment and stability.\n\n\n\n- Common peroneal nerve\nLies between superficial and middle layers; important for nerve function.\n\n\nMiddle\n- Patellofemoral ligament\nStabilizes the knee joint and assists with patellar motion.\n\n\n\n- Quadriceps retinaculum\nSupports the knee by reinforcing the extensor mechanism.\n\n\nDeep\n- Lateral collateral ligament (LCL)\nProvides stability against varus and rotational forces.\n\n\n\n- Fabellofibular ligament\nAids in maintaining lateral stability.\n\n\n\n- Posterolateral capsule\nContributes to joint stability and integrity.\n\n\n\n- Arcuate ligament\nStabilizes against posterior and lateral forces.\n\n\n\n- Popliteus muscle\nUnlocks the knee from extension and provides rotational stability.\n\n\n\n- Lateral geniculate artery\nSupplies blood to structures in the posterolateral corner.\n\n\n\n\n\nKnee Arthroplasty Biomechanics\nConstraint vs. Contact Stresses\n- The balance between constraint and contact stresses is crucial in determining loosening versus wear in total knee arthroplasty (TKA).\nConformity\n- Conformity refers to the degree of anatomical match between the femur and tibia. High conformity minimizes point loading, which in turn reduces wear.\nFull Constraint\n- A fully constrained knee design provides the highest level of conformity, allowing movement in only one plane. This results in low wear due to high conformity and low point loading; however, it can lead to greater stress at the implant-bone or implant-cement interface, increasing the risk of loosening.\nFully Unconstrained\n- Conversely, a completely unconstrained and unconforming design allows for excessive motion and high degrees of flexion but leads to edge loading and wear. Loosening is typically not a significant issue with these designs.\n\n\n\nGoals of TKR\nClinical Goals\n- The primary clinical goals of TKR include reducing pain, increasing function, maintaining range of motion (ROM), and avoiding complications.\nBiomechanical Goals\n1. Restoration of the mechanical axis\n2. Preservation of the joint line level\n3. Creation of equal flexion and extension gaps\n4. Well-balanced ligaments\n5. Durable component fixation\n\n\n\nDesign Variables in TKR\nDegree of Component Conformity\n- There is a trade-off between wear, ROM, and loosening.\nFixation Method\n- Options include metal-backed trays or all-polyethylene components.\nFemoral Radius of Curvature\n- Variations include large anterior, small posterior, or single curvature.\nPolyethylene Properties\n- Factors include type, shape, thickness, manufacturing, and storage.\nLevel of Constraint\n- Options include PCL-retaining, PCL-sacrificing, and semi/fully constrained designs.\nPolyethylene Thickness\n- Aim for a minimum thickness of 8 mm, with 10 mm preferred to ensure durability. Thickness below 8 mm increases wear characteristics.\n\n\n\nFemoral and Tibial Cuts\nThe tibia is cut perpendicular to the mechanical axis to prevent uneven loading of bearing surfaces, even though the normal tibia is in 3 degrees varus. If femoral anterior-posterior (AP) cuts were anatomic, this would create an uneven flexion gap. Therefore, AP femoral cuts are made with 3 degrees greater external rotation than the epicondylar axis, ensuring that the femoral component is parallel to the tibial cut in flexion, which creates a rectangular flexion gap.\nThe distal femoral cut (valgus cut angle) reflects the difference between the anatomical and mechanical axes of the femur, making the cut parallel to the joint line to create a rectangular extension gap. The normal setting is 5-7 degrees valgus; care must be taken with very short or very tall individuals or those with previous trauma or known dysplasia.\n\n\n\nJudging Femoral Rotation\nProper femoral rotation is critical for creating a rectangular flexion gap and affects patellar tracking. The epicondylar axis is typically present, even in revision situations. The Whitesides line, extending from the deepest part of the femoral sulcus to the deepest part of the trochlea, should be perpendicular to the femoral axis of rotation. The posterior condyles should be parallel to the rotation axis; caution is advised if the posterior condyles, particularly the lateral condyle, are worn, as this can cause internal rotation.\nTo ensure accuracy, the tibial cut should be made first, as the tibial cut must be correct to reference rotation accurately.\n\n\n\nLigament Balancing\nVarus Deformity - Releases should be performed on the concave side from the tibia:\n1. Osteophytes\n2. Deep medial collateral ligament (MCL)\n3. Posteromedial corner and semimembranosus\n4. Superficial MCL\n5. PCL\nValgus Deformity - Releases should be performed on the femur:\n1. Osteophytes\n2. Lateral capsule\n3. Iliotibial band (ITB) (if the knee is tight in extension)\n4. Popliteus (if the knee is tight in flexion)\n5. Lateral collateral ligament (LCL)\n6. Lateral head of the gastrocnemius\nFixed Flexion - Addressing fixed flexion involves:\n1. Osteophytes\n2. Increasing the distal femoral cut\n3. PCL recession\n4. Posterior capsule (pie crusting)\n5. Complete release of the PCL\n\n\n\nImportance of PCL\nThe PCL’s primary function is to prevent flexion instability and excessive posterior translation of the tibia while permitting physiological femoral rollback. It prevents impingement of the femur on the tibia, allowing for high flexion. Additionally, the PCL serves as a secondary restraint in varus and valgus stability. PCL-retaining designs maintain femoral rollback and normal kinematics, offering significant advantages.\n\n\n\nPatellofemoral Joint in TKR\nThe patellofemoral joint is particularly important in cases of inflammatory arthritis, as the disease can affect the PCL, leading to greater instability due to the soft tissue component.\nTypes of Implants: - Dome: Eliminates problems with rotational alignment; the most common design. - Anatomic: Provides better conformity but has a lower margin for error in positioning. - Mobile Bearing: Metal-backed, providing another interface for wear while reducing polyethylene thickness.\n\n\n\nTracking Issues\nAny alteration in the Q angle can lead to maltracking and impingement pain. Malrotation of components, including internal rotation of the femur or tibial component, can cause relative external rotation when the knee is reduced. This can be minimized by laterally positioning the patella button and lateralizing the femoral component.\n\n\n\nPatella Baja\nPatella baja occurs due to elevation of the joint line or excessive distal femoral resection, resulting in shortening of the patellar tendon. This can lead to impingement of the patella’s distal pole on the polyethylene in flexion.\n\n\n\nFailure in TKR – Technical Reasons\nPoly Thickness: - If the polyethylene is too thin (&lt;8 mm), contact pressures may exceed the yield strength, leading to early wear.\nPoorly Conforming Design: - Results in increased contact pressures and greater wear.\nBackside Wear of Poly: - Occurs between the polyethylene and the base plate; more prevalent in all TKRs, though reduced by using an all-polyethylene tibia.\nManufacturing Issues: - Previously a cause of catastrophic failure.\nLoosening: - Increased stress on the bone-cement or cement-implant interface, often seen in highly constrained designs.\nInstability: - Can result from poor balancing or malrotation of components, leading to patellofemoral maltracking.\nPatellofemoral Overstuffing: - Can occur from oversizing or undercutting the femur.\nPoor Fixation Technique: - Issues such as inadequate cement interdigitation or concerns with uncemented tibia.\nInfection: - Risks are heightened by excessive surgical time, poor technique, and soft tissue damage.\n\n\n\nPrinciples of Mobile Bearing TKR\nMobile bearing designs, including meniscal or rotating platform types, are intended to allow component conformity while reducing stress at the implant-bone interface, thereby minimizing loosening. These designs have not yet been conclusively shown to outperform fixed bearing designs, with the main complication being polyethylene spin-out or dislocation.",
@@ -5662,12 +5876,13 @@
       "Orthopaedics",
       "Revision notes",
       "Basic science",
+      "Biomechanics",
       "Knee Biomechanics"
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/kneebio.html#footnotes",
-    "href": "Revision notes/Basic science/kneebio.html#footnotes",
+    "objectID": "Revision notes/Basic science/Biomechanics/kneebio.html#footnotes",
+    "href": "Revision notes/Basic science/Biomechanics/kneebio.html#footnotes",
     "title": "Knee Biomechanics",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nDuring total knee replacement, this anatomy plays an important role in deciding the angle of distal femoral cut. We use intra-medullary alignment jig for distal femoral cut. This is at 6° varus to the mechanical axis. Hence we have to take a valgus cut angle of 6° to get an artificial joint line perpendicular to mechanical axis. For toller patients it s less than 6 and for the very short it is more. Tibial cut is taken using an extra medullary alignment jig which is perpendicular to mechanical axis.↩︎",
@@ -5676,217 +5891,8 @@
       "Orthopaedics",
       "Revision notes",
       "Basic science",
+      "Biomechanics",
       "Knee Biomechanics"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html",
-    "title": "Free body diagram",
-    "section": "",
-    "text": "Free body diagram: A special type of vector diagram used to study the magnitude and direction of forces acting on body",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#free-body-diagrams",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#free-body-diagrams",
-    "title": "Free body diagram",
-    "section": "Free Body Diagrams",
-    "text": "Free Body Diagrams\nA way of analysing the static forces and moments acting on a joint, FBD is a 2d simplification of a 3d structure\nIt is a static analysis (inertia – Newton’s first law) \nAll other variables must be equal to zero\n6 variables are present\n• Force in the x, y and z axes\n• The moments created in these axes\nSeven assumptions are made when using free body analysis\n(JOIN BMW)\n1.     Joints are frictionless hinges\n2.     Only compressive forces act on joints\n3.     Internal forces are equal - therefore not analysed (within the body)\n4.     No antagonistic muscle action\n5.     Bones are rigid rods\n6.     Muscular force is in the direction of the muscle belly\n7.     Weight of the body is concentrated at the centre of the body mass",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#also-remember",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#also-remember",
-    "title": "Free body diagram",
-    "section": "Also remember",
-    "text": "Also remember\n\nBody we draw should be in equilibrium\nThere are no antagonistic muscles\nMuscle act only through tendon\nJRF is always compressive",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#hip-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#hip-fbd",
-    "title": "Free body diagram",
-    "section": "Hip FBD",
-    "text": "Hip FBD\n\nAbductor moment = body moment in equilibrium\nFd = w x 5d\nF = 5w\n*w is generally taken as 5/6 of the body weight as the person is standing on one leg. Weight of one leg is generally taken a 1/6 body weight.\n*F is the abductor force of contraction.\nJRF",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#how-to-reduce-jrf-in-hip",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#how-to-reduce-jrf-in-hip",
-    "title": "Free body diagram",
-    "section": "How to reduce JRF in hip?",
-    "text": "How to reduce JRF in hip?\nCarry weight on same side!\n\nF x d + F’ x 2d = w x 5d\nF + F’ = 5w\nF = 5w - F’\nSo the abductor force of contraction required is reduced from F to F-2F’\nCarry stick on the opposite side!\n\nPressing the stick on to the ground will produce an equal and opposite ground reaction force, s.\nF x d = w x 5d - s x 10d\nF = 5w - 10s\nSo the abductor force of contraction required is reduced from F to F-10s",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#ankle-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#ankle-fbd",
-    "title": "Free body diagram",
-    "section": "Ankle FBD",
-    "text": "Ankle FBD\nIt is important to keep the ankle in dynamic equilibrium\n\nThis essentially make ankle a reverse hip joint, another type one lever\n\nF x d = w x 3d\nF = 3 w",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-ankle",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-ankle",
-    "title": "Free body diagram",
-    "section": "JRF ankle",
-    "text": "JRF ankle",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#spine-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#spine-fbd",
-    "title": "Free body diagram",
-    "section": "Spine FBD",
-    "text": "Spine FBD\nAssume a man bending forward and trying to take a brick. Here the motion segment is again acting as a type 1 lever.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-spine",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#jrf-spine",
-    "title": "Free body diagram",
-    "section": "JRF Spine",
-    "text": "JRF Spine",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#cervical-spine-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#cervical-spine-fbd",
-    "title": "Free body diagram",
-    "section": "Cervical Spine FBD",
-    "text": "Cervical Spine FBD\n\nF x d = w x d\nF = w",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#patello-femoral-joint-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#patello-femoral-joint-fbd",
-    "title": "Free body diagram",
-    "section": "Patello femoral joint FBD",
-    "text": "Patello femoral joint FBD\n\nThe quadriceps and patellar tendon are in equilibria, with a force 4F on either direction. The JRF is less than 4F. JRF is maximum when in flexion and negligible in extension of knee joint.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#knee-joint-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#knee-joint-fbd",
-    "title": "Free body diagram",
-    "section": "Knee joint FBD",
-    "text": "Knee joint FBD\n\nWe can see that when a person is about to raise from a chair, knee joint acts as a second order lever. Weight is acting down from the middle of the thigh and the quadriceps force F is directed towards the knee.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#shoulder-joint-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#shoulder-joint-fbd",
-    "title": "Free body diagram",
-    "section": "Shoulder joint FBD",
-    "text": "Shoulder joint FBD\n\nHere we can see that shoulder is a third order lever.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Biomechanics/FBD.html#elbow-and-fingers-fbd",
-    "href": "Revision notes/Basic science/Biomechanics/FBD.html#elbow-and-fingers-fbd",
-    "title": "Free body diagram",
-    "section": "Elbow and fingers FBD",
-    "text": "Elbow and fingers FBD",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Biomechanics",
-      "Free body diagram"
     ]
   },
   {

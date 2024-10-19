@@ -46,7 +46,7 @@ The patellofemoral joint plays a crucial role in knee function, with the patella
 ### **Anterior tibial translation**
 
 | **Type of Restraint** | **Structures** | **Function** |
-|-----------------|-------------------------|------------------------------|
+|----|----|----|
 | **Primary Static Restraint** | \- Anterior cruciate ligament (ACL) | Main restraint against anterior tibial translation. |
 |  | \- Anteromedial bundle (tight in flexion) |  |
 |  | \- Posterolateral bundle (taut in extension) |  |
@@ -57,7 +57,7 @@ The patellofemoral joint plays a crucial role in knee function, with the patella
 ### Posterior tibial translation
 
 | **Type of Restraint** | **Structures** | **Function** |
-|-----------------|-------------------------|------------------------------|
+|----|----|----|
 | **Primary Static Restraint** | \- Posterior cruciate ligament (PCL) | Main restraint against posterior tibial translation. |
 |  | \- Anterolateral bundle (tight in flexion) |  |
 |  | \- Posteromedial bundle (taut in extension) |  |
@@ -68,7 +68,7 @@ The patellofemoral joint plays a crucial role in knee function, with the patella
 ### Varus, valgus stability
 
 | **Type of Stress** | **Type of Restraint** | **Structures** | **Function** |
-|---------------|---------------|-------------------|------------------------|
+|----|----|----|----|
 | **Varus Stress** | **Primary Static Restraint** | \- Lateral collateral ligament (LCL) | Provides support against inward bending of the knee. |
 |  | **Secondary Static Restraints** | \- Posterolateral corner | Contributes to overall knee stability during varus loading. |
 |  |  | \- Anterior cruciate ligament (ACL) | Assists in maintaining knee stability. |
@@ -83,7 +83,7 @@ The patellofemoral joint plays a crucial role in knee function, with the patella
 It plays a crucial role in preventing rotatory instability and posterior translation of the tibia. This region consists of three distinct anatomical layers that contribute to its function.
 
 | **Layer** | **Structures** | **Function** |
-|----------------|-------------------------|-------------------------------|
+|----|----|----|
 | **Superficial** | \- Biceps femoris | Provides support and stability during movement. |
 |  | \- Iliotibial band (ITB) | Aids in maintaining knee alignment and stability. |
 |  | \- **Common peroneal nerve** | Lies between superficial and middle layers; important for nerve function. |
