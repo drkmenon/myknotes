@@ -1,0 +1,90 @@
+---
+title: "Elbow biomechanics"
+order: 5
+---
+
+### Elbow Anatomy and Biomechanics
+
+-   **Trochlea-Capitellar Axis**: The axis is 6 degrees off a line perpendicular to the humerus, resulting in a valgus carrying angle of the forearm:
+    -   **Men**: Mean carrying angle of 7 degrees.
+    -   **Women**: Mean carrying angle of 13 degrees.
+    -   The carrying angle disappears with elbow flexion.
+-   **Joint Characteristics**:
+    -   **Radiohumeral Joint**: Poorly congruent.
+    -   **Ulnohumeral Joint**: Highly congruent.
+    -   **Capitellum and Radial Head**: The capitellum has a smaller radius than the radial head, allowing rotation in any position of flexion.
+    -   **Annular Ligament**: Stabilizes the radial head to the radial notch on the ulna.
+
+### Range of Motion (ROM)
+
+| **Movement** | **Normal ROM** | **Functional ROM** |
+|--------------|----------------|--------------------|
+| Flexion      | 0-140°         | 30-130° (100° arc) |
+| Supination   | 85°            | 50°                |
+| Pronation    | 75°            | 50°                |
+
+-   **Supination** is more critical as shoulder movement compensates poorly for supination loss.
+-   **Pronation** is especially important in the writing hand.
+
+### Elbow Kinetics
+
+-   **Forces About the Elbow**: Short lever arms result in inefficient force transmission, leading to high ulnohumeral joint reaction forces, which predisposes the joint to arthritis.
+
+-   **Elbow Free Body Diagram**:
+
+    -   Extension moment equals flexion moment.
+    -   The joint reaction force (JRF) can be calculated by considering these forces.
+
+#### Forces Acting on the Elbow
+
+| **Forces in Extension** | **Forces in Flexion** |
+|-------------------------|-----------------------|
+| Load in hand            | Pull of elbow flexors |
+| Weight of the forearm   |                       |
+| Joint reaction force    |                       |
+
+### Lever Arms (in metres)
+
+| **Lever for Extension** | **Lever for Flexion** |
+|---------------------------------------|---------------------------------|
+| Distance from elbow COR to hand carrying load | Distance from elbow COR to biceps insertion |
+| Distance from elbow COR to midpoint of forearm |  |
+
+#### Example Calculation
+
+For a 25 N weight in a forearm weighing 10 N and measuring 30 cm in length, with a biceps insertion 5 cm from the elbow COR:
+
+\- **Biceps Pull** = (25 x 0.3) + (10 x 0.15) = (0.05 x Biceps pull) → **Biceps Force = 180 N**. - **JRF Calculation**: JRF + 25 + 10 = 180 → JRF = 145 N.
+
+### Elbow Instability
+
+#### Static Stability
+
+-   **Primary Static Stabilizer**: The anterior band of the medial collateral ligament (MCL), which primarily resists valgus forces and distraction.
+-   **Secondary Stabilizer**: Radial head, which becomes the primary stabilizer if the MCL is damaged.
+-   **Ulnohumeral Articulation**: Highly congruent, providing stability in full extension.
+-   **Coronoid Process**: Prevents posterior translation of the ulna. Loss of more than 50% can cause posterior instability, but an intact radial head may compensate.
+    -   The **anteromedial part** is especially important as the MCL anterior band attaches here via the **sublime tubercle**.
+
+| **Medial Collateral Ligament** | **Function** |
+|-------------------------|-----------------------------------------------|
+| Anterior band | Most important, tight in extension, slack in flexion. |
+| Posterior band | Tight in flexion, slack in extension. |
+| Transverse ligament (Cooper’s ligament) | Role in stability is less significant. |
+
+-   **Lateral Collateral Ligament**:
+    -   Consists of the **lateral radial collateral ligament**, **lateral ulnar collateral ligament**, **accessory lateral collateral ligament**, and the **annular ligament**.
+    -   The **ulnar collateral ligament** is the most important for varus and posterolateral rotatory stability, and is usually the first ligament torn in a dislocation.
+-   **Anterior Capsule**: Resists hyperextension and posterior translation.
+
+#### Dynamic Stability
+
+-   Provided by muscles crossing the joint, which offer limited stability themselves.
+
+### Elbow Replacement
+
+Elbow replacements can be classified as **linked** or **unlinked**: - **Unlinked**: - Rely on intact collateral ligaments and articular congruency for stability. - Technically challenging to balance and thus falling out of favor.
+
+-   **Linked**:
+    -   Not a fixed hinge, but a "sloppy hinge" with 6 degrees of freedom.
+    -   Allows for 7-10 degrees of varus-valgus laxity, reducing stress on the bone-implant interface and preventing premature loosening or fracture.
