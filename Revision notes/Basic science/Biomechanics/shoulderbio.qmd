@@ -1,0 +1,89 @@
+---
+title: " Shoulder biomechanics"
+order: 5
+---
+
+**Humerus**\
+- **Neck-Shaft Angle**: 130 degrees, with 30 degrees retroversion from the epicondylar axis.\
+- **Head Eccentricity**: 9mm posterior to the central axis of the shaft.
+
+**Glenoid**\
+- **Tilt**: 5 degrees superior tilt and 7 degrees retroverted from the plane of the scapula.\
+- **Scapula Alignment**: Scapula is anteverted by 30-40 degrees to the coronal plane, making the overall glenoid position 25-35 degrees anteverted, corresponding to humeral retroversion.
+
+**Clavicle**\
+- Firmly fixed to the scapula by coracoclavicular ligaments.\
+- Circumducts around the sternoclavicular joint (SCJ).\
+- Disruption of the acromioclavicular (AC) and coracoclavicular (CC) ligaments can lead to scapulothoracic instability.
+
+### Shoulder Motion
+
+-   **Glenohumeral Motion**:
+    -   Responsible for the first 30 degrees of abduction (ABD) and 60 degrees of forward flexion (FF).
+    -   The rotator cuff stabilizes the humeral head, providing a fulcrum for the deltoid to act upon.
+-   **Scapulothoracic Motion**:
+    -   As shoulder movement increases, the humeral head translates inferiorly.
+    -   The scapula moves to maintain articulation with the glenoid, preventing impingement and maintaining deltoid length.\
+    -   **GH vs SC Motion Ratio**: 2:1 during most arm elevation, transitioning to 1:1 at the end range.
+
+### Glenohumeral Stability
+
+Stability is achieved through both static and dynamic stabilizers, creating a concavity compression force.
+
+#### Static Stabilisers
+
+| **Component** | **Function** |
+|--------------------|----------------------------------------------------|
+| **Labrum** | Provides 20% of stability, deepens glenoid concavity, attaches biceps and GH ligaments. |
+| **Articular Geometry** | Slight mismatch in the radius of glenoid and humeral head helps stability. |
+| **GH Ligaments & Capsule** | SGHL, MGHL, and IGHL provide key support in various movements. |
+| **Negative Pressure** | Creates suction effect for stability, lost with capsular tears. |
+| **Surface Area Mismatch** | The larger humeral head increases joint reaction force, compressing it into the glenoid for stability. |
+
+-   **Labrum**: Triangular cross-section like the meniscus, deepening the glenoid by 9mm supero-inferiorly and 5mm antero-posteriorly.
+
+-   **GH Ligaments**:
+
+    -   **Superior GH Ligament (SGHL)**: Arises from the supraglenoid tubercle and attaches to the lesser tuberosity, preventing internal rotation (IR) of the adducted arm.
+    -   **Middle GH Ligament (MGHL)**: Contributes to anterior stability below 90 degrees abduction.
+    -   **Inferior GH Ligament (IGHL)**: Primary stabilizer in abduction, forming a "hammock" around the humeral head.
+
+-   **Coracohumeral Ligament**: Limits external rotation (ER) and internal rotation (IR), stopping humeral head translation.
+
+#### Dynamic Stabilisers
+
+| **Component** | **Function** |
+|--------------------|----------------------------------------------------|
+| **Rotator Cuff** | Compresses the humeral head into the glenoid, providing a fulcrum for power muscles. |
+| **Biceps Tendon** | Depresses the humeral head, stabilizing against the glenoid. |
+| **Scapular Rotators** | Levator scapulae, rhomboids, trapezius, serratus anterior - position the scapula. |
+| **Deltoid** | Provides vertical shear force in the adducted position, contributing to concavity compression. |
+| **Proprioception** | Vital for stability, especially in multi-directional instability (MDI). |
+
+### Shoulder Replacement
+
+Keys to a successful outcome in shoulder replacement include careful patient selection, restoration of anatomical alignment, and durable fixation.
+
+#### Glenoid Component Fixation
+
+| **Design**           | **Details**                             |
+|----------------------|-----------------------------------------|
+| **Flat-backed**      | Prone to loosening in the long term.    |
+| **Spherical-backed** | More popular due to less loosening.     |
+| **Pegged or Keeled** | Pegged designs are currently preferred. |
+
+#### Types of Shoulder Replacement
+
+| **Option** | **Details** |
+|-------------------|-----------------------------------------------------|
+| **Hemiarthroplasty** | Suitable for lower-demand patients; avoids glenoid issues, but function and pain outcomes not as good as total shoulder replacement (TSR). |
+| **Total Shoulder Replacement (TSR)** | Full replacement of both humeral head and glenoid. |
+| **Resurfacing** | Requires adequate bone stock, lower morbidity if successful. |
+| **Reverse Shoulder Arthroplasty (RSA)** | Ideal for patients with cuff deficiency; utilizes the deltoid for abduction. |
+
+### Principles of Reverse Shoulder Arthroplasty (RSA)
+
+-   RSA optimizes the position of the **deltoid** as an abductor by adjusting the glenoid and humeral component positions:
+    -   **Humeral Shaft Lowering**: Increases deltoid tension.
+    -   **Glenoid Medialization**: Increases the deltoid lever arm and reduces torque on the metaglene, minimizing the risk of loosening.
+    -   **Humeral Component Orientation**: Placed almost horizontally, improving stability throughout the range of motion around the metaglene.
