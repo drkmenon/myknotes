@@ -1,0 +1,165 @@
+---
+title: "Gait"
+order: 10
+---
+
+**Gait Analysis**
+
+**Overview**\
+Gait can be assessed clinically or with greater accuracy in a gait analysis lab. This section discusses the prerequisites, determinants, and abnormalities in gait, offering a comprehensive understanding of both normal and pathological gait patterns.
+
+------------------------------------------------------------------------
+
+### **Pre-requisites for Normal Walking**
+
+There are five key prerequisites to achieve a normal walking gait, summarized by the acronym **SAFE Pre-positioning**:
+
+1.  **Stable stance phase**\
+2.  **Adequate step distance**\
+3.  **Foot clearance during swing**\
+4.  **Energy conservation**\
+5.  **Pre-positioning of the foot in swing phase**
+
+------------------------------------------------------------------------
+
+### **Determinants of Gait**
+
+The following factors ensure smooth and efficient movement during walking:
+
+| **Determinants**                | **Description**                           |
+|---------------------------------|-------------------------------------------|
+| **Pelvic tilt**                 | Helps smooth the gait cycle.              |
+| **Pelvic lateral displacement** | Minimizes vertical oscillation.           |
+| **Pelvic rotation**             | Increases stride length.                  |
+| **Knee flexion**                | Allows foot clearance and absorbs impact. |
+| **Ankle and foot motion**       | Facilitates propulsion and stability.     |
+
+------------------------------------------------------------------------
+
+### **The Gait Cycle**
+
+The gait cycle begins when the foot strikes the ground and ends when the same foot strikes again, with one cycle equal to one stride.
+
+-   **Stance Phase** (60% of the gait cycle)\
+-   **Swing Phase** (40% of the gait cycle)
+
+#### **Mnemonic: I Like My Tea Put In My Teapot**
+
+1.  **Stance Phase**
+    1.  Initial contact (heel strike)\
+    2.  Loading\
+    3.  Mid-stance\
+    4.  Terminal stance\
+    5.  Pre-swing (toe-off)
+2.  **Swing Phase**
+    1.  Initial swing\
+    2.  Mid-swing\
+    3.  Terminal swing
+
+------------------------------------------------------------------------
+
+### **Clinical Assessment of Gait Phases**
+
+In practice, clinicians focus on four primary phases:
+
+1.  **Weight acceptance**
+    -   Initial contact and loading
+2.  **Stance**
+    -   Mid-stance and terminal stance
+3.  **Forward progression**
+    -   Terminal stance and pre-swing
+4.  **Swing**
+    -   Includes all swing phases
+
+------------------------------------------------------------------------
+
+### **Important Gait Definitions**
+
+| **Term** | **Definition** |
+|--------------------|----------------------------------------------------|
+| **Step** | Distance from one foot contact to the opposite foot contact. |
+| **Stride** | Distance from one foot contact to the same foot making contact again. |
+| **Cadence** | Number of steps taken per unit time. |
+| **Double support phase** | When both feet are in contact with the ground. |
+| **Float phase** | When neither foot is in contact with the ground (occurs in running). |
+| **Velocity** | Stride length divided by stride time (meters/second). |
+| **Walking base** | Distance between the heels when standing still. |
+| **Foot progression angle** | Angle of foot direction in relation to the midline, described as positive or negative. |
+
+------------------------------------------------------------------------
+
+### **Age-related Gait Changes**
+
+-   **18 months** – Broad-based stiff knee gait\
+-   **7 years** – Achieves adult gait\
+-   **After 70 years**:
+    1.  **Velocity decreases**\
+    2.  **Step length decreases**\
+    3.  **Double support phase increases**
+
+------------------------------------------------------------------------
+
+### **BMI-related Gait Changes**
+
+-   Step and stride length decreases.\
+-   Stance phase duration increases.\
+-   If thighs touch during walking, leg circumduction occurs to overcome friction.
+
+------------------------------------------------------------------------
+
+### **Clinical Gait Analysis**
+
+A clinical gait analysis involves inspecting the pelvis, knees, ankles, and feet during the gait cycle. Below is a summary of the normal movements seen during gait:
+
+| **Joint** | **Movement** |
+|--------------------------------|----------------------------------------|
+| **Pelvis** | Rotates anteriorly at heel strike, posteriorly at toe-off, and tilts during swing. |
+| **Hip** | Flexion aids clearance; extension prevents collapse. |
+| **Knee** | Hamstrings cushion heel strike and aid swing; quads stabilize during loading. |
+| **Ankle** | Follows a three-rocker motion: controlled plantarflexion, dorsiflexion control, and push-off. |
+
+------------------------------------------------------------------------
+
+### **3D Gait Analysis**
+
+Advanced 3D gait analysis is particularly useful for analyzing complex gait patterns, such as those seen in cerebral palsy. This type of analysis examines:
+
+-   **Kinematics** – Motion patterns\
+-   **Kinetics** – Forces required for motion\
+-   **Plantar pressure profiles** – Weight-bearing patterns on the foot\
+-   **EMG** – Muscle firing patterns\
+-   **Efficiency** – Oxygen and energy consumption
+
+------------------------------------------------------------------------
+
+### **Abnormalities of Gait**
+
+**Trendelenberg Gait**\
+- Trunk bends laterally toward the standing leg due to weak or painful hips.
+
+**Anterior Trunk Bending**\
+- Seen when patients bend forward to compensate for knee extension issues or quad weakness.
+
+**Posterior Trunk Bending**\
+- Occurs due to weak hip extensors, resulting in compensatory trunk movements.
+
+------------------------------------------------------------------------
+
+### **Pathological Gait Patterns**
+
+| **Pathologic Gait** | **Description** |
+|---------------------|---------------------------------------------------|
+| **Steppage Gait** | Caused by equinus deformity. |
+| **Hip Scissoring Gait** | Due to spastic adductors. |
+| **Antalgic Gait** | Shortened stance time on a painful limb. |
+| **Quadriceps Avoidance Gait** | Seen in ACL-deficient knees. |
+| **Shuffling Gait** | Due to weakness or fear of falling, often associated with Parkinson’s disease. |
+
+------------------------------------------------------------------------
+
+### **Muscle Activity During Gait**
+
+Muscle groups play specific roles throughout the gait cycle:
+
+-   **Dorsiflexors** are **concentric** throughout the swing phase and **eccentric** at initial contact and loading.
+-   **Plantarflexors** are **inactive** during the swing phase, but **eccentric** in mid-stance and **concentric** during pre-swing (toe-off).

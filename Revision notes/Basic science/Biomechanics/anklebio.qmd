@@ -1,0 +1,118 @@
+---
+title: "Ankle biomechanics"
+order: 9
+---
+
+#### Functional Goals
+
+-   The foot must be both **flexible** and **rigid**, depending on the phase of gait and activity.
+-   Foot and ankle joints transmit significant loads:
+    -   **2x body weight** at rest.
+    -   **3x body weight** while walking.
+    -   **13x body weight** when running.
+-   The foot needs to be a **rigid lever** during push-off and heel strike and **supple** during stance, especially on uneven ground.
+
+#### Foot and Ankle Movements
+
+-   **Dorsiflexion/Plantarflexion**: Occur in the sagittal plane at the ankle joint.
+-   **Varus/Valgus**: Movement in the coronal plane at the hindfoot.
+-   **Abduction/Adduction**: Transverse movement of the midfoot from the midline.
+-   **Pronation/Supination**:
+    -   **Supination**: Combines ankle plantarflexion, subtalar varus, and midfoot adduction.
+-   **Inversion/Eversion**:
+    -   **Inversion**: Combines subtalar varus and forefoot supination.
+    -   **Eversion**: Combines subtalar valgus and forefoot pronation.
+
+#### Ankle and Talus
+
+-   The **talus** is wider anteriorly and moves within a **10-degree oblique axis** between the malleoli.
+-   During **dorsiflexion**, the talus rotates externally, while during **plantarflexion**, it rotates internally.
+-   As the foot moves, it transitions from **down and in** to **up and out**.
+
+#### Distal Tibiofibular Joint
+
+-   Well-supported by **interosseous membrane (IOM)** and syndesmotic ligaments, with minimal motion (2mm).
+-   Large contact area typically prevents arthrosis, but if stabilizers are disturbed, rapid arthritis can develop.
+
+------------------------------------------------------------------------
+
+### Ankle Movements During Gait
+
+-   **Ankle provides**:
+    -   20 degrees of dorsiflexion (DF) and 30 degrees of plantarflexion (PF).
+    -   11 degrees of tibial rotation (supplemented by subtalar motion for forward propulsion).
+-   **Gait cycle**:
+    -   At **heel strike**, the ankle is neutral or slightly PF, followed by further PF in early stance.
+    -   During **mid-stance**, DF occurs as the body moves over the foot, followed by PF again during **push-off**.
+    -   **Swing phase**: Progressive DF occurs to clear the floor, followed by PF in preparation for heel strike.
+
+#### Kinetics of the Ankle
+
+-   **Large contact area** lowers stress compared to the hip or knee, hence less arthritis.
+-   Sensitivity to disruptions: A 1mm taller shift can increase contact pressure by 42%, leading to early arthritis.
+-   **Gastrosoleus complex** (via Achilles tendon) works to maintain upright stance, causing compressive forces on the ankle joint.
+-   Ankle joint reaction force is proportional to gastrosoleus activity, which explains pain during tiptoeing in osteoarthritis (OA) patients.
+
+#### Achilles Anatomy
+
+-   The Achilles tendon spirals as it moves distally, with **medial fibers inserting posteriorly** and **lateral fibers inserting anteriorly**.
+-   **Achilles tendon lengthening** cuts should align with the fiber arrangement: **Distal Anterior, Medial Proximal** (DAMP procedure).
+
+------------------------------------------------------------------------
+
+### Subtalar and Foot Biomechanics
+
+-   **Subtalar joint (STJ)** acts as a torque converter, translating tibial rotation into foot pronation and supination.
+-   STJ provides 20 degrees inversion and 5 degrees eversion.
+-   **Axis of rotation**: In normal feet, 1 degree of tibial rotation yields 1 degree of inversion/eversion.
+-   Variations:
+    -   **Flat feet**: More foot rotation due to a more horizontal subtalar axis.
+    -   **Cavus feet**: Less rotation due to a more vertical axis.
+-   In the absence of subtalar motion (e.g., **tarsal coalition**), inversion/eversion occurs at the ankle joint.
+
+#### Midtarsal/Transverse Tarsal Motion (Chopart's Joint)
+
+-   The **talonavicular (TN)** joint is a ball-and-socket joint, and the **calcaneocuboid (CC)** joint is saddle-shaped.
+-   In **pronation**, the joints unlock, making the foot supple.
+-   In **supination** (e.g., during push-off), the joints lock, providing a rigid lever arm for efficient push-off.
+
+#### Tarsometatarsal Joint Motion
+
+-   Movement is restricted to less than **5 degrees dorsiflexion** and **15 degrees plantarflexion** by strong ligaments and bony architecture.
+-   The joints form the **transverse arch** of the midfoot, centered around the 2nd tarsometatarsal joint (**Lisfranc's joint**).
+
+#### Metatarsal Break
+
+-   Refers to the **oblique axis** at which the metatarsophalangeal joints (MTPJs) extend, varying between 50-70 degrees in individuals.
+
+#### Plantar Fascia
+
+-   Originates at the calcaneus and inserts into the tarsal joints and proximal phalanges.
+-   Functions as a **truss** that supports the arches and works via the **windlass mechanism**.
+-   During **toe-off**, the plantar fascia tightens, locking the tarsal joints and raising the longitudinal arch, making the foot a rigid lever.
+
+------------------------------------------------------------------------
+
+### Ankle Replacement Considerations
+
+#### First-Generation Implants (1970s)
+
+-   **Cemented**, constrained, or unconstrained designs, prone to failure due to:
+    -   Cementing requiring large bone resection.
+    -   **Constrained implants** loosening at the bone-implant interface.
+    -   **Unconstrained implants** leading to instability due to soft tissue balancing issues.
+
+#### Second-Generation Implants
+
+-   **Semi-constrained** designs with three components.
+    -   Allow sliding in AP, mediolateral directions, and dorsi-plantar flexion.
+    -   **Uncemented**, reducing subsidence and loosening.
+    -   Improved balance with **thicker polyethylene** inserts (fixed or mobile).
+    -   Examples: **LCS and STAR** (mobile poly), **Agility** (fixed poly with tibiofibular fusion).
+-   Indications: OA or rheumatoid arthritis in low-demand elderly patients.
+-   Contraindications: Infection, lack of bone stock, deformity, high demand, neuropathy, or vascular insufficiency.
+-   Complications: Malpositioning leading to impingement, instability, malleolar fracture, or premature wear.
+
+#### Third-Generation Designs
+
+-   Introduce **conical-shaped talar components**, designed to be more anatomical. Long-term results are still pending.
