@@ -1,0 +1,134 @@
+---
+title: "Cartilage"
+order: 3
+---
+
+### **Composition of Articular Cartilage**
+
+Articular cartilage is composed of different components that contribute to its structure and function. The table below outlines the wet and dry weight distribution of these components:
+
+| **Component** | **Wet Weight** | **Dry Weight** |
+|----------------------------|----------------------|----------------------|
+| **Water** | 75% | \- |
+| **Collagen** | 20% | 70% |
+| **Chondrocytes** | 5% | \- |
+| **Proteoglycans** | 10% | \- |
+| **Other** | \- | Glycoproteins, enzymes, extracellular ions |
+
+------------------------------------------------------------------------
+
+### **Structure of Articular Cartilage**
+
+Articular cartilage consists of individual chondrocytes embedded in an extracellular matrix, forming a 3D cartilaginous framework. It is organized into four layers:
+
+1.  **Superficial Gliding Zone**
+    -   Thinnest layer with the highest collagen and water content.\
+    -   Lowest proteoglycan content.\
+    -   Collagen fibers run parallel to the surface, providing resistance to shear stress and high tensile stiffness.\
+    -   Covered by **Lamina Splendens**, a protective film.
+2.  **Middle Transitional Zone**
+    -   Collagen fibers arranged obliquely.\
+    -   Acts as a transition zone for shear forces and compressive forces.
+3.  **Deep Radial Zone**
+    -   Thickest zone with the highest proteoglycan concentration and low collagen content.\
+    -   Collagen fibers are arranged perpendicular to the surface, making it resistant to compressive forces.
+4.  **Calcified Zone**
+    -   Contains calcified cartilage and is anchored to subchondral bone by hydroxyapatite crystals.\
+    -   Virtually no type 2 collagen; mostly type 10 collagen.
+
+------------------------------------------------------------------------
+
+### **Collagen in Articular Cartilage**
+
+**Collagen synthesis** occurs both inside and outside chondrocytes, leading to the formation of **collagen fibers**. The synthesis process involves:
+
+-   Formation of polypeptide chains within chondrocytes.
+-   Assembly of a triple helix structure called **Pro-collagen** in the Golgi apparatus.
+-   Release of pro-collagen into the extracellular matrix, where it forms **Tropo-Collagen**.
+-   Tropo-Collagen crosslinks to form collagen fibers.
+
+**Type 2 Collagen** is the most abundant, making up 90% of cartilage collagen. It is stable with a half-life of 25 years and provides tensile strength.
+
+**Other Types of Collagen:** - **Type 10 Collagen**: Found in the calcified zone, associated with cartilage calcification. - **Type 11 Collagen**: Regulates fiber diameter and holds the lattice together. - **Type 9 Collagen**: Present on the cartilage surface. - **Type 6 Collagen**: Carries shear stresses and increases in osteoarthritis.
+
+------------------------------------------------------------------------
+
+### **Proteoglycans**
+
+Proteoglycans are large, hydrophilic molecules that interact with water, providing cartilage with compressive strength. The most common proteoglycan is **Aggrecan**, which forms aggregates with **hyaluronic acid**, enhancing water retention and interactions with collagen.
+
+**Glycosaminoglycans (GAGs)** are proteoglycan subunits: - **Chondroitin Sulfate**: Decreases with age but increases in osteoarthritis. - **Keratin Sulfate**: Increases with age.
+
+------------------------------------------------------------------------
+
+### **Chondrocytes**
+
+Chondrocytes are derived from mesenchymal stem cells and differentiate into articular or physeal chondrocytes. Their primary functions include: 1. Collagen production. 2. Proteoglycan production. 3. Enzyme secretion for cartilage metabolism (metalloproteinases).
+
+------------------------------------------------------------------------
+
+### **Nutrition and Nerve Supply**
+
+-   **Avascular**: Articular cartilage lacks blood vessels and receives nutrients through diffusion from the synovial fluid.
+    -   **Loading** of joints helps squeeze out waste, while unloading allows nutrient diffusion.
+-   **Aneural**: Cartilage has no nerve supply.
+
+------------------------------------------------------------------------
+
+### **Function of Articular Cartilage**
+
+1.  **Joint Lubrication**
+2.  **Shock Absorption**
+
+Articular cartilage has excellent **biomechanical properties**: - Low friction (more effective than joint replacements). - 10 times more efficient at shock absorption than bone.
+
+------------------------------------------------------------------------
+
+### **Cartilage Lubrication**
+
+-   **Fluid Film Lubrication**: Dominant during movement, particularly elasto-hydrodynamic lubrication.
+-   **Boundary Lubrication**: Acts during rest.
+
+------------------------------------------------------------------------
+
+### **Pathological States of Cartilage**
+
+-   **Superficial Lacerations**: Do not heal due to avascularity.
+-   **Deep Lacerations**: Heal by fibrocartilage formation but cannot bear repetitive loading as effectively as type 2 collagen.
+
+------------------------------------------------------------------------
+
+### **Changes in Cartilage with Aging and Osteoarthritis**
+
+| **Parameter** | **Aging** | **Osteoarthritis** |
+|---------------------------|----------------------|-----------------------|
+| **Water Content** | Decreases | Increases |
+| **Synthetic Activity** | Decreases | Increases |
+| **Collagen Content** | Decreases | Decreases (concentration increases) |
+| **Proteoglycan Content** | Decreases | Decreases |
+| **Chondrocyte Size** | Increases | \- |
+| **Chondrocyte Number** | Decreases | \- |
+| **Chondroitin: Keratin Ratio** | Decreases | Increases |
+| **Stiffness (Young’s Modulus)** | Increases | Decreases (due to high water content) |
+
+------------------------------------------------------------------------
+
+### **Osteoarthritis**
+
+Osteoarthritis develops due to two primary mechanisms: 1. **Increased degrading enzyme concentration**. 2. **Direct trauma to cartilage**.
+
+The condition leads to:
+
+-   Damaged collagen meshwork.
+
+<!-- -->
+
+-   Increased water content and proteoglycan synthesis.
+
+<!-- -->
+
+-   Compromised load
+
+<!-- -->
+
+-   bearing ability, leading to cartilage fatigue and eventual degeneration.

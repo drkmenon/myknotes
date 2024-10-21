@@ -1,0 +1,110 @@
+---
+title: "Embryology"
+order: 1
+---
+
+### **Embryonic Germ Cell Layers**
+
+The human embryo consists of four distinct germ cell layers that give rise to different tissues:
+
+1.  **Ectoderm** (outer layer)
+2.  **Mesoderm** (middle layer)
+3.  **Endoderm** (inner layer)
+4.  **Neural Crest**\
+    Considered a fourth germ cell layer due to its early presence in development.
+
+------------------------------------------------------------------------
+
+### **Timeline of Skeletal Development**
+
+| **Time Frame** | **Developmental Milestone** |
+|--------------------------|----------------------------------------------|
+| **4 Weeks** | Limb buds appear, with the upper limb developing 48 hours before the lower limb. |
+| **8 Weeks** | Limbs rotate 90 degrees: the upper limb rotates externally, while the lower limb rotates internally (thumb lateral, big toe medial). |
+| **12 Weeks** | Primary ossification centers of long bones are present (humerus is the first to appear, followed by the femur). |
+| **36 Weeks** | Secondary ossification centers begin to appear, with the distal femur being the first. |
+
+------------------------------------------------------------------------
+
+### **Limb Bud Development**
+
+Limb development follows a well-defined pattern along three axes:
+
+1.  **Proximo-distal Axis** (longitudinal)
+    -   Controlled by the **Apical Ectodermal Ridge (AER)**\
+    -   Regulated by the **Homeobox gene**
+2.  **Cranio-caudal Axis** (medio-lateral)
+    -   Controlled by the **Zone of Polarizing Activity (ZPA)**\
+    -   Regulated by the **Sonic Hedgehog gene**
+3.  **Dorso-ventral Axis** (anterior-posterior)
+    -   Controlled by the surface ectoderm overlaying the mesoderm\
+    -   The dorsal surface grows faster, causing the limbs to curve.
+
+------------------------------------------------------------------------
+
+### **Formation of Joints and Ossification Centers**
+
+The process of joint and bone formation involves multiple steps:
+
+1.  **Chondrification**
+    -   Mesenchymal cells in the mesoderm differentiate into chondrocytes, forming a cartilaginous skeletal anlage.
+2.  **Joint Formation**
+    -   Segmentation, resorption, and cavitation of the cartilaginous anlage create primitive joints, with intra-articular structures developing through resorption and differentiation.
+3.  **Ossification**
+    -   Primary ossification centers appear due to the hypertrophy of mid-diaphyseal chondrocytes, vascular invasion, and the development of the nutrient artery system.
+    -   **Periosteal intramembranous ossification** occurs first, followed by **enchondral ossification** at the physis.
+    -   Secondary ossification centers develop in the epiphysis around 30-36 weeks, following vascular invasion.
+
+------------------------------------------------------------------------
+
+### **Spinal Development**
+
+The development of the spinal column is closely regulated by the **Homeobox gene** and occurs as follows:
+
+1.  A mid-sagittal groove forms in the ectoderm.
+2.  The groove deepens, folding into itself to create the **neural tube**.
+    -   **Failure of closure results in spina bifida.**
+3.  **Neural crest cells** lie dorsally, while the **notocord** lies ventrally, with the neural tube in between.
+
+------------------------------------------------------------------------
+
+### **Key Structures Derived from Embryonic Layers**
+
+| **Structure** | **Origin** |
+|--------------------------|----------------------------------------------|
+| **Neural Crest** | Peripheral nervous system, basal ganglia, sympathetic chain |
+| **Neural Tube** | Spinal cord |
+| **Notocord** | Vertebrae, intervertebral discs, and spinal muscles |
+
+------------------------------------------------------------------------
+
+### **Spinal Column Development**
+
+The spinal column develops entirely from the **notocord**. The notocord gives rise to **somites**, which are segmental aggregations of mesenchymal cells aligned along the notocord. Each pair of somites corresponds to future vertebrae.
+
+| **Vertebral Segments** | **Somites** |
+|------------------------|-------------|
+| **Cranium**            | 4           |
+| **Sacral**             | 5           |
+| **Coccygeal**          | 4           |
+
+-   **Failure of formation** leads to hemivertebrae.\
+-   **Failure of segmentation** can result in vertebral anomalies like bars, block vertebrae, or Klippel-Feil syndrome.
+
+------------------------------------------------------------------------
+
+### **Ossification Centers in the Spine**
+
+| **Ossification Centers** | **Vertebrae**                               |
+|--------------------------|---------------------------------------------|
+| **Anterior Center**      | Vertebral body (anterior).                  |
+| **Posterior Center**     | Posterior vertebral body and elements.      |
+| **Costal Center**        | Ribs and transverse processes.              |
+| **C2 Exception**         | C2 has 5 ossification centers instead of 3. |
+
+------------------------------------------------------------------------
+
+### **Development of Intervertebral Disc**
+
+-   **Nucleus Pulposus** develops from the notocord.
+-   **Annulus Fibrosus** forms from sclerotomal cells derived from the notocord.
