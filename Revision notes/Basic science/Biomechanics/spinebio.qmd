@@ -1,0 +1,82 @@
+---
+title: "Spine biomechanics"
+order: 8
+---
+
+#### Spinal Stability (White & Panjabi)
+
+-   **Definition**: The ability of the spine to resist displacement under normal physiological loading, thus protecting neural structures from injury while preventing deformity and pain.
+
+#### Motion Segment
+
+-   A **spinal motion segment** includes two vertebrae and the soft tissues between them.
+-   Stability arises from the interaction of three subsystems:
+    1.  **Passive musculoskeletal system**: Vertebrae, discs, facet joints, ligaments, and joint capsules.
+    2.  **Active musculoskeletal system**: The spinal muscles.
+    3.  **Neural system**: Proprioception and neural feedback mechanisms.
+
+------------------------------------------------------------------------
+
+### Passive Musculoskeletal System
+
+#### Vertebrae
+
+-   **7 cervical (C), 12 thoracic (T), 5 lumbar (L), 5 sacral (S), 4 coccygeal** vertebrae.
+-   Vertebrae become wider and deeper as they move **caudally**, in response to increased loading.
+-   **Trabeculae** (vertical and horizontal) form the internal structure of vertebrae under load. Loss of trabeculae (as in **osteoporosis**) predisposes vertebrae to compression fractures.
+-   The **S-shaped spine** in the sagittal plane shifts body weight away from the central axis of rotation, aiding balance and gait.
+-   The axis of rotation passes through the posterior portion of the vertebral body, and **spinous processes** provide long lever arms for posterior muscles, resisting flexion.
+
+#### Facet Joints
+
+-   Formed between the **inferior articular facet** of one vertebra and the **superior articular facet** of the vertebra below it.
+-   Facet joints guide the type of movement possible between vertebrae.
+-   They become progressively **more vertical** in the sagittal and coronal planes moving caudally.
+    -   Cervical spine: Resistant to translation, more susceptible to flexion/extension.
+    -   Lumbar spine: More resistant to flexion/extension.
+    -   Thoracic spine: Extra stability from the rib cage.
+
+#### Spinal Ligaments
+
+-   **Ligamentum flavum**: High elastin content, preventing buckling inward. Degeneration can cause it to buckle and contribute to **spinal stenosis**.
+-   **Posterior longitudinal ligament (PLL)** and **anterior longitudinal ligament (ALL)**: Resist flexion and extension forces.
+-   Other ligaments include **intertransverse** and **interspinous ligaments**.
+
+#### Intervertebral Discs
+
+-   **Shock absorbers** between vertebrae that distribute load and allow limited movement. Their properties are discussed in other chapters.
+
+------------------------------------------------------------------------
+
+### Active Musculoskeletal System
+
+-   Consists of **spinal muscles**, which include:
+    -   **Extensor muscles**: Arranged in three layers (deep, intermediate, and superficial).
+    -   **Abdominal muscles**: Help stabilize the spine, especially the lumbar region.
+    -   **Intercostals** and **lower trunk muscles**: Play roles in stability and respiration.
+-   **Extensor muscles**:
+    1.  **Deep muscles**: Interspinalis, intertransversalis.
+    2.  **Intermediate muscles**: Multifidus, semispinalis (lie between the deep layer and transverse processes).
+    3.  **Superficial muscles**: Erector spinae (longissimus, spinalis, iliocostalis, splenius).
+
+------------------------------------------------------------------------
+
+### Neural Subsystem
+
+-   Proprioception is critical in the spine due to its constantly changing positions and loading. It helps coordinate movement and maintain balance.
+
+------------------------------------------------------------------------
+
+### Interaction of Subsystems in Spinal Stability
+
+-   **Spinal range of motion** is divided into two zones:
+    1.  **Neutral zone**: The initial, highly flexible range where the **active and neural systems** dominate, providing proprioceptive feedback to control movement.
+    2.  **Elastic zone**: Occurs toward the end of the motion range, where the **passive system** limits movement and provides stability, preventing damage to neural structures.
+
+------------------------------------------------------------------------
+
+### Spinal Disease or Injury
+
+-   Conditions like **degenerative disc disease** or **burst fractures** increase the size of the neutral zone beyond the normal physiological range, leading to instability.
+-   The widened neutral zone increases the risk of neurological injury due to excess movement.
+-   In a **diseased spine**, enhancing the **active musculoskeletal system** (i.e., muscle strengthening) can help minimize the increase in the neutral zone, restoring some stability.
