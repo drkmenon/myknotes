@@ -1,0 +1,66 @@
+---
+title: "Wrist biomechanics"
+order: 6
+---
+
+### Biomechanics of the Wrist
+
+#### Scaphoid Mechanics
+
+-   The **scaphoid** spans both the proximal and distal carpal rows.
+-   There is a **distal flexion moment** and a **proximal extension moment**, with the **radioscaphocapitate ligament** serving as the fulcrum.
+-   In the case of a **scaphoid waist fracture**, these forces lead to a **humpback deformity**.
+
+#### Mechanics of SLAC & SNAC Wrist
+
+**Scapholunate Advanced Collapse (SLAC)**\
+- **Scapholunate Ligament (SL) Disruption**: The scaphoid flexes while the lunate extends, creating an imbalance. - **Scaphoid Flexion**: Initially dynamic, then static, the scaphoid impinges on the radius, causing **scaphostyloid arthritis (Stage 1)**. - **Progression**: Impingement leads to **scaphofacet arthritis (Stage 2)**, and with ongoing axial force from the capitate, the carpal height decreases, eventually causing **capitolunate arthritis and carpal collapse (Stage 3)**.
+
+**Scaphoid Nonunion Advanced Collapse (SNAC)**\
+- The **scaphoid and lunate** become uncoupled through a fracture, leading to a **humpback deformity**. - **Flexed Distal Pole**: Causes impingement on the radius, leading to **scaphostyloid arthritis (Stage 1 SNAC)**. - **Extended Proximal Pole**: Impinges on the capitate, resulting in **scaphocapitate arthritis (Stage 2 SNAC)**. - **Stage 3 SNAC**: The capitate impinges on the rim of the extended lunate, causing **capitolunate arthritis and carpal collapse**.
+
+#### Distal Radioulnar Joint (DRUJ) Mechanics
+
+-   The **ulna** remains fixed while the **radius rotates**.
+-   The ulna's smaller radius of curvature compared to the shallow sigmoid notch allows a wide range of motion and varied contact pressures.
+-   **Pronation**: Causes proximal and volar translation of the radius.
+-   **Supination**: Causes distal and dorsal translation of the radius.
+-   **Proximal translation of the radius** is limited by the **interosseous membrane**.
+
+#### Triangular Fibrocartilage Complex (TFCC)
+
+-   The TFCC is the main static stabilizer of the DRUJ, providing a stable platform for movement and linking the DRUJ to the ulnar carpus.
+-   TFCC components:
+    -   **Dorsal and volar radio-ulnar ligaments**
+    -   **Ulno-carpal ligaments** (ulno-capitate, ulno-lunate, and ulno-triquetral ligaments)
+    -   **Meniscal homologue**
+    -   **Cartilage disc**
+    -   **ECU subsheath**
+-   **Dynamic stabilization** of the DRUJ is provided by the **pronator quadratus (PQ)** and **extensor carpi ulnaris (ECU)**.
+
+------------------------------------------------------------------------
+
+### The Paralysed Hand and Tendon Transfers
+
+#### Principles of Tendon Transfer
+
+1.  The joint across which the transfer is performed should be passively mobile.
+2.  Functional gain must outweigh the potential loss.
+3.  The motor used should have sufficient power (expect a loss of one grade).
+4.  The motor should have adequate excursion.
+
+**Ideal characteristics**: - The line of pull should be straight. - Only one motor per joint should be necessary. - The transfer should be synergistic. - The hand must retain sensibility.
+
+------------------------------------------------------------------------
+
+#### Typical Upper Limb Tendon Transfers
+
+**Radial Nerve Palsy** (wrist and thumb extension needed for power grip): - **Pronator Teres (PT)** to **Extensor Carpi Radialis Brevis (ECRB)** (preferred over ECRL for being more central). - **Palmaris Longus (PL)** to **Extensor Pollicis Longus (EPL)**. - **Flexor Carpi Radialis (FCR)** to **Extensor Digitorum Communis (EDC)**.
+
+**Ulnar Nerve Low Lesion** (restoration of intrinsic function and thumb adduction for pinch grip): - **Flexor Digitorum Superficialis (FDS)** to lateral bands (prevents clawing) or tenodesis of FDS. - **Extensor Indicis Proprius (EIP)** to **Adductor Pollicis (ADP)**.
+
+**Ulnar Nerve High Lesion** (requires restoration of functions in FCU and FDP): - Sew FDP tendons together to allow unified function. - **Palmaris Longus (PL)** or **FCR** to **Flexor Carpi Ulnaris (FCU)**. - **FDS** to lateral bands. - **EIP** to **ADP**.
+
+**Median Nerve Low Lesion** (restoration of thumb opposition): - **EIP** or **PL** to **Abductor Pollicis Brevis (APB)**.
+
+**Median Nerve High Lesion** (focus on restoring PT, FDP, FPL, and APB): - **EIP** to **APB**. - Sew FDP tendons to the ulnar FDP. - **ECRL** to **Flexor Pollicis Longus (FPL)**. - **Biceps** or **ECU** to the radial aspect of the radius for pronation.
