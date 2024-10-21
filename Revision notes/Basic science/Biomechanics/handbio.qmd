@@ -1,0 +1,96 @@
+---
+title: "Hand biomechanics"
+order: 7
+---
+
+### Biomechanics of the Hand
+
+#### Interphalangeal (IP) Joints
+
+-   **Single axis hinge joints** allowing flexion/extension.
+-   **Center of rotation (COR)** is slightly anterior to the collateral ligament origin.
+-   **Static stability** is provided by:
+    -   Bony architecture (similar to the knee joint)
+    -   Collateral ligaments
+    -   Volar plate
+
+#### Metacarpophalangeal (MP) Joints
+
+-   These joints have **two axes of movement**: flexion/extension and abduction/adduction.
+-   **Abduction/adduction** only occurs when the proximal phalanx (P1) is flexed to 30 degrees.
+-   This leads to **circumduction** around the metacarpal head.
+-   Static stability components are the same as in IP joints (bony structure, collateral ligaments, volar plate).
+
+#### Carpometacarpal (CMC) Joints of the Fingers
+
+-   **Ulnarward movement** restricts mobility progressively, with the 4th and 5th CMC joints being highly rigid, transmitting forces from hand to wrist.
+-   The **third metacarpal (MC)** acts as a cantilever to support flexor sheaths, and the fibrous framework includes collateral ligaments and transverse metacarpal ligaments.
+
+#### Thumb CMC Joint
+
+-   A **saddle joint** with **two axes of movement** similar to the MP joints of the fingers.
+-   **Circumduction** is a consequence of the two axes of movement when the thumb metacarpal is slightly flexed.
+-   **Trapezium** and **metacarpal base** have differing radii of curvature, allowing thumb pronation and increased range of motion, though at the expense of stability.
+-   Stability comes from the **volar oblique (beak) ligament** and the capsule, but this ligament is prone to rupture, leading to **joint instability**. It can be repaired or reconstructed with a trapeziectomy if needed.
+-   **Loading of the thumb CMCJ** can reach up to 120 kg, with most force transmitted through the volar half, making the **volar oblique ligament** particularly vulnerable to attenuation or rupture.
+-   The **thumb CMCJ and MPJ** work in unison, as motor tendons cross both joints.
+
+------------------------------------------------------------------------
+
+### Motor Systems and Tendon Excursion
+
+-   The hand's movement is powered by **flexors, extensors, and intrinsic muscles**.
+-   **Tendon excursion** lengths:
+    -   Flexor and extensor tendons: 30-50-70 mm.
+    -   Wrist flexors and extensors: 30 mm.
+
+#### Extensor Mechanism
+
+-   Composed of **long extensors (extrinsics)** and **intrinsic muscles**.
+-   The **extensor hood** is made up of:
+    -   Long extensor tendons
+    -   Lumbricals (on the radial side)
+    -   Interossei
+-   **Lateral bands** control the distal phalanx, and the **central slip** controls the middle phalanx.
+
+#### Flexor Mechanism
+
+-   **Flexor Digitorum Profundus (FDP)** is a mass-action muscle with some independent action in the index finger.
+-   The **quadrigia effect** occurs when shortening or tethering of one FDP tendon causes slight flexion in the other DIP joints.
+-   Tension in the FDP is constant during contraction, with **greater torque proximally** because the moment arm between the MPJ COR and DIPJ COR is longer at the MPJ. Thus, higher torque is generated at the MPJ even for small loads.
+-   **Annular pulleys (A1-4)** prevent bowstringing and maintain tendon proximity to the COR of each joint, maximizing power. A2 and A4 are the most important.
+-   **Cruciate pulleys (C1-3)** lie between annular pulleys, supporting tendon sheaths.
+-   The **flexor retinaculum** also acts as a pulley.
+
+------------------------------------------------------------------------
+
+### Intrinsic Muscles
+
+#### Lumbricals
+
+-   **Unique muscles**: they originate from the FDP tendons and insert into the extensor hood.
+-   Lumbricals fine-tune the tension between the **flexor** and **extensor systems**.
+
+#### Interossei
+
+-   **Palmar interossei** adduct the fingers, while **dorsal interossei** abduct them.
+-   Both types arise from the **metacarpal shafts** and contribute to the **extensor hood**.
+
+#### Combined Function of Intrinsics
+
+-   Together, the **intrinsics** flex the MPJ and extend the PIPJ, with the **lumbricals** playing a larger role due to their distance from the MPJ COR, which gives them a longer moment arm.
+-   Intrinsics allow the fingers to flex without curling, which is essential for grasping large objects.
+
+------------------------------------------------------------------------
+
+### Clinical Conditions of Intrinsic Muscle Imbalance
+
+-   **Intrinsic paralysis** leads to the **intrinsic-minus hand**, characterized by hyperextension of the MPJ due to the long extensors and a flexed posture of the DIPJ and PIPJ due to long flexor tension, creating a claw-hand deformity.
+
+    -   **Grasping** is impossible in this condition, and fingers curl into a fist from the distal (FDP) to proximal (FDS) tendons.
+
+-   **Intrinsic-plus hand** is the opposite, due to **intrinsic tightness**. The MPJs are flexed, and the PIPJs extended.
+
+-   **Lumbrical paradox**: Because the lumbricals bridge between the long flexors and extensors, paradoxical PIPJ extension can occur when attempting to flex the fingers.
+
+-   **Lumbrical-plus finger**: An extreme example of this paradox, where FDS is sectioned distal to the lumbrical origin. All FDS power is transmitted via the lumbrical to the long extensors, causing **PIPJ hyperextension** when the FDS contracts.
