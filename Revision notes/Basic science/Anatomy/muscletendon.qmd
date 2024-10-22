@@ -1,0 +1,186 @@
+---
+title: "Muscles and Tendons"
+---
+
+# **Skeletal Muscle**
+
+### **Gross Structure**
+
+-   **Basic unit** of a muscle: Sarcomere
+-   **Smallest functional unit**: Myofibril (Many sarcomeres lined up together)
+-   **Muscle fibres** grouped together form **Fasicles** (Visible by eye)
+-   **Muscle organization**:
+    -   Sarcomere \> Myofibril \> Fibre \> Fasicle \> Muscle
+    -   **Membranes**:
+        -   **Sarcolemma**: Surrounds sarcomere
+        -   **Sarcoplasm**: Cytoplasm of the sarcomere
+    -   **Layers**:
+        -   **Endomycium**: Surrounds individual muscle fibres
+        -   **Perimycium**: Surrounds fasicles (groups of muscle fibres)
+        -   **Epimycium**: Surrounds whole muscle (grouped fasicles)
+
+------------------------------------------------------------------------
+
+### **Ultra Structure**
+
+-   **Myofibrils** composed of:
+    -   **Actin (small fibres)** and **Myosin (big fibres)**
+-   **Sarcomeres** lined up longitudinally forming a myofibril (2-2.5 microns in length, visible under electron microscope)
+-   **Bands contributing to contractility**:
+    -   **A Bands**: Overlapping actin & myosin filaments
+    -   **H Bands**: Myosin filaments - no overlap with actin
+    -   **I Bands**: Actin filaments - no overlap with myosin
+    -   **M Line**: Central band - connections between myosins
+    -   **Z Disc**: Between adjacent sarcomeres
+-   **Arrangement**: Hexagonal helix (6 actin to 1 myosin filament)
+-   **Supporting proteins**:
+    -   **Dystrophin** (absent in Duchenne Muscular Dystrophy)
+    -   **Troponin** and **Tropomyosin** on actin
+
+------------------------------------------------------------------------
+
+### **Muscle Cell Membrane**
+
+-   **Components**: Sarcoplasmic reticulum and T-tubules
+
+------------------------------------------------------------------------
+
+#### **Sarcoplasmic Reticulum**
+
+-   Surrounds each myofibril, stores **calcium** essential for contraction
+
+------------------------------------------------------------------------
+
+#### **T Tubules**
+
+-   **Invaginations** of the cell membrane extending into the cell
+-   Function: Relays **nerve signal** deep into the cell, facilitating **calcium entry** via the T tubule system
+
+------------------------------------------------------------------------
+
+### **Blood Supply**
+
+-   **One main artery** supplies each muscle, branching rapidly to form highly vascular arcades running with **Perimycium**
+-   **Terminal capillaries** lie within the **Endomycium**
+
+------------------------------------------------------------------------
+
+### **Function**
+
+#### **Sliding Filament Mechanism**
+
+-   **Contraction**:
+    -   Myosin binds to actin, facilitated by calcium binding to troponin and moving tropomyosin.
+    -   ATP-dependent mechanism
+-   **Force generation**:
+    -   **Proportional** to muscle cross-sectional diameter
+    -   **Velocity** of contraction is related to muscle length
+    -   **Power**: Function of force and velocity
+
+------------------------------------------------------------------------
+
+### **Innervation**
+
+-   **Motor neuron** supplies multiple muscle fibres.
+-   **Muscle Spindles**: Provide proprioceptive feedback.
+
+------------------------------------------------------------------------
+
+### **Neuromuscular Junction (Motor End Plate)**
+
+-   **Pre-synaptic membrane** contains vesicles of acetylcholine.
+-   **Action potential** triggers acetylcholine release.
+-   **Calcium release** by sarcoplasmic reticulum allows for myosin-actin cross-bridging.
+-   **Acetylcholinesterase** clears residual acetylcholine.
+-   **Conditions**:
+    -   **Botox** blocks acetylcholine release, preventing spasticity.
+    -   **Myasthenia Gravis**: Reduced acetylcholine receptors.
+
+------------------------------------------------------------------------
+
+### **Myotendinous Junction**
+
+-   The weakest part of the muscle unit, prone to injury.
+-   Features to improve strength:
+    1.  Short sarcomere length
+    2.  Tissue interdigitation
+    3.  High synthetic ability of cells
+    4.  Folded membranes increasing surface area
+
+------------------------------------------------------------------------
+
+### **Types of Muscle Fibre**
+
+-   **Type 1 (Slow red ox)**: Slow-twitch, red, oxidative, fatigue-resistant
+-   **Type 2a**: Fast-twitch, oxidative and glycolytic, relatively white, fatigable
+-   **Type 2b**: Fast-twitch, glycolytic, white, highly fatigable
+
+------------------------------------------------------------------------
+
+### **Muscle Metabolism**
+
+| **System** | **Description** |
+|-----------------|-------------------------------------------------------|
+| **ATP Dependent** | Intense short duration activities, carbohydrate-stored, no oxygen or lactate required |
+| **Lactic Anaerobic** | Short-middle duration, produces lactic acid |
+| **Aerobic** | Long duration, reliant on oxygen, replenishes ATP |
+
+------------------------------------------------------------------------
+
+### **Types of Muscle Contraction**
+
+-   **Isotonic**: Constant muscle tension, change in length (e.g., biceps curl)
+-   **Isometric**: Constant length, changing tension (e.g., pushing against a wall)
+-   **Isokinetic**: Constant velocity, varying length and tension
+-   **Concentric**: Muscle shortens
+-   **Eccentric**: Muscle lengthens while generating force (e.g., lowering a weight)
+-   **Plyometric**: Stretch followed by rapid contraction
+
+------------------------------------------------------------------------
+
+### **Muscle Injury**
+
+-   Caused by crush, laceration, ischemia, infection, denervation, etc.
+-   Leads to **rising intracellular calcium**, activating proteolytic enzymes, damaging muscle until stimulus is removed.
+
+------------------------------------------------------------------------
+
+### **Muscle Repair**
+
+-   Requires **vascularity** and **innervation**.
+-   Healing involves **macrophage infiltration** and scar tissue formation, resulting in around 50% power recovery.
+
+------------------------------------------------------------------------
+
+### **EMG (Electromyography)**
+
+-   Shows **denervation signs** from muscle readings at 3 weeks (e.g., sporadic firing, sharp waves).
+
+------------------------------------------------------------------------
+
+# **Tendons & Ligaments**
+
+| **Feature** | **Ligament** | **Tendon** |
+|--------------------|---------------------------|--------------------------|
+| **Elastin Content** | Greater | Less |
+| **Strength** | Weaker | Stronger |
+| **Collagen Arrangement** | Layered, multidirectional | Longitudinal, high tensile stress |
+
+------------------------------------------------------------------------
+
+### **Function**
+
+-   **Ligaments**: Stabilize joints, provide proprioceptive feedback.
+-   **Tendons**: Transmit tensile loads, act as springs, place muscle optimally to joints.
+
+------------------------------------------------------------------------
+
+### **Mechanical Properties**
+
+-   **Stress-Strain Curve**: Shows response to load; small plastic region for ligaments, failure occurs after slight elongation.
+
+------------------------------------------------------------------------
+
+### **Injury & Repair**
+
+-   Tendons and ligaments are prone to **breakage** rather than bending, with limited plastic deformation.

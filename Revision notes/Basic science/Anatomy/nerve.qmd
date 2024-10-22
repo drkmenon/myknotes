@@ -1,0 +1,151 @@
+---
+title: "Nerve"
+order: 3
+---
+
+### **Key Components of a Nerve**
+
+**Neuron:** - The fundamental unit of a nerve. - Consists of a cell body, axon, and dendrites.
+
+**Cell Body:** - Gives rise to axons and dendrites.
+
+**Dendrites:** - Thin sensory processes that receive input from other neurons.
+
+**Axon:** - The main route for conducting signals to tissues. - Axon size: 0.2 to 20 μm.
+
+**Glial Cells:** - Support neurons and form the myelin sheath. - **CNS Glial Cells**: Oligodendrocytes (myelin production), astrocytes, and microglia. - **PNS Glial Cells**: Schwann cells.
+
+**Myelination:** - **Myelinated Axons**: One Schwann cell per axon internode. - **Unmyelinated Axons**: Bundled together with no myelin (Remak Bundle).
+
+**Myelin:** - A lipid and protein-rich sheath laid down in the PNS, forming the neurilemma (not present in CNS myelinated axons).
+
+**Nodes of Ranvier:** - Gaps between Schwann cells, essential for saltatory conduction.
+
+------------------------------------------------------------------------
+
+### **Nerve Structure**
+
+-   Axons group to form **nerve fibres**.
+-   Fibres group to form **bundles**.
+-   Bundles group to form **fascicles**.
+-   Fascicles group to form a **nerve trunk**.
+
+**Layers of a Nerve:** 1. **Endoneurium**: Surrounds grouped axons (nerve fibres), contains collagen and blood vessels. 2. **Perineurium**: Surrounds fascicles, prevents excessive diffusion and oedema. 3. **Epineurium**: A dense collagen layer that surrounds groups of fascicles, forming a supportive sheath with blood vessels.
+
+------------------------------------------------------------------------
+
+### **Blood Supply to Nerves**
+
+Nerves receive blood through intrinsic and extrinsic plexuses: - **Extrinsic Plexuses**: Segmental vessels in the epineurium. - **Intrinsic Plexuses**: Longitudinal vessels, mainly in the endoneurium, with a blood-nerve barrier.
+
+------------------------------------------------------------------------
+
+### **Biomechanics of Nerves**
+
+-   Nerves exhibit **viscoelastic** properties.
+-   Susceptible to traction injuries; ischemia occurs at 15% strain, rupture at around 20%.
+-   Nerves rely on **ATP-dependent transport**, making them vulnerable to ischemia, anoxia, and hypothermia.
+
+------------------------------------------------------------------------
+
+### **Action Potentials**
+
+-   The axon’s resting membrane potential is **-70mV**, maintained by Na+ and K+ channels.
+-   Action potential involves the opening of Na+ channels, followed by K+ channels, creating electrical currents essential for nerve function.
+
+**Nodes of Ranvier** play a crucial role in **saltatory conduction**, allowing faster signal transmission with less energy consumption.
+
+------------------------------------------------------------------------
+
+### **Synapse and Neuromuscular Junction (NMJ)**
+
+-   The **NMJ** is where the nerve communicates with muscle fibres.
+-   Neurotransmitters like acetylcholine are released into the synaptic cleft, passing on the action potential.
+-   Residual neurotransmitters are metabolised and removed from the cleft.
+
+------------------------------------------------------------------------
+
+### **Embryology of the Nervous System**
+
+The nervous system arises from the **ectoderm** (one of the three germ layers). The **neural tube** forms the CNS and motor neurons, while the **neural crest** forms sensory neurons, the PNS, and basal ganglia.
+
+------------------------------------------------------------------------
+
+### **Organisation of the Nervous System**
+
+-   **CNS**: Includes 12 paired cranial nerves and 31 paired spinal nerves.
+    -   Spinal nerves divide into **dorsal (sensory) rami** and **ventral (motor) rami**.
+-   **Sensory Nerve Receptors**:
+    1.  **Mechanoreceptors** (e.g., Meissner, Pacinian corpuscles),
+    2.  **Thermoreceptors** (temperature),
+    3.  **Nociceptors** (pain).
+
+------------------------------------------------------------------------
+
+### **Autonomic Nervous System**
+
+The autonomic nerves originate from the grey matter of the spinal cord (T1 to L2 levels). They synapse in the **paravertebral ganglia** before relaying signals to viscera or traveling along the sympathetic trunk.
+
+------------------------------------------------------------------------
+
+### **Nerve Fibre Types**
+
+| Fibre Type | Example | Myelination | Diameter (µm) | Velocity (m/s) |
+|-------------|--------------------|-------------|-------------|-------------|
+| **Aα** | Motor (large diameter) | Myelinated | 20 | 100 |
+| **Aβ** | Organised sensory (hair) | Myelinated | 10 | 50 |
+| **Aδ** | Pain & Temperature | Myelinated | 5 | 25 |
+| **B** | Autonomic Pre-Ganglionic | Myelinated | 5 | 10 |
+| **C** | Autonomic Post-ganglionic, Slow Pain | Unmyelinated | 1 | 2 |
+
+------------------------------------------------------------------------
+
+### **Peripheral Nerve Injury**
+
+Peripheral nerve injuries may result from **crush**, **traction**, **laceration**, or **compression**. Their classification involves histological analysis and time to assess the severity:
+
+#### **Seddon Classification**
+
+| Type | Features | Sunderland Grade | Prognosis |
+|--------------|------------------------------|--------------|--------------|
+| **Neuropraxia** | No Wallerian degeneration, conduction block | Grade 1 | Good |
+| **Axonotmesis** | Wallerian degeneration, axonal damage | Grade 2-4 | Moderate |
+| **Neurotmesis** | Complete nerve transection | Grade 5 | Poor |
+
+------------------------------------------------------------------------
+
+### **Pathology of Nerve Injury**
+
+In **Wallerian degeneration**, both the proximal and distal parts of the axon undergo significant changes. The proximal axon undergoes atrophy, while the distal part degenerates completely. Schwann cells assist in regeneration, with regrowth occurring at 1mm per day.
+
+------------------------------------------------------------------------
+
+### **Motor End Plate**
+
+The motor end plate plays a crucial role in muscle innervation. Over time, without re-innervation, the motor end plate degenerates, followed by muscle spindle degradation.
+
+**Recovery Order of Sensory Nerves:** 1. Pressure sense 2. Protective pain 3. Moving touch 4. 2-point discrimination 5. Normal sensation
+
+------------------------------------------------------------------------
+
+### **Factors Affecting Nerve Recovery**
+
+-   **Patient Factors**: Age.
+-   **Injury Factors**: High energy, associated vascular injury, crush or traction injury.
+-   **Surgical Factors**: Delay in repair, infection, repair under tension.
+
+------------------------------------------------------------------------
+
+### **Management Principles**
+
+#### **Non-operative Treatment**:
+
+-   For **neuropraxia** and most **axonotmesis** injuries.
+
+#### **Surgical Repair**:
+
+-   Performed in clean, vascularised beds with stable skeletal structures. Nerve grafting may be needed for gaps. Autografts (sural nerve) or conduits can be used for reconstruction.
+
+#### **Outcomes**:
+
+-   Depend on factors such as patient age, injury location, and surgical timing.
