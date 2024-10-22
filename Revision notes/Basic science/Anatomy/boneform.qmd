@@ -1,0 +1,71 @@
+---
+title: "Bone formation"
+---
+
+**Bone Formation** occurs through three distinct mechanisms:
+
+### 1. Enchondral Bone Formation
+
+-   **Examples**:
+
+    -   Long bones in utero.
+    -   Longitudinal growth of long bones.
+    -   Callus formation (the main type).
+    -   Ossification of demineralized bone matrix.
+
+-   **Underlying Principle**:\
+    Bone replaces an initial **cartilage model**, but cartilage is not transformed directly into bone.
+
+-   **Embryonic Bone Formation**:
+
+    -   Starts at **6 weeks** gestation.
+    -   **Mesenchymal anlage** is invaded by osteoprogenitor cells, which differentiate into **osteoblasts**.
+    -   This leads to the formation of **primary ossification centers (physes)**, usually by the **8th week**.
+
+-   **Growth Process**:
+
+    -   The fetal cartilage model increases in size through:
+        -   **Appositional growth**: Increase in width.
+        -   **Interstitial growth**: Increase in length.
+
+-   **Secondary Ossification Centers** (epiphyses) form later, followed by:
+
+    -   Formation of marrow: Resorption of the central cavity and invasion by myeloid precursors.
+
+-   **Blood Supply** during this stage is rich and includes:
+
+    -   **Epiphyseal artery**.
+    -   **Metaphyseal arteries**.
+    -   **Perichondral arteries** (primary supply to the physis).
+    -   **Longitudinal nutrient arteries**.
+
+### 2. Intramembranous Ossification
+
+-   **Key Element**:\
+    Bone forms **directly** from undifferentiated cells, **not** from a pre-existing cartilage model.
+
+-   **Process**:
+
+    -   **Undifferentiated cells** align in layers (membranes) and differentiate into **osteoblasts**.
+    -   Osteoblasts lay down bone matrix, which is then **mineralized** into bone.
+
+-   **Examples**:
+
+    -   **Distraction Osteogenesis**: A process used in limb lengthening.
+    -   **Periphery of fracture callus**.
+    -   **Flat bones**: Such as the pelvis, clavicle, and skull.
+
+### 3. Appositional Ossification
+
+-   **Function**:\
+    This process is responsible for the **increase in width** of bones.
+
+-   **Process**:
+
+    -   **Osteoblasts** align along the bone surface and lay down the bone matrix.
+
+-   **Examples**:
+
+    -   **Periosteal bone formation**: Occurs on the external surface of bones.
+    -   **Fracture healing in children**.
+    -   **Bone remodeling**: As per **Wolff's law**, which states that bone adapts to mechanical stress, new bone is laid down on the concave aspect of a deformity.

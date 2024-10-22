@@ -1,0 +1,146 @@
+---
+title: "Bone grafting"
+---
+
+### Indications
+
+| **Category** | **Description** |
+|---------------------------------|---------------------------------------|
+| **Structural support** | Bone loss, support of depressed joint surface, deformity (e.g., scaphoid) |
+| **Aid bone formation** | Aid fusion of a joint or in the spine |
+| **Non-union** | Stimulate fracture healing in atrophic non-union |
+
+### Properties of Bone Grafts
+
+-   **Osteogenic**: Graft contains living cells capable of differentiating into bone. Independent of the state of the graft bed (e.g., mesenchymal stem cells, bone marrow, or cancellous autograft).
+-   **Osteoconductive**: Graft provides a scaffold for the ingrowth of capillaries and cells.
+-   **Osteoinductive**: Graft provides biologic stimulus for host cells to differentiate to form bone (e.g., BMPs, TGF-beta). The graft material itself does not contain these cells.
+
+### Classification
+
+1.  **Autograft**
+    -   Graft harvested from and implanted in the same individual.
+    -   Contains viable host cells.
+    -   Best graft option.
+    -   Volume available is limited, leading to graft site morbidity.
+2.  **Allograft**
+    -   Graft taken from another individual of the same species.
+    -   Allograft may be fresh, frozen, freeze-dried, or demineralized.
+    -   Cells are destroyed in the process.
+3.  **Xenograft**
+    -   Graft obtained from a different species, often bovine or porcine.
+4.  **Synthetic graft**
+
+### Sources
+
+-   **Cancellous bone**: Best option but volume available is limited.
+-   **Cortical bone**
+-   **Osteochondral grafts**
+-   **Bone marrow**: Contains osteogenic and osteoinductive factors.
+
+### Dangers
+
+| **Graft Type** | **Risks** |
+|------------------------------------------|------------------------------|
+| **Autograft** | Graft site morbidity (scar, pain, infection, fracture) |
+| **Allograft** | Infection transmission (2 in a million risk of Hepatitis C or HIV), increased infection risk, immune reaction, malignant cell implantation |
+
+### Graft Incorporation
+
+-   **Host bone grows into and replaces the graft.**
+-   Allograft incorporates more slowly due to being less osteogenic and causing an immune response. Allograft may also be rejected.
+-   Cancellous graft incorporates quicker than cortical graft due to a greater cell volume.
+
+#### Cancellous Autograft Incorporation Process
+
+1.  **Inflammatory response**
+2.  **Creeping substitution**
+    -   Graft stimulates osteoblast activity (osteoinduction).
+    -   Osteoclastic resorption of the graft follows.
+    -   The graft is eventually completely replaced by creeping substitution.
+    -   X-rays at this stage appear denser, and bone is at its strongest.
+3.  **Remodeling**
+    -   Bone density reduces, as does strength over time, following Wolff's law.
+
+-   Cancellous grafts achieve early structural strength as osteoblasts lay down bone onto the graft early on.
+
+#### Cortical Graft Incorporation
+
+1.  **Inflammatory response**
+2.  **Osteoclast cutting cones**: All donor bone must be removed before appositional bone formation occurs. Mechanical strength is reduced by 50% during this process.
+3.  **Osteoblasts**: With vessels, migrate into cutting cone channels and lay down lamellar bone.
+
+-   There is no remodeling phase.
+-   Mechanical strength takes 1-2 years to recover.
+-   Incorporation is often incomplete.
+
+#### Allograft Incorporation (Cortical or Cancellous)
+
+-   Follows a similar process but is much slower.
+-   Higher chance of rejection due to a pronounced immune response, which is cellular (not humoral) and mediated by host T cells.
+
+#### Vascularized Graft Incorporation
+
+-   Incorporates like a healing fracture since the biological and mechanical environment is similar.
+
+### Bone Graft Substitutes
+
+| **Type** | **Description** |
+|---------------------------|---------------------------------------------|
+| **Calcium Phosphates** | e.g., tricalcium phosphate, Norion (injectable). Undergoes partial conversion to hydroxyapatite. Degrades slowly, providing structural support (e.g., tibial plateau). Good osteoconductivity. |
+| **Hydroxyapatite** | Does not incite any immune response. |
+| **Other** | Various types of calcium sulfate (e.g., Osteoset), ceramic, silicone, and synthetic polymers. |
+
+### Osteoinductive Agents
+
+-   **TGF Beta**: Induces the formation of type 2 collagen.
+-   **BMPs (Bone Morphogenic Proteins)**:
+    -   20 types; only BMP-2 and BMP-7 approved for use in orthopedic surgery (in the USA).
+    -   BMP-2 is the most osteogenic and primarily osteoinductive.
+    -   OP-1 (BMP 7) proven effective in tibial non-union.
+-   **PDGF**: Platelet-derived growth factor.
+-   **FDGF**: Fibroblast-derived growth factor.
+
+### Bone Banking
+
+#### Principles
+
+-   Written consent is required if the donor is living.
+-   For cadavers, no objection from the next of kin is required.
+
+#### Screening
+
+-   Blood tests and history are used to highlight contraindications.
+
+**Exclusions:** - HIV, Hepatitis, malignancy, chronic diseases (e.g., rheumatoid arthritis, autoimmune diseases), steroid treatment, Alzheimer's, CJD, MS.
+
+#### Available Products from Bone Banks
+
+| **Type** | **Description** |
+|---------------------------|---------------------------------------------|
+| **Fresh Frozen Femoral Heads** | Available only to hospitals that collect them. |
+| **Cancellous Cubes** | Freeze-dried in 1cm cubed size; purely osteoconductive with no viable cells. |
+| **Cortical Struts** | From femoral shafts, ranging from 2-22 cm, freeze-dried or gamma-irradiated. |
+| **Massive Allografts** | Proximal and distal femora and tibiae available; frozen and gamma-irradiated. |
+
+### Allograft Processing Techniques
+
+-   Physical debridement.
+-   Ultrasonic and ethanol treatments.
+-   Antibiotic soaks.
+-   Irradiation (reduces mechanical strength).
+-   Demineralization.
+
+### Allograft Storage
+
+| **Type** | **Details** |
+|-------------------------------|----------------------------------------|
+| **Fresh** | Immunogenic, therefore not typically done. |
+| **Fresh Frozen (-70°C)** | Preserves BMPs, little impact on mechanical strength, reduces immunogenicity. |
+| **Freeze-Dried** | Safest regarding disease transmission and immune response, eliminates BMPs, reduces mechanical strength. |
+
+### Other Methods of Augmenting Bone Healing
+
+-   **Distant Corticotomy**: Within the same bone, it stimulates healing elsewhere in the bone.
+-   **Electromagnetic effect**: Piezoelectric currents.
+-   **Ultrasound**: Low-intensity ultrasound shown to affect gene expression, increase osteoblast activity, and stimulate blood flow.

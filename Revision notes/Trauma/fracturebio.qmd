@@ -1,0 +1,105 @@
+---
+title: "Fracture Biomechanics"
+---
+
+-   **Fracture type** is determined by the force or combination of forces applied.
+-   **Cortical bone** is stiffer and fractures at a strain of 2%.
+    -   Requires higher stress for fracture.
+    -   Less tolerant to deformation but more tolerant to loading.
+-   **Cancellous bone** fractures at a strain of 75%.
+-   Cortical bone is **anisotropic** (mechanical properties depend on the type of loading).
+    -   Weakest in **tension** and **shear**.
+    -   Strongest in **compression**.
+
+**Energy transfer**:\
+- Energy transferred to bone is influenced by mass and velocity: - Formula: **½ M x V²** - Velocity has a greater impact than mass.
+
+**Bone is viscoelastic**: - Properties change with the rate of loading: - **Rapid loading**: Bone absorbs more energy, becomes stiffer, stronger, and more brittle, which leads to fracture.
+
+**Factors determining fracture type**: - Energy and rate of loading. - Direction of force. - Bone properties (shape, cortical thickness, pathologies). - Soft tissue forces (e.g., avulsion fractures).
+
+### Fracture Types
+
+-   **Oblique Fracture**: Caused by pure shear force or uneven bending, leading to oblique cracking of osteons.
+-   **Transverse Fracture**: Due to pure tensile bending force (2% strain for cortical bone).
+    -   Results in de-bonding of cement lines and osteon pullout (e.g., patella, olecranon).
+-   **Butterfly Fracture**: Occurs on the compression side when there is combined tension (bending) and compression.
+-   **Spiral Fracture**: Result of torsion, typically at a 45-degree angle to the horizontal.
+-   **Segmental Fracture**: Often caused by 4-point bending (e.g., car bumper vs. tibia).
+
+------------------------------------------------------------------------
+
+### Primary Bone Healing
+
+-   Requires **absolute stability** and **rigid fixation under compression**, creating a low-strain environment.
+-   Healing occurs via **intra-membranous ossification**.
+
+**Sequence of Healing**: 1. **Contact Healing**: - Minimal initial activity at contact sites. 2. **Gap Healing**: - Blood vessels grow into small gaps, bringing cells. - **Mesenchymal cells** differentiate into **osteoblasts**, laying down lamellar bone in small gaps or woven bone in larger gaps. 3. **Cutting Cones**: - Osteoclasts form cutting cones, tunneling across the fracture. - Channels are left for vascular and osteoblast invasion. 4. **Remodeling**: - **Lamellar bone** is laid down, leading to bridging callus and new osteon formation. - Remodeling continues for months.
+
+------------------------------------------------------------------------
+
+### Secondary Bone Healing
+
+-   Requires **relative stability** and some degree of strain.
+-   Healing occurs by two processes:
+    1.  **Periosteal callus (intramembranous ossification)**.
+    2.  **Endosteal callus (endochondral ossification)**.
+
+Healing occurs in three locations: 1. **Endosteal surface** (bridging fibrous callus). 2. **Surrounding soft tissues** (bridging fibrous callus). 3. **Periosteum** (bony callus).
+
+**Periosteal Callus**: - Bone is produced directly without cartilage formation. - **Osteoblasts** lay down type 1 collagen. - Does not bridge the fracture and won’t form if there’s excessive periosteal stripping.
+
+**Bridging Callus**: - Forms between bone ends (endosteal) and in soft tissues. - Fibrocartilage forms first, which is then calcified into woven bone (soft callus) and finally consolidated into hard callus.
+
+### Five-Stage Process of Bone Healing
+
+1.  **Haematoma (hours)**:
+    -   Tissue damage causes clot formation, leading to platelet degradation and release of PDGF.
+    -   PDGF activates the clotting cascade and cytokines like TNF-alpha and IL-1, attracting immune cells and activating bone morphogenetic proteins (BMPs).
+2.  **Inflammation (up to a week)**:
+    -   BMPs stimulate angiogenesis and are osteogenic.
+    -   Macrophages clean up necrotic debris, and fibroblasts start forming granulation tissue.
+3.  **Soft Callus (4 weeks)**:
+    -   Reduced strain (15%) allows chondroblasts to lay down type 2 collagen, forming a cartilage scaffold (endochondral ossification).
+4.  **Hard Callus (4-16 weeks)**:
+    -   Cartilage is replaced with woven bone by osteoblasts, stabilizing the fracture.
+5.  **Remodeling (years)**:
+    -   Woven bone is remodeled into lamellar bone in response to mechanical stresses (Wolff’s Law).
+
+------------------------------------------------------------------------
+
+### Wolff’s Law
+
+-   Bone adapts and remodels according to mechanical stresses:
+    -   **Osteoblasts** predominate on the concave compression side.
+    -   **Osteoclasts** dominate on the convex tension side.
+
+### Principles of Bone Healing
+
+-   The goal is always to achieve **primary bone healing**.
+-   In a **low-strain environment**, primary healing happens immediately.
+-   In **higher strain environments**, sequential tissue types form:
+    1.  Clot
+    2.  Granulation tissue
+    3.  Cartilage
+    4.  Woven bone
+    5.  Lamellar bone
+
+### Perren’s Strain Theory
+
+-   Tissue formation at the fracture site is dictated by the **degree of interfragmentary strain**.
+-   Strain reduction improves healing:
+    -   **100% strain** forms granulation tissue.
+    -   **10% strain** forms fibrocartilage (soft callus).
+    -   **5% strain** forms woven bone (hard callus).
+    -   **\<2% strain** allows primary bone healing.
+
+**Problems in Healing**: - **Too little strain** or large residual gaps can lead to non-union. - **Too much strain** can prevent hard callus formation, leading to hypertrophic non-union or pseudoarthrosis.
+
+------------------------------------------------------------------------
+
+### Adverse Effects on Fracture Healing
+
+-   **Blood supply** is critical.
+-   **Smoking** (nicotine) and **NSAIDs** can impair healing.
+-   **Head injury** may increase blood flow, leading to excessive callus formation.
