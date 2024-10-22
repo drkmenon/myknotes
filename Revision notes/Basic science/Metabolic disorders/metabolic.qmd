@@ -1,0 +1,188 @@
+---
+title: "Metabolic bone disorders"
+---
+
+### Grouped into:
+
+-   **Conditions with altered bone mineralisation**
+-   **Conditions with altered bone density but normal mineralisation**
+
+------------------------------------------------------------------------
+
+### Conditions with Altered Bone Mineralisation
+
+1.  **Hypercalcaemia**
+2.  **Hypocalcaemia**
+3.  **Rickets**
+4.  **Osteomalacia**
+
+------------------------------------------------------------------------
+
+### Hypercalcaemia
+
+#### Symptoms:
+
+-   "Bones, groans, stones, and psychic moans"
+
+#### Causes:
+
+1.  Primary Hyperparathyroidism
+2.  Malignancy
+3.  Hypocalciuric Hypercalcaemia
+4.  Milk Alkali Syndrome
+5.  MEN 1 & 2
+
+#### Primary Hyperparathyroidism:
+
+-   Usually caused by a parathyroid adenoma
+
+| **Test**      | **Results**                         |
+|---------------|-------------------------------------|
+| **Blood**     | Calcium high, Phosphate low         |
+|               | PTH levels high                     |
+| **Urine**     | Calcium low/normal                  |
+|               | Phosphate high                      |
+| **Radiology** | Shaggy trabeculae, Pepperpot skull  |
+|               | Subperiosteal osteopenia in fingers |
+|               | Brown tumours, Chondrocalcinosis    |
+
+**Histology:** - Active osteoblasts and osteoclasts - Wide osteoid seams (similar to Paget’s disease)
+
+------------------------------------------------------------------------
+
+#### Malignancy:
+
+1.  Primary ectopic PTH secretion (Small cell lung cancer)
+2.  Metastatic disease (stimulates osteoclasts)
+3.  Haematologic malignancy (myeloma inhibits osteoblasts, causes bone resorption)
+
+------------------------------------------------------------------------
+
+#### Familial Hypocalciuric Hypercalcaemia:
+
+-   Kidney’s inability to clear calcium leads to serum hypercalcaemia
+-   Blood calcium high, Phosphate low or normal
+
+------------------------------------------------------------------------
+
+#### Other Rare Causes:
+
+-   Addison’s disease
+-   Milk Alkali Syndrome (Peptic ulcer disease)
+-   MEN 1 and 2
+
+------------------------------------------------------------------------
+
+### Hypocalcaemia
+
+#### Symptoms:
+
+-   Neuromuscular irritability, depression, cardiac arrhythmia
+
+#### Causes:
+
+-   Any cause of low PTH or Vitamin D
+    -   Hypoparathyroidism
+    -   Pseudohypoparathyroidism
+    -   Renal osteodystrophy
+
+------------------------------------------------------------------------
+
+#### Hypoparathyroidism:
+
+-   Commonly iatrogenic (post-thyroidectomy)
+
+| **Test**  | **Results**                          |
+|-----------|--------------------------------------|
+| **Blood** | PTH low, Calcium low, Phosphate high |
+|           | Alkaline Phosphatase normal          |
+|           | Active Vitamin D low                 |
+| **Urine** | Calcium high or normal               |
+|           | Phosphate low or normal              |
+
+------------------------------------------------------------------------
+
+#### Pseudohypoparathyroidism:
+
+-   Abnormal PTH dysfunction
+-   Albright Hereditary Osteodystrophy (BORESS)
+
+| **Test**  | **Results**                                        |
+|-----------|----------------------------------------------------|
+| **Blood** | PTH high, Calcium low, Alkaline Phosphatase normal |
+| **Urine** | Low calcium and phosphate                          |
+
+------------------------------------------------------------------------
+
+### Renal Osteodystrophy:
+
+-   Caused by chronic renal failure
+-   Two types: **High turnover** and **Low turnover**
+
+------------------------------------------------------------------------
+
+#### High Turnover Type:
+
+-   Kidney failure results in hypocalcaemia and high phosphate
+-   Causes secondary hyperparathyroidism
+-   High osteoblast and osteoclast activity
+
+| **Test** | **Results** |
+|--------------------------|----------------------------------------------|
+| **Blood** | PTH high, Alkaline Phosphatase high, Phosphate high, Calcium low |
+| **Clinical Problems** | Diffuse bone pain, Growth retardation, SUFE |
+| **Radiology** | Ectopic calcium deposition, Rugger Jersey Spine, Osteopenia, Subperiosteal erosion, Looser’s zones |
+
+------------------------------------------------------------------------
+
+#### Low Turnover Type:
+
+-   Due to inadequate renal secretion of aluminium, which is toxic to osteoblasts
+-   Causes poor bone mineralisation (osteomalacia)
+
+------------------------------------------------------------------------
+
+### Osteomalacia / Rickets
+
+-   Inadequate mineralisation of the matrix of bone (osteoid) or cartilage (Rickets)
+-   Rickets occurs in children, Osteomalacia in adults
+
+------------------------------------------------------------------------
+
+#### Rickets:
+
+-   Most common form: Hypophosphataemic Vitamin D resistant Rickets (X-linked dominant)
+
+| **Test** | **Results** |
+|--------------------------|----------------------------------------------|
+| **Blood** | Alkaline Phosphatase high, Vitamin D normal, Calcium normal, Phosphate low |
+| **Urine** | Phosphate high, Calcium normal |
+| **Management** | Treat with phosphate and high-dose Vitamin D |
+
+**Other Types:** - Vitamin D deficiency or hereditary Vitamin D dependent Rickets
+
+**Clinical Features:** 1. Short stature 2. Bowing of legs 3. Frontal bossing 4. Dental disease 5. Rachitic Rosary 6. Harrison’s sulcus
+
+**X-Ray Features:** 1. Haziness of the physis 2. Widened physis 3. Metaphyseal cupping and flaring 4. Coxa vara 5. Bowing of diaphyses 6. Looser’s zones
+
+------------------------------------------------------------------------
+
+### Osteomalacia:
+
+-   Causes generalised bone pain and stress fractures in adults
+-   **Most common cause**: Vitamin D deficiency
+
+| **X-Ray Features** | **Histology** |
+|---------------------------|---------------------------------------------|
+| Looser's Zones, Pseudofractures, Biconcave vertebrae | Widened osteoid seams |
+| Pelvic deformity, Thin cortices, Bowed tibiae/femora | Positive tetracycline labels |
+
+------------------------------------------------------------------------
+
+### Conditions of Altered BMD but Normal Mineralisation:
+
+1.  **Osteoporosis**
+2.  **Osteopetrosis**
+3.  **Paget’s Disease**
+
+These conditions involve the organic matrix (collagen) but do not affect mineralisation.

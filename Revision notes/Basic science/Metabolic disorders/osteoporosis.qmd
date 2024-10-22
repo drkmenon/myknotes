@@ -1,0 +1,144 @@
+---
+title: "Osteoporosis"
+---
+
+**Osteoporosis**
+
+![Total mass of bone is reduced without change in composition](/Revision%20notes/Pathology/images/Ospop2.png)
+
+\
+Osteoporosis is a systemic skeletal disease leading to reduced bone mass, micro-architectural deterioration, and an increased risk of fragility fractures.
+
+**WHO definition:**
+
+`Post menapausal women and men above 50 years, with Bone Mineral Density that lies 2.5 SD (T score) or more below the average value for young healthy caucaseous female.` 
+
+![Bell curve showing osteoporosis zone](/Revision%20notes/Pathology/images/osteop.png)
+
+### Diagnostic Criteria
+
+Based on the **World Health Organization (WHO)** guidelines:
+
+| **Category**        | **T-Score**                                      |
+|---------------------|--------------------------------------------------|
+| Normal              | Within 1 standard deviation (SD) of the mean BMD |
+| Osteopenia          | 1 to 2.5 SD below mean BMD                       |
+| Osteoporosis        | \>2.5 SD below mean BMD                          |
+| Severe Osteoporosis | Osteoporosis with a fragility fracture           |
+
+In pre-menopausal women and men below 50 years, z score should be used and densitometric findings alone should not be used for the diagnosis of osteoporosis
+
+It can be classified into **Primary** and **Secondary** types.
+
+### Primary Osteoporosis
+
+1.  **Type 1 (Post-menopausal)**
+    -   Affects post-menopausal women due to a sudden drop in estrogen.
+    -   High bone turnover leads to loss of Bone Mineral Density (BMD).
+    -   Primarily affects cancellous bone.
+2.  **Type 2 (Age-related)**
+    -   Occurs in both men and women, but women are more affected.
+    -   Appears 10-15 years later than Type 1.
+    -   Affects both cortical and cancellous bone.
+    -   Characterized by low turnover bone loss.
+
+### Secondary Osteoporosis
+
+Secondary osteoporosis is caused by factors such as: - **Steroids** - **Immobilization** - **Systemic diseases** like rheumatoid arthritis (RA)
+
+------------------------------------------------------------------------
+
+### Risk Factors
+
+Osteoporosis risk factors are categorized into **Genetic**, **Hormonal**, **Environmental**, **Dietary**, and **Systemic**.
+
+| **Category** | **Risk Factors** |
+|----|----|
+| **Genetic** | Increasing age, ethnicity (lower risk in Blacks, higher in Caucasians and Orientals), family history |
+| **Hormonal** | Reduced estrogen (early menopause, hysterectomy) |
+| **Environmental** | Smoking, alcohol, sedentary lifestyle |
+| **Dietary** | Low BMI (\<19 kg/m²), low calcium intake, anorexia |
+| **Systemic** | Chronic diseases (RA, liver disease), previous fractures, drug use (corticosteroids, heparin) |
+
+------------------------------------------------------------------------
+
+### Workup of a Patient with Suspected Osteoporosis
+
+A systematic approach is taken to screen for possible underlying causes of osteoporosis, denoted as **TOMEO**: - **Tumors**: History, CXR, calcium tests - **Osteopenia**: DEXA scan - **Myeloma**: Blood tests, urine analysis - **Endocrine disorders**: Thyroid function tests (TFTs), diabetes screening - **Osteomalacia**: Vitamin D and calcium levels
+
+------------------------------------------------------------------------
+
+-   **Diagnosis**: Based on **DEXA (Dual Energy X-ray Absorptiometry)** scanning.
+-   **T Score**: Compares BMD to that of a healthy person in their 20s.
+-   **Z Score**: Matches for gender, race, and age to eliminate age-related changes.
+-   **Histology**: Shows bone resorption greater than formation, with trabeculae thinned and weakened.
+-   **Blood tests**: Normal, including alkaline phosphatase. Additional tests for malignancies like PSA, myeloma, calcium, phosphate, and vitamin D.
+-   **X-ray Features**: Medullary canal widening, cortical thinning, Singh Index used to quantify osteoporosis in the proximal femur.
+
+------------------------------------------------------------------------
+
+### Clinical Findings
+
+-   **Kyphosis (Dowager's Hump)**
+-   **Fractures**
+-   **Pain** related to fractures, unlike osteomalacia which has pain due to high bone turnover.
+
+------------------------------------------------------------------------
+
+### DEXA Scanning
+
+-   Recommended for patients under 75 with a fracture, or those on long-term steroids.
+-   Not required for individuals over 75 with a fragility fracture.
+
+------------------------------------------------------------------------
+
+### Management of Osteoporosis
+
+**Preventative Measures** - Address modifiable risk factors like smoking, alcohol, sedentary lifestyle. - Monitor high-risk patients, especially those on long-term steroid use or chemotherapy.
+
+#### **Treatment Goals**
+
+-   Reduce further bone loss.
+-   Encourage bone formation.
+
+#### **Reducing Bone Loss**
+
+1.  **Calcium and Vitamin D Supplements**
+    -   Ensures mineralization without increasing bone formation.
+2.  **Bisphosphonates**
+    -   Inhibits osteoclast activity and stabilizes hydroxyapatite crystals.
+3.  **Hormone Replacement Therapy (HRT)**
+    -   Replaces estrogen, reducing bone loss.
+    -   Side effects: Heart disease, breast cancer.
+4.  **Calcitonin**
+    -   Direct inhibition of osteoclasts with side effects like vomiting and flushing.
+5.  **Selective Estrogen Receptor Modulators (Raloxifene)**
+    -   Increases estrogen-like effects, proven for vertebral fractures.
+
+#### **Increasing Bone Density**
+
+1.  **Exercise**: Stimulates bone formation.
+2.  **Strontium**
+    -   Promotes bone formation and reduces resorption, proven for hip and vertebral fractures.
+3.  **Recombinant Parathyroid Hormone (Teriparatide)**
+    -   Effective in reducing vertebral fractures, especially in post-menopausal women.
+
+Types of Osteoporosis
+
+-   Primary
+
+-   Secondary
+
+z-score is used to diagnose 2⁰ Osteoporosis. in z-score, average value taken is from Sex, Age and Race (SAR) matched population.
+
+For DEXA, central (AP of spine between L1 and L4 vertebrae) is used. Lateral can include ribs causing false negative results. Peripheral DEXA is not used because of confounding variables causing 2⁰ osteoporosis and affects of treatment on BMD.
+
+False Negative results: Arthritis (Osteophytes and sclerosis)
+
+False Positive results: Laminectomy
+
+## **FRAX**
+
+FRAX is a fracture risk assessment tool developed by international osteoporosis foundation to assess 10 year vertebral and neck of femur fracture risk.
+
+FRAX can be used in \>41 year old males and post menapausal females.

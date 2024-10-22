@@ -1,0 +1,132 @@
+---
+title: "Osteopetrosis and Pagets"
+---
+
+# **Osteopetrosis (Marble Bone Disease)**
+
+\
+Osteopetrosis is characterized by **increased bone sclerosis** due to deficient osteoclast activity, leading to brittle yet sclerotic bones.
+
+### Types of Osteopetrosis
+
+1.  **Autosomal Recessive (Infantile Malignant)**
+    -   Severe form, often leading to death in infancy.
+2.  **Autosomal Dominant (Benign)**
+    -   Also known as **Albers-Schonberg disease**.
+    -   Typically diagnosed incidentally after a fracture or X-ray.
+
+### Diagnosis
+
+-   Diagnosis of the **benign type** is usually incidental, especially after fractures or cranial X-rays.
+-   Additional findings may include:
+    -   **Anemia**
+    -   **Cranial nerve palsies**, such as hearing loss.
+
+### Histology
+
+-   Osteoclasts lack the typical **ruffled border**.
+-   Presence of **calcified bars within mature trabeculae**.
+
+### X-ray Features
+
+-   **Loss of medullary cavities** due to sclerosis.
+-   **Bone within a bone** appearance.
+-   **Symmetric, uniform sclerosis**.
+
+### Treatment
+
+-   **Interferon**
+-   **Bone marrow transplant** for the malignant infantile type.
+
+------------------------------------------------------------------------
+
+# **Paget's Disease of Bone**
+
+\
+Paget's disease is a metabolic disorder involving **overactivity of osteoclasts and osteoblasts**, leading to abnormal bone formation.
+
+### Epidemiology
+
+-   Men are slightly more affected.
+-   Common in regions such as the **USA** and **UK**.
+-   Increases with age: affects 3% of people over 40 years and 10% over 80 years.
+
+### Types
+
+1.  **Monostotic**: Affects one bone (20% of cases).
+2.  **Polystotic**: Affects multiple bones (80% of cases).
+
+### Causes
+
+-   **Viral-induced**: Linked to paramyxovirus, respiratory syncytial virus, and canine distemper virus.
+-   **Genetic**: Some hereditary predisposition.
+
+### Pathophysiology
+
+-   Initial problem lies in **osteoclasts**, which increase in size and number, becoming overactive.
+-   **Osteoblasts** respond by increasing activity, leading to accelerated but disorganized bone formation.
+
+### Phases of Paget's Disease
+
+1.  **Lytic Phase**: Dominated by osteoclast activity, causing bone lysis.
+2.  **Active Phase**: Osteoblast activity increases, resulting in mixed sclerotic and lytic areas.
+3.  **Burnt-out Phase**: Residual effects of the active stage; the bone appears coarse with a mosaic-like trabeculae.
+
+### Clinical Presentation
+
+-   **Asymptomatic** in 95% of cases, with many diagnoses being incidental.
+-   **Fractures**: Slower healing fractures, requiring fixation.
+-   **Arthritis**: Commonly affects the hip and knee, leading to protrusio acetabuli.
+-   **Bone Pain**: Uncommon but can indicate high turnover or malignancy (e.g., osteosarcoma).
+-   **Nerve Compression**: Spinal stenosis or hearing loss.
+-   **Deformities**: Bowing of long bones (e.g., **Sabre tibia**).
+-   **Cardiac Failure**: Due to high vascularity of the bone.
+-   **Gout**: Due to increased protein metabolism.
+-   **Malignant Transformation**: Increased risk of osteosarcoma.
+
+### X-ray Features
+
+-   **Widened bones**: A compensatory response.
+-   **Pathologic/stress fractures**.
+-   **Blade/flame sign**: Seen in the lytic stage.
+-   **Mosaic-like pattern**: Mixed sclerotic and lytic areas.
+-   **Deformities** and **secondary osteoarthritis**.
+-   **Hip protrusio**: Protrusion of the acetabulum into the pelvic cavity.
+
+### Laboratory Findings
+
+-   **Normal calcium levels**.
+-   **Elevated alkaline phosphatase**: Reflects increased osteoblast activity.
+-   **Elevated acid phosphatase**: Reflects increased osteoclast activity.
+-   **Urinary collagen peptides and hydroxyproline**: Indicate high collagen turnover.
+
+### Histology
+
+-   **Mosaic-like bone marrow**.
+-   **Scanty cells**.
+
+### Bone Scan
+
+-   Shows **high uptake** in areas of active disease.
+
+### Treatment Options
+
+Treatment is indicated for: - **Pathologic fractures** - **Bone pain** - **Nerve/spinal compression** - **Osteoarthritis** - **Cardiac failure** due to high output - **Gout** - **Pre-surgery** to reduce bleeding risk.
+
+#### Medical Treatment
+
+1.  **Bisphosphonates**: Inhibits osteoclast overactivity.
+2.  **Calcitonin**: Less commonly used due to side effects.
+
+#### Surgical Treatment
+
+-   **Fracture fixation** is preferred due to long healing times.
+-   **Arthroplasty**: For joint involvement.
+-   **Nerve decompression**: In cases of nerve compression.
+-   **Malignant transformation treatment**: For osteosarcoma or other sarcomas.
+
+### Malignant Transformation
+
+-   **30x increased risk of osteosarcoma**, especially in long-standing polystotic disease.
+-   May also develop fibrosarcoma or chondrosarcoma.
+-   Prognosis: **50% survival** rate for osteosarcoma.
