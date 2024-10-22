@@ -14,23 +14,23 @@ Bone includes cells and extracellular matrix. Most common type of collagen is se
 
 Table 1: Composition of Bone
 
-+------------------------------+---------------------------------------+
-| Cells (10%)                  | ECM (90%)                             |
-+==============================+=======================================+
-| -   Osteoblasts              | Proteins (40%)                        |
-|                              |                                       |
-| -   Osteoclasts              | -Collagenous Protein (90%)            |
-|                              |                                       |
-| -   Osteocytes               | -Non-collagenous protein (10%)        |
-|                              |                                       |
-| -   Osteo-progenitor cells   | eg: Proteoglycan                      |
-|                              |                                       |
-| -   Lining cells             | Minerals (60%)                        |
-|                              |                                       |
-|                              | -Calcium, Phosphorous                 |
-|                              |                                       |
-|                              | -Hydroxyapatite (Ca~10~PO~4~(OH)~2~   |
-+------------------------------+---------------------------------------+
++----------------------------+-------------------------------------+
+| Cells (10%)                | ECM (90%)                           |
++============================+=====================================+
+| -   Osteoblasts            | Proteins (40%)                      |
+|                            |                                     |
+| -   Osteoclasts            | -Collagenous Protein (90%)          |
+|                            |                                     |
+| -   Osteocytes             | -Non-collagenous protein (10%)      |
+|                            |                                     |
+| -   Osteo-progenitor cells | eg: Proteoglycan                    |
+|                            |                                     |
+| -   Lining cells           | Minerals (60%)                      |
+|                            |                                     |
+|                            | -Calcium, Phosphorous               |
+|                            |                                     |
+|                            | -Hydroxyapatite (Ca~10~PO~4~(OH)~2~ |
++----------------------------+-------------------------------------+
 
 **Bone Functions**
 
