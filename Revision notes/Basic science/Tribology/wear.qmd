@@ -1,0 +1,142 @@
+---
+title: "Wear"
+---
+
+# Wear in Bearing Surfaces
+
+## Definition of Wear
+
+Wear is the progressive loss of a bearing substance caused by mechanical or chemical actions, including corrosion.
+
+## Modes of Wear
+
+1.  **Normal Motion of Articulating Surfaces:** The main type of wear in a well-functioning joint replacement.
+2.  **Intended Articulating Surface vs. Non-Articulating Surface:** Example includes a femoral head against a metal cup after erosion through polyethylene.
+3.  **Third Body Wear:** Caused by debris, such as cement particles.
+4.  **Wear Debris from Non-Articulating Surfaces:** For instance, neck impingement on a cup edge or trunnion.
+
+## Mechanisms of Wear
+
+Wear can occur through mechanical or chemical processes:
+
+### Mechanical Wear
+
+1.  **Abrasive Wear**
+2.  **Adhesive Wear**
+3.  **Fatigue Wear**
+    -   All three types co-exist to some degree.
+
+### Chemical Wear
+
+1.  **Corrosion**
+
+## Types of Wear Mechanisms
+
+### Abrasive Wear
+
+-   Occurs between a hard and soft bearing couple.
+-   Asperities on the hard bearing carve ridges into the soft bearing.
+-   This action generates third bodies that embed into and scratch the hard bearing, increasing surface roughness and accelerating abrasive wear of the soft surface.
+-   Single scratches on metal can increase wear by tenfold, though ceramics have better scratch profiles and do not form a heaped edge, preventing debris accumulation.
+
+### Adhesive Wear
+
+-   Involves a hard and soft bearing couple.
+-   The two surfaces bond with each other, forming a junction held by intermolecular bonds, generating friction.
+-   If these bonds are stronger than the cohesive strength of the soft material, the surface shears off, resulting in a steady low rate of wear.
+
+### Fatigue Wear – Delamination
+
+-   Repetitive cyclical loading leads to micro-delamination.
+-   This occurs in the subsurface white layer of polyethylene.
+-   Cracks form and propagate, generating large volumes of third body wear debris.
+-   Plastic deformation occurs, leading to material fracture at stress levels below its ultimate tensile strength (UTS).
+-   Fatigue wear is represented by the S-n curve.
+-   More prevalent in total knee replacements (TKR) but can occur in misaligned total hip replacements (THR).
+-   Accelerated by:
+    1.  Low joint conformity leading to stress concentration.
+    2.  Low polyethylene thickness causing surface stress concentration.
+    3.  Malalignment increasing stress concentration.
+    4.  Subsurface faults or oxidation from manufacturing and storage.
+
+## Measurement of Wear
+
+Wear can be quantified in two ways: - **Volumetric Wear:** The volume of material cleaved per year (mm³/year). A critical volume is 140 mm³/year. - **Linear Wear:** The penetration of the bearing surface per year (mm/year).
+
+### Measurement Techniques
+
+-   **In Vitro Testing:** Utilizes load cycling machines but tends to underestimate wear. One million cycles take around six days, simulating a year of in vivo use.
+-   **In Vivo Testing:** Involves measuring explanted cups for volumetric wear and using X-ray measurements on standardized radiographs for linear wear.
+
+### Radiostereometric Analysis
+
+-   While it does not measure wear directly, it assesses implant movement, which is a consequence of wear and osteolysis.
+-   Tiny tantalum beads are implanted during surgery, and X-rays in two planes provide accurate images, with computer analysis precise up to 0.2 mm.
+
+## Laws of Wear
+
+-   Volume of removed material (V) increases with:
+    -   Applied load (L)
+    -   Sliding distance (S)
+    -   Decreases with the hardness of the softer material (H)
+-   The formula is represented as: **V proportional to LS/H**.
+-   Larger diameter heads yield greater sliding distances, leading to:
+    -   Increased volumetric wear with larger heads (due to sliding distance).
+    -   More loading cycles, especially in young, active patients.
+    -   Increasing the hardness of bearing surfaces counteracts wear.
+
+## Wear in Total Hip Replacement (THR)
+
+-   Penetration into an acetabular cup occurs due to both creep and wear.
+
+### Creep
+
+-   Occurs in the initial years in a superomedial direction, following the direction of compressive joint contact force.
+
+### Wear
+
+-   Typically occurs in a superior or superior-lateral direction, influenced by sliding actions.
+
+## Summary of Factors Affecting Wear
+
+1.  **Implant Size:** Larger heads increase sliding distance, thus increasing volumetric wear.
+2.  **Surface Roughness:** Higher roughness contributes to abrasive wear.
+3.  **Material Toughness:** Affects abrasive and adhesive wear.
+4.  **Material Hardness:** Enhances scratch resistance and reduces volumetric wear.
+5.  **Load Magnitude and Type:** Influences weight, activity, and type of joint.
+6.  **Coefficient of Friction:** Affects wear rates.
+7.  **Presence of Third Bodies:** Contributes to wear.
+8.  **Implant Orientation:** Can influence wear patterns.
+
+## Wear and Wear Particles
+
+### Consequences of Wear Particles
+
+1.  **Synovitis**
+2.  **Osteolysis leading to aseptic loosening**
+3.  **Immune reaction resulting in granuloma formation**
+4.  **Systemic dissemination of wear particles**
+5.  **Vicious cycle leading to malalignment, dislocation, and implant failure**
+
+### Factors Affecting Osteolysis
+
+1.  **Size of Particles:** Smaller particles are more active.
+2.  **Shape of Particles:** Influences the immune response.
+3.  **Volume of Particles:** Critical volume is 140 mm³/year.
+4.  **Total Number of Particles:** Higher numbers can exacerbate issues.
+5.  **Immune Response:** Affects how the body reacts to particles.
+
+### Particle Size
+
+-   Most active particles are submicron-sized (0.1-0.5 µm).
+-   Larger particles are often too big for macrophages to process, while high volumes of small particles can be more detrimental.
+-   Metal bearings generate large volumes of particles, most of which are too small to be biologically active but may still trigger an immune response.
+
+## Osteolysis Cascade
+
+-   Particles are phagocytosed by macrophages, leading to an inflammatory cascade involving cytokines and prostaglandins.
+-   This results in osteoclastic bone resorption, with macrophages potentially resorbing bone directly.
+-   A self-sustaining vicious cycle occurs:
+    -   Osteolysis causes implant loosening, increased micromotion, and increased surface roughness, further accelerating component wear.
+-   Osteolysis can occur throughout the effective joint space, where joint fluid communicates.
+-   High wear leads to increased intra-articular volume and pressure, causing wear particles to dissipate along the path of least resistance, often around the stem and cup, resulting in aggressive osteolysis.

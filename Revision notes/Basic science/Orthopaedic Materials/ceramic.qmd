@@ -1,0 +1,120 @@
+---
+title: "Ceramics"
+---
+
+## Overview
+
+Ceramics are biologic compounds made up of metallic and non-metallic elements.
+
+## Types of Ceramics Used in Orthopaedics
+
+-   **Bioinert**
+    -   Alumina
+    -   Zirconia
+    -   Oxinium
+-   **Bioactive**
+    -   Hydroxyapatite (HA)
+    -   Tricalcium Phosphate
+
+### Specific Ceramics
+
+-   **Alumina**:
+    -   Main ceramic used, with improved quality compared to the 1st generation.
+-   **Zirconia**:
+    -   Currently not favored due to high fracture rates and expense.
+-   **Oxinium**:
+    -   Oxidized zirconia.
+-   **Hydroxyapatite (HA)**:
+    -   Bioactive and osteoconductive ceramic.
+    -   Provides bidirectional bone growth.
+    -   Speeds up the bonding process, aiding bone growth and bonding.
+
+## Manufacturing
+
+-   The strength of ceramics is dependent on the original grain size:
+    -   Smaller grain size results in stronger ceramic.
+-   Produced by pressing ceramic powder and water into a pre-fabricated cast.
+
+### Modern Processes in 4th Generation Ceramic Production
+
+1.  **Sintering via Hot Isostatic Pressing (Hipping)**:
+    -   Binds individual grains more tightly.
+    -   Increases density, toughness, and strength.
+2.  **Platelet-like Crystals**:
+    -   Addition of an oxide creates platelet-shaped crystals within the alumina matrix.
+    -   These crystals help dissipate energy and deflect cracks.
+3.  **Transformational Toughening**:
+    -   Involves adding small amounts of zirconia to increase toughness and decrease fracture susceptibility.
+    -   Used in the production of Biolox Delta (4th generation ceramic).
+
+## Material Properties
+
+### Good Properties
+
+1.  **Inert**:
+    -   Particles are not biologically active.
+2.  **Stiff**:
+    -   High modulus of elasticity.
+3.  **Hard**:
+    -   The 3rd hardest material known to man.
+4.  **Smooth**:
+    -   Low surface roughness, beneficial for articulating surfaces.
+5.  **Good Scratch Profile**:
+    -   Properties not significantly affected by scratches, which do not result in heaped edges.
+6.  **Wettable**:
+    -   Aids joint lubrication, allowing fluid film lubrication.
+7.  **Low Wear Characteristics**:
+    -   Less abrasive and linear wear; not subject to creep.
+8.  **Less Osteolysis**:
+    -   Small, less biologically active particles are virtually inert.
+9.  **Lower Infection Rates**:
+    -   Supported by Swedish registry data for Total Hip Replacements (THR).
+    -   More wettable surfaces make it harder for bacteria to adhere.
+10. **Very Strong in Compression**.
+
+### Bad Properties
+
+1.  **Brittle**:
+
+    -   Virtually no plastic deformation before failure, leading to fracture risks and sharp debris particles.
+    -   Less common with 4th generation ceramic (Biolox Delta), which reports a 0.04% fracture risk.
+
+2.  **Weak in Tension**.
+
+3.  **More Expensive**.
+
+4.  **Lack of Long-term Data**.
+
+5.  **Squeaking**:
+
+    -   Etiology not fully understood; reported risk of 1-3%, though less than in the past.
+    -   Component positioning, age, weight, and height are implicated.
+    -   Likely caused by stripe wear due to edge loading during high flexion activities.
+
+## Oxidised Zirconium (OXINIUM)
+
+-   A metallic alloy of zirconium with a ceramic surface.
+-   The alloy is oxidized in air, converting the surface into ceramic.
+-   The ceramic is integrated into the material, not just a coating.
+
+### Properties
+
+-   Hard, smooth, scratch-resistant, inert, and wettable.
+-   Suitable for individuals with metal allergies due to minimal nickel presence.
+-   In vitro studies show greatly reduced polyethylene wear.
+-   No long-term in vivo trials available yet, and it remains expensive.
+
+## Ceramic Fracture
+
+-   Generates numerous third bodies, causing accelerated wear of plastic and particulate debris.
+-   Typically, ceramic particles are small and inert; however, third body wear produces larger, more biologically active debris, accelerating osteolysis.
+
+### Revision Considerations
+
+-   Revision should include synovectomy to clear all ceramic debris.
+-   Damage to the Morse taper may necessitate revision to prevent catastrophic failure.
+-   Incidence of complications is significantly lower with 4th generation ceramics and modern manufacturing techniques:
+    -   Hot isostatic pressing.
+    -   Transformational strengthening.
+    -   Platelet-shaped crystal addition.
+-   Current quoted risk of fracture stands at 0.04%.

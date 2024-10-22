@@ -1,0 +1,104 @@
+---
+title: "Orthopaedic metals"
+---
+
+### Orthopaedic Metallurgy
+
+#### Molecular Structure of Metals
+
+-   Metals consist of crystalline structures made up of millions of crystalline grains, which contain molecular lattices.
+-   Three types of defects can affect the mechanical properties of bulk metal:
+    1.  **Grain Boundaries**: Connections between adjacent crystals; they limit crack and dislocation propagation but are sites of weakness.
+    2.  **Dislocations**: Defects within individual crystals where the 2-D lattice stops abruptly; under stress, these dislocations propagate, leading to plastic deformation.
+    3.  **Cracks**: Volumetric voids within individual crystals that can significantly impact mechanical properties.
+-   Manufacturing processes and post-manufacture quality control aim to manage these defects to create metals with desired properties.
+
+#### Alloys
+
+-   Alloys are combinations of elemental metals that improve mechanical properties, corrosion resistance, or biocompatibility compared to their individual components.
+-   Ductility can be reduced by:
+    1.  Adding large metal ions that prevent lattice layers from slipping.
+    2.  Adding small ions (e.g., carbon) that fill gaps between lattices and hinder slipping.
+-   Adding carbon to steel increases brittleness, hence low-carbon steel is preferred for implants.
+
+#### Addition of Other Elements
+
+-   **Nickel & Chromium**: Increase corrosion resistance.
+-   **Cobalt & Molybdenum**: Enhance material strength.
+
+#### Manufacture of Metals
+
+1.  **Machining**: Final finishing process using lathes or mills.
+2.  **Casting**: Molten metal is poured into a mold and allowed to cool. Grain size affects properties:
+    -   Rapid cooling yields smaller grains (harder but more brittle).
+    -   Slow cooling produces larger grains (more ductile).
+    -   Not commonly used in orthopaedics due to control difficulties.
+3.  **Forging**: Most common method for implant manufacture.
+    -   Applies pressure to shape metal, aligning grain boundaries and improving mechanical properties.
+    -   Can be done through:
+        -   **Cold Working**: Room temperature, increases strength but reduces ductility and increases brittleness.
+        -   **Hot Working**: Above crystallization temperature, easier to shape, maintains ductility, and can be hardened later.
+
+#### Heat Treatments
+
+1.  **Annealing**: Heats metal above crystallization temperature to alter dislocation patterns and grain boundaries, followed by controlled cooling to improve ductility and workability.
+2.  **Quenching**: Sudden immersion in cold water to trap impurities and harden the material.
+3.  **Tempering**: Re-heating to lower temperatures after quenching to reduce brittleness.
+
+#### Coatings and Surface Finishes
+
+| **Finish**     | **Process**         | **Roughness (µm)** | **Materials** |
+|----------------|---------------------|--------------------|---------------|
+| Polished       | Mechanical abrasion | 0.1                | Any           |
+| Matte          | Mechanical abrasion | 0.8                | Any           |
+| Grit Blasted   | Mechanical abrasion | 3                  | Any           |
+| Sintered Beads | Sintering           | 150                | CoCr          |
+| Plasma Spray   | Plasma spraying     | 50-150             | HA, Tantalum  |
+| Porous Metals  | Vapour deposition   | 150-250            | Tantalum      |
+
+1.  **Grit Blasting**: Uses hard metallic crystals to give a rough finish for better cement interdigitation.
+2.  **Sintered Beads**: Increase surface roughness by applying heated metal beads, often CoCr, to implants.
+3.  **Plasma Spray Coating**: Uses high-temperature torches to heat coating material into plasma, which is then sprayed onto implants.
+
+#### Common Orthopaedic Metals
+
+An ideal orthopaedic material should be fatigue resistant, biocompatible, resistant to corrosion, and sufficiently strong, ductile, and stiff.
+
+1.  **316L Stainless Steel**
+    -   Composition: 60% Iron, 20% Chromium, 3% Molybdenum, 16% Nickel, 0.03% Carbon.
+    -   Mechanical Properties:
+        -   Good fatigue resistance and relatively biocompatible.
+        -   High stiffness and hardness, ductility allows contouring of plates.
+        -   Susceptible to galvanic corrosion and nickel hypersensitivity.
+2.  **Titanium 64 (Ti-6Al-4V)**
+    -   Composition: 90% Titanium, 6% Aluminium, 4% Vanadium.
+    -   Mechanical Properties:
+        -   Less stiff than CoCr and steel, good fatigue resistance.
+        -   Low surface hardness and highly notch-sensitive.
+        -   Excellent corrosion resistance and biocompatibility.
+        -   MRI and CT safe with minimal image distortion.
+3.  **Cobalt Chrome (CoCr 60255)**
+    -   Composition: 60% Cobalt, 25% Chromium, 5% Molybdenum, 10% other.
+    -   Mechanical Properties:
+        -   High modulus of elasticity and stiffness.
+        -   Good fatigue strength and ultimate tensile strength.
+        -   Low surface roughness and relatively corrosion-resistant.
+        -   Used as articulating components but can lead to ion dissemination and metal hypersensitivity.
+4.  **Tantalum**
+    -   Composition: Pure Tantalum.
+    -   Mechanical Properties:
+        -   Low modulus of elasticity similar to cancellous bone.
+        -   High porosity (up to 80%) allowing for rapid bone ingrowth.
+        -   Not suitable for stems due to lower strength and fatigue resistance.
+
+#### Summary of Material Properties
+
+| **Property** | **Ti-6Al-4V** | **Co-Cr-Mo** | **316L Stainless Steel** | **Tantalum** |
+|--------------|--------------|--------------|-----------------|--------------|
+| Modulus of Elasticity (GPa) | 106–115 | 210 | 230 | 2.5–3.9 |
+| Yield Strength (MPa) | 860 | 825 | 170–690 | 35–51 |
+| Ultimate Strength (MPa) | 780–1050 | 430–1028 | 515–860 | 50–110 |
+| Toughness (J/m³) | 75 (MPa m½) | \- | 88–134 | \- |
+| Hardness (Rockwell C) | 36 | 42 | 60 | \- |
+| Fatigue Strength (MPa at 10⁷ cycles) | 480–590 | 310 | 180–300 | 18–20 |
+| Mass Density (g/cc) | 4.4 | 8.3 | 8.0 | \- |

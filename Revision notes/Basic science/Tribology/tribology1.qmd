@@ -1,0 +1,143 @@
+---
+title: "Tribology"
+---
+
+# Tribology of Bearing Surfaces
+
+## Polyethylene
+
+### Chemistry
+
+-   The basic monomer is C2H4.
+-   Polymerized into a repeating chain by addition polymerization to give high-density polyethylene (HDP).
+-   Free radicals are produced which attach to the carbon atom and then join to each other, creating a continuous chain.
+-   Adjacent chains are held by weak van der Waals forces.
+
+### How Can Strength Be Increased?
+
+-   **Increasing Molecular Weight:** Higher molecular weight results in more chains.
+-   **Creating Cross-links:** Cross-linking between chains increases strength.
+-   **Reducing Crystallinity:** A lower crystallinity enhances flexibility and strength.
+
+### Polyethylene Architecture
+
+-   Differing structural areas within polyethylene:
+    -   **Crystalline:** Organized 3-dimensional patterns of chains.
+    -   **Amorphous:** Random entanglement of chains with a propensity for cross-linking.
+-   Longer chains lead to a greater proportion of the amorphous area.
+-   A greater amorphous area results in greater strength and wear resistance, forming the basis for UHMWPE (Ultra High Molecular Weight Polyethylene).
+-   **Characteristics of UHMWPE:**
+    -   Increased chain length.
+    -   Increased number of chains.
+    -   Increased proportion of amorphous areas.
+
+### Cross-linking, Sterilization, and Storage of Polyethylene
+
+-   Sterilization traditionally done by gamma irradiation in air.
+-   Radiation encourages cross-linking between polyethylene chains, improving wear rates and tensile strength.
+-   Irradiation generates free radicals that form cross-links, but:
+    -   In the presence of oxygen, free radicals oxidize and degrade polyethylene.
+    -   Oxidation reduces wear properties and occurs mainly in the subsurface white band (1-2mm).
+    -   Over time, this layer increases in size, allowing further oxidation.
+-   **Oxidation occurs if:**
+    -   Polyethylene is sterilized in air or oxygen.
+    -   Oxygen seeps into packaging over time (shelf life \> 2 years).
+-   **Better Sterilization Methods:**
+    -   Gamma irradiation in inert gas (argon or nitrogen) or in a vacuum.
+    -   Sterilization using gas plasma or ethylene oxide (no radiation, no oxygen).
+
+### Highly Cross-linked UHMWPE
+
+-   Made by prolonged irradiation for even more cross-linking.
+-   In vitro shows better wear rates than UHMPE.
+-   However, increased cross-linking can lead to:
+    -   Reduced fatigue resistance.
+    -   Reduced fracture toughness.
+-   Caution is advised regarding the use of highly cross-linked polyethylene, especially in total knee replacements (TKR), as failure often results from fatigue fractures rather than wear.
+
+### Polyethylene Manufacturing
+
+-   **Traditional Method:** RAM Bar extrusion, where a cylindrical ‘bar’ of polyethylene is machined into individual implants (especially for TKR).
+-   **Issues with RAM Bar Extrusion:**
+    -   Properties of produced implants differ according to their location within the bar.
+-   **Solutions:**
+    -   Calcium stearate is added to prevent yellowing and corrosion but may lead to fusion defects and worse wear properties.
+-   **Other Manufacturing Options:**
+    -   Compression molding followed by machining.
+    -   Direct compression molding (DCM) is considered the gold standard.
+    -   In DCM, polyethylene powder is directly compressed into a mold without further machining or additives, allowing for further irradiation in inert gas to promote cross-linking, resulting in optimal wear rates.
+
+## Ceramics
+
+### Types Used in Orthopaedics
+
+-   **Zirconia:** Not used anymore due to high fracture rates and cost.
+-   **Alumina:** Main ceramic used, improved quality compared to the first generation.
+-   **Oxinium:** Oxidized zirconia.
+-   **Hydroxyapatite:** Osteoconductive ceramic that aids in bone growth and bonding but can shear off implants and is difficult to coat.
+
+### Manufacturing
+
+-   Produced by pressing ceramic powder and water into a pre-fabricated cast.
+-   Sintering (heating) is then done to increase density, but over-sintering leads to porosity and weakens the ceramic.
+-   **Strength Dependence:** Strength is dependent on the original grain size; smaller grain size results in stronger ceramic.
+
+### Material Properties
+
+-   **Hard:** Third hardest material known.
+-   **Stiff:** High modulus of elasticity.
+-   **Inert:** Particles are not biologically active.
+-   **Low Surface Roughness:** Smooth, reducing abrasive wear of polyethylene.
+-   **Good Scratch Profile:** Less scratching leads to reduced wear.
+-   **Wettable:** Better lubrication properties.
+-   **Low Wear Characteristics:**
+    -   Less linear wear.
+    -   Less osteolysis due to smaller, less active particles.
+
+### Limitations
+
+-   **Brittle:** Virtually no plastic deformation before failure, posing a risk of fracture.
+-   **Long-term Data:** Not yet available.
+-   **Cost:** More expensive than alternatives.
+-   **Squeaking:** May be caused by positioning or aging ceramics.
+
+### Oxidized Zirconium
+
+-   A metallic alloy of zirconium with a ceramic surface.
+-   Oxidation in air converts the surface into ceramic, making it part of the material, not just a coating.
+-   Provides properties similar to ceramics: hard, smooth, scratch-resistant, inert, and wettable.
+-   Suitable for metal allergies due to low nickel content.
+-   In vitro studies show greatly reduced polyethylene wear, but no long-term in vivo trials yet.
+
+### Ceramic Fracture
+
+-   Presence of third-body wear leads to plastic and particulate debris.
+-   Revision should include synovectomy to remove all ceramic debris.
+-   Damage to the Morse taper may necessitate revision to prevent catastrophic failure.
+-   Ceramic particulate debris is typically not biologically active due to its small size, but third-body wear can produce more active debris.
+
+## Metal on Metal (MoM) Articulations
+
+-   **Historical Issues:** Equatorial bearing had high frictional torque, jamming, and high failure rates.
+-   **Current Design:** Polar bearing with much lower frictional torque; requires a cup head clearance of 90-200 micrometers.
+-   **Main Properties of MoM:**
+    -   Fracture toughness.
+    -   Hardness.
+    -   Low roughness (smooth and polished).
+    -   Small particle generation leads to low biological activity (50-100 nm).
+    -   Self-healing capabilities; small scratches are polished out with articulation.
+    -   Very resistant to abrasive wear.
+    -   Osteolysis is not a major concern.
+
+### Challenges
+
+-   Produce a greater number of particles, particularly during the initial two years (bedding-in period).
+-   **Wear Mode:** Primarily adhesive, which can be mitigated by using alloys with greater carbide content (e.g., adding molybdenum).
+
+### Lubrication in MoM
+
+-   Fluid film lubrication exists in MoM bearings, but problems include:
+    -   Metal ion dissemination into the bloodstream.
+    -   Potential carcinogenesis risks.
+    -   Occurrence of metallosis, leading to adverse local tissue reactions (ALVAL) and pseudotumors.
+-   MoM total hip replacements (THR) with large heads may experience wear at the taper due to size mismatch.

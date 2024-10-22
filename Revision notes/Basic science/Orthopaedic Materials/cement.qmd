@@ -1,0 +1,90 @@
+---
+title: "Bone cement"
+---
+
+#### Components
+
+| **Part**   | **Composition**                          |
+|------------|------------------------------------------|
+| **Liquid** | Monomer - Methyl Methacrylate (MMA)      |
+|            | Accelerator – N-Dimethyltoludine         |
+|            | Inhibitor – Hydroquinone                 |
+| **Powder** | Polymer - Polymethyl Methacrylate (PMMA) |
+|            | Initiator – Benzoyl Peroxide             |
+|            | Barium Sulphate                          |
+|            | Dye – Chlorophyll                        |
+|            | Antibiotics                              |
+
+#### Chemical Reaction
+
+-   Polymerization occurs on mixing.
+-   The reaction is exothermic (releases heat).
+
+#### Phases of Cement Polymerization
+
+| **Phase** | **Features** |
+|------------------|------------------------------------------------------|
+| **Mixing Phase** | Performed homogeneously in a vacuum to reduce porosity. |
+| **Waiting (Dough) Phase** | From mixing until cement is no longer doughy. Viscosity increases. Too low viscosity allows blood to mix into the cement. |
+| **Working Phase** | Cement can be manipulated. This is the difference between doughy and setting times. |
+| **Hardening Phase** | Cement completely hardens. Temperature of stem, cement, and environment influences this. |
+| **Setting Time** | From mixing until the cement reaches half of its maximal heat. |
+
+#### Macroscopic Stages
+
+1.  **Sandy**: Powder and liquid mix appear grainy and separate.
+2.  **Stringy**: Cement sticks to gloves.
+3.  **Doughy**: Cement no longer sticks to gloves, marking the start of its working time.
+4.  **Final**: Cement becomes hard and hot.
+
+#### Mechanical Properties of Cement
+
+1.  Weak tensile strength.
+2.  Moderate shear strength.
+3.  Strong compressive strength.
+4.  Young’s modulus between cortical and cancellous bone.
+5.  Brittle nature.
+6.  Highly notch-sensitive.
+7.  Viscoelastic – shows creep and stress relaxation.
+
+-   Reaches ultimate strength within 24 hours.
+-   Functions as a grout, not an adhesive.
+-   Depends on mechanical interlocking with bone.
+
+#### Factors Affecting Cement Properties
+
+1.  **Atmospheric**
+    -   **Temperature & Humidity**: Increased humidity and temperature reduce setting time.
+2.  **Mixing Technique**
+    -   Vacuum or centrifuge mixing reduces porosity.
+    -   Reduced porosity increases mechanical strength.
+3.  **Implantation Technique**
+    -   Pressurization increases interdigitation.
+    -   Retention of cancellous bone.
+    -   Blood or soft tissue interposition can interfere.
+    -   Voids or stress riser formation can lead to failure.
+    -   Sharp-edged implants and bone-implant contact can cause issues.
+    -   Centralization improves stability.
+4.  **Cement Composition**
+    -   Barium for radiopacity.
+    -   Antibiotics may increase porosity.
+    -   Less than 2:1 ratio of powder to liquid (more liquid) reduces setting time.
+
+#### Complications of Bone Cement Use
+
+1.  **Heat Generation**
+    -   Thicker mantles or smaller surface areas increase heat generation.
+    -   Excessive heat can cause bone necrosis.
+2.  **Systemic Effects**
+    -   Cement implantation can cause transient but severe hypotension.
+    -   Likely due to micro-embolization of fat and cement rather than chemical mediation.
+3.  **Cement Fracture**
+    -   Occurs due to crack formation and propagation through the mantle.
+    -   Cement is highly notch-sensitive.
+
+#### Commonly Used Cements
+
+| **Cement** | **Details** |
+|---------------|---------------------------------------------------------|
+| **Palacos R** | Contains Zirconium Dioxide as its radio-opaque element. Antibiotic version: Palacos RG (Gentamicin). |
+| **Simplex P** | Contains Barium Sulphate as the radio-opaque agent. Antibiotic version: Simplex PT (Tobramycin). |

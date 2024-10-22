@@ -1,0 +1,79 @@
+---
+title: "Nonunion"
+---
+
+### Non-Union
+
+#### Definition
+
+-   No clinical or radiographic evidence of healing for 3 months beyond the expected healing time of a given bone, with no signs that the bone will continue towards union.
+
+#### Risk Factors
+
+| **Category** | **Risk Factors** |
+|---------------------------------|---------------------------------------|
+| **Patient** | Smoking, alcoholism, radiotherapy, non-compliance, malnutrition, older age |
+| **Fracture** | High energy fractures, bone loss, pathological fractures, compound fractures, specific bone involvement, avascular necrosis (AVN) |
+| **Fixation** | Distracted fractures, periosteal stripping, inadequate stability |
+
+#### Classification
+
+| **Type** | **Description** |
+|---------------------------------------|---------------------------------|
+| **Hypertrophic** | Adequate biology but inadequate mechanics. X-ray shows callus but incomplete bridging. |
+| **Atrophic** | Inadequate biology. X-ray shows no callus and faded bone ends. Often caused by excessively rigid stabilization with inadequate fracture compression. |
+| **Synovial** | A synovial joint (pseudoarthrosis) forms around the fracture. X-ray shows sclerotic bone ends, no callus formation. |
+| **Infected** | May present with any radiographic appearance and may or may not show clinical signs of infection. |
+
+#### Diagnosis
+
+-   High index of suspicion based on risk factors for a given patient.
+
+#### Clinical Union Indicators
+
+-   Pain-free under physiological loading.
+-   Non-mobile fracture.
+
+#### X-ray Indicators of Non-Union
+
+-   Persistent fracture gap.
+-   Sclerotic, rounded, or faded bone ends.
+-   Metalware failure or loosening.
+-   New deformity.
+
+#### X-ray Indicators of Union
+
+-   Bridging callus and restoration of cortical congruity.
+-   Obliteration of fracture gaps.
+-   Bridging trabeculae on 3 out of 4 cortices.
+-   The most reliable method is the number of cortices bridged.
+
+#### Additional Diagnostic Tools
+
+-   **CT Scan**: Useful for complex periarticular non-unions.
+-   **Bone Scan**: Generally not very useful; may show cold areas in atrophic or synovial non-unions.
+-   **MRI**: Good for diagnosing and quantifying infection and for pre-operative planning.
+
+### Treatment of Non-Union
+
+-   The treatment depends on the type of non-union.
+
+#### Hypertrophic Non-Union
+
+-   Improve the strain environment by lowering strain through interfragmentary compression and rigid fixation.
+
+#### Infected Non-Union
+
+-   The infection must be eradicated before healing can proceed.
+-   Debride the non-union site back to clean, bleeding bone ends.
+-   A staged protocol may be required.
+-   Use external fixation if possible or techniques such as distraction osteogenesis.
+
+#### Atrophic Non-Union
+
+-   Problem due to biology or inadequate compression with rigid, low-strain fixation.
+-   Debride the non-union site.
+-   Drill the canals until bone bleeds.
+-   Use bone grafting.
+-   Fix rigidly with compression or use techniques such as exchange nailing with grafting.
+-   The key is to create bleeding surfaces at the non-union site and use bone grafts to promote healing.

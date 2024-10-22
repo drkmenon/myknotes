@@ -1,0 +1,91 @@
+---
+title: "Polyethylene"
+---
+
+## Chemistry & Manufacture
+
+-   Basic Monomer: C2H4
+-   Manufactured by the Ziegler process:
+    -   Ethylene gas is polymerized into a repeating chain through addition polymerization.
+    -   Low temperature and low pressure conditions produce Polyethylene powder.
+-   Adjacent chains are held together by Van der Waals forces, resulting in **High Density Polyethylene (HDP)**.
+
+## Polyethylene Architecture
+
+Polyethylene consists of different structural areas: - **Crystalline**: Organized 3D patterns of chains. - **Amorphous**: Random entanglement of chains, offering: - More wear resistance. - A tendency to cross-link.
+
+### How to Increase Polyethylene Strength
+
+1.  Increasing the number of chains (molecular weight).
+2.  Creating cross-links between chains.
+3.  Reducing crystallinity.
+4.  Manufacturing method.
+5.  Sterilization method.
+6.  Storage method.
+7.  Removing un-cross-linked free radicals.
+
+-   Longer chains lead to a greater proportion of amorphous areas, enhancing strength and wear resistance.
+-   This forms the basis for **UHMWPE** (Ultra High Molecular Weight Polyethylene):
+    -   Increased chain length.
+    -   Increased number of chains.
+    -   Increased proportion of amorphous areas.
+
+## Cross-linking, Sterilization, and Storage
+
+-   **Sterilization Methods**:
+    -   Traditionally via gamma irradiation in air.
+    -   Radiation encourages cross-linking between polyethylene chains.
+
+### Effects of Oxidation
+
+-   **Oxidation Issues**:
+    -   Degrades polyethylene, reducing wear properties due to less cross-linking and a higher proportion of crystalline areas.
+    -   Occurs mainly within the subsurface white band (1-2 mm).
+
+### Reasons for Oxidation
+
+1.  Polyethylene is sterilized in air or oxygen.
+2.  Oxygen seeps into packaging over time (shelf life \> 2 years).
+3.  In vivo: Some degree of oxidation occurs naturally after implantation (minimal as synovial fluid has low oxygen content).
+
+### Better Sterilization Methods
+
+1.  Gas plasma or ethylene oxide sterilization (no radiation) minimizes oxidation.
+2.  Gamma irradiation in inert gas (argon or nitrogen) or in a vacuum is preferred.
+
+## Highly Cross-linked UHMWPE
+
+-   Made through prolonged irradiation, resulting in:
+    -   Increased stiffness and hardness.
+    -   Increased wear resistance.
+
+### Concerns with Highly Cross-linked Polyethylene
+
+-   Reduced fatigue resistance.
+-   Reduced fracture toughness (UTS).
+-   Risk in total knee replacements (TKR) due to fatigue fractures rather than wear.
+
+### Methods of Removing Residual Free Radicals
+
+-   **Annealing**:
+    -   Heating to above or just below the melting point removes residual free radicals, reducing in vitro or shelf life oxidation.
+    -   Prolonged annealing alters mechanical properties.
+-   **Adding Vitamin E**:
+    -   Scavenges free radicals and may prevent long-term oxidation while in situ.
+-   **X3 Poly**:
+    -   A modern type of highly cross-linked polyethylene produced by 3 short cycles of irradiation and annealing.
+    -   Exhibits high wear resistance with minimal in vivo alterations in mechanical properties.
+
+## Polyethylene Manufacturing Methods
+
+-   **RAM Bar Extrusion**:
+    -   Traditional method where a cylindrical ‘bar’ of polyethylene is machined into individual implants.
+    -   Variability in properties based on the location in the bar.
+-   **Addition of Calcium Stearate**:
+    -   Prevents yellowing and corrosion, but can lead to fusion defects and worse wear properties.
+-   **Compression Moulding**:
+    -   Polyethylene produced in individual blocks, then machined to create the implant.
+    -   Better than RAM bar extrusion but can produce sharp edges and stress risers.
+-   **Direct Compression Moulding**:
+    -   The current gold standard, directly compressing polyethylene powder into pre-made molds of implants without further machining or additives.
+    -   The final implant is irradiated to promote cross-linking.
