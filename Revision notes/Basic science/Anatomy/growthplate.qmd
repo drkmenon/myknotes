@@ -1,0 +1,191 @@
+---
+title: "Growth"
+---
+
+## Types of Growth Plates in a Long Bone
+
+-   **Horizontal growth plate**: the Physis (primary ossification center).
+-   **Spherical growth plate**: the Epiphysis (secondary ossification center).
+    -   The epiphyseal growth plate has a similar arrangement but is less organized compared to the physis.
+
+## The Physis
+
+-   Composed of four zones, each with differently arranged chondrocytes.
+-   Hypertrophic zone is subdivided into three zones:
+    1.  Reserve Zone
+    2.  Proliferative Zone
+    3.  Hypertrophic Zone:
+        -   Hypertrophic Maturation Zone
+        -   Hypertrophic Degenerative Zone
+        -   Provisional Zone of Calcification
+    4.  Metaphysis:
+        -   Primary Spongiosa
+        -   Secondary Spongiosa
+
+### Characteristics of the Zones
+
+-   The chondrocytes in each zone behave differently.
+-   Blood supply, matrix density, and oxygen tension vary across the zones.
+
+### Reserve Zone
+
+-   Sparse, small cells.
+-   Thick, strong extracellular matrix surrounds chondrocytes.
+-   High Type 2 collagen content.
+-   Contains germinal stem cells but inactive.
+-   Low oxygen tension.
+-   Blood supply comes directly from the epiphyseal artery.
+-   Cells store nutrients in preparation for proliferation.
+
+### Proliferative Zone
+
+-   Chondrocytes proliferate, influenced by mechanical and hormonal factors.
+-   Cells are disc-like and align into longitudinal columns.
+-   Matrix becomes less organized.
+-   The uppermost cell in the column is a progenitor cell.
+-   Responsible for longitudinal growth, with the number of cell divisions proportional to growth.
+-   High oxygen tension.
+-   Epiphyseal artery terminates in the uppermost cells but does not penetrate into the zone.
+
+### Hypertrophic Zone
+
+-   Chondrocytes enlarge, and extracellular matrix decreases, making this the weakest zone, prone to fractures.
+-   Avascular and low oxygen tension.
+-   Influenced by hormones and local growth factors like Indian hedgehog, parathyroid-related peptide, growth hormone, thyroid hormones, steroids, and sex hormones.
+-   Provisional zone of calcification: matrix calcification begins here, and alkaline phosphatase and Type 10 collagen are secreted.
+-   Programmed cell death of chondrocytes occurs.
+
+### Metaphysis
+
+#### Primary Spongiosa
+
+-   Capillary plexus brings osteoblasts, which lay down woven bone on the cartilage matrix (endochondral ossification).
+
+#### Secondary Spongiosa
+
+-   Osteoclasts and osteoblasts work together, resorbing woven bone and laying down lamellar bone.
+
+## Periphery of the Growth Plate
+
+-   **Groove of Ranvier**: Contains osteoblasts, chondrocytes, and fibroblasts; responsible for circumferential growth of the physis.
+-   **Perichondral Ring of La Croix**: Strong fibrous structure anchoring the physis to the epiphysis and metaphysis.
+
+## Physeal Blood Supply
+
+-   Primary supply from the perichondrial artery.
+-   Epiphyseal artery invades the reserve zone and ends in the proliferative zone.
+-   Metaphyseal arteries invade the provisional zone of calcification.
+-   The hypertrophic zone is completely avascular.
+
+## Growth Plate Biomechanics
+
+-   The growth plate is the weakest part of a long bone.
+-   The hypertrophic zone is the weakest part of the growth plate.
+
+### Heuter-Volkmann's Law
+
+-   Increased compression through the physis leads to decreased growth.
+-   Growth plate shape is determined by the forces acting on it.
+
+## Normal Physeal Growth
+
+### Upper Limb
+
+-   Most growth occurs away from the elbow.
+-   80% of humeral growth is proximal, while 75% of radial growth is distal.
+
+### Lower Limb
+
+-   70% of lower limb growth occurs around the knee.
+    -   Distal femur \> Proximal tibia \> Distal tibia \> Proximal femur.
+-   Leg grows 23 mm per year (femur 12 mm, tibia 9 mm).
+
+### Growth Rates in the Last 5-6 Years
+
+-   Distal femur: 9 mm/year.
+-   Proximal tibia: 6 mm/year.
+-   Distal tibia: 5 mm/year.
+-   Proximal femur: 3 mm/year.
+
+## Elbow Growth
+
+-   CRITOL describes the order of ossification center appearance.
+-   Capitellum appears between 1 month and 18 months, followed by each subsequent center at two-year intervals.
+-   Ossification centers appear and fuse earlier in girls.
+-   Fusion occurs in a different order, with the medial epicondyle and olecranon being the last.
+
+## Foot Growth
+
+-   Foot bones are largely cartilage at birth, allowing for potential remodeling (e.g., Ponseti treatment).
+-   All tarsal bones have one ossification center except the calcaneus, which has a secondary center posteriorly (appears around age 8).
+-   Calcaneus anterior center, talus, and cuboid are present at birth.
+-   Cuneiforms (lateral, then middle, then intermediate) and navicular appear each year after birth.
+-   2nd to 5th metatarsals have primary centers in the shaft and secondary centers at the head.
+-   1st metatarsal has its primary center in the shaft and secondary center at the base.
+
+## Acetabulum
+
+-   The triradiate cartilage shapes according to stresses (Volkmann's law). Developmental dysplasia of the hip (DDH) leads to dysplasia and a smaller femoral head.
+-   Triradiate and femoral head epiphysis fuse by age 8, with corrective osteotomies being more effective before this age.
+-   Acetabular fractures in children may cause traumatic arrest and secondary dysplasia.
+
+## Ilium
+
+-   Crest fuses laterally to medially (used to assess the Risser stage in scoliosis).
+
+## Diseases Affecting the Growth Plate
+
+### Achondroplasia
+
+-   Altered Fibroblast Growth Factor Receptor 3 (FGFR3) affects the proliferative zone, impairing longitudinal growth.
+-   Intramembranous and appositional ossification are unaffected, leading to macrocephaly, frontal bossing, and limb shortening.
+
+### Spondyloepiphyseal Dysplasia & Multiple Epiphyseal Dysplasia
+
+-   Affect the epiphysis, causing small, weakened epiphyses.
+
+### Trevor's Disease
+
+-   Epiphyseal hyperplasia leads to epiphyseal osteochondromas, usually affecting the ankle and knee.
+
+### Rickets
+
+-   Affects the hypertrophic zone, with failure of calcification in the provisional zone of calcification.
+-   Leads to a widened, hazy, and thick physis with metaphyseal flaring (cupping).
+
+## Conditions Affecting Various Parts of the Physis & Epiphysis
+
+### Epiphysis
+
+1.  Multiple Epiphyseal Dysplasia.
+2.  Trevor’s Disease (Epiphyseal Hyperplasia).
+
+### Reserve Zone
+
+1.  Gaucher’s Disease.
+2.  Pseudoachondroplasia.
+
+### Proliferative Zone
+
+1.  Achondroplasia (reduced longitudinal growth).
+2.  Gigantism (increased longitudinal growth).
+
+### Hypertrophic Zone
+
+1.  Fractures.
+2.  Slipped Upper Femoral Epiphysis (SUFE).
+3.  Mucopolysaccharidoses (Morquio’s, Hurler’s syndromes).
+4.  Enchondromas.
+
+### Provisional Zone of Calcification
+
+1.  Rickets.
+2.  Osteomalacia.
+
+### Metaphysis
+
+1.  Rickets.
+2.  SUFE related to renal failure.
+3.  Osteomyelitis.
+4.  Scurvy.
+5.  Osteogenesis Imperfecta.

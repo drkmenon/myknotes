@@ -1,0 +1,136 @@
+---
+title: "Intervertebral disc"
+---
+
+## Embryology
+
+-   Vertebral column and discs develop at 4 weeks.
+-   Two adjacent sclerotomes combine to form pre-cartilaginous vertebral body.
+-   Mesenchymal cells lie between the vertebrae.
+-   Notochord forms the nucleus pulposus.
+-   Circular fibers form around this to create the annulus fibrosus.
+-   The disc is a secondary cartilaginous joint.
+
+## Structure
+
+-   Discs get larger more caudally, with the largest being L4/5.
+-   Thicker anteriorly in cervical and lumbar spine, contributing to lordosis.
+-   L5/S1 is the most avascular disc and thickest anteriorly.
+
+### Annulus
+
+#### Outer Annulus
+
+-   Smaller in size.
+-   Made of Type 1 collagen in lamellae.
+-   Adjacent lamellae are obliquely oriented with respect to each other.
+-   Resists tensile and shear stresses.
+-   Contains fibroblasts and nerves.
+-   Attached to anterior longitudinal ligament (ALL) and posterior longitudinal ligament (PLL).
+
+#### Inner Annulus
+
+-   Larger in size.
+-   More Type 2 collagen.
+-   No lamellar organization.
+-   Contains chondrocytes.
+
+### Nucleus Pulposus
+
+-   Made of Type 2 collagen.
+-   Rich in mucoid proteoglycan matrix.
+-   Proteoglycans (PGs) attract water, accounting for 80% content.
+-   PGs provide compressive strength.
+-   The matrix gives visco-elastic and anisotropic properties.
+-   Greater stiffness with rapid loading.
+-   Elasticity and resistance to compression.
+
+### Attachment to Vertebrae
+
+-   Outer 1/3 of the disc connects directly via Sharpey's fibers, forming a ring apophysis.
+-   Inner 2/3 folds in to contribute to the vertebral end plate.
+
+### End Plate
+
+-   Covered with hyaline cartilage in young individuals.
+-   Changes to calcified cartilage with age.
+-   No fibrillar connections between the end plate and vertebra.
+-   Vulnerable to shear stresses.
+
+### Collagens Present in the Disc
+
+-   **Type 5**, **Type 6** (unique to intervertebral disc), **Type 9-12**.
+    -   Type 1 in outer annulus.
+    -   Transition to Type 2 more centrally.
+    -   Type 6 is unique to discs.
+
+## Nerve Supply
+
+-   Only the outer annulus has a nerve supply.
+-   Dorsal: Sinuvertebral nerves (branches of spinal nerves).
+-   Ventral: Sympathetic chain.
+
+## Blood Supply and Nutrition
+
+-   Capillary plexus on the surface of the disc.
+-   Nutrition is via diffusion through the end plates.
+
+## Age-Related Changes
+
+-   Disc becomes dehydrated and fibrotic over time.
+-   Nucleus pulposus is replaced by fibrocartilage.
+-   PG content decreases.
+-   Chondroitin sulfate decreases.
+-   Chondroitin-keratin sulfate ratio decreases.
+-   Water content drops.
+-   Relative collagen content increases.
+-   Disc becomes unable to resist load.
+-   Nucleus starts behaving more like a solid.
+-   Fissures and cracks develop in the annulus.
+-   Alters mechanical properties of the spine.
+-   Destabilizes the spinal motion segment.
+
+### Consequences of Age-Related Changes
+
+-   Facet joint degeneration.
+-   Risk of disc herniation.
+-   Ligamentum flavum buckling.
+-   Further loss of disc height.
+    -   Narrowing of neural foraminae, leading to foraminal/recess stenosis.
+    -   Further facet arthrosis.
+    -   Flavum hypertrophy.
+    -   Canal stenosis.
+    -   Degenerative spondylolisthesis.
+
+## Disc Function
+
+-   Primary source of spinal mobility.
+-   Resists tensile, compressive, and shear stresses while maintaining movement.
+-   **Anatomic Properties**:
+    -   Outer annulus resists shear and torsion due to alternating lamellar structure and Type 1 collagen.
+    -   Nucleus pulposus and inner annulus better resist compression, converting compression to radial forces.
+    -   These forces generate hoop stresses in the annulus.
+-   The disc functions as a **biphasic material**.
+    -   Outer annulus undergoes hoop stresses in compression.
+    -   Inner layers act as shock absorbers, dissipating stresses.
+
+## Disc Injury and Healing
+
+### Herniation
+
+-   Annular tear starts in the inner annulus due to sudden increases in intradiscal pressure.
+-   Pain arises from the nuclear part bulging through the tear and irritating nerves in the outer annulus.
+-   If the tear propagates to the outer annulus, bulging or herniation occurs, causing pain from the disc and nerve root impingement.
+-   90% of herniations are asymptomatic at 3 months due to:
+    -   Resorption of nucleus material.
+    -   Annular tear does not repair itself.
+
+### Disc Degeneration
+
+-   Occurs with age due to chronic dehydration of the disc and impaired nutrition.
+-   PG content decreases, reducing water content.
+-   Relative collagen content increases.
+-   Decreased vascularity and progressive calcification of endplates impair diffusion.
+-   End plate microfractures occur, permanently deforming the disc.
+    -   The disc loses its elastic properties and behaves like a solid.
+    -   Alters mechanics and load distribution, leading to osteophyte formation, facet joint arthrosis, and pain.

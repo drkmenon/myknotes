@@ -1,0 +1,176 @@
+---
+title: "Knee Meniscus"
+---
+
+# Meniscus in the Knee
+
+## Anatomical Differences
+
+### Medial
+
+-   Semi-circular, asymmetric
+-   Posterior horn bigger than anterior horn
+-   Less mobile
+-   Completely peripherally fixed to and blends with deep MCL
+-   Triangular cross-section
+
+### Lateral
+
+-   Circular in shape
+-   Larger coverage of tibia
+-   More mobile
+-   Attached to tibia by coronary ligament
+    -   Interrupted by the popliteus tendon (popliteal hiatus)
+-   Not in contact with LCL
+-   Gives origin to other ligaments
+    -   Anterior (Humphrey’s) meniscofemoral ligament
+    -   Posterior (Wrisberg’s) meniscofemoral ligament
+    -   Lateral meniscus to MFC either side of PCL
+-   In alphabetical order: Humphrey’s \> PCL \> Wrisberg’s
+
+## Vascularity
+
+-   At birth, completely vascularised
+-   By age 10, a central avascular area develops
+-   In adults, the peripheral 10-30% is vascular (red zone)
+-   Blood supply: medial and lateral geniculate arteries
+    -   Perivascular Capillary Plexus (PCP) sends radial vessels into the meniscus, penetrating only 10-30% deep
+
+## Structure
+
+### Extracellular Matrix & Cells
+
+-   **Extracellular Matrix**
+    -   Water (70%)
+    -   Type 1 collagen (50% dry weight)
+    -   Proteoglycans, elastin, glycoproteins
+-   **Cells**
+    -   Fibrochondrocytes
+
+### Collagen Arrangement
+
+-   In 3 layers: superficial, surface, and middle
+-   Most fibres are longitudinal, running in the C-shaped direction of the meniscus, especially in the middle layer
+-   Some fibres are orientated radially, acting as ties to increase rigidity and prevent longitudinal splits
+
+## Function
+
+1.  Load transmission
+2.  Enhance joint conformity
+3.  Lubrication
+4.  Joint stability
+5.  Proprioception
+
+### Load Transmission
+
+-   Acts as shock absorbers
+-   15% meniscectomy increases contact pressure by 300%
+-   Absence leads to rapid degeneration
+
+### Articular Conformity
+
+-   Menisci displace (lateral \> medial) to maintain conformity
+-   Aids in load transmission and shock absorption in all positions
+
+### Lubrication
+
+-   High conformity promotes hydrodynamic lubrication
+
+### Joint Stability
+
+-   Displacement, conformity, and shape of menisci contribute to knee stability
+-   Medial meniscus is especially important for AP stability
+
+### Proprioception
+
+-   Via nerve fibres in the anterior and posterior horns in extreme ranges, they play a proprioceptive role
+
+## Anatomic and Developmental Anomalies
+
+### Medial Meniscus
+
+-   Anomalous attachment to the ACL or intercondylar notch
+
+### Hypoplastic or Absent Menisci
+
+-   May be part of a wider congenital knee problem
+
+### Discoid Meniscus
+
+-   Lateral much more than medial
+-   May or may not be symptomatic
+-   Symptoms include:
+    -   Snapping, locking, and pain in children
+
+### Classification
+
+1.  **Type 1** - Incomplete
+2.  **Type 2** - Complete
+3.  **Type 3** - Wrisberg variant
+    -   Detached at posterior horn
+    -   Meniscofemoral ligaments are the only structures holding meniscus down – amenable to repair
+
+### Typical X-ray Findings
+
+1.  Increased lateral joint space
+2.  Squaring of LFC
+3.  Cupping of the lateral plateau
+4.  Hypoplastic lateral tibial spine
+
+### Management
+
+-   Saucerisation (shaping to accommodate LFC)
+-   Resection of tears
+-   Repair of Wrisberg variant (Type 3)
+-   Nothing if incidental finding
+
+### Meniscal Cysts
+
+-   Secondary to a tear and entrapment of synovial fluid
+
+### Meniscal Ganglions
+
+-   Similar etiology but more often associated with degenerative tears
+
+## Meniscal Tears
+
+### Classification Based On:
+
+1.  Position
+2.  Tear characteristics
+
+### Position
+
+1.  Peripheral (Red on red)
+2.  Intermediate (Red on white)
+3.  Central (White on white)
+
+-   Only peripheral tears have a good chance of healing and are amenable to repair
+
+### Tear Pattern
+
+1.  Vertical
+2.  Horizontal
+3.  Complex
+
+-   **Vertical Orientation** – longitudinal or radial
+    -   Longitudinal occurs in line with fibres (e.g., bucket handle)
+    -   Radial tears are usually peripheral, especially in the lateral meniscus
+-   **Horizontal Plane Tears**
+    -   Can be full or partial cleavage
+    -   Partial cleavage results in a flap
+-   **Complex Tears**
+    -   Combination of vertical and horizontal patterns
+    -   Often related to chronic degenerative tears
+
+## Meniscal Healing
+
+-   Fibrochondrocytes are responsible for healing
+-   Fibrovascular scar tissue is formed but not in inner zones
+
+## Deciding Whether to Repair or Resect
+
+1.  **Location of tear** - Vascularity matters
+2.  **Tear pattern** - Longitudinal tears are most amenable, \>1cm ideal
+3.  **Patient age** - Younger patients do better
+4.  **Timing** - Earlier repair results in better outcomes

@@ -1,0 +1,215 @@
+---
+title: "Bone"
+---
+
+### Definition:
+
+`Bone is a specialised Connective tissue`[^1].
+
+[^1]: This is the standard answer for all questions about the definition of any living tissue we deal with in Orthopaedics: **it is a specialised connective tissue.**
+
+Bone includes cells and extracellular matrix. Most common type of collagen is seen bone is *Type 1 collagen* [^2]
+
+[^2]: b” ***ONE*** ”
+
+Table 1: Composition of Bone
+
++------------------------------+---------------------------------------+
+| Cells (10%)                  | ECM (90%)                             |
++==============================+=======================================+
+| -   Osteoblasts              | Proteins (40%)                        |
+|                              |                                       |
+| -   Osteoclasts              | -Collagenous Protein (90%)            |
+|                              |                                       |
+| -   Osteocytes               | -Non-collagenous protein (10%)        |
+|                              |                                       |
+| -   Osteo-progenitor cells   | eg: Proteoglycan                      |
+|                              |                                       |
+| -   Lining cells             | Minerals (60%)                        |
+|                              |                                       |
+|                              | -Calcium, Phosphorous                 |
+|                              |                                       |
+|                              | -Hydroxyapatite (Ca~10~PO~4~(OH)~2~   |
++------------------------------+---------------------------------------+
+
+**Bone Functions**
+
+1.  Primary Calcium Reservoir\
+2.  Haemopoesis\
+3.  Mechanical Support for Soft Tissues and Organs
+
+------------------------------------------------------------------------
+
+**Bone Structure**
+
+1.  Woven (Immature)\
+2.  Lamellar (Mature)
+    -   **Cortical Bone**\
+    -   **Cancellous Bone**\
+3.  Periosteum
+
+------------------------------------------------------------------------
+
+### Woven Bone (Immature)
+
+**Features**\
+- Disorganized haphazard collagen arrangement\
+- Weaker\
+- Contains more cells than lamellar bone per unit volume\
+- Isotropic: Properties do not vary despite the type of loading\
+- High turnover
+
+**Examples**\
+- Embryonic and neonatal skeleton\
+- Paediatric callus is mainly woven\
+- Metaphysis up to 4 years old\
+- Early hard callus in adults\
+- Pathologic high turnover bone (e.g. tumor, Paget’s, osteogenesis)
+
+------------------------------------------------------------------------
+
+### Lamellar Bone (Cortical & Cancellous)
+
+**General Features**\
+- Stronger\
+- Collagen fibers stress-orientated, arranged in parallel sheets of lamellae\
+- Herring bone structure\
+- Adjacent lamellae oblique to each other\
+- Cement lines exist between lamellae, which are potential weak points\
+- Anisotropic: Properties vary depending on mechanical stress\
+- Fewer cells per unit volume\
+- Composed mainly of matrix laid down by osteoblasts
+
+------------------------------------------------------------------------
+
+### Cortical Bone
+
+-   Makes up 80% of bone density in the body\
+-   20x denser than cancellous (Young's Modulus 20 GPa)\
+-   Arranged into multiple longitudinal osteons\
+-   Resists torsion and bending better than cancellous bone
+
+**Osteon (Harvesian System)**\
+- The fundamental unit of lamellar bone\
+- Comprises 5 or 6 concentric lamellar rings running longitudinally around a central Haversian canal\
+- Each osteon is 50 μm in diameter\
+- Cement lines between osteons are potential sites of weakness
+
+**Haversian Canal**\
+- Formed by 5 or 6 lamellar rings\
+- Contains blood vessels, nerves, and lymphatics
+
+**Volkmann’s Canals**\
+- Perpendicular to the Haversian canals\
+- Contain blood vessels and allow communication between periosteal and intramedullary blood vessels
+
+------------------------------------------------------------------------
+
+### Cancellous Bone
+
+-   Found in metaphyses and epiphyses\
+-   Forms a 3D trabecular lattice\
+-   Still arranged in lamellar fashion\
+-   No Haversian systems\
+-   Lower tensile strength, more elastic (Young's Modulus 1 GPa)\
+-   8x higher turnover due to larger surface area\
+-   More subject to Wolff’s Law (remodeling according to mechanical stress)
+
+------------------------------------------------------------------------
+
+### Periosteum
+
+-   **Inner Osteogenic Layer**: Vascular\
+-   **Outer Structural Layer**: Fibrous\
+-   Responsible for bone growth in diameter
+
+------------------------------------------------------------------------
+
+### Cells of Bone
+
+**Osteoblasts**\
+- Formed by osteoprogenitor cells (mesenchymal stem cells)\
+- Secrete osteoid (organic bone matrix)\
+- Type 1 collagen, RANKL, OPG, osteocalcin, alkaline phosphatase, bone sialoprotein\
+- Have receptors for:\
+- Parathyroid hormone, Vitamin D3, glucocorticoids, estrogen, prostaglandins\
+- Life span: 100 days\
+- Afterward, they either undergo apoptosis, become bone lining cells, or become osteocytes
+
+**Osteocytes**\
+- Inactive osteoblasts trapped in lacunae & canaliculi\
+- Maintain bone and alter matrix in their vicinity\
+- High nucleus-to-cytoplasm ratio\
+- Play a role in calcium and PTH homeostasis
+
+**Bone Lining Cells**\
+- Flat, inactive osteoblasts\
+- Reactivate in times of increased bone turnover
+
+**Osteoclasts**\
+- Function: Bone resorption\
+- Derived from monocytes\
+- Activated by RANKL secreted by osteoblasts\
+- Secrete acid (carbonic anhydrase) to dissolve hydroxyapatite crystals
+
+------------------------------------------------------------------------
+
+### Bone Matrix
+
+-   **Inorganic (60%)**
+    -   Calcium hydroxyapatite \[Ca10(PO4)6(OH)2\]\
+    -   Responsible for compressive strength of bone\
+    -   99% of total body calcium is stored in bone\
+-   **Organic (40%)**
+    -   90% Type 1 collagen, 10% BMPs, cytokines, growth factors\
+    -   Provides tensile strength
+
+------------------------------------------------------------------------
+
+### Blood Supply of Bone
+
+-   5-10% of cardiac output goes to bone\
+-   3 main sources:
+    1.  **Nutrient Artery System**: Dominant in adults\
+    2.  **Periosteal System**: Dominant in children\
+    3.  **Metaphyseal/Epiphyseal System**
+
+------------------------------------------------------------------------
+
+### Bone Metabolism
+
+**Calcium**\
+- 99% stored in bone, main source from diet\
+- Functions in bone mineralization, nerve, muscle, and clotting function\
+- Calcium absorption actively in the duodenum, passively in the jejunum
+
+**Phosphate**\
+- 85% stored in bone within hydroxyapatite crystals\
+- Absorbed mainly in the duodenum
+
+------------------------------------------------------------------------
+
+### Calcium and Phosphate Regulation
+
+**Main Hormones**\
+- Vitamin D, Parathyroid Hormone (PTH), Calcitonin
+
+**Vitamin D**\
+- Increases calcium and phosphate absorption\
+- Stimulates osteoclastic resorption indirectly\
+- Inhibits PTH production
+
+**PTH**\
+- Produced by the chief cells of the parathyroid gland\
+- Increases serum calcium and decreases serum phosphate
+
+**Calcitonin**\
+- Directly inhibits osteoclasts\
+- Produced by parafollicular cells of the thyroid
+
+------------------------------------------------------------------------
+
+### Markers of Bone Activity
+
+1.  **Alkaline Phosphatase**: Elevated during bone formation\
+2.  **Urinary Hydroxyproline & Hydroxypyridoline**: Elevated during bone resorption
