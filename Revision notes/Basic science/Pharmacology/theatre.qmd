@@ -1,0 +1,149 @@
+---
+title: "Theatre"
+---
+
+## Theatre Layout and Design
+
+### Close Proximity to Related Facilities
+
+-   ICU, A&E, Surgical Wards, Radiology, Pathology
+
+### Zones
+
+-   **Outer Zone**: Reception
+-   **Clean Zone**: Reception up to the theatre itself
+-   **Aseptic Zone**: Theatres
+-   **Disposal Zone**: Dirty corridor for disposal
+
+**Note**: Zones should be linked via corridors that prevent cross-contamination.
+
+## Within Theatre
+
+### Control of Key Factors
+
+1.  **Temperature and Humidity**:
+    -   Controlled via ventilation and thermostats.
+    -   Patients under anaesthesia are at risk of hypothermia.
+    -   **Optimal theatre temperature**: 25°C to prevent hypothermia; 19°C for surgical temperature.
+    -   **Solutions**: Bair Hugger, warmed fluids, blankets, airflow mattress.
+    -   Higher temperature needed for paediatric patients due to larger body surface area.
+    -   **Optimal Humidity**: Around 50%.
+2.  **Light**:
+    -   Illumination at the wound site should be **40,000 lux**.
+    -   Satellite lights: Positioned directly, although they generate heat and convection currents.
+
+## Bacterial Contamination in Theatre
+
+### Sources of Infection
+
+1.  Patient
+2.  Instruments
+3.  Surgeon
+4.  Airborne (95% of infections)
+
+### Airborne Contamination
+
+-   Primarily due to people in the theatre (talking, shedding microorganisms, skin, and clothing).
+-   90% of airborne bacteria come from below neck level, especially from axillae and groins.
+
+### Measuring Bacterial Contamination of the Air
+
+-   Measured in **Colony Forming Units (CFU)** or **Bacteria Carrying Particles (BCP)** per cubic meter.
+-   **Microbiological Volumetric Slit Sampler**: Draws air over a culture plate, incubated for 48 hours, then counts colonies formed.
+
+### Frequency of Measurement
+
+-   **Plenum theatres**: Every time they are refurbished.
+-   **Extra clean theatres**: Every 3 months.
+
+### Acceptable CFU/m3 values
+
+-   **Plenum**: \<35 CFU & \<1 CFU of Clostridium Perfringens and Staphylococcus Aureus.
+-   **Ultra-Clean**: \<20 CFU in the periphery and \<10 CFU in the centre.
+
+## Ventilation
+
+### Key Points
+
+-   The ideal air system should:
+    -   Provide a bacteria-free source of air.
+    -   Use positive pressure to displace contaminated air from the operative field.
+
+### How Air Enters the Theatre
+
+-   Air enters via roof-level HEPA filters (removing particles of 0.5 microns with 99.9% efficiency).
+-   Filters must be monitored regularly.
+
+## Ventilation Systems
+
+| Type of Flow | Description | Pros | Cons |
+|----------------------|---------------------|---------------|---------------|
+| **Plenum** | Positive pressure maintained by air entering via ceiling/wall diffusers and exiting via floor vents. Air changed 20x per hour. | Reduces ingress of contaminated air | Turbulence due to personnel movement, door openings. Each door opening introduces 2m3 of contaminated air. |
+| **Laminar Flow** | Uniform velocity, unidirectional air flow, usually vertical. | Shown to reduce infection in some surgeries | Equipment and personnel can deflect contaminated air towards the wound. |
+
+### Types of Laminar Flow
+
+-   **Horizontal Laminar Flow**:
+    -   HEPA filters on walls; airflow across the entire theatre.
+    -   Reduces infection in total hip replacement but increases infection in total knee replacement.
+-   **Vertical Laminar Flow**:
+    -   Introduced by Charnley.
+    -   Room within a room concept, air enters through HEPA filters and moves downwards.
+    -   Most commonly used type.
+    -   Problems occur if personnel or equipment deflect airflow.
+-   **Exponential Flow (Ex Flow) System**:
+    -   Overcomes vertical flow problems.
+    -   Air flows down and out in a trumpet shape.
+    -   Requires fewer air changes per hour.
+
+### Clinical Effects of Laminar Flow
+
+-   **MRC 1982 RCT**: Found vertical laminar flow to be more effective in reducing wound contamination.
+-   **Charnley**: Demonstrated a reduction in deep infections with laminar flow.
+
+### MRC Trial Findings on Reducing Deep Joint Sepsis
+
+| Method               | Effectiveness      |
+|----------------------|--------------------|
+| Antibiotic Cement    | 11-fold reduction  |
+| Systemic Antibiotics | 5-fold reduction   |
+| Ultra-clean air      | 2.5-fold reduction |
+| Body Suits           | 2-fold reduction   |
+
+## Clothing
+
+### Ideal Clothing Characteristics
+
+-   Prevent shedding of airborne bacteria.
+-   Effective when wet.
+-   Allows air and water vapor circulation.
+
+| Material | Pore Size | Features | Disadvantages |
+|-----------------|-----------------|-----------------|----------------------|
+| **Standard Cotton** | 80 microns | Comfortable | Poor bacterial migration prevention, strike-through problem. |
+| **Ventile** | 50 microns | Reduced pore size | Uncomfortable, not breathable. |
+| **Gore Tex** | 0.2 microns | Breathable | Heavy, expensive. |
+| **Disposable Non-Woven** | Variable | Traps bacteria, prevents migration | Single-use, expensive. |
+
+### Body Exhaust Suits
+
+-   Maintain negative pressure within the gown, preventing bacteria escape.
+
+### Surgical Drapes
+
+-   **Disposable Non-Woven Drapes**: Commonly used to prevent bacterial migration.
+-   **Incision Drapes**: No independent benefit shown, primarily used to keep body drapes attached to the skin.
+
+### Masks
+
+-   Recommended for all personnel in orthopaedic procedures.
+-   Prevent upper respiratory tract bacterial contamination (5% of airborne bacteria).
+-   Evidence shows only those near the wound need masks.
+
+### Gloves
+
+-   Protect both the wound and surgeon.
+-   **Glove Changing**:
+    -   Before making an incision (due to contamination during prepping and draping).
+    -   Before handling implants (due to glove colonization during a procedure).
+-   **Double Gloving**: 40% incidence of glove perforation in orthopaedic procedures, so double gloving is advised.

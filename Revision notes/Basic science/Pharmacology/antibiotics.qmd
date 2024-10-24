@@ -1,0 +1,218 @@
+---
+title: "Antibiotics and infection"
+---
+
+### Infection and Antibiotics
+
+------------------------------------------------------------------------
+
+### Inflammation
+
+#### Acute Inflammation
+
+-   **Increased vascular permeability** leading to the migration of:
+    -   **Neutrophils** initially.
+    -   **Monocytes** later.
+-   **Phagocytosis**: These cells phagocytose foreign material.
+-   **Leucocytes**: Minimal in acute infection.
+
+#### Chronic Infection
+
+-   **Causes**:
+    -   Resistant organisms exhibiting a low-grade immune reaction.
+    -   Persistent non-degradable toxins (e.g., silica).
+    -   Immune-mediated reactions.
+-   **Predominant cells**:
+    -   **Mononuclear cells**:
+        -   Macrophages (the main cell).
+        -   Lymphocytes.
+        -   Plasma cells.
+    -   **Fibroblasts**.
+    -   **Eosinophils** (in immune reactions).
+
+#### Macrophage Stimulation
+
+-   **Two mechanisms**:
+    1.  Secretion of **gamma interferon** by **T cells** (lymphocytes).
+    2.  Secretion of **endotoxin** by microbes.
+
+#### Consequences of Chronic Macrophage Activity
+
+-   **Secretion of multiple growth factors and proteases**:
+    -   Leads to tissue destruction, neovascularisation, and fibroblast proliferation.
+    -   **Stimulation of lymphocytes** further increases gamma interferon production, creating a vicious cycle that stimulates macrophages.
+
+------------------------------------------------------------------------
+
+### Bacteriology
+
+#### Bacterial Characteristics
+
+-   **Prokaryotic**: Bacteria have no nucleus.
+-   No mitochondria or lysosomes.
+-   They do have a **cell wall**.
+
+#### Gram Staining
+
+-   Based on the ability of bacterial cell walls to retain stains.
+    -   **Gram-positive bacteria**: Retain **blue stain** (crystal violet idium).
+    -   **Gram-negative bacteria**: Retain **pink stain** (safranin).
+
+#### Bacterial Shapes
+
+-   **Cocci**: Spherical bacteria.
+-   **Bacilli**: Rod-shaped bacteria.
+
+------------------------------------------------------------------------
+
+### Bacteriology of Periprosthetic Infections
+
+#### Staphylococcus Species
+
+-   **Staphylococcus Aureus**:
+    -   **Coagulase-positive**.
+    -   Produces **fibrin** from fibrinogen, promoting clotting and protecting against phagocytosis, making it very virulent.
+-   **Staphylococcus Epidermidis**:
+    -   **Coagulase-negative**, generally less virulent.
+    -   However, in the presence of a **Biofilm**, its virulence increases.
+
+#### Glycocalyx and Biofilm
+
+-   **Glycocalyx**:
+    -   A protective layer (protein or polysaccharide) secreted by bacteria.
+    -   Provides resistance to phagocytosis and enhances adhesion to foreign materials (e.g., metal implants).
+-   **Biofilm**:
+    -   A community of bacteria encased in a glycocalyx.
+    -   More resistant to phagocytosis and better at adhering to foreign materials.
+    -   Biofilm formation takes around **4 weeks**.
+
+------------------------------------------------------------------------
+
+### MRSA (Methicillin Resistant Staphylococcus Aureus)
+
+-   MRSA is a strain of **Staphylococcus Aureus** resistant to **Beta-Lactam antibiotics**, including Methicillin.
+-   **Resistance**:
+    -   MRSA produces a **penicillin-binding protein** that reduces the action of antibiotics.
+    -   MRSA is not necessarily more virulent but much harder to treat due to its resistance.
+
+------------------------------------------------------------------------
+
+### Antibiotics
+
+#### Beta-Lactam Antibiotics
+
+-   **Bactericidal**: Inhibit bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs).
+-   **Examples**:
+    -   **Penicillins**.
+    -   **Cephalosporins** (4 generations):
+        -   **1st Generation**: Cephazolin.
+        -   **2nd Generation**: Cefuroxime.
+        -   **3rd Generation**: Ceftriaxone.
+        -   **4th Generation**: Cefpirone.
+
+#### Co-Amoxiclav
+
+-   A combination of **penicillin** and a **beta-lactamase inhibitor** (clavulanic acid) that prevents beta-lactamase from deactivating the antibiotic.
+
+#### Aminoglycosides
+
+-   **Bactericidal**: Inhibit protein synthesis by binding to the 30S subunit of ribosomal RNA.
+-   **Predominantly** effective against Gram-negative bacteria.
+-   **Examples**: Gentamicin, Tobramycin.
+
+#### Macrolides
+
+-   **Inhibit protein synthesis** by binding to the 50S subunit of ribosomal RNA.
+-   **Examples**: Erythromycin, Clindamycin.
+
+#### Quinolones
+
+-   **Inhibit DNA gyrase**.
+-   **Example**: Ciprofloxacin.
+
+#### Glycopeptides
+
+-   **Inhibit cell wall synthesis**.
+-   Provide good coverage for both Gram-positive and Gram-negative bacteria.
+-   **Examples**: Teichoplanin, Vancomycin.
+
+#### Rifampicin
+
+-   **Bactericidal**: Inhibits RNA transcription.
+
+#### Tetracyclines
+
+-   **Bacteriostatic**: Inhibit protein synthesis by binding to the 30S subunit of ribosomal RNA.
+-   **Examples**: Tetracycline, Doxycycline.
+
+------------------------------------------------------------------------
+
+### Antibiotic Use in Specific Situations
+
+#### Prophylaxis
+
+-   Administered **within 1 hour** of the incision.
+-   Limited to **24 hours** to prevent resistance.
+-   Typically, **1st generation cephalosporins** (e.g., Cephazolin) are used, particularly when hardware is involved.
+
+#### Open Fractures (BAPRAS Guidelines)
+
+-   **Augmentin 1.2g IV 8-hourly** or **Cefuroxime 1.5mg 8-hourly** until the wound is closed or up to **72 hours max**.
+-   If using **Cefuroxime**, add **Gentamicin** during debridement.
+-   For penicillin-allergic patients, use **Clindamycin 600mg QDS**.
+-   In gross contamination, consider adding **Metronidazole**.
+
+#### Chronic Infection
+
+-   Commonly caused by **Staphylococcus Aureus** or **Staphylococcus Epidermidis** in hardware-related cases.
+-   Biofilm and glycocalyx formation require antibiotics with good bone penetration.
+-   **Clindamycin** is recommended for osteomyelitis.
+
+------------------------------------------------------------------------
+
+### Antibiotic Resistance
+
+#### Modes of Resistance
+
+1.  **Intrinsic Resistance**:
+    -   Due to structural or metabolic properties that make bacterial cell walls resistant.
+2.  **Acquired Resistance**:
+    -   Occurs when resistant strains develop from previously sensitive populations, mediated by **plasmids** and **transposons**.
+
+------------------------------------------------------------------------
+
+### Typical Bacteria in Specific Situations
+
+| **Condition** | **Organism(s)** |
+|-------------------------------|-----------------------------------------|
+| Cellulitis | Staphylococcus Aureus |
+| Necrotizing Fasciitis | Group A Streptococcus, Polymicrobial |
+| Gas Gangrene | Clostridia |
+| Marine Infections | Mycobacterium Marinum, Vibro Vulnificus |
+| Rose Thorn Inoculation | Sporothrix Schenckii |
+| Human Bite | Eikenella Corrodens, Staphylococcus Aureus |
+| Cat Bite | Pasteurella Multocida, Staphylococcus Aureus |
+| Dog Bite | Pasteurella Multocida, Strep Viridans, Staphylococcus Aureus |
+| Pig Bite | Polymicrobial |
+| Periprosthetic Infection | Staphylococcus Aureus, Coagulase-negative Staphylococcus (Epidermidis) |
+| Open Fracture | Staphylococcus, Streptococcus, Anaerobic bacteria |
+| Shoe Puncture | Pseudomonas |
+| Meat Handling | Brucella |
+| Sickle Cell | Salmonella |
+| IV Drug Abuse | Pseudomonas |
+| Fungal Nail Bed | Trichophyton Rubrum |
+
+------------------------------------------------------------------------
+
+### Bacterial Classification by Gram Stain and Shape
+
+| **Gram-Positive**     | **Gram-Negative**               |
+|-----------------------|---------------------------------|
+| **Cocci**             | **Cocci**                       |
+| Staphylococcus Aureus | Neisseria                       |
+| Enterococcus          |                                 |
+| Streptococcus         |                                 |
+| **Bacilli**           | **Bacilli**                     |
+| Clostridia            | Pseudomonas                     |
+| Actinomyces           | E. Coli, Salmonella, Klebsiella |
+|                       | Eikenella                       |

@@ -1,0 +1,91 @@
+---
+title: "Imaging techniques"
+---
+
+### **Plain X-Ray**
+
+-   X-rays are high-energy radiation, which undergo differential absorption by tissues as they pass through the body.
+
+**X-ray Beam Generation:** - A tungsten cathode is heated in a vacuum. - Generates high-velocity electrons directed toward a tungsten anode. - On hitting the anode, some electrons are knocked out of orbit to create X-rays (only 1% of these electrons are used to make the X-ray beam).
+
+**Quantity and Quality of X-rays Generated:** - Quantity of X-rays is proportional to the number of moving electrons. - Quality of X-rays is proportional to the speed of the electrons (energy they carry).
+
+**X-ray Cassette:** - Carbon fiber front, lead backing, and a film coated in photographic emulsion (silver iodobromide). - Carbon fiber and lead prevent X-ray scatter.
+
+**Image Processing:** - X-rays captured on the film as black silver crystals. - Digital images have lower resolution than plain films due to a finite grey scale.
+
+**Types of X-ray Radiation:** - **Primary:** Beam directed from the tube to the X-ray plate/cassette. - **Secondary:** Scatter of X-rays reflected from the patient or other objects, causing blur.
+
+**Parameters of X-ray Measurement:** - **kV:** Penetration of X-rays (energy carried). - **mA:** Measurement of X-ray strength (volume of X-rays). - **Total X-ray dose:** Measured in Grey. - **Effective dose:** Measured in Sieverts.
+
+**Effective Dose Comparisons:** - Bone scan = 5.0 mSv. - CT Spine = 3.6 mSv. - Chest X-ray = 0.05 mSv.
+
+------------------------------------------------------------------------
+
+### **CT Scanning**
+
+-   X-rays are delivered by a fan-shaped rotating tube on a gantry, and sensitive detectors record the attenuated X-rays to form an image.
+-   Each image is made up of pixels (each pixel has depth, termed a voxel).
+
+**Attenuation:** - Describes the amount of X-rays absorbed by tissues. - Hounsfield Units (HU) describe the attenuation coefficient of tissues: - Bone: +1000 HU - Water: 0 HU - Air: -1000 HU
+
+**Advantages:** - Reconstructions possible in any plane. - Excellent for surgical planning in complex fractures. - Superior resolution of cortical bone.
+
+**Disadvantages:** - High radiation dose. - Claustrophobia.
+
+------------------------------------------------------------------------
+
+### **MRI (Magnetic Resonance Imaging)**
+
+-   Uses superconducting magnets and radiofrequency (RF) coils to manipulate hydrogen ions (protons) to create high-contrast images.
+
+**Mechanism:** - Protons spin around their own axis (nuclear spin). - A magnetic field aligns their spin longitudinally. - Energy delivered by RF pulse causes protons to spin transversely. - Once the RF pulse is turned off, protons realign and release energy, detected by RF receiver coils.
+
+**Imaging Terms:** - **T2:** Time taken for protons to lose coherence. - **T1:** Time taken for 63% of protons to return to longitudinal spin. - **TR:** Time between repetition of pulses (T2 has higher TR times). - **TE:** Time to Echo (T2 has higher TE times).
+
+**Common Sequences:** - **T2 Weighted:** Fluid and fat appear white. - **T1 Weighted:** Fat appears white. - **STIR (fat suppression):** T2 weighted with dark fat.
+
+**Gadolinium:** Contrast agent that enhances imaging, showing pathologic fluid collections better (abscess).
+
+------------------------------------------------------------------------
+
+### **Radionuclide Bone Scanning**
+
+-   Uses gamma rays emitted from a radioactive isotope (Technetium-99) bound to phosphate to map blood flow and osteoblast activity.
+
+**Technetium-99:** - Unstable radioisotope derived from Molybdenum-99 decay. - Short half-life of 6 hours and is excreted via kidneys.
+
+**Mechanism:** - Technetium-99 is attached to Methyl Diphosphonate (MDP) and injected intravenously. - MDP interacts with hydroxyapatite crystals in bone, directly reflecting osteoblastic activity. - Gamma rays emitted by Technetium-99 are detected by a gamma camera to create a digital image.
+
+**Phases of a Triple Phase Bone Scan:** - **Dynamic Phase (1-2 min):** Shows arterial flow and hyperperfusion. - **Equilibrium Phase (3-5 min):** Shows bone and soft tissue hyperemia. - **Static Phase (4 hours):** Soft tissue activity clears, leaving only bone activity.
+
+**Uses:** - Tumors, infections, stress fractures, prosthetic loosening, Paget's disease.
+
+**Disadvantages:** - Poor specificity but very sensitive. - False negatives in areas with low blood supply (e.g., avascular bone).
+
+------------------------------------------------------------------------
+
+### **DEXA Scanning (Dual Energy X-ray Absorptiometry)**
+
+-   Utilizes X-rays of different energies absorbed differently by bone and soft tissue.
+-   Used to assess bone mineral density (BMD).
+
+**Result Interpretation:** - **T Score:** Compares BMD to peak young adult BMD. - **Z Score:** Compares BMD to an age-matched individual.
+
+**WHO Criteria for Osteoporosis:** - **0 to -1:** Normal. - **-1 to -2.5:** Osteopenia. - **\< -2.5:** Osteoporosis. - **\< -2.5 + fragility fracture:** Severe osteoporosis.
+
+------------------------------------------------------------------------
+
+### **Ultrasound**
+
+-   Ultrasound waves are produced by a piezoelectric ceramic crystal within a transducer.
+-   Voltage applied to the crystal alters its shape, generating a compression wave (ultrasound wave).
+-   Reflected waves distort the piezoelectric crystal, generating an image.
+
+**Advantages:** - Non-ionizing, cheap, portable, and dynamic imaging.
+
+**Disadvantages:** - Limited to superficial structures and is operator-dependent.
+
+------------------------------------------------------------------------
+
+This webpage provides a detailed overview of different imaging techniques used in medical practice, including X-ray, CT, MRI, radionuclide scanning, DEXA scanning, and ultrasound. Each technique has distinct advantages, limitations, and specific uses in clinical diagnostics.
