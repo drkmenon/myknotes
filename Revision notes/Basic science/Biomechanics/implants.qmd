@@ -1,0 +1,80 @@
+---
+title: "Biomechanics of implants"
+---
+
+### Cerclage Wire:
+
+-   **Tensile Strength**: Proportional to wire diameter. The optimal number of twists is 4-8.
+-   **Notch Sensitivity**: A 1% notch in the wire can reduce tensile strength by 60%.
+-   **Cable**: Has higher fatigue resistance than wire.
+-   **Alternatives**: Number 5 Ethibond has 30% tensile strength of an 18g wire, and Mersilene tape has 50% of an 18g wire.
+
+### Screws:
+
+-   **Purpose**: Convert rotational motion into linear motion, creating compressive force.
+
+#### Screw Pullout Factors:
+
+-   **Increases With**:
+    -   Larger screw diameter
+    -   Longer embedded length
+    -   High-quality bone
+    -   More surface area and cortical purchase
+    -   Increased thread depth and pitch
+-   **Cannulated Screws**: Lower pullout strength (15% less than non-cannulated screws), as the core diameter is increased, reducing thread depth and rigidity.
+
+#### Components of a Screw:
+
+-   **Core Diameter**: Diameter of the screw's core.
+-   **Outer Diameter**: Total diameter of the screw.
+-   **Effective Thread Depth**: The difference between core and outer diameter (larger depth increases pullout strength).
+-   **Pitch**: Distance traveled per screw turn (increased pitch lowers pullout strength; decreased pitch increases it).
+-   **Head**: Allows driver attachment, halts motion.
+-   **Tap**: Creates a female helix for screw threads. Self-tapping screws cut threads automatically.
+
+### Nails:
+
+-   **Strength**: Bending and torsional rigidity increase with the 4th power of radius (doubling the radius increases rigidity by 16 times).
+-   **Slotted Nails**: Similar calculations but take into account the inner diameter, making them weaker than solid nails.
+-   **Advantage**: Nails act as load-sharing devices but are vulnerable in metaphyseal fractures due to increased stress on the locking screws and bolts.
+
+#### Design Improvements:
+
+-   **Material Around Locking Holes**: Increased to prevent failure.
+-   **Screws Locking into Nails**: Enhance stability.
+-   **Working Length**: The unsupported length, longer lengths result in less stiffness and greater stress.
+
+### Plates:
+
+-   **Weaknesses**: More prone to failure due to low bending rigidity. They rely on the fracture reduction for stability, functioning as load-sharing devices.
+-   **Positioning**: Plates should be placed on the tensile side of the bone to prevent fracture gapping and reduce bending moments.
+-   **Pre-bending**: Helps avoid gapping on the far cortex, improving the load distribution.
+
+#### Locking Plates:
+
+-   **Fixed Angle Construct**: Near the mechanical axis, eliminating weak points between screws and the plate.
+-   **Benefits**: Avoids periosteal blood supply disruption and enables minimally invasive application.
+-   **Challenges**: Excessive stiffness and lack of compression can cause non-union, and cross-threading can reduce stiffness.
+
+### External Fixation:
+
+-   **Working Length**: As in nails and plates, working length is critical for construct stiffness. Placing bars closer to the skin shortens working length, increasing stiffness.
+-   **Stiffness Factors**:
+    -   Increasing the size of pins or bars.
+    -   Shortening the working length from the fracture.
+    -   Adding more pins and bars.
+    -   Reducing the distance from the bars to the skin.
+
+### Forces and Effects on Orthopedic Implants:
+
+-   **Strength**: Depends on material properties and structure shape. Tubular structures are more vulnerable to torsion.
+-   **Stiffness**: A material's ability to resist deformation. Stress divided by strain.
+-   **Rigidity**: A structural property that refers to the ability to resist deformation.
+
+#### Plates:
+
+-   **Rigidity**: Increases with the 3rd power of thickness (doubling thickness increases rigidity 8 times).
+
+#### Tubular Structures:
+
+-   **Torsional Rigidity**: Proportional to the 4th power of radius (doubling radius increases torsional rigidity 16 times).

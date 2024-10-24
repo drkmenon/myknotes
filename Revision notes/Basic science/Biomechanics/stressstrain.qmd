@@ -1,0 +1,135 @@
+---
+title: "Stress and strain"
+---
+
+## Stress
+
+-   **Definition**: Force applied per unit area.
+-   **Formula**: ( \sigma = \frac{F}{A} ) (Force/Area)
+-   **Unit**: N/m² or Pascals (Pa)\
+    Example: 1 Pascal is equivalent to the force of an apple on a 1m² coffee table.
+
+## Strain
+
+-   **Definition**: The measure of deformation, representing the change in length relative to the original length.
+-   **Formula**: ( \text{Strain} = \frac{\Delta L}{L_0} )
+-   **Unit**: Unitless\
+    It is expressed as a ratio or percentage.
+
+------------------------------------------------------------------------
+
+## Material Properties
+
+A material's properties depend on the forces applied to it:
+
+### Isotropic Materials
+
+-   **Definition**: Mechanical properties remain the same regardless of the type of force applied.
+-   **Examples**: Woven bone, polymers, and many metals.
+
+### Anisotropic Materials
+
+-   **Definition**: Mechanical properties vary with the type of force applied.
+-   **Examples**: Most living tissues, such as cortical bone, tendons, and ligaments.
+
+------------------------------------------------------------------------
+
+## Stress-Strain Curve
+
+-   **Purpose**: Used to analyze material properties.
+
+-   **Young’s Modulus**: The gradient of the stress-strain curve. It measures the stiffness of a material.
+
+    -   **High Young's Modulus**: Stiffer material.
+    -   **Formula**: ( E = \frac{\sigma}{\epsilon} ) (Stress/Strain)
+
+------------------------------------------------------------------------
+
+### Young’s Modulus of Various Orthopaedic Materials:
+
+| Material                 | Young's Modulus (GPa) |
+|--------------------------|-----------------------|
+| **Ceramic**              | 250                   |
+| **Cobalt Chrome (CoCr)** | 225                   |
+| **Stainless Steel**      | 200                   |
+| **Titanium**             | 100                   |
+| **Cortical Bone**        | 20                    |
+| **PMMA**                 | 2                     |
+| **Polyethylene**         | 1.5                   |
+| **Cancellous Bone**      | 1                     |
+| **Tendon**               | 0.1                   |
+| **Cartilage**            | 0.02                  |
+
+------------------------------------------------------------------------
+
+### Regions of the Stress-Strain Curve
+
+#### 1. **Elastic Region**
+
+-   **Behavior**: Stress and strain are proportional.
+-   **Law**: Follows Hooke's Law.
+-   **Key Property**: If stress is removed, the material returns to its original shape.
+
+#### 2. **Toe Region** (Tendons/Ligaments only)
+
+-   **Behavior**: Non-linear increase in stress and strain due to the uncrimping of fibers.
+
+#### 3. **Plastic Region**
+
+-   **Proportional Limit**: Stress is no longer proportional to strain, but deformation is still recoverable.
+-   **Elastic Limit**: The end of recoverable deformation.
+-   **Yield Point**: The material begins to deform plastically and will not return to its original shape after stress is removed.
+
+------------------------------------------------------------------------
+
+## Material Toughness and Ductility
+
+-   **Toughness**: The area under the entire stress-strain curve. It represents the total energy absorbed before the material fractures.
+
+-   **Ductile Materials**: Exhibit a large plastic region before fracturing (e.g., metals).
+
+-   **Brittle Materials**: Show almost no plastic behavior; the yield point is very close to the fracture point (e.g., ceramics).
+
+------------------------------------------------------------------------
+
+### Ultimate Tensile Strength (UTS)
+
+-   **Definition**: The maximum stress a material can withstand before breaking.
+-   **Application**: Stainless steel plates have a high UTS and are more suitable for non-union fractures compared to titanium plates.
+
+------------------------------------------------------------------------
+
+## Other Key Material Properties
+
+### Fatigue Failure
+
+-   **Definition**: Failure due to repetitive stress below the ultimate tensile strength.
+-   **S-N Curve**: Represents the relationship between stress and the number of cycles to failure.
+
+| Component             | Endurance Limit             |
+|-----------------------|-----------------------------|
+| **Hip Replacements**  | Above endurance limit       |
+| **Knee Replacements** | Below or at endurance limit |
+
+------------------------------------------------------------------------
+
+### Additional Properties
+
+-   **Stiffness vs. Rigidity**: Stiffness is a material property, while rigidity refers to a structure's ability to resist deformation.
+
+-   **Notch Sensitivity**: A material's resistance to fracture when notched or irregular.
+
+    -   **Low Notch Sensitivity**: Ceramics.
+    -   **High Notch Sensitivity**: Ductile materials like steel and polyethylene.
+
+------------------------------------------------------------------------
+
+## Visco-Elastic Behavior
+
+Many living tissues exhibit **visco-elastic** behavior, meaning they have both elastic and viscous properties. This behavior is time-dependent:
+
+### Types of Visco-Elastic Behavior
+
+1.  **Creep**: Time-dependent deformation under a constant load (e.g., Ponsetti treatment).
+2.  **Stress Relaxation**: Time-dependent reduction in the stress required to maintain deformation (e.g., ACL graft cycling).
+3.  **Hysteresis**: The difference in the stress-strain curve during loading and unloading due to energy loss (heat).

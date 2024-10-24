@@ -1,0 +1,236 @@
+---
+title: "Joint lubrication"
+---
+
+# Joint Friction & Lubrication
+
+## Friction
+
+-   **Definition**: The resistance to sliding between two bodies in contact due to:
+    -   Adherence of surfaces to one another
+    -   Viscosity of the fluid between them
+
+### Three Laws of Friction:
+
+1.  Frictional force = coefficient of friction x applied load
+2.  Frictional force is independent of contact area and sliding speed
+3.  Kinetic friction is independent of sliding speed
+
+### Frictional Wear
+
+-   Frictional wear is proportional to sliding distance
+    -   F = xW
+    -   Frictional force is proportional to the applied load
+    -   x is the coefficient of friction of the two bearing surfaces
+-   In a rotational system like a hip, frictional torque is more appropriate:
+    -   **Frictional Torque** = Frictional force x Radius
+
+### Asperities
+
+-   **Asperities**: Projections that occur from any surface
+    -   More asperities = more roughness
+
+### Roughness
+
+-   Expressed as **mean surface roughness**, i.e., mean asperity height
+
+### Joint Contact Area
+
+-   The contact point between the asperities comprises less than 1% of the apparent contact area
+-   Asperities are compressed by contact
+    -   Asperity deformation is inversely proportional to load and hardness of the material
+    -   After prolonged contact, bonds form between the asperities
+    -   Greater energy is required to overcome static friction than to maintain motion (dynamic friction)
+
+### Mean Surface Roughness of Orthopaedic Materials
+
+| Material             | Mean Surface Roughness |
+|----------------------|------------------------|
+| Polished Exeter Stem | 0.01                   |
+| Ceramic Head         | 0.02                   |
+| Metal Head           | 0.025                  |
+| Polyethylene Cup     | 2.0                    |
+| Articular Cartilage  | 3.0                    |
+
+### Co-efficients of Friction of Articulations
+
+| Joint/Material        | Coefficient of Friction |
+|-----------------------|-------------------------|
+| Native Knee           | 0.005                   |
+| Native Hip            | 0.01                    |
+| Metal on Polyethylene | 0.02                    |
+| Metal on Metal        | 0.8                     |
+
+------------------------------------------------------------------------
+
+## Joint Lubrication
+
+### Synovial Fluid
+
+-   Dialysate of blood, devoid of red cells, clotting factors, or hemoglobin
+-   **Contents**:
+    1.  Plasma Proteins
+    2.  Lubricin
+    3.  Hyaluronic Acid
+    4.  Cells
+
+### Cells
+
+-   **Type A**: Important in phagocytosis
+-   **Type B**: Fibroblast-like, produce synovial fluid
+-   **Type C**: Intermediate, unclear role
+
+### Hyaluronic Acid
+
+-   Acts as an elastic solid during high impact due to tangled chains
+-   Responsible for non-newtonian fluid properties, behaving like a viscoelastic solid
+
+### Lubricin
+
+-   The key lubricating element in the fluid
+
+### Plasma Proteins
+
+-   Contain proteinases, collagenase, and prostaglandins (PGs)
+
+------------------------------------------------------------------------
+
+### Nutrition & Excretion
+
+-   **Nutrients** enter synovium via diffusion through synovial micro-vessels
+
+-   Plasma proteins diffuse out via lymphatics
+
+-   The process is passive diffusion through the micro-vascular endothelium
+
+-   Altered endothelial permeability (e.g., in rheumatoid arthritis) changes the balance of synovial fluid
+
+------------------------------------------------------------------------
+
+### Mechanics
+
+-   **Viscosity**: The internal friction of a fluid
+    -   Layers of fluid move against each other by shear forces
+
+### Newton’s Law of Viscosity:
+
+-   Viscosity = Shear stress / Shear rate
+
+------------------------------------------------------------------------
+
+### Non-Newtonian Properties
+
+-   Synovial fluid behaves in a non-newtonian fashion:
+    1.  **Thixotropy**: Time-dependent decrease in viscosity under constant shearing
+    2.  **Pseudo-plasticity**: Disproportionate change in viscosity with shear rate
+-   Caused by hyaluronic acid molecules aligning, a phenomenon called **Shear Thinning**
+
+------------------------------------------------------------------------
+
+### Types of Lubrication
+
+-   **Boundary Lubrication**: Surfaces separated by a molecular thickness lubricant
+-   **Fluid Film Lubrication**: The separating fluid film is thicker than the asperities of the surfaces
+
+#### Boundary Lubrication
+
+-   Occurs when fluid film lubrication is overcome (e.g., prolonged stance)
+-   **Lubricin** forms a gel-like hydrophobic layer
+
+#### Fluid Film Lubrication
+
+-   Desirable as it prevents asperity contact and wear
+-   Types of fluid film lubrication:
+    1.  Hydrodynamic
+    2.  Elastohydrodynamic
+    3.  Micro-elastohydrodynamic
+    4.  Weeping
+    5.  Squeeze film lubrication
+    6.  Boosted lubrication
+
+------------------------------------------------------------------------
+
+### Types of Fluid Film Lubrication
+
+#### Hydrodynamic
+
+-   Relies on surfaces not being perfectly parallel
+-   Generates a fluid wedge during sliding, holding surfaces apart
+
+#### Elastohydrodynamic
+
+-   Predominant type in native articular cartilage
+-   Deformation under load increases surface area, reducing shear rate and increasing viscosity
+
+#### Micro-Elastohydrodynamic
+
+-   Occurs under heavy loads, deforming cartilage asperities and improving lubrication
+
+#### Squeeze Film Lubrication
+
+-   Occurs when surfaces come into contact without sliding (e.g., heel strike)
+-   Viscous fluid builds pressure, maintaining a gap between surfaces
+
+#### Boosted Lubrication
+
+-   Water from synovial fluid is pressurized into the cartilage, leaving a hyaluronic-rich fluid
+
+#### Weeping Lubrication
+
+-   Compression of surfaces results in tears of lubricant fluid
+
+------------------------------------------------------------------------
+
+### Gait Cycle Phase and Lubrication
+
+| Gait Cycle Phase | Predominant Lubrication Type  |
+|------------------|-------------------------------|
+| Initial Contact  | Squeeze Film                  |
+| Stance           | Elastohydrodynamic            |
+| Lift Off         | Boundary & Elastohydrodynamic |
+| Swing            | Hydrodynamic                  |
+| Prolonged Stance | Boundary, Boosted             |
+
+------------------------------------------------------------------------
+
+### Lubrication in Prosthetic Joints
+
+-   In native joints, all types of lubrication occur, but fluid film dominates
+
+-   In prosthetic joints, boundary lubrication and some fluid film types occur (hydrodynamic, squeeze film)
+
+-   **MoP**: Boundary lubrication dominates
+
+-   **MoM & CoC**: Fluid film lubrication occurs due to increased radius
+
+#### Wettability
+
+-   Increased wettability = better lubrication
+-   **Ceramics** are highly wettable, improving lubrication and reducing friction
+
+#### Large Diameter Articulations
+
+-   True fluid film lubrication may occur with large diameter bearings (e.g., MoM or ceramic bearings)
+
+------------------------------------------------------------------------
+
+### Sommerfeld Number
+
+-   A unitless number expressing the relationship between fluid film thickness, lubricant, and forces
+
+### Lambda Ratio
+
+-   Defines whether fluid film or boundary lubrication predominates
+    -   3 = Pure fluid film
+    -   \<1 = Pure boundary lubrication
+    -   1-3 = Mixed lubrication
+
+------------------------------------------------------------------------
+
+### Factors Affecting Lubrication:
+
+1.  Type of load (low/high, sliding/static)
+2.  Bearing surfaces (roughness, coefficient of friction, size, shape)
+3.  Wettability (affinity for lubricating fluid)
+4.  Velocity of motion (shear rate)
+5.  Properties of the lubricant (viscosity, non-newtonian behavior)
