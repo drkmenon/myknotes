@@ -1,0 +1,165 @@
+---
+title: "Pharmacology"
+---
+
+#### Analgesics
+
+1.  **Opioids**
+
+    -   Mimic endogenous opioids by acting at opioid receptors in the CNS.
+    -   Act on mu receptors.
+    -   Work via G proteins to open potassium and calcium channels.
+    -   **Diamorphine**: More lipid-soluble than morphine, therefore faster acting.
+
+2.  **NSAIDs**
+
+    -   Inhibit prostaglandin production by acting on Cyclo-oxygenase enzyme (COX).
+    -   **COX 1** exists in normal tissues.
+    -   **COX 2** is present only at sites of inflammation.
+    -   **Unselective COX inhibition**: Results in inhibition of prostaglandin production where needed, such as in gastric mucosa.
+
+3.  **Paracetamol**
+
+    -   Weakly inhibits COX and prostaglandin formation.
+    -   Also has a central action.
+
+4.  **Local Anaesthetics**
+
+    -   Work by blocking sodium channels in neurons, preventing the formation of an action potential.
+    -   Very **pH-dependent**:
+        -   Increased action in alkaline environment.
+        -   Decreased action in acidic environment.
+    -   Block conduction in small myelinated fibers first, then unmyelinated, and large myelinated axons.
+    -   **A and C fibers** are blocked first.
+
+5.  **Glucocorticoids**
+
+    -   Anti-inflammatory and immunosuppressive effects.
+    -   Act on all parts of the inflammatory cascade.
+    -   Modify gene transcription, altering protein synthesis (e.g., inhibit transcription of the gene that codes for COX 2 synthesis).
+    -   Directly suppress macrophage function.
+    -   Impair lymphocyte transport.
+
+    **Side Effects**:
+
+    -   **I WAS HOPPING MAD**:
+        -   Infection, Wasting and proximal myopathy, Adrenal insufficiency, Sugar disturbance, Hypotension, Osteoporosis, Peptic ulceration, Pancreatitis, Necrosis, Glaucoma, Madness (psychiatric disturbances).
+
+------------------------------------------------------------------------
+
+#### Anticoagulants
+
+**Clotting Cascade**
+
+1.  **Intrinsic Pathway**
+    -   Activated by exposure of collagen from damaged blood vessels to Factor 12.
+    -   Measured using APTT (Activated Partial Thromboplastin Time).
+2.  **Extrinsic Pathway**
+    -   Activated by the release of thromboplastin by cell damage.
+    -   Measured by Prothrombin Time (PT).
+3.  **Common Pathway**
+    -   Both pathways coalesce at the **common pathway** where **Factor 10** is involved.
+    -   **Factor 10** becomes **Factor 10a**, converting **Prothrombin (Factor 2)** to **Thrombin**.
+    -   Thrombin converts **Fibrinogen (Factor 1)** to **Fibrin**, forming a lattice to entrap platelets and produce a clot.
+
+------------------------------------------------------------------------
+
+**Drugs Affecting Clotting**
+
+1.  **Warfarin**
+
+    -   Similar in structure to vitamin K, which it antagonizes.
+    -   Inhibits vitamin K-dependent clotting factors by preventing carboxylation of glutamine residues.
+    -   Prevents factors from binding calcium, rendering them useless in the clotting cascade.
+    -   Factors affected: 2, 7, 9, 10, and Proteins C and S.
+    -   Long half-life (40 hours).
+    -   Takes 24-48 hours to work, as new clotting factors must replace old ones.
+    -   Metabolized in the liver, so liver disease is a contraindication.
+    -   Reversed by giving vitamin K, which forms more normal clotting factors.
+
+2.  **Heparin**
+
+    -   Naturally occurring glycosaminoglycan.
+    -   Short acting, with a half-life of 4-6 hours.
+    -   Requires close monitoring with APTT.
+    -   Forms a complex with **Antithrombin 3**, which inactivates thrombin, preventing fibrinogen conversion to fibrin.
+    -   Also affects Factor 10a.
+    -   Reversed with **Protamine**.
+
+3.  **LMWH (Low Molecular Weight Heparin)**
+
+    -   Forms a complex with Antithrombin 3, selectively inhibiting Factor 10a only.
+    -   Longer half-life; requires only once-daily dosing.
+
+    **Side Effects**:
+
+    -   Bleeding (more common with pure heparin).
+    -   Heparin-induced thrombocytopenia.
+    -   Osteoporosis with long-term use.
+
+4.  **Fondaparinaux**
+
+    -   Synthetic pentasaccharide.
+    -   Selectively inhibits Factor 10a.
+    -   Shown to work better than LMWH in some trials.
+
+5.  **Rivaroxiban**
+
+    -   Direct action on Factor 10a.
+    -   No effect on platelets or thrombin directly.
+    -   Good oral bioavailability but expensive.
+
+6.  **Dabigatran**
+
+    -   Direct thrombin inhibitor.
+    -   No reversibility in the event of major bleeding.
+    -   Good oral bioavailability.
+
+7.  **Aspirin**
+
+    -   Binds with COX 1, inhibiting prostaglandin production.
+    -   Prevents platelet aggregation by inhibiting thromboxane A2 (a prothrombotic agent secreted by platelets).
+    -   Acts as an anticoagulant.
+
+------------------------------------------------------------------------
+
+#### Drugs Acting on Bone Metabolism
+
+1.  **Bone Remodeling Process**
+    -   **Cytokines (IL6)** recruit osteoclasts.
+    -   Osteoclasts secrete hydrogen ions and proteolytic enzymes that dig pits in trabecular bone.
+    -   Bone factors such as **Insulin Growth Factor 1 (IGF-1)** recruit osteoblasts to these pits.
+    -   Osteoblasts, primed by **PTH** and **1,25 Vit D**, secrete osteoid into the pits along with IGF-1 and release IL-6.
+    -   Osteoid is mineralized by **calcium hydroxyapatite**.
+    -   **IL6** released by osteoblasts recruits osteoclasts, restarting the cycle.
+
+------------------------------------------------------------------------
+
+**Drugs Affecting Bone Metabolism**
+
+1.  **Bisphosphonates**
+    -   Comprised of a PCP backbone, resistant to phosphatases.
+    -   No enzyme can metabolize bisphosphonates, so they remain in the bone until completely resorbed.
+    -   **Types**:
+        -   **Nitrogen-containing**: Act by inhibiting the mevalonate pathway (e.g., Etidronate, Clodronate).
+        -   **Non-nitrogen-containing**: Create a toxic ATP analogue (e.g., Zoledronate, Alendronate, Pamidronate).
+    -   **Modes of Action**:
+        -   Inhibit osteoclasts directly, preventing ruffled border formation and causing apoptosis.
+        -   Stabilize hydroxyapatite crystals.
+    -   Useful for bone pain due to increased turnover (e.g., Paget's disease or osteogenesis imperfecta).
+2.  **Strontium**
+    -   Similar in composition to calcium but not subject to bone metabolism.
+    -   Has both anabolic (increases bone formation) and catabolic (decreases bone resorption) effects.
+
+------------------------------------------------------------------------
+
+#### Anti-Rheumatoid Drugs
+
+1.  **Non-Disease Modifying**
+    -   **Steroids**.
+    -   **Cyclophosphamide**.
+2.  **Disease Modifying (DMARDs)**
+    -   **Methotrexate**, **Azathioprine** (Purine metabolism inhibitors).
+    -   **TNF Inhibitors**:
+        -   **Etanercept**, **Infliximab** (All drugs ending in ‘mab’ are TNF inhibitors).
+    -   **Penicillamine**: Reduces T lymphocytes.

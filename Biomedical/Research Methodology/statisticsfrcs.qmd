@@ -1,0 +1,147 @@
+---
+title: "Statistics for FRCS"
+---
+
+#### **Types of Data**
+
+1.  **Continuous Variables (Ratio, Integer Data)**
+    -   Example: Age, Distance, or Hours Spent Revising
+    -   Characteristics:
+        -   Zero is the origin and values are independent of units.
+        -   Tend to be quantitative.
+        -   May or may not be parametric in distribution.
+2.  **Categorical Variables (Nominal, Ordinal Data)**
+    -   Example: Race, Gender, Category in a Classification System
+    -   Characteristics:
+        -   Typically non-numerical variables.
+        -   Tend to be qualitative.
+        -   Are non-parametric.
+
+#### **Distribution of Data**
+
+1.  **Parametric Data**
+    -   Normally distributed, forming a Gaussian bell-shaped curve.
+    -   Mode, mean, and median are the same.
+2.  **Non-Parametric Data**
+    -   Most data are skewed.
+    -   The median or mode is used to assess central tendency, not the mean.
+
+#### **Measures of Spread/Variability**
+
+1.  **Interquartile Range**
+    -   Describes deviation or spread from the mean, grouping data into quarters (25%).
+2.  **Standard Deviation (SD)**
+    -   Describes deviation of individual values from the mean.
+    -   Used in normal distribution:
+        -   68% of values within 1 SD, 95% within 2 SDs, 99% within 3 SDs.
+3.  **Variance**
+    -   SD squared, representing spread from the mean when the mean is the central tendency.
+4.  **Confidence Interval**
+    -   Describes measurement accuracy, typically a 95% confidence interval.
+    -   A small confidence interval means all values are close to central tendency (mean, mode, or median).
+
+------------------------------------------------------------------------
+
+### **P-Values, Errors, and Power Analysis**
+
+#### **Null Hypothesis**
+
+-   Assumes that an observed difference occurred by chance. Studies aim to reject the null hypothesis to prove observed differences.
+
+#### **P-Value**
+
+-   Probability that the difference was not due to chance. Usually set to less than 5% (0.05).
+
+#### **Bonferroni Adjustment**
+
+-   Used when multiple variables are tested. It reduces the P-value and the chance of Type 1 errors.
+
+#### **Types of Errors**
+
+1.  **Type 1 (Alpha) Error**
+    -   False positives: Rejecting the null hypothesis when it is actually true.
+    -   Can be reduced by lowering the P-value but increases the risk of Type 2 errors.
+2.  **Type 2 (Beta) Error**
+    -   False negatives: Accepting the null hypothesis when it is actually false.
+    -   Common in orthopedics and can be minimized by increasing the sample size.
+
+------------------------------------------------------------------------
+
+### **Study Power and Power Analysis**
+
+-   **Study Power** is 1 minus the Type 2 error rate, usually 0.8 (80%).
+-   **Power Analysis** can be performed prior to the study to determine the required sample size or post hoc to validate the significance of findings.
+
+------------------------------------------------------------------------
+
+### **Study Design**
+
+1.  **Retrospective, Prospective, Cross-Sectional, or Longitudinal**:
+    -   **Cross-sectional**: Examines a group at one time point.
+    -   **Longitudinal**: Follows patients over time.
+2.  **Observational vs. Experimental**:
+    -   **Observational**: No alteration made, only observation.
+    -   **Experimental**: A maneuver is applied, followed by analysis.
+
+------------------------------------------------------------------------
+
+### **Study Types and Hierarchy**
+
+1.  **Level 1**
+    -   Randomized Controlled Trials (RCT), Meta-analyses of RCTs, Systematic Reviews of Level 1 studies.
+2.  **Level 2**
+    -   Poor quality RCTs (No blinding, \<80% follow-up), Meta-analyses of non-RCT studies, etc.
+3.  **Level 3**
+    -   Retrospective comparative studies, case control studies with historical controls.
+4.  **Level 4**
+    -   Case series (no control group).
+5.  **Level 5**
+    -   Expert opinion.
+
+------------------------------------------------------------------------
+
+### **Tests to Analyze Data**
+
+#### **Parametric Tests**
+
+1.  **Unpaired Student T-Test**: Compares the mean between two independent, normally distributed groups.
+2.  **ANOVA (Analysis of One-Way Variance)**: Used when multiple observations are made or categories are tested.
+
+#### **Non-Parametric Tests**
+
+1.  **Chi-Squared**: Analyzes differences between two groups of categorical variables.
+2.  **Mann-Whitney U**: Non-parametric test for discrete data like gender.
+3.  **Fisher's Exact Test**: Used when sample size is small (n \< 5).
+
+------------------------------------------------------------------------
+
+### **Epidemiologic Tests**
+
+1.  **Screening**: Testing a large population for a disease of low prevalence. WHO Criteria for screening include the importance of the disease, known incidence, and treatment availability.
+
+2.  **Incidence**: Number of new diagnoses in a defined population.
+
+3.  **Prevalence**: Number of people with a condition at a given time (snapshot).
+
+#### **Sensitivity and Specificity**
+
+1.  **Sensitivity**: Percentage of true positives (TP / TP + FN).
+2.  **Specificity**: Percentage of true negatives (TN / TN + FP).
+
+------------------------------------------------------------------------
+
+### **Correlation Tests**
+
+-   **Pearson’s Correlation**: For parametric data.
+-   **Spearman’s Rank Correlation**: For non-parametric data.
+
+------------------------------------------------------------------------
+
+### **Survival Analysis**
+
+1.  **Actuarial Method**: Survival calculated at set times (e.g., annually).
+2.  **Kaplan-Meier Method**: Survival recalculated each time there is a failure.
+
+#### **Survivorship Analysis for Joints**
+
+-   Based on the total number of joints followed, failures, and censored patients.
