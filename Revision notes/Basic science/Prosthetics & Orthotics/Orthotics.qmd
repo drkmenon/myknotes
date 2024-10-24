@@ -1,0 +1,147 @@
+---
+title: "Orthotics"
+---
+
+### Definition
+
+An orthosis is a device that applies externally to a body segment and improves function by supporting, correcting, or compensating for deformity or weakness.
+
+------------------------------------------------------------------------
+
+### Ideal Characteristics of an Orthotic
+
+-   Ease of use
+-   Light weight
+-   Cosmetic appeal
+-   Cost-effective
+-   Durable
+-   Washable
+-   Comfortable
+-   Free of pressure areas
+
+------------------------------------------------------------------------
+
+### Functional Characteristics of Orthotics
+
+1.  **3 Point Pressure**: Provides a force that can correct or support a deformity.
+2.  **End Point Control**: Limits motion at the end range of a joint.
+3.  **Total Contact**: Ensures full contact with the body to distribute forces evenly.
+4.  **Kinaesthetic Reminder**: Serves as a reminder to the patient about the position and movement of their body.
+
+------------------------------------------------------------------------
+
+### Examples of Orthotics
+
+-   **Provide Support**:
+    -   TLSO for an osteoporotic spine.
+-   **Limit Motion**:
+    -   KO (Knee Orthosis) to prevent knee hyperextension.
+-   **Correct Deformity**:
+    -   Ponseti boots and bars for clubfoot correction.
+-   **Combination**:
+    -   KAFO (Knee Ankle Foot Orthosis) in polio rehabilitation.
+
+------------------------------------------------------------------------
+
+### Biomechanics of Orthoses
+
+Orthoses influence moments and forces around a joint in four ways:
+
+1.  **Control of Bending Moments**:
+    -   The most common reason for prescription.
+    -   Limits motion in a certain plane using 3-point pressure.
+    -   Allows movement in other planes (e.g., KO for MCL injury).
+2.  **Control of Translation**:
+    -   Limits shear force causing translation (e.g., KO in PCL rupture prevents transverse plane translation).
+    -   Requires 4-point contact.
+3.  **Control of Axial Force**:
+    -   Works by sharing the load with the joint, beneficial for painful joints.
+4.  **Control of Line of Ground Reaction Force (GRF)**:
+    -   Alters the line of GRF, influencing the force across the joint indirectly.
+    -   Example: A lateral heel wedge moves load laterally and offloads the painful medial compartment.
+
+------------------------------------------------------------------------
+
+### Materials Used in Orthotics
+
+-   **Traditional Materials**: Metals, leather, and rubber.
+
+-   **Common Materials**: Plastics, categorized as follows:
+
+    **Thermosetting Plastics**:
+
+    -   Rigid after heating; do not return to their original shape.
+    -   Commonly used in prosthetics for increased rigidity.
+
+    **Thermoforming Plastics**:
+
+    -   Can be reshaped upon reheating.
+    -   Vary in the temperature needed for reshaping.
+    -   High-temperature thermoplastics are used for AFOs; low-temperature types can be molded directly onto the patient with a hair dryer.
+
+    **Polyurethane Foam**:
+
+    -   Poured into a mold and allowed to harden.
+    -   Can be molded directly onto patients.
+    -   Examples include neoprene braces, cushions, and corsets.
+
+------------------------------------------------------------------------
+
+### Commonly Used Orthoses
+
+#### Foot Orthoses
+
+-   **Insoles**:
+    -   **Simple**: Off-the-shelf with little biomechanical value.
+    -   **Total Contact**: Thermoplastic molds to match the patient; most common type.
+    -   **Functional**: Corrects deformity; the foot is held in a corrected position during molding (e.g., UCBL for flexible deformities).
+    -   Types:
+        -   **Rigid**: Limits movement and corrects deformity.
+        -   **Semi-rigid**: Limits movement in a certain plane (e.g., ankle brace).
+        -   **Soft**: Provides a shock-absorbing role to ease pressure areas.
+
+#### Shoe Alterations
+
+-   Can be made internally or externally to the sole and/or heel.
+-   **UCBL Insert**: Corrects valgus hindfoot and pronation; useful for tibialis posterior insufficiency.
+-   **Heel Raises**: Corrects leg length discrepancy or equinus contracture.
+-   **Rocker Bottom**: Convex structure that moves the roll-over point from MT head to MT shaft; offloads distally, helpful for ulcer healing.
+-   **Metatarsal Bar**: Flat bar posterior to MT head that offloads MT heads.
+-   **Heel Wedges**: Promote supination or pronation by correcting hindfoot alignment (e.g., medial wedge corrects valgus and pronation).
+-   **Arch Supports**: Support medial arch and promote supination and heel varus.
+
+#### Custom-Made Shoes
+
+-   **Accommodative**: For fixed deformities (e.g., Hallux valgus).
+-   **Corrective**: For supple deformities (e.g., CTEV).
+
+#### Ankle Foot Orthoses
+
+-   Position of the ankle directly affects knee position during gait and reduces energy consumption in conditions like polio and CP.
+-   Types:
+    -   **Posterior Leaf Spring**: Compensates for weak dorsiflexors; prevents excessive plantarflexion, no medio-lateral support.
+    -   **Ground Reaction AFO (GRAFO)**: Wraps around the shin to prevent knee hyperextension by utilizing GRF.
+    -   **Dynamic AFO (DAFO)**: Provides extensive support over most of the foot; effective in CP.
+    -   **Metal-Plastic AFO**: Attaches to shoe or foot with ankle hinge, stops, and springs; controls motion in all directions but is bulky.
+
+#### Knee Ankle Foot Orthoses
+
+-   Extension of AFO with bars and a thigh band plus a mechanical knee joint.
+-   Prevents knee instability; useful for individuals with paraplegia.
+
+#### Patella Tendon Bearing Orthoses
+
+-   Reduces weight bearing below the knee, used in fracture healing, ulcer treatment, and neuropathic joints & prosthetic sockets for BKA.
+
+#### Hydrostatic Orthoses
+
+-   E.g., Sarmiento humeral brace, which uses soft tissue circumferential pressure to create hydrostatic force, preventing fracture motion.
+
+------------------------------------------------------------------------
+
+### Complications of Orthoses
+
+-   **Psychosocial or Physical Complications**:
+    -   **Compression Phenomena**: May cause pain, neuropathy, or venous congestion.
+    -   **Heat and Skin Problems**: Can lead to maceration of the skin and secondary infections.
+    -   **Dependence**: Reliance on a prosthesis even when it may not provide biomechanical benefits.

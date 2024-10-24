@@ -1,0 +1,146 @@
+---
+title: "Genetics"
+---
+
+**Chromosome Structure and Function**
+
+-   Chromosomes are located within each cell’s nucleus.
+-   Total of 46 chromosomes: 22 pairs & 2 sex chromosomes.
+-   Composed of:
+    -   DNA
+    -   RNA
+    -   Polysaccharides and proteins
+-   Made up of 2 arms (P and Q).
+-   Arms separated by a constriction called a centromere.
+
+| Gender | Sex Chromosomes |
+|--------|-----------------|
+| Male   | XY              |
+| Female | XX              |
+
+-   During meiosis (cell division that forms sex chromosomes):
+    -   Male gives either an X or Y chromosome.
+    -   Female can only give an X chromosome.
+
+------------------------------------------------------------------------
+
+**Cell Cycle**
+
+The cell cycle is relevant to non-sex cells (i.e., those that don’t contain sex chromosomes).
+
+| Phase | Features |
+|---------------|---------------------------------------------------------|
+| Interphase | Encompasses the whole cycle except Mitosis. G1, S, and G2 are part of it. |
+| G0 | When a cell has left the cell cycle (not dividing). Neurons are permanently in G0. |
+| G1 | Growth phase controlled by the p53 gene. Cells increase in size and prepare for synthesis. |
+| S | DNA synthetic phase. Chromosomes divide into chromatids, still contained in one nucleus. |
+| G2 | Growth phase 2. Cell grows post-synthesis, readying for mitosis. |
+| M | Mitosis – cell division (not part of interphase). Chromatids are separated into different nuclei. Cell divides (cytokinesis). This is the shortest phase. |
+
+------------------------------------------------------------------------
+
+**DNA - Deoxyribonucleic Acid**
+
+-   A gene is a sequence of DNA arranged in a particular order.
+-   Around 10,000 genes make up a human genome.
+-   DNA is composed of:
+    -   Nitrogenous bases
+    -   Phosphate group
+    -   Sugar
+-   The base is the most important part as it contains the genetic information.
+
+| Bases       | Types                |
+|-------------|----------------------|
+| Pyrimadines | Thymine and Cytosine |
+| Purines     | Adenine and Guanine  |
+
+-   Adenine is always bonded to Thymine and Guanine to Cytosine.
+-   DNA is arranged as a double helix.
+-   Hydrogen bonds between bases hold the chains together.
+-   Mitosis is the process whereby cells grow and divide.
+
+------------------------------------------------------------------------
+
+**Genes**
+
+-   Made up of DNA sequences.
+-   They code for protein synthesis by transcription (templating of the DNA).
+-   The DNA template leaves the nucleus as messenger RNA (mRNA).
+-   In the cytoplasm, mRNA combines with other RNA molecules to form proteins on ribosomes (translation).
+-   Translating the DNA template into a protein.
+-   Genotype is the inherited genetic code that produces the phenotype (the physical appearance of the individual).
+
+------------------------------------------------------------------------
+
+**Chromosomal Abnormalities**
+
+-   Due to duplication or absence of a whole chromosome or a structural problem with one specific chromosome.
+
+| Type | Description | Examples |
+|------------|------------------------------------------------|------------|
+| Monosomy | Loss of one whole chromosome. Survival only possible if the lost chromosome is a sex chromosome (X). Not possible if a non-sex chromosome (autosome) is lost. Patient is termed XO, hence can only be female. | Turner’s Syndrome |
+| Trisomy | Addition of a whole chromosome. Most common is Trisomy 21 (Down syndrome). | Orthopaedic manifestations: Atlanto-axial instability, Increased SUFE risk, Hyper-laxity especially of patella. |
+| Structural | May be point mutations, deletion of a large part of a chromosome, or inversion (flipping of a part of the chromosome). All cause incorrect DNA coding & altered expression in the phenotype. Autosomes or sex chromosomes may be affected. |  |
+
+-   **Penetrance:** The degree to which a genotype is expressed in the phenotype. It may be variable (e.g., in Marfan syndrome) and may be incomplete, meaning the genotype is not expressed at all in the phenotype.
+
+------------------------------------------------------------------------
+
+**Alleles**
+
+-   A pair of genes at the same point on the paternal and maternal contribution of the chromosome; therefore, they come as a pair.
+-   When combined, they produce a particular trait.
+-   If the alleles are the same, the trait the gene expresses is homozygous.
+-   If the alleles are different (i.e., a difference between maternal and paternal contributions), the overall trait expressed is heterozygous.
+
+------------------------------------------------------------------------
+
+**Autosomal Dominant Inheritance**
+
+-   The gene problem is on the autosomes, not the sex chromosomes; therefore, both males and females can get the disease.
+-   **Dominance:** The abnormal allele dominates, allowing the abnormality to be expressed.
+-   There is a 50% chance of inheritance if one parent is heterozygous for the disease and the other is normal because the trait is dominant.
+-   Individuals who are homozygous for the disease are usually so severely affected that they don't survive.
+
+| Examples                 |
+|--------------------------|
+| Neurofibromatosis type 1 |
+| Osteogenesis Imperfecta  |
+| Achondroplasia           |
+
+------------------------------------------------------------------------
+
+**Autosomal Recessive Inheritance**
+
+-   Because the allele is recessive, it cannot dominate a normal allele.
+-   Therefore, if a person has the disease, they must be homozygous for the condition (i.e., both alleles are abnormal).
+-   Those who are heterozygous are carriers but don't express the phenotype themselves.
+-   There is a 25% chance that two parent carriers will produce an affected individual.
+
+| Examples              |
+|-----------------------|
+| Sickle cell disease   |
+| Mucopolysaccharidoses |
+
+------------------------------------------------------------------------
+
+**X-Linked Inheritance**
+
+-   The Y chromosome has very little genetic information, so it does not contribute to disease.
+-   Men always contribute the Y chromosome to their sons.
+-   Girls are XX, so there is a contribution from both Mum and Dad.
+-   X-linked conditions may be dominant or recessive.
+
+| Condition Type | Description |
+|----------------------------------------|--------------------------------|
+| Recessive | Only expressed in girls (Mum and Dad must both be carriers). 50% of boys may have the disease because their X chromosome always comes from Mum (who has 2 X chromosomes). The disease is expressed in boys despite being recessive. |
+| Dominant | Rare conditions where the abnormal gene is dominant, expressed in those who would have been carriers only. Boys are affected similarly to recessive conditions. Girls who would have been carriers are now affected. |
+
+| Examples                    |
+|-----------------------------|
+| Duchenne Muscular Dystrophy |
+| Hemophilia A                |
+
+| X-Linked Dominant Condition |
+|-----------------------------|
+| Hypophosphataemic Rickets   |

@@ -1,0 +1,304 @@
+---
+title: "Prosthetics"
+---
+
+**Definition**
+
+-   Prosthesis is a device designed to replace the function and appearance of a body part as much as possible.
+-   Successful prosthetic use depends on patient and prosthesis factors.
+
+------------------------------------------------------------------------
+
+### Patient Factors
+
+-   **Pre-morbid activity level**
+-   **State of contra-lateral limb**
+-   **Degree of trunk control and upper limb strength**
+-   **Static and dynamic balance**
+-   **Motivation to learn new skills**
+-   **Other co-morbidities**
+
+### Prosthetic Factors
+
+-   **Ease of use**
+-   **Aesthetic appearance**
+-   **Durability and reliability**
+-   **Comfort**
+
+------------------------------------------------------------------------
+
+### Upper Limb
+
+-   Limb salvage is preferable, as a partially sensate limb is more functional than an insensate prosthesis.
+
+------------------------------------------------------------------------
+
+**Amputations**
+
+### Pre-op Assessment of Achieving a Successful Wound
+
+#### Nutrition
+
+-   Poor indicators include:
+    -   Albumin \< 3.5 g/dL
+    -   Total lymphocyte count \< 1500
+    -   Serum transferrin decreased
+
+#### Vascularity
+
+-   **ABPI**: \> 0.45
+-   **Transcutaneous Oxygen tension**: \> 40 is a positive predictor (\< 20 negative)
+
+#### Techniques
+
+-   **Myoplastic**: Suture of muscles to each other.
+-   **Myodesis**:
+    -   Preferred option.
+    -   Suture of muscle to the bone directly (periosteum or drill holes).
+    -   Better fixation and muscle power.
+    -   Prevents contracture formation.
+
+#### General Technical Points
+
+1.  Nerves sectioned cleanly under tension to prevent neuroma formation.
+2.  Bone ends beveled and smooth.
+3.  Avoid non-absorbable sutures except for skin.
+4.  Scar away from bony edges and well healed before fitting.
+5.  Stump shape should be conical or cylindrical.
+6.  Avoid excessive soft tissue distal to the bone.
+
+------------------------------------------------------------------------
+
+### Prosthetic Fitting
+
+-   Should be done when wounds have healed, scar is mature, and edema and neuropathy controlled.
+-   Excessive delay can also affect the outcome.
+-   Skin desensitization programs are useful before fitting.
+-   Early fitting (\<30 days) has a better outcome in the upper limb but must be balanced against having a stable wound.
+
+------------------------------------------------------------------------
+
+### Optimal Levels of Common Amputations
+
+| Type | Optimum | Shortest | Longest |
+|----------------|-----------------|----------------|-----------------------|
+| **Forearm (trans radial)** | Junction of proximal 2/3 and distal 1/3 forearm | 3 cm below biceps insertion | 5 cm above wrist to allow space for rotary prosthesis |
+| **Humerus (trans humeral)** | Middle 1/3 arm | 4 cm below axillary fold | 10 cm above olecranon to allow space for elbow prosthesis |
+| **Trans Femoral** | Middle 1/3 thigh | 8 cm below pubic ramus | 15 cm above knee joint to allow space for knee mechanism |
+| **Trans Tibial** | 8 cm per 1 meter of height | 8 cm below knee joint | At any level, a myoplasty can be performed for cosmesis |
+
+------------------------------------------------------------------------
+
+### Disarticulation Amputations
+
+#### Advantages
+
+-   Amputation retains the weight-bearing surface.
+-   End-bearing stump may be harder wearing.
+-   Bulbous shape assists suspension of the prosthesis.
+
+#### Disadvantages
+
+-   May compromise the choice of prosthetic available.
+-   Prosthesis may appear bulky due to the bulbous shape of the stump.
+
+------------------------------------------------------------------------
+
+### Classification of Prosthesis
+
+| Category                | Description                             |
+|-------------------------|-----------------------------------------|
+| **Level of amputation** | Trans femoral, transradial, etc.        |
+| **Structure**           | Endo-skeletal (modular) or Exo-skeletal |
+| **Function**            | Cosmetic or functional                  |
+
+------------------------------------------------------------------------
+
+### Common Elements of Prostheses
+
+| Element | Description |
+|-----------------|-------------------------------------------------------|
+| **Socket/Interface** | The connection between the prosthesis and residual limb, manufactured using computers or plaster mould. |
+| **Suspension mechanism** | Attaches prosthesis to the residual limb. Can be a standard suction cup or elastomeric suction for an airtight seal. |
+| **Struts/Pylons** | Restore limb length and connect socket to terminal device. |
+| **Articulating Joints** | If needed, replace joint function. |
+| **Terminal Device** | The most distal part of the prosthesis; either passive (better cosmesis) or active (more function). Active devices can be controlled by cables, struts, etc. or may be myoelectric, relying on action potentials from muscles. |
+| **Active Devices** | Can be voluntary opening (closed at rest) or voluntary closing (open at rest). |
+
+------------------------------------------------------------------------
+
+### Upper Limb Prostheses
+
+Upper limb prostheses aim to restore the 5 types of grip:
+
+1.  **End Pinch**: Thumb against index finger.
+2.  **Chuck Pinch (tripod)**: Thumb against index and middle finger.
+3.  **Lateral Pinch**: Thumb against lateral aspect of the index finger.
+4.  **Hook Power Grip**: E.g., carrying a suitcase.
+5.  **Spherical Grip**: Turning a doorknob or light bulb.
+
+------------------------------------------------------------------------
+
+### Common Prostheses
+
+#### Prosthetic Feet
+
+The terminal device for all lower limb prostheses - 5 types:
+
+1.  **Single Axis Foot**
+2.  **SACH Foot**
+3.  **Dynamic Response Foot**
+    -   Articulated
+    -   Non-articulated
+
+#### Single Axis Foot (non-energy storing)
+
+-   Simple hinge allowing dorsiflexion/plantar flexion of the ankle.
+-   Poor durability and cosmesis.
+
+#### SACH Foot (Solid Ankle Cushioned Heel)
+
+-   Non-energy conserving.
+-   Was standard for a long time but now going out of vogue.
+-   For low-demand patients and causes overloading on the other foot.
+
+#### Dynamic Response Foot (energy storing)
+
+-   Allows more normal activity and tailored to patients' needs.
+-   Energy conserving.
+-   Split into:
+    -   **Articulated Dynamic Response Foot**: Best for general use; has a keel that deforms with loading and recoils to give a spring-like push-off; allows for inversion and eversion.
+    -   **Non-Articulated Dynamic Response Foot**: High-demand prosthesis for running, etc.
+
+------------------------------------------------------------------------
+
+### Trans-Tibial Prostheses
+
+**Components**: - **Socket**: Traditionally patellar tendon bearing; now more often total contact or total surface bearing, distributing load more evenly over the residual limb. - **Suspension**: Different methods including suction, usually from the supracondylar area. - **Articulating Joint**: Ankle may be articulating or fixed in one position; terminal device as above for feet.
+
+------------------------------------------------------------------------
+
+### Trans Femoral
+
+**Socket**: - Shape is the key factor. - **Plug Fit**: Conventional socket onto end of stump. - **Ischial Tuberosity Bearing**: Q and H sockets (traditional); failed to prevent abduction. - **Ischial Ramal Socket (ischial containment)**: Attaches to ischial tuberosity, greater trochanter, and inferior pubic ramus; modern socket that aims to keep hip adducted and provide tension in the gluteus medius, aiding stance.
+
+**Suspension**: Various devices attaching to pelvis or residual stump.
+
+**Terminal Device**: Foot as above.
+
+**Articulating Joint**: The knee; needs to restore knee motion during gait to allow stance and swing. A combination of pneumatic devices, hydraulic devices, microprocessors, and locks/gravity assistance.
+
+------------------------------------------------------------------------
+
+### Types of Knee Articulation
+
+| Type | Description |
+|----------------|--------------------------------------------------------|
+| **Polycentric (4 bar linkage)** | Moves COR allowing more flexion for sitting; good for transfemoral, bilateral, and knee disarticulations. |
+| **Hydraulic/Pneumatic Knee** | Heavier but provides a more fluid gait; alters knee flexion resistance during the gait cycle; good for younger, more demanding patients. |
+| **Constant Friction Knee** | A hinge with a screw or rubber pad that dampens flexion; common in children but gives poor stance control; relies on knee COR alignment for stability. |
+| **Variable Friction (cadence control) Knee** | Has staggered pads; allows varied friction and varied walking speed; poor durability. |
+| **Stance Phase Control (safety knee)** | Knee freezes to provide stability in stance by high friction; good for older patients or heavier patients. |
+| **Manual Locking Knee** | Allows locking in extension to aid stance; used for very weak, unstable patients. |
+
+------------------------------------------------------------------------
+
+### Knee and Ankle Disarticulations
+
+-   Socket needs to accommodate the bulbous nature of the stump.
+-   Sockets may be differential:
+    -   Two-part with a changeable plaster molded insert.
+    -   Windowed (window cut out of socket to accommodate stump).
+
+------------------------------------------------------------------------
+
+### Hip Disarticulations and Trans Pelvic Amputations
+
+-   These prostheses are bulky.
+-   **Hip Disarticulation**: Can rely on the ischial tuberosity for socket support.
+-   **Trans Pelvic**: Contralateral ischial tuberosity is required for support.
+-   Knee articulation can be 4 bar, allowing it to fold anteriorly to allow the patient to sit.
+
+------------------------------------------------------------------------
+
+### Trans Humeral and Elbow Disarticulations
+
+-   **Munster Socket**: Supracondylar suspension.
+-   Function is
+
+achieved with voluntary opening and closing devices. - Loss of elbow function and shoulder complexity necessitates a thorough analysis of the residual limb and contra-lateral limb function to decide the best method for socket fabrication.
+
+## **Proximal Transhumeral or Shoulder Disarticulations**
+
+### Overview
+
+-   Functionality is very poor due to the nature of the amputation.
+-   A prosthetic universal shoulder joint is typically used and is controlled with the opposite hand.
+
+------------------------------------------------------------------------
+
+### Complications of Prostheses
+
+#### Psychosocial and Physical Complications
+
+1.  **Infection**
+    -   Can lead to abscesses or sinuses.
+    -   May require drainage or stump revision.
+2.  **Neuroma**
+    -   Can occur even with good surgical technique.
+    -   Requires excision if symptomatic.
+3.  **Dermatologic Issues**
+    -   Skin problems can develop over the stump.
+4.  **Phantom Sensation**
+    -   Patients may feel that the limb is still present.
+5.  **Phantom Pain**
+    -   Neuropathic pain that originates from the amputated limb.
+    -   Usually temporary and occurs early after amputation.
+6.  **Choke Syndrome**
+    -   Caused by venous congestion, leading to chronic venous changes in the stump.
+    -   Improved with total contact prostheses, which eliminate dead spaces.
+7.  **Pistoning in Transtibial Sockets**
+    -   During stance: due to poor suspension method.
+    -   During swing: due to poor socket fit, stump size reduction, and loosening.
+
+------------------------------------------------------------------------
+
+### Energy Consumption by Amputation Level
+
+| Amputation Type        | Energy Consumption (%) |
+|------------------------|------------------------|
+| Long Trans Tibial      | 10%                    |
+| Trans Tibial           | 25%                    |
+| Bilateral Trans Tibial | 30%                    |
+| Short Trans Tibial     | 40%                    |
+| Trans Femoral          | 65%                    |
+| Hip Disarticulation    | 100%                   |
+| Bilateral Transfemoral | 200%                   |
+
+-   Note: Longer stumps generally result in reduced energy consumption, while shorter stumps lead to increased energy needs.
+
+------------------------------------------------------------------------
+
+### Transfemoral Prosthetic Gait Abnormalities
+
+| Gait Abnormality             | Prosthetic Problem                         |
+|-------------------------|------------------------------------------------|
+| Lateral trunk bending        | Short prosthesis, weak abductors, poor fit |
+| Abducted gait                | Poor socket fit medially                   |
+| Circumducted gait            | Prosthesis too long, excess knee friction  |
+| Vaulted gait                 | Prosthesis too long, poor suspension       |
+| Foot rotation at heel-strike | Heel too stiff, loose socket               |
+| Short stance phase           | Painful stump, knee too loose              |
+| Knee instability             | Knee too anterior, foot too stiff          |
+| Medio-lateral whip           | Excessive knee rotation, tight socket      |
+| Terminal snap                | Quadriceps weakness, insecure patient      |
+| Foot slap                    | Heel too soft                              |
+| Knee hyperextension          | Heel too hard                              |
+| Knee flexion                 | Heel too hard                              |
+| Excessive lordosis           | Hip flexion contracture, socket problems   |
+
+### Prosthetic Training
+
+-   **Acquisition of the device**: Ideally, patients should be involved in the selection of the prosthesis.
+-   **Training**: Should begin with basic activities and progress to more complex activities like walking on uneven terrain, stairs, or curbs.
+-   **Psychological support**: Assists in adjusting to the new prosthetic limb.
