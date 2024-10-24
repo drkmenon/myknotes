@@ -28,19 +28,55 @@ The human embryo consists of four distinct germ cell layers that give rise to di
 
 ### **Limb Bud Development**
 
+![](images/limbbud.png){width="426"}
+
 Limb development follows a well-defined pattern along three axes:
 
 1.  **Proximo-distal Axis** (longitudinal)
-    -   Controlled by the **Apical Ectodermal Ridge (AER)**\
-    -   Regulated by the **Homeobox gene**
-2.  **Cranio-caudal Axis** (medio-lateral)
-    -   Controlled by the **Zone of Polarizing Activity (ZPA)**\
-    -   Regulated by the **Sonic Hedgehog gene**
+
+    The Apical Ectodermal Ridge (AER) is a key structure in limb development that plays a crucial role in controlling the proximal-distal growth of the limb, meaning **it governs the extension of the limb from the body (proximal) to the tip of the limb (distal)**.
+
+    The AER is a thickened area of ectoderm (the outer layer of cells) located along the tip of the developing limb bud. The AER secretes signaling molecules, such as Fibroblast Growth Factors (FGFs), which stimulate the growth of underlying mesenchymal cells in the limb bud, promoting the elongation of the limb along the proximal-distal axis.
+
+    ::: callout-tip
+    Controlled by the **Apical Ectodermal Ridge (AER)**
+
+    Regulated by the **Homeobox gene**
+    :::
+
+2.  **Antero-posterior** (medio-lateral)
+
+    The Zone of Polarizing Activity (ZPA) is a critical signaling region located at the posterior side of the developing limb bud, near where the future little finger will form.
+
+    The ZPA plays a **key role in determining the anterior-posterior axis of the limb, which is the direction from the thumb (anterior) to the little finger (posterior)**. The ZPA produces a signaling molecule called Sonic Hedgehog (Shh), which diffuses from the posterior side of the limb bud toward the anterior side, creating a concentration gradient.
+
+    High levels of Shh promote the development of structures on the posterior side, such as the little finger.
+
+    Lower levels of Shh on the anterior side contribute to the formation of structures like the thumb.
+
+    ::: callout-tip
+    Controlled by the **Zone of Polarizing Activity (ZPA)**
+
+    Regulated by the **Sonic Hedgehog gene**
+    :::
+
 3.  **Dorso-ventral Axis** (anterior-posterior)
-    -   Controlled by the surface ectoderm overlaying the mesoderm\
+
+    -   Controlled by the surface ectoderm overlaying the mesoderm
     -   The dorsal surface grows faster, causing the limbs to curve.
 
-------------------------------------------------------------------------
+| **Structure** | **Function** | **Developmental Disorders** | **Description** |
+|----------------|------------------|----------------|-----------------------|
+| **AER (Apical Ectodermal Ridge)** | Regulates proximodistal growth of the limb. | **Phocomelia** | Severe shortening or absence of limbs. |
+|  |  | **Amelia** | Complete absence of one or more limbs. |
+|  |  | **Meromelia** | Partial absence of a limb. |
+| **ZPA (Zone of Polarizing Activity)** | Establishes anterior-posterior axis (thumb to little finger orientation). | **Polydactyly** | Extra fingers or toes (duplication). |
+|  |  | **Syndactyly** | Fusion of fingers or toes due to disruption in ZPA signaling. |
+|  |  | **Radial Club Hand** | Structures on the radial side of the limb, such as the radius and thumb, are underdeveloped or absent. |
+|  |  | **Mirror Hand Syndrome (Ulnar Dimelia)** | Duplication of the ulnar side of the hand (usually with extra digits), caused by ZPA misregulation. |
+| **Surface Ectoderm of Limb Bud** | Differentiates into skin and helps in limb morphogenesis. | **Ectrodactyly (Split Hand/Foot Malformation)** | Absence of one or more central digits, forming a "cleft" hand or foot. |
+|  |  | **Nail-Patella Syndrome** | Abnormalities of nails, knees, elbows, and pelvis due to ectodermal disruption. |
+|  |  | **Cleft Hand/Foot** | Abnormal cleft between fingers or toes due to failure of surface ectoderm closure. |
 
 ### **Formation of Joints and Ossification Centers**
 
@@ -76,8 +112,6 @@ The development of the spinal column is closely regulated by the **Homeobox gene
 | **Neural Tube** | Spinal cord |
 | **Notocord** | Vertebrae, intervertebral discs, and spinal muscles |
 
-------------------------------------------------------------------------
-
 ### **Spinal Column Development**
 
 The spinal column develops entirely from the **notocord**. The notocord gives rise to **somites**, which are segmental aggregations of mesenchymal cells aligned along the notocord. Each pair of somites corresponds to future vertebrae.
@@ -88,7 +122,7 @@ The spinal column develops entirely from the **notocord**. The notocord gives ri
 | **Sacral**             | 5           |
 | **Coccygeal**          | 4           |
 
--   **Failure of formation** leads to hemivertebrae.\
+-   **Failure of formation** leads to hemivertebrae.
 -   **Failure of segmentation** can result in vertebral anomalies like bars, block vertebrae, or Klippel-Feil syndrome.
 
 ------------------------------------------------------------------------
@@ -102,7 +136,13 @@ The spinal column develops entirely from the **notocord**. The notocord gives ri
 | **Costal Center**        | Ribs and transverse processes.              |
 | **C2 Exception**         | C2 has 5 ossification centers instead of 3. |
 
-------------------------------------------------------------------------
+The **C2 vertebra**, (**axis)**, has five ossification centers during development. These centers are divided as follows:
+
+1.  **One center for the body** (centrum).
+2.  **Two centers for the neural arches**, one on each side.
+3.  **Two centers for the dens (odontoid process)**:
+    -   One in the base of the dens.
+    -   One in the apex of the dens.
 
 ### **Development of Intervertebral Disc**
 

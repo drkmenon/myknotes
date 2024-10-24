@@ -9,4 +9,8 @@ Most importantly, **this resource is guaranteed to remain free forever**. You wi
 
 The content is organized into five main sections, each divided into various subcategories that function as individual lessons. The goal is that, by completing the entire course, your knowledge will be thorough enough to pass the first part of the fellowship examination.
 
+::: callout-important
+## Important
+
 **This is a continuous project and will expand over time**. Eventually, each lesson will include hand drawn diagrams, a video lecture, and additional related materials.
+:::

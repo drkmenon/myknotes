@@ -1,0 +1,101 @@
+---
+title: "Spine development"
+---
+
+### **Embryonic Stages and Germ Layers**
+
+-   **17th Day of Gestation:**
+    -   The embryo enters the triploblastic stage, consisting of three germ layers:
+        -   **Endoderm**
+        -   **Ectoderm**
+        -   **Mesoderm**
+    -   Through a process called **gastrulation**, these layers position themselves and begin interacting, setting the **anteroposterior axis** of the embryo and initiating neural development from the ectoderm.
+
+------------------------------------------------------------------------
+
+### **Formation of the Notochord and Neural Plate (Third Week)**
+
+-   **Notochord Formation:**
+    -   Appears during the **third week**.
+    -   Acts as a foundation for the spinal column.
+    -   Later transforms into the **nucleus pulposus** of intervertebral discs.
+-   **Neural Plate and Neural Tube Formation:**
+    -   The notochord induces the formation of the **neural plate**.
+    -   By the **fourth week**, the neural plate folds into the **neural tube** through a process called **neurulation**.
+
+------------------------------------------------------------------------
+
+### **Somites and Spinal Development**
+
+![](images/spine.png){width="1000"}
+
+-   **Somite Formation:**
+    -   Pairs of **somites** emerge from the mesoderm.
+    -   **Sclerotome**: Becomes the vertebral body and annulus fibrosus.
+    -   **Myotome**: Develops into muscles.
+-   **Sclerotome Transformation (Fourth Week):**
+    -   Surrounds the notochord to form vertebral bodies and annulus fibrosus.
+    -   Grows around the neural tube to form **vertebral arches**.
+    -   Inter-segmentation occurs:
+        -   **Front half of one sclerotome** fuses with the **back half of the next** to form a single vertebra.
+
+        -   This explains the segmental blood supply pattern.
+
+            ![](images/segmentalbld.png)
+
+------------------------------------------------------------------------
+
+### **Ossification Process of Vertebrae**
+
+-   **7-8 Weeks Gestation:**
+    -   Ossification begins, with the exception of C1 (atlas), C2 (axis), and the sacrum.
+-   **Three Stages of Ossification:**
+    -   Starts in the **lower thoracic** and **upper lumbar** regions.
+    -   Progresses **cranially** and **caudally**.
+    -   Cartilage centers form and unite to create:
+        -   **Vertebral body**
+        -   **Neural arch**
+        -   **Apophyses** on the transverse and spinous processes.
+
+#### **Key Developmental Stages**
+
+| Stage    | Developmental Activity                                         |
+|-------------------|-----------------------------------------------------|
+| Week 3   | Formation of the notochord and initiation of the neural plate. |
+| Week 4   | Neural plate folds into the neural tube, somites form.         |
+| Week 7-8 | Ossification begins, centers form in vertebral regions.        |
+
+------------------------------------------------------------------------
+
+### **Growth Zones in Vertebrae**
+
+-   **Three growth zones** contribute to the structure of vertebrae:
+    -   **Center of the vertebral body**
+    -   **Neural arch**
+    -   **Transverse and spinous processes**
+-   Each vertebra results from approximately **100 growth plates**.
+
+------------------------------------------------------------------------
+
+### **Neurocentral Synchondrosis**
+
+-   **Definition:**
+    -   A growth plate located at the junction between the vertebral body and the pedicle.
+-   **Role in Growth:**
+    -   Critical for the development of the **vertebral body** and **posterior arch**.
+-   **Developmental Timeline:**
+    -   **Fusion by age 9** in humans, allowing for normal spinal development.
+    -   **Intervention Impact:**
+        -   Screw fixation crossing this plate before fusion can lead to **scoliosis** in growing animals, but not after the age of 10.
+
+------------------------------------------------------------------------
+
+### **Key Milestones in Spinal Development**
+
+| Developmental Stage | Key Event                                      |
+|---------------------|------------------------------------------------|
+| Week 17             | Triploblastic stage and gastrulation begin.    |
+| Week 3              | Notochord formation, neural plate development. |
+| Week 4              | Neural tube formation and somite development.  |
+| Week 7-8            | Ossification of vertebrae begins.              |
+| Age 9               | Neurocentral synchondrosis fuses.              |
