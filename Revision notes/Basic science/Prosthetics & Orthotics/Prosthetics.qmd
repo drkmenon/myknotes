@@ -2,10 +2,12 @@
 title: "Prosthetics"
 ---
 
-**Definition**
+### **Definition**
 
 -   Prosthesis is a device designed to replace the function and appearance of a body part as much as possible.
--   Successful prosthetic use depends on patient and prosthesis factors.
+-   Prosthesis technically embraces all substitutes for bodily defects
+
+### Successful prosthetic use depends on patient and prosthesis factors.
 
 ------------------------------------------------------------------------
 
@@ -33,7 +35,7 @@ title: "Prosthetics"
 
 ------------------------------------------------------------------------
 
-**Amputations**
+## **Amputations**
 
 ### Pre-op Assessment of Achieving a Successful Wound
 
@@ -81,7 +83,7 @@ title: "Prosthetics"
 ### Optimal Levels of Common Amputations
 
 | Type | Optimum | Shortest | Longest |
-|----------------|-----------------|----------------|-----------------------|
+|-----------------|-----------------|-----------------|----------------------|
 | **Forearm (trans radial)** | Junction of proximal 2/3 and distal 1/3 forearm | 3 cm below biceps insertion | 5 cm above wrist to allow space for rotary prosthesis |
 | **Humerus (trans humeral)** | Middle 1/3 arm | 4 cm below axillary fold | 10 cm above olecranon to allow space for elbow prosthesis |
 | **Trans Femoral** | Middle 1/3 thigh | 8 cm below pubic ramus | 15 cm above knee joint to allow space for knee mechanism |
@@ -89,9 +91,9 @@ title: "Prosthetics"
 
 ------------------------------------------------------------------------
 
-### Disarticulation Amputations
+### Disarticulation
 
-#### Advantages
+### Advantages
 
 -   Amputation retains the weight-bearing surface.
 -   End-bearing stump may be harder wearing.
@@ -117,7 +119,7 @@ title: "Prosthetics"
 ### Common Elements of Prostheses
 
 | Element | Description |
-|-----------------|-------------------------------------------------------|
+|----------------------|------------------------------------------------------|
 | **Socket/Interface** | The connection between the prosthesis and residual limb, manufactured using computers or plaster mould. |
 | **Suspension mechanism** | Attaches prosthesis to the residual limb. Can be a standard suction cup or elastomeric suction for an airtight seal. |
 | **Struts/Pylons** | Restore limb length and connect socket to terminal device. |
@@ -193,7 +195,7 @@ The terminal device for all lower limb prostheses - 5 types:
 ### Types of Knee Articulation
 
 | Type | Description |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | **Polycentric (4 bar linkage)** | Moves COR allowing more flexion for sitting; good for transfemoral, bilateral, and knee disarticulations. |
 | **Hydraulic/Pneumatic Knee** | Heavier but provides a more fluid gait; alters knee flexion resistance during the gait cycle; good for younger, more demanding patients. |
 | **Constant Friction Knee** | A hinge with a screw or rubber pad that dampens flexion; common in children but gives poor stance control; relies on knee COR alignment for stability. |
@@ -282,7 +284,7 @@ achieved with voluntary opening and closing devices. - Loss of elbow function an
 ### Transfemoral Prosthetic Gait Abnormalities
 
 | Gait Abnormality             | Prosthetic Problem                         |
-|-------------------------|------------------------------------------------|
+|-------------------------|-----------------------------------------------|
 | Lateral trunk bending        | Short prosthesis, weak abductors, poor fit |
 | Abducted gait                | Poor socket fit medially                   |
 | Circumducted gait            | Prosthesis too long, excess knee friction  |
