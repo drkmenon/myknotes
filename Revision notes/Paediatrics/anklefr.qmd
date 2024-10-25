@@ -1,0 +1,111 @@
+---
+title: "Ttiplane fracture ankle"
+---
+
+### **Triplane Fracture of the Ankle**
+
+### **Etiology**
+
+-   **Definition**: Distal tibia epiphyseal fracture involving three planes: coronal, sagittal, and axial.
+
+-   **Demographics**:
+
+    -   More common in **boys** than girls due to later physeal closure.
+    -   Girls present younger because their physis closes earlier.
+
+-   **Physeal Closure Order**:
+
+    1.  Central (first)
+    2.  Anteromedial
+    3.  Posteromedial
+    4.  Posterolateral
+    5.  Anterolateral (last)
+
+    -   Rough sequence: Posteromedial to anterolateral closure.
+
+-   **Cause**: External rotational injury.
+
+-   **Age Group**: Adolescents (rare in children \<10 years or \>16 years).
+
+-   **Associated Injuries**: 50% of cases have an associated **fibula fracture**.
+
+------------------------------------------------------------------------
+
+### **Diagnosis**
+
+-   **Imaging**:
+    -   **X-rays**: AP, lateral, and mortise views.
+    -   **CT Scan**: Essential for surgical planning, especially to decide if surgery is required.
+
+------------------------------------------------------------------------
+
+### **Surgical Anatomy**
+
+-   **Fracture Types**:
+    -   **2-part fracture**: Most common (70%), with medial or lateral fractures. Lateral fractures are more common.
+    -   **3-part fracture**: Classic “Mercedes Benz” configuration on axial CT, where a fracture line disconnects the Tillaux fragment from the posterior fragment.
+    -   **4-part fracture**: Very rare.
+-   **Variants**:
+    -   **Extra-articular or intramalleolar**: The articular surface is unaffected, and the sagittal fracture line exits in the medial malleolus.
+
+------------------------------------------------------------------------
+
+### **Management**
+
+#### **Non-Operative**:
+
+-   **Indications**:
+    -   Extra-articular fractures.
+    -   Displacement \<2mm.
+-   **Treatment**:
+    -   Long leg plaster, converted to below knee after a few weeks.
+
+#### **Operative**:
+
+-   **Indications**:
+    -   Displacement \>2mm.
+    -   Joint instability.
+    -   If there is \>2 years of growth left, consider surgery with a lower threshold.
+-   **Surgical Planning**:
+    -   **CT Scan Evaluation**:
+        -   Assess fragment locations.
+        -   Determine if it’s a 2-part or 3-part fracture.
+        -   Identify whether the anterior sagittal fracture is medial or lateral.
+        -   Evaluate the **Tibialis anterior tendon**.
+    -   **Surgical Approach**:
+        -   Anteromedial or anterolateral, depending on where the fracture exits.
+        -   Allows for periosteum removal, anatomical reduction, and joint assessment.
+-   **Fixation**:
+    -   **Avoid crossing the physis** unless the patient is near skeletal maturity.
+
+    -   **Screws**: Cancellous screws, either cannulated 4mm or solid 3.5mm.
+
+    -   **Steps**:
+
+        1.  Address the **anterior coronal fracture** first (anterolateral approach).
+        2.  Remove periosteum, clear fracture site.
+        3.  Reduce the posterior fragment by **dorsiflexing** and **internally rotating** the foot.
+        4.  **Fix the posterior fragment** with an AP screw.
+        5.  Anatomically reduce the anterior epiphysis to the posterior fragment and stabilize with a screw.
+
+        -   **Screw Orientation**:
+            -   Typically anterolateral to posteromedial.
+            -   Medial to lateral in medial 2-part fractures.
+        -   **Pre-op CT scan** is essential for planning screw placement.
+
+------------------------------------------------------------------------
+
+### **Outcome**
+
+-   **Best results**: Achieved with **anatomical reduction**.
+-   **Complications**:
+    -   **Post-traumatic arthrosis**.
+    -   **Premature physeal arrest**.
+-   **Long-term Follow-up**: Required to monitor complications.
+
+------------------------------------------------------------------------
+
+### **Key Visuals**:
+
+-   **Mercedes Benz Sign**: Seen in 3-part triplane fractures where the coronal split separates the Tillaux and posterior fragments.
+-   **Variants**: Extra-articular and intramalleolar types.

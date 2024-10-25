@@ -1,0 +1,214 @@
+---
+title: "Cervical trauma"
+---
+
+### **Anatomy**
+
+One of the most critical aspects of paediatric cervical spine injuries is the presence of **synchondroses**:
+
+\- **Synchondroses** are hyaline cartilage joints synonymous with long bone growth plates.
+
+\- All ossification centres should be closed by the age of 6-8 years.
+
+------------------------------------------------------------------------
+
+### **Development of the Paediatric Cervical Spine**
+
+#### **Atlas (C1)**
+
+-   **3 Primary Ossification Centres:**
+    -   Lateral masses (x2)
+    -   Body
+
+#### **Axis (C2)**
+
+-   **5 Primary Ossification Centres:**
+    -   Lateral masses (x2)
+    -   Vertically oriented centre for the odontoid (x2)
+    -   Body
+-   **Secondary Ossification Centres:**
+    -   Tip of Dens
+    -   Ring Apophysis
+-   The **Dens** is connected to the body by the **Dentocentral Synchondrosis**.
+
+#### **Subaxial Spine (C3-C7)**
+
+-   **3 Ossification Centres:**
+    -   Neural arches (x2)
+    -   Body
+
+------------------------------------------------------------------------
+
+### **Stability of Paediatric Cervical Spine**
+
+Children's cervical spines have greater range of motion (ROM) and less stability due to:
+
+1\. Increased ligamentous laxity.
+
+2\. Wedge-shaped vertebrae (\<8 years).
+
+3\. Facets that are more horizontal (\<8 years).
+
+4\. Uncinate processes not fully developed until \>8 years, which provide rotational stability.
+
+5\. The fulcrum of rotation is more cephalad (C2-3) in children under 8 years, compared to C5-6 in those older than 8.
+
+------------------------------------------------------------------------
+
+### **Atlanto-Occipital Region**
+
+The stability of the **Atlanto-Occipital Region** is based on:
+
+\- Congruency of superior articular facets and occipital condyles.
+
+\- **Alar Ligaments**. - Joint capsule.
+
+\- **Tectorial membrane** (continuation of the posterior longitudinal ligament - PLL).
+
+------------------------------------------------------------------------
+
+### **Atlanto-Axial Region**
+
+#### **Primary Stability:**
+
+-   **PEG** (Dens)
+-   **Transverse Ligament**
+
+#### **Secondary Stability (Check Reins):**
+
+-   **Alar ligaments** (Dens tip to occipital condyles)
+-   **Apical ligament** (Dens tip to foramen magnum)
+
+------------------------------------------------------------------------
+
+### **Modes of Injury**
+
+-   **Fracture**
+-   **Fracture Subluxation**
+-   **Subluxation**
+-   **SCIWORA** (Spinal Cord Injury Without Radiographic Abnormality)
+
+#### **Pattern of Injury by Age**
+
+-   **\>8 years**: Adult-like injury pattern:
+    -   Sub-axial spine involvement.
+    -   Wedge fractures, burst fractures, dislocations.
+-   **\<8 years**: Paediatric injury pattern:
+    -   Axial spine involvement.
+    -   Subluxations, fracture-subluxations, SCIWORA.
+    -   End plate fractures (endplate is cartilaginous and weaker than the body or disc).
+
+------------------------------------------------------------------------
+
+### **Paediatric Risk Factors for C-Spine Injury**
+
+-   **Cephalad fulcrum of rotation**.
+-   The head is disproportionately large and heavy, increasing the risk of injury.
+
+------------------------------------------------------------------------
+
+### **Pseudosubluxation**
+
+-   An anatomical variant, more common in children under 8 years old.
+-   Usually observed at **C2-3**, less frequently at **C3-4**.
+
+#### **Diagnosis**
+
+-   **Swischuk’s line**:
+    -   Spinolaminar line drawn from C1 to C3.
+    -   Should not show more than a 1mm step.
+
+| Injury Type | Characteristics |
+|-----------------------|-------------------------------------------------|
+| **Pseudosubluxation** | More common in children under 8 years old, usually at C2-3 |
+| **True Subluxation** | Can occur after endplate fracture |
+
+------------------------------------------------------------------------
+
+### **Atlanto-Occipital Dissociation**
+
+-   The **Atlanto-Occipital region** is highly unstable in children.
+-   **Mortality rate**: 50%.
+
+------------------------------------------------------------------------
+
+### **Atlanto-Axial Rotatory Subluxation (AARS)**
+
+-   Results in **Torticollis**.
+-   **Causes**:
+    -   Traumatic.
+    -   Neuromuscular, congenital, muscular (SCM), inflammatory (Grisel's syndrome).
+
+------------------------------------------------------------------------
+
+### **Atlanto-Axial Anteroposterior (AP) Instability**
+
+-   **Abnormal ADI** (Atlantodens Interval):
+    -   **\>5mm** if the child is under 8 years.
+    -   **\>3mm** if the child is over 8 years.
+-   **Space Available for Cord (SAC)** should be greater than 13mm.
+    -   Reduced SAC and increased ADI may indicate potential cord compromise.
+
+#### **Steel’s Rule of Thirds**
+
+-   At the level of the odontoid, the space is taken up in thirds by:
+    1.  **Cord**
+    2.  **Odontoid**
+    3.  **CSF**
+
+------------------------------------------------------------------------
+
+### **SCIWORA (Spinal Cord Injury Without Radiologic Abnormality)**
+
+-   Requires **MRI** to detect signal changes in the cord.
+-   May appear normal in 30% of cases despite neurological symptoms.
+-   Occurs more frequently in young children.
+-   The spinal column can stretch up to 2 inches, but cord injury occurs if stretch exceeds 1cm.
+
+#### **Main Predictor of Outcome**
+
+-   Neurologic status at the time of presentation.
+
+------------------------------------------------------------------------
+
+### **Management**
+
+-   **Maintain blood pressure**.
+-   Use **advanced imaging** techniques.
+-   **Immobilise spine** for 3 months.
+-   Restrict activity for an additional 3 months.
+
+#### **Outcome:**
+
+-   **Poor** if the injury is complete.
+-   **Reasonable** if the injury is partial.
+
+------------------------------------------------------------------------
+
+### **Odontoid Fracture**
+
+-   Typically occurs through the **synchondrosis** in children under 3 years.
+-   Results from sudden deceleration and flexion during a **road traffic accident (RTA)**.
+-   **Management**:
+    -   Immobilisation with **HALO** or **Minerva** for 3 months.
+
+------------------------------------------------------------------------
+
+### **HALO Usage in Paediatrics**
+
+-   **Skull considerations**:
+    -   Thinner skull with open sutures requires special care.
+    -   Use more pins with less torque.
+    -   Example: 8-12 pins at 2-4 lb/inch torque.
+
+------------------------------------------------------------------------
+
+### **Surgical Stabilisation**
+
+-   **Indications**:
+    -   **Gross instability**.
+    -   Failure to reduce closed.
+    -   Neurologic deficit requiring decompression.
+-   **Workhorse Procedure**:
+    -   **Posterior fusion** up to the occiput.
+    -   **Pre-op MRI** and combine with an anterior approach if the disc needs removal.
