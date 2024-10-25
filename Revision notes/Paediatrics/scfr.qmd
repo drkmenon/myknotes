@@ -1,0 +1,168 @@
+---
+title: "Supracondylar fracture of humerus"
+---
+
+### **Paediatric Supracondylar Fracture of the Humerus**
+
+------------------------------------------------------------------------
+
+### **Common Nerve Palsies**
+
+-   **Flexion-type fracture**: Most commonly injures the **ulnar nerve**.
+-   **Extension-type fracture**: Commonly injures the **anterior interosseous nerve (AIN)**.
+-   **Documentation**: Clear pre-op documentation of any nerve injury is critical as any nerve can be involved.
+-   **Compartment syndrome risk**: Increased with nerve injury.
+
+------------------------------------------------------------------------
+
+### **Vascularity**
+
+#### **Pulseless Perfused Hand**:
+
+-   **Signs**: Pulse not palpable, but capillary refill (CR) \< 2 seconds, and the hand is warm.
+-   **Management**: Must go to the operating room urgently, regardless of the time.
+-   **Complications**: If left untreated, perfusion may be compromised.
+
+#### **Indications for Anterior Approach**:
+
+-   Notify vascular surgeons.
+-   **Pulseless, pale hand**: Requires an **anterior approach** using a **transverse incision** extended in a "boat race" fashion (proximal medial, distal lateral).
+-   **Compartment syndrome risk** is higher, particularly with **median nerve palsy**.
+-   **Test**: Flexor digitorum superficialis (FDS) function in fingers (better than sensory testing).
+
+------------------------------------------------------------------------
+
+#### **If Pulse Absent After Reduction and Pinning**:
+
+1.  **Check for anatomical reduction**: Non-anatomic reduction may indicate arterial incarceration.
+2.  **If the hand is perfused**:
+    -   Use a windowed plaster to monitor the area with Doppler.
+    -   Admit for 24-48 hours to monitor vascularity.
+    -   Safe discharge if no compartment syndrome and good perfusion after 48 hours.
+3.  **Pulse lost post-reduction**:
+    -   **Presume vessel incarceration or kinking**.
+    -   Open exploration is required to free the artery, even if a Doppler pulse is present.
+
+------------------------------------------------------------------------
+
+### **Compartment Syndrome**
+
+-   **Possible even with pink hand and normal capillary refill**.
+-   **Main indicators**:
+    -   Increasing need for analgesics.
+    -   Persistent absence of pulse on Doppler and palpation.
+    -   Inability to flex fingers actively (volar compartment compromise).
+-   **Examine for swelling and firmness** in the forearm.
+-   **Management**:
+    -   Keep the arm out of plaster.
+    -   Elevate above heart level.
+    -   Monitor closely in the hospital to prevent **Volkmann's ischemic contracture**.
+
+------------------------------------------------------------------------
+
+### **Pinning Pattern**
+
+#### **Lateral Pinning**:
+
+-   **Study (Skaggs et al.)**: Lateral pinning effective in 250 cases/year, with only 2 needing medial pinning.
+-   Use **2 or 3 lateral wires**.
+-   **Indications**: Oblique fractures (high lateral to low medial).
+-   Place wires in thirds at the fracture level.
+-   Ensure wires are **bicortical**.
+-   Avoid high lateral wires to prevent **radial nerve** injury.
+
+#### **Medial Pinning**:
+
+-   **Indications**: Unstable fractures or fractures with **medial comminution** (varus risk).
+-   **Biomechanics**: Cross wires provide a stronger configuration.
+-   Useful for rare oblique fractures (high medial to low lateral).
+
+------------------------------------------------------------------------
+
+### **Assessment of Reduction**
+
+-   **Bauman’s angle**: Should be preserved.
+-   **Anterior humeral line**: Should intersect the capitellum.
+-   **Bauman's angle**: Humerocapitellar angle (75° ± 10°).
+
+------------------------------------------------------------------------
+
+### **Urgent Cases**
+
+-   **Vascular issues**: Compartment syndrome risk.
+-   **Nerve issues**: Compartment syndrome risk.
+-   **Skin blanching or open fractures**: Require urgent attention.
+
+------------------------------------------------------------------------
+
+### **Open Reduction Approaches**
+
+-   **Posterior approach**: Risk of avascular necrosis (AVN) and stiffness.
+-   **Anterior approach**: Used for vascular injuries (transverse or boat race incision).
+-   **Medial or lateral approaches**: Both acceptable; recent studies show no increase in stiffness with open reduction.
+
+------------------------------------------------------------------------
+
+### **Acceptable Deformity Post-Reduction**
+
+-   **Must not be in varus**.
+-   **Any rotation is unacceptable**.
+-   **Anterior humeral line**: Should intersect the capitellum.
+-   **Coronal plane translation**: Acceptable if less than one-third.
+
+------------------------------------------------------------------------
+
+### **Malunion (Cubitus Varus)**
+
+-   **Cause**: Varus positioning during fixation, not due to growth problems.
+-   **No growth arrest** occurs post supracondylar fractures.
+-   **Remodeling potential** in the distal humerus is minimal.
+-   **Complications**:
+    1.  Increased risk of lateral condyle fractures.
+    2.  Tardy ulnar nerve palsy.
+    3.  Posterolateral instability in adulthood.
+    4.  Premature elbow arthritis.
+    5.  Cosmetic dissatisfaction.
+-   **Correction**: Lateral closing wedge supracondylar osteotomy.
+
+------------------------------------------------------------------------
+
+### **Pin Removal**
+
+-   **Supracondylar fractures**: Remove pins after 3 weeks.
+-   **Lateral condyle fractures**: Remove pins after 4-6 weeks.
+
+------------------------------------------------------------------------
+
+### **Floating Elbow**
+
+-   **Definition**: Ipsilateral supracondylar and distal radius fracture.
+-   **Management**: Pin both as compartment syndrome risk is higher.
+-   **Pinning Order**: Pin the elbow first.
+
+------------------------------------------------------------------------
+
+### **AVN (Avascular Necrosis)**
+
+-   **Rare late complication**: AVN of the trochlea.
+-   **Outcome**: Causes a fishtail deformity.
+
+------------------------------------------------------------------------
+
+### **Special Fracture Patterns**
+
+#### **Flexion-Type Fractures**:
+
+-   Pin in **extension** as anterior periosteum is intact in flexion-type fractures.
+-   Place wires as joysticks, extend the arm, reduce, and drive the wires in.
+-   **Schanz pin**: Useful in very unstable cases (placed in the proximal fragment from the posterior side).
+-   Consider early **open reduction**.
+
+#### **Type 1 Fractures with Medial Impaction or Comminution**:
+
+-   Treat surgically to prevent healing in varus.
+
+#### **Type 2 Fractures**:
+
+-   **Any varus or loss of anterior humeral line** requires reduction.
+-   **Pin fixation**: Reduces risk of loss of reduction, though no consensus exists on pinning.
