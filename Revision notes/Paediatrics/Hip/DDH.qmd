@@ -1,0 +1,176 @@
+---
+title: "DDH"
+---
+
+### **Developmental Dysplasia of the Hip (DDH)**
+
+### **Epidemiology**
+
+-   **Predominantly affects girls**: 80%
+-   **Side Predominance**: 60% left, 20% right, 20% bilateral
+-   **Incidence**: 1 in 1,000 live births
+
+------------------------------------------------------------------------
+
+### **Aetiology**
+
+DDH develops postnatally and is not a congenital condition. Known risk factors include genetic predisposition and intrauterine conditions.
+
+#### **Genetic and Intrauterine Factors**
+
+-   **Genetic**: Risk increases with the number of 1st-degree relatives with DDH.
+-   **Gender Factor**: Females more susceptible due to ligamentous laxity and oestrogen influence.
+
+#### **Intrauterine Factors Contributing to Crowding**
+
+-   **Firstborn children**: Tighter uterus
+-   **Breech Presentation**
+-   **Oligohydramnios**
+-   **Multiples (e.g., twins)**
+
+#### **Associated Overcrowding Disorders**
+
+-   Torticollis
+-   Congenital knee dislocation
+-   Metatarsus adductus
+-   Congenital Talipes Equinovarus (CTEV)
+
+#### **Neuromuscular Factors**
+
+-   **Late dislocations** requiring aggressive treatment
+-   Common in conditions such as spina bifida and cerebral palsy (CP)
+
+#### **Teratologic DDH**
+
+-   **Irreducible dislocation** requiring surgical intervention, commonly associated with conditions like arthrogryposis
+
+------------------------------------------------------------------------
+
+### **Pathophysiology**
+
+-   **Acetabular Development**: The femoral head’s placement influences acetabular shape, determined by 8 years of age.
+-   **Common Findings**: Shallow acetabulum and femoral anteversion.
+
+------------------------------------------------------------------------
+
+### **Clinical Diagnosis**
+
+#### **History**
+
+-   Family history, birth presentation, and associated conditions
+
+#### **Physical Examination**
+
+-   **Leg Lengths**: Galeazzi test
+-   **Range of Abduction**
+-   **Skin Creases**
+-   **Barlow and Ortolani Tests**: Used for dislocation and relocation assessment
+-   **In Older Children**:
+    -   Spinal deformity
+    -   Compensatory lumbar lordosis
+    -   Apparent leg length discrepancy
+    -   Hip flexion contracture
+    -   Pelvic obliquity and impingement pain
+
+------------------------------------------------------------------------
+
+### **Imaging Techniques**
+
+#### **Ultrasound** (Under 4 months)
+
+-   **Graf Angles**:
+    -   **Alpha Angle**: \>60 degrees (decreases as acetabulum shallows)
+    -   **Beta Angle**: \<55 degrees (increases as acetabulum shallows)
+
+#### **X-Ray** (Post-ossification of femoral head)
+
+-   **Key Measurements**:
+    -   **Perkins Line**: Femoral head should reside in the infero-medial quadrant
+    -   **Shenton's Line**
+    -   **Acetabular Index**: 30 degrees at birth, 24 degrees by 24 months
+    -   **Center Edge Angle (CE)**: \>20 degrees (for children over 5 years)
+
+#### **Arthrography**
+
+-   Used intraoperatively for stability and reducibility assessment
+
+------------------------------------------------------------------------
+
+### **Management**
+
+#### **Natural History of Untreated DDH**
+
+-   **Unilateral DDH**: Leg length discrepancy, scoliosis, hip contracture, valgus knee, and osteoarthritis (OA)
+-   **Bilateral DDH**: Hyperlordosis, back pain, impaired gait
+
+#### **Goals of Treatment**
+
+-   Concentric and stable reduction
+-   Normal growth and hip development
+-   Avoidance of complications
+
+#### **Primary Factor for Treatment**: Age at diagnosis
+
+------------------------------------------------------------------------
+
+### **Age-Based Management**
+
+#### **Age 0 – 4 Months**
+
+**Pavlik Harness** - First-line for Ortolani-positive (reducible) hip - **Position**: 90 degrees flexion, 45 degrees abduction, neutral rotation - **Monitoring**: 23 hours/day for 6-8 weeks, then night use for 6 weeks; repeat ultrasound - **Failures**: Closed reduction and Spica casting if unsuccessful by 4 weeks
+
+**Complications** - **Femoral Nerve Palsy**: Excessive flexion - **Inferior Dislocation**: Excessive flexion - **Skin Problems**: Harness too tight - **Pavlik Disease**: Erosion of the pelvis - **Avascular Necrosis (AVN)**: Excessive abduction compressing the posterior superior branch of MCF artery
+
+------------------------------------------------------------------------
+
+#### **Arthrography, Closed Reduction, and Spica Casting**
+
+-   Performed under general anesthesia
+-   **Fluoroscopy** and injection of dilute Omnipaque for visualization
+-   **Closed Reduction**: Evaluate Safe Zone (stable abduction range); if narrow, consider adductor tenotomy
+-   **Spica Casting**: 3 months; checked at 6 weeks, possible removable abduction brace for 6-12 weeks
+
+#### **Open Reduction & Hip Spica** (Age usually \>4 months)
+
+-   Indicated for irreducible hip, non-concentric reduction, very narrow Safe Zone, or failed closed treatment
+-   Anatomical obstructions to be addressed: Iliopsoas and adductor tendons, ligamentum teres, and acetabular pulvinar
+
+------------------------------------------------------------------------
+
+#### **Age 4 – 18 Months**
+
+-   **Pavlik Harness not suitable**
+-   **Options**:
+    -   Arthrography, closed reduction, and Spica (with tenotomy as needed)
+    -   Open reduction with Hip Spica
+-   **Follow-Up**: X-ray or CT to confirm reduction
+
+------------------------------------------------------------------------
+
+#### **Age 18 Months to 8 Years**
+
+**Primary Treatment**: Open Reduction and Hip Spica - Open Reduction with femoral or pelvic osteotomy if required for stable reduction
+
+**Osteotomy Choices** - **Femoral**: Easier with less morbidity, encourages acetabulum remodeling - **Pelvic**: Ideal for severe acetabular dysplasia
+
+------------------------------------------------------------------------
+
+#### **Over 8 Years**
+
+-   Limited remodeling potential of acetabulum
+-   Unilateral DDH: Open reduction not recommended
+-   Bilateral DDH: Upper limit is 6 years; risks outweigh benefits
+
+------------------------------------------------------------------------
+
+### **Pelvic Osteotomies**
+
+#### **Types of Osteotomies**
+
+1.  **Salter (Redirectional)**: Preferred for younger children; hinges on pubic symphysis.
+2.  **Double & Triple Innominate**: Higher correction; useful in older children.
+3.  **Ganz Periacetabular**: Excellent correction, triradiate closure necessary.
+4.  **Pemberton (Volume Reducing)**: Pivots at triradiate cartilage.
+5.  **Dega (Volume Reducing)**: Suitable for paralytic conditions.
+6.  **Chiari (Salvage – Volume Increasing)**: Concentric reduction not possible.
+7.  **Shelf Procedures (Salvage – Volume Increasing)**: Augments acetabulum for lateral head coverage.

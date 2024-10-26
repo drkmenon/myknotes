@@ -1,0 +1,121 @@
+---
+title: "Perthes"
+---
+
+## **Perthes Disease**
+
+### Epidemiology
+
+-   More common in boys than girls.
+-   Typically affects children aged 4-8 years, with an age range of 2-15 years.
+-   Predominantly affects White or Asian populations.
+-   Often occurs in thin, small, skeletally immature children.
+-   Bilateral involvement occurs in 10% of cases but is never concurrent.
+
+### Aetiology
+
+-   Idiopathic avascular necrosis (AVN) of the proximal femoral epiphysis.
+-   Some children may have an underlying coagulopathy.
+-   Theories include:
+    1.  Repeated ischemic episodes.
+    2.  Increased hydrostatic pressure due to venous congestion.
+    3.  Association with fibrinolytic coagulopathy (currently favored theory).
+
+### Clinical Presentation
+
+-   Symptoms include a limp, hip or knee pain, and stiffness.
+
+### Investigation
+
+-   Blood tests if an abnormal condition is suspected.
+-   Plain X-ray usually sufficient.
+-   MRI can provide early diagnosis but does not impact management or outcome.
+
+### Differential Diagnosis
+
+**Unilateral** 1. Infection 2. Sickle cell infarct 3. Synovitis, inflammatory arthritis 4. Traumatic causes
+
+**Bilateral** 1. Spondyloepiphyseal Dysplasia (SED) 2. Multiple Epiphyseal Dysplasia (MED) 3. Gaucher’s Disease 4. Hypothyroidism
+
+### Stages of Disease
+
+1.  **Necrotic (Initial)** (6 months)
+    -   AVN is evident but no collapse.
+    -   Signs include the crescent sign (Caffey’s sign) and sclerosis.
+2.  **Fragmentation (Resorption)** (6 months)
+    -   Femoral head fragmentation, primarily of the lateral epiphysis.
+    -   Damage occurs, and it is too late to alter the disease course.
+3.  **Re-Ossification (Healing)** (18 months)
+    -   Bone resorption and re-ossification of the femoral head.
+4.  **Remodeling (Residual)** (3 years)
+    -   Femoral head fully remodels, with residual Perthes deformities.
+
+### Classification
+
+**Herring’s Lateral Pillar Classification** - Considered the best prognostic indicator and offers good inter- and intra-observer reliability. Outcome worsens with increasing grade.
+
+| Group   | Description                                      |
+|---------|--------------------------------------------------|
+| **A**   | Lateral pillar height is normal                  |
+| **B**   | Lateral pillar height \>50%                      |
+| **B/C** | Lateral pillar height 50% with a narrowed physis |
+| **C**   | Lateral pillar height \<50%                      |
+
+**Catteral Head-at-Risk Signs** - Associated with a worse prognosis: - **Gage Sign**: Triangular lucency on the lateral physis. - Horizontal orientation of physis. - **Lateral Subluxation** of the femoral head (most important). - Calcification lateral to the physis. - Metaphyseal cysts.
+
+**Reimer’s Migration Index** - Indicates the degree of femoral head extrusion, useful for assessing when intervention is necessary.
+
+### Problems with Classification
+
+-   Best intervention time is before collapse and extrusion.
+-   Existing classifications focus on the degree of collapse, making it too late to change the disease's natural course.
+-   No classifications directly address femoral head extrusion, the most significant alterable factor surgically.
+
+### Prognostic Factors
+
+| Factor | Prognosis |
+|------------------------------|-----------------------------------------|
+| **Age** | \<5 years: generally good prognosis with high remodeling potential |
+| **Degree of Extrusion** | \>20% extrusion associated with poor prognosis |
+| **Hip Stiffness** | Poor prognosis with stiff hips, regardless of treatment |
+| **Gender** | Girls tend to have worse outcomes due to shorter remodeling time |
+
+### Management
+
+#### Head Deformation in Perthes & Containment Rationale
+
+-   Head deformation, which occurs in the late fragmentation or early re-ossification phase, is the primary issue.
+    -   Leads to coxa magna, trochanteric overgrowth, hip impingement, and early osteoarthritis.
+    -   Deformation also causes premature physeal arrest and neck shortening, which results in Trendelenburg gait.
+
+**Prevention Strategy**: Prevent lateral extrusion of the epiphysis through containment to avoid deformation.
+
+#### Non-Operative Management
+
+-   Focus on maintaining range of motion (ROM).
+-   Avoid sports but allow weight-bearing.
+-   Close follow-up to monitor for extrusion.
+-   Approximately 60% of children manage without surgery.
+
+#### Factors for Surgical Containment
+
+-   **Age**: Low threshold for surgery in children \>8 years due to the likelihood of extrusion.
+-   **Timing**: Containment is only effective in the initial or fragmentation stages.
+-   **Hip Stiffness**: Poor outcomes with surgery if the hip is stiff; pre-operative traction may improve ROM.
+
+**Femoral (VDRO) vs. Pelvic Osteotomy** - Femoral osteotomy is generally more effective and simpler. - Pelvic osteotomy is reserved for salvage procedures.
+
+**Trochanteric Advancement or Epiphysiodesis** - Prevents trochanteric overgrowth and Trendelenburg gait. - Suitable for older children with limited femoral head remodeling potential.
+
+### Management by Age
+
+| Age Range | Management Strategy |
+|-------------------------|------------------------------------------------|
+| **Under 5 years** | Observe if no extrusion; use abduction brace if extrusion is present |
+| **5-8 years** | Watch if no extrusion; perform VDRO if extrusion is present |
+| **\>8 years** | Aggressive treatment recommended due to poor prognosis |
+| **Late Presentation with Deformity** | Options include trochanteric advancement, Chiari/shelf osteotomy, valgus osteotomy, cam excision, or hip fusion (convertible to THR later) |
+
+### Long-Term Outcome
+
+-   Few symptoms under 40 years of age, but most individuals over 40 years with Perthes disease develop symptoms.

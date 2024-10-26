@@ -1,0 +1,28 @@
+---
+title: "Paediatric hip"
+---
+
+### **Paediatric Hip Anatomy and Disorders**
+
+### **1. Femoral Head Blood Supply**
+
+The blood supply to the femoral head varies with the maturity of the growth plate. There are three primary sources:
+
+#### **Main Sources of Blood Supply**
+
+1.  **Lateral Epiphyseal Artery (LEA)**
+    -   **Primary vessel**: Originates from the subsynovial ring anastomosis.
+    -   **Main contributor**: Medial Femoral Circumflex Artery (MFCA) supplies the subsynovial ring.
+2.  **Metaphyseal Intraosseous Vessels**
+    -   Provides blood supply by entering the femoral head as the physis develops.
+3.  **Ligamentum Teres**
+    -   Plays a minimal role initially but becomes more significant in older children.
+
+#### **Blood Supply Development by Age**
+
+| Age Group | Blood Supply Characteristics |
+|--------------------|----------------------------------------------------|
+| **Birth to 4 years** | \- Metaphyseal vessels dominate, entering the area where the physis will form. <br> - LEA also important. <br> - Ligamentum teres plays a negligible role. |
+| **4 to 7 years** | \- LEA predominates as the sole blood supply due to the fully established physis, which prevents entry of metaphyseal vessels. |
+| **7 to 13 years** | \- LEA supplies 80% of blood. <br> - Ligamentum teres contributes 20%, forming anastomoses with LEA. |
+| **\>13 years** | \- Adult blood supply pattern. <br> - LEA and metaphyseal vessels grow into the femoral head as the physis fuses. <br> - Ligamentum teres maintains its role. |

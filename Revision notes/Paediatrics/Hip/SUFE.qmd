@@ -1,0 +1,90 @@
+---
+title: "SUFE"
+---
+
+## **Slipped Upper Femoral Epiphysis (SUFE)**
+
+### Epidemiology
+
+-   Predominantly affects boys more than girls (60:40 ratio) due to delayed physeal closure caused by testosterone.
+-   Observed racial variation with higher incidence in Polynesians and Black populations.
+-   Mean age of onset: 12 years for girls, 13 years for boys, typically within a range of 6-15 years.
+-   Strong association with obesity, with most affected individuals above the 95th percentile for weight.
+-   Occurs more frequently on the left side than the right.
+-   Approximately 80% of cases are unilateral, with 20% bilateral; however, 20% of unilateral cases may progress to bilateral involvement.
+
+### Aetiology
+
+-   Characterized by anterior displacement of the femoral neck on the femoral head, occurring through the hypertrophic zone of the growth plate.
+-   Caused by mechanical forces acting on a susceptible growth plate, increasing physeal shear stress.
+
+**Mechanical Factors** - Obesity - Femoral retroversion - Vertically oriented physis - Enlarged hypertrophic zone
+
+**Chemical Factors** - Endocrinopathy is likely present to some degree, influencing growth plate susceptibility: - Growth hormone: Increases hypertrophic zone size - Hypothyroidism, hypoparathyroidism, hypogonadism, renal failure, and prior radiotherapy
+
+### Classification
+
+**Stability** - **Stable**: Weight-bearing possible - **Unstable**: Unable to bear weight; unstable cases have a 50% risk of avascular necrosis (AVN)
+
+**Chronicity** - Acute (\<3 weeks) - Acute on chronic - Chronic (\>3 weeks), typically after physeal closure
+
+**Severity** (based on Southwick angle) - **Mild**: \<30 degrees - **Moderate**: 30-50 degrees - **Severe**: \>50 degrees
+
+### XR Features
+
+-   Epiphysis is displaced posteriorly and inferiorly with the femoral shaft in varus alignment.
+-   Early indicators include a widened, hazy physis, while other classic signs include:
+    -   **KLEIN’s Line (AP view)**: Trethowan’s sign
+    -   **STEEL’s Blanch sign**: Overlap of epiphysis and metaphysis on AP view
+    -   Widened inferior joint space
+    -   Apparent size reduction of epiphysis, due to it being situated behind the neck
+    -   Remodeling, sclerosis, and inferior callus observed in chronic cases
+
+### Management Goals
+
+-   Prevent progression of the slip and avoid complications associated with SUFE and its treatments.
+
+**Initial Treatment** - Non-weight bearing until surgery is performed. - Endocrine screen (U&E, TFT, GH) if: - Young age, valgus SUFE, thin body habitus, relevant medical history, or bilateral involvement is noted.
+
+#### Stable SUFE
+
+-   Generally, 96% have a favorable outcome with in situ pinning, regardless of severity. Deformity may be corrected later if necessary with osteotomy.
+-   Avoiding reduction reduces AVN risk significantly.
+-   Preferred method: Single, partially or fully threaded cannulated screw. A single screw is almost as effective as two screws and reduces complications. Aim for the screw to pass perpendicularly across the physis, centering within the femoral head, without penetrating it.
+
+#### Unstable SUFE
+
+-   High risk of AVN (\~50%) and poor outcome in half of cases.
+-   Urgent fixation is recommended, ideally within 24 hours.
+-   In situ pinning is the preferred approach, though gentle reduction and decompression may be recommended (no consensus).
+
+#### Prophylactic Pinning
+
+-   Consider for at-risk patients:
+    -   Younger than 10 years old
+    -   Endocrinopathy
+    -   Unstable SUFE
+-   PSA above 14 degrees may also indicate a need for prophylactic pinning.
+
+### Osteotomy
+
+-   Recommended after skeletal maturity, primarily for symptomatic cases to reduce impingement and enhance range of motion.
+    -   Intertrochanteric osteotomy preferred due to a lower AVN risk; intracapsular osteotomy is technically easier.
+-   Not advisable acutely due to high risks.
+
+### Complications
+
+1.  **Chondrolysis**: Risk increases with screw/wire penetration.
+2.  **Fracture**: Increased risk with multiple wire passes or low screw entry.
+3.  **AVN**: Associated with aggressive reduction and unstable SUFE.
+
+#### Morbidity from SUFE Deformity
+
+1.  CAM impingement
+2.  Early-onset osteoarthritis (OA)
+
+### Aftercare
+
+-   Partial weight-bearing for 6–12 weeks, continuing until physeal arrest.
+-   Follow-up until skeletal maturity to monitor for contralateral SUFE.
+-   AVN occurrence risk reduces significantly after 1 year.

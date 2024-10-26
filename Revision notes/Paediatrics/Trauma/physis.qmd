@@ -1,0 +1,112 @@
+---
+title: "Physeal injury"
+---
+
+### **Physeal Injuries and Bar Formation**
+
+### **Aetiology of Bridging**
+
+-   **Definition**: Bridging occurs when there is any direct contact or communication between the metaphysis and epiphysis, often resulting in ossification and bar formation.
+
+#### **Most Common Causes**
+
+1.  **Trauma**
+    -   High-energy injuries.
+    -   Displaced fractures, especially Types 3, 4, and 5.
+    -   Axial compression injuries.
+2.  **Surgery**
+    -   **Pin placement**: Thin, smooth, perpendicular pins are safest. Risks increase with threaded, large, oblique pins or multiple passes.
+    -   **Interference with perichondrial ring**: This ring stabilizes the physis, and disruption can destabilize it.
+    -   **Physeal violation with implants** (e.g., nails for femur fractures).
+3.  **Specific Physes Susceptibility**
+    -   Distal femur is highly susceptible due to its wavy structure, which increases surface area, allowing fractures to cross multiple physeal parts.
+
+#### **Non-Fracture Causes**
+
+-   **Irradiation**
+-   **Tumors**
+-   **Infections**
+-   **Congenital disorders** (e.g., Madelung’s deformity, Blount’s disease)
+
+------------------------------------------------------------------------
+
+### **Pathophysiology of Physeal Injury & Growth Arrest**
+
+| Physis Zones | Characteristics |
+|----------------------------------|--------------------------------------|
+| **Hypertrophic Zone** | Avascular, poor healing potential, mostly cellular with minimal matrix |
+| **Osseo-Cartilaginous Junction** | Metaphysis and physis are supported by the perichondrial ring of LaCroix; damage here disrupts the physis |
+
+-   **Growth Arrest**: Occurs in about 10% of physeal fractures, more common in Type 4 and 5 fractures.
+-   **Adolescents**: Higher likelihood of arrest due to the thickness of the physis and weaker cartilage, though with minimal remaining growth potential, impact is less significant.
+
+#### **Bar Formation**
+
+-   Begins around 6 weeks post-injury but may not be clinically evident for some time.
+-   Requires follow-up until skeletal maturity, especially in:
+    -   Types 4 and 5 fractures.
+    -   High-risk and lower limb physes due to potential impacts on leg length and mechanical alignment.
+-   **Bridging threshold**: Damage needs to exceed 7% of physis cross-section for bridging to occur.
+
+------------------------------------------------------------------------
+
+### **Classification of Physeal Bars**
+
+| Classification | Description |
+|----------------------------------------|--------------------------------|
+| **Position** | Central, Linear, Peripheral |
+| **Size** | Critical size is 50% of physeal area, which is the upper limit for resection; measured on axial CT or MRI for precision. |
+
+------------------------------------------------------------------------
+
+### **X-Ray Evaluation**
+
+-   **Signs**:
+    -   **Angular deformity**.
+    -   **Visible bar**.
+    -   **Asymmetry in Harris growth recovery lines**:
+        -   These sclerotic lines indicate calcification post-physeal injury.
+        -   Growth lines should ideally be parallel to the physis; convergence towards a bar suggests arrest.
+        -   The gap between growth lines and the physis shows growth since the injury. Complete arrest shows no growth lines.
+-   **Imaging**:
+    -   **CT scan**: Offers better definition of bony structures.
+    -   **MRI scan**: Ideal for identifying fibrous bars.
+
+------------------------------------------------------------------------
+
+### **Factors Affecting Bridge Resection**
+
+| Factor | Impact on Treatment |
+|--------------------|----------------------------------------------------|
+| **Aetiology** | Trauma-related bars have better outcomes than those from infections. |
+| **Physeal Location & Growth Contribution** | Higher growth potential enhances remodeling. |
+| **Age & Growth Potential** | Younger children benefit more from resection; growth charts help assess potential. |
+| **Bar Size** | Optimal outcomes with bars \<25%; resectable up to 50%. |
+| **Bar Location** | \- **Peripheral**: Causes angular deformity; resection recommended. <br> - **Central**: Harder to resect, causes limb length discrepancy if large. |
+
+**Resection Criteria**: 1. Child has at least **2 years** or **2 cm** of remaining growth. 2. **Bar size \<25%**, ideally, but maximum resection up to **50%**.
+
+------------------------------------------------------------------------
+
+### **Alternative Treatments to Bar Resection**
+
+1.  **Epiphysiodesis**
+    -   Prevents angular deformity in older children.
+    -   May include contralateral epiphysiodesis for symmetry.
+2.  **Osteotomy**
+    -   Corrects angulation; can be combined with bar resection or delayed to observe bar resection’s effect on angulation.
+3.  **Limb Lengthening**
+    -   Conducted at skeletal maturity.
+    -   Option if bar is irresectable, too large, or resection fails.
+4.  **Delayed Hemiepiphysiodesis**
+    -   Performed opposite the bar to correct angulation once resected area shows growth.
+
+------------------------------------------------------------------------
+
+### **Resection Technique**
+
+-   **Approach**: Based on bar type and location.
+    -   Central bars often need access through osteotomy or a metaphyseal window.
+    -   Use curettes or burrs for bar resection, with continuous irrigation.
+-   **Interposition Grafts**: Fill space with a fat or PMMA graft; both materials show equivalent results.
+-   **Corrective Osteotomy**: For irreparable angular deformities.
