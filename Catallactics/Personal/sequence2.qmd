@@ -5,7 +5,7 @@ comments:
 date: 14 October 2024
 ---
 
-First, we can summarise what we have learned from the previous post on risks: [Market risk is not the only risk in market](https://www.knotes.co.in/catallactics/personal/niftyreturns).
+First, we can summarise what we have learned from the previous post on risks: [Market risk is not the only risk in market.](https://whttps://www.knotes.co.in/catallactics/personal/sequence1)
 
 We invest into the future to meet future needs and wants. Historically, capital equity markets have outperformed other asset classes, so some of us tend to use equity as a vehicle to accumulate wealth. Market risk refers to the uncertainty in the average return we will realise by doing so. Beyond this, hidden risks—namely [volatility risk](https://www.knotes.co.in/catallactics/personal/volatility)**, , inaction risk, and sequence of return risk**—can affect our final Total Portfolio Value (TPV). We saw that the sequence in which we receive varying returns can have a profound impact on TPV, particularly when we are adding or, more importantly, withdrawing money from the portfolio. This risk vanishes if there are no additions or withdrawals, as CAGR is calculated by multiplying returns at different intervals of time.
 
