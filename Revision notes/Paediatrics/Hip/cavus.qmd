@@ -1,0 +1,64 @@
+---
+title: "Pes cavus"
+---
+
+Pes Cavus, or high-arched foot, is a structural foot deformity characterized by an unusually high medial longitudinal arch. This condition may be congenital or secondary to underlying neuromuscular conditions. It can present with various symptoms based on severity and the underlying cause.
+
+## Aetiology
+
+| Type | Characteristics |
+|------------------|------------------------------------------------------|
+| **Primary Congenital** | Rare, non-progressive, usually asymptomatic until adulthood, not due to muscle imbalance |
+| **Neurologic Pes Cavus** | Most common type, often bilateral; associated with Charcot-Marie-Tooth (CMT), nerve injury, spinal cord lesion, polio, spina bifida, or cerebral palsy |
+| **Secondary to CTEV** | Resulting from failed treatment of congenital talipes equinovarus (clubfoot) |
+
+## Pathophysiology
+
+The deformity is primarily driven by a **plantarflexed first ray**, leading to an imbalance between the **tibialis anterior** and **peroneus longus** muscles.
+
+-   Weak **tibialis anterior** allows the **peroneus longus** to pull the first ray downward, resulting in a high arch and **tripod effect**.
+-   For balance, the hindfoot shifts into **varus**, leading to progressive plantar fascia contracture.
+-   **Intrinsic tightness** often coexists, causing claw toes, although **equinus** (ankle fixed in plantarflexion) is generally minimal.
+
+## Diagnosis
+
+1.  **Family History**: Screening for hereditary conditions, such as Charcot-Marie-Tooth (CMT), is crucial.
+2.  **Sensory Testing**: Check for neurologic involvement.
+3.  **Coleman Block Test**: Determines if hindfoot varus is correctable, guiding treatment approach.
+
+### Imaging
+
+-   **X-Ray**: Reveals signs of secondary arthrosis in stiff cavus feet and displays full cuboid visibility due to high arch.
+-   **MRI Spine**: Recommended for unilateral pes cavus to rule out spinal causes.
+
+## Management Principles
+
+In children, correcting the underlying driving force often resolves the deformity. However, more advanced cases, especially those with stiffness, may require surgical intervention.
+
+### Treatment Options
+
+#### Non-Surgical
+
+-   **Accommodative Footwear**: Useful if there is no muscle imbalance driving the deformity, effective in mild cases.
+
+#### Surgical
+
+| Procedure | Indication |
+|--------------------------|----------------------------------------------|
+| **Plantar Fascia Release** | Mild deformities or as part of broader correction |
+| **Osteotomy** | Adjusts bone alignment in more complex cases |
+| \- **1st Metatarsal Extension/Cuneiform Closing Wedge** | Corrects weak tibialis anterior-driven deformities |
+| \- **Lateral Column Shortening (Dwyer)** | In cases of a high arch with a short lateral column |
+| **Tendon Transfers** | Tailored to specific muscle imbalances |
+| \- **EHL Transfer to 1st MT Neck** | Promotes dorsiflexion of the 1st ray |
+| **Calcaneal Osteotomy** | For fixed hindfoot varus, a proximal displacement osteotomy is performed |
+| **Triple Fusion** | Indicated in cases of stiff, painful cavus foot deformities |
+
+## Outcomes and Considerations
+
+-   **Recurrence** is high, particularly in neurologic cases where muscle imbalance drives the deformity.
+-   **Early diagnosis** and intervention, particularly in children, can prevent progression and improve outcomes.
+
+## References
+
+Miller M (2008) *Review of Orthopaedics*, 5th edition, Saunders.

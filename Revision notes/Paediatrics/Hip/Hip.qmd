@@ -2,7 +2,7 @@
 title: "Paediatric hip"
 ---
 
-### **Paediatric Hip Anatomy and Disorders**
+### **Paediatric Hip Anatomy**
 
 ### **1. Femoral Head Blood Supply**
 
@@ -21,7 +21,7 @@ The blood supply to the femoral head varies with the maturity of the growth plat
 #### **Blood Supply Development by Age**
 
 | Age Group | Blood Supply Characteristics |
-|--------------------|----------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | **Birth to 4 years** | \- Metaphyseal vessels dominate, entering the area where the physis will form. <br> - LEA also important. <br> - Ligamentum teres plays a negligible role. |
 | **4 to 7 years** | \- LEA predominates as the sole blood supply due to the fully established physis, which prevents entry of metaphyseal vessels. |
 | **7 to 13 years** | \- LEA supplies 80% of blood. <br> - Ligamentum teres contributes 20%, forming anastomoses with LEA. |

@@ -1,0 +1,110 @@
+---
+title: "Clubfoot"
+---
+
+Talipes Equinovarus, commonly known as Clubfoot, is a congenital deformity involving multiple musculoskeletal structures in the foot and ankle. It presents with a distinctive inward twisting of the foot and affects approximately 1 in 1,000 live births.
+
+## Epidemiology
+
+| Parameter  | Details                                     |
+|------------|---------------------------------------------|
+| Gender     | Boys \> Girls                               |
+| Prevalence | Higher in Polynesians and Black populations |
+| Laterality | 50% of cases are bilateral                  |
+
+## Aetiology
+
+Clubfoot’s causes are multifactorial, with several proposed theories:
+
+-   **Neurogenic**: Muscle imbalance potentially leading to deformity
+-   **Myogenic**: Anomalous muscles noted in clubfoot
+-   **Vascular**: Often accompanied by a short limb and absent anterior tibial artery
+-   **Bone Abnormalities**: Primarily affecting talus and calcaneus
+-   **Packaging Disorder**: Association with developmental dysplasia of the hip (DDH) and metatarsus adductus
+-   **Genetic Predisposition**: Family history increases risk
+-   **Associated Conditions**: May present alongside hip and spinal issues (screen recommended)
+
+## Subtypes of Clubfoot
+
+| Subtype | Description |
+|--------------------|----------------------------------------------------|
+| **Idiopathic** | No known associated conditions |
+| **Neuromuscular** | Related to conditions such as CP, polio, peroneal nerve palsy, spina bifida |
+| **Teratologic** | Associated with arthrogryposis and multiple joint contractures |
+
+## Features of the Deformity
+
+The deformity in clubfoot affects the ankle, subtalar, and midtarsal joints. Key components include:
+
+1.  **Ankle**: Equinus position due to gastro-soleus involvement
+2.  **Hindfoot**: Varus, inversion, and adduction caused by tibialis posterior contracture, and bony abnormalities in the talus and calcaneus
+3.  **Forefoot**: Cavus, adduction, and plantarflexion involving the plantar fascia, adductor hallucis, and flexor hallucis
+
+## Classification: Pirani Score
+
+| Score Element         | Description                                      |
+|-----------------------|--------------------------------------------------|
+| **Posterior Folds**   | Medial and posterior creases, linked to severity |
+| **Curvature**         | Curvature of the lateral border                  |
+| **Calcaneus & Talus** | Palpability indicates severity                   |
+
+-   Scores range from 0 to 6, with higher scores indicating more severe and rigid deformities.
+
+## Clinical Presentation
+
+-   Medial-facing sole
+-   High-arched heel
+-   Shortened limb on the affected side
+-   Smaller calf and foot size
+-   Screening advised for associated abnormalities (e.g., bone dysplasia, DDH, neurogenic markers)
+
+## Imaging Features
+
+Imaging, although not always required for diagnosis, provides key insights:
+
+| View | Key Indicators |
+|----------------------|--------------------------------------------------|
+| **Lateral (Turco’s)** | Talo-calcaneal angle is 0° in clubfoot |
+| **AP (Kite’s Angle)** | Talo-calcaneal angle less than 20° (normally 20-40°) |
+
+## Management Approaches
+
+### Ponseti Method
+
+-   **Indications**: First-line treatment for all clubfoot presentations
+-   **Process**: 6-8 casts changed weekly, ending with Achilles tenotomy
+-   **Post-casting**: Boot and bar used 23 hours daily for 3 months, then nightly until age 4
+-   **Correction Order (CAVE)**:
+    -   **C**avus (dorsiflexion of the first ray)
+    -   **A**dductus (forefoot correction)
+    -   **V**arus (hindfoot correction)
+    -   **E**quinus (Achilles tenotomy)
+
+### Soft Tissue Release
+
+| Method         | Description                                           |
+|----------------|-------------------------------------------------------|
+| **Cincinnati** | Circumferential release of all structures             |
+| **A la Carte** | Posteromedial release tailored to specific structures |
+
+-   **Complications**: Scarring, stiffness, neurovascular risk, recurrence in resistant cases
+
+## Surgical Options
+
+| Technique | Use Case | Key Points |
+|-----------------|-----------------------------|---------------------------|
+| **Tendon Transfer** | Residual recurrence in ages 3-4 | Transfer TA to base of the 5th metatarsal |
+| **Ilizarov Method** | Severe, stiff, older cases | Gradual correction with external fixation |
+| **Osteotomy** | Recalcitrant deformities, older children | Calcaneus or lateral column shortening |
+| **Talectomy** | Rare, primarily in cases of arthrogryposis |  |
+| **Fusion** | Triple fusion in select cases to stabilize foot | Concerns for future ankle degeneration |
+
+## Bony Features of Clubfoot
+
+-   **Parallelism** of talus and calcaneus on both views
+-   **Kite’s Angle** \< 20 degrees
+-   **Turco’s Angle** 0 degrees in lateral dorsiflexion view
+
+## References
+
+Miller M (2008) *Review of Orthopaedics*, 5th edition, Saunders.

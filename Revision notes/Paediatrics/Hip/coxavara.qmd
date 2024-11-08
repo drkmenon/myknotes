@@ -1,0 +1,76 @@
+---
+title: "Coxa Vara"
+---
+
+**Definition**\
+Coxa Vara is defined as a neck-shaft angle of less than 120 degrees.
+
+### Epidemiology
+
+| Factor              | Details                 |
+|---------------------|-------------------------|
+| Incidence           | 1 in 25,000 live births |
+| Gender              | Boys = Girls            |
+| Laterality          | Left = Right            |
+| Racial Predilection | None                    |
+| Bilateral Cases     | 30%                     |
+
+### Aetiology
+
+The primary cause is an ossification defect in the infero-medial proximal femoral physis, specifically within Fairbank’s triangle. It is associated with autosomal dominant inheritance and incomplete penetrance.
+
+### Types of Coxa Vara
+
+| Type | Characteristics |
+|--------------|----------------------------------------------------------|
+| Developmental | Due to primary ossification defect; physis becomes more vertical over time, increasing shear force and leading to physeal separation. |
+| Congenital | Associated with conditions like Congenital Short Femur (CSF), Proximal Femoral Focal Deficiency (PFFD), fibular hemimelia, etc. |
+| Acquired | Occurs secondary to conditions like Slipped Upper Femoral Epiphysis (SUFE), Perthes Disease, or Skeletal Dysplasia. |
+
+### Clinical Presentation
+
+-   **Typical Onset:** Once a child starts walking, usually before the age of 5.
+-   **Symptoms:**
+    -   Trendelenburg gait
+    -   Waddling gait or limp (if bilateral)
+    -   Usually painless
+    -   Prominent trochanter
+
+### Imaging Features
+
+-   **Inverted Y Sign:** A pathognomonic feature caused by fragmentation of the infero-medial physis.
+-   **Other Imaging Observations:**
+    -   Delayed ossification (may resemble Developmental Dysplasia of the Hip (DDH)).
+    -   Infero-medial quadrant placement of metaphysis.
+    -   Physeal arrest.
+    -   Trochanteric overgrowth.
+
+### Management
+
+The treatment approach for coxa vara depends on **Hilgenreiner’s Epiphyseal Angle (HEA)**, which is the angle between the physis and Hilgenreiner’s line.
+
+| HEA Angle     | Management Strategy                         |
+|---------------|---------------------------------------------|
+| \< 45 degrees | Non-operative; often corrects spontaneously |
+| 45-60 degrees | Close observation with serial X-rays        |
+| \> 60 degrees | Surgical intervention with osteotomy        |
+
+#### Surgical Approach: Pawels Y-Shaped Osteotomy
+
+-   **Purpose:** Corrects HEA to approximately 16 degrees to reduce shear force on the physis.
+-   **Procedure:**
+    -   Calculate osteotomy closing wedge angle as HEA minus 16 degrees.
+    -   Use K-wires to align cuts and saw to perform osteotomy.
+    -   Fixation is achieved with a Tension Band Wire (TBW), blade plate, or locking plate.
+-   **Trochanteric Advancement:** Considered if Trendelenburg gait is present.
+
+### Complications
+
+-   **Avascular Necrosis (AVN):** Especially common in intracapsular osteotomy.
+-   **Physeal Arrest:** Occurs in about 80% of cases.
+-   **Trochanteric Overgrowth:** May lead to hip issues.
+-   **Recurrence of Coxa Vara:** Noted in approximately 50% of cases after treatment.
+
+### Reference
+
+-   Lieberman, J. (2009). *AAOS Comprehensive Review*. American Academy of Orthopaedic Surgeons
