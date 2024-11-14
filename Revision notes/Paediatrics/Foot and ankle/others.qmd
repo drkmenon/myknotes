@@ -1,0 +1,111 @@
+---
+title: "Miscellaneous foot disorders"
+---
+
+# Table of Contents
+
+-   [Kohler’s Disease](#kohlers-disease)
+-   [Curly Toes](#curly-toes)
+-   [Polydactyly](#polydactyly)
+-   [Congenital Hallux Varus](#congenital-hallux-varus)
+-   [Overlapping Toe](#overlapping-toe)
+-   [Accessory Navicular](#accessory-navicular)
+-   [Habitual Toe Walking](#habitual-toe-walking)
+-   [Ball and Socket Ankle](#ball-and-socket-ankle)
+-   [Juvenile Bunions](#juvenile-bunions)
+-   [Iselin’s Disease](#iselins-disease)
+-   [Sever’s Disease](#severs-disease)
+
+## Kohler’s Disease {#kohlers-disease}
+
+-   **Gender Prevalence**: Boys \> Girls
+-   **Cause**: Idiopathic avascular necrosis (AVN) of the navicular bone.
+-   **Development**: Navicular is the last bone to ossify in the foot.
+-   **Symptoms**: Pain, limping, weight-bearing on the lateral border of the foot.
+-   **Natural History**: Navicular reconstitutes naturally within 18 months; symptoms improve before that.
+-   **Treatment**: Short period of restricted weight-bearing with a plaster cast.
+
+------------------------------------------------------------------------
+
+## Curly Toes {#curly-toes}
+
+-   **Cause**: Contracture of the flexor digitorum longus (FDL) or flexor digitorum brevis (FDB), usually affecting the lateral three toes.
+-   **Treatment**: Tenotomy of FDL around age 3 if symptomatic.
+
+------------------------------------------------------------------------
+
+## Polydactyly {#polydactyly}
+
+-   **Description**: Presence of extra toes, commonly on the lateral (post-axial) side.
+-   **Family History**: Often positive.
+-   **Associated Conditions**: Linked with congenital hallux varus.
+-   **Treatment**: Typically, the most lateral toe is removed, considering both bony and soft tissue components. Optimal age for surgery is around 9-12 months.
+
+------------------------------------------------------------------------
+
+## Congenital Hallux Varus {#congenital-hallux-varus}
+
+-   **Associated Conditions**: Linked with polydactyly.
+-   **Anatomy**: Short, thick first metatarsal (MT); adductor hallucis longus is the deforming muscle.
+-   **Treatment**: Rarely requires surgery; if indicated, involves release of adductor hallucis longus and possibly osteotomy.
+
+------------------------------------------------------------------------
+
+## Overlapping Toe {#overlapping-toe}
+
+-   **Description**: Usually affects the 5th toe overlapping the 4th toe.
+-   **Symptoms**: May cause issues with footwear.
+-   **Treatment Options**:
+    -   Stretching (often successful).
+    -   Syndactylization of the 5th and 4th toes.
+    -   Tenotomy.
+
+------------------------------------------------------------------------
+
+## Accessory Navicular {#accessory-navicular}
+
+-   **Prevalence**: Present in about 12% of the population.
+-   **Symptoms**: Often asymptomatic but associated with flatfoot.
+-   **Natural History**: Tends to fuse with growth.
+-   **Treatment**: If symptomatic, excision is effective, usually confirmed with a diagnostic injection first.
+
+------------------------------------------------------------------------
+
+## Habitual Toe Walking {#habitual-toe-walking}
+
+-   **Cause**: Often due to tight Achilles tendon.
+-   **Natural History**: Usually resolves spontaneously.
+-   **Treatment**: May require serial casting or Achilles lengthening if persistent.
+
+------------------------------------------------------------------------
+
+## Ball and Socket Ankle {#ball-and-socket-ankle}
+
+-   **Description**: A compensatory mechanism to increase ankle movement, often associated with other rigidity issues.
+-   **Associations**:
+    -   Tarsal coalition (50% of cases).
+    -   Absence of lateral rays (50%).
+-   **Etiology**: Generally congenital, sometimes part of conditions like fibula hemimelia.
+
+------------------------------------------------------------------------
+
+## Juvenile Bunions {#juvenile-bunions}
+
+-   **Gender Prevalence**: Girls \> Boys.
+-   **Management**: Avoid surgery where possible to prevent recurrence due to growth; accommodative shoe wear is recommended.
+-   **Surgical Consideration**: Ensure the first ray is not hypermobile if surgery is considered.
+
+------------------------------------------------------------------------
+
+## Iselin’s Disease {#iselins-disease}
+
+-   **Description**: Traction apophysitis of the 5th metatarsal (MT) base.
+-   **Management**: Non-operative treatment.
+
+------------------------------------------------------------------------
+
+## Sever’s Disease {#severs-disease}
+
+-   **Description**: Traction apophysitis of the calcaneal apophysis.
+-   **Age Range**: Typically affects children aged 7-15 years.
+-   **Management**: Non-operative treatment. \`\`\`
