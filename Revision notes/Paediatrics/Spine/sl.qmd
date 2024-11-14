@@ -1,0 +1,88 @@
+---
+title: "Spondylolisthesis"
+---
+
+### Epidemiology:
+
+-   Affects **5%** of the population.
+-   More common in **males**, but females often experience **more severe** cases.
+-   Increased incidence among **Eskimos**.
+
+### Aetiology:
+
+-   **25%** of individuals with **spondylolysis** (pars defect) develop **spondylolisthesis**.
+-   Most common at **L5/S1**, followed by **L4/5**, then **L3/4**.
+-   Typically an **acquired condition**.
+
+### Classification:
+
+#### Type (Wiltse):
+
+1.  **Dysplastic**:
+    -   Facet joint anomaly with an intact posterior neural arch.
+2.  **Isthmic**:
+    -   **2a**: Stress fracture of pars (spondylolysis).
+    -   **2b**: Elongated pars (most common).
+    -   **2c**: Acute fracture of pars (rare).
+3.  **Other types**:
+    -   **Degenerative**, **post-traumatic**, **pathologic**, **iatrogenic** (less common in children).
+
+#### Grade (Myerding 1-5):
+
+-   **Grade 1**: 0-25% slip.
+-   **Grade 2**: 25-50% slip.
+-   **Grade 3**: 50-75% slip.
+-   **Grade 4**: 75-100% slip.
+-   **Grade 5**: \>100% (spondyloptosis).
+
+### Clinical Features:
+
+-   **Activity-related low back pain**, exacerbated by extension activities.
+-   **Visible deformity**.
+-   **Tight hamstrings**.
+-   **L5 nerve root impingement**.
+
+### Imaging:
+
+-   **Standing AP**, **Lateral**, **Oblique X-rays**.
+-   **Scotty dog sign** visible on oblique views.
+-   **CT scan** is more effective than **MRI**.
+-   **Bone scan** or **SPECT scan** may be used.
+
+### Risk of Progression:
+
+-   **High grade (3-4)**.
+-   **Dysplastic spondylolisthesis**.
+-   **Females** are at higher risk.
+-   **\>40 degrees of lumbosacral kyphosis**.
+-   Progression is more likely **pre-growth spurt**.
+
+### Management:
+
+#### Non-Operative:
+
+-   **Low grade asymptomatic**: Observation.
+-   **Low grade symptomatic**: Brace for **6 months**.
+
+#### Operative Indications:
+
+-   **High grade slip**.
+-   **Evidence of progression to high grade**.
+-   **Intractable pain**.
+-   **Risk factors for progression**:
+    -   **Dysplastic spondylolisthesis** (higher neurologic risk).
+    -   **Intact posterior arch** increases risk of neurologic injury if slip progresses.
+
+#### Surgical Technique:
+
+-   **Posterolateral in situ instrumented fusion**.
+-   **Concurrent decompression** if there is neurologic compromise.
+-   **Reduction** may be considered for high-grade slips but can increase the risk of **L5 traction injury**.
+
+### Complications:
+
+-   **Neurologic injury/cauda equina** (rare).
+-   **Slip progression**.
+-   **Pseudoarthrosis**.
+-   **Continued pain**.
+-   **Adjacent level degeneration**.

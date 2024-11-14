@@ -1,0 +1,28 @@
+---
+title: "Neurofibromatosis"
+---
+
+### Overview:
+
+-   The most common skeletal manifestation of **neurofibromatosis** is in the spine.
+
+### Classification:
+
+1.  **Non-Dystrophic** – similar to **Adolescent Idiopathic Scoliosis (AIS)**.
+2.  **Dystrophic**:
+    -   **Vertebral scalloping**.
+    -   **Tight acute curves**.
+    -   **Foraminal widening**.
+    -   **Pencil-like transverse processes (TPs)**.
+
+### Features:
+
+-   **Kyphoscoliosis** due to **NF**.
+-   **High rate of intraneural anomalies**.
+-   **MRI** is essential before any intervention.
+
+### Management:
+
+-   **Management principles** are similar to those of **AIS**.
+-   **More aggressive treatment** is required for the **dystrophic type**.
+-   There is a **higher rate of pseudoarthrosis** following surgery in these cases.

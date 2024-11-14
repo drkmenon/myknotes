@@ -1,0 +1,236 @@
+---
+title: "Scoliosis"
+---
+
+#### Types of Scoliosis:
+
+1.  **Idiopathic**
+    -   Infantile
+    -   Juvenile
+    -   Adolescent
+2.  **Neuromuscular**
+    -   Upper Motor Neuron (UMN) – Cerebral Palsy
+    -   Lower Motor Neuron (LMN) – Spina Bifida
+    -   Myogenic – Duchenne Muscular Dystrophy
+    -   Other conditions: Marfan’s, Neurofibromatosis 1 (NF1)
+3.  **Congenital**
+
+### Idiopathic Scoliosis
+
+#### Definition
+
+-   **Coronal plane deformity** \> 10° (Cobb angle) without an identifiable cause.
+-   A 3D deformity with rotated vertebrae—not just a coronal plane deformity.
+
+#### Aetiology
+
+-   **Genetic**: Autosomal Dominant (AD) with variable penetrance.
+-   **Hormonal**: Melatonin, brainstem, proprioceptive factors implicated.
+
+#### Clinical Problems
+
+-   **Pain**: Uncommon
+-   **Aesthetic concerns**
+-   **Cardiopulmonary compromise**
+-   **Leg Length Discrepancy (LLD)**: Apparent
+-   **Other concerns**: Functional impairments due to severe scoliosis.
+
+### Sub-Types of Idiopathic Scoliosis:
+
+#### 1. **Infantile Idiopathic Scoliosis (0-3 years)**
+
+-   **Incidence**: 5% of idiopathic scoliosis cases
+-   **Male \> Female**
+-   **Left thoracic curve**: 70%
+-   **20% have underlying neurologic issues** – MRI is required for all
+-   **Curve progression**: Only 10% progress; 90% resolve by age 3 years.
+-   **Risk Factors for Curve Progression**:
+    -   Curve magnitude \<25° tends not to progress.
+    -   25°: High risk for progression.
+    -   **Rib Vertebra Angle Difference (RVAD)** \>20° indicates high risk for progression.
+
+#### 2. **Juvenile Idiopathic Scoliosis (4-10 years)**
+
+-   **Incidence**: 15% of idiopathic scoliosis cases
+-   **Female \> Male**
+-   **Right Thoracic curve**
+-   **90% will progress**
+-   **MRI recommended** for 20% who have neural abnormalities.
+-   **Risk Factors for Curve Progression**:
+    -   RVAD \>20°
+    -   Initial curve \>25°
+-   **Surgery**: Immediate if curve \>50°, or if progression is rapid.
+
+#### 3. **Adolescent Idiopathic Scoliosis (AIS) (\>10 years)**
+
+-   **Most common form of scoliosis**
+-   **Girls to Boys ratio**: 10:1
+-   **Right thoracic curve** most common.
+-   **Predictors of progression**:
+    -   **RVAD \>20°**
+    -   Initial curve \>25°
+    -   Younger age \<12 years
+    -   **Skeletal maturity**: Risser grade (0-1), Tanner index (phalyngeal capping), triradiate cartilage closure.
+
+### Classification
+
+#### Common Classifications for AIS:
+
+-   **Lenke**
+-   **King & Moe**
+
+### Clinical Evaluation
+
+#### History
+
+-   Neurological symptoms?
+-   Has menarche occurred?
+-   Is the scoliosis symptomatic or just aesthetic?
+-   When was the curve first noticed?
+-   Family history?
+
+#### Examination
+
+-   **Asymmetry**: Shoulders, leg lengths, pelvic tilt
+-   **Rib hump**: Indicates rotational deformity
+-   **Flexible vs. Fixed** curve: Does it correct with forward bending?
+-   **Neurologic examination**: Look for signs of abnormality.
+
+### Imaging
+
+-   **Standing AP and lateral X-rays** (36-inch cassette): Includes iliac crests for Risser grading.
+-   **Bending X-rays**: Useful for determining whether the curve is structural or compensatory.
+
+### Indications for MRI:
+
+-   Any neurological findings
+-   Unusual curve patterns
+-   Infantile or Juvenile scoliosis
+
+### Assess Maturity
+
+-   **Risser grading**, **Tanner stages**, **Triradiates**, **Menarche**, **Vertebral ring apophysis**, **Tanner-Whitehouse stage III**.
+
+### Management
+
+#### Goals:
+
+-   Prevent progression
+-   Prevent thoracic complications
+-   Restore sagittal balance
+-   Improve cosmesis
+
+#### Non-Operative Management:
+
+-   **Bracing**:
+    -   Slows curve progression but does not correct the curve.
+    -   **Milwaukee brace** for higher than T6 apical vertebrae.
+    -   **TLSO (Boston brace)** for below T6.
+    -   Recommended wear: 20 hours/day with close follow-up.
+
+#### Surgical Management:
+
+-   **Spinal Instrumentation**: For curves \>50°, these curves will continue to progress even in adulthood.
+    -   **Posterior Instrumented Fusion**: Mainstay treatment for all curves.
+    -   **Anterior instrumentation**: For severe, stiff curves (\>50°), or if the patient is younger than 10 years.
+    -   **Two-stage procedure**: Release the curve first, then perform fusion if it is stiff.
+    -   **Growing rods**: For younger children.
+
+### Complications
+
+-   **Crankshaft phenomenon**: Loss of spinal growth.
+-   **Neurologic injury** (rare).
+-   **Curve progression** despite new instrumentation.
+-   **Pseudoarthrosis**, **pancreatitis**, **superior mesenteric artery occlusion**, and **thromboembolism**.
+
+### Degree of Curvature and Recommended Treatment
+
+| **Curvature (Degrees)** | **Recommended Treatment** |
+|-----------------------------------|-------------------------------------|
+| **\< 10°** | Does not qualify as scoliosis; observed in school screenings. |
+| **10° to 25°** | Observation every 4-6 months with physical examination and PA radiographs. |
+| **25° to 40°** | Bracing |
+| **\> 45°** | Spinal fusion with instrumentation. |
+
+### Assessment of Maturity
+
+| **Sign** | **Significance** |
+|--------------------------|----------------------------------------------|
+| **Tanner Stage** | Stage 2 = adolescent growth spurt; Stage 4 = cessation of spinal growth. |
+| **Menarche** | Marks end of peak growth. Continued growth for 2 years after menarche. |
+| **Peak Growth Velocity** | Period of greatest risk of progression. |
+| **Risser Sign** | 0 = curve acceleration; 4 = cessation of spinal growth. |
+| **Triradiate Cartilage** | Fusion = cessation of spinal growth. |
+| **Vertebral Ring Apophysis** | Fusion = cessation of spinal growth. |
+| **Tanner-Whitehouse Stage III** | “Capping” of the phalangeal metaphysis correlates with curve acceleration phase. |
+
+### RVAD (Rib-Vertebra Angle Difference) Measurement
+
+-   **Method**: A line is drawn perpendicular to the end plate of the apical vertebra, and another from the midpoint of the neck of the rib through the midpoint of the head of the rib to the convex side.
+-   **Calculation**: Concave – convex = RVAD.
+
+### Congenital Scoliosis
+
+#### Epidemiology
+
+-   1-4% of the general population.
+-   No specific inheritance pattern; isolated cases are common.
+-   Associated with intra-spinal anomalies.
+
+#### Causes:
+
+-   **Failure of Formation**: Hemivertebra or wedge vertebra.
+-   **Failure of Segmentation**: Intervertebral bar (unilateral or complete).
+-   **Mixed**: Both failure of formation and segmentation.
+
+### Associations
+
+-   **Intraspinal anomalies**: Diastematomyelia, tethering of the cord, syrinx, Chiari formation.
+-   **Systemic problems or syndromes**:
+    -   VACTERL (Vertebral, Anal, Cardiac, Tracheoesophageal, Renal, Limb defects).
+    -   Congenital heart defects (26%).
+    -   Congenital urogenital defects (21%).
+    -   Limb abnormalities (DDH, limb hypoplasia, Sprengel’s deformity).
+    -   Anal atresia, hearing deficits, and facial asymmetry.
+
+### Clinical Workup:
+
+-   **XR evaluation**: Essential for detecting congenital anomalies.
+-   **CT**: Useful for identifying bony bars.
+-   **MRI**: Required in all patients.
+-   **Renal USS**: To rule out urogenital anomalies.
+-   **ECG/ECHO**: For heart anomalies.
+-   **Pulmonary function**: For curves \>50°.
+
+### Management
+
+#### Non-Operative:
+
+-   **No role for bracing**.
+-   **Observation**: For low-risk or mild deformities.
+
+#### Operative:
+
+-   **Posterior Instrumented Fusion**: Mainstay treatment.
+-   **Add anterior fusion** if:
+    -   Risk of crankshaft.
+    -   Large curve.
+    -   Young patient.
+-   **Other options**: Hemiepiphysiodesis, excision of bar or hemivertebra.
+
+### Neuromuscular Scoliosis
+
+#### Goals:
+
+-   Retain ability to sit in a chair.
+-   Prevent curve progression.
+-   Prevent thoracic complications.
+
+#### Clinical Features:
+
+-   Larger curves with fewer compensatory curves.
+-   Balance is poorer, and curve progression continues after maturity.
+
+#### Management Principles:
+
+-   **Non-surgical bracing**: Suitable

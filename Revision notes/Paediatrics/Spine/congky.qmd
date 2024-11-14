@@ -1,0 +1,35 @@
+---
+title: "Congenital Kyphosis"
+---
+
+------------------------------------------------------------------------
+
+### Types (as with scoliosis):
+
+1.  **Failure of Formation** (Type 1)
+2.  **Failure of Segmentation** (Type 2)
+3.  **Mixed**
+
+### Failure of Formation (Type 1)
+
+-   Has the highest rate of progression and neurologic injury of any spinal deformity.
+-   Causes **acute kyphosis**.
+-   **High association** (\>50%) with **neural anomaly**.
+
+### Management
+
+#### Non-Operative:
+
+-   **Type 2 curves** can be observed with monitoring.
+
+#### Operative Indications:
+
+-   **Neurologic deficit**.
+-   **\>50-degree curve** in children under **5 years** with a **Type 1 curve**.
+-   **Progression of any other type curve**.
+
+#### Surgical Procedure:
+
+-   **Posterior instrumented fusion**.
+    -   Essentially a **posterior hemiepiphysiodesis**.
+-   Add **anterior decompression** if there is a **neurologic deficit**.

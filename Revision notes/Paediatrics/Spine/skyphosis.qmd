@@ -1,0 +1,60 @@
+---
+title: "Scheuermann’s Kyphosis"
+---
+
+### Epidemiology
+
+-   **Incidence**: 1-8% of the population.
+-   **Gender ratio**: Males 7:1, Females.
+
+### Definition
+
+-   **Kyphosis**: Thoracic kyphosis \> 45° with more than 5° of anterior wedging in 3 consecutive vertebrae.
+
+### Aetiology
+
+-   **Developmental error** of collagen leading to disturbed endochondral ossification of the vertebral end plates, resulting in wedge-shaped vertebrae and kyphotic deformity.
+-   **Commonly affects the thoracic spine**, though it may also involve the lumbar region.
+-   **Thoracolumbar junction** is usually spared.
+-   **Lumbar Scheuermann’s**: Similar features but no vertebral wedging, more likely to be symptomatic.
+
+### Clinical Presentation
+
+-   **Age group**: Typically affects adolescent boys.
+-   **Symptoms**:
+    -   Poor posture.
+    -   Pain over the deformity.
+    -   Rare neurologic compromise.
+    -   Kyphosis does not correct with hyperextension.
+
+### Imaging Features
+
+-   **Wedge-shaped vertebrae**.
+-   **Irregular end plates**.
+-   **Kyphosis with gibbus**: Acute angular kyphosis.
+-   **Schmorl’s nodes**: Protrusion of cartilage from the disc through the end plate into the vertebra.
+
+### Management
+
+#### Non-Operative:
+
+-   **Bracing**: Recommended if near skeletal maturity and pain is not a major issue.
+
+#### Operative:
+
+-   **Indications for surgery**:
+    -   **Kyphosis \>75°**.
+    -   Progressive kyphosis in younger children.
+    -   Significant back pain.
+    -   Neurologic deficit (rare).
+    -   Cosmesis: Relative indication for surgery.
+-   **Surgical Procedure**:
+    -   **Posterior Instrumented Fusion**.
+    -   **Multiple wedge osteotomies** (Smith-Peterson) may be needed.
+    -   **Anterior release** only required if curve \>90°.
+    -   **Decompression** of neurologic structures if deficit is present (rare).
+
+### Complications
+
+-   **Junctional Kyphosis**.
+-   **Neurologic injury**: Uncommon, but requires attention during surgery.
