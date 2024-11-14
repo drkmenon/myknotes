@@ -1,0 +1,55 @@
+---
+title: "Metatarsus adductus"
+---
+
+Metatarsus Adductus (MTA) is a common congenital foot deformity characterized by the inward curvature of the forefoot while the hindfoot remains in a neutral position. This condition usually resolves on its own but may require intervention in some cases.
+
+## Epidemiology
+
+-   **Incidence**: Occurs in approximately 12% of newborns.
+-   **Natural Resolution**: 90% of cases resolve spontaneously by the age of 4.
+
+## Aetiology
+
+Metatarsus Adductus is primarily a **"packaging problem"** due to limited intrauterine space, which causes the forefoot to turn inward. It is often associated with **Developmental Dysplasia of the Hip (DDH)**, making early screening essential.
+
+## Classification
+
+Metatarsus Adductus is commonly classified using the **Bleck Classification**, which considers:
+
+1\. **Heel Bisector Line**: Determines the severity based on the position of the forefoot relative to the heel.
+
+2\. **Deformity Stiffness**: Assesses the flexibility of the foot to guide treatment.
+
+------------------------------------------------------------------------
+
+## Diagnosis
+
+1.  **Clinical Examination**:
+    -   Observe forefoot adduction with a neutral hindfoot.
+    -   Screen for other foot deformities and any associated conditions, such as DDH.
+2.  **Tickle Foot Test**:
+    -   Gentle stimulation of the lateral foot triggers peroneal muscle activity, indicating flexibility.
+3.  **Heel Bisector Angle**:
+    -   An abnormal heel bisector angle confirms the diagnosis.
+
+------------------------------------------------------------------------
+
+## Management
+
+Treatment of Metatarsus Adductus varies based on the age of the child and the stiffness of the deformity.
+
+### Management Flow Chart
+
+```{mermaid}
+flowchart TD
+  A[Metatarsus Adductus] --> B[Assess Flexibility]
+  B --> C{Is Deformity Flexible?}
+  C --> Yes --> D[Passive Stretching Home Exercises]
+  C --> No --> E[Serial Casting Young Children]
+  E --> F{Age of Child}
+  F --> G[> 7 Years] --> H[Surgery Osteotomies]
+  H --> I[Medial Column Lengthening]
+  H --> J[Lateral Column Shortening]
+  F --> K[< 7 Years] --> L[Continue Serial Casting]
+```

@@ -27,7 +27,7 @@ Clubfoot’s causes are multifactorial, with several proposed theories:
 ## Subtypes of Clubfoot
 
 | Subtype | Description |
-|--------------------|----------------------------------------------------|
+|----|----|
 | **Idiopathic** | No known associated conditions |
 | **Neuromuscular** | Related to conditions such as CP, polio, peroneal nerve palsy, spina bifida |
 | **Teratologic** | Associated with arthrogryposis and multiple joint contractures |
@@ -63,7 +63,7 @@ The deformity in clubfoot affects the ankle, subtalar, and midtarsal joints. Key
 Imaging, although not always required for diagnosis, provides key insights:
 
 | View | Key Indicators |
-|----------------------|--------------------------------------------------|
+|----|----|
 | **Lateral (Turco’s)** | Talo-calcaneal angle is 0° in clubfoot |
 | **AP (Kite’s Angle)** | Talo-calcaneal angle less than 20° (normally 20-40°) |
 
@@ -92,7 +92,7 @@ Imaging, although not always required for diagnosis, provides key insights:
 ## Surgical Options
 
 | Technique | Use Case | Key Points |
-|-----------------|-----------------------------|---------------------------|
+|----|----|----|
 | **Tendon Transfer** | Residual recurrence in ages 3-4 | Transfer TA to base of the 5th metatarsal |
 | **Ilizarov Method** | Severe, stiff, older cases | Gradual correction with external fixation |
 | **Osteotomy** | Recalcitrant deformities, older children | Calcaneus or lateral column shortening |
