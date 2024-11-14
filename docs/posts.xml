@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   210922    295375    342351    609383    435407 332734144 </code></pre>
+2.000e+05 2.968e+05 3.434e+05 1.785e+06 4.343e+05 1.201e+10 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62149   64070   64507   64504   64939   66963 </code></pre>
+  62131   64075   64503   64512   64938   67303 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.832e+05 3.296e+06 5.556e+06 3.149e+07 1.167e+07 3.324e+10 </code></pre>
+8.603e+05 3.320e+06 5.683e+06 1.492e+08 1.168e+07 1.201e+12 </code></pre>
 </div>
 </div>
 </section>

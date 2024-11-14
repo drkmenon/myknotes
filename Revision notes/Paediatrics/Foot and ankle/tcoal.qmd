@@ -1,0 +1,71 @@
+---
+title: "Tarsal Coalition"
+---
+
+## Aetiology
+
+-   **Prevalence**: Found in \~1% of the population, potentially more.
+-   **Inheritance**: Autosomal dominant.
+-   **Pathogenesis**: Failure of mesenchymal differentiation in peritalar joints.
+    -   Results in a **fibro-osseus bar** instead of a joint.
+    -   **20%** have multiple coalitions in the same foot.
+    -   **50%** are bilateral.
+
+### Associations
+
+-   **Multiple Coalitions**: Linked to Apert’s syndrome and fibula hemimelia.
+
+## Pathoanatomy
+
+-   **Common Locations**:
+    -   **Calcaneonavicular**: Most common site.
+    -   **Talocalcaneal**: Second most common, often in the medial facet.
+    -   **Other Coalitions**: Rare, can occur between any peritalar joints.
+
+## Clinical Presentation
+
+-   Symptoms typically appear once the coalition ossifies and becomes painful.
+    -   **Calcaneonavicular** coalitions present earlier than **talocalcaneal** (age 8-15 years).
+    -   **Symptoms**: Recurrent ankle sprains, difficulty on uneven terrain.
+
+### Examination
+
+| Feature                         | Description                     |
+|---------------------------------|---------------------------------|
+| **Rigid Planovalgus Deformity** | Fixed flatfoot with heel valgus |
+| **Sinus Tarsi Pain**            | Pain due to impingement         |
+
+## Classification
+
+-   **By Anatomy of Coalition**:
+    -   Based on location and involved joints.
+-   **By Nature of Bar**:
+    -   **Fibrous**, **Cartilaginous**, or **Osseous** bar types.
+
+## Imaging
+
+-   **X-Ray Findings**:
+    -   **Negative Meary’s Angle**: Indicates planovalgus deformity.
+    -   **Anteater Sign**: Suggestive of calcaneonavicular coalition.
+    -   **C-Sign**: Seen in talocalcaneal coalitions; forms a “C” shape between talus and calcaneus.
+    -   **Dorsal Talar Beaking**: Non-specific finding, common with coalition.
+-   **Advanced Imaging**:
+    -   **CT Scan**: Gold standard for evaluating osseous coalitions.
+    -   **MRI**: Confirms fibrous or cartilaginous coalitions.
+
+## Management
+
+### Non-Operative
+
+-   **Indications**: Early presentation with flexible deformity.
+-   **Treatment**: Activity modification and orthotic support.
+
+### Surgical Intervention
+
+-   **Indications**: Failed non-operative management, arthritis, rigid deformity.
+    -   **Resection**: Preferred for calcaneonavicular and \<50% talocalcaneal coalitions.
+        -   **Advantages**: Preserves motion but may have recurrence.
+    -   **Fusion**: Recommended if \>50% of the medial facet is involved.
+        -   **Types**: Subtalar fusion preferred; may require triple fusion in severe cases.
+        -   **Indications**: Late presentation with osteoarthritis.
+    -   **Additional Procedures**: Corrective osteotomies for fixed valgus deformity.

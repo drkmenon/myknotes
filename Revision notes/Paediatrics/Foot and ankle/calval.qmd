@@ -1,0 +1,34 @@
+---
+title: "Calcaneovalgus"
+---
+
+# Pes Calcaneovalgus
+
+## Aetiology
+
+-   **Packaging Deformity**: A condition caused by fetal positioning in the womb.
+-   **Related to Developmental Dysplasia of the Hip (DDH)**: Often seen alongside DDH.
+-   **Soft Tissue Contracture at Birth**: Tightening of the soft tissues leading to the deformity.
+
+## Clinical Features
+
+| Feature | Description |
+|----|----|
+| **Severely Dorsiflexed Calcaneus** | The heel is excessively bent upward. |
+| **Heel Valgus** | Outward angulation of the heel. |
+| **Passively Correctable** | The deformity can be gently adjusted manually without resistance. |
+| **No Bony Deformity** | Only involves soft tissues; no abnormal bone structure. |
+| **Appearance** | May resemble posteromedial bowing of the tibia. |
+
+### Key Feature
+
+-   **Passively Correctable**: A hallmark of this condition, differentiating it from other foot deformities, as it can be corrected by gentle manipulation.
+
+## Management
+
+-   **Passive Stretching**: Gentle stretching exercises to assist in quicker resolution.
+-   **Resolution Without Intervention**: The condition typically resolves on its own over time.
+
+## Summary
+
+Pes calcaneovalgus is a benign and common foot deformity often related to fetal positioning. Though it may appear severe at birth, the condition is passively correctable and usually resolves spontaneously with time and simple stretching exercises.

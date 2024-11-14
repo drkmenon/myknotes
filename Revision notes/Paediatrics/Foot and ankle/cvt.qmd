@@ -1,0 +1,49 @@
+---
+title: "CVT and COT"
+---
+
+## Congenital Oblique Talus
+
+-   **Talonavicular Subluxation**: The talus and navicular are misaligned.
+-   **Key Feature**: This condition can be corrected by passive plantarflexion, which helps to differentiate it from **Congenital Vertical Talus (CVT)**.
+
+------------------------------------------------------------------------
+
+## Congenital Vertical Talus (CVT)
+
+### Aetiology
+
+-   **Congenital Irreducible Dorsal Dislocation of the Navicular**
+-   **Vertical Talus Orientation**
+-   **Severe Soft Tissue Contractures**
+-   Occurs in **50% bilateral cases**
+-   **50% associated with other congenital issues**: Conditions like arthrogryposis, neuromuscular diseases, and myelodysplasia.
+
+### Clinical Features
+
+| Feature | Description |
+|----------------------|-------------------------------------------------|
+| **Disability** | Causes significant disability due to rigid foot structure. |
+| **Rigid Convex Sole** | The sole has a rounded, convex shape. |
+| **Valgus Hindfoot** | Outward angulation of the heel. |
+| **Rocker Bottom Foot** | The foot resembles a "Persian slipper" or rocker bottom. |
+| **Peg Leg Gait** | Stiff foot limits push-off, resulting in a peg leg gait. |
+
+### Imaging
+
+-   **Lateral X-Ray** in forced plantarflexion is diagnostic.
+-   **Key Findings**:
+    -   Navicular is dorsally dislocated.
+    -   Talus is not parallel to the calcaneus.
+    -   **Talo-Calcaneal Angle**: Increased to \>40° (normal: 0-20°).
+    -   **Meary’s Angle**: Increased to \>20° (normal: 0-10°).
+
+### Management
+
+-   **Non-surgical management is ineffective.**
+-   **Surgical Options**:
+    -   **Open Reduction** of talus and extensive soft tissue release, though may fail.
+    -   **Talectomy** as a last resort.
+    -   **Triple Fusion** as an alternative.
+
+------------------------------------------------------------------------

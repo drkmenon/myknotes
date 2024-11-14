@@ -1,0 +1,40 @@
+---
+title: "Pes Planovalgus"
+---
+
+### Aetiology
+
+-   **Common Condition** related to generalized ligamentous laxity.
+-   Affects **20% of adults**.
+-   The medial arch develops by **7 years old**.
+
+### Clinical Features
+
+| Feature | Description |
+|-------------------------------------------------|-----------------------|
+| **Valgus Heel** | Outward heel tilt. |
+| **Loss of Medial Arch** | The arch flattens when weight-bearing. |
+| **Corrects With** | Tiptoeing, dorsiflexion of the first ray (Jacks test), and while non-weight bearing. |
+| **Rarely Symptomatic** | Can sometimes cause issues due to impingement, excessive laxity, or tight Achilles tendon. |
+
+### Classification
+
+|                                   |
+|-----------------------------------|
+| **Flexible with Normal Achilles** |
+| **Flexible with Tight Achilles**  |
+| **Rigid**                         |
+
+### Imaging
+
+-   **X-Ray** shows a **negative (apex plantar) Meary’s angle**.
+
+### Management
+
+-   **Non-operative** in most cases.
+
+    -   **UCBL Rigid Arch Supports**: Provides medial hindfoot support.
+    -   **Soft Arch Supports**: Used for athletic activities.
+    -   **Achilles Stretching**: Beneficial for symptom relief.
+
+-   **Surgical intervention is rare** and may involve osteotomy, tendon transfer, or fusion.

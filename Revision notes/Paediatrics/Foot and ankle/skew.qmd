@@ -1,0 +1,50 @@
+---
+title: "Skewfoot"
+---
+
+**Skewfoot**, also known as **serpentine foot** or **Z-foot**, is a complex congenital foot deformity that combines features of **forefoot adduction** and **hindfoot valgus**. It is sometimes considered a combination of *metatarsus adductus* (curving inward of the forefoot) and *hindfoot valgus* (outward angulation of the heel).
+
+## Aetiology
+
+-   **Condition Type**: Uncommon, complex
+-   **Deformity**: Forefoot adduction and hindfoot valgus
+-   **Cause**: Considered a packaging disorder
+
+### Key Characteristics:
+
+-   **Forefoot Adduction**: The front part of the foot curves inward.
+-   **Hindfoot Valgus**: The heel is angled outward, which causes the arch of the foot to flatten.
+-   **Midfoot Abduction**: Often, the middle part of the foot appears to bend outward to compensate for the positioning of the forefoot and hindfoot.
+
+### Symptoms:
+
+-   **Foot pain** when weight-bearing, especially in more severe cases.
+-   **Difficulty finding comfortable footwear** due to the foot’s shape.
+-   **Visible foot deformity**, where the foot may appear Z-shaped or serpentine in alignment.
+
+### Prognosis:
+
+With treatment, the goal is to realign the foot to improve function and reduce pain. However, because it’s a complex deformity, treatment outcomes vary, and follow-up care is often necessary.
+
+## Management
+
+### Observation
+
+-   Most cases are **asymptomatic** and can be observed.
+
+### Surgical Treatment
+
+-   **Non-operative** treatment is generally **unsuccessful** for symptomatic cases.
+-   Surgical approach involves a **combination of osteotomies**:
+    -   **Medial sliding calcaneal osteotomy**: Corrects hindfoot valgus
+    -   **Lateral shortening or medial column lengthening osteotomy**: Addresses forefoot adduction
+
+```{mermaid}
+flowchart TD
+    A[Skewfoot] --> B{Symptomatic?}
+    B -- No --> C[Observe]
+    B -- Yes --> D[Surgical Treatment]
+    D --> E[Medial Sliding Calcaneal Osteotomy<br>Corrects Valgus]
+    D --> F[Lateral Shortening or <br>Medial Column Lengthening<br>Corrects Adduction]
+    
+```
