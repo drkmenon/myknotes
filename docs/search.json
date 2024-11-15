@@ -890,18 +890,33 @@
     ]
   },
   {
-    "objectID": "Revision notes/Paediatrics/Spine/congky.html",
-    "href": "Revision notes/Paediatrics/Spine/congky.html",
-    "title": "Congenital Kyphosis",
+    "objectID": "Revision notes/Paediatrics/Spine/skyphosis.html",
+    "href": "Revision notes/Paediatrics/Spine/skyphosis.html",
+    "title": "Scheuermann’s Kyphosis",
     "section": "",
-    "text": "Types (as with scoliosis):\n\nFailure of Formation (Type 1)\nFailure of Segmentation (Type 2)\nMixed\n\n\n\nFailure of Formation (Type 1)\n\nHas the highest rate of progression and neurologic injury of any spinal deformity.\nCauses acute kyphosis.\nHigh association (&gt;50%) with neural anomaly.\n\n\n\nManagement\n\nNon-Operative:\n\nType 2 curves can be observed with monitoring.\n\n\n\nOperative Indications:\n\nNeurologic deficit.\n&gt;50-degree curve in children under 5 years with a Type 1 curve.\nProgression of any other type curve.\n\n\n\nSurgical Procedure:\n\nPosterior instrumented fusion.\n\nEssentially a posterior hemiepiphysiodesis.\n\nAdd anterior decompression if there is a neurologic deficit.\n\n\n\n\n\n\n Back to top",
+    "text": "Epidemiology\n\nIncidence: 1-8% of the population.\nGender ratio: Males 7:1, Females.\n\n\n\nDefinition\n\nKyphosis: Thoracic kyphosis &gt; 45° with more than 5° of anterior wedging in 3 consecutive vertebrae.\n\n\n\nAetiology\n\nDevelopmental error of collagen leading to disturbed endochondral ossification of the vertebral end plates, resulting in wedge-shaped vertebrae and kyphotic deformity.\nCommonly affects the thoracic spine, though it may also involve the lumbar region.\nThoracolumbar junction is usually spared.\nLumbar Scheuermann’s: Similar features but no vertebral wedging, more likely to be symptomatic.\n\n\n\nClinical Presentation\n\nAge group: Typically affects adolescent boys.\nSymptoms:\n\nPoor posture.\nPain over the deformity.\nRare neurologic compromise.\nKyphosis does not correct with hyperextension.\n\n\n\n\nImaging Features\n\nWedge-shaped vertebrae.\nIrregular end plates.\nKyphosis with gibbus: Acute angular kyphosis.\nSchmorl’s nodes: Protrusion of cartilage from the disc through the end plate into the vertebra.\n\n\n\nManagement\n\nNon-Operative:\n\nBracing: Recommended if near skeletal maturity and pain is not a major issue.\n\n\n\nOperative:\n\nIndications for surgery:\n\nKyphosis &gt;75°.\nProgressive kyphosis in younger children.\nSignificant back pain.\nNeurologic deficit (rare).\nCosmesis: Relative indication for surgery.\n\nSurgical Procedure:\n\nPosterior Instrumented Fusion.\nMultiple wedge osteotomies (Smith-Peterson) may be needed.\nAnterior release only required if curve &gt;90°.\nDecompression of neurologic structures if deficit is present (rare).\n\n\n\n\n\nComplications\n\nJunctional Kyphosis.\nNeurologic injury: Uncommon, but requires attention during surgery.\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Paediatrics",
       "Spine",
-      "Congenital Kyphosis"
+      "Scheuermann’s Kyphosis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Paediatrics/Spine/neurof.html",
+    "href": "Revision notes/Paediatrics/Spine/neurof.html",
+    "title": "Neurofibromatosis",
+    "section": "",
+    "text": "Overview:\n\nThe most common skeletal manifestation of neurofibromatosis is in the spine.\n\n\n\nClassification:\n\nNon-Dystrophic – similar to Adolescent Idiopathic Scoliosis (AIS).\nDystrophic:\n\nVertebral scalloping.\nTight acute curves.\nForaminal widening.\nPencil-like transverse processes (TPs).\n\n\n\n\nFeatures:\n\nKyphoscoliosis due to NF.\nHigh rate of intraneural anomalies.\nMRI is essential before any intervention.\n\n\n\nManagement:\n\nManagement principles are similar to those of AIS.\nMore aggressive treatment is required for the dystrophic type.\nThere is a higher rate of pseudoarthrosis following surgery in these cases.\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Paediatrics",
+      "Spine",
+      "Neurofibromatosis"
     ]
   },
   {
@@ -3706,7 +3721,7 @@
     "href": "Catallactics/Personal/pricing.html",
     "title": "Hedge pricing",
     "section": "",
-    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 23559.05\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
+    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 23532.7\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -3720,7 +3735,7 @@
     "href": "Catallactics/Personal/pricing.html#calculate-implied-volatility",
     "title": "Hedge pricing",
     "section": "",
-    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 23559.05\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
+    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 23532.7\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -3734,7 +3749,7 @@
     "href": "Catallactics/Personal/pricing.html#option-pricing-calculation",
     "title": "Hedge pricing",
     "section": "Option pricing calculation",
-    "text": "Option pricing calculation\nAim for a strike less than 10 delta. Plugin the implied volatility and other data.\n\n\nCode\nclosing_price&lt;-closing_price\nstrike &lt;- closing_price * 0.85  # Strike price of the option\ntime_to_expiry &lt;- 210/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\n\n\nprice&lt;-EuropeanOption(type = \"put\",underlying = closing_price,strike = strike,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = vol)\n\ncat(\"Closing price of nifty:\\n\")\n\n\nClosing price of nifty:\n\n\nCode\nprint(closing_price)\n\n\n[1] 23559.05\n\n\nCode\ncat(\"Strike price:\\n\")\n\n\nStrike price:\n\n\nCode\nstrike\n\n\n[1] 20025.19\n\n\nCode\nprice\n\n\nConcise summary of valuation for EuropeanOption \n     value      delta      gamma       vega      theta        rho     divRho \n  110.3457    -0.0693     0.0000  2381.1720  -270.3837 -1002.7434   939.2946 \n\n\nPrice of a 4 month 5 delta option is 110 for the given strike price",
+    "text": "Option pricing calculation\nAim for a strike less than 10 delta. Plugin the implied volatility and other data.\n\n\nCode\nclosing_price&lt;-closing_price\nstrike &lt;- closing_price * 0.85  # Strike price of the option\ntime_to_expiry &lt;- 210/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\n\n\nprice&lt;-EuropeanOption(type = \"put\",underlying = closing_price,strike = strike,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = vol)\n\ncat(\"Closing price of nifty:\\n\")\n\n\nClosing price of nifty:\n\n\nCode\nprint(closing_price)\n\n\n[1] 23532.7\n\n\nCode\ncat(\"Strike price:\\n\")\n\n\nStrike price:\n\n\nCode\nstrike\n\n\n[1] 20002.79\n\n\nCode\nprice\n\n\nConcise summary of valuation for EuropeanOption \n     value      delta      gamma       vega      theta        rho     divRho \n  110.2223    -0.0693     0.0000  2378.5086  -270.0813 -1001.6218   938.2440 \n\n\nPrice of a 4 month 5 delta option is 110 for the given strike price",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -4122,7 +4137,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     1  child\n3:     3     0  child\n4:     4     0  child\n5:     5     0  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2   &lt;NA&gt;  child\n3:     3  child   &lt;NA&gt;\n4:     4  child   &lt;NA&gt;\n5:     5  child   &lt;NA&gt;\n6:     6  child   &lt;NA&gt;",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     1  child\n3:     3     1  child\n4:     4     1  child\n5:     5     1  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2   &lt;NA&gt;  child\n3:     3   &lt;NA&gt;  child\n4:     4   &lt;NA&gt;  child\n5:     5   &lt;NA&gt;  child\n6:     6  child   &lt;NA&gt;",
     "crumbs": [
       "Home",
       "Research",
@@ -4771,7 +4786,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   204979    296125    344494    632374    439033 872990791 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62388   64073   64493   64508   64937   66814 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n8.453e+05 3.318e+06 5.636e+06 3.380e+07 1.186e+07 8.728e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.130e+05 2.963e+05 3.431e+05 1.183e+06 4.398e+05 6.031e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62098   64055   64502   64506   64949   67043 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.681e+05 3.310e+06 5.641e+06 8.888e+07 1.191e+07 6.031e+11",
     "crumbs": [
       "Home",
       "Blog",
@@ -7889,33 +7904,78 @@
     ]
   },
   {
-    "objectID": "Revision notes/Paediatrics/Spine/neurof.html",
-    "href": "Revision notes/Paediatrics/Spine/neurof.html",
-    "title": "Neurofibromatosis",
+    "objectID": "Revision notes/Paediatrics/Spine/cspineabn.html",
+    "href": "Revision notes/Paediatrics/Spine/cspineabn.html",
+    "title": "Cervical Spine Abnormalities",
     "section": "",
-    "text": "Overview:\n\nThe most common skeletal manifestation of neurofibromatosis is in the spine.\n\n\n\nClassification:\n\nNon-Dystrophic – similar to Adolescent Idiopathic Scoliosis (AIS).\nDystrophic:\n\nVertebral scalloping.\nTight acute curves.\nForaminal widening.\nPencil-like transverse processes (TPs).\n\n\n\n\nFeatures:\n\nKyphoscoliosis due to NF.\nHigh rate of intraneural anomalies.\nMRI is essential before any intervention.\n\n\n\nManagement:\n\nManagement principles are similar to those of AIS.\nMore aggressive treatment is required for the dystrophic type.\nThere is a higher rate of pseudoarthrosis following surgery in these cases.\n\n\n\n\n\n Back to top",
+    "text": "Introduction\n\nEmbryology\n\nVertebrae develop from sclerotomes, derived from somites and from the notochord.\nThe dermatomyotome forms spinal musculature and skin.\nOrganogenesis occurs concurrently with spine development, leading to multisystem abnormalities.\n\n\n\n\n\n\n\n\nStructure\nOssification Centers\n\n\n\n\nAtlas\n3 (lateral masses and body)\n\n\nAxis\n5 primary (H shape on X-ray) and 2 secondary\n\n\nDens\nAppears at age 3 and fuses at age 12\n\n\nDentocentral Synchondrosis\nFuses by age 7\n\n\n\n\n\n\nAtlanto-Occipital Stability\n\nStability provided by facet congruity, capsular ligaments, and the tectorial membrane, extending from the posterior longitudinal ligament to the foramen magnum.\n\n\n\nAtlanto-Axial Stability\n\nStatic Stability: Odontoid peg and transverse ligament.\nSecondary Stabilisers: Alar ligaments and apical ligament.\n\n\n\nAtlantoaxial Instability\n\nAP or rotatory instability due to conditions such as Down’s syndrome, Morquio’s syndrome (hypoplastic odontoid), or Grisel’s Disease.\nImaging: Atlantoaxial AP instability if ADI &gt;5 mm; Powers ratio &lt;1; SAC ≥13 mm (similar to PADI); Rule of 3rds at the odontoid level.\n\n\n\nBasilar Invagination\n\nDefined by proximal migration of the odontoid through the foramen magnum.\nCommon in Klippel-Feil syndrome, Morquio, Down syndrome, achondroplasia.\nImaging: Present if PEG is above McRae’s line or &gt;5 mm above McGregor’s line.\nManagement: Surgical intervention to prevent or stabilize neurologic symptoms.\n\n\n\nKlippel-Feil Syndrome\n\nFailure of cervical spine segmentation.\nClassic Features (in &lt;50%): Stiff neck, low hairline, webbed neck.\nAssociations: Congenital scoliosis, Sprengel’s shoulder, renal and cardiac anomalies.\nManagement: Supportive; myelopathy may require decompression and stabilization.\n\n\n\nOs Odontoidum\n\nOccurs when odontoid ossification centers fail to coalesce by 12 years, appearing similar to a type-2 peg fracture.\nSymptoms: Neurologic issues with ADI &gt;4 mm; SAC &lt;13 mm.\nTreatment: C1-3 fusion.\n\n\n\nIntervertebral Disc Calcification\n\nSelf-limiting condition with calcified C-spine discs, low-grade fever, neck pain, increased ESR, and decreased ROM.\n\n\n\nDown’s Syndrome\n\nTrisomy 21, commonly associated with atlantoaxial and atlanto-occipital instability.\nMost children are asymptomatic; treat symptomatically or if severe instability is present.\n\n\n\nMorquio’s Syndrome\n\nMucopolysaccharidosis with 100% incidence of atlantoaxial instability due to odontoid hypoplasia.\nLow threshold for stabilization due to high incidence of cord injury.\n\n\n\nTorticollis\n\nDefined by head tilt with chin rotation.\nCauses:\n\nAcute torticollis (self-limiting).\nCongenital anomalies (from birth, painless).\nOcular, neurogenic, psychologic, and muscular torticollis.\n\nManagement: Physiotherapy for young children; surgical release for older children if necessary.\n\n\n\n\n\n\n\n\n\nCause of Torticollis\nDescription\nManagement\n\n\n\n\nAcute Torticollis\nNo SCM contracture, muscle spasm\nSelf-limiting\n\n\nCongenital Anomalies\nWebbed neck, low hairline\nNo treatment needed\n\n\nMuscular Torticollis\nSCM contracture\nPhysiotherapy, SCM release if needed\n\n\n\n\n\nLarsen’s Syndrome\n\nCharacterized by congenital dislocations (e.g., radial head, knees, hips) and rapidly progressive kyphosis of the cervical spine.\nManagement: Responds well to cervical spine PIS.\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Paediatrics",
       "Spine",
-      "Neurofibromatosis"
+      "Cervical Spine Abnormalities"
     ]
   },
   {
-    "objectID": "Revision notes/Paediatrics/Spine/skyphosis.html",
-    "href": "Revision notes/Paediatrics/Spine/skyphosis.html",
-    "title": "Scheuermann’s Kyphosis",
+    "objectID": "Revision notes/Paediatrics/Spine/congky.html",
+    "href": "Revision notes/Paediatrics/Spine/congky.html",
+    "title": "Congenital Kyphosis",
     "section": "",
-    "text": "Epidemiology\n\nIncidence: 1-8% of the population.\nGender ratio: Males 7:1, Females.\n\n\n\nDefinition\n\nKyphosis: Thoracic kyphosis &gt; 45° with more than 5° of anterior wedging in 3 consecutive vertebrae.\n\n\n\nAetiology\n\nDevelopmental error of collagen leading to disturbed endochondral ossification of the vertebral end plates, resulting in wedge-shaped vertebrae and kyphotic deformity.\nCommonly affects the thoracic spine, though it may also involve the lumbar region.\nThoracolumbar junction is usually spared.\nLumbar Scheuermann’s: Similar features but no vertebral wedging, more likely to be symptomatic.\n\n\n\nClinical Presentation\n\nAge group: Typically affects adolescent boys.\nSymptoms:\n\nPoor posture.\nPain over the deformity.\nRare neurologic compromise.\nKyphosis does not correct with hyperextension.\n\n\n\n\nImaging Features\n\nWedge-shaped vertebrae.\nIrregular end plates.\nKyphosis with gibbus: Acute angular kyphosis.\nSchmorl’s nodes: Protrusion of cartilage from the disc through the end plate into the vertebra.\n\n\n\nManagement\n\nNon-Operative:\n\nBracing: Recommended if near skeletal maturity and pain is not a major issue.\n\n\n\nOperative:\n\nIndications for surgery:\n\nKyphosis &gt;75°.\nProgressive kyphosis in younger children.\nSignificant back pain.\nNeurologic deficit (rare).\nCosmesis: Relative indication for surgery.\n\nSurgical Procedure:\n\nPosterior Instrumented Fusion.\nMultiple wedge osteotomies (Smith-Peterson) may be needed.\nAnterior release only required if curve &gt;90°.\nDecompression of neurologic structures if deficit is present (rare).\n\n\n\n\n\nComplications\n\nJunctional Kyphosis.\nNeurologic injury: Uncommon, but requires attention during surgery.\n\n\n\n\n\n Back to top",
+    "text": "Types (as with scoliosis):\n\nFailure of Formation (Type 1)\nFailure of Segmentation (Type 2)\nMixed\n\n\n\nFailure of Formation (Type 1)\n\nHas the highest rate of progression and neurologic injury of any spinal deformity.\nCauses acute kyphosis.\nHigh association (&gt;50%) with neural anomaly.\n\n\n\nManagement\n\nNon-Operative:\n\nType 2 curves can be observed with monitoring.\n\n\n\nOperative Indications:\n\nNeurologic deficit.\n&gt;50-degree curve in children under 5 years with a Type 1 curve.\nProgression of any other type curve.\n\n\n\nSurgical Procedure:\n\nPosterior instrumented fusion.\n\nEssentially a posterior hemiepiphysiodesis.\n\nAdd anterior decompression if there is a neurologic deficit.\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Paediatrics",
       "Spine",
-      "Scheuermann’s Kyphosis"
+      "Congenital Kyphosis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Paediatrics/Spine/sacralag.html",
+    "href": "Revision notes/Paediatrics/Spine/sacralag.html",
+    "title": "Miscellaneous conditions",
+    "section": "",
+    "text": "Diastomatomyelia is a congenital condition characterized by a fibrous or osseous bar that causes a longitudinal split in the spinal cord, often within the lumbar spine. This split causes the spinal cord to reconfigure below the point of division, which may lead to tethering of the cord. It is frequently associated with unusual forms of scoliosis and kyphosis, such as infantile and congenital scoliosis.\nDiagnostic Imaging:\n- X-Ray: May show interpedicular widening.\n- MRI: Provides confirmation and a detailed view of the split.\nManagement: - Before correcting any associated spinal deformity, excision of the bar is recommended if it poses a risk. However, if the patient is asymptomatic, the bar can be left in place.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Paediatrics",
+      "Spine",
+      "Miscellaneous conditions"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Paediatrics/Spine/sacralag.html#diastomatomyelia",
+    "href": "Revision notes/Paediatrics/Spine/sacralag.html#diastomatomyelia",
+    "title": "Miscellaneous conditions",
+    "section": "",
+    "text": "Diastomatomyelia is a congenital condition characterized by a fibrous or osseous bar that causes a longitudinal split in the spinal cord, often within the lumbar spine. This split causes the spinal cord to reconfigure below the point of division, which may lead to tethering of the cord. It is frequently associated with unusual forms of scoliosis and kyphosis, such as infantile and congenital scoliosis.\nDiagnostic Imaging:\n- X-Ray: May show interpedicular widening.\n- MRI: Provides confirmation and a detailed view of the split.\nManagement: - Before correcting any associated spinal deformity, excision of the bar is recommended if it poses a risk. However, if the patient is asymptomatic, the bar can be left in place.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Paediatrics",
+      "Spine",
+      "Miscellaneous conditions"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Paediatrics/Spine/sacralag.html#sacral-agenesis",
+    "href": "Revision notes/Paediatrics/Spine/sacralag.html#sacral-agenesis",
+    "title": "Miscellaneous conditions",
+    "section": "Sacral Agenesis",
+    "text": "Sacral Agenesis\nSacral agenesis is defined by the absence of the sacrum and parts of the lower lumbar spine. This condition is linked to maternal diabetes and is often associated with a prominent lumbar spine. Affected children typically adopt a “Buddha” sitting position due to the altered spine structure.\nManagement Options:\n1. Amputation\n2. Spinal-pelvic fusion",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Paediatrics",
+      "Spine",
+      "Miscellaneous conditions"
     ]
   },
   {

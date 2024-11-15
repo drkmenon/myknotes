@@ -1,0 +1,86 @@
+---
+title: "Cervical Spine Abnormalities"
+---
+
+### Introduction
+
+#### Embryology
+
+-   Vertebrae develop from sclerotomes, derived from somites and from the notochord.
+-   The dermatomyotome forms spinal musculature and skin.
+-   Organogenesis occurs concurrently with spine development, leading to multisystem abnormalities.
+
+| Structure                  | Ossification Centers                         |
+|----------------------------|----------------------------------------------|
+| Atlas                      | 3 (lateral masses and body)                  |
+| Axis                       | 5 primary (H shape on X-ray) and 2 secondary |
+| Dens                       | Appears at age 3 and fuses at age 12         |
+| Dentocentral Synchondrosis | Fuses by age 7                               |
+
+### Atlanto-Occipital Stability
+
+-   Stability provided by facet congruity, capsular ligaments, and the tectorial membrane, extending from the posterior longitudinal ligament to the foramen magnum.
+
+### Atlanto-Axial Stability
+
+-   **Static Stability**: Odontoid peg and transverse ligament.
+-   **Secondary Stabilisers**: Alar ligaments and apical ligament.
+
+### Atlantoaxial Instability
+
+-   AP or rotatory instability due to conditions such as Down’s syndrome, Morquio’s syndrome (hypoplastic odontoid), or Grisel’s Disease.
+-   **Imaging**: Atlantoaxial AP instability if ADI \>5 mm; Powers ratio \<1; SAC ≥13 mm (similar to PADI); Rule of 3rds at the odontoid level.
+
+### Basilar Invagination
+
+-   Defined by proximal migration of the odontoid through the foramen magnum.
+-   Common in Klippel-Feil syndrome, Morquio, Down syndrome, achondroplasia.
+-   **Imaging**: Present if PEG is above McRae’s line or \>5 mm above McGregor’s line.
+-   **Management**: Surgical intervention to prevent or stabilize neurologic symptoms.
+
+### Klippel-Feil Syndrome
+
+-   Failure of cervical spine segmentation.
+-   **Classic Features** (in \<50%): Stiff neck, low hairline, webbed neck.
+-   **Associations**: Congenital scoliosis, Sprengel’s shoulder, renal and cardiac anomalies.
+-   **Management**: Supportive; myelopathy may require decompression and stabilization.
+
+### Os Odontoidum
+
+-   Occurs when odontoid ossification centers fail to coalesce by 12 years, appearing similar to a type-2 peg fracture.
+-   **Symptoms**: Neurologic issues with ADI \>4 mm; SAC \<13 mm.
+-   **Treatment**: C1-3 fusion.
+
+### Intervertebral Disc Calcification
+
+-   Self-limiting condition with calcified C-spine discs, low-grade fever, neck pain, increased ESR, and decreased ROM.
+
+### Down’s Syndrome
+
+-   Trisomy 21, commonly associated with atlantoaxial and atlanto-occipital instability.
+-   Most children are asymptomatic; treat symptomatically or if severe instability is present.
+
+### Morquio’s Syndrome
+
+-   Mucopolysaccharidosis with 100% incidence of atlantoaxial instability due to odontoid hypoplasia.
+-   Low threshold for stabilization due to high incidence of cord injury.
+
+### Torticollis
+
+-   Defined by head tilt with chin rotation.
+-   **Causes**:
+    -   Acute torticollis (self-limiting).
+    -   Congenital anomalies (from birth, painless).
+    -   Ocular, neurogenic, psychologic, and muscular torticollis.
+-   **Management**: Physiotherapy for young children; surgical release for older children if necessary.
+
+| Cause of Torticollis | Description | Management |
+|---------------------------------|--------------------|-------------------|
+| Acute Torticollis | No SCM contracture, muscle spasm | Self-limiting |
+| Congenital Anomalies | Webbed neck, low hairline | No treatment needed |
+| Muscular Torticollis | SCM contracture | Physiotherapy, SCM release if needed |
+
+### Larsen’s Syndrome
+
+-   Characterized by congenital dislocations (e.g., radial head, knees, hips) and rapidly progressive kyphosis of the cervical spine.
+-   **Management**: Responds well to cervical spine PIS.
