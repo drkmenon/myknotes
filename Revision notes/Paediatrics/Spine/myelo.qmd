@@ -1,0 +1,71 @@
+---
+title: "Myelodysplasia (Spina Bifida)"
+---
+
+## Definition
+
+-   Congenital failure of spinal cord and vertebral column formation, often associated with hydrocephalus.
+
+## Aetiology
+
+Hydrocephalus hinders proper spinal column formation, causing herniation of spinal canal contents through the defect. High-risk factors include: - Maternal Diabetes - Low folate or insufficient folic acid intake - History of spina bifida in the family - Fetal exposure to carbamazepine or sodium valproate
+
+## Screening
+
+-   Can be detected prenatally through ultrasound (USS) or elevated maternal serum alpha-fetoprotein (AFP) levels.
+
+## Associations
+
+Spina bifida is often associated with: - Arnold-Chiari malformation (most common) - Syringomyelia (syrinx) - Tethered cord syndrome - Latex allergy (very common) - Spondylolisthesis
+
+## Types of Spina Bifida
+
+-   **Spina Bifida Occulta**: Defect in vertebral arch; cord and meninges remain intact, usually asymptomatic.
+-   **Meningocele**: Protrusion of dural sac without neural involvement.
+-   **Myelomeningocele**: Protrusion of meninges and neural elements within the sac; classic form of spina bifida.
+-   **Rachischisis**: Exposed neural elements.
+
+## Classification
+
+The lowest functional level determines classification, as function directly correlates with lesion level: - **L2 level**: Functional hip flexors but no function below. - **L4 level**: Key for community ambulation (quads intact).
+
+## Management
+
+### Multidisciplinary Approach (MDT)
+
+Spina bifida requires lifelong observation due to the risk of neurologic or functional deterioration from conditions like syrinx, tethering, hydrocephalus, or Chiari formation. Urgent MRI and head CT are essential if clinical deterioration occurs.
+
+### Non-Operative Management
+
+-   Prevention of pressure sores
+-   Bracing
+-   Occupational therapy (OT) for activities of daily living (ADLs)
+-   Long-term catheterization for urologic issues
+-   Bowel management
+
+### Surgical Management
+
+#### Spine
+
+-   Neurosurgical closure of defect at birth, with shunting for hydrocephalus, which prevents brain damage.
+-   Defect closure can cause cord tethering later in life.
+
+#### Kyphoscoliosis
+
+-   Secondary to cord tethering, syrinx, or shunt-related hydrocephalus.
+-   Surgery is required in 90% of patients with thoracic lesions and 10% with L4 lesions, typically involving fusion to the pelvis or sacrum.
+
+#### Hips
+
+-   **Flexion Contractures**: Common but usually not problematic.
+-   **Abduction Contractures**: May cause pelvic imbalance or scoliosis; treated with TFL and ITB releases (Ober method).
+-   **Dysplasia/Dislocation**: Common at L3/4 level; only treated if the quads are functional for ambulation.
+
+#### Knees
+
+-   Weak quads and flexion contracture can cause valgus positioning, but these issues are generally manageable with KAFO for stability while ambulating.
+
+#### Feet
+
+-   The primary goal is achieving a plantigrade, pain-free, braceable foot. Clubfoot is common, requiring surgical release rather than casting. Talectomy may be needed for resistant cases.
+-   Preference is given to tenotomy over transfers, osteotomy, or fusion, as the insensate foot has a high risk of infection, ulceration, and fractures in the foot and ankle.
