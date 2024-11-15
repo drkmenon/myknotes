@@ -1,0 +1,92 @@
+
+## Cerebral Palsy
+
+### Definition
+Cerebral Palsy (CP) is a non-progressive brain injury causing neuromuscular imbalance and upper motor neuron disease, typically presenting before the age of 2.
+
+---
+
+### Risk Factors
+- Prematurity
+- Anoxic birth trauma
+- TORCH infections (toxoplasmosis, syphilis, rubella, cytomegalovirus, herpes)
+- Other third-trimester disturbances or intrauterine issues
+
+---
+
+### Classification
+
+| Type       | Characteristics |
+|------------|-----------------|
+| **Spastic**   | Muscle imbalance and contractures, eventually causing bone deformity and arthrosis. Most common and treatable surgically. |
+| **Athetoid**  | Dystonia and involuntary movements. |
+| **Ataxic**    | Predominantly cerebellar symptoms. |
+
+| Geography   | Characteristics |
+|-------------|-----------------|
+| **Quadriplegia** | All limbs involved, low IQ, severe spasticity, unable to walk. |
+| **Diplegia**     | Primarily lower limbs, possible normal intelligence, most able to walk. |
+| **Hemiparesis**  | Unilateral involvement, most eventually able to walk. |
+
+### GMFCS - Gross Motor Function Classification System
+
+| Level       | Functional Description |
+|-------------|------------------------|
+| GMFCS 1     | Walks, jumps, runs, climbs; minor balance/speed issues. |
+| GMFCS 2     | Walks with stair rail support; difficulty on uneven surfaces. |
+| GMFCS 3     | Walks with aid; self-propels wheelchair. |
+| GMFCS 4     | Occasional frame walking; primarily wheelchair-dependent. |
+| GMFCS 5     | Cannot support head independently; requires wheelchair assistance. |
+
+---
+
+### Future Functional Estimation
+Poor prognostic indicators include:
+- Retention of two or more primitive reflexes at 1 year (e.g., Moro and Parachute reflexes).
+- Inability to sit by 5 years or walk by 8 years.
+
+---
+
+### Treatment Principles
+- **Multidisciplinary Approach**: Includes PT and OT.
+- **Surgery**: Generally deferred until after age 3, aiming to restore function and relieve pain.
+- **Treatment Ladder**:
+  - **MDT**: Physio, OT for ADL support, speech therapy.
+  - **Splinting/Serial Casting** and **Bracing**.
+  - **Medications**:
+    - **Baclofen**: GABA receptor agonist for muscle relaxation.
+    - **Botulinum Toxin (Botox)**: Temporary muscle relaxation.
+
+| Surgery Type | Description |
+|--------------|-------------|
+| **Dorsal Rhizotomy** | Cutting of dorsal rootlets (L1-S1) to reduce spasticity. |
+| **Soft Tissue Releases** | Includes tendon transfers, osteotomy, and fusion for structural corrections. |
+
+---
+
+### Treatment of Commonly Affected Areas
+
+#### Spine
+- **Deformity**: Primarily scoliosis, sometimes kyphosis.
+- **Management**: Posterior and long fusion including pelvis, anterior fusion if needed.
+
+#### Hips
+- **Hip Subluxation/Dislocation**: Common in non-ambulatory, GMFCS level 5 children.
+- **Management**: Includes adductor tenotomy, iliopsoas release, VDRO, or Dega osteotomy based on age and migration percentage.
+
+#### Feet
+- **Planovalgus/Equinovalgus Foot**: Common in spastic diplegia, treated with calcaneal lengthening osteotomy and peroneus brevis lengthening.
+- **Equinovarus Foot**: Common in spastic hemiparesis, managed with SPLAT transfer, TA/TP transfer, and Achilles lengthening if needed.
+
+#### Knee
+- **Crouch Gait**: Often due to hamstring contractures, managed through gait analysis, bracing, and hamstring release if necessary.
+
+#### Upper Limb
+- **Shoulder Adduction/Internal Rotation**: Often requires Botox or release if affecting ADLs.
+- **Hand and Wrist Deformities**: Managed with OT, physio, tendon transfers, or fusion where needed.
+
+--- 
+
+### Prognostic Indicators and Surgical Outcomes
+Outcomes depend on flexibility, patient aims, pain, and severity of joint or skeletal arthrosis. Non-surgical management includes splints and orthoses, while surgical interventions aim to correct structural deformities to maximize function and comfort.
+
