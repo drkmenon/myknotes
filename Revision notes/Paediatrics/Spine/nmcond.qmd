@@ -1,0 +1,231 @@
+---
+title: "Other Neuromuscular Conditions"
+---
+
+## Arthrogryposis Multiplex Congenita
+
+### Aetiology
+
+-   Non-progressive disorder
+-   Lack of anterior horn cells
+-   Myopathic, neuropathic, or mixed
+
+### Diagnosis
+
+-   Confirmed by:
+    -   Enzyme tests
+    -   Nerve conduction studies (NCS)
+    -   Muscle biopsy at 3 months
+
+### Features
+
+-   Multiple joint contractures – joints lack skin creases
+-   Normal facies
+-   Normal intelligence
+-   No visceral involvement
+
+### Affected Body Areas
+
+-   **Upper Limbs**:
+    -   Shoulder internal rotation and adduction
+    -   Elbow extension contractures
+    -   Management:
+        -   Leave one arm extended
+        -   Manipulation under anesthesia (MUA) & serial casting
+        -   Release and supracondylar osteotomy
+        -   One arm for feeding, other for self-care
+-   **Hips**:
+    -   Teratologic dislocations
+    -   Open reduction +/- femoral shortening or VDRO
+-   **Knees**:
+    -   Early release of hamstrings
+-   **Feet**:
+    -   Congenital vertical talus and rigid club foot
+    -   Will not respond to casting
+    -   Open release; if unsuccessful – talectomy
+    -   Aim for a plantigrade, shoeable foot
+-   **Spine**:
+    -   C-shaped large curve scoliosis
+    -   May need fusion to pelvis if progressing
+
+------------------------------------------------------------------------
+
+## Distal Arthrogryposis Syndrome
+
+-   Autosomal dominant
+-   Similar features to Arthrogryposis Multiplex Congenita
+-   Hands and feet more affected than proximal joints
+
+------------------------------------------------------------------------
+
+## Larsen’s Syndrome
+
+-   Similar to Arthrogryposis Multiplex Congenita but contractures are milder
+-   Features:
+    -   Multiple dislocated joints
+    -   Cervical spine kyphosis:
+        -   May progress and cause myelopathy
+
+------------------------------------------------------------------------
+
+## Multiple Pterygium Syndrome
+
+-   Joint contractures with webbing on the flexor aspect
+-   Surgical caution:
+    -   Neurovascular bundle close during release of webs
+
+------------------------------------------------------------------------
+
+## Friedrich’s Ataxia
+
+### Characteristics
+
+-   Most common spinocerebellar disorder
+-   Autosomal recessive
+-   Lack of Frataxin protein
+-   Affects mitochondria
+-   Onset: 10–15 years
+-   Death: By 50 years (cardiomyopathy)
+
+### Clinical Features & Management
+
+-   Staggering, wide-based ataxic gait
+-   Increased polyphasic waveforms on NCS
+-   Cardiomyopathy
+-   Cavovarus/Equinovarus – stiff:
+    -   Require fusions
+-   Scoliosis:
+    -   Needs fusion due to aggressive progression (not always down to pelvis)
+
+------------------------------------------------------------------------
+
+## Spinal Muscular Atrophy (SMA)
+
+### Characteristics
+
+-   Most common genetic disease causing pediatric death
+-   1 in 10,000 live births
+-   Loss of anterior horn cells in the spinal cord
+-   Autosomal recessive
+
+### Classification
+
+-   **SMA1**:
+    -   Onset \<6 months
+    -   Death by 2 years (respiratory failure)
+-   **SMA2**:
+    -   Onset \<24 months
+    -   Life expectancy: 15–20 years
+-   **SMA3**:
+    -   Onset \>24 months
+    -   Normal life expectancy
+    -   Independently stands
+
+### Clinical Features & Management
+
+-   Weakness develops from proximal to distal
+-   **Hip Dislocations**:
+    -   Usually asymptomatic; non-operative treatment
+-   **Scoliosis**:
+    -   Severe, progressive
+    -   Large curves causing respiratory compromise
+    -   Aggressive treatment with long fusions
+    -   May reduce walking capability
+-   **Feet**:
+    -   Equinovarus common
+    -   Aim for pain-free, plantigrade, shoeable foot
+    -   Use tenotomy & osteotomy rather than transfer
+
+------------------------------------------------------------------------
+
+## Polio
+
+-   Viral infection causing loss of anterior horn cells in spine and brainstem
+-   Features:
+    -   Often unilateral
+    -   No sensory deficit
+    -   Weakness and smaller limb typical
+-   No new cases since vaccination, but sequelae still treated
+
+------------------------------------------------------------------------
+
+## Hereditary Motor Sensory Neuropathies
+
+### Charcot-Marie-Tooth Disease (CMT)
+
+#### Aetiology
+
+-   Autosomal dominant disorder causing predominantly distal motor and sensory deficits
+-   Family history often positive
+
+#### Types
+
+1.  **HSMN 1** (CMT – Myelopathic/Hypertrophic):
+    -   More common
+    -   Onset: 10–20 years
+    -   Demyelination of nerves
+    -   Nerve conduction studies: Prolonged latencies, reduced velocities
+    -   Absent reflexes
+2.  **HSMN 2** (CMT – Neuropathic):
+    -   Less common
+    -   Onset: 20–30 years
+    -   Wallerian degeneration without demyelination
+    -   EMGs: Near normal
+    -   Present reflexes
+3.  **HSMN 3** (Dejerine-Sottas Disease):
+    -   Autosomal recessive
+    -   Onset: Infancy
+    -   More severe manifestations:
+        -   Foot drop
+        -   Scoliosis
+        -   Difficulty ambulating
+
+#### Clinical Features of All Types
+
+-   Motor \> sensory affliction
+-   Most affected muscles: Peronei and Tibialis Anterior
+-   Predominantly foot symptoms:
+    -   Cavus, Cavovarus, hammer toes
+-   **Management**:
+    -   Surgery aims to maintain flexibility with transfers/osteotomy
+    -   Avoid fusion where possible – young patients
+-   Rare Features:
+    -   Hip dislocation
+    -   Scoliosis
+    -   Intrinsic wasting of hands
+
+------------------------------------------------------------------------
+
+## Guillain-Barre Syndrome
+
+-   Idiopathic post-viral polyneuropathy
+-   Features:
+    -   Symmetric ascending motor neuropathy
+    -   Self-limiting
+    -   Death by respiratory failure
+
+------------------------------------------------------------------------
+
+## Hemihypertrophy
+
+-   Unilateral limb hypertrophy
+-   Idiopathic cause
+-   Associated with:
+    -   Neurofibromatosis Type 1 (NF1)
+    -   Renal abnormalities (e.g., Wilm’s tumor)
+
+------------------------------------------------------------------------
+
+## Klippel-Trenaunay Syndrome
+
+-   Hemihypertrophy with associated hemangiomas and AV malformations
+-   Management:
+    -   Amputation or embolization often necessary
+
+------------------------------------------------------------------------
+
+## Proteus Syndrome
+
+-   Overgrowth of hands and feet with spinal deformity
+-   Bizarre facial features
+-   Must differentiate from NF1 and McCune-Albright Syndrome

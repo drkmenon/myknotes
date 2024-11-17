@@ -1,0 +1,186 @@
+---
+title: "Bone Dysplasias"
+---
+
+## Table of Contents
+
+1.  [Definitions](#definitions)
+2.  [Classification](#classification)
+    -   [Proportionate Dwarfism](#proportionate-dwarfism)
+    -   [Disproportionate Dwarfism](#disproportionate-dwarfism)
+3.  [Conditions](#conditions)
+    -   [Achondroplasia](#achondroplasia)
+    -   [Pseudoachondroplasia](#pseudoachondroplasia)
+    -   [Kniest’s Syndrome](#kniest-s-syndrome)
+    -   [Trevor’s Disease](#trevor-s-disease)
+    -   [Diastrophic Dysplasia](#diastrophic-dysplasia)
+    -   [Metaphyseal Chondrodysplasias](#metaphyseal-chondrodysplasias)
+    -   [Spondyloepiphyseal Dysplasia (SED)](#spondyloepiphyseal-dysplasia-sed)
+    -   [Multiple Epiphyseal Dysplasia (MED)](#multiple-epiphyseal-dysplasia-med)
+    -   [Mucopolysaccharidoses](#mucopolysaccharidoses)
+    -   [Cleidocranial Dysplasia](#cleidocranial-dysplasia)
+4.  [Key Testing Facts](#key-testing-facts)
+
+------------------------------------------------------------------------
+
+## Definitions {#definitions}
+
+-   **Dysplasia**: Failure to develop, resulting in shortening.
+-   **Dwarfism**: A common term for all bone dysplasias.
+    -   **Proportionate Dwarfism**: Symmetric involvement of trunk and limb length.
+    -   **Disproportionate Dwarfism**: Involves either a short trunk or short limbs.
+
+------------------------------------------------------------------------
+
+## Classification {#classification}
+
+### Proportionate Dwarfism {#proportionate-dwarfism}
+
+-   **Mucopolysaccharidoses**
+-   **Cleidocranial Dysplasia**
+
+### Disproportionate Dwarfism {#disproportionate-dwarfism}
+
+#### Short Limb
+
+1.  Achondroplasia/Pseudoachondroplasia
+2.  Diastrophic Dysplasia
+3.  Trevor’s Disease
+4.  Multiple Epiphyseal Dysplasia
+
+#### Short Trunk
+
+1.  Kniest’s Syndrome
+2.  Spondyloepiphyseal Dysplasia
+
+------------------------------------------------------------------------
+
+## Conditions {#conditions}
+
+### Achondroplasia {#achondroplasia}
+
+#### Epidemiology
+
+-   Most common skeletal dysplasia.
+
+#### Aetiology
+
+-   Mutation in **FGFR3 gene**.
+-   Autosomal Dominant (80% are new mutations).
+-   Affects the proliferative zone of the physis.
+
+#### Clinical Features (GRUNTS)
+
+-   **G**: Genu Varum, Coxa Valga.
+-   **R**: Radial Head Subluxation.
+-   **U**: Unusual Faces (frontal bossing, button nose).
+-   **N**: Normal Intelligence.
+-   **T**: Trident Hand.
+-   **S**: Spinal issues (hyperlordosis, kyphosis, stenosis).
+
+#### Imaging Features (SCIMP)
+
+-   **S**: Spinal (scalloping, short pedicles, thoracolumbar collapse).
+-   **C**: Champagne glass pelvis.
+-   **I**: Inverted V-shaped distal femur.
+-   **M**: Metaphyseal cupping.
+-   **P**: Physeal appearance is delayed.
+
+#### Management
+
+-   Symptomatic treatment (e.g., decompression for spinal stenosis).
+
+------------------------------------------------------------------------
+
+### Pseudoachondroplasia {#pseudoachondroplasia}
+
+#### Differences from Achondroplasia
+
+-   Mutation in **COMP gene** (Chromosome 19).
+-   Normal facial features.
+-   Increased cervical instability and early-onset OA.
+
+------------------------------------------------------------------------
+
+### Kniest’s Syndrome
+
+-   **Aetiology**: Mutation in **COL2A1 gene**.
+-   Disproportionate short trunk.
+-   Characterized by short pelvis, dumbbell-shaped bones, and retinal detachment.
+
+------------------------------------------------------------------------
+
+### Trevor’s Disease
+
+-   Isolated intra-epiphyseal osteochondroma.
+-   Affects one joint (usually the knee).
+-   Treatment: Excision (high recurrence).
+
+------------------------------------------------------------------------
+
+### Diastrophic Dysplasia {#diastrophic-dysplasia}
+
+#### Aetiology
+
+-   Mutation in **SLC26A2 gene**.
+-   Autosomal Recessive.
+
+#### Clinical Features
+
+-   **C’s**: Cleft Palate, Cauliflower Ears, Club Feet.
+-   **S’s**: Skew feet, Spinal stenosis, Kyphoscoliosis.
+
+------------------------------------------------------------------------
+
+### Metaphyseal Chondrodysplasias {#metaphyseal-chondrodysplasias}
+
+#### Subtypes
+
+| Subtype    | Key Features                   |
+|------------|--------------------------------|
+| Jansen’s   | Rare, severe; PTHRP gene       |
+| Schmid’s   | Collagen type X defect; milder |
+| McKusick’s | Cartilage hypoplasia           |
+
+------------------------------------------------------------------------
+
+### Spondyloepiphyseal Dysplasia (SED) {#spondyloepiphyseal-dysplasia-sed}
+
+-   **Aetiology**: Mutation in **COL2A1 gene**.
+-   Types: Congenital (severe) and Tarda (milder, X-linked).
+-   Spinal involvement distinguishes from MED.
+
+------------------------------------------------------------------------
+
+### Multiple Epiphyseal Dysplasia (MED) {#multiple-epiphyseal-dysplasia-med}
+
+-   **Aetiology**: Mutation in **COL9A1 gene**.
+-   No spinal involvement.
+-   Early-onset OA and epiphyseal abnormalities.
+
+------------------------------------------------------------------------
+
+### Mucopolysaccharidoses {#mucopolysaccharidoses}
+
+-   **Aetiology**: Storage of complex sugars in multiple organs.
+-   Differentiated by **complex sugars in urine**.
+-   Most common type: **Morquio’s Syndrome**.
+
+------------------------------------------------------------------------
+
+### Cleidocranial Dysplasia {#cleidocranial-dysplasia}
+
+-   **Aetiology**: Mutation in **CBFA1 gene**.
+-   Proportional dwarfism.
+-   Key Feature: Clavicle aplasia (unilateral or bilateral).
+
+------------------------------------------------------------------------
+
+## Key Testing Facts {#key-testing-facts}
+
+-   **Achondroplasia**: Most common skeletal dysplasia; FGFR3 mutation.
+-   **Diastrophic Dysplasia**: Cauliflower ears, hitchhiker thumbs.
+-   **Cleidocranial Dysplasia**: CBFA1 defect; hallmark is clavicle aplasia.
+-   **Mucopolysaccharidoses**: Differentiated by urine sugars (Hunter’s is X-linked).
+
+------------------------------------------------------------------------

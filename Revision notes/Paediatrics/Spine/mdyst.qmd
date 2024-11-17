@@ -1,0 +1,100 @@
+---
+title: "Muscular Dystrophies"
+---
+
+## Duchenne Muscular Dystrophy
+
+### Definition
+
+-   Progressive muscle weakness in young boys
+-   X-linked recessive
+
+### Clinical Features
+
+-   Clumsy walking
+-   Reduced motor skills
+-   **Pseudohypertrophy of the calf** (classic) – connective tissue infiltration
+-   Scoliosis
+-   Respiratory difficulty in advanced stages
+-   **Gower’s sign**:
+    -   Rises by walking hands up thighs to compensate for quadriceps and gluteal weakness
+    -   First affected area is gluteals
+
+### Diagnosis
+
+-   **DNA Testing**: Absent Dystrophin protein
+-   **High Creatine Phosphokinase (CPK)**
+-   **Muscle Biopsy**:
+    -   Absent Dystrophin (diagnostic)
+    -   Connective tissue infiltration and muscle necrosis
+
+### Management
+
+#### Non-Surgical
+
+-   Physical Therapy (PT), Occupational Therapy (OT)
+-   High-dose steroids:
+    -   Prolong ambulation
+    -   Slow scoliosis progression
+-   Complications:
+    -   Overnight ventilatory support
+
+#### Surgical
+
+-   Controversial due to:
+    -   High anesthetic risks
+    -   Questionable benefit
+    -   **Malignant Hyperthermia** – intra-operative dantrolene
+-   Specific Procedures:
+    -   Release of knee contractures: May prolong ambulation by 1–2 years
+    -   Scoliosis:
+        -   Rapid progression as muscles weaken
+        -   Long fusion recommended at \>20° curvature to address thoracic compromise
+
+### Outcomes
+
+-   Unable to walk independently by 10 years
+-   Wheelchair-bound by 14 years
+-   Bedridden by 16 years
+-   Death by cardiopulmonary compromise by 20 years
+
+------------------------------------------------------------------------
+
+## Becker’s Muscular Dystrophy
+
+### Characteristics
+
+-   X-linked recessive
+-   Associated with **red/green color blindness**
+
+### Clinical Features
+
+-   Similar to Duchenne but less severe
+
+### Diagnosis
+
+-   **Muscle Biopsy**:
+    -   Reduced but not absent Dystrophin
+
+### Outcomes
+
+-   Survival beyond 22 years is indicative of Becker’s Muscular Dystrophy
+
+------------------------------------------------------------------------
+
+## Facioscapulohumeral Dystrophy
+
+### Characteristics
+
+-   Autosomal dominant
+
+### Clinical Features
+
+-   Facial muscle abnormalities
+-   Shoulder girdle weakness
+-   Normal Creatine Phosphokinase (CPK)
+-   Bilateral scapula winging
+
+### Management
+
+-   **Scapulothoracic Fusion**: For symptomatic cases
