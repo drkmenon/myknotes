@@ -4,6 +4,12 @@ title: "Arthritis"
 
 ## Osteoarthritis
 
+::: callout-note
+## Definition
+
+Mechanically driven but biologically mediated complex degenerative process starting at the tangential zone of articular cartilage of a synovial joint.
+:::
+
 ### Aetiology
 
 -   **Primary**:
