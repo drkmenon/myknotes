@@ -1,0 +1,5 @@
+---
+title: "Femoral teardrop"
+---
+
+![](images/teardp.PNG){.lightbox}

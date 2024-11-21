@@ -118,10 +118,7 @@ title: "Limb Length Discrepancy"
 -   More reliable in post-traumatic than post-infection cases.
 -   Indicated if:
     -   \<50% of the physis is affected.
-
-    -   
-
-        > 2cm discrepancy or at least 2 years of growth left.
+    -   2cm discrepancy or at least 2 years of growth left.
 -   Shortening or epiphysiodesis may be easier and more reliable.
 
 ## Options Based on Limb Length Discrepancy

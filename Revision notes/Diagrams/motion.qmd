@@ -1,0 +1,5 @@
+---
+title: "Motion segment"
+---
+
+![](images/motion.PNG){.lightbox}

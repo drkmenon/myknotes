@@ -1,0 +1,5 @@
+---
+title: "Articular cartilage"
+---
+
+![](images/artc.PNG){.lightbox}

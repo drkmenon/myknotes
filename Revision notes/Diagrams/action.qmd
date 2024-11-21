@@ -1,0 +1,7 @@
+---
+title: "Action potential"
+---
+
+![](images/ap.PNG){.lightbox}
+
+## 
