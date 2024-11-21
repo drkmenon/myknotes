@@ -1,0 +1,286 @@
+---
+title: "Arthritis"
+---
+
+## Osteoarthritis
+
+### Aetiology
+
+-   **Primary**:
+    -   Idiopathic
+    -   Genetic element
+    -   Mechanical factors
+-   **Secondary**:
+    -   Post-traumatic
+    -   Post DDH, SUFE, or Perthes
+    -   AVN
+    -   Inflammatory arthritis (RA, Ankylosing Spondylitis)
+
+### Pathology
+
+#### Primary Events:
+
+-   Altered proteoglycan function
+-   Reduced subchondral venous drainage
+-   Altered cartilage permeability
+
+#### Results:
+
+-   Influx of water
+-   Reduced stiffness
+-   Altered viscoelastic properties
+-   Loss of chondrocyte ability to maintain cartilage
+-   Fibrillation (fissuring)
+-   Loss of hyaline cartilage
+-   Subchondral exposure and hypertrophy (sclerosis)
+-   Cyst formation
+-   Compensatory osteophyte formation
+
+------------------------------------------------------------------------
+
+## Rheumatoid Arthritis
+
+### Epidemiology
+
+-   More common in Caucasians
+-   Females: 2:1 compared to males
+-   Typically onset around 40 years
+-   1-5% of the population depending on ethnicity
+
+### Aetiology
+
+-   Seropositive, autoimmune inflammatory polyarthritis.
+-   Characterized by synovitis, periarticular erosions, joint destruction, and systemic manifestations.
+-   Rh factor positive in 80%.
+-   Primarily affects synovium, leading to secondary joint destruction.
+
+### Pathophysiology
+
+-   Inflammatory infiltration of synovium with B cells, T cells, and macrophages.
+-   Joint destruction is mechanical (due to inflamed synovium) and chemical (due to inflammatory factors).
+-   Positive for **HLA DR**.
+
+#### Rheumatoid Factor (RF)
+
+-   Autoantibody that targets the Fc part of IgG.
+-   Correlates with the severity of the disease and joint destruction.
+-   RF may be raised in other systemic conditions, but has poor positive predictive value.
+
+### Clinical Features
+
+-   **Inflammation** of joints.
+-   **Symmetric polyarthropathy**.
+-   Morning pain and stiffness (eases with activity).
+-   **Extra-articular features**:
+    -   Rheumatoid nodules (30% of patients):
+        -   Found on extensor aspect of arms.
+        -   Pathognomonic: Fibrotic capsule surrounding fibrous necrotic center.
+        -   Non-inflammatory; contains cholesterol crystals on aspiration.
+    -   Uveitis
+    -   Cardiac problems
+    -   Neurologic problems
+
+### Imaging Features
+
+-   Periarticular osteopenia.
+-   Juxtaarticular erosions.
+-   Significant deformity and subluxation due to soft tissue involvement.
+
+### Diagnostic Criteria (American College of Rheumatologists)
+
+-   Need to have 4 out of 7 criteria and 3 of the top 4 for at least 6 weeks:
+    1.  **S** Symmetric arthritis
+    2.  **H** Hand or wrist arthritis for \>6 weeks
+    3.  **A** Arthritis in at least 3 joints for \>6 weeks
+    4.  **M** Morning stiffness for 1 hour a day for \>6 weeks
+    5.  **P** Positive rheumatoid factor
+    6.  **E** X-ray changes
+    7.  **R** Rheumatoid nodules
+
+### Management
+
+-   **NSAIDs**, prednisolone for acute flare-ups.
+-   **Disease-modifying agents (DMARDs)**:
+    -   Methotrexate
+    -   Sulfasalazine
+    -   Hydroxychloroquine (antimalarial)
+-   **Biologic Response Modulators (BRMs)**:
+    -   Etanercept
+    -   Infliximab
+    -   Rituximab
+-   **Surgery**:
+    -   Synovectomy: Good pain relief, especially in knee.
+    -   Does not alter long-term joint destruction.
+    -   **Arthroplasty**: Higher infection rate, poor bone quality, beware of joint instability.
+
+------------------------------------------------------------------------
+
+## Seronegative Spondyloarthropathy
+
+These are RF-negative arthritidies: 1. **Ankylosing Spondylitis** (see spine notes) 2. **Psoriatic Arthritis** 3. **Enteropathic Arthritis** 4. **Reactive Arthritis** (Reiter’s syndrome) 5. **Juvenile Idiopathic Arthritis**
+
+------------------------------------------------------------------------
+
+## Psoriatic Arthritis
+
+### Aetiology
+
+-   Occurs in 20% of patients with psoriasis.
+-   80% have preceding skin manifestations of psoriasis.
+-   50% are HLA B27 positive.
+
+### Clinical Features
+
+-   May cause psoriatic spondylitis (uncommon).
+-   Predominantly affects hands, especially **DIPJ**.
+-   **Dactylitis** (sausage digits).
+-   **Pencil-in-cup** deformity of DIPJ.
+-   **Nail pitting**.
+-   Distinguished from RA by:
+    -   **RF usually negative**.
+    -   **Asymmetric**.
+    -   Absence of rheumatoid nodules.
+
+### Management
+
+-   Medical: NSAIDs, DMARDs.
+-   Surgical: Joint fusions.
+
+------------------------------------------------------------------------
+
+## Enteropathic Arthritis
+
+-   Occurs in individuals with inflammatory bowel disease (IBD), especially Crohn’s disease.
+-   Affects lower limbs, but also spine.
+-   Spondylitis similar to ankylosing spondylitis.
+-   Severity of arthritis correlates with severity of gut inflammation.
+-   **Extra-articular features** include uveitis, pyoderma gangrenosum, etc.
+
+### Management
+
+-   Mainly medical: Manage gut inflammation (e.g., sulfasalazine), which helps arthritis.
+
+------------------------------------------------------------------------
+
+## Juvenile Idiopathic Arthritis (Juvenile Rheumatoid Arthritis)
+
+### Epidemiology
+
+-   Affects individuals under 16 years of age.
+
+### Aetiology
+
+-   Similar to rheumatoid arthritis, an inflammatory polyarticular disease with systemic manifestations.
+-   **Rh factor** is rarely positive, but if positive, indicates more aggressive disease.
+
+### Clinical Features
+
+-   **Classic difference** in hand from RA:
+    -   **Wrist** is ulnar deviated.
+    -   **Fingers** are radially deviated at MCPJ.
+-   **3 Subtypes**:
+    1.  **Systemic (Still's disease)**:
+        -   Worst long-term prognosis.
+        -   Lymphadenopathy, polyarthritis, hepatosplenomegaly, anemia, rash, fever (20% of JRA).
+    2.  **Oligoarticular (Paucarticular)**:
+        -   Most common type.
+        -   Affects \<5 joints.
+        -   More in girls.
+        -   Good rate of remission (70%).
+    3.  **Polyarticular**:
+        -   Affects \>5 joints.
+        -   More in girls.
+        -   Reasonable rate of remission (60%).
+
+### Management
+
+-   Steroids, DMARDs.
+-   Joint aspirations, synovectomy.
+-   Osteotomy, fusion, and arthroplasty as necessary, even in young patients.
+
+------------------------------------------------------------------------
+
+## Reactive Arthritis (Reiter’s Syndrome)
+
+### Aetiology
+
+-   Occurs secondary to a genitourinary tract infection (Chlamydia, Shigella, Salmonella, Campylobacter).
+
+### Clinical Features
+
+-   Usually affects the **knee**.
+-   **Enthesitis** and **spondylitis** can occur.
+-   **Extra-articular manifestations**:
+    -   Severe conjunctivitis.
+    -   Urethritis (burning on urination).
+    -   **"Can't see, can't pee, can't climb a tree"**.
+
+### Management
+
+-   Supportive therapy (condition is self-limiting over 18 months).
+
+------------------------------------------------------------------------
+
+## Other Conditions
+
+### Gout
+
+-   Disorder of purine (nucleic acid) metabolism leading to intra-articular accumulation of uric acid crystals, causing pain, inflammation, and arthrosis.
+
+#### Epidemiology
+
+-   80% of cases occur in men.
+-   Most common in older adults.
+
+#### Aetiology
+
+-   Uric acid crystal deposition in synovium.
+
+#### Clinical Features
+
+-   Acutely painful, swollen joint(s).
+-   Often **mono-articular** (thumb IPJ, big toe IPJ commonly affected).
+-   **Ankle** is often the first large joint to be affected.
+-   Flare-ups caused by metabolic activity:
+    -   Alcohol
+    -   Excessive purine intake (oily fish)
+    -   Thiazide diuretics
+-   Serum urate may be normal.
+-   **Aspiration** reveals negatively birefringent crystals.
+
+#### Imaging Features
+
+-   Periarticular erosions.
+-   **Cliff edge sign**: Sharp overhanging edge at peripheral margin of bone.
+
+#### Management
+
+-   Remove inciting event.
+-   **Acute flare-ups**: NSAIDs, colchicine.
+-   **Long-term prevention**: Allopurinol.
+
+------------------------------------------------------------------------
+
+### Pyrophosphate Arthropathy
+
+-   Calcium pyrophosphate crystals deposited in joints causing pain, mimicking septic arthritis.
+-   X-ray may show **chondrocalcinosis**.
+-   Commonly affects **wrist** and **knee**.
+-   Aspiration reveals positively birefringent pyrophosphate crystals.
+
+------------------------------------------------------------------------
+
+### Scleroderma
+
+-   Systemic disease causing **systemic sclerosis**.
+-   Main orthopedic manifestation in **hands**:
+    -   Erosion of distal phalanx tufts.
+    -   Calcification of soft tissues.
+    -   **DIPJ & PIPJ contractures**.
+    -   **Raynaud’s phenomenon**: Ulceration of skin.
+
+#### Management
+
+-   Sympathectomy.
+-   Limited amputations.
+-   DIPJ, PIPJ fusions.
