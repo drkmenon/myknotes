@@ -1,0 +1,193 @@
+---
+title: "Rotational Abnormalities"
+---
+
+## Differential Diagnosis
+
+-   Patients commonly present with intoeing.
+-   Bilateral equal intoeing is usually a normal variant.
+-   **Version**: Within normal limits of rotation.\
+-   **Torsion**: Abnormal.
+
+### Main Differential Diagnoses
+
+-   Femoral torsion
+-   Tibial torsion
+-   Metatarsus adductus
+-   Skewfoot
+
+------------------------------------------------------------------------
+
+## Normal Variants
+
+### Hips
+
+-   **Femoral Anteversion**
+    -   40 degrees at birth
+    -   20 degrees at 10 years
+    -   15 degrees at skeletal maturity
+
+### Tibia
+
+-   **Thigh-Foot Angle**
+    -   -7 degrees at birth
+
+    -   
+
+        > +7 degrees at 7 years
+
+    -   
+
+        > +10 degrees at 10 years
+
+------------------------------------------------------------------------
+
+## Femoral Torsion
+
+### Aetiology
+
+-   Physiologic femoral anteversion: 40 degrees at birth.
+    -   Reduces to 10-15 degrees by age 10.
+    -   Girls have 5 degrees more mean torsion than boys.
+-   Retroversion is rare and usually pathologic.
+-   Significant anteversion may relate to other conditions, e.g., SUFE.
+
+### Miserable Malalignment Syndrome
+
+-   Femoral anteversion with compensatory tibial external torsion.
+-   High incidence of anterior knee pain.
+
+### Clinical Presentation
+
+-   Intoeing
+-   Awkward gait
+-   Anterior knee pain
+
+### Clinical Examination (Assess 4 Things)
+
+1.  **Foot Progression Angle**
+    -   Negative: Anteversion
+    -   Positive: Retroversion
+2.  **Thigh-Foot Angle (Prone)**
+    -   Assesses tibial torsion (\>10 degrees is abnormal).
+3.  **Femoral Version (Prone)**
+    -   In anteversion: Increased IR, decreased ER.
+    -   **Gage’s Test**: Estimate of femoral anteversion by IR of leg until GT is most prominent.
+4.  **Foot Borders or Deviation from Foot Bisector Axis**
+    -   Lateral convexity: May indicate metatarsus adductus.
+    -   Medial convexity: May indicate planovalgus.
+
+------------------------------------------------------------------------
+
+### Management
+
+-   **No treatment required in most cases.**\
+-   Reassure parents that anteversion resolves by age 10.
+
+#### Indications for Surgery
+
+-   IR \>70 degrees, ER \<10 degrees, child \>10 years.
+-   Very awkward gait.
+-   Psychological distress due to appearance (child, not parents).
+-   Patellofemoral pain.
+-   As part of another condition (e.g., DDH).
+
+### Rotational Osteotomy
+
+-   Types: Intertrochanteric, subtrochanteric, diaphyseal, or supracondylar.
+-   Stabilisation:
+    -   **IM Nail**: For closed physes.
+    -   **Fixed Angle Plate**: For open physes.
+-   Union:
+    -   Metaphysis: More reliable.
+    -   Diaphysis: Also effective in children.
+-   **Supracondylar Osteotomy**: For patellofemoral pain or instability.
+
+------------------------------------------------------------------------
+
+## Tibial Torsion
+
+### Key Facts
+
+-   Most common cause of intoeing: Internal tibial torsion.
+-   Normal tibial torsion: 10 degrees external torsion.
+
+### Aetiology
+
+-   Packaging disorder, associated with metatarsus adductus.
+-   May result from neuromuscular disorders.
+-   External tibial torsion may compensate for femoral anteversion (miserable malalignment syndrome).
+
+### Clinical Presentation
+
+-   Tripping over feet.
+-   Awkward gait.
+
+### Assessment
+
+-   Full rotational profile, including femoral version.
+-   Tibial torsion best assessed prone with thigh-foot axis.
+
+### Management
+
+-   **Usually resolves spontaneously.**
+-   Surgery (supramalleolar osteotomy) only if symptomatic in children \>10 years.
+
+------------------------------------------------------------------------
+
+## Metatarsus Adductus
+
+### Epidemiology
+
+-   Seen in 12% of newborns.
+
+### Aetiology
+
+-   Adduction of forefoot with normal hindfoot.
+-   Packaging problem.
+-   Associated with DDH.
+-   90% resolve by age 4 years.
+
+### Classification
+
+-   **Bleck Classification**
+    -   Based on heel bisector line and stiffness of deformity.
+
+### Diagnosis
+
+-   Clinical evaluation:
+    -   Screen for other deformities and associated conditions.
+    -   **Tickle Test**: Stimulates peronei and indicates flexibility.
+    -   Heel bisector angle:
+        -   Normal: Passes between 2nd and 3rd toes.
+        -   Metatarsus adductus: Passes more laterally.
+
+### Management
+
+-   **Flexible Deformities**: Passive stretching.
+-   **Stiff Deformities (Young Children)**: Serial casting.
+-   **Older Children (\>7 Years)**: Surgery.
+    -   **Osteotomies**:
+        -   Medial column lengthening.
+        -   Lateral column shortening.
+
+------------------------------------------------------------------------
+
+## Skewfoot
+
+### Aetiology
+
+-   Uncommon, complex condition.
+-   Features:
+    -   Forefoot adduction.
+    -   Hindfoot valgus.
+-   Packaging disorder.
+
+### Management
+
+-   **Most cases are asymptomatic.** Observe.
+-   For symptomatic cases:
+    -   Non-operative treatment is usually unsuccessful.
+    -   Combination of osteotomies required:
+        -   Medial sliding calcaneal osteotomy for valgus.
+        -   Lateral shortening or medial column lengthening for adduction.

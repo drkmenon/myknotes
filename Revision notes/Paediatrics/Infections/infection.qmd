@@ -1,0 +1,165 @@
+---
+title: "Osteoarticular Infection"
+---
+
+## Paediatric Acute Osteomyelitis
+
+### Epidemiology
+
+-   Boys \> Girls
+-   \<10 years old
+-   Neonatal infections are more aggressive with higher complications.
+-   Acute osteomyelitis is the most common presenting form.
+
+### Aetiology
+
+-   **Usually acute haematogenous spread**:
+    -   Direct inoculation (trauma, varicella, or other bacteraemia).
+-   **Infection originates in metaphysis**:
+    -   Metaphyseal vessels are end arteries, with slow capillary blood flow allowing bacterial seeding.
+    -   Localised infection activates osteoclasts, causing necrosis and purulent exudate.
+    -   Subperiosteal abscess forms, spreading toward the diaphysis, leading to sequestrum formation.
+    -   Periosteum attempts to wall off necrotic bone (involucrum), progressing to chronic osteomyelitis if untreated.
+
+### Risk Factors
+
+-   Local trauma.
+-   Immunocompromise (diabetes, renal disease, chemotherapy/steroids, rheumatoid conditions).
+-   Most cases occur in otherwise healthy children.
+
+### Pathogens
+
+-   **Staphylococcus aureus**: Most common across all age groups.
+-   **MRSA**: Higher virulence, multifocal osteomyelitis, abscess formation.
+-   **Special Situations**:
+    -   Sickle Cell: Salmonella.
+    -   Shoe Puncture: Pseudomonas.
+    -   Neonates: Group B Streptococcus.
+    -   Infants: Group A Streptococcus, Haemophilus (if unvaccinated).
+    -   Varicella: Streptococcus.
+
+### Clinical Evaluation
+
+-   **History**: Trauma, immunisations, systemic symptoms, pain, fever.
+-   **Examination**: Pain site, cardiac assessment, septic arthritis, weight-bearing status.
+
+### Investigations
+
+1.  **Bloods**:
+    -   CRP rises after 6 hours.
+    -   ESR rises after 3 days.
+    -   WCC: Variable elevation.
+    -   Blood cultures: \~30% yield (collect from 3 sites during temperature spikes).
+2.  **Imaging**:
+    -   X-ray: Changes visible after 7–14 days.
+    -   Bone Scan: 90% sensitivity for multifocal osteomyelitis.
+    -   MRI: High sensitivity, lower specificity; good for surgical planning and subperiosteal abscess diagnosis.
+3.  **Aspiration**:
+    -   Gold standard diagnostic test.
+    -   Aspirate fluid for microbiology and histology.
+
+### Management Principles
+
+-   **Establish diagnosis** and rule out underlying causes.
+-   Start **antibiotics** empirically after aspiration or earlier in toxic children.
+-   Antibiotics are sufficient in most cases if:
+    -   Early diagnosis (\<3 days).
+    -   No periosteal abscess.
+    -   Standard pathogens.
+    -   Clinical improvement within 72 hours.
+
+#### Surgical Indications
+
+-   Subperiosteal abscess or frank pus on aspiration.
+-   Failure to improve with antibiotics.
+-   Chronic osteomyelitis with sequestrum.
+
+#### Surgical Technique
+
+-   Drain abscess, debride necrotic tissue, and decompress bone to prevent further damage.
+-   Avoid violating other compartments unnecessarily.
+
+## Subacute Osteomyelitis
+
+### Features
+
+-   Subtle presentation (e.g., limp, pain).
+-   Normal inflammatory markers.
+-   Positive imaging (bone scan, X-ray, MRI).
+
+### Brodie’s Abscess
+
+-   **Aetiology**: Low virulence pathogen and fit host.
+-   **Features**: Lytic area with a sclerotic rim.
+-   **Management**:
+    -   Biopsy to rule out bone tumours.
+    -   Similar treatment to acute osteomyelitis.
+
+## Septic Arthritis
+
+### Epidemiology
+
+-   More common than osteomyelitis in children.
+-   75% of cases occur in children under 5 years old.
+
+### Aetiology
+
+-   Haematogenous seeding, contiguous spread, or direct inoculation.
+-   Large joints (hip \> knee) are most commonly affected.
+
+### Pathophysiology
+
+-   Proteolytic enzymes degrade hyaline cartilage within 8 hours.
+-   Secondary effects: AVN, physeal growth arrest.
+
+### Diagnosis
+
+-   **Kocher’s Criteria**:
+
+    1.  Temperature \>38.5°C.
+    2.  ESR \>40 mm/hr.
+    3.  Non-weight-bearing.
+    4.  WCC \>12,000/mm³.
+
+    -   Presence of 3–4 criteria is 93–99% predictive of septic arthritis.
+
+### Management
+
+-   Withhold antibiotics until aspiration.
+-   Perform arthrotomy, irrigate, and leave the joint open or with a drain.
+
+## Special Situations
+
+### Neonates
+
+-   Immature immune response increases susceptibility.
+-   Pathogens: Group B Streptococcus, Staphylococcus aureus.
+-   **Management**: Early aspiration and surgical drainage.
+
+### Sickle Cell Disease
+
+-   Increased risk of osteomyelitis due to infarcts and slow blood flow.
+-   Pathogens: Salmonella, but Staphylococcus aureus remains most common.
+
+### Tuberculosis
+
+-   Skeletal TB accounts for \~3% of cases in children (spine \> hip/knee \> long bones).
+-   Diagnosis via biopsy and acid-fast bacilli staining.
+-   Management includes surgical drainage and multi-drug therapy.
+
+### Lyme Disease
+
+-   Pathogen: Borrelia burgdorferi.
+-   Features: Arthritis with bulls-eye rash and cardiac arrhythmias.
+-   Treatment with antibiotics.
+
+### Gonococcal Arthritis
+
+-   Neisseria gonorrhoeae (adolescents, child abuse cases, perinatal transmission).
+-   **Management**: Use specialized culture media (e.g., chocolate agar).
+
+## Chronic Recurrent Multifocal Osteomyelitis (CRMO)
+
+-   **Epidemiology**: Girls \> Boys.
+-   **Features**: Waxing and waning bone pain, low-grade fever.
+-   **Management**: Exclude malignancy; treat with NSAIDs or biopsy if necessary.

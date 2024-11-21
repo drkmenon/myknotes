@@ -1,0 +1,200 @@
+---
+title: "Paediatric Upper Limb Conditions"
+---
+
+## Brachial Plexus Birth Palsy
+
+### **Risk Factors**
+
+-   Large babies
+-   Breech position
+-   Shoulder Dystocia
+-   Instrumented delivery
+-   History of BPBP in past
+
+### **Clinical Presentation**
+
+-   Baby has a floppy arm
+
+### **Classification – Anatomic**
+
+| Type | Nerves Affected | Prognosis | Affected Muscles |
+|-------------|-------------|-------------|---------------------------------|
+| **Erb’s Palsy** | C5/6 (+/- C7) | Best Prognosis | Deltoid, external rotators, biceps, wrist extension (Waiter's tip) |
+| **Klumpke’s** | C8/T1 | Poor Prognosis | Wrist flexors, finger intrinsics |
+| **Total Plexus** | All nerves | Worst Prognosis | Multiple muscles affected |
+
+### **Prognostic Factors**
+
+-   **Poor Prognostic Factors**:
+    -   Pre-ganglionic Injury
+    -   Root avulsion
+    -   Horner’s syndrome
+    -   Klumpke’s or Total Plexus palsy
+    -   No biceps recovery by 5-6 months
+-   **Positive Prognostic Factors**:
+    -   Some biceps recovery \< 3 months – indicates complete recovery
+    -   Erb’s Palsy
+
+### **Management**
+
+1.  **Initial Observation**:
+    -   90% have full recovery.
+    -   ROM and PT to prevent contracture.
+2.  **Surgical Options**:
+    -   Microsurgical nerve grafting.
+    -   **Transfers**:
+        -   Latissimus & Pec Major to cuff (L’Esciposos transfer).
+        -   Pectoralis to elbow.
+    -   External rotation osteotomy of proximal humerus.
+3.  **Outcomes**:
+    -   90% full recovery; partial recovery in others.
+    -   Risk of paralytic posterior shoulder dislocation leading to Glenohumeral Dysplasia.
+
+------------------------------------------------------------------------
+
+## Congenital Pseudoarthrosis of the Clavicle
+
+-   **Aetiology**:
+    -   Failure of clavicle medial and lateral ossification centres to unite.
+    -   Possibly due to subclavian artery pulsations.
+-   **Clinical Features**:
+    -   Slow-growing, firm mass.
+    -   Rarely painful.
+-   **Management**:
+    -   Non-operative unless functional deficits or appearance issues.
+    -   Surgical: Excision, ORIF, and bone grafting.
+
+------------------------------------------------------------------------
+
+## Sprengel’s Deformity Shoulder
+
+### **Aetiology**
+
+-   Incomplete descent of scapula with hypoplastic musculature.
+
+### **Associations**
+
+-   Scoliosis.
+-   Klippel-Feil.
+-   Omovertebral bone (30%).
+
+### **Clinical Features**
+
+-   Deformity and shoulder dysfunction (especially abduction).
+
+### **Classification**
+
+-   **Cavendish**: Based on appearance.
+
+### **Management**
+
+-   **Non-operative**: Mild cases with follow-up until maturity.
+-   **Surgical**:
+    -   Woodward Procedure:
+        -   Release of scapulothoracic muscles.
+        -   Excision of Omovertebral bar.
+        -   Downward translation of scapula.
+    -   Clavicle osteotomy for large corrections.
+    -   **Complications**:
+        -   Brachial plexus palsy.
+        -   Scapula winging.
+
+------------------------------------------------------------------------
+
+## Congenital Synostosis of Forearm
+
+### **Aetiology**
+
+-   Failure of forearm differentiation from the common cartilage mesenchymal anlage (\~5 weeks gestation).
+
+### **Clinical Features**
+
+-   Fixed in pronation (60% bilateral).
+-   **Associations**:
+    -   Polands, Alperts, Kleinfelters.
+
+### **Classification**
+
+| Type       | Description                             |
+|------------|-----------------------------------------|
+| **Type 1** | Synostosis alone                        |
+| **Type 2** | Synostosis with radial head dislocation |
+
+### **Management**
+
+-   Non-operative unless significant functional deficits.
+-   **Surgical**:
+    -   Excision of synostosis or rotational osteotomy (preferred).
+
+------------------------------------------------------------------------
+
+## Trigger Finger/Thumb
+
+### **Clinical Presentation**
+
+-   Child holds thumb flexed at IPJ due to pain.
+-   Palpable nodule and painful ROM.
+
+### **Management**
+
+1.  **Observation**:
+    -   Spontaneous resolution possible by 1 year.
+2.  **Surgical Release**:
+    -   Transverse incision.
+    -   Divide A1 pulley radially (avoid oblique pulley).
+
+------------------------------------------------------------------------
+
+## Congenital Dislocations
+
+### **Congenital Dislocation of the Knee**
+
+-   **Epidemiology**: Rare.
+-   **Aetiology**: Intrauterine breech position, congenital ACL deficiency.
+-   **Associations**: Arthrogryposis, myelodysplasia.
+-   **Clinical Features**:
+    -   No passive knee flexion.
+    -   Hyperextending knee with anterior skin dimple.
+-   **Management**:
+    -   **Closed Reduction**:
+        -   Serial casting (most cases).
+    -   **Open Reduction**:
+        -   Quads release.
+
+### **Congenital Dislocation of the Patella**
+
+-   **Aetiology**: Generalized problem.
+-   **Clinical Features**:
+    -   FFD of knee.
+    -   No knee extension.
+-   **Management**:
+    -   Surgery only:
+        -   Releases, relocations, and repairs.
+        -   Trochleoplasty.
+
+------------------------------------------------------------------------
+
+## Congenital Radial Head Dislocation
+
+### **Epidemiology**
+
+-   Fairly common, often bilateral.
+
+### **Associations**
+
+-   Achondroplasia, Nail Patella Syndrome.
+
+### **Pathoanatomy**
+
+-   Short ulna.
+-   May be anteriorly, posteriorly, or laterally dislocated.
+
+### **Management**
+
+-   **Non-operative**:
+    -   Most cases (minimal symptoms).
+-   **Surgical** (Indications: Pain, reduced ROM):
+    -   Radial head excision (post-skeletal maturity).
+    -   Annular ligament reconstruction.
+    -   Ulna lengthening or radius shortening.

@@ -68,7 +68,7 @@ Aim for a strike **less than 10 delta.** Plugin the **implied volatility** and o
 
 ```{r}
 
-closing_price<-closing_price
+closing_price<-23389
 strike <- closing_price * 0.85  # Strike price of the option
 time_to_expiry <- 210/365  # Time to expiration in years
 risk_free_rate <- 0.071   # Risk-free interest rate

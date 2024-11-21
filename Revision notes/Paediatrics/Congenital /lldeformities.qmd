@@ -1,0 +1,165 @@
+---
+title: "Paediatric Lower Limb Deformity"
+---
+
+### Likely Pathologic Varus
+
+-   **Unilateral**
+-   **Severe**
+    -   2SD outside selenius curve
+-   **IM distance \>15 cm at 5 years**
+-   **Varus present over 2 years old**
+-   **Obese child**
+-   **Wider developmental abnormality evident**
+
+### Likely Pathologic Valgus
+
+-   **Unilateral**
+-   **Severe**
+    -   IM distance \>10cm at 10 years
+-   **Progressive deformity**
+
+## Genu Varus Causes
+
+-   **Blount’s Disease**
+-   **Rickets** (all types)
+-   **Achondroplasia**
+-   **Tibial Hemimelia**
+-   **Osteogenesis Imperfecta**
+
+## Genu valgus causes
+
+-   **Morquio Syndrome**
+
+-   **Multiple Epiphyseal Dysplasia (MED)**
+
+-   **Cozen’s fracture**
+
+-   **Hypophosphataemic Rickets**
+
+-   **Physiologic**
+
+## Both
+
+-   **Multiple hereditary osteochondromatosis**
+-   **Infection**
+-   **Trauma**
+
+### Blount’s Disease
+
+#### Epidemiology
+
+-   Most common paediatric cause of tibia vara
+
+#### Aetiology
+
+-   Obesity – overload on medial tibial physis restricts growth
+-   There is varus but also internal rotation deformity
+
+#### Classification
+
+-   **Infantile or Adolescent**
+    -   Infantile is more aggressive with worse outcomes.
+-   **Langenskiöld Classification**
+    -   6 stages based on the appearance of the medial physis
+    -   Grade 1 & 2 are mild
+    -   Grade 5 & 6 are severe with joint depression
+
+#### Evaluation
+
+-   **Differentiate between physiologic bowing and Blount’s:**
+    -   Physiologic bowing:
+        -   Milder
+        -   Spread across whole tibia, not at physis
+        -   Will not progress
+        -   Will not cause pain
+        -   Always bilateral
+
+#### Investigations
+
+-   **X-Ray if:**
+    -   Progressive bowing
+    -   Walking age child with \>20-degree varus
+    -   Short stature or family history of metabolic bone disease
+
+#### Management
+
+-   **Primary Aim:** Restore mechanical axis
+-   **Secondary Aims:**
+    -   Elevate joint depression
+    -   Equalize limb lengths
+    -   Prevent complications (e.g., compartment syndrome)
+-   **Non-Operative:**
+    -   Grade 1 or 2 initially
+    -   Appropriate for \<4 years if not severe
+-   **Operative:**
+    -   Osteotomy (Infantile: Long oblique; Adolescent: Dome or medial opening wedge)
+
+## Genu Valgum
+
+### Causes
+
+-   **Physiologic**
+-   **Obesity**
+-   **Cozen’s fracture**
+-   **Hypophosphataemic rickets**
+-   **Multiple Epiphyseal Dysplasia**
+-   **Tumour**
+-   **Infection**
+
+### Management
+
+-   **Non-Operative:**
+    -   Reassure and observe if physiologic and asymptomatic
+-   **Surgical:**
+    -   **Guided Growth:** Lateral physis tethering (8-plate or staples)
+    -   **Hemiepiphysiodesis:** Permanent correction
+    -   **Osteotomy:** For older children or residual deformity
+
+## Tibial Bowing
+
+### Types
+
+-   **Posteromedial Bowing**
+    -   Physiologic; resolves spontaneously
+    -   Complication: Leg length discrepancy
+-   **Anterolateral Bowing**
+    -   Associated with congenital pseudoarthrosis of the tibia
+    -   Management: Nailing, Ilizarov, or amputation if severe
+-   **Anteromedial Bowing**
+    -   Associated with fibula hemimelia
+
+## Paediatric Limb Length Discrepancy
+
+### Aetiology
+
+-   **Congenital or Acquired:**
+    -   Dwarfism, neuromuscular, PFFD, infection, trauma, etc.
+
+### Management
+
+-   **\<2 cm:** No treatment or shoe raise
+-   **2–5 cm:** Epiphysiodesis or lengthening
+-   **5–15 cm:** Lengthening or amputation
+-   **\>15 cm:** Amputation and prosthetics preferred
+
+## Paediatric Rotational Abnormalities
+
+### Femoral Torsion
+
+-   **Normal Variants:**
+    -   Anteversion reduces from 40° at birth to 15° at skeletal maturity
+-   **Management:**
+    -   Reassurance for physiologic cases
+    -   Surgical rotational osteotomy if severe
+
+### Tibial Torsion
+
+-   **Aetiology:**
+    -   Packaging disorder or neuromuscular
+-   **Management:**
+    -   Resolves spontaneously; surgery if symptomatic in children \>10 years
+
+*Children with persistent varus after walking age should be investigated*
+
+*Selenius curve: Joseph B, Nayagam S, Loder R, Torode I (2009) Paediatric Orthopaedics: a System of Decision Making*

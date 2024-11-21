@@ -1,0 +1,121 @@
+---
+title: "Chromosomal & Teratologic Disorders"
+---
+
+## Down Syndrome (Trisomy 21)
+
+-   **Epidemiology**: Most common chromosomal disorder.
+-   **Risk Factors**: Maternal age, previous Down's child.
+-   **General Manifestations**:
+    -   Endocrine: Hypothyroidism, diabetes.
+    -   Intellectual disability.
+    -   Heart disease.
+    -   Premature aging.
+    -   Hypotonia.
+-   **Orthopaedic Manifestations**:
+    -   Ligamentous laxity.
+    -   Atlanto-axial instability:
+        -   Measure ADI, SAC, Powers ratio.
+        -   Perform flexion/extension views.
+        -   Avoid contact sports if present.
+        -   If symptomatic, severe, or progressive: Fuse up to occiput.
+    -   Scoliosis (50%).
+    -   Spondylolisthesis (5%).
+    -   Hip dislocation.
+    -   Planovalgus feet.
+    -   Metatarsus primus varus & hallux valgus.
+    -   Recurrent patella dislocation.
+    -   SUFE (screen for hypothyroidism).
+
+## Turner's Syndrome (45 XO Females)
+
+-   **Features**: Short stature, hypogonadism, webbed neck, cubitus and genu valgum.
+-   **Orthopaedic Manifestations**:
+    -   Short 4th & 5th metacarpals.
+    -   Scoliosis.
+
+## Noonan's Syndrome
+
+-   **Features**: Similar appearance to Turner's syndrome, but normal sexual organs.
+-   **Orthopaedic Manifestation**: Severe scoliosis.
+
+## Prader-Willi Syndrome
+
+-   **Cause**: Paternal deletion of chromosome 15.
+-   **Features**:
+    -   Hypotonic infant.
+    -   Obese adult with insatiable appetite and intellectual impairment.
+    -   Hypogonadism.
+    -   Juvenile scoliosis.
+
+## Rett Syndrome
+
+-   **Features**:
+    -   Progressive spasticity and intellectual impairment.
+    -   Abnormal hand movements.
+    -   Progresses post-birth, then stabilizes (unlike non-progressive CP).
+
+## Beckwith-Wiedemann Syndrome
+
+-   **Features**:
+    -   Organomegaly, large tongue.
+    -   Orthopaedic: Severe scoliosis, hemihypertrophy, cerebral palsy.
+    -   **Hemihypertrophy** associated with Wilm's tumor.
+
+## Nail-Patella Syndrome
+
+-   **Genetics**: Autosomal dominant with variable penetrance.
+-   **Cardinal Features**:
+    -   Dysplastic nails.
+    -   Hypoplastic/absent patellae.
+    -   Conical iliac horns.
+    -   Dysplastic radial heads.
+-   **Complications**:
+    -   Radial head dislocation, elbow arthritis.
+    -   Knee arthritis and anterior pain.
+    -   Autoimmune nephropathy (40% - most serious).
+-   **Management**:
+    -   Non-operative in most.
+    -   Periodic nephropathy screening.
+    -   Manage arthritis and pain (surgical/non-surgical).
+
+------------------------------------------------------------------------
+
+# Haematopoietic Disorders
+
+## Gaucher’s Disease
+
+-   **Genetics**: AR lysosomal storage disorder (Ashkenazi Jews).
+-   **Cause**: Accumulation of cerebroside (glucocerebrosidase deficiency).
+-   **Features**:
+    -   Hepatosplenomegaly.
+    -   Gaucher crisis: Bone pain.
+    -   Orthopaedic: Expanded metaphyses (Erlenmeyer flask distal femur), osteopenia, AVN of femoral head.
+
+## Leukaemia
+
+-   **Epidemiology**: Most common childhood malignancy (80% ALL).
+-   **Features**:
+    -   1/3 of children report musculoskeletal pains (leg & back).
+    -   Bone: Periostitis, lytic areas, demineralization, metaphyseal radiolucent lines ("leukemia lines").
+
+## Thalassemia
+
+-   **Genetics**: Autosomal recessive.
+-   **Orthopaedic Manifestations**:
+    -   Bone pain, leg ulcerations.
+    -   Metaphyseal expansion, osteopenia, premature physeal closure.
+
+## Sickle Cell Disease
+
+-   **Genetics**: AR (HbSS gene mutation; 1% full sickle cell, 8% trait).
+-   **Epidemiology**: Africans and Sub-Saharan Asians.
+-   **Manifestations**:
+    -   Sickle cell crisis (induced by hypothermia/trauma/stress; mediated by substance P).
+    -   Bone infarction, extreme pain.
+    -   Femoral head AVN.
+    -   Osteomyelitis/septic arthritis: Salmonella typical, but Staph aureus most common.
+    -   Spine: Biconcave "fish" vertebrae.
+-   **Management of Crises**:
+    -   Adequate oxygenation, supportive analgesia, hydroxyurea.
+    -   Pre-op: Blood film screening, oxygenation, exchange transfusion.

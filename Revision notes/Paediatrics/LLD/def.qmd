@@ -1,0 +1,216 @@
+---
+title: "Limb Deficiencies"
+---
+
+## Fibula Hemimelia
+
+### Aetiology
+
+-   No inheritance pattern.
+-   Most common of limb deficiencies.
+-   Post-axial hypoplasia.
+-   Variable length of fibula missing (partial to complete).
+-   Often no syndromic disorder; children are intellectually normal.
+-   Variable expression (mild to severe).
+-   Strongly associated with multiple other limb deformities/deficiencies.
+
+### Classification
+
+-   **Achterman & Kalamachi**
+    -   Traditional classification based on the amount of fibula present.
+    -   Type 2: More likely to have concurrent deficiencies.
+-   **Birch Classification**
+    -   Based on foot and limb function.
+    -   Guides treatment.
+
+### Clinical Presentation
+
+-   **Birth presentation**:
+    -   Valgus ankle.
+    -   Anteromedial bow of tibia with skin puckering.
+    -   Proportionate limb length discrepancy (LLD remains same ratio at maturity).
+
+#### Features to Look for in Assessment:
+
+| Area | Features |
+|--------------|----------------------------------------------------------|
+| **Hip & Femur** | CSF, PFFD, Shortening |
+| **Knee** | ACL (and PCL) deficiency, Valgus (hypoplastic LFC), Patella maltracking/hypoplasia |
+| **Leg** | Anteromedial bowing, Skin puckering, Shortening |
+| **Ankle** | Valgus (rarely varus), Ball-and-socket ankle |
+| **Foot** | Tarsal coalition, Absent lateral rays, Syndactyly of remaining toes |
+
+### Management
+
+-   Treatment dictated by other bones and soft tissues, not the fibula.
+-   Preserve/correct knee for prosthetic fitting.
+-   **Salvage vs. Amputation**:
+    -   
+
+        > 3 absent rays: Better outcome with amputation.
+
+    -   Flail foot: Perform amputation (Symes) before age 3 for less psychological impact.
+-   Address individual problems as necessary.
+
+------------------------------------------------------------------------
+
+## Proximal Femoral Focal Deficiency (PFFD)
+
+### Definition
+
+-   Spectrum of disease:
+    -   **Congenital Shortening of the Femur (CSF)**: Mild, normal hip development.
+    -   **Proximal Femoral Focal Deficiency (PFFD)**: Severe, no proximal femur (head may be present).
+    -   Limb is very short.
+
+### Aetiology
+
+-   Non-hereditary, unknown cause.
+
+### Associated Problems
+
+-   More likely syndromic.
+-   High incidence of other deficiencies (50%):
+    -   Fibula hemimelia (50-70%).
+    -   Upper limb deficiencies.
+    -   Hip dysplasia.
+    -   Coxa vara.
+
+### Management
+
+#### Principles
+
+-   Decision based on:
+    -   Hip dysplasia/stability.
+    -   Function and muscle bulk of the lower leg.
+    -   Bone deficiencies.
+    -   Knee and ankle stability/contracture.
+    -   Presence of proximal femur or femoral head.
+    -   Importance of feet (for ADLs if upper limbs are deficient).
+
+#### Options
+
+1.  **Lengthening**
+    -   Predicted discrepancy \<20 cm with functional lower leg.
+    -   Address acetabular dysplasia/coxa vara before lengthening.
+    -   Use distraction osteogenesis with external fixator.
+2.  **Knee Fusion and Foot Ablation**
+    -   Non-functional ankle: Fusion for better prosthetic fit.
+3.  **Van Ness Rotationplasty**
+    -   Rotate functional ankle to act as knee joint in a prosthesis.
+4.  **Femoro-pelvic Fusion (Brown’s Procedure)**
+    -   For non-functional hip and proximal femur.
+5.  **Prosthetic Fitting**
+    -   Required in all cases.
+
+------------------------------------------------------------------------
+
+## Tibial Hemimelia
+
+### Key Facts
+
+-   Less common than fibula hemimelia: 1/million.
+-   Clinical presentation:
+    -   75% have other anomalies.
+    -   Equinovarus foot (rare in other conditions).
+    -   Variable tibial deficiency.
+    -   Grossly unstable ankle and knee.
+
+### Associations
+
+-   Pre-axial polydactyly.
+-   Lobster claw hand.
+-   PFFD.
+
+### Management
+
+-   Depends on knee extension:
+    -   If knee extends, consider reconstruction.
+    -   If not, use prosthesis after foot ablation.
+
+------------------------------------------------------------------------
+
+## Clinical Assessment of a Limb Deficiency
+
+### Examination
+
+1.  **Standing (Front, Side, Back)**
+    -   Scars, shortening, angular deformity, muscle wasting, skin changes, spine assessment.
+2.  **Palpation**
+    -   ASIS height, block test for pelvic leveling.
+3.  **Gait Analysis**
+    -   Observe compensation for shortening (e.g., equinus, vaulting, circumduction).
+4.  **Lie Down**
+    -   Square pelvis, check angular deformities and bony landmarks.
+5.  **Range of Motion**
+    -   Joint ROM, stiffness, correctibility of deformities, joint instability (ACL, PCL, MCL).
+6.  **Neurological Status**
+    -   Examine upper limbs, spine, abdomen.
+    -   Obtain full history and limb X-rays.
+
+------------------------------------------------------------------------
+
+## Congenital Pseudoarthrosis of the Tibia (CPT)
+
+### Aetiology
+
+-   Congenital anterolateral bowing of tibia (distal 1/3).
+-   Poor bone quality, propensity to fracture.
+-   Healing is poor, leading to pseudoarthrosis.
+
+### Epidemiology
+
+-   1/200,000 live births.
+
+### Associations
+
+-   Most commonly linked to Type 1 Neurofibromatosis (50%):
+    -   Only 10% of NF patients develop CPT.
+-   Fibrous dysplasia.
+-   Often idiopathic.
+
+### Types
+
+-   **Boyd Classification (1-6)**:
+    -   Based on severity.
+    -   Variations include sclerotic, cystic, or string-like tibia, associated fibula pseudoarthrosis, and ankle valgus.
+
+### Differential Diagnosis
+
+-   Osteogenesis imperfecta.
+-   Rickets.
+-   Fibrous dysplasia.
+-   (CPT is almost never bilateral.)
+
+### Management Goals
+
+-   Early diagnosis and fracture prevention.
+-   Achieving bony union.
+-   Preventing re-fracture.
+-   Correcting LLD.
+
+### Non-operative Management
+
+-   If found before fracture:
+    -   Splinting (KAFO).
+    -   Total contact casting.
+    -   Fracture risk reduces after maturity.
+
+### Surgical Options
+
+1.  **IM Nail and Cortical Grafting**
+    -   Nail through heel; retained until maturity.
+    -   Prevents re-fracture; controls ankle valgus.
+    -   Suitable for younger children.
+2.  **Ilizarov Technique**
+    -   Resection and compression with bone transport.
+    -   Corrects LLD; used for failed nailing.
+3.  **Vascularised Free Fibula Transfer**
+    -   Complex; requires expertise.
+    -   No better clinical outcomes.
+4.  **Amputation**
+    -   After 3 failed union attempts.
+
+### Outcomes
+
+-   70% union rates for all methods.

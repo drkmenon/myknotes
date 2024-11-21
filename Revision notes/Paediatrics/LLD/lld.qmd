@@ -1,0 +1,134 @@
+---
+title: "Limb Length Discrepancy"
+---
+
+## Epidemiology
+
+-   Common to have small inequalities \<2cm – asymptomatic
+
+## Aetiology
+
+-   **Congenital or Acquired**
+    -   Dwarfism, Neuromuscular, PFFD, CSF, etc.
+    -   Infection, Physeal trauma, Tumour, AVN
+-   **True or Apparent**
+    -   Always screen for:
+        -   Scoliosis
+        -   Hip, knee, ankle soft tissue contracture
+    -   Most common: Hip adductor contracture – apparent shortening
+-   **Proportional or Disproportional**
+    -   **Proportional**: 70% discrepancy remains consistent at maturity (congenital)
+    -   **Disproportionate**: Discrepancy varies with growth (acquired conditions)
+
+## Potential Problems from Limb Length Discrepancy
+
+-   Limp – main focus of intervention is to cure limp
+-   Psychologic distress
+-   Back pain – no evidence
+-   Early osteoarthritis (OA) – uncovered femoral head on long side & increased joint reaction forces (debatable)
+
+## Methods of Predicting Growth
+
+### Rule of Thumb Method
+
+-   Girls stop growing at 14 years, boys stop at 16 years
+-   Mean limb length (LL) at maturity:
+    -   Female: 80cm
+    -   Male: 85cm
+-   Growth predicted by mean yearly growth at each physis:
+    -   **Distal Tibia**: 3mm/year
+    -   **Proximal Tibia**: 6mm/year
+    -   **Distal Femur**: 9mm/year
+    -   **Proximal Femur**: 3mm/year
+-   Most applicable to the last 4 years of growth.
+
+### Predicted Height at Maturity
+
+-   **TW3 formula**: More applicable to boys.
+-   If predicted height is short, consider **lengthening** instead of **epiphysiodesis**.
+
+### Linear Growth Estimates
+
+-   Sufficient for most conditions, even disproportionate LLD.
+-   Common methods:
+    -   Green & Anderson Tables
+    -   Mosley Graphs
+    -   Paley Multiplier Method (accounts for gender)
+
+### Non-Linear Growth Estimates
+
+-   Eastwood Method
+-   Shapiro Method
+
+## Clinical Evaluation
+
+### Examination
+
+-   Pelvic tilt
+-   Limp
+-   Compensatory gait pattern – vaulting, toe walking, knee flexion
+-   Compensatory scoliosis
+
+### Block Test
+
+-   Examine from behind with knees extended.
+-   Stack blocks under the shorter limb until pelvis is level.
+-   As accurate as imaging measurements.
+
+### Supine Measurement
+
+-   Measure limb lengths supine (estimation only – less accurate).
+
+### Imaging
+
+-   Single long cassette X-ray of both lower limbs (Weight Bearing - WB)
+-   CT scanogram (Non-WB)
+-   X-ray scanogram (3 small cassettes stitched together - WB preferred)
+
+### Additional Tests
+
+-   All children with congenital LLD should undergo **abdomen ultrasound**.
+    -   6% incidence of neuroectodermal tumours (e.g., Wilms tumour).
+
+## Management
+
+### General Principles of Lengthening
+
+-   Do not lengthen \>15% of residual limb length in one sitting.
+-   Best done at metaphysis:
+    -   Less non-union
+    -   Easier access
+-   Rate: 1mm/day in 3-4 slots.
+-   Start lengthening 5-7 days after corticotomy.
+-   Leave fixator on for at least the same time as the lengthening period.
+-   For very long discrepancies (\>15cm), **amputation** and prosthetic fitting may provide better outcomes.
+
+### Acute Shortening
+
+-   For discrepancies of 2-5cm, shortening is an option, especially in the upper limb.
+-   Most predictable when performed after skeletal maturity.
+
+### Epiphysiodesis
+
+-   Performed with a drill – no plating required.
+-   Predictable and easy to perform.
+
+### Physeal Bar Excision
+
+-   More reliable in post-traumatic than post-infection cases.
+-   Indicated if:
+    -   \<50% of the physis is affected.
+
+    -   
+
+        > 2cm discrepancy or at least 2 years of growth left.
+-   Shortening or epiphysiodesis may be easier and more reliable.
+
+## Options Based on Limb Length Discrepancy
+
+| LLD Range | Management Options |
+|-----------------|-------------------------------------------------------|
+| \<2cm | No treatment or shoe raise |
+| 2-5cm | Epiphysiodesis, shortening, or lengthening (if predicted height is short) |
+| 5-15cm | Epiphysiodesis, lengthening, shortening, or both |
+| \>15cm | Lengthening or amputation and prosthetic fitting |
