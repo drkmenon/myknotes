@@ -1,0 +1,137 @@
+---
+title: "Connective Tissue Disorders"
+---
+
+## Marfan’s Syndrome
+
+### Epidemiology
+
+-   1 in 10,000 live births
+-   No gender predilection
+
+### Aetiology
+
+-   Autosomal Dominant
+-   25% new mutations
+-   Problem with Fibrillin gene on chromosome 15q21
+
+### Clinical Signs
+
+-   Tall, spindly hands, joint hypermobility
+-   **Wrist Sign** (Walker’s test): Index and thumb overlap when encircling opposite wrist
+-   **Thumb Sign** (Steinberg test): If thumb adducted across palm, it comes out of closed fist
+-   **Arm span: height ratio** \> 1.05
+
+### Diagnostic Criteria (GHENT system)
+
+-   One major criterion in two different organ systems & involvement of a third
+
+### Main Affected Body Areas
+
+1.  **Orthopaedic**
+    -   Joint hypermobility
+    -   Scoliosis
+    -   Dural ectasia
+    -   Protrusio acetabuli
+    -   Planovalgus feet
+2.  **Cardiothoracic**
+    -   Pectus Excavatum
+    -   Spontaneous Pneumothorax
+    -   Aortic Dissection
+    -   Aortic root dilatation
+    -   Mitral valve prolapse
+3.  **Eyes**
+    -   Superior lens dislocation
+4.  **Abdomen**
+    -   Stretch marks
+    -   Recurrent hernias
+
+### Management
+
+-   Referral for ECHO if not done already
+-   Genetic counselling
+-   Aggressive treatment of scoliosis
+    -   High incidence of curve progression
+    -   Pseudoarthrosis may occur with fusion
+    -   Complicated by dural ectasia
+-   Surgical closure of triradiate cartilage to halt protrusio
+-   Surgery for planovalgus feet
+
+------------------------------------------------------------------------
+
+## Ehlers-Danlos Syndrome
+
+### Aetiology
+
+-   Disorder causing:
+    -   Hypermobility of joints
+    -   Excessive skin laxity
+-   All types have mutation of one of the **COL** genes
+-   50% involve **COL5A1** or **COL5A2** (classic type: Type 5 collagen – skin collagen)
+-   Vascular and Spinal Subtypes have slightly different mutations
+-   Classic form is Autosomal Dominant
+
+### Clinical Features
+
+-   **Skin**:
+    -   Fragile
+    -   Lax
+    -   Easily scarred
+-   **Joint Hypermobility**:
+    -   Recurrent dislocations, especially shoulder
+-   Severe kyphoscoliosis (spinal subtype):
+    -   Needs aggressive treatment and long fusion
+    -   Pseudoarthrosis more common
+-   **Cardiac**:
+    -   Aortic root dilatation (get ECHO if not done)
+
+------------------------------------------------------------------------
+
+## Osteogenesis Imperfecta
+
+### Aetiology
+
+-   Mutation of **COL1A1** or **COL1A2** gene (Collagen 1)
+-   Affects normal bone formation
+
+### Clinical Features
+
+-   Bone heals normally but is very brittle
+-   Multiple recurrent fractures
+    -   Olecranon apophyseal avulsion fracture is frequent
+    -   Fractures slow down after maturity
+-   Short stature
+-   Normal intelligence
+-   Scoliosis
+-   Basilar invagination
+-   Codfish vertebrae (multiple compression fractures)
+-   Tooth defects (dentinogenesis imperfecta)
+-   Hearing difficulty (deafness in 50% by age 40)
+-   Ligamentous laxity
+-   Increased risk of malignant hyperthermia
+
+### Subtypes
+
+| Type | Sclera | Inheritance | Often De Novo | Features |
+|------------|------------|------------|------------|--------------------------|
+| 1 | Blue sclera | AD | Yes | Mildest form; hearing deficit in 50% |
+| 2 | Blue sclera | AR | Yes | Lethal in perinatal period |
+| 3 | White sclera | AR | Yes | Progressive deformities; most severe survivable form |
+| 4 | White sclera | AD | Yes | Moderate severity; hearing normal |
+| 5–8 | Variable | Variable | Yes | None have collagen 1 mutation; similar phenotypes to Osteogenesis Imperfecta |
+
+### Management
+
+#### Non-surgical
+
+-   Genetic counselling
+-   Bisphosphonates:
+    -   Shown to reduce fractures but complications if used long term
+-   Growth hormone
+-   Bone marrow transplant
+
+#### Surgical
+
+-   Prophylactic or therapeutic fixation of fractures:
+    -   Use IM nails where possible to protect whole bone
+-   Treat scoliosis aggressively
