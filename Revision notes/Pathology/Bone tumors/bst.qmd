@@ -1,0 +1,341 @@
+---
+title: "Benign Soft Tissue Tumours"
+---
+
+## Lipoma
+
+### Epidemiology
+
+-   Adults
+-   Men \> women
+
+### Aetiology
+
+-   Tumour of adipose tissue (white fat)
+-   Tumours of brown fat are called **Hibernomas** – occur in hibernating animals or relatively inactive young children
+-   Multiple lipomatosis – **Decrum's disease**
+
+### Clinical Features
+
+-   Subcutaneous usually
+-   Painless
+-   Usually \<5 cm but can be very large
+-   **Subtypes:**
+    -   Intramuscular – must be sure this is not a low-grade liposarcoma
+    -   Pleomorphic
+    -   Spindle cell lipoma
+        -   Both are benign but may be confused with malignant lesions
+    -   Angiolipoma – the only painful lipoma – still benign
+
+### Imaging Features
+
+-   Lipoma should look the same as fat on every MRI sequence
+
+### Management/Outcomes
+
+-   Marginal excision
+-   Recurrence rate \<5%
+
+------------------------------------------------------------------------
+
+## Haemangioma/Intramuscular Haemangioma
+
+### Epidemiology
+
+-   \<30 years old and more common in children
+
+### Clinical Features
+
+-   If superficial, bluish compressible mass that fills with gravity
+-   May have a bruit but not usually pulsatile
+-   Is a venous problem normally
+-   May be deep in muscle (intramuscular haemangioma)
+-   Painless normally
+
+### Imaging Features
+
+-   High signal on T1 and T2
+
+### Management/Outcomes
+
+-   NSAIDs and compression bandages first line
+-   Surgical excision has a high recurrence rate
+-   Sclerotherapy or embolization are often useful alone or with surgery
+
+------------------------------------------------------------------------
+
+## Neurilemoma (Schwannoma)
+
+### Epidemiology
+
+-   Young adults
+-   More common than neurofibroma
+
+### Aetiology
+
+-   Benign tumour of Schwann cells
+-   Associated with the **NF2 gene**
+
+### Clinical Features
+
+-   Slow-growing painless mass
+-   May cause neurologic symptoms or pain on stretch but uncommon
+
+### Imaging Features
+
+-   Low signal on T1, High signal on T2
+-   Lesion is eccentric to the nerve but in continuity with it
+-   May have a positive Tinel's sign
+
+### Pathology
+
+-   Different cellular areas split into Antoni A and B regions
+-   **Verocay bodies** are pathognomonic
+-   Stains positive for S100 antibody
+
+### Management
+
+-   Marginal excision if symptomatic
+    -   Shells out like a pea from the nerve
+-   Observe otherwise
+-   Preserve nerve fibres if excising
+
+------------------------------------------------------------------------
+
+## Neurofibroma & Neurofibromatosis
+
+### Epidemiology
+
+-   Young adults or children
+
+### Aetiology
+
+-   A benign nerve tumour
+-   May arise from any nerve
+-   May be superficial or plexiform (infiltrative)
+-   Occurs de novo or as part of **neurofibromatosis 1 or 2**
+
+#### NF1
+
+-   **1/4000 births**
+-   Von Recklinghausen's disease
+-   Chromosome 17 translocation
+-   Autosomal dominant
+
+#### NF2
+
+-   **1/40,000 births**
+-   Chromosome 22 translocation (*Remember NF2 – Ch 22*)
+
+### Diagnostic Criteria for Neurofibromatosis Type 1
+
+At least two of the following criteria (**ROLANCO**): 1. Relative with NF1 2. Osseus abnormality - Cortical scalloping, pseudoarthrosis, NOF, scoliosis 3. Lisch nodule (hamartoma of melanocytes in the iris) 4. Axillary freckling 5. Neurofibromas x2 or one plexiform neurofibroma 6. Café au lait spots – 6 or more 7. Optic glioma
+
+### Clinical Features
+
+-   Usually superficial but may be deep and very large
+-   Generally asymptomatic
+-   Slow-growing (beware rapid growth)
+-   Tinel positive rarely
+-   \<5% risk of malignant change to neurofibrosarcoma
+    -   Almost always in NF1 rather than solitary lesions
+    -   Usually in plexiform (infiltrative) neurofibroma
+
+### Imaging Features
+
+-   Low signal T1, high signal T2
+-   Fusiform rather than eccentric (schwannoma) on the nerve
+-   May be dumbbell-shaped
+-   Look for skeletal signs:
+    -   Pseudoarthrosis, NOF, cortical scalloping, scoliosis
+    -   Scoliosis is most common
+
+### Pathology
+
+-   Interlacing bundles of elongated cells with dark staining nuclei
+
+### Management
+
+-   Observe if asymptomatic
+-   Excise if symptomatic – nerve defect possible
+-   Treat osseous problems accordingly
+
+------------------------------------------------------------------------
+
+## Nodular Fasciitis
+
+### Epidemiology
+
+-   Most common fibrous tumour
+
+### Aetiology
+
+-   Completely benign but mistaken for malignant
+
+### Clinical Features
+
+-   Usually on volar aspect of upper limb, neck, back
+-   Usually superficial
+-   Rapidly grows over 2 weeks then stabilizes
+-   Quite small in size
+-   50% painful
+-   Solitary
+-   No risk of malignant transformation
+
+### Imaging Features
+
+-   Low signal T1 but enhances highly with gadolinium
+-   Superficial, deep or along fascia planes
+
+### Pathology
+
+-   Normal fibroblasts in clumps
+
+### Management
+
+-   Excision has a very low recurrence rate
+
+------------------------------------------------------------------------
+
+## Intramuscular Myxoma
+
+### Epidemiology
+
+-   Older adults
+
+### Aetiology
+
+-   Mucoid lesion within muscles
+
+### Associated Conditions
+
+-   **Mazabraud Syndrome:**
+    -   Multiple myxomas and fibrous dysplasia (*Remember M for Mazabrauds and Multiple Myxomas*)
+
+### Clinical Features
+
+-   Slow-growing mass
+-   Painful in 20%
+-   May cause mass effect on nerves
+-   Solitary unless part of a syndrome - Mazabrauds
+-   Buttocks and thighs usually
+
+### Imaging Features
+
+-   Lie within muscle compartments
+
+### Management
+
+-   Marginal excision – low recurrence rate
+
+------------------------------------------------------------------------
+
+## Desmoid Tumour
+
+### Epidemiology
+
+-   Young adults
+
+### Aetiology
+
+-   Part of the fibromatosis family of tumours (e.g., Dupuytren's, Lederhosen's)
+
+### Clinical Features
+
+-   The most common locally aggressive benign soft tissue tumour
+-   Infiltrates surrounding tissues
+-   50% are intra-abdominal, 50% extra-abdominal
+    -   Shoulder, chest wall, back, thigh
+-   Grow slowly, are usually pain-free and feel ‘rock hard’ and fixed
+-   Unpredictable natural history
+
+### Imaging Features
+
+-   Low T1 and T2 signal - Enhance with gadolinium
+
+### Pathology
+
+-   Fibroblasts, spindle cells, and collagen
+
+### Management/Outcomes
+
+-   Treat like a sarcoma – Wide excision
+-   Consider adjuvant radiotherapy or post-operative radiotherapy
+-   Recurrence rate is high
+
+------------------------------------------------------------------------
+
+## Elastofibroma
+
+-   Rare reactive benign lesion
+-   Occurs exclusively between scapula and chest wall
+-   Causes snapping scapula syndrome which may cause pain
+-   MRI has heterogeneous signal on T1 and T2
+-   No chance of malignancy
+-   Treatment is by excision which is successful
+-   Histology stains for Elastin
+
+------------------------------------------------------------------------
+
+## Synovial Chondromatosis
+
+### Epidemiology
+
+-   Young adults
+
+### Aetiology
+
+-   Metaplastic proliferation of hyaline cartilage in the synovium
+-   Initially not visible on XR
+-   Cartilage fragments undergo endochondral ossification to become calcified and visible
+
+### Clinical Features
+
+-   Affects hip, knee, shoulder, elbow, ankle in that order
+-   Hundreds of intra-articular loose bodies
+-   Cause pain and erode articular surfaces
+
+### Management
+
+-   Synovectomy and removal of all loose bodies
+-   High recurrence if synovectomy is not complete
+
+------------------------------------------------------------------------
+
+## Myositis Ossificans
+
+### Epidemiology
+
+-   Young adults
+
+### Aetiology
+
+-   Post-traumatic almost exclusively
+-   Almost always within muscle
+
+### Clinical Features
+
+-   Usually in quads, gluteals, or brachialis
+-   Grows in size over several months
+-   Then stabilizes but becomes hard
+-   Usually mature by one year
+-   Often regresses after this
+-   Causes pain with muscle activity or restricted joint motion
+
+### Pathology
+
+-   **Zonal pattern:**
+    -   **Periphery:** Mature lamellar bone
+    -   **Middle:** Osteoblasts, fibroblasts, and calcification
+    -   **Centre:** Fibrous tissue – more lucent on XR
+
+### Differential Diagnosis
+
+-   Soft tissue sarcoma – histology is completely different
+-   CT scan and MRI will usually differentiate
+
+### Management
+
+-   Observe
+-   NSAIDs
+-   Do not excise until mature and only if symptomatic

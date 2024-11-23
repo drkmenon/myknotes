@@ -1,0 +1,384 @@
+---
+title: "Benign Bone Tumours"
+---
+
+## Classification
+
+### Histologic Type
+
+-   **Osteogenic**
+    -   Osteoid Osteoma
+    -   Osteoblastoma
+-   **Chondrogenic**
+    -   Chondroma
+    -   Enchondroma
+    -   Chondroblastoma
+-   **Fibrogenic**
+    -   Non-Ossifying Fibroma
+    -   Desmoplastic Fibroma
+    -   Chondromyxoid Fibroma
+-   **Cystic**
+    -   Unicameral Bone Cyst
+    -   Aneurysmal Bone Cyst
+-   **Unknown origin**
+    -   Giant Cell Tumour (GCT)
+    -   Langerhans Cell Histiocytosis (Eosinophilic Granuloma)
+
+------------------------------------------------------------------------
+
+## Enneking Classification of Benign Bone Tumours
+
+| Stage | Activity   | Examples                          |
+|-------|------------|-----------------------------------|
+| 1     | Latent     | Osteoid Osteoma, Enchondroma, NOF |
+| 2     | Active     | Chondroblastoma, UBC              |
+| 3     | Aggressive | GCT, ABC                          |
+
+------------------------------------------------------------------------
+
+## Osteoid Osteoma
+
+### Epidemiology
+
+-   Men \> Women
+-   5–30 years old
+
+### Aetiology
+
+-   Unknown
+
+### Investigations
+
+-   **X-Ray**
+    -   \<1 cm nidus with surrounding lucent ring and sclerotic rim
+    -   Extensive sclerosis, especially in the tibia
+-   **Bone Scan**
+    -   High uptake
+-   **CT Scan**
+    -   Necessary if sclerosis obscures nidus
+
+### Presentation
+
+-   Night pain
+-   Long-standing aching pain responsive to NSAIDs, especially aspirin
+
+### Location
+
+-   Anywhere, but most common:
+    -   Proximal femur
+    -   Tibial diaphysis
+    -   Posterior elements of the spine (painful scoliosis at apex of concavity)
+    -   Can be intra-articular (most common in hip joint)
+
+### Pathology
+
+-   Uniform osteoid seams
+-   No pleomorphism or invasion into surrounding bone
+
+### Management
+
+-   NSAIDs (lesion burns out in 2–3 years)
+-   RF Ablation under CT guidance (90% cure rate)
+-   Surgical excision (if other methods fail)
+
+------------------------------------------------------------------------
+
+## Osteoblastoma
+
+### Epidemiology
+
+-   Rare
+-   Commonly occurs in the 20s
+
+### Aetiology
+
+-   Unknown
+
+### Presentation
+
+-   Long-standing pain
+-   Less night pain and less responsive to NSAIDs
+-   Neurologic symptoms if in the spine
+
+### Location
+
+-   Long bones (metaphysis or diaphysis)
+-   Pelvis
+-   Proximal femur
+-   Posterior elements of the spine (scoliosis)
+
+### Pathology
+
+-   Similar to Osteoid Osteoma but larger and macroscopic differences
+
+### Imaging
+
+-   **X-Ray**
+    -   Sclerotic center with surrounding expanding lucent area
+    -   More extensive lucency than Osteoid Osteoma
+    -   May mimic malignant lesions
+-   **CT Scan**
+    -   Evaluates true extent
+-   **Bone Scan**
+    -   High uptake
+
+### Differential Diagnosis
+
+-   Osteoid Osteoma, Osteosarcoma, ABC, GCT
+-   10–40% contain an ABC
+
+### Management
+
+-   Surgical due to locally aggressive nature
+    -   Marginal resection
+    -   Curettage and grafting
+
+------------------------------------------------------------------------
+
+## Paraosteal Osteoma
+
+-   Rare, benign, self-limiting tumor
+-   Grows on the bone surface like pedunculated osteochondroma
+-   Associated with Gardener’s syndrome (multiple osteomas, colonic polyps, fibromatosis)
+
+### Histology
+
+-   Mature lamellar bone
+
+------------------------------------------------------------------------
+
+## Bone Islands (Enostosis)
+
+### Aetiology
+
+-   Focal failure of endochondral ossification
+
+### Imaging
+
+-   Dense cortical, well-demarcated intramedullary lesion
+-   Low signal on T1 and T2 MRI, no surrounding edema
+
+### Management
+
+-   None if asymptomatic
+-   Surveillance or biopsy if diagnosis is unclear
+
+------------------------------------------------------------------------
+
+## Osteopikilosis
+
+-   Hereditary condition with multiple bone islands
+-   Autosomal dominant
+-   Associated conditions: syndactyly, dwarfism
+
+------------------------------------------------------------------------
+
+## Enchondroma
+
+### Aetiology
+
+-   Fragments of epiphyseal cartilage trapped in metaphysis during growth
+
+### Location
+
+-   Hands, long bones, proximal humerus, distal femur, tibia
+
+### Imaging
+
+-   Lytic area with chondroid matrix
+-   Calcification in long bones
+-   Causes cortical thinning and expansion in hands
+
+### Presentation
+
+-   Usually asymptomatic, incidental finding
+-   Pathologic fractures in hands
+
+### Management
+
+-   Intralesional curettage and grafting if symptomatic and isolated
+
+### Associated Conditions
+
+-   Ollier’s Disease (20–30% risk of malignant transformation)
+-   Maffuci’s Syndrome (100% risk of malignant transformation)
+
+------------------------------------------------------------------------
+
+## Periosteal Chondroma
+
+-   Benign tumor on the bone surface under the periosteum
+-   No malignant potential
+
+### Epidemiology
+
+-   Rare, occurs between 10–30 years
+
+### Management
+
+-   Marginal resection if symptomatic
+
+------------------------------------------------------------------------
+
+## Osteochondroma
+
+### Aetiology
+
+-   Benign cartilaginous tumor on the bone surface
+
+### Epidemiology
+
+-   Most common benign bone tumor
+-   Arises in children, identified in the first two decades of life
+
+### Location
+
+-   Around knee, proximal humerus, pelvis, posterior spinal elements
+
+### Presentation
+
+-   Mechanical symptoms from irritation
+
+### Management
+
+-   Excision if symptomatic or concerns about malignant transformation
+-   Associated with Multiple Hereditary Exostosis
+
+------------------------------------------------------------------------
+
+## Chondroblastoma
+
+### Epidemiology
+
+-   Males \> Females
+-   Found in children and young adults
+
+### Location
+
+-   Epiphysis or apophysis (e.g., knee, pelvis, proximal humerus)
+
+### Imaging
+
+-   \<4 cm, central in epiphysis with sclerotic rim
+
+### Management
+
+-   Intralesional curettage and grafting
+-   Phenol to lower recurrence rate (10%)
+
+------------------------------------------------------------------------
+
+## Chondromyxoid Fibroma
+
+### Epidemiology
+
+-   Rare, occurs in the 2nd or 3rd decade
+-   More common in males
+
+### Location
+
+-   Metaphyseal regions of long bones (lower limbs)
+
+### Management
+
+-   Intralesional curettage and grafting
+
+------------------------------------------------------------------------
+
+## Haemangioma
+
+### Epidemiology
+
+-   Asymptomatic in most cases
+
+### Location
+
+-   Vertebral bodies, skull, long bones
+
+### Management
+
+-   Symptomatic treatment only (e.g., embolization, kyphoplasty)
+
+------------------------------------------------------------------------
+
+## Non-Ossifying Fibroma (NOF)
+
+### Epidemiology
+
+-   Common in children aged 5–15 years
+
+### Location
+
+-   Lower limb long bones, especially distal tibia
+
+### Management
+
+-   Observation if asymptomatic
+-   Curettage and grafting if symptomatic
+
+------------------------------------------------------------------------
+
+## Desmoplastic Fibroma
+
+-   Rare, locally aggressive
+-   Wide excision recommended to minimize recurrence
+
+------------------------------------------------------------------------
+
+## Langerhans Cell Histiocytosis (Eosinophilic Granuloma)
+
+### Epidemiology
+
+-   80% under 20 years, Men \> Women
+
+### Imaging
+
+-   Punched-out lytic lesion, thick periosteal reaction
+
+### Management
+
+-   Low-dose radiation, curettage, or steroid injection
+
+------------------------------------------------------------------------
+
+## Cystic Lesions
+
+### Unicameral Bone Cyst (UBC)
+
+-   Painless, filled with serous fluid
+-   Pathologic fracture may occur
+-   **Management**: Injection, curettage, grafting
+
+### Aneurysmal Bone Cyst (ABC)
+
+-   Painful, locally aggressive
+-   May arise de novo or within other lesions
+-   **Management**: Curettage and grafting, embolization for pelvic/spinal lesions
+
+------------------------------------------------------------------------
+
+## Giant Cell Tumour (GCT)
+
+### Epidemiology
+
+-   Females \> Males
+-   Age: 30–50 years
+
+### Features
+
+-   Benign but aggressive
+-   May metastasize to the lung (2%)
+
+### Location
+
+-   Around the knee, distal radius, spine, pelvis
+
+### Imaging
+
+-   Eccentric lytic metaphyseal lesion growing into the epiphysis
+
+### Management
+
+-   Curettage and grafting/cement
+-   Recurrence rate: 15%
+-   Embolization for spinal/pelvic lesions

@@ -1,0 +1,236 @@
+---
+title: "Principles of Bone Oncology"
+---
+
+## Enneking System – Staging System
+
+-   **Benign or malignant**
+-   Enneking system is a post-resection staging system, but:
+    -   Good approximation possible with a reliable biopsy and imaging
+-   For malignant tumours, components are:
+    -   **Grade**: High or low
+    -   **Anatomic Features**: Intra or extra-compartmental
+    -   **Metastases**: Present or not
+
+### Grade (G1, G2 – low or high grade)
+
+-   Grade determined by:
+    -   Degree of normal cell differentiation
+    -   Mitotic figures
+    -   Pleomorphism (variation in cell size and shape)
+
+#### Features of High-Grade Tumours:
+
+-   High mitotic rate
+-   Poorly differentiated (correlates with metastases)
+-   Pleomorphism
+-   Necrotic dark nuclei
+-   High cell-matrix ratio
+-   High risk of metastasis
+
+### Anatomic Features – Intra or Extra-compartmental
+
+-   **Intra-compartmental**: Within the bone or fascial compartment
+-   **Extra-compartmental**: Breached the bone or fascial compartment
+-   T1 MRI is best for detecting intramedullary extent and skip lesions
+
+### Metastases
+
+-   Presence or absence
+-   Metastases automatically classify the tumour as Grade 3
+
+### Staging Table
+
+| Stage | Grade (G) | Anatomy (T) | Mets (M) | Classification |
+|-------|-----------|-------------|----------|----------------|
+| 1a    | Low (G1)  | IC (T0)     | M0       | G1, T0, M0     |
+| 1b    | Low (G1)  | EC (T1)     | M0       | G1, T1, M0     |
+| 2a    | High (G2) | IC (T0)     | M0       | G2, T0, M0     |
+| 2b    | High (G2) | EC (T1)     | M0       | G2, T1, M0     |
+| 3a    | Any       | IC (T0)     | M1       | G1/2, T0, M1   |
+| 3b    | Any       | EC (T1)     | M1       | G1/2, T1, M1   |
+
+-   Stages 1 are all low grade
+-   Stage 2 are all high grade
+-   Stages 3 all have metastases
+
+------------------------------------------------------------------------
+
+## Principles of Tumour Biopsy
+
+### Biopsy Types
+
+-   **Incisional Biopsy**
+    -   Open incision and removal of tissue samples
+-   **Excisional Biopsy**
+    -   Only for lesions where diagnosis is almost certain and with low chance of recurrence (e.g., lipoma)
+    -   Danger of recurrence with incomplete margins
+-   **Percutaneous Biopsy**
+    -   Fine needle aspiration for cytology (not as frequent in the UK as True Cut)
+    -   True Cut biopsy for core specimen:
+        -   More effective under CT or US guidance
+        -   Yields 97% accuracy with expert technique
+        -   Less detail about mitotic figures than incisional biopsy
+        -   Does not usually affect management
+
+### Principles of Performing an Incisional Biopsy
+
+#### Planning
+
+-   Performed by or in accordance with the surgeon doing the definitive procedure
+-   Pathologist:
+    -   Should be consulted regarding the ideal biopsy location
+    -   Should be aware and ready to receive the biopsy
+    -   Should be skilled to perform all tests on the specimen
+
+#### Surgical Technique
+
+-   Leave an excisable scar and biopsy tract (avoid transverse incisions)
+-   Approach should not violate further muscle compartments
+-   Meticulous haemostasis:
+    -   Use a tourniquet and release before closure
+    -   Drain out through the wound
+-   Approach through muscle preferred for tight closure
+
+#### Sampling Specimen
+
+-   Take from soft rather than bony part
+-   Prefer peripheral over necrotic centre (plan this beforehand)
+-   Use frozen section to ensure sample is representative
+-   Send for MC&S and histology
+
+------------------------------------------------------------------------
+
+## Principles of Work-Up
+
+### History
+
+-   Atypical pain; night pain; pain not relieved by analgesia
+-   Neurological or vascular symptoms distally
+
+### Examination
+
+-   Examine NV structures
+-   Conduct normal examination of the mass
+-   Look for lymph nodes proximally
+-   Examine breasts, thyroid, chest, prostate, and kidneys if metastases are suspected
+
+### Laboratory Tests
+
+-   Depends on the differential diagnosis:
+    -   FBC, U&E, LFT, Clotting, CRP (mandatory)
+    -   LDH & Alk Phos (prognostic criteria in Osteosarcoma)
+    -   Myeloma screen in older patients; peripheral blood smear in younger patients
+    -   Urine analysis
+
+### Imaging
+
+-   X-ray (bone and chest)
+-   Skeletal survey for myeloma (often negative on bone scans)
+-   Bone scan
+-   MRI
+-   Staging CT (chest, abdomen, pelvis)
+
+### Important Descriptors of a Lesion
+
+-   Patient age
+-   Location in bone
+-   Monostotic or polyostotic
+-   Matrix:
+    -   Permeative
+    -   Sclerotic
+    -   Ground-glass
+-   Zone of transition:
+    -   Narrow (geographic)
+    -   Wide (indistinct)
+-   Periosteal reaction
+-   Soft tissue extent
+-   Effect on bone and bone's effect on the lesion:
+    -   Scalloped
+    -   Walled off
+    -   Expanded
+
+------------------------------------------------------------------------
+
+## Principles of Management
+
+-   All management should be coordinated by a bone tumour unit
+
+### Limb Salvage Versus Amputation
+
+-   Most limbs are salvageable with modern techniques and adjuvant therapy
+-   Do not compromise limb function or tumour eradication to salvage a limb
+-   Indications for amputation:
+    -   Neurovascular infiltration rendering tumour irresectable without significant limb damage
+    -   Extensive muscle invasion where resection compromises function
+    -   Pathologic fracture with wide dissemination of tumour
+
+------------------------------------------------------------------------
+
+## Levels of Resection
+
+| Level | Description |
+|----------------|--------------------------------------------------------|
+| **Intralesional** | Through the tumour itself; 100% local recurrence; option for palliation of mass effect |
+| **Marginal** | Through the pseudo-capsule (reactive zone); 50% local recurrence rate |
+| **Wide (en bloc)** | Intracompartmental resection with a cuff of normal tissue attached; \<10% local recurrence |
+| **Radical** | Extracompartmental resection; entire compartment and all tissues resected |
+
+------------------------------------------------------------------------
+
+## Adjuvant & Neo-Adjuvant Therapy
+
+### Chemotherapy
+
+-   Causes programmed cell death (apoptosis):
+    -   Direct DNA damage (e.g., alkylating agents)
+    -   Deplete cellular building blocks (e.g., 5-fluoropyrimidines)
+    -   Interfere with microtubule function (e.g., vinca alkaloids)
+-   **Cochrane Review 2000**:
+    -   Good for bony malignancy (e.g., Osteosarcoma, Ewing’s)
+    -   Minimal benefit for soft tissue malignancy unless highly chemosensitive (e.g., Rhabdomyosarcoma)
+-   Usual treatment protocol:
+    -   Neo-adjuvant therapy pre-operatively
+    -   Tumour re-staged, and surgery planned
+    -   Adjuvant chemotherapy post-operatively
+
+### Radiotherapy
+
+-   Direct DNA damage by free radicals
+-   **Indications**:
+    -   Radiosensitive tumours (e.g., Ewing’s, lymphoma, breast cancer)
+    -   Incomplete margins in difficult locations (e.g., spine, pelvis)
+    -   Metastatic pain
+-   **Complications**:
+    -   Post-irradiation sarcoma
+    -   Stress fracture
+    -   Wound problems
+    -   Fibrosis
+    -   Lymphedema
+
+------------------------------------------------------------------------
+
+## Reconstructive Options
+
+### Endoprosthesis
+
+-   Mainstay treatment; usually includes a joint
+-   Growing prostheses in children (magnet-based)
+-   **Complications**:
+    -   Extensive surgery
+    -   Loosening and wear
+-   **Survival**:
+    -   70% at 5 years
+    -   With revision, up to 90% at 10 years
+
+### Autograft
+
+-   Most commonly fibula; can hypertrophy with weight-bearing
+-   Common in distal radius
+-   Used as a strut graft to augment other reconstruction methods
+
+### Allograft
+
+-   Massive allografts used but are dead bone
+-   Slow or no incorporation
+-   Infection risk and limited availability
