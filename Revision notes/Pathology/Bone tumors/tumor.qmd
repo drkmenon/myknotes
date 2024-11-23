@@ -43,18 +43,24 @@ title: "Principles of Bone Oncology"
 
 | Stage | Grade (G) | Anatomy (T) | Mets (M) | Classification |
 |-------|-----------|-------------|----------|----------------|
-| 1a    | Low (G1)  | IC (T0)     | M0       | G1, T0, M0     |
-| 1b    | Low (G1)  | EC (T1)     | M0       | G1, T1, M0     |
-| 2a    | High (G2) | IC (T0)     | M0       | G2, T0, M0     |
-| 2b    | High (G2) | EC (T1)     | M0       | G2, T1, M0     |
-| 3a    | Any       | IC (T0)     | M1       | G1/2, T0, M1   |
-| 3b    | Any       | EC (T1)     | M1       | G1/2, T1, M1   |
+| Ia    | Low (G1)  | IC (T0)     | M0       | G1, T0, M0     |
+| Ib    | Low (G1)  | EC (T1)     | M0       | G1, T1, M0     |
+| IIa   | High (G2) | IC (T0)     | M0       | G2, T0, M0     |
+| IIb   | High (G2) | EC (T1)     | M0       | G2, T1, M0     |
+| IIIa  | Any       | IC (T0)     | M1       | G1/2, T0, M1   |
+| IIIb  | Any       | EC (T1)     | M1       | G1/2, T1, M1   |
 
--   Stages 1 are all low grade
--   Stage 2 are all high grade
--   Stages 3 all have metastases
+-   Stages I are all low grade
+-   Stage II are all high grade
+-   Stages III all have metastases
 
-------------------------------------------------------------------------
+## Enneking Classification of Benign Bone Tumours
+
+| Stage | Activity   | Examples                          |
+|-------|------------|-----------------------------------|
+| 1     | Latent     | Osteoid Osteoma, Enchondroma, NOF |
+| 2     | Active     | Chondroblastoma, UBC              |
+| 3     | Aggressive | GCT, ABC                          |
 
 ## Principles of Tumour Biopsy
 

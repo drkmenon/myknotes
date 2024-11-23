@@ -34,8 +34,6 @@ title: "Benign Bone Tumours"
 | 2     | Active     | Chondroblastoma, UBC              |
 | 3     | Aggressive | GCT, ABC                          |
 
-------------------------------------------------------------------------
-
 ## Osteoid Osteoma
 
 ### Epidemiology
