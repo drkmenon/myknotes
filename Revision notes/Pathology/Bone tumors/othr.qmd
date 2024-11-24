@@ -1,0 +1,417 @@
+---
+title: "Other malignant tumors"
+---
+
+# Fibrosarcoma
+
+## Overview
+
+-   Very similar to Osteosarcoma in features.
+
+------------------------------------------------------------------------
+
+## Epidemiology
+
+-   Usually affects individuals \>40 years.
+-   Rare condition.
+
+------------------------------------------------------------------------
+
+## Clinical Features
+
+-   Pain and swelling, often presenting as a mass.
+-   Locations are similar to Osteosarcoma.
+
+------------------------------------------------------------------------
+
+## Imaging
+
+-   Purely lytic lesions with:
+    -   Periosteal reaction.
+    -   Cortical destruction.
+    -   Indistinct margins.
+    -   Soft tissue mass often associated.
+
+------------------------------------------------------------------------
+
+## Pathology
+
+-   Spindle cells arranged in a herringbone pattern.
+-   Grading can vary.
+
+------------------------------------------------------------------------
+
+## Management
+
+-   Prognosis correlates with the grade.
+-   Treated like Osteosarcoma, including responsiveness to chemotherapy.
+
+------------------------------------------------------------------------
+
+# Malignant Fibrous Histiocytoma (MFH)
+
+## Clinical Features
+
+-   Similar to Osteosarcoma but does not produce osteoid.
+
+------------------------------------------------------------------------
+
+## Epidemiology
+
+-   Typically occurs in individuals \>40 years.
+
+------------------------------------------------------------------------
+
+## Aetiology
+
+-   Usually develops de novo.
+-   25% occur secondary to Paget's disease or post-radiation.
+
+------------------------------------------------------------------------
+
+## Clinical Presentation
+
+-   Pain, swelling, and mass as seen in Osteosarcoma.
+
+------------------------------------------------------------------------
+
+## Imaging Features
+
+-   Aggressive lytic lesion with:
+    -   Ill-defined margins.
+    -   Periosteal reaction.
+    -   Soft tissue mass and cortical breach.
+    -   No bone production.
+
+------------------------------------------------------------------------
+
+## Pathology
+
+-   No osteoid or spindle cells.
+-   Features include:
+    -   Large, irregular, multinucleated nuclei with a storiform appearance.
+
+------------------------------------------------------------------------
+
+## Management
+
+-   Similar to Osteosarcoma, as it is chemo-sensitive.
+-   Outcomes are slightly worse than Osteosarcoma, especially in secondary MFH.
+
+------------------------------------------------------------------------
+
+# Chordoma
+
+## Epidemiology
+
+-   Men are affected three times more than women.
+-   Usually occurs in individuals \>40 years old.
+
+------------------------------------------------------------------------
+
+## Aetiology
+
+-   Arises from remnants of notochordal cells undergoing neoplastic changes.
+
+------------------------------------------------------------------------
+
+## Clinical Features
+
+-   Always occurs in the midline spine:
+    -   50% sacrum (below S1 usually).
+    -   35% cranio-occipital region.
+    -   15% axial spine vertebrae.
+-   Can metastasize late, typically to the lungs.
+
+------------------------------------------------------------------------
+
+## Presentation
+
+-   Cranial lesions present earlier.
+-   Sacral lesions cause slow-growing pelvic masses, with possible GI and genitourinary symptoms.
+
+------------------------------------------------------------------------
+
+## Imaging Features
+
+-   **X-ray**: Hard to interpret; shows sacral mass with calcification and bony destruction.
+-   **MRI**: Low signal on T1, high signal on T2.
+
+------------------------------------------------------------------------
+
+## Pathology
+
+-   Hallmark: Physaliferous cells (keratin-filled lobular cells).
+-   Globular and soft macroscopically.
+
+------------------------------------------------------------------------
+
+## Management
+
+-   Wide excision is preferred.
+-   Chemotherapy is ineffective.
+-   Radiotherapy is used for inadequate margins but not as a primary treatment.
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+-   High local recurrence rates due to difficulty achieving clean margins.
+-   Long-term survival is approximately 50%.
+
+------------------------------------------------------------------------
+
+# Lymphoma (Primary Lymphoma of Bone)
+
+## Epidemiology
+
+-   Affects any age but typically middle-aged adults.
+-   Males are more commonly affected.
+
+------------------------------------------------------------------------
+
+## Aetiology
+
+1.  **Primary Lymphoma**:
+    -   Solitary bone lesion with no more than a single node.
+    -   Rare condition.
+2.  **Secondary Lymphoma**:
+    -   Skeletal metastases from systemic B-cell lymphoma (most common).
+
+------------------------------------------------------------------------
+
+## Clinical Features
+
+-   Large, warm, soft tissue mass.
+-   Swollen, painful lymph nodes.
+-   Hallmark systemic symptoms: weight loss, fever, night pain.
+
+------------------------------------------------------------------------
+
+## Location
+
+-   Bones with persistent red marrow, such as the femur, pelvis, and vertebrae.
+
+------------------------------------------------------------------------
+
+## Imaging Features
+
+-   Large permeative lytic lesions with a mottled appearance.
+-   High uptake on bone scan.
+
+------------------------------------------------------------------------
+
+## Pathology
+
+-   Small round blue cells, typically B cells.
+-   Positive for CD20 and CD45 on immunohistochemistry staining.
+
+------------------------------------------------------------------------
+
+## Management
+
+-   Multiagent chemotherapy is primary.
+-   Radiotherapy is used for chronic control.
+-   Surgery is for fracture prevention or treatment only.
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+-   Prognosis is approximately 70%, better for primary lymphoma of bone.
+
+------------------------------------------------------------------------
+
+# Multiple Myeloma
+
+## Epidemiology
+
+-   Most common malignant bone tumor.
+-   Men are more commonly affected than women.
+-   Blacks are affected more frequently than whites.
+-   Typically occurs in individuals \>50 years.
+
+------------------------------------------------------------------------
+
+## Aetiology
+
+-   Disease of bone marrow plasma cells.
+-   Produces abnormal light and heavy protein chains.
+-   Osteoblasts are inhibited, while osteoclasts are stimulated.
+
+------------------------------------------------------------------------
+
+## Clinical Features
+
+-   Bone pain and pathologic fractures, especially in the spine.
+-   Systemic features: renal failure and hypercalcemia.
+
+------------------------------------------------------------------------
+
+## Location
+
+-   Areas with red marrow:
+    -   Skull.
+    -   Vertebrae.
+    -   Ribs.
+    -   Pelvis.
+    -   Femur.
+
+------------------------------------------------------------------------
+
+## Imaging Features
+
+-   Punched-out lytic lesions with no sclerotic rim.
+-   Multi-site involvement.
+-   Bone scans are negative due to osteoblast inactivation.
+
+------------------------------------------------------------------------
+
+## Pathology
+
+-   **Bence Jones proteins**: Light chains in urine.
+-   Elevated serum immunoglobulin: Heavy chains.
+-   High plasma cell count in blood film and bone biopsy.
+
+------------------------------------------------------------------------
+
+## Management
+
+-   Chemotherapy is primary.
+-   Radiotherapy for pain relief.
+-   Surgery for fracture prevention or vertebroplasty/kyphoplasty.
+
+------------------------------------------------------------------------
+
+## Myeloma Subtypes
+
+1.  **Solitary Plasmacytoma**:
+    -   Single lesion with better prognosis.
+2.  **Osteosclerotic Myeloma**:
+    -   Associated with POEMS syndrome:
+        -   Polyneuropathy.
+        -   Organomegaly.
+        -   Endocrinopathy.
+        -   M spike.
+        -   Skin changes.
+
+------------------------------------------------------------------------
+
+# Ewing’s Sarcoma
+
+## Epidemiology
+
+-   Affects men more than women.
+-   80% occur in individuals under 20 years old.
+
+------------------------------------------------------------------------
+
+## Aetiology
+
+-   Unknown.
+-   Considered a dedifferentiated Primitive Neuro-Endocrine Tumor (PNET).
+
+------------------------------------------------------------------------
+
+## Clinical Features
+
+-   Pain and fever, mimicking infection.
+-   Large soft tissue mass.
+-   Often metastasizes to lungs and bones.
+
+------------------------------------------------------------------------
+
+## Location
+
+-   Pelvis, long bones, spine, scapula.
+-   May occur in diaphyseal or metaphyseal regions.
+
+------------------------------------------------------------------------
+
+## Imaging Features
+
+-   Purely lytic lesion with moth-eaten appearance.
+-   Concentric periosteal reaction ("onion skin").
+
+------------------------------------------------------------------------
+
+## Pathology
+
+-   Blue-stained round cells.
+-   Chromosomal translocation (11:22).
+-   CD99 antigen positivity.
+
+------------------------------------------------------------------------
+
+## Management
+
+-   Neo-adjuvant chemotherapy.
+-   Wide local excision.
+-   Tumors are radiosensitive, but surgery is preferred.
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+-   Survival for solitary lesions without metastases: 70% at 10 years.
+-   Poor prognostic factors:
+    1.  Metastases at presentation (\<20% survival).
+    2.  Tumor necrosis \<90% after chemotherapy.
+    3.  High LDH levels.
+    4.  Large tumor load.
+    5.  Pelvic tumors (difficulty achieving control).
+
+------------------------------------------------------------------------
+
+# Adamantinoma
+
+## Epidemiology
+
+-   Rare, low-grade malignant tumor.
+-   Affects young adults, with men more commonly affected.
+
+------------------------------------------------------------------------
+
+## Aetiology
+
+-   Unknown; may arise from cortical fibrous dysplasia.
+
+------------------------------------------------------------------------
+
+## Clinical Features
+
+-   Long-standing pain and swelling.
+-   Occasional soft tissue mass.
+-   Late metastasis to lungs.
+
+------------------------------------------------------------------------
+
+## Location
+
+-   Tibia (90%), particularly diaphysis.
+
+------------------------------------------------------------------------
+
+## Imaging Features
+
+-   Multiple lytic areas interspersed with sclerosis.
+-   Soap bubble appearance.
+
+------------------------------------------------------------------------
+
+## Pathology
+
+-   Epithelial-type cells in a palisading arrangement.
+
+------------------------------------------------------------------------
+
+## Management
+
+-   Wide local excision and reconstruction.
+-   Chemotherapy and radiotherapy are ineffective.
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+-   90% survival at 10 years.

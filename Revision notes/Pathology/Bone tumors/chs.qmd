@@ -1,0 +1,119 @@
+---
+title: "Chondrosarcoma"
+---
+
+## Subtypes
+
+-   Classic Intramedullary
+-   De-differentiated Chondrosarcoma
+-   Clear Cell Chondrosarcoma
+-   Mesenchymal Chondrosarcoma
+
+------------------------------------------------------------------------
+
+## Intramedullary Chondrosarcoma
+
+### Epidemiology
+
+-   Affects older patients (\>45 years)
+-   Slightly more common in males
+
+### Aetiology
+
+-   Unknown
+-   Associated with:
+    -   Expression of telomerase and RT gene
+    -   Presence of metastases
+-   Rarely arises from solitary enchondroma (1%)
+-   Increased risk in:
+    -   Ollier’s disease (20%)
+    -   Maffucci’s disease (100%)
+
+### Presentation
+
+-   Slow-growing painful mass
+-   Bowel and bladder symptoms if pelvic involvement
+
+### Clinical Features
+
+-   Prognosis depends on grade:
+    -   Most are low-grade
+    -   High-grade tumors, especially de-differentiated, are aggressive
+
+### Location
+
+-   Common sites:
+    -   Shoulder
+    -   Pelvis
+    -   Proximal femur
+    -   Hand
+
+### Imaging Features
+
+-   Features vary by grade but typically include:
+    -   Cortical erosion and breach
+    -   Cortical thickening
+    -   Chondroid spiculing and matrix
+    -   Soft tissue mass
+    -   Periosteal reaction
+-   **Bone Scan**: High uptake in all grades and subtypes
+-   **MRI and CT**: Critical for assessing soft tissue extent and surgical planning
+
+### Pathology
+
+-   Diagnosis may be challenging; histology is often featureless.
+-   Hallmark: Invasion of trabecular bone
+-   Other features:
+    -   Large pleomorphic cells
+    -   Binuclear nuclei
+    -   Plump and large nuclei
+
+### Management
+
+-   Not radiosensitive or chemosensitive
+-   **Low-grade tumors**: Treated with intralesional curettage and grafting
+-   **High-grade tumors**:
+    -   Wide or radical surgical resection
+    -   Amputation for pelvic lesions if necessary
+    -   Lung metastases resectable if feasible
+
+### Outcomes
+
+-   Prognosis depends on grade:
+    -   **Grade 1**: 90%
+    -   **Grade 2**: 60%
+    -   **Grade 3**: 30%
+    -   **De-differentiated**: 10%
+-   Low-grade tumors may progress slowly over 20+ years.
+
+## De-differentiated Chondrosarcoma
+
+-   Same locations as intramedullary chondrosarcoma
+-   Highly malignant
+-   Comprises low-grade chondrosarcoma overlaid on a spindle cell tumor (e.g., osteosarcoma)
+-   Features:
+    -   Bimorphic radiologic and histologic appearance
+-   Treatment:
+    -   Wide or radical resection for chondroid component
+    -   Chemotherapy for sarcoma component
+
+## Clear Cell Chondrosarcoma
+
+-   Rare
+-   Radiologic Features:
+    -   Lytic, well-demarcated lesion in the epiphysis of long bones
+    -   Differential diagnosis: Chondroblastoma
+-   Characteristics:
+    -   Low or intermediate grade
+-   Treatment:
+    -   Same as other chondrosarcomas
+-   Prognosis:
+    -   80% long-term survival
+
+## Mesenchymal Chondrosarcoma
+
+-   Very rare
+-   Occurs in flat bones; lesions are lytic
+-   Affects younger patients rather than older adults
+-   Prognosis:
+    -   50% survival at 5 years

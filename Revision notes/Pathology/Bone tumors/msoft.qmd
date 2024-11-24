@@ -1,0 +1,352 @@
+---
+title: "Malignant Soft Tissue Tumours"
+---
+
+## General Points
+
+-   All malignant soft tissue tumours are called sarcomas.
+-   They are sub-classified by tissue of origin (e.g., liposarcoma, fibrosarcoma).
+-   They tend to be \>5 cm in size at presentation but may be smaller.
+-   Sarcomas have a centripetal growth pattern.
+
+------------------------------------------------------------------------
+
+## Epidemiology
+
+-   Tend to be in older patients (80% \>50 years).
+-   Males \> Females.
+-   They are fairly rare.
+
+------------------------------------------------------------------------
+
+## Worrying Clinical Features
+
+-   Fast growing.
+-   Painful.
+-   Large size (\>5 cm).
+-   Neurologic, vascular symptoms.
+-   Tethering to other structures.
+
+------------------------------------------------------------------------
+
+## Imaging
+
+-   MRI scan of most sarcomas is indeterminate, i.e., they do not look like a lipoma, ganglion, or other characteristic benign soft tissue lesion.
+
+------------------------------------------------------------------------
+
+## Biopsy
+
+-   Usually require an incisional or needle biopsy.
+-   Never do an excisional biopsy without being sure of what the lesion is.
+
+------------------------------------------------------------------------
+
+## Adjuvant Therapy
+
+-   Chemotherapy is not of use in soft tissue sarcomas (except Ewings & Rhabdo).
+-   Radiation therapy is useful (external beam or brachytherapy).
+-   No overall difference in pre- or post-operative radiotherapy.
+
+### Pre-operative Radiotherapy
+
+-   Leaves a thick fibrous capsule around the tumour, which is easier to excise.
+-   Smaller dose required.
+-   Less radiation-induced sarcoma; skin/joint contracture.
+-   More wound complications and higher infection risk.
+-   Wait 3 weeks after radiotherapy before operating.
+
+### Post-operative Radiotherapy
+
+-   Fewer wound problems once wounds have healed.
+-   Higher dosage required = more other complications.
+
+------------------------------------------------------------------------
+
+## Surgical Principles
+
+-   Use a tourniquet without exsanguination.
+-   Meticulous haemostasis.
+-   Drain through or directly in line with the wound.
+-   Excise the biopsy track.
+-   Performed by or in conjunction with a tumour unit.
+-   Safe margins generally need free flap reconstruction.
+-   Wide excision is recommended.
+-   Marginal excision would go through the reactive zone.
+-   Decision to salvage or amputate is the same as for bone tumours – can a functional, disease-free limb be left?
+
+------------------------------------------------------------------------
+
+## Outcomes
+
+-   Dependent on tumour grade.
+-   50% with high-grade sarcoma die from the disease.
+-   Poor prognostic factors:
+    -   High grade.
+    -   Metastases at presentation (lymph node, lungs).
+    -   Depth of tumour.
+    -   Size of tumour.
+    -   Vascular compromise of the limb.
+
+------------------------------------------------------------------------
+
+## Subtypes
+
+1.  Synovial Sarcoma
+2.  Clear Cell Sarcoma
+3.  Epithelioid Sarcoma
+4.  Malignant Fibrous Histiocytoma (MFH)
+5.  Liposarcoma
+6.  Fibrosarcoma
+7.  Rhabdomyosarcoma
+8.  Leiomyosarcoma
+9.  Neurofibrosarcoma (Malignant Nerve Sheath Tumour)
+
+------------------------------------------------------------------------
+
+## Synovial Sarcoma
+
+**Epidemiology** - Most common soft tissue sarcoma in young adults (14–40 years).
+
+**Aetiology** - Abnormality of SYT gene. - Translocation of X18 chromosome.
+
+**Clinical Features** - Highly malignant, high-grade lesion. - Most common soft tissue sarcoma in the foot.
+
+**Location** - Para-articular regions, especially the knee; rarely involves a joint.
+
+**Imaging** - Low signal T1, high signal T2. - Calcifications within the lesion.
+
+**Pathology** - High grade. - Biphasic histology – combination of fibrous (spindle cell) and epithelial cells.
+
+**Management** - Consider chemotherapy as adjunct to surgery – young patients tolerate better.
+
+Here is how you can format the content for a webpage in Markdown, preserving the original content without additions or alterations.
+
+## Clear Cell Sarcoma
+
+### Epidemiology
+
+-   Young adults (20–40 years)\
+-   Females \> Males (one of the few MSK tumours)
+
+### Aetiology
+
+-   Translocation of chromosomes 12 and 22
+
+### Clinical Features
+
+-   Most common soft tissue sarcoma of the foot\
+-   Associated with tendon sheaths and aponeuroses\
+-   Highly malignant with poor prognosis if pulmonary metastases\
+-   Produces melanin – malignant melanoma of soft parts
+
+### Imaging
+
+-   2–6 cm\
+-   Low signal T1, high signal T2\
+-   Indeterminate on MRI – needs biopsy
+
+### Pathology
+
+-   Intracellular melanin\
+-   Nests of round cells with clear cytoplasm
+
+------------------------------------------------------------------------
+
+## Epithelioid Sarcoma
+
+### Epidemiology
+
+-   Young adults
+
+### Aetiology
+
+-   Unknown
+
+### Clinical Features
+
+-   Most common sarcoma in the hand\
+-   Closely related to tendon sheaths\
+-   Easily mistaken for something else and resected – high local recurrence\
+-   Slow-growing and pain-free, therefore may seem benign
+
+### Imaging
+
+-   Calcifications\
+-   MRI – low signal on T1, high signal on T2\
+-   Indeterminate – needs biopsy
+
+### Management/Outcomes
+
+-   Wide excision and radiotherapy\
+-   Often amputation needed\
+-   Late metastases to lung are common\
+-   Prognosis is poor
+
+------------------------------------------------------------------------
+
+## Malignant Fibrous Histiocytoma (MFH)
+
+### Epidemiology
+
+-   Most common sarcoma of older adults (\>55 years)
+
+### Clinical Features
+
+-   Slow-growing painless mass\
+-   Can become very big\
+-   May cause systemic symptoms like fever and weight loss
+
+### Imaging
+
+-   Low signal T1, high signal T2\
+-   Indeterminate – needs biopsy
+
+### Pathology
+
+-   Haphazard, pleomorphic histiocytic cells
+
+### Outcomes
+
+-   50% survival at 5 years
+
+------------------------------------------------------------------------
+
+## Liposarcoma
+
+### Epidemiology
+
+-   Second most common soft tissue sarcoma\
+-   Older adults (\>50 years)
+
+### Clinical Features
+
+-   Almost never in subcutaneous tissue, usually deep\
+-   Mesenchymal origin – unrelated to lipomas\
+-   Can get very large\
+-   Often painless, slow-growing mass but may suddenly accelerate growth\
+-   May be low, intermediate, or high grade
+
+### Pathology
+
+-   Signet cells (typical type of lipoblast)
+
+### Imaging
+
+-   MRI indeterminate
+
+### Management & Outcomes
+
+-   **Low grade**: Marginal excision with no adjuvant therapy\
+-   **High grade**: Wide excision and adjuvant chemo/radiotherapy\
+-   Metastases more likely with higher grades
+
+------------------------------------------------------------------------
+
+## Fibrosarcoma
+
+### Epidemiology
+
+-   Middle-aged adults\
+-   Rare
+
+### Clinical Features
+
+-   Slow-growing\
+-   Around the knee\
+-   Painless
+
+### Imaging
+
+-   Indeterminate – needs biopsy
+
+### Pathology
+
+-   Spindle cells
+
+### Management/Outcome
+
+-   Wide excision and adjuvant radiotherapy\
+-   Metastasizes in 50%
+
+------------------------------------------------------------------------
+
+## Rhabdomyosarcoma
+
+### Epidemiology
+
+-   Most common soft tissue tumour of children
+
+### Clinical Features
+
+-   Skeletal muscle tumour\
+-   Fast-growing, painless mass\
+-   Only 15% in the extremities – usually in the thigh/forearm
+
+### Imaging
+
+-   Indeterminate – needs biopsy
+
+### Pathology
+
+-   Positive immunohistochemistry for Myoglobin, Desmin, and MyoD1
+
+### Management
+
+-   Chemotherapy is the adjuvant therapy of choice\
+-   Radiotherapy for incomplete margins
+
+### Outcomes
+
+-   70% survival in children\
+-   Worse prognosis in adults
+
+------------------------------------------------------------------------
+
+## Leiomyosarcoma
+
+-   Smooth muscle tumour\
+-   Similar characteristics to rhabdomyosarcoma\
+-   Often involves blood vessels
+
+------------------------------------------------------------------------
+
+## Neurofibrosarcoma (Peripheral Nerve Sheath Tumour)
+
+### Epidemiology
+
+-   Middle-aged adults
+
+### Aetiology
+
+-   **De Novo**: Rare\
+-   Secondary to Neurofibromatosis type 1 (50%)
+
+### Clinical Features
+
+-   Affects deep, large nerves (e.g., sciatic, sacral, or brachial plexus)\
+-   Pain more common in NF1
+
+### Imaging
+
+-   Indeterminate on MRI\
+-   Appears fusiform, eccentrically placed within a major nerve
+
+### Pathology
+
+-   S100 staining positive\
+-   Spindle cells in a wavy pattern
+
+### Management
+
+-   Wide excision with radiotherapy\
+-   Better survival for solitary lesions than those secondary to NF1
+
+------------------------------------------------------------------------
+
+## Angiosarcoma
+
+-   Highly malignant\
+-   Rare\
+-   Often requires amputation due to vascular involvement\
+-   Poor prognosis

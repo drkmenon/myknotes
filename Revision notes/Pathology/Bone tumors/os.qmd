@@ -1,0 +1,105 @@
+---
+title: "Osteosarcoma"
+---
+
+## Classic Osteosarcoma (Intramedullary)
+
+### Epidemiology
+
+-   Male-to-female ratio: 1.5:1
+-   Common in young adults and children
+
+### Aetiology
+
+-   Exact cause unknown
+-   Associated with retinoblastoma gene and p53 translocation
+
+### Location
+
+-   Intramedullary meta-diaphyseal junction origin is classic
+-   Most common around the knee
+-   Less common in proximal humerus, proximal femur, and pelvis
+
+### Presentation
+
+-   Short history of pain
+-   Mass
+-   Symptoms may appear after an acute injury
+-   Pathologic fracture in 10% of cases
+-   20% of patients have lung metastases at presentation
+
+### Imaging
+
+#### XR
+
+-   Simultaneous bone formation and lysis
+-   Codman's triangle (elevated periosteum)
+-   Sunray spicules (tumor invasion into bone remodeling)
+-   Lesions may be sclerotic, lytic, or mixed
+-   CXR: Evaluate for pulmonary metastases \#### MRI
+-   Neurovascular involvement, surgical planning, and skip lesion assessment \#### Bone Scan
+-   Screens for bony metastases and skip lesions \#### CT
+-   Used for staging the chest, abdomen, and pelvis
+
+### Histology
+
+-   Intramedullary osteosarcoma is high grade
+-   All osteosarcomas originate from spindle cells
+-   Diagnosis requires the presence of malignant osteoid
+-   Features include:
+    -   Pleomorphic cells (altered size and shape)
+    -   Dark-stained nuclei
+    -   Poorly differentiated nuclei
+    -   High mitotic activity
+    -   Invasion into surrounding tissues
+
+### Management
+
+-   **Neo-adjuvant chemotherapy**: Administered for 6–12 weeks to induce tumor necrosis and stabilize the reactive zone
+-   **Re-staging of tumor**
+-   **Surgical excision**: Wide or radical excision based on stage and tumor necrosis
+-   **Adjuvant chemotherapy**
+-   **Amputation**: Only if the limb is unsalvageable
+-   **Limb salvage**: Achievable in 90% of cases today
+-   **Lung metastases**: Isolated cases are potentially resectable
+
+### Outcomes
+
+#### Poor Prognostic Indicators
+
+1.  High LDH levels
+2.  High alkaline phosphatase levels
+3.  No DNA alteration post-chemotherapy
+4.  Vascular invasion
+5.  Metastases at presentation (bone worse than lung)
+6.  Local recurrence or incomplete margins
+7.  Expression of P-glycoprotein
+8.  Absence of anti-shock protein 90 antibodies post-chemotherapy
+9.  Presentation with pathologic fractures (higher recurrence rates)
+10. Pelvic location
+
+#### Good Prognostic Indicators
+
+1.  No metastases and intracompartmental at presentation
+2.  90% tumor necrosis after neo-adjuvant chemotherapy
+
+#### Outcome Statistics
+
+-   Overall 5-year survival: 70%
+-   Pelvic osteosarcoma 5-year survival: 25%
+-   Metastatic presentation 5-year survival: 20%
+-   Local recurrence and bone metastases indicate poor long-term survival
+
+------------------------------------------------------------------------
+
+## Intramedullary, Paraosteal, and Periosteal Osteosarcoma
+
+### Osteosarcoma Subtypes
+
+| Subtype | Grade | Location | Notes |
+|-------------|-------------|-------------|-----------------------------------|
+| **Paraosteal** | Low | Distal femur (75%) | Surface of bone, lobulated dense lesion like osteochondroma <br/> 95% survival with wide resection |
+| **Periosteal** | Intermediate | Tibia or femur diaphysis | Extensive sunray spiculing, chondroid-like appearance, produces cartilage and osteoid |
+| **Telangiectatic** | High | Intramedullary | Lytic lesion with blood-filled spaces, resembles aneurysmal bone cyst |
+| **Paget's Osteosarcoma** | High | Femur, pelvis, craniofacial | Poor prognosis, often polyostotic, occurs in elderly patients |
+| **Post-Radiation OS** | High | Prior radiotherapy site | Mean delay of 17 years, very aggressive |

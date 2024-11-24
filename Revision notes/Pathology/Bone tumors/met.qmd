@@ -1,0 +1,201 @@
+---
+title: "Metastatic Bone Disease"
+---
+
+## Aetiology
+
+-   Spread occurs via **Batson’s venous plexus** anterior to the vertebral bodies.\
+-   Haematological seeding occurs more peripherally.\
+-   **Most common tumours metastasizing**:
+    -   Lung\
+    -   Breast\
+    -   Prostate\
+    -   Kidney\
+    -   Thyroid\
+-   **Most common sites of spread**:
+    -   Spine (Thoracic spine most common)\
+    -   Pelvis\
+    -   Proximal ends of long bones\
+    -   Below the elbow and knee (usually lung)
+
+## Mechanism of Bone Destruction
+
+-   Tumours secrete factors that influence bone metabolism:
+    -   **PTHrP**\
+    -   Vitamin D\
+    -   Tumour necrosis factor\
+    -   Transforming growth factors\
+    -   Upregulate the **RANKL pathway**
+
+## Imaging Characteristics
+
+-   **Typically lytic**: Lung, thyroid, kidney, GI\
+-   **Typically sclerotic**: Prostate (20% lytic), bladder\
+-   **Mixed**: Breast\
+-   **Intervertebral discs spared**
+
+### Pathologic Fracture
+
+-   Lesser trochanter avulsion is pathognomonic
+
+### Differential Diagnosis
+
+-   Myeloma\
+-   Lymphoma of bone\
+-   Osteomyelitis\
+-   Primary bone tumours (e.g., low-grade chondrosarcoma)
+
+## Diagnostic Work-Up
+
+### History
+
+-   Prior malignancy\
+-   Systemic problems\
+-   Bone pain and its character\
+-   Neurologic, bladder, or bowel symptoms
+
+### Laboratory Tests
+
+-   Bloods: FBC, CRP, U&E, LFT, TFT, Ca, Clotting, LDH, Alk Phos, Tumour markers\
+-   Serum & urinary Bence Jones proteins\
+-   Bone marrow biopsy for myeloma
+
+### Imaging
+
+-   Full views of the affected bone\
+-   Bone scan (may be negative for renal and myeloma)\
+-   Skeletal survey (if myeloma suspected): skull, spine, pelvis, femora, humeri\
+-   MRI for spinal lesions (if neurological involvement suspected)\
+-   CXR\
+-   CT chest, abdomen, pelvis (finds the primary tumour in 85% of unknown cases)
+
+## Common Clinical Scenarios
+
+1.  **Multifocal metastasis with a documented history of cancer**
+    -   Treat as metastasis and manage surgically if necessary.
+2.  **Solitary lesion with a documented history of cancer**
+    -   Careful evaluation before surgery.
+3.  **Solitary lesion with no history of cancer**
+    -   Assume it is a primary lesion until proven otherwise. Biopsy mandatory.
+4.  **Cancer patient with bone pain but no lesion on XR**
+    -   Bone scan and MRI to diagnose metastasis.
+
+## Biopsy
+
+-   For any lesion where the diagnosis of metastasis is uncertain.\
+-   True-cut percutaneous or incisional biopsies are effective.
+
+## Pathology
+
+-   Metastases show epithelial cell islands with glandular or squamous differentiation.\
+-   Epithelial cells are keratin positive.\
+-   Cells have tight junctions and lie in a fibrous stroma.
+
+## Pathophysiology of Metastatic Bone Disease
+
+### Metastatic Cascade
+
+1.  Primary tumour cells cross the basement membrane into capillaries.\
+2.  Disseminate through the vascular system.\
+3.  End up in distant capillary beds and interact with local growth factors.\
+4.  Tumour cells proliferate with the aid of host growth factors to form metastases.
+
+### RANKL/Osteoprotegerin
+
+-   Tumour cytokines stimulate the RANKL pathway.\
+-   Osteoblasts produce RANKL.\
+-   Osteoclast precursors have RANK receptors.\
+-   OPG (a decoy receptor) binds to RANKL, rendering it inactive.\
+-   OPG is less effective in metastatic disease.
+
+### Breast Cancer and TGF-β Vicious Cycle
+
+-   TGF-β, present in bones, is released during turnover.\
+-   Stimulates breast cancer cells to release PTHrP.\
+-   PTHrP acts on osteoblasts to produce RANKL.\
+-   Osteoclast activation causes bone lysis, releasing more TGF-β.
+
+### Prostate Cancer
+
+-   Tumour cells secrete **Endothelin 1**, stimulating osteoblasts to produce more bone.\
+-   Results in sclerotic metastases.
+
+## Biomechanics of Metastatic Bone
+
+### Strength Reduction
+
+-   **Lesion length \> 75% bone diameter** = 90% reduced torsional strength.\
+-   **Central 50% cortical lesion** = 60% reduced bending strength.\
+-   **Eccentric 50% cortical defect** = 90% reduced bending strength.
+
+### Fracture Healing in Metastatic Bone
+
+-   Order of likelihood:
+    1.  Myeloma\
+    2.  Renal\
+    3.  Breast\
+    4.  Lung
+
+## Other Complications
+
+### Hypercalcaemia
+
+-   Common in breast and lung cancer (due to ectopic PTH secretion).\
+-   Calcium level does not correlate with the number of metastases.
+
+### Thromboembolic Disease
+
+-   Higher risk in malignancy.
+
+## Predicting Pathologic Fracture
+
+### Non-Spinal Lesions: Mirel’s System
+
+| **Factor**        | **1 Point**    | **2 Points** | **3 Points**     |
+|-------------------|----------------|--------------|------------------|
+| **Size**          | \<1/3 diameter | 1/3–2/3      | \>2/3            |
+| **XR Appearance** | Blastic        | Mixed        | Lytic            |
+| **Pain**          | Mild           | Moderate     | Unable to WB     |
+| **Location**      | UL             | LL           | Per-trochanteric |
+
+-   **Score \>8**: 33% fracture risk.
+
+### Spinal Lesions – Risk of Fracture
+
+-   **Thoracic**: \>50% body involved, or \>25% body + costovertebral joint involved.\
+-   **Lumbar**: \>40% body involved, or \>25% body + pedicle involved.
+
+## Management
+
+### Non-Operative
+
+-   **Indications**:
+
+    -   Unfit patients.\
+    -   Non-WB bones.\
+    -   Minimal pain.
+
+-   **Bisphosphonates**: Reduce pain and fracture risk (proven for breast, lung, and prostate cancer).
+
+-   **Radiation**:
+
+    -   Good for pain relief.\
+    -   Good for spinal lesions with neurologic deficit.\
+    -   Do after surgical wounds have healed.
+
+### Operative
+
+-   **Principles**:
+    -   Span bone with nails.\
+    -   Protect the femoral neck.\
+    -   Augment fixation with cement if ORIF and curettage of bone.\
+    -   Use techniques for stronger fixation.\
+    -   Around joints, use endoprostheses.\
+    -   In hip/acetabulum, use cemented THR with long stems to span bone.\
+    -   Embolize renal cell pre-operatively to prevent bleeding.
+-   **Spine**:
+    -   Kyphoplasty or vertebroplasty.\
+    -   Vertebrectomy/corpectomy.\
+    -   Anterior/posterior instrumented fusion.\
+    -   Decompress neural elements as early as possible.
+-   Adjuvant radiotherapy is very useful post-operatively.

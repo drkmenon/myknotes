@@ -1,0 +1,180 @@
+---
+title: "Tumour-like Lesions of Bone"
+---
+
+## Overview
+
+### Common Lesions:
+
+-   **Fibrous Dysplasia**
+-   **Osteofibrous Dysplasia**
+-   **Paget’s Disease of Bone**
+
+------------------------------------------------------------------------
+
+## Fibrous Dysplasia
+
+### Epidemiology
+
+-   Females \> males (only other tumour with this ratio is GCT).
+-   75% occur in individuals under 30 years old.
+
+### Aetiology
+
+-   Unknown cause.
+-   **GS alpha protein mutation**: Overproduction of cAMP.
+-   High expression of **FGF-23**.
+-   Failure of bone to fully mineralize and mature into lamellar bone.
+-   Immature woven bone with chondroid elements.
+-   Non-hereditary.
+
+### Clinical Features
+
+-   Usually an incidental finding.
+-   May present with pain or pathologic fracture.
+-   **Monostotic** (80%) or **Polyostotic** (20%).
+-   Polyostotic often associated with endocrinopathy:
+    -   **McCune-Albright Syndrome**: Polyostotic fibrous dysplasia, precocious puberty, and pigmented skin lesions.
+-   Rare malignant transformation (1%) to osteosarcoma, fibrosarcoma, or MFH.
+
+### Location
+
+-   Common: Proximal femur, ribs, maxilla, tibia, pelvis, spine.
+
+### Pathology
+
+-   No neoplastic cells.
+-   **Alphabet soup/Chinese letter** appearance of immature woven bone.
+-   Secondary ABC may occur.
+
+### Differential Diagnosis
+
+-   Low-grade osteosarcoma or fibrosarcoma.
+
+### Imaging Features
+
+-   **Ground-glass matrix** with well-demarcated lytic lesion.
+-   No periosteal reaction or cortical breech.
+-   Long bone deformities (e.g., **shepherd's crook deformity** in femur).
+-   **Bone scan**: High uptake.
+
+### Management
+
+-   Asymptomatic: Non-operative.
+-   Pain relief: Bisphosphonates.
+-   Surgical: Fix impending fractures; intralesional curettage and cortical allografts.
+-   Avoid cancellous autograft due to replacement by dysplastic bone.
+
+------------------------------------------------------------------------
+
+## Osteofibrous Dysplasia
+
+### Epidemiology
+
+-   More common in males.
+-   Occurs in children.
+
+### Aetiology
+
+-   Unknown.
+-   Associated with **Trisomy 7, 8, 12, 22**.
+-   May be a precursor to adamantinoma.
+
+### Clinical Features
+
+-   Predilection for the anterior tibia.
+-   Causes anterior or anterolateral tibial bowing.
+-   May result in pseudarthrosis of the tibia.
+
+### Pathology
+
+-   Fibrous tissue with immature woven bone (similar to fibrous dysplasia).
+
+### Imaging Features
+
+-   **Diaphyseal eccentric, well-demarcated lytic lesions** within the cortex.
+
+### Management
+
+-   Non-operative if possible (may regress with physeal closure).
+-   Surgical: Intralesional curettage and cortical allograft for bowing or pseudarthrosis.
+
+------------------------------------------------------------------------
+
+## Paget’s Disease of Bone
+
+### Definition
+
+-   Metabolic bone disease with overactive osteoclasts and osteoblasts, leading to disorganized bone formation.
+
+### Epidemiology
+
+-   Slight male predominance.
+-   Geographic predilection (e.g., USA, UK).
+-   Prevalence increases with age:
+    -   
+
+        > 40 years: 3%.
+
+    -   
+
+        > 80 years: 10%.
+
+### Types
+
+-   **Monostotic**: 20%.
+-   **Polyostotic**: 80%.
+
+### Cause
+
+-   Viral (e.g., paramyxovirus).
+-   Genetic predisposition.
+
+### Pathophysiology
+
+1.  **Osteoclastic overactivity**: Increased size and number of osteoclasts.
+2.  **Compensatory osteoblast activity**: Disorganized, accelerated bone formation.
+
+### Phases
+
+1.  **Lytic**: Osteoclastic dominance.
+2.  **Active**: Mixed osteoclastic and osteoblastic activity.
+3.  **Burnt out**: Residual effects with coarse trabeculae.
+
+### Clinical Features
+
+-   Asymptomatic in 95% (incidental finding).
+-   **Bone pain** (rare but indicates high turnover or malignancy).
+-   Fractures, arthritis, deformity, nerve compression, cardiac failure, gout.
+-   **Malignant transformation**: Osteosarcoma, fibrosarcoma, chondrosarcoma.
+
+### Imaging Features
+
+-   Widened bones, stress fractures.
+-   **Blade/flame sign** in lytic phase.
+-   Mixed sclerotic/lytic patterns (mosaic-like).
+-   Deformities (e.g., **sabre tibia**).
+
+### Laboratory Tests
+
+-   Normal calcium.
+-   Elevated alkaline phosphatase and acid phosphatase.
+-   Increased markers of collagen turnover.
+
+### Management
+
+#### Medical
+
+-   Bisphosphonates: Osteoclast inhibition.
+-   Calcitonin (rarely used).
+
+#### Surgical
+
+-   Favor fracture fixation due to long healing times.
+-   Arthroplasty, nerve decompression.
+-   Treat malignant transformation.
+
+### Malignant Transformation
+
+-   **30x risk of osteosarcoma** in polystotic disease.
+-   Fibrosarcoma and chondrosarcoma also possible.
