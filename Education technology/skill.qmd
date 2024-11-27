@@ -7,7 +7,7 @@ order: 3
 An enquiry in to Doto's 5 step and Peyton's 4 step methods
 :::
 
-Acquisition of `procedures skills` is an important element in health professions education. Traditionally `procedures skills` are taught using a ‘‘see one - do one’’ approach. This is referred to as Halsted’s teaching approach, which is based on the surgeon `Halsted (1904)`. Recently two new teaching approachs for the acquisition of procedural skills were described.
+Acquisition of `procedures skills` is an important element if not the most important in medical education. Traditionally `procedures skills` are taught using a ‘‘see one - do one’’ approach. This is referred to as Halsted’s teaching approach, which is based on the surgeon `Halsted (1904)`. Recently two new teaching approaches for the acquisition of procedural skills were described.
 
 A stepwise `Skill` teaching approach was presented by George in the meeting of American College of Surgeons, 1997 and later published by George & Doto in 2001. Originally, it was developed as an educational technique to support the American College of Surgeon’s Advanced Trauma Life Support course. [George and Doto]{style="color: blue"} used five steps. They based their teaching approach on Simpson’s taxonomy of the psychomotor domain (Simpson, 1966) . The steps are
 
