@@ -113,7 +113,7 @@ title: "Connective Tissue Disorders"
 ### Subtypes
 
 | Type | Sclera | Inheritance | Often De Novo | Features |
-|------------|------------|------------|------------|--------------------------|
+|----|----|----|----|----|
 | 1 | Blue sclera | AD | Yes | Mildest form; hearing deficit in 50% |
 | 2 | Blue sclera | AR | Yes | Lethal in perinatal period |
 | 3 | White sclera | AR | Yes | Progressive deformities; most severe survivable form |

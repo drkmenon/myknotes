@@ -1,9 +1,7 @@
 ---
-title: "Skill teaching"
+title: "Teaching and learning complex procedures"
 order: 3
 ---
-
-# Teaching and learning complex procedures {#sec-teaching-and-learning-complex-procedures}
 
 ::: callout-tip
 An enquiry in to Doto's 5 step and Peyton's 4 step methods

@@ -110,11 +110,16 @@ title: "Tumour-like Lesions of Bone"
 ### Epidemiology
 
 -   Slight male predominance.
--   Geographic predilection (e.g., USA, UK).
--   Prevalence increases with age:
-    -   
 
-        > 40 years: 3%.
+-   Geographic predilection (e.g., USA, UK).
+
+-   
+
+    ## Prevalence increases with age:
+
+    ```         
+    > 40 years: 3%.
+    ```
 
     -   
 

@@ -124,7 +124,7 @@ title: "Limb Length Discrepancy"
 ## Options Based on Limb Length Discrepancy
 
 | LLD Range | Management Options |
-|-----------------|-------------------------------------------------------|
+|----|----|
 | \<2cm | No treatment or shoe raise |
 | 2-5cm | Epiphysiodesis, shortening, or lengthening (if predicted height is short) |
 | 5-15cm | Epiphysiodesis, lengthening, shortening, or both |

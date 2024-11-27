@@ -176,7 +176,7 @@ title: "Principles of Bone Oncology"
 ## Levels of Resection
 
 | Level | Description |
-|----------------|--------------------------------------------------------|
+|----|----|
 | **Intralesional** | Through the tumour itself; 100% local recurrence; option for palliation of mass effect |
 | **Marginal** | Through the pseudo-capsule (reactive zone); 50% local recurrence rate |
 | **Wide (en bloc)** | Intracompartmental resection with a cuff of normal tissue attached; \<10% local recurrence |

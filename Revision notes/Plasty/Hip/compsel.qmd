@@ -1,0 +1,101 @@
+---
+title: "Component Selection in THR"
+---
+
+## Stem Length, Stem Diameter, Neck Length, Medial Offset, Vertical Height
+
+-   **Neck Length**: Increases offset and leg length.
+-   **Increasing Offset**: Does not increase leg length but can enhance stability.
+
+## Femoral Components – Offsets, Necks, and Stems
+
+-   **Offset**: Horizontal distance from the center of rotation (COR) of the femoral head to the axis of the femur.
+-   **Modular Stems**:
+    -   Modular neck and head components allow for more variation in version and offset.
+    -   Modular designs are beneficial for deformity or revision surgeries but introduce more corrosion and fretting points.
+
+## Heads and Necks
+
+-   **Head Types**: Skirted or non-skirted.
+-   **Neck Shapes**: Trapezoidal or cylindrical.
+-   **ROM (Range of Motion)**:
+    -   Larger head-neck ratio reduces impingement and allows for a greater ROM.
+    -   **Impingement**: May occur between the component and bone or between component and component (typically neck on cup).\
+    -   Impingement is minimized by larger heads and trapezoidal necks.\
+    -   Excessively large heads can lead to stress on the taper, causing fretting.\
+    -   **Optimal Head Size**: Studies (e.g., Livermore) suggest 28mm as the optimal head size for minimizing volumetric and linear wear.\
+    -   There is a trade-off between ROM, stability, and wear.
+
+------------------------------------------------------------------------
+
+## Acetabular Cup Design
+
+### Charnley’s Low Friction Arthroplasty
+
+-   **Goal**: Reduce joint reaction force (JRF) by THR design. This was achieved by:
+    -   **Cup Medialization**: Removing subchondral bone to reduce the body weight moment arm.
+    -   **Thin Polyethylene Cups**: Although they reduce JRF, they face problems with wear and loosening due to increased stress on trabecular bone.
+
+### Cemented Cups
+
+-   **Long-Term Success**: Cemented cups have excellent long-term data and are an option for elderly patients with poor bone quality.
+-   **Advantages**:
+    -   Less expensive.\
+    -   Flexible positioning, especially useful in deformities and revision cases.
+    -   Good for revision with bone stock loss, as impaction grafting can be used.
+-   **Cementing Guidelines**:
+    -   Preserve the subchondral plate.\
+    -   Use at least a 5mm thick polyethylene to reduce stress transfer and wear.
+
+### Uncemented Cups
+
+-   **Metallic Backing**: Essential for stable, rapid fixation.
+-   **Reaming**: A well-reamed hemisphere, with a cup of the same shape, maximizes contact and ensures stability.
+-   **Porous Coating**: Facilitates bone ingrowth but requires perfect fit between insert and cup to avoid micromotion.
+-   **Micromotion Risk**: Causes backside wear, so the fit must be perfect.
+
+------------------------------------------------------------------------
+
+## Polar vs. Equatorial Contact
+
+-   **Polar Contact**: Occurs if the cup is smaller than the reamed hemisphere, leading to instability due to peripheral gaps.
+-   **Equatorial Contact**: Occurs if the cup fits the rim, which risks fracture and polar gaps.
+-   **Press Fit Cups**: Preferentially fit the equatorial rim.
+    -   **Stabilization**: Achieved by hoop stresses generated during implantation.
+    -   **Full Seating**: Critical for preventing polar gapping, which can lead to loosening over time.
+
+------------------------------------------------------------------------
+
+## Variations of Acetabular Cups
+
+### Lipped Liners
+
+-   **Purpose**: Protect against instability in specific directions but may cause undesired impingement.
+
+### Constrained Cups
+
+-   **Used When**: Instability persists even after addressing all other factors (e.g., soft tissue loss).
+-   **Disadvantages**:
+    -   Causes stress transfer to the cup-bone interface, which leads to premature loosening.
+    -   Not recommended for high-demand patients or when long-term longevity is a goal.
+
+### Tantalum Cups
+
+-   **Material**: Trabecular metal with properties resembling trabecular bone.
+-   **Benefits**: More potential for bone ingrowth.
+-   **Challenges**: Expensive, and shearing of the coating can occur, though ideal for revision cases with minimal contact.
+
+### Revision Cups
+
+-   **Jumbo Size Cups**: Large hemispherical trabecular metal cups designed to fill large bony defects.
+-   **Custom Shaped Cups**: Often trabecular metal with extensions to fill cavitatory defects, or designed for protrusio deformities.
+
+### Augments and Rings
+
+-   **Trabecular Metal Augments**: Secure revision cups and help fill bone defects in a customized manner.
+-   **Rings and Anti-Protrusio Cages**: Used with impaction grafting to support the cup, though not biologically fixed and prone to loosening.
+    -   **Best Support**: Placing the cage superiorly into the ileum for immediate support during graft incorporation.
+
+------------------------------------------------------------------------
+
+*References*: Canale T. "Campbell’s Operative Orthopaedics, 10th edition." Mosby, 2002.

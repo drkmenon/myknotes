@@ -97,7 +97,7 @@ title: "Osteosarcoma"
 ### Osteosarcoma Subtypes
 
 | Subtype | Grade | Location | Notes |
-|-------------|-------------|-------------|-----------------------------------|
+|----|----|----|----|
 | **Paraosteal** | Low | Distal femur (75%) | Surface of bone, lobulated dense lesion like osteochondroma <br/> 95% survival with wide resection |
 | **Periosteal** | Intermediate | Tibia or femur diaphysis | Extensive sunray spiculing, chondroid-like appearance, produces cartilage and osteoid |
 | **Telangiectatic** | High | Intramedullary | Lytic lesion with blood-filled spaces, resembles aneurysmal bone cyst |

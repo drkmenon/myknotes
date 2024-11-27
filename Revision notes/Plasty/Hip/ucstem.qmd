@@ -1,0 +1,185 @@
+---
+title: "Uncemented Stem"
+---
+
+## Principle
+
+-   **Primary Objective**: Attain immediate stem stability.\
+-   **Secondary Objective**: Achieve subsequent biologic fixation.
+
+### Characteristics
+
+-   **Larger Stems**: Allow more cortical contact.\
+-   **Fixation is Biologic**:
+    -   Micro-fractures at the implant-bone interface can remodel.\
+    -   Fixation depends on achieving biologic integration.
+
+------------------------------------------------------------------------
+
+## Reasons for Failure to Achieve Biologic Fixation
+
+1.  **Poor Bone Quality**: Inadequate in-growth or on-growth.\
+2.  **Suboptimal Stem Design**: Insufficient in-growth or on-growth capability.\
+3.  **Faulty Implantation Technique**:
+    -   Inadequate initial stability.\
+    -   Leads to fibrous in-growth instead of bony in-growth.
+
+------------------------------------------------------------------------
+
+## Types of Uncemented Stems
+
+### 1. **Porous Coated**
+
+-   **Mechanism**: In-growth of bone.\
+-   **Features**:
+    -   Metallic stem with pores allowing bone growth.\
+    -   Material types:
+        -   Titanium with fibers and beads.\
+        -   CoCr with sintered beads.
+
+#### Optimal Parameters
+
+| **Parameter**              | **Value** |
+|----------------------------|-----------|
+| Pore Size                  | 50–150 µm |
+| Bone-Implant Gap Distance  | 50 µm     |
+| Porosity                   | 50%       |
+| Maximum Micromotion        | 50–150 µm |
+| Ideal HA Coating Thickness | 50 µm     |
+
+-   **Deeper Pores**: Provide shear stability but risk coating shear.
+
+------------------------------------------------------------------------
+
+### 2. **Grit Blasted or HA Coated**
+
+-   **Mechanism**: On-growth of bone.\
+-   **Biologic Fixation**: Bone grows onto the roughened surface.
+
+#### Grit Blasting
+
+-   **Process**: Surface roughened by particle spray.\
+-   **Features**:
+    -   Bone adheres to pits and valleys.\
+    -   Surface roughness determines shear resistance.
+
+#### HA Coating
+
+-   **Material**: Osteoconductive ceramic (\[Ca₁₀(PO₄)₆(OH)₂\]).\
+-   **Features**:
+    -   Bidirectional biologic fixation (bone-prosthesis and vice versa).\
+    -   Reduces gaps faster than other methods.\
+    -   Ideal for revision surgeries.\
+-   **Optimal Composition**:
+    -   High crystallinity for biological activity.\
+    -   Thickness of 50 µm (thicker coatings risk shearing).
+
+------------------------------------------------------------------------
+
+## Techniques of Uncemented Fixation
+
+### Principles
+
+1.  **Early Stability**: Minimize micromotion to \<50 µm for bony bonding.\
+2.  **Avoid Fibrous Bonding**: Prevent subsidence.
+
+### Two Techniques
+
+1.  **Press Fit**
+    -   Bone preparation is smaller than the implant.\
+    -   Implant impaction generates hoop stresses, stabilizing the implant.\
+    -   **Risks**: Higher risk of fracture.
+2.  **Line-to-Line Fit**
+    -   Bone preparation matches the implant size.\
+    -   Extensively porous-coated implants distribute shear stress.\
+    -   Provides a strong grip on the bone.
+
+## Supplementary Fixation
+
+-   **Screws in Cup**: Often used to provide additional fixation.\
+-   **Cortical Contact**: Preferred for stability.
+    -   Cancellous bone allows ingrowth but leads to more micromotion.\
+    -   In the cup, aim for cortical rim fit.\
+    -   In the stem, the largest possible size ensures some cortical contact.
+
+------------------------------------------------------------------------
+
+## Stress Shielding
+
+-   **Definition**: Bone density reduction proximal to or around a well-fixed stem due to decreased physiological loading, caused by the stiffer implant sharing the load.\
+-   **More Common with Uncemented Stems**:
+    -   Cemented stems have a damping effect due to the flexibility of cement, which provides a transitional zone between stem and bone.\
+    -   **Stress Shielding is Less Common in Cemented Stems**: Cement’s flexibility reduces modulus mismatch.
+
+------------------------------------------------------------------------
+
+### Consequences of Stress Shielding
+
+1.  **Does not affect longevity**: As long as the stem is well fixed.\
+2.  **Predisposes to fractures**: Around the stem, especially with uncemented stems.\
+3.  **Revision Challenges**: Loss of bone stock makes revision surgery difficult.
+
+### Main Factors Contributing to Stress Shielding
+
+1.  **Stem Stiffness**\
+2.  **Extent and Distribution of Porous Coating**
+
+**Worst combination for stress shielding**: A long, fat, cylindrical, fully porous-coated CoCr stem.
+
+------------------------------------------------------------------------
+
+## Stem Stiffness
+
+Influencing Factors:\
+1. **Size**: Stiffness increases by the 4th power of stem radius.\
+2. **Material**: CoCr is stiffer than titanium.\
+3. **Shape**:\
+- Cylindrical stems are stiffer than tapered ones.\
+- Solid stems are stiffer than fluted/hollow ones.\
+- Long stems stress shield more.
+
+### Measures to Reduce Stem Stiffness
+
+-   **Tapering the stem**\
+-   **Adding flutes**\
+-   **Using a Cemented Stem**: Cement provides a dampening effect on stress transfer, although cemented stems must be stiffer due to their smaller size.
+    -   Using **Titanium**: Although titanium is less stiff, it can generate more wear particles, which are undesirable.
+
+------------------------------------------------------------------------
+
+## Extent of Porous Coating
+
+-   **Full Coating**: Results in diaphyseal (shaft) ingrowth and causes proximal stress shielding.
+    -   **Spot Welding**: Increased density around the distal tip; load dissipates distally.\
+    -   **Proximal Coating**: Distributes the load more evenly.
+
+------------------------------------------------------------------------
+
+## Collared Implants
+
+### In Cemented Stems
+
+-   **Collar Function**: Promotes loading through the proximal medial bone (where stress shielding occurs).
+    -   **Risk**: Collar may not seat directly against bone, leading to lysis under the collar.
+
+### In Uncemented Stems
+
+-   **Controversial Use**:
+    -   Collar may prevent full seating of the prosthesis, leading to a loose stem.\
+    -   If seated properly, provides the most physiologically similar strain to native bone.\
+    -   Protects against subsidence, but cementing may be a better option in such cases.
+
+------------------------------------------------------------------------
+
+## Morse Taper
+
+-   **Definition**: A cone-in-cone taper used to join rotating parts like drill bits and chucks.\
+-   **Working Principle**:
+    -   The trunion (male) and bore (female) are nearly the same taper, with the bore being slightly smaller.\
+    -   Impaction of the bore onto the trunion generates opposing stresses.\
+    -   **Result**: A reliable interlock.\
+-   **In THR (Total Hip Replacement)**:
+    -   The taper may be subject to fretting and corrosion.\
+    -   **Precautions**: Components must be clean and dry before assembly.\
+    -   Taper sizes vary between manufacturers; mixing is not recommended unless the exact taper is matched.\
+    -   **Common Taper Size**: 12/14 taper.

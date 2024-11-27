@@ -1,0 +1,114 @@
+---
+title: "Complications"
+---
+
+## Vascular Injury
+
+-   **Causes**:
+    -   Cement removal
+    -   Screw placement
+    -   Retractor use
+
+### Zones for Screw Placement
+
+-   **Safe Zone**: Posterior Superior (minimal danger to sciatic and superior gluteal vessels & nerves)
+-   **Danger Zones**:
+    -   **Anterior Superior**: Danger to external iliac vessels and medial to iliopsoas
+    -   **Anterior Inferior**: Obturator vessels, behind quadrilateral plate and obturator foramen
+    -   **Posterior Inferior**: Safe for screws \<20mm; at risk for pudendal and inferior gluteal vessels, sciatic and inferior gluteal nerves
+
+### Management of Hemorrhage
+
+-   **Management Options**:
+    -   Pack areas of bleeding
+    -   Products: Tranexamic acid, transfusion, FFP
+    -   If severe, call the vascular team, perform retroperitoneal approach and clamping of common iliac artery.
+    -   Consider pre-operative angiography/vascular standby if cup migration is chronic.
+
+------------------------------------------------------------------------
+
+## Nerve Injury
+
+### Aetiology
+
+-   **Sciatic Nerve Injury**: 80%
+-   **Femoral Nerve Injury**: 20%
+-   **Other Nerves**: \<1%
+
+### Sciatic Nerve Injury
+
+-   **Risk Factors**:
+    -   Revision surgery
+    -   Females
+    -   Lengthening \>4cm
+-   **Causes**:
+    -   Retractor placement posterior inferior to acetabulum
+    -   Haematoma, cement, cages, screws, direct laceration (uncommon)
+    -   Most injuries involve the peroneal branch (more lateral, closer to retractors)
+    -   20% of cases are complete palsy
+-   **Management**:
+    -   Foot drop splint, physio to maintain joint motion.
+    -   If nerve is intact, avoid exploration.
+    -   If unsure of completeness, explore early if no improvement after 6 weeks.
+    -   **Prognosis**:
+        -   Good indicators: improvement within 3 weeks, delayed symptom onset, incomplete palsy.
+
+### Femoral Nerve Injury
+
+-   **Less Common**:
+    -   Often caused by retractors not positioned within the capsule.
+    -   Management involves physiotherapy and knee braces for quads recovery.
+
+### Obturator Nerve Injury
+
+-   **Uncommon**:
+    -   Caused by deep retractors in obturator foramen or cement extrusion.
+    -   Main symptom is groin pain.
+
+### Superior Gluteal Nerve Injury
+
+-   **Risk**:
+    -   Mainly occurs if muscle split in gluteus medius exceeds 5cm.
+
+------------------------------------------------------------------------
+
+## Leg Length Discrepancy
+
+-   **True Lengthening**: More common than shortening; usually better tolerated if \<1cm; \>2.5cm poorly tolerated.
+-   **Intraoperative Checks**:
+    -   Matching neck cut to templating
+    -   Shuck test, soft tissue tension, kick-back test, knee palpation, markers with measuring devices.
+-   **Classification**:
+    -   **True**: Due to surgical error (e.g., inferior cup placement, inappropriate neck length).
+    -   **Apparent**: Due to contracture pre- or post-op.
+-   **Management**:
+    -   **Apparent**: Reassurance and physiotherapy for stretching.
+    -   **True**: Identify and correct significant issues; shoe raise for minor discrepancies (\<2cm).
+
+------------------------------------------------------------------------
+
+## Fat Embolus Syndrome
+
+-   **In THR**: Most common in cemented stems in elderly patients.
+-   **In TKR**: Related to intramedullary referencing; risk increases with number of intramedullary rods used.
+
+### Pathophysiology of Fat Embolus in THR
+
+-   **Cause**: Pressurization of canal during stem insertion causes fat and cement embolization, occluding capillaries in the lungs.
+-   **Symptoms**:
+    -   Rapid hypotension (within 30 minutes)
+    -   Hypoxia
+    -   Petechial hemorrhages
+
+### Why It's Worse in Elderly:
+
+-   Osteoporotic bone increases fat dissemination under pressurization.
+-   Underlying comorbidities (e.g., chronic pulmonary disease) exacerbate the effects of embolization.
+
+### Management
+
+-   **Supportive Care**:
+    -   Oxygen
+    -   Fluids
+    -   Vasopressors
+    -   Ventilation if necessary

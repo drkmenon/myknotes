@@ -1,0 +1,163 @@
+---
+title: "Miscellaneous Conditions"
+---
+
+## Melorheostosis
+
+### Epidemiology
+
+-   Typically discovered around age 40.
+
+### Aetiology
+
+-   Excessive periosteal bone formation.
+-   Unknown cause; non-hereditary.
+
+### Clinical Features
+
+-   Painful.
+-   Skin changes: erythema, warmth, fibrosis, and induration.
+-   Commonly affects the lower limb.
+
+### Imaging Features
+
+-   **"Dripping candle wax"** appearance: periosteal bone extending along the outer bone surface and crossing joints.
+
+### Pathology
+
+-   Normal bone features.
+
+### Management
+
+-   Symptomatic treatment.
+-   Surgical excision for prominent areas.
+-   Release joint contractures.
+
+------------------------------------------------------------------------
+
+## Gorham Disease
+
+### Overview
+
+-   Also known as **Massive Spontaneous Osteolysis** or **Vanishing Bone Disease**.
+-   No curative treatment.
+
+------------------------------------------------------------------------
+
+## Gaucher Disease
+
+### Aetiology
+
+-   **Enzyme deficiency**: Glucocerebrosidase.
+-   Autosomal recessive disorder leading to:
+    -   Pancytopenia.
+    -   Thrombocytopenia.
+    -   Osteonecrosis and fractures.
+
+### Epidemiology
+
+-   Most common in **Ashkenazi Jews**.
+
+### Imaging Features
+
+-   **Erlenmeyer flask deformity** of long bones.
+-   Subchondral and vertebral collapse.
+-   Lucent metaphyseal areas.
+
+### Management
+
+-   Enzyme replacement therapy.
+-   Symptomatic management.
+
+------------------------------------------------------------------------
+
+## Neuropathic Arthropathy (Charcot Joint)
+
+### Definition
+
+-   Joint destruction caused by trauma due to loss of protective sensation.
+
+### Aetiology
+
+-   Chronic sensory nerve issues:
+    -   **Diabetes** (foot and ankle).
+    -   **Alcoholism**.
+    -   **Spinal cord anomalies** (malformation, tumor).
+    -   **Syphilis** (knee).
+    -   **Syringomyelia** (shoulder and elbow).
+
+### Clinical Features
+
+-   Early stages mimic osteoarthritis.
+-   Late stages resemble infection.
+
+### Imaging Features
+
+-   Joint subluxations, collapse, and hypertrophic bone formation.
+
+### Management
+
+-   Treat reversible causes.
+-   Fusion or reconstruction of joints.
+-   **Total contact casting** for ulcers.
+
+------------------------------------------------------------------------
+
+## Haemophilic Arthropathy
+
+### Aetiology
+
+-   **Haemophilia A**: Factor VIII deficiency.
+-   **Haemophilia B**: Factor IX deficiency (Christmas disease).
+-   X-linked recessive inheritance.
+-   Repeated haemarthroses leading to hypertrophied synovium and cartilage erosion.
+
+### Imaging Features
+
+-   Squared distal pole of the patella.
+-   Flattened distal femur.
+-   Overgrowth of tibia and femur.
+
+### Management
+
+-   Prevent haemarthrosis.
+
+------------------------------------------------------------------------
+
+## Pigmented Villonodular Synovitis (PVNS)
+
+### Epidemiology
+
+-   Middle-aged adults; men = women.
+
+### Aetiology
+
+-   Benign but locally aggressive synovial proliferation.
+-   Often associated with prior trauma.
+
+### Clinical Features
+
+-   Pain, restricted ROM, and swelling.
+-   **Diffuse or nodular** form:
+    -   Nodular: Single nodule in the joint.
+    -   Diffuse: Recurrent haemarthroses.
+
+### Common Locations
+
+-   Knee (80%) \> hip \> shoulder \> ankle.
+
+### Diagnosis
+
+-   **X-ray**: Bony erosions on both sides of the joint.
+-   **MRI**: Dark nodule or nodular proliferation, sometimes with fat signals and haemarthrosis.
+
+### Pathology
+
+-   Inflamed synovium with haemosiderin deposition.
+
+### Management
+
+-   **Nodular**: Excision.
+-   **Diffuse**: Total synovectomy (arthroscopic or open).
+-   Arthroplasty for secondary arthrosis.
+-   Recurrence rate: \~20% (usually due to incomplete excision).

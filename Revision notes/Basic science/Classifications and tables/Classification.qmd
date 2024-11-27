@@ -3,397 +3,385 @@ title: "Classifications"
 toc: true
 ---
 
-## Wagner Classification of Diabetic Foot Ulcers
+## Diabetic Foot Ulcers
 
-::: callout
-+:-------------------------------------------------------+:----------------------------------------------------------+
-| [Grade 0]{style="font-weight:bold; font-style:italic"} | No ulcer but foot deformity at risk of causing ulceration |
-+--------------------------------------------------------+-----------------------------------------------------------+
-| [Grade 1]{style="font-weight:bold; font-style:italic"} | Superficial ulcer                                         |
-+--------------------------------------------------------+-----------------------------------------------------------+
-| [Grade 2]{style="font-weight:bold; font-style:italic"} | Deep ulcer with visible bone or tendon                    |
-+--------------------------------------------------------+-----------------------------------------------------------+
-| [Grade 3]{style="font-weight:bold; font-style:italic"} | Deep ulcer with abscess or osteomyelitis                  |
-+--------------------------------------------------------+-----------------------------------------------------------+
-| [Grade 4]{style="font-weight:bold; font-style:italic"} | Ulcer with gangrene limited to the forefoot               |
-+--------------------------------------------------------+-----------------------------------------------------------+
-| [Grade 5]{style="font-weight:bold; font-style:italic"} | Ulcer with gangrene of the whole foot                     |
-+--------------------------------------------------------+-----------------------------------------------------------+
-:::
+## SINBAD Classification
 
-## Eichenholz Classification of Charcot Foot
+-   Introduced in 2008 following a multicentric study, this classification evaluates diabetic foot ulcers based on six categories.
 
-+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
-| [Stage]{style="font-weight: bold; color:#000090"} | [Name]{style="font-weight: bold; color:#000090"} | [Features]{style="font-weight: bold; color:#000090"} |
-+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
-| 0                                                 | Pre-Fragmentation                                | Acutely painful                                      |
-|                                                   |                                                  |                                                      |
-|                                                   |                                                  | Regional Demineralisation of bone                    |
-+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
-| 1                                                 | Fragmentation                                    | Painful                                              |
-|                                                   |                                                  |                                                      |
-|                                                   |                                                  | Periarticular fragmentation                          |
-|                                                   |                                                  |                                                      |
-|                                                   |                                                  | Demineralisation of bone                             |
-|                                                   |                                                  |                                                      |
-|                                                   |                                                  | Joint Dislocations                                   |
-+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
-| 2                                                 | Coalescence                                      | Less Pain                                            |
-|                                                   |                                                  |                                                      |
-|                                                   |                                                  | Sclerosis                                            |
-|                                                   |                                                  |                                                      |
-|                                                   |                                                  | Bone Resorption                                      |
-+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
-| 3                                                 | Remodelling                                      | Pain Free                                            |
-|                                                   |                                                  |                                                      |
-|                                                   |                                                  | Malunited, Ankylosed joints                          |
-+---------------------------------------------------+--------------------------------------------------+------------------------------------------------------+
++-------------------------+-------------------------------------------------------+------------+
+| **Category**            | **Definition**                                        | **Score**  |
++=========================+=======================================================+============+
+| **Site**                | Forefoot                                              | 0          |
++-------------------------+-------------------------------------------------------+------------+
+|                         | Hindfoot and midfoot                                  | 1          |
++-------------------------+-------------------------------------------------------+------------+
+| **Ischemia**            | Pedal blood flow intact (at least one pulse palpable) | 0          |
++-------------------------+-------------------------------------------------------+------------+
+|                         | Clinical evidence of reduced pedal blood flow         | 1          |
++-------------------------+-------------------------------------------------------+------------+
+| **Neuropathy**          | Protective sensation intact                           | 0          |
++-------------------------+-------------------------------------------------------+------------+
+|                         | Protective sensation absent                           | 1          |
++-------------------------+-------------------------------------------------------+------------+
+| **Bacterial Infection** | None                                                  | 0          |
++-------------------------+-------------------------------------------------------+------------+
+|                         | Present                                               | 1          |
++-------------------------+-------------------------------------------------------+------------+
+| **Area**                | Ulcer \<1cm²                                          | 0          |
++-------------------------+-------------------------------------------------------+------------+
+|                         | Ulcer ≥1cm²                                           | 1          |
++-------------------------+-------------------------------------------------------+------------+
+| **Depth**               | Ulcer confined to skin and subcutaneous tissue        | 0          |
++-------------------------+-------------------------------------------------------+------------+
+|                         | Ulcer reaching muscle, tendon, or deeper              | 1          |
++-------------------------+-------------------------------------------------------+------------+
 
-## Osteochondral Defects of Talus
+## Meggitt-Wagner Classification
 
-::: callout
-### Berndt & Hardy
+-   Most commonly used classification for diabetic foot ulcers.
 
-Stage 1 Subchondral fracture
+| **Grade** | **Description**                                   |
+|-----------|---------------------------------------------------|
+| 0         | No ulcer but foot deformity at risk of ulceration |
+| 1         | Superficial ulcer                                 |
+| 2         | Deep ulcer with visible bone or tendon            |
+| 3         | Deep ulcer with abscess or osteomyelitis          |
+| 4         | Ulcer with gangrene limited to forefoot           |
+| 5         | Ulcer with gangrene of the whole foot             |
 
-Stage 2 Partially detached fragment
+## University of Texas Staging System
 
-Stage 3 Detached but stable fragment
+-   Second most commonly used classification, incorporating infection and ischemia.
 
-Stage 4 Detached and unstable fragment -- free floating
++------------+---------------------------------------------+-----------------------------------------+-----------------------------+---------------------------------+
+| **Stage**  | **Grade 0**                                 | **Grade 1**                             | **Grade 2**                 | **Grade 3**                     |
++============+=============================================+=========================================+=============================+=================================+
+| **A**      | Pre-/post-ulcerative lesion, epithelialized | Superficial ulcer, not involving tendon | Ulcer penetrating to tendon | Ulcer penetrating to bone/joint |
++------------+---------------------------------------------+-----------------------------------------+-----------------------------+---------------------------------+
+| **B**      | Infection                                   | Infection                               | Infection                   | Infection                       |
++------------+---------------------------------------------+-----------------------------------------+-----------------------------+---------------------------------+
+| **C**      | Ischemia                                    | Ischemia                                | Ischemia                    | Ischemia                        |
++------------+---------------------------------------------+-----------------------------------------+-----------------------------+---------------------------------+
+| **D**      | Infection & ischemia                        | Infection & ischemia                    | Infection & ischemia        | Infection & ischemia            |
++------------+---------------------------------------------+-----------------------------------------+-----------------------------+---------------------------------+
 
-`Based on XR -- only 50% OCD visible`
-:::
+## S(AD)SAD Classification
 
-MRI classification by Bristol Group
+-   Assesses diabetic foot based on area, depth, sepsis, arteriopathy, and denervation.
 
-## Occipital Condyle Fractures
++-----------+---------------+--------------------------------------------+-------------------------------+----------------------------------+-----------------+
+| **Grade** | **Area**      | **Depth**                                  | **Sepsis**                    | **Arteriopathy**                 | **Denervation** |
++===========+===============+============================================+===============================+==================================+=================+
+| 0         | Skin intact   | Skin intact                                | No infection                  | Pedal pulses present             | Intact          |
++-----------+---------------+--------------------------------------------+-------------------------------+----------------------------------+-----------------+
+| 1         | Lesion \<1cm² | Superficial (skin and subcutaneous tissue) | No infected lesions           | Pedal pulses reduced/one missing | Reduced         |
++-----------+---------------+--------------------------------------------+-------------------------------+----------------------------------+-----------------+
+| 2         | Lesion 1–3cm² | Penetrating to tendon, periosteum, joint   | Cellulitis-associated lesions | Absence of both pedal pulses     | Absent          |
++-----------+---------------+--------------------------------------------+-------------------------------+----------------------------------+-----------------+
+| 3         | Lesion \>3cm² | Involving bones or joint space             | Lesions with osteomyelitis    | Gangrene                         | Charcot joint   |
++-----------+---------------+--------------------------------------------+-------------------------------+----------------------------------+-----------------+
 
-::: callout
-+:------------------------------------------------+:----------------------------------------------------+
-| [Type]{style="font-weight:bold; color:#000090"} | [Features]{style="font-weight:bold; color:#000090"} |
-+-------------------------------------------------+-----------------------------------------------------+
-| [Type 1]{style="font-weight:bold"}              | Anterior displacement condyles -- most common       |
-+-------------------------------------------------+-----------------------------------------------------+
-| [Type 2]{style="font-weight:bold"}              | Superior migration of condyles                      |
-+-------------------------------------------------+-----------------------------------------------------+
-| [Type 3]{style="font-weight:bold"}              | Posterior displacement of condyles -- least common  |
-+-------------------------------------------------+-----------------------------------------------------+
-:::
+## Charcot Foot: Eichenholz Classification
 
-`Image`
+The Eichenholz Classification is used to stage Charcot neuroarthropathy, describing the progression of the condition through distinct radiological and clinical features.
 
-## Atlas. (C1) Fractures - Levine Classification
++-----------+-------------------+---------------------------------------------------------------------------------------------------------+
+| **Stage** | **Name**          | **Features**                                                                                            |
++===========+===================+=========================================================================================================+
+| **0**     | Pre-Fragmentation | Acutely painful, regional demineralization of bone visible on imaging.                                  |
++-----------+-------------------+---------------------------------------------------------------------------------------------------------+
+| **1**     | Fragmentation     | Painful stage with peri-articular fragmentation, visible bone demineralization, and joint dislocations. |
++-----------+-------------------+---------------------------------------------------------------------------------------------------------+
+| **2**     | Coalescence       | Less pain, sclerosis (bone hardening), and bone resorption as fragments coalesce.                       |
++-----------+-------------------+---------------------------------------------------------------------------------------------------------+
+| **3**     | Remodelling       | Pain-free stage with malunited and/or ankylosed (stiffened) joints.                                     |
++-----------+-------------------+---------------------------------------------------------------------------------------------------------+
 
-::: callout
-+-------------------------------+--------------------------------------------------------------------+
-| **Type**                      | **Features**                                                       |
-+-------------------------------+--------------------------------------------------------------------+
-| [A]{style="font-weight:bold"} | Transverse process                                                 |
-+-------------------------------+--------------------------------------------------------------------+
-| [B]{style="font-weight:bold"} | Posterior Arch                                                     |
-+-------------------------------+--------------------------------------------------------------------+
-| [C]{style="font-weight:bold"} | Anterior Arch                                                      |
-+-------------------------------+--------------------------------------------------------------------+
-| [D]{style="font-weight:bold"} | Lateral Mass                                                       |
-+-------------------------------+--------------------------------------------------------------------+
-| [E]{style="font-weight:bold"} | Burst Transverse ligament intact                                   |
-|                               |                                                                    |
-|                               | Burst -- Transverse ligament disrupted (\>7.5mm combined widening) |
-+-------------------------------+--------------------------------------------------------------------+
-:::
+## Osteochondral Defects of Talus: Berndt & Hardy Classification
 
-## Hangmans Fracture (Traumatic C2 Spondylolisthesis) Classification (Levine & Edwards)
+| **Stage** | **Features**                                   |
+|-----------|------------------------------------------------|
+| 1         | Subchondral fracture                           |
+| 2         | Partially detached fragment                    |
+| 3         | Detached but stable fragment                   |
+| 4         | Detached and unstable fragment – free-floating |
 
-::: callout
-+---------------+--------------------------------------------------------+
-| Type          | Features                                               |
-+---------------+--------------------------------------------------------+
-| Type 1        | \<3mm dis placement                                    |
-|               |                                                        |
-|               | Disc ok                                                |
-+---------------+--------------------------------------------------------+
-| Type 2        | \>3mm dis placement                                    |
-|               |                                                        |
-|               | Disc usually ok                                        |
-|               |                                                        |
-|               | Most common                                            |
-+---------------+--------------------------------------------------------+
-| Type 2a       | A ngulation rather than dis placement                  |
-|               |                                                        |
-|               | Disc likely extruded -- care with reduction & traction |
-|               |                                                        |
-|               | Benign looking but severe injury                       |
-+---------------+--------------------------------------------------------+
-| Type 3        | Concurrent Facet dislocation                           |
-|               |                                                        |
-|               | Hyper extension with rebound flexion                   |
-|               |                                                        |
-|               | Disc extruded                                          |
-|               |                                                        |
-|               | High incidence of neurologic injury                    |
-+---------------+--------------------------------------------------------+
-:::
+### MRI Classification by Bristol Group
 
-## PEG Fractures - Classification (Anderson)
++------------+---------------------------------------------------------------------------+
+| **Stage**  | **Definition**                                                            |
++============+===========================================================================+
+| 1          | Articular cartilage injury                                                |
++------------+---------------------------------------------------------------------------+
+| 2a         | Articular cartilage injury with underlying fracture and surrounding edema |
++------------+---------------------------------------------------------------------------+
+| 2b         | Articular cartilage injury with underlying fracture but no bony edema     |
++------------+---------------------------------------------------------------------------+
+| 3          | Detached, undisplaced fragment                                            |
++------------+---------------------------------------------------------------------------+
+| 4          | Detached, displaced fragment                                              |
++------------+---------------------------------------------------------------------------+
+| 5          | Subchondral cyst                                                          |
++------------+---------------------------------------------------------------------------+
 
-::: callout
-+:------------------------------------------------+:----------------------------------------------------+
-| [Type]{style="font-weight:bold; color:#000090"} | [Features]{style="font-weight:bold; color:#000090"} |
-+-------------------------------------------------+-----------------------------------------------------+
-| [1]{style="font-weight:bold"}                   | Avulsion from tip (apical or alar ligaments)        |
-+-------------------------------------------------+-----------------------------------------------------+
-| [2]{style="font-weight:bold"}                   | Waist non-comminuted (most common)                  |
-+-------------------------------------------------+-----------------------------------------------------+
-| [2a]{style="font-weight:bold"}                  | Waist comminuted (most unstable)                    |
-+-------------------------------------------------+-----------------------------------------------------+
-| [3]{style="font-weight:bold"}                   | Into cancellous bone of C2 body +/- facets          |
-+-------------------------------------------------+-----------------------------------------------------+
-:::
+------------------------------------------------------------------------
 
-## Spinal Muscular Atrophy
+## Occipital Condyle Fractures: Tuli Classification
 
-::: callout
-+----------------------------------+-------------------------------------------+
-| Types                            | Features                                  |
-+----------------------------------+-------------------------------------------+
-| [SMA1]{style="font-weight:bold"} | Onset under 6 months                      |
-|                                  |                                           |
-|                                  | Death under 2 years (respiratory failure) |
-+----------------------------------+-------------------------------------------+
-| [SMA2]{style="font-weight:bold"} | Onset by 2 years                          |
-|                                  |                                           |
-|                                  | Death by 20 years                         |
-+----------------------------------+-------------------------------------------+
-| [SMA3]{style="font-weight:bold"} | Onset after 2 years                       |
-|                                  |                                           |
-|                                  | Normal life expectancy                    |
-+----------------------------------+-------------------------------------------+
-:::
++------------+------------------------------------------------------------+
+| **Type**   | **Features**                                               |
++============+============================================================+
+| 1          | Stable, undisplaced fracture                               |
++------------+------------------------------------------------------------+
+| 2A         | Stable, displaced fracture with no ligamentous instability |
++------------+------------------------------------------------------------+
+| 2B         | Unstable, displaced fracture with ligamentous instability  |
++------------+------------------------------------------------------------+
 
-## HSMN Sub-types
+------------------------------------------------------------------------
 
-::: callout
-+---------------+------------------------------------------------------+
-| Type          | Features                                             |
-+---------------+------------------------------------------------------+
-| HSMN1         | Onset in teens                                       |
-|               |                                                      |
-|               | Demyelination of nerves                              |
-|               |                                                      |
-|               | Absent reflexes                                      |
-|               |                                                      |
-|               | NCS abnormal                                         |
-+---------------+------------------------------------------------------+
-| HSMN2         | Onset \>20 years - Milder                            |
-|               |                                                      |
-|               | No demyelination but there is wallerian degeneration |
-|               |                                                      |
-|               | Reflexes present                                     |
-|               |                                                      |
-|               | NCS almost normal                                    |
-+---------------+------------------------------------------------------+
-| HSMN3         | Djerne-Stotta Disease; AR                            |
-|               |                                                      |
-|               | Onset in infancy                                     |
-|               |                                                      |
-|               | Much more severe                                     |
-+---------------+------------------------------------------------------+
-:::
+## Atlas (C1) Fractures: Jefferson Classification
+
++------------+---------------------------------------------------------+
+| **Type**   | **Features**                                            |
++============+=========================================================+
+| 1          | Posterior arch fracture                                 |
++------------+---------------------------------------------------------+
+| 2          | Anterior arch fracture                                  |
++------------+---------------------------------------------------------+
+| 3          | Fractures of both anterior and posterior arches         |
++------------+---------------------------------------------------------+
+| 4          | Lateral mass fracture                                   |
++------------+---------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+## Hangman's Fracture (Traumatic C2 Spondylolisthesis): Levine & Edwards Classification
+
++------------+---------------------------------------------------------------------+
+| **Type**   | **Features**                                                        |
++============+=====================================================================+
+| 1          | \<3mm displacement, intact disc                                     |
++------------+---------------------------------------------------------------------+
+| 2          | \>3mm displacement, disc usually intact (most common)               |
++------------+---------------------------------------------------------------------+
+| 2a         | Angulation rather than displacement, disc likely extruded           |
++------------+---------------------------------------------------------------------+
+| 3          | Concurrent facet dislocation, extruded disc, high neurologic injury |
++------------+---------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+## PEG Fractures: Anderson Classification
+
++------------+-----------------------------------------------------------------+
+| **Type**   | **Features**                                                    |
++============+=================================================================+
+| 1          | Avulsion from tip (apical or alar ligaments)                    |
++------------+-----------------------------------------------------------------+
+| 2          | Waist, non-comminuted (most common)                             |
++------------+-----------------------------------------------------------------+
+| 2a         | Waist, comminuted (most unstable)                               |
++------------+-----------------------------------------------------------------+
+| 3          | Into cancellous bone of C2 body with/without facets involvement |
++------------+-----------------------------------------------------------------+
+
+### Eysel Classification for Type 2 PEG Fracture
+
++------------+---------------------------------------------------------+
+| **Type**   | **Definition**                                          |
++============+=========================================================+
+| A          | Horizontal                                              |
++------------+---------------------------------------------------------+
+| B          | Anteroposterior (anterosuperior to posteroinferior)     |
++------------+---------------------------------------------------------+
+| C          | Reverse                                                 |
++------------+---------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+## Spinal Muscular Atrophy (Chromosome 5): MDA Classification
+
++--------------+--------------------------------------+----------------------------+
+| **Type**     | **Features**                         | **Name**                   |
++==============+======================================+============================+
+| SMA1         | Onset \<6 months, death \<2 years    | Werdnig-Hoffmann disease   |
++--------------+--------------------------------------+----------------------------+
+| SMA2         | Onset by 2 years, death by 20 years  | Dubowitz disease           |
++--------------+--------------------------------------+----------------------------+
+| SMA3/4       | Onset after 2 years, normal lifespan | Kugelberg-Welander disease |
++--------------+--------------------------------------+----------------------------+
+
+------------------------------------------------------------------------
+
+## Hereditary Sensory and Motor Neuropathy (HSMN): Charcot-Marie-Tooth Types
+
++--------------+------------------------------------------------------------------------+-------------------------+
+| **Type**     | **Features**                                                           | **Genetic Inheritance** |
++==============+========================================================================+=========================+
+| HSMN1/CMT1   | Onset in teens, demyelination of nerves, absent reflexes, abnormal NCS | Autosomal dominant      |
++--------------+------------------------------------------------------------------------+-------------------------+
+| HSMN2/CMT2   | Onset \>20 years, milder, no demyelination but Wallerian degeneration  | Autosomal dominant      |
++--------------+------------------------------------------------------------------------+-------------------------+
+| CMTX         | Intermediate severity                                                  | X-linked                |
++--------------+------------------------------------------------------------------------+-------------------------+
+| CMT4         | Onset in infancy, severe                                               | Autosomal recessive     |
++--------------+------------------------------------------------------------------------+-------------------------+
+
+### Dejerine-Sottas Disease
+
+-   Defined clinically with onset by 2 years of age, delayed motor milestones, and severe motor/sensory and skeletal deficits.
+
+-    DSD is caused by autosomal dominant mutations in PMP22, MPZ, and EGR2
+
+-   Due to its unique phenotypic features, classified as a separate group with hereditary neuropathy with liability to pressure palsies (HNPP)
 
 ## Spina Bifida Types
 
-::: callout
-+----------------------------------------------+------------------------------------------------+
-| Type                                         | Features                                       |
-+----------------------------------------------+------------------------------------------------+
-| [Occulta]{style="font-weight:bold"}          | Defect in posterior elements but no extrusion  |
-+----------------------------------------------+------------------------------------------------+
-| [Meningocele]{style="font-weight:bold"}      | Extrusion of dura only                         |
-+----------------------------------------------+------------------------------------------------+
-| [Myelomeningocele]{style="font-weight:bold"} | Extrusion of neural elements contained by dura |
-|                                              |                                                |
-|                                              | Classic spina bifida                           |
-+----------------------------------------------+------------------------------------------------+
-| [Rachischis]{style="font-weight:bold"}       | Neural elements extruded and fully exposed     |
-|                                              |                                                |
-|                                              | Very severe                                    |
-+----------------------------------------------+------------------------------------------------+
-:::
++----------------------+---------------------------------------------------------+
+| **Type**             | **Features**                                            |
++======================+=========================================================+
+| Occulta              | Defect in posterior elements but no extrusion           |
++----------------------+---------------------------------------------------------+
+| Meningocele          | Extrusion of dura only                                  |
++----------------------+---------------------------------------------------------+
+| Myelomeningocele     | Extrusion of neural elements contained by dura          |
++----------------------+---------------------------------------------------------+
+| Classic spina bifida | Neural elements extruded and fully exposed              |
++----------------------+---------------------------------------------------------+
+| Rachischis           | Neural elements extruded and fully exposed; very severe |
++----------------------+---------------------------------------------------------+
 
-## Capitellar Fractures (Bryan & Morrey)
+------------------------------------------------------------------------
 
-::: callout
-+:------------------------------------------------+:------------------------------------------------------------------+
-| [Type]{style="font-weight:bold; color:#000090"} | [Features]{style="font-weight:bold; color:#000090"}               |
-+-------------------------------------------------+-------------------------------------------------------------------+
-| [1]{style="font-weight:bold"}                   | Complete, minimal extension into trochlea (Hans Steinhal)         |
-+-------------------------------------------------+-------------------------------------------------------------------+
-| [2]{style="font-weight:bold"}                   | OCD (Kocher Lorenz)                                               |
-+-------------------------------------------------+-------------------------------------------------------------------+
-| [3]{style="font-weight:bold"}                   | Comminuted compressed fracture                                    |
-+-------------------------------------------------+-------------------------------------------------------------------+
-| [4]{style="font-weight:bold"}                   | Complete with significant extension into trochlea (double bubble) |
-+-------------------------------------------------+-------------------------------------------------------------------+
-:::
+## Capitellar Fractures: Bryan & Morrey Classification
 
-## Radial Head (Mason)
++------------+---------------------------------------------------------------------+
+| **Type**   | **Features**                                                        |
++============+=====================================================================+
+| 1          | Complete, minimal extension into trochlea (Hans Steinhal)           |
++------------+---------------------------------------------------------------------+
+| 2          | Osteochondral defect (Kocher Lorenz)                                |
++------------+---------------------------------------------------------------------+
+| 3          | Comminuted compressed fracture                                      |
++------------+---------------------------------------------------------------------+
+| 4          | Complete with significant extension into trochlea ("double bubble") |
++------------+---------------------------------------------------------------------+
 
-::: callout
-+:------------------------------------------------+:----------------------------------------------------+
-| [Type]{style="font-weight:bold; color:#000090"} | [Features]{style="font-weight:bold; color:#000090"} |
-+-------------------------------------------------+-----------------------------------------------------+
-| [1]{style="font-weight:bold"}                   | Undisplaced                                         |
-+-------------------------------------------------+-----------------------------------------------------+
-| [2]{style="font-weight:bold"}                   | Marginal fracture displaced                         |
-+-------------------------------------------------+-----------------------------------------------------+
-| [3]{style="font-weight:bold"}                   | Comminuted displaced fracture                       |
-+-------------------------------------------------+-----------------------------------------------------+
-| [4]{style="font-weight:bold"}                   | Fracture with Elbow Dislocation                     |
-+-------------------------------------------------+-----------------------------------------------------+
-:::
+## Radial Head Fractures: Mason Classification
 
-## Radial Neck (Mason)
++------------+---------------------------------------------------------+
+| **Type**   | **Features**                                            |
++============+=========================================================+
+| 1          | Undisplaced                                             |
++------------+---------------------------------------------------------+
+| 2          | Marginal fracture displaced                             |
++------------+---------------------------------------------------------+
+| 3          | Comminuted displaced fracture                           |
++------------+---------------------------------------------------------+
+| 4          | Fracture with elbow dislocation                         |
++------------+---------------------------------------------------------+
 
-::: callout
-+:------------------------------------------------+:----------------------------------------------------+
-| [Type]{style="font-weight:bold; color:#000090"} | [Features]{style="font-weight:bold; color:#000090"} |
-+-------------------------------------------------+-----------------------------------------------------+
-| [1]{style="font-weight:bold"}                   | Undisplaced                                         |
-+-------------------------------------------------+-----------------------------------------------------+
-| [2]{style="font-weight:bold"}                   | Displaced fracture                                  |
-+-------------------------------------------------+-----------------------------------------------------+
-| [3]{style="font-weight:bold"}                   | Displaced and comminuted fracture                   |
-+-------------------------------------------------+-----------------------------------------------------+
-| [4]{style="font-weight:bold"}                   | Fracture with Elbow Dislocation                     |
-+-------------------------------------------------+-----------------------------------------------------+
-:::
+## Radial Neck Fractures: Mason Classification
 
-## Coronoid Process (Morrey)
++------------+---------------------------------------------------------+
+| **Type**   | **Features**                                            |
++============+=========================================================+
+| 1          | Undisplaced                                             |
++------------+---------------------------------------------------------+
+| 2          | Displaced fracture                                      |
++------------+---------------------------------------------------------+
+| 3          | Displaced and comminuted fracture                       |
++------------+---------------------------------------------------------+
+| 4          | Fracture with elbow dislocation                         |
++------------+---------------------------------------------------------+
 
-::: callout
-+:------------------------------------------------+:----------------------------------------------------+
-| [Type]{style="font-weight:bold; color:#000090"} | [Features]{style="font-weight:bold; color:#000090"} |
-+-------------------------------------------------+-----------------------------------------------------+
-| [1]{style="font-weight:bold"}                   | Tip                                                 |
-+-------------------------------------------------+-----------------------------------------------------+
-| [2]{style="font-weight:bold"}                   | \<50%                                               |
-+-------------------------------------------------+-----------------------------------------------------+
-| [3]{style="font-weight:bold"}                   | \>50%                                               |
-+-------------------------------------------------+-----------------------------------------------------+
-:::
+## Coronoid Process: Morrey Classification
 
-## Coronoid (O'Driscoll)
+| **Type** | **Features**          |
+|----------|-----------------------|
+| 1        | Tip                   |
+| 2        | \<50% of the coronoid |
+| 3        | \>50% of the coronoid |
 
-::: callout
-+--------------+--------------+-------------------------------------------+
-| Type         | Subtype      | Description                               |
-+--------------+--------------+-------------------------------------------+
-| Tip          | 1            | \<2mm coronoid height \|                  |
-|              |              |                                           |
-|              | 2            | \>2mm coronoid height \|                  |
-+--------------+--------------+-------------------------------------------+
-| Anteromedial | 1            | Rim                                       |
-|              |              |                                           |
-|              | 2            | Rim and Tip                               |
-|              |              |                                           |
-|              | 3            | Involving sublime tubercle \|             |
-+--------------+--------------+-------------------------------------------+
-| Basal        | 1            | Coronoid body and base \|                 |
-|              |              |                                           |
-|              | 2            | Transolecranon basal coronoid fracture \| |
-+--------------+--------------+-------------------------------------------+
-:::
+------------------------------------------------------------------------
 
-`image` 
+## Coronoid: O’Driscoll Classification
 
-## Tibialis Posterior Insufficiency (Johnson -- Myerson grade 4)
+| **Type**         | **Subtype** | **Description**                        |
+|------------------|-------------|----------------------------------------|
+| **Tip**          | 1           | \<2mm coronoid height                  |
+|                  | 2           | \>2mm coronoid height                  |
+| **Anteromedial** | 1           | Rim                                    |
+|                  | 2           | Rim and Tip                            |
+|                  | 3           | Involving sublime tubercle             |
+| **Basal**        | 1           | Coronoid body and base                 |
+|                  | 2           | Transolecranon basal coronoid fracture |
 
-::: callout
-+---------------------------------------------------+------------------------------------------------------+
-| [Grade]{style="fon t-weight:bold; color:#000090"} | [Features]{style="fon t-weight:bold; color:#000090"} |
-+---------------------------------------------------+------------------------------------------------------+
-| [0]{style="fon t-weight:bold"}                    | Asymptomatic with MRI changes                        |
-+---------------------------------------------------+------------------------------------------------------+
-| [1]{style="fon t-weight:bold"}                    | TP painful but competent                             |
-+---------------------------------------------------+------------------------------------------------------+
-| [2]{style="fon t-weight:bold"}                    | Incompetent TP with flexible planovalgus             |
-+---------------------------------------------------+------------------------------------------------------+
-| [3]{style="fon t-weight:bold"}                    | Incompetent TP with fixed planovalgus                |
-+---------------------------------------------------+------------------------------------------------------+
-| [4]{style="fon t-weight:bold"}                    | Fixed planovalgus with talar tilt                    |
-+---------------------------------------------------+------------------------------------------------------+
-:::
+------------------------------------------------------------------------
+
+## Tibialis Posterior Insufficiency (Johnson–Myerson Grade 4)
+
+| **Grade** | **Features**                                  |
+|-----------|-----------------------------------------------|
+| 0         | Asymptomatic with MRI changes                 |
+| 1         | Tibialis posterior (TP) painful but competent |
+| 2         | Incompetent TP with flexible planovalgus      |
+| 3         | Incompetent TP with fixed planovalgus         |
+| 4         | Fixed planovalgus with talar tilt             |
+
+------------------------------------------------------------------------
 
 ## Hallux Valgus Severity
 
-::: callout
-+----------+---------+---------+
-| Grade    | HVA     | IMA     |
-+----------+---------+---------+
-| Normal   | \<15    | \<8     |
-+----------+---------+---------+
-| Mild     | 15-19   | 8-13    |
-+----------+---------+---------+
-| Moderate | 20-40   | 13-20   |
-+----------+---------+---------+
-| Severe   | \>40    | \>20    |
-+----------+---------+---------+
-:::
+| **Severity** | **HVA** | **IMA** |
+|--------------|---------|---------|
+| Normal       | \<15°   | \<8°    |
+| Mild         | 15–19°  | 8–13°   |
+| Moderate     | 20–40°  | 13–20°  |
+| Severe       | \>40°   | \>20°   |
 
-## Avascular Necrosis of the Hip (FICAT)
+------------------------------------------------------------------------
 
-::: callout
-+---------------------------------------------------+------------------------------------------------------+
-| [Stage]{style="fon t-weight:bold; color:#000090"} | [Features]{style="fon t-weight:bold; color:#000090"} |
-+---------------------------------------------------+------------------------------------------------------+
-| [1]{style="fon t-weight:bold"}                    | XR normal -- MRI or Bone scan positive               |
-+---------------------------------------------------+------------------------------------------------------+
-| [2]{style="fon t-weight:bold"}                    | Sclerosis and cyst formation                         |
-+---------------------------------------------------+------------------------------------------------------+
-| [3]{style="fon t-weight:bold"}                    | Subchonral collapse -- crescent sign                 |
-+---------------------------------------------------+------------------------------------------------------+
-| [4]{style="fon t-weight:bold"}                    | Significant collapse and arthrosis                   |
-+---------------------------------------------------+------------------------------------------------------+
-:::
+## Avascular Necrosis of the Hip (Ficat Classification)
 
-## Avascular Necrosis of the Hip (Steinberg)
+| **Stage** | **Features**                          |
+|-----------|---------------------------------------|
+| 1         | XR normal – MRI or Bone scan positive |
+| 2         | Sclerosis and cyst formation          |
+| 3         | Subchondral collapse – crescent sign  |
+| 4         | Significant collapse and arthrosis    |
 
-::: callout
-+---------------+-------------------------------------------+
-| Stage         | Features                                  |
-+---------------+-------------------------------------------+
-| 0             | All imaging normal                        |
-+---------------+-------------------------------------------+
-| 1             | XR normal, MRI or Bone scan positive      |
-+---------------+-------------------------------------------+
-| 2             | Sclerosis and cyst formation              |
-+---------------+-------------------------------------------+
-| 3             | Subchondral collapse -- crescent sign     |
-+---------------+-------------------------------------------+
-| 4             | Head collapse, deformation and flattening |
-+---------------+-------------------------------------------+
-| 5             | Joint space narrowing                     |
-+---------------+-------------------------------------------+
-| 6             | Severe arthrosis                          |
-+---------------+-------------------------------------------+
-:::
+------------------------------------------------------------------------
 
-## Femoral Head fracture dislocations (Pipkin)
+## Avascular Necrosis of the Hip (Steinberg Classification)
 
-::: callout
-+--------------------------------------------------+--------------------------------------------------------+------------------------------------------------------+
-| [Type]{style="font-weight: bold; color:#000090"} | [Features]{style="font-weight: bold; color:#000090"}   | [AVN Rate]{style="font-weight: bold; color:#000090"} |
-+--------------------------------------------------+--------------------------------------------------------+------------------------------------------------------+
-| Type 1                                           | Dislocation with fracture inferior to fovea (NWB zone) | \<5%                                                 |
-+--------------------------------------------------+--------------------------------------------------------+------------------------------------------------------+
-| Type 2                                           | Dislocation with fracture superior to fovea in WB zone | \<5%                                                 |
-+--------------------------------------------------+--------------------------------------------------------+------------------------------------------------------+
-| Type 3                                           | Type 1 or 2 with associated neck fracture (worst)      | 50%                                                  |
-+--------------------------------------------------+--------------------------------------------------------+------------------------------------------------------+
-| Type 4                                           | Type 1 or 2 with associated acetabular fracture        | 10%                                                  |
-+--------------------------------------------------+--------------------------------------------------------+------------------------------------------------------+
-:::
+| **Stage** | **Features**                               |
+|-----------|--------------------------------------------|
+| 0         | All imaging normal                         |
+| 1         | XR normal, MRI or Bone scan positive       |
+| 2         | Sclerosis and cyst formation               |
+| 3         | Subchondral collapse – crescent sign       |
+| 4         | Head collapse, deformation, and flattening |
+| 5         | Joint space narrowing                      |
+| 6         | Severe arthrosis                           |
+
+------------------------------------------------------------------------
+
+## Femoral Head Fracture Dislocations (Pipkin Classification)
+
++-------------+-----------------------------------------------------------------------+--------------+
+| **Type**    | **Features**                                                          | **AVN Rate** |
++=============+=======================================================================+==============+
+| 1           | Dislocation with fracture inferior to fovea (non-weight-bearing zone) | \<5%         |
++-------------+-----------------------------------------------------------------------+--------------+
+| 2           | Dislocation with fracture superior to fovea (weight-bearing zone)     | \<5%         |
++-------------+-----------------------------------------------------------------------+--------------+
+| 3           | Type 1 or 2 with associated neck fracture (worst prognosis)           | 50%          |
++-------------+-----------------------------------------------------------------------+--------------+
+| 4           | Type 1 or 2 with associated acetabular fracture                       | 10%          |
++-------------+-----------------------------------------------------------------------+--------------+
 
 ## Tibial Plateau (Schatzker)
 

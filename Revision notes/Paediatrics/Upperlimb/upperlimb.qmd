@@ -19,7 +19,7 @@ title: "Paediatric Upper Limb Conditions"
 ### **Classification – Anatomic**
 
 | Type | Nerves Affected | Prognosis | Affected Muscles |
-|-------------|-------------|-------------|---------------------------------|
+|----|----|----|----|
 | **Erb’s Palsy** | C5/6 (+/- C7) | Best Prognosis | Deltoid, external rotators, biceps, wrist extension (Waiter's tip) |
 | **Klumpke’s** | C8/T1 | Poor Prognosis | Wrist flexors, finger intrinsics |
 | **Total Plexus** | All nerves | Worst Prognosis | Multiple muscles affected |
