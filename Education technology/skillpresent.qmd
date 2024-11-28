@@ -10,6 +10,7 @@ format:
     scrollable: true
     chalkboard: true
     multiplex: true
+    touch: true
     code-copy: true
 ---
 
@@ -171,7 +172,7 @@ Key concept is to activate prior knowledge
 -   We are dealing with NOVICE ADULTS
 -   "Though this be madness, yet there is method in't?" - Shakespeare
 
-## Conclusion
+## Conclusion {.smaller}
 
 **“Down the Rabbit Hole”**
 
