@@ -9,7 +9,7 @@
 <link>https://www.knotes.co.in/posts.html</link>
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
-<generator>quarto-1.5.57</generator>
+<generator>quarto-1.6.39</generator>
 <lastBuildDate>Wed, 27 Nov 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   215813    295732    343101    555486    434489 274288282 </code></pre>
+   205993    297543    346723    636755    444049 764563628 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62216   64075   64512   64512   64949   67062 </code></pre>
+  62017   64064   64496   64503   64936   66958 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-1.051e+06 3.333e+06 5.624e+06 2.617e+07 1.160e+07 2.736e+10 </code></pre>
+7.628e+05 3.372e+06 5.851e+06 3.409e+07 1.247e+07 7.643e+10 </code></pre>
 </div>
 </div>
 </section>
