@@ -6998,7 +6998,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     0  child\n3:     3     0  child\n4:     4     1  child\n5:     5     1  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2  child   &lt;NA&gt;\n3:     3  child   &lt;NA&gt;\n4:     4   &lt;NA&gt;  child\n5:     5   &lt;NA&gt;  child\n6:     6  child   &lt;NA&gt;",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     0  child\n3:     3     1  child\n4:     4     1  child\n5:     5     0  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2  child   &lt;NA&gt;\n3:     3   &lt;NA&gt;  child\n4:     4   &lt;NA&gt;  child\n5:     5  child   &lt;NA&gt;\n6:     6  child   &lt;NA&gt;",
     "crumbs": [
       "Home",
       "Research",
@@ -7245,42 +7245,107 @@
     ]
   },
   {
-    "objectID": "Education technology/quality.html",
-    "href": "Education technology/quality.html",
-    "title": "Clinical Audit",
+    "objectID": "Education technology/ASReview.html",
+    "href": "Education technology/ASReview.html",
+    "title": "ASReview Lab",
     "section": "",
-    "text": "It is a quality improvement tool for evaluating and improving patient care and outcomes.\nThis is achieved by systematically reviewing current practices against explicit criteria and measuring the impact of change(s) introduced to generate improvement.\nThe clinical audit process can be described by “Plan,” “Do,” “Study,” “Act” phases that comprise an audit cycle.",
+    "text": "A systematic review and meta-analysis, when conducted properly, can indeed yield empirical evidence applicable to real-world scenarios.\nWith vast databases of literature now accessible online, however, the sheer volume of articles retrieved poses a significant challenge. Sorting through potentially thousands of citations manually, even with tools like Zotero, can be tedious and time-consuming.\nEnter ASReview Lab. This free, open-source software streamlines the process by arranging the most relevant articles at the forefront of the task. With this assistance, researchers can efficiently identify and separate the most pertinent articles from the rest, saving valuable time and effort.\nMoreover, Review Lab operates offline, ensuring that all data remains securely stored on the user’s personal computer.",
     "crumbs": [
       "Home",
       "Medical Education",
       "Education technology",
-      "Clinical Audit"
+      "ASReview Lab"
     ]
   },
   {
-    "objectID": "Education technology/quality.html#method",
-    "href": "Education technology/quality.html#method",
-    "title": "Clinical Audit",
-    "section": "Method",
-    "text": "Method\n\nPlan\n\nIdentifying an area where there are certain standards that need to be met.\nSetting evidence based standards for the quality improvement project derived at a Local level – i.e. hospital derived, Regional level or National level\nThis stage should identify where and how data should be collected.\n\n\n\nDo\n\nMeasurement of clinical practice requires:\nA population to audit: with predefined with inclusion and exclusion criteria.\nA data collection tool.\nOnce data are collected they must be analysed before implementing change.\n\n\n\nStudy\n\nThis requires comparison of current practice, as collected during stage 2 of the cycle (Measuring), with best practice and identifying areas where change needs to be made.\nChanges made to practice are often in line with the other key areas of clinical governance, these can include:\nEducation and training\nClinical effectiveness\nRisk management\nStaffing management\n\n\n\nAct\n\nThis requires maintenance of the changes to practice in line with best practice standards. Again, this necessitates adherence to the other key components of clinical governance.\nOne of the fundamental parts of clinical audit and sustaining improvement is re-audit. It is often referred to as completing the cycle and entails repeating the stages of clinical audit to provide objective evidence that the improvement is sustained.",
+    "objectID": "Education technology/ASReview.html#installation",
+    "href": "Education technology/ASReview.html#installation",
+    "title": "ASReview Lab",
+    "section": "Installation",
+    "text": "Installation\nUsing terminal is the easiest\npip install asreview",
     "crumbs": [
       "Home",
       "Medical Education",
       "Education technology",
-      "Clinical Audit"
+      "ASReview Lab"
     ]
   },
   {
-    "objectID": "Education technology/quality.html#audit-is-not-research",
-    "href": "Education technology/quality.html#audit-is-not-research",
-    "title": "Clinical Audit",
-    "section": "Audit is not research",
-    "text": "Audit is not research\n\nClinical audit differs from clinical research.\nClinical research is focused on establishing an evidence base of what best practice.\nClinical audit which aims to ensure that best practice, having been identified through clinical research, is being adhered to and that these standards are being met.",
+    "objectID": "Education technology/ASReview.html#deploy-as-local-host",
+    "href": "Education technology/ASReview.html#deploy-as-local-host",
+    "title": "ASReview Lab",
+    "section": "Deploy as local host",
+    "text": "Deploy as local host\nterminal command\nasreview lab\nhttp://localhost:5001/ will get automatically opened in our default browser and the following window will open",
     "crumbs": [
       "Home",
       "Medical Education",
       "Education technology",
-      "Clinical Audit"
+      "ASReview Lab"
+    ]
+  },
+  {
+    "objectID": "Education technology/ASReview.html#creating-projects",
+    "href": "Education technology/ASReview.html#creating-projects",
+    "title": "ASReview Lab",
+    "section": "Creating projects",
+    "text": "Creating projects\nBy clicking on create we can start creating a project",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "ASReview Lab"
+    ]
+  },
+  {
+    "objectID": "Education technology/ASReview.html#adding-data",
+    "href": "Education technology/ASReview.html#adding-data",
+    "title": "ASReview Lab",
+    "section": "Adding data",
+    "text": "Adding data\nData-set can be uploaded from the computer as .ris format or similar ones.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "ASReview Lab"
+    ]
+  },
+  {
+    "objectID": "Education technology/ASReview.html#giving-prior-knowledge",
+    "href": "Education technology/ASReview.html#giving-prior-knowledge",
+    "title": "ASReview Lab",
+    "section": "Giving prior knowledge",
+    "text": "Giving prior knowledge\nWe can key in the relevant keyword in the search menu. ASReview Lab will display few abstracts from which we should select at-least on relevant and one irrelevant article.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "ASReview Lab"
+    ]
+  },
+  {
+    "objectID": "Education technology/ASReview.html#selecting-the-learning-model",
+    "href": "Education technology/ASReview.html#selecting-the-learning-model",
+    "title": "ASReview Lab",
+    "section": "Selecting the learning model",
+    "text": "Selecting the learning model\nAtleast 7 different models are available to select from. I prefer Naive Bayes.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "ASReview Lab"
+    ]
+  },
+  {
+    "objectID": "Education technology/ASReview.html#review",
+    "href": "Education technology/ASReview.html#review",
+    "title": "ASReview Lab",
+    "section": "Review",
+    "text": "Review\nASReview Lab will display the most relevant articles first. As we progress forward, an analysis will be created and we can get an idea about how many more relevant articles can be expected, using the prediction model.\n\nHappy review !",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "ASReview Lab"
     ]
   },
   {
@@ -7808,7 +7873,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   204809    295152    344429    671320    436844 764616416 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62283   64060   64492   64501   64925   67345 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.093e+05 3.318e+06 5.611e+06 3.761e+07 1.213e+07 7.643e+10",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.002e+05 2.963e+05 3.431e+05 8.803e+05 4.387e+05 3.030e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62326   64065   64500   64510   64946   66741 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n7.520e+05 3.330e+06 5.618e+06 5.853e+07 1.205e+07 3.029e+11",
     "crumbs": [
       "Home",
       "Blog",
@@ -8124,8 +8189,47 @@
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#requirements-for-the-solution",
-    "href": "Education technology/skillpresent.html#requirements-for-the-solution",
+    "objectID": "Education technology/quality.html",
+    "href": "Education technology/quality.html",
+    "title": "Clinical Audit",
+    "section": "",
+    "text": "It is a quality improvement tool for evaluating and improving patient care and outcomes.\nThis is achieved by systematically reviewing current practices against explicit criteria and measuring the impact of change(s) introduced to generate improvement.\nThe clinical audit process can be described by “Plan,” “Do,” “Study,” “Act” phases that comprise an audit cycle.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Clinical Audit"
+    ]
+  },
+  {
+    "objectID": "Education technology/quality.html#method",
+    "href": "Education technology/quality.html#method",
+    "title": "Clinical Audit",
+    "section": "Method",
+    "text": "Method\n\nPlan\n\nIdentifying an area where there are certain standards that need to be met.\nSetting evidence based standards for the quality improvement project derived at a Local level – i.e. hospital derived, Regional level or National level\nThis stage should identify where and how data should be collected.\n\n\n\nDo\n\nMeasurement of clinical practice requires:\nA population to audit: with predefined with inclusion and exclusion criteria.\nA data collection tool.\nOnce data are collected they must be analysed before implementing change.\n\n\n\nStudy\n\nThis requires comparison of current practice, as collected during stage 2 of the cycle (Measuring), with best practice and identifying areas where change needs to be made.\nChanges made to practice are often in line with the other key areas of clinical governance, these can include:\nEducation and training\nClinical effectiveness\nRisk management\nStaffing management\n\n\n\nAct\n\nThis requires maintenance of the changes to practice in line with best practice standards. Again, this necessitates adherence to the other key components of clinical governance.\nOne of the fundamental parts of clinical audit and sustaining improvement is re-audit. It is often referred to as completing the cycle and entails repeating the stages of clinical audit to provide objective evidence that the improvement is sustained.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Clinical Audit"
+    ]
+  },
+  {
+    "objectID": "Education technology/quality.html#audit-is-not-research",
+    "href": "Education technology/quality.html#audit-is-not-research",
+    "title": "Clinical Audit",
+    "section": "Audit is not research",
+    "text": "Audit is not research\n\nClinical audit differs from clinical research.\nClinical research is focused on establishing an evidence base of what best practice.\nClinical audit which aims to ensure that best practice, having been identified through clinical research, is being adhered to and that these standards are being met.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Clinical Audit"
+    ]
+  },
+  {
+    "objectID": "Education technology/Presentation/skillpresent.html#requirements-for-the-solution",
+    "href": "Education technology/Presentation/skillpresent.html#requirements-for-the-solution",
     "title": "Teaching complex procedural skill",
     "section": "Requirements for the solution",
     "text": "Requirements for the solution\n\nYou should be aware of the problem\nYou should be interested in the problem and solution\nYou should have the skills",
@@ -8133,12 +8237,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#awareness",
-    "href": "Education technology/skillpresent.html#awareness",
+    "objectID": "Education technology/Presentation/skillpresent.html#awareness",
+    "href": "Education technology/Presentation/skillpresent.html#awareness",
     "title": "Teaching complex procedural skill",
     "section": "Awareness",
     "text": "Awareness",
@@ -8146,12 +8251,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#role-of-teacher",
-    "href": "Education technology/skillpresent.html#role-of-teacher",
+    "objectID": "Education technology/Presentation/skillpresent.html#role-of-teacher",
+    "href": "Education technology/Presentation/skillpresent.html#role-of-teacher",
     "title": "Teaching complex procedural skill",
     "section": "Role of teacher",
     "text": "Role of teacher\n\nmake you aware of the problem\nkindle interest\ntransfer the skills",
@@ -8159,12 +8265,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#what-is-skill",
-    "href": "Education technology/skillpresent.html#what-is-skill",
+    "objectID": "Education technology/Presentation/skillpresent.html#what-is-skill",
+    "href": "Education technology/Presentation/skillpresent.html#what-is-skill",
     "title": "Teaching complex procedural skill",
     "section": "What is Skill?",
     "text": "What is Skill?\n\nConventionally taken as part of psycho-motor domain\n“Any action which has a measurable impact on outcome”",
@@ -8172,12 +8279,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#different-types-of-skills",
-    "href": "Education technology/skillpresent.html#different-types-of-skills",
+    "objectID": "Education technology/Presentation/skillpresent.html#different-types-of-skills",
+    "href": "Education technology/Presentation/skillpresent.html#different-types-of-skills",
     "title": "Teaching complex procedural skill",
     "section": "Different types of skills",
     "text": "Different types of skills\n\nIntellectual or Cognitive skill\nPsychomotor or Procedural skill\nCommunication skill\nTeam skill",
@@ -8185,12 +8293,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#intellectual-skills-needed-to-solve-the-puzzle",
-    "href": "Education technology/skillpresent.html#intellectual-skills-needed-to-solve-the-puzzle",
+    "objectID": "Education technology/Presentation/skillpresent.html#intellectual-skills-needed-to-solve-the-puzzle",
+    "href": "Education technology/Presentation/skillpresent.html#intellectual-skills-needed-to-solve-the-puzzle",
     "title": "Teaching complex procedural skill",
     "section": "Intellectual skills needed to solve the puzzle",
     "text": "Intellectual skills needed to solve the puzzle\n\nProblem-Solving: \n\nbreaking down the puzzle into smaller problems\nidentifying potential solutions, and\nevaluating their effectiveness.\n\nCritical Thinking: \n\nanalyzing the puzzle,\nidentifying patterns, and\nmaking logical deductions to determine the correct sequence of moves.\n\nPerseverance\nAttention to Detail",
@@ -8198,12 +8307,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#teaching-reasoning",
-    "href": "Education technology/skillpresent.html#teaching-reasoning",
+    "objectID": "Education technology/Presentation/skillpresent.html#teaching-reasoning",
+    "href": "Education technology/Presentation/skillpresent.html#teaching-reasoning",
     "title": "Teaching complex procedural skill",
     "section": "Teaching reasoning",
     "text": "Teaching reasoning\nKey concept is to activate prior knowledge\n\nOne minute preceptor (OMP)\nSNAPPS\nMini-CEX",
@@ -8211,12 +8321,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#one-minute-preceptor",
-    "href": "Education technology/skillpresent.html#one-minute-preceptor",
+    "objectID": "Education technology/Presentation/skillpresent.html#one-minute-preceptor",
+    "href": "Education technology/Presentation/skillpresent.html#one-minute-preceptor",
     "title": "Teaching complex procedural skill",
     "section": "One Minute Preceptor",
     "text": "One Minute Preceptor\n\nAsk for a Commitment\nProbe for Supporting Evidence\nProvide Positive Feedback - what was done well\nGuidance - Errors / Omissions\nTeach General Principle\nConclusion",
@@ -8224,12 +8335,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#one-minute-preceptor-1",
-    "href": "Education technology/skillpresent.html#one-minute-preceptor-1",
+    "objectID": "Education technology/Presentation/skillpresent.html#one-minute-preceptor-1",
+    "href": "Education technology/Presentation/skillpresent.html#one-minute-preceptor-1",
     "title": "Teaching complex procedural skill",
     "section": "One Minute Preceptor",
     "text": "One Minute Preceptor",
@@ -8237,12 +8349,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#snapps-model",
-    "href": "Education technology/skillpresent.html#snapps-model",
+    "objectID": "Education technology/Presentation/skillpresent.html#snapps-model",
+    "href": "Education technology/Presentation/skillpresent.html#snapps-model",
     "title": "Teaching complex procedural skill",
     "section": "SNAPPS model",
     "text": "SNAPPS model\n\nSummarize the case\nNarrow the differential diagnosis\nAnalyse the differentials\nProbe the preceptor about uncertainties\nPlan management",
@@ -8250,25 +8363,27 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#teaching-psychomotor-skills",
-    "href": "Education technology/skillpresent.html#teaching-psychomotor-skills",
+    "objectID": "Education technology/Presentation/skillpresent.html#teaching-psychomotor-skills",
+    "href": "Education technology/Presentation/skillpresent.html#teaching-psychomotor-skills",
     "title": "Teaching complex procedural skill",
     "section": "Teaching Psychomotor Skills",
-    "text": "Teaching Psychomotor Skills\nPeyton’s Four-Step Approach – Cognitive, Integrative, Autonomous Phases\n\n\n\nPhase\nActivity\n\n\n\n\nDemonstrate\nTrainer demonstrates\n\n\nDe construct\nTrainer describes the steps and demonstrates\n\n\nComprehension\nLearner describes the steps, trainer demonstrates\n\n\nPerformance\nLearner describes the steps and demonstrates",
+    "text": "Teaching Psychomotor Skills\nPeyton’s Four-Step Approach – Cognitive, Integrative, Autonomous Phases\n\n\n\nPhase\nActivity\n\n\n\n\nDemonstrate\nTrainer demonstrates\n\n\nDe construct\nTrainer describes the steps and demonstrates\n\n\nComprehension\nLearner describes the steps, trainer demonstrates\n\n\nPerformance\nLearner describes the steps and demonstrates\n\n\n\n\n\nClick here for more information on Peyton’s technique",
     "crumbs": [
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#spikes-a-method-for-communication",
-    "href": "Education technology/skillpresent.html#spikes-a-method-for-communication",
+    "objectID": "Education technology/Presentation/skillpresent.html#spikes-a-method-for-communication",
+    "href": "Education technology/Presentation/skillpresent.html#spikes-a-method-for-communication",
     "title": "Teaching complex procedural skill",
     "section": "SPIKES-A Method for communication",
     "text": "SPIKES-A Method for communication\n\nSetting up the interview\nAssessing patient’s Perception\nObtain Invitation\nGiving Knowledge and Information\nAddressing patient’s Emotions with empathic response\nStrategy and Summary",
@@ -8276,12 +8391,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#another-way-of-looking",
-    "href": "Education technology/skillpresent.html#another-way-of-looking",
+    "objectID": "Education technology/Presentation/skillpresent.html#another-way-of-looking",
+    "href": "Education technology/Presentation/skillpresent.html#another-way-of-looking",
     "title": "Teaching complex procedural skill",
     "section": "Another way of looking",
     "text": "Another way of looking\n\n\n\nTechnical\nNon-technical\n\n\n\n\nHistory taking\nSituational awareness\n\n\nPhysical examination\nTask management\n\n\nCommunication (patients)\nCommunication (team)\n\n\nProcedural skills\nDecision making\n\n\nInformation management\nPrioritization skills",
@@ -8289,12 +8405,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#few-definitions",
-    "href": "Education technology/skillpresent.html#few-definitions",
+    "objectID": "Education technology/Presentation/skillpresent.html#few-definitions",
+    "href": "Education technology/Presentation/skillpresent.html#few-definitions",
     "title": "Teaching complex procedural skill",
     "section": "Few definitions",
     "text": "Few definitions\n\nCompetency is a quality characterised by observability and demonstrability\nSkill is ability to do something which is measurable\nObjective is what we want the student to learn/do\nCurriculum\nSyllabus",
@@ -8302,12 +8419,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#can-be-compared-to",
-    "href": "Education technology/skillpresent.html#can-be-compared-to",
+    "objectID": "Education technology/Presentation/skillpresent.html#can-be-compared-to",
+    "href": "Education technology/Presentation/skillpresent.html#can-be-compared-to",
     "title": "Teaching complex procedural skill",
     "section": "Can be compared to",
     "text": "Can be compared to",
@@ -8315,12 +8433,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#take-home-message",
-    "href": "Education technology/skillpresent.html#take-home-message",
+    "objectID": "Education technology/Presentation/skillpresent.html#take-home-message",
+    "href": "Education technology/Presentation/skillpresent.html#take-home-message",
     "title": "Teaching complex procedural skill",
     "section": "Take Home Message",
     "text": "Take Home Message\n\nNMC has specified the methods for skill teaching (Skills module)\nWe should at least be able to enumerate them and practice some of the methods.\nWe should be able to create and execute a lesson plan for skill teaching.\nWe are dealing with NOVICE ADULTS\n“Though this be madness, yet there is method in’t?” - Shakespeare",
@@ -8328,12 +8447,13 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
     ]
   },
   {
-    "objectID": "Education technology/skillpresent.html#conclusion",
-    "href": "Education technology/skillpresent.html#conclusion",
+    "objectID": "Education technology/Presentation/skillpresent.html#conclusion",
+    "href": "Education technology/Presentation/skillpresent.html#conclusion",
     "title": "Teaching complex procedural skill",
     "section": "Conclusion",
     "text": "Conclusion\n“Down the Rabbit Hole”\n\n“Alice: Would you tell me, please, which way I ought to go from here?\nThe Cat: That depends a good deal on where you want to get to.\nAlice: I don’t much care where.\nThe Cat: Then it doesn’t much matter which way you go.   \nAlice: …So long as I get somewhere.\nThe Cat: Oh, you’re sure to do that, if only you walk long enough.”\nDoing the right thing is more valuable than getting things done SOMEHOW\n\nBack to knotes\n\n\n\n\nKishore Puthezhath FRCS (Tr & Orth)(Eng)",
@@ -8341,111 +8461,8 @@
       "Home",
       "Medical Education",
       "Education technology",
+      "Presentation",
       "Teaching complex procedural skill"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html",
-    "href": "Education technology/ASReview.html",
-    "title": "ASReview Lab",
-    "section": "",
-    "text": "A systematic review and meta-analysis, when conducted properly, can indeed yield empirical evidence applicable to real-world scenarios.\nWith vast databases of literature now accessible online, however, the sheer volume of articles retrieved poses a significant challenge. Sorting through potentially thousands of citations manually, even with tools like Zotero, can be tedious and time-consuming.\nEnter ASReview Lab. This free, open-source software streamlines the process by arranging the most relevant articles at the forefront of the task. With this assistance, researchers can efficiently identify and separate the most pertinent articles from the rest, saving valuable time and effort.\nMoreover, Review Lab operates offline, ensuring that all data remains securely stored on the user’s personal computer.",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html#installation",
-    "href": "Education technology/ASReview.html#installation",
-    "title": "ASReview Lab",
-    "section": "Installation",
-    "text": "Installation\nUsing terminal is the easiest\npip install asreview",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html#deploy-as-local-host",
-    "href": "Education technology/ASReview.html#deploy-as-local-host",
-    "title": "ASReview Lab",
-    "section": "Deploy as local host",
-    "text": "Deploy as local host\nterminal command\nasreview lab\nhttp://localhost:5001/ will get automatically opened in our default browser and the following window will open",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html#creating-projects",
-    "href": "Education technology/ASReview.html#creating-projects",
-    "title": "ASReview Lab",
-    "section": "Creating projects",
-    "text": "Creating projects\nBy clicking on create we can start creating a project",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html#adding-data",
-    "href": "Education technology/ASReview.html#adding-data",
-    "title": "ASReview Lab",
-    "section": "Adding data",
-    "text": "Adding data\nData-set can be uploaded from the computer as .ris format or similar ones.",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html#giving-prior-knowledge",
-    "href": "Education technology/ASReview.html#giving-prior-knowledge",
-    "title": "ASReview Lab",
-    "section": "Giving prior knowledge",
-    "text": "Giving prior knowledge\nWe can key in the relevant keyword in the search menu. ASReview Lab will display few abstracts from which we should select at-least on relevant and one irrelevant article.",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html#selecting-the-learning-model",
-    "href": "Education technology/ASReview.html#selecting-the-learning-model",
-    "title": "ASReview Lab",
-    "section": "Selecting the learning model",
-    "text": "Selecting the learning model\nAtleast 7 different models are available to select from. I prefer Naive Bayes.",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
-    ]
-  },
-  {
-    "objectID": "Education technology/ASReview.html#review",
-    "href": "Education technology/ASReview.html#review",
-    "title": "ASReview Lab",
-    "section": "Review",
-    "text": "Review\nASReview Lab will display the most relevant articles first. As we progress forward, an analysis will be created and we can get an idea about how many more relevant articles can be expected, using the prediction model.\n\nHappy review !",
-    "crumbs": [
-      "Home",
-      "Medical Education",
-      "Education technology",
-      "ASReview Lab"
     ]
   },
   {

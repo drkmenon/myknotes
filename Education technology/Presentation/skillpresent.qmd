@@ -14,7 +14,7 @@ format:
     code-copy: true
 ---
 
-![A generic image taken from google images](images/clipboard-668481716.png)
+![A generic image taken from google images](images/puzzle.png)
 
 ## Requirements for the solution
 
@@ -113,9 +113,9 @@ Key concept is to activate prior knowledge
 
 -   **P**lan management
 
-## **Teaching Psychomotor Skills**
+## **Teaching Psychomotor Skills** 
 
-**Peyton’s Four-Step Approach – Cognitive, Integrative, Autonomous Phases**
+### **Peyton’s Four-Step Approach – Cognitive, Integrative, Autonomous Phases** 
 
 | Phase         | Activity                                          |
 |---------------|---------------------------------------------------|
@@ -123,6 +123,10 @@ Key concept is to activate prior knowledge
 | De construct  | Trainer describes the steps and demonstrates      |
 | Comprehension | Learner describes the steps, trainer demonstrates |
 | Performance   | Learner describes the steps and demonstrates      |
+
+::: aside
+[Click here](^[https://www.knotes.co.in/education%20technology/skill]) for more information on Peyton's technique
+:::
 
 ## **SPIKES-A Method for communication**
 
