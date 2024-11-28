@@ -9,8 +9,7 @@ format:
     smaller: true
     scrollable: true
     auto-stretch: false
-    scroll-view: false
-    layout: full
+    scroll-view: true
     chalkboard: true
     multiplex: true
     touch: true
