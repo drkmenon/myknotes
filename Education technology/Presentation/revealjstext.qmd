@@ -63,7 +63,7 @@ or something like that .incremental works only with list
 sequencial appearance, just like .incremental in list.
 ```
 
-::: columns
+::::: columns
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ content 2
 ------------------------------------------------------------------------
 
 This is outside the column, again a legent or something like that
-:::
+:::::
 
 ## Footnote and Speaker notes
 
@@ -107,7 +107,7 @@ This is a speaker note
 
 ## Font colour
 
-::: columns
+::::: columns
 Go to visual [editor]{style="color: red"} in `r`
 
 ::: {.column .fragment width="50%"}
@@ -117,7 +117,7 @@ Go to visual [editor]{style="color: red"} in `r`
 ::: {.column .fragment width="50%"}
 ![enter the colour of choice after color:](images/colour2.png)
 :::
-:::
+:::::
 
 ## Tabsets
 
