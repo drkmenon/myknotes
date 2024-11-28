@@ -9,7 +9,7 @@ format:
     smaller: true
     scrollable: true
     auto-stretch: false
-    scroll-view: true
+    scroll-view: false
     chalkboard: true
     multiplex: true
     touch: true
