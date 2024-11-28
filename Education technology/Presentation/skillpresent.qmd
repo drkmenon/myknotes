@@ -7,7 +7,8 @@ format:
     logo: images/tie-01.png
     footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
     smaller: true
-    scrollable: false
+    scrollable: true
+    auto-stretch: false
     scroll-view: false
     layout: full
     chalkboard: true
