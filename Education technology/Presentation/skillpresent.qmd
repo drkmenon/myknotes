@@ -8,6 +8,8 @@ format:
     footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
     smaller: true
     scrollable: false
+    scroll-view: false
+    layout: full
     chalkboard: true
     multiplex: true
     touch: true
