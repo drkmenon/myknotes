@@ -16,7 +16,7 @@ format:
     code-copy: true
 ---
 
-![A generic image taken from google images](images/puzzle.png)
+![](images/puzzle.png)
 
 ## Requirements for the solution
 
@@ -51,8 +51,6 @@ format:
 
 -   Communication skill
 
--   Team skill
-
 ## Intellectual skills needed to solve the puzzle
 
 -   **Problem-Solving:** 
@@ -75,7 +73,7 @@ format:
 
 -   **Attention to Detail**
 
-## **Teaching reasoning**
+## **How to teach this?**
 
 Key concept is to activate prior knowledge
 
@@ -115,7 +113,9 @@ Key concept is to activate prior knowledge
 
 -   **P**lan management
 
-## **Teaching Psychomotor Skills**
+# Solving the puzzle physically
+
+## **How to teach this?**
 
 ### **Peyton’s Four-Step Approach – Cognitive, Integrative, Autonomous Phases**
 
@@ -129,6 +129,8 @@ Key concept is to activate prior knowledge
 ::: aside
 [Click here](https://www.knotes.co.in/education%20technology/skill) for more information on Peyton's technique
 :::
+
+# If the puzzle was alive..
 
 ## **SPIKES-A Method for communication**
 
@@ -144,7 +146,7 @@ Key concept is to activate prior knowledge
 
 -   **S**trategy and Summary
 
-## Another way of looking
+## Another way of looking at skills
 
 | Technical                | Non-technical         |
 |--------------------------|-----------------------|

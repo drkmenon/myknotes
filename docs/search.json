@@ -6582,7 +6582,7 @@
     "href": "Catallactics/Personal/pricing.html",
     "title": "Hedge pricing",
     "section": "",
-    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 24274.9\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
+    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 24131.1\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -6596,7 +6596,7 @@
     "href": "Catallactics/Personal/pricing.html#calculate-implied-volatility",
     "title": "Hedge pricing",
     "section": "",
-    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 24274.9\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
+    "text": "First we have to extract nifty data using tidyquant or Rquantlib.\n\n\nCode\n# Install necessary packages if not already installed\n\n# install.packages(\"quantmod\")\n# install.packages(\"RQuantLib\")\n\n\n# Load necessary packages\n\nlibrary(data.table)\nlibrary(tidyquant)\n\n# Fetch the Nifty 50 index data\nnifty_data &lt;- tq_get(\"^NSEI\", from = \"1980-01-01\", to = Sys.Date())\n\n# Convert the data to a data.table\nnifty_data &lt;- data.table(nifty_data)\n\n\n\n\n\n\nCode\n# Extract the last closing price directly from nifty_data\nclosing_price &lt;- tail(nifty_data$close, 1)\nclosing_price\n\n\n[1] 24131.1\n\n\n\n\n\nPlugin the latest option price for a liquid strike price with a 4 month maturity to get a reasonably accurate implied volatility.\n\n\nCode\nlibrary(quantmod)\nlibrary(RQuantLib)\n\n# Define option parameters for a single observation\nnifty_price&lt;-23290.5\noption_price &lt;- 105  # Current market price of the option\nstrike_price &lt;- 22500  # Strike price of the option\ntime_to_expiry &lt;- 19/365  # Time to expiration in years\nrisk_free_rate &lt;- 0.071   # Risk-free interest rate\nvolatility_guess &lt;- 0.2  # Initial guess for the volatility\n\n# Calculate implied volatility for a put option\n\nvol&lt;- EuropeanOptionImpliedVolatility(type = \"put\",value =option_price ,underlying = nifty_price,strike = strike_price,dividendYield = 0,riskFreeRate = risk_free_rate,maturity = time_to_expiry,volatility = .2)\n\nvol\n\n\n[1] 0.1903814\nattr(,\"class\")\n[1] \"EuropeanOptionImpliedVolatility\" \"ImpliedVolatility\"              \n\n\nAt present the implied volatility is 19",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -6998,7 +6998,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     0  child\n2:     2     0  child\n3:     3     1  child\n4:     4     1  child\n5:     5     0  child\n6:     6     1  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1  child   &lt;NA&gt;\n2:     2  child   &lt;NA&gt;\n3:     3   &lt;NA&gt;  child\n4:     4   &lt;NA&gt;  child\n5:     5  child   &lt;NA&gt;\n6:     6   &lt;NA&gt;  child",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     0  child\n2:     2     0  child\n3:     3     0  child\n4:     4     0  child\n5:     5     1  child\n6:     6     1  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1  child   &lt;NA&gt;\n2:     2  child   &lt;NA&gt;\n3:     3  child   &lt;NA&gt;\n4:     4  child   &lt;NA&gt;\n5:     5   &lt;NA&gt;  child\n6:     6   &lt;NA&gt;  child",
     "crumbs": [
       "Home",
       "Research",
@@ -7873,7 +7873,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.008e+05 2.957e+05 3.444e+05 6.853e+05 4.395e+05 1.219e+09 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61817   64071   64492   64505   64941   67445 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n8.973e+05 3.318e+06 5.711e+06 3.922e+07 1.197e+07 1.219e+11",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   207169    297140    344171    583327    443406 127869801 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62019   64069   64502   64503   64928   67560 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.415e+05 3.369e+06 5.675e+06 2.880e+07 1.232e+07 1.276e+10",
     "crumbs": [
       "Home",
       "Blog",
@@ -8288,7 +8288,7 @@
     "href": "Education technology/Presentation/skillpresent.html#different-types-of-skills",
     "title": "Teaching complex procedural skill",
     "section": "Different types of skills",
-    "text": "Different types of skills\n\nIntellectual or Cognitive skill\nPsychomotor or Procedural skill\nCommunication skill\nTeam skill",
+    "text": "Different types of skills\n\nIntellectual or Cognitive skill\nPsychomotor or Procedural skill\nCommunication skill",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -8312,11 +8312,11 @@
     ]
   },
   {
-    "objectID": "Education technology/Presentation/skillpresent.html#teaching-reasoning",
-    "href": "Education technology/Presentation/skillpresent.html#teaching-reasoning",
+    "objectID": "Education technology/Presentation/skillpresent.html#how-to-teach-this",
+    "href": "Education technology/Presentation/skillpresent.html#how-to-teach-this",
     "title": "Teaching complex procedural skill",
-    "section": "Teaching reasoning",
-    "text": "Teaching reasoning\nKey concept is to activate prior knowledge\n\nOne minute preceptor (OMP)\nSNAPPS\nMini-CEX",
+    "section": "How to teach this?",
+    "text": "How to teach this?\nKey concept is to activate prior knowledge\n\nOne minute preceptor (OMP)\nSNAPPS\nMini-CEX",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -8368,11 +8368,11 @@
     ]
   },
   {
-    "objectID": "Education technology/Presentation/skillpresent.html#teaching-psychomotor-skills",
-    "href": "Education technology/Presentation/skillpresent.html#teaching-psychomotor-skills",
+    "objectID": "Education technology/Presentation/skillpresent.html#how-to-teach-this-1",
+    "href": "Education technology/Presentation/skillpresent.html#how-to-teach-this-1",
     "title": "Teaching complex procedural skill",
-    "section": "Teaching Psychomotor Skills",
-    "text": "Teaching Psychomotor Skills\nPeyton’s Four-Step Approach – Cognitive, Integrative, Autonomous Phases\n\n\n\nPhase\nActivity\n\n\n\n\nDemonstrate\nTrainer demonstrates\n\n\nDe construct\nTrainer describes the steps and demonstrates\n\n\nComprehension\nLearner describes the steps, trainer demonstrates\n\n\nPerformance\nLearner describes the steps and demonstrates\n\n\n\n\n\nClick here for more information on Peyton’s technique",
+    "section": "How to teach this?",
+    "text": "How to teach this?\nPeyton’s Four-Step Approach – Cognitive, Integrative, Autonomous Phases\n\n\n\nPhase\nActivity\n\n\n\n\nDemonstrate\nTrainer demonstrates\n\n\nDe construct\nTrainer describes the steps and demonstrates\n\n\nComprehension\nLearner describes the steps, trainer demonstrates\n\n\nPerformance\nLearner describes the steps and demonstrates\n\n\n\n\n\nClick here for more information on Peyton’s technique",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -8396,11 +8396,11 @@
     ]
   },
   {
-    "objectID": "Education technology/Presentation/skillpresent.html#another-way-of-looking",
-    "href": "Education technology/Presentation/skillpresent.html#another-way-of-looking",
+    "objectID": "Education technology/Presentation/skillpresent.html#another-way-of-looking-at-skills",
+    "href": "Education technology/Presentation/skillpresent.html#another-way-of-looking-at-skills",
     "title": "Teaching complex procedural skill",
-    "section": "Another way of looking",
-    "text": "Another way of looking\n\n\n\nTechnical\nNon-technical\n\n\n\n\nHistory taking\nSituational awareness\n\n\nPhysical examination\nTask management\n\n\nCommunication (patients)\nCommunication (team)\n\n\nProcedural skills\nDecision making\n\n\nInformation management\nPrioritization skills",
+    "section": "Another way of looking at skills",
+    "text": "Another way of looking at skills\n\n\n\nTechnical\nNon-technical\n\n\n\n\nHistory taking\nSituational awareness\n\n\nPhysical examination\nTask management\n\n\nCommunication (patients)\nCommunication (team)\n\n\nProcedural skills\nDecision making\n\n\nInformation management\nPrioritization skills",
     "crumbs": [
       "Home",
       "Medical Education",
