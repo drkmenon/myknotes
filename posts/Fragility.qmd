@@ -125,7 +125,7 @@ Training-induced adaptations occur through a network of molecular pathways, diff
     -   **PGC-1α** (Promotes mitochondrial biogenesis).
     -   **CaMK** (Calmodulin-dependent kinases).
     -   **Calcineurin**.
-    -   **`AMPK`**`(Adenosine monophosphate-activated protein kinase)`.
+    -   **`AMPK`**.
     -   **MAPKs** (Mitogen-activated protein kinases, e.g., ERK1/2, p38 MAPK).
 -   Leads to metabolic adaptations like mitochondrial biogenesis and angiogenesis, enhancing endurance capacity.
 

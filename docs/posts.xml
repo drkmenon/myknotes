@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   209203    295454    343293    571651    435488 262332184 </code></pre>
+   205478    295040    342172    590042    436580 274368316 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62341   64070   64510   64512   64944   67054 </code></pre>
+  62172   64066   64492   64499   64932   66861 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.014e+05 3.267e+06 5.639e+06 2.780e+07 1.186e+07 2.621e+10 </code></pre>
+7.604e+05 3.291e+06 5.563e+06 2.966e+07 1.193e+07 2.736e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -511,7 +511,7 @@ J &lt;--&gt; H
 <li><strong>PGC-1α</strong> (Promotes mitochondrial biogenesis).</li>
 <li><strong>CaMK</strong> (Calmodulin-dependent kinases).</li>
 <li><strong>Calcineurin</strong>.</li>
-<li><strong><code>AMPK</code></strong><code>(Adenosine monophosphate-activated protein kinase)</code>.</li>
+<li><strong><code>AMPK</code></strong>.</li>
 <li><strong>MAPKs</strong> (Mitogen-activated protein kinases, e.g., ERK1/2, p38 MAPK).</li>
 </ul></li>
 <li>Leads to metabolic adaptations like mitochondrial biogenesis and angiogenesis, enhancing endurance capacity.</li>
