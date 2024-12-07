@@ -84,7 +84,7 @@ format:
   html:
     theme:
      journal
-    mainfont: Avenir Next
+    mainfont: sans-serif
     fontsize: 1.1rem
     fontcolor: black
     linkcolor: blue

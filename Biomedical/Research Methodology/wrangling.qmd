@@ -7,7 +7,7 @@ Data wrangling is the process of making data ready for modelling. It is a tediou
 
 ```{mermaid}
 flowchart LR
-    Record --> Data --> Tidy\ndata --> Data\nanalysis
+    Record --> Data --> Tidy-data --> Data-analysis
     
 ```
 
@@ -33,16 +33,15 @@ eg: `% > %` is called pipe function. It essentially means 'take whatever on the
 
 ```{mermaid}
 flowchart TD
-data.table --> i
-i --> subsetting\nrow
-data.table --> j
-j --> subsetting\n&\ncalculating\nin\ncolumn
-data.table --> by
-by --> grouping
-data.table --> useful\ncodes
-useful\ncodes --> fread
-useful\ncodes --> walrus
-
+A{data.table} --> B[i]
+B --> C[subsetting row]
+A --> D[j]
+D --> E[subsetting & calculating in column]
+A --> F[by]
+F --> G[grouping]
+A --> H[useful codes]
+H --> I[fread]
+H --> J[walrus]
 ```
 
 Old `data.frame` allow sub-setting rows and selecting columns. `data.table` which uses the extended syntax
@@ -153,10 +152,10 @@ dt\[,j\] allow selection, correction or mutation and calculations at column leve
 
 ```{mermaid}
 flowchart TD
-j --> Select
-j --> Calculation
-j --> Correct\ntypo
-j --> Add\nor\nDelete\ncolumn
+A{j} --> B[Select]
+A --> C[Calculation]
+A --> D[Correct typo]
+A --> E[Add or Delete column]
 
 ```
 
