@@ -86,7 +86,7 @@ format:
      journal
     mainfont: sans-serif
     fontsize: 1.0rem
-    fontcolor: black
+    fontcolor: "#1c1c1c"
     linkcolor: blue
     backgroundcolor: white
     css: styles.css
