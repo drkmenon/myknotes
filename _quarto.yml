@@ -85,7 +85,7 @@ format:
     theme:
      journal
     mainfont: sans-serif
-    fontsize: 1.1rem
+    fontsize: 1.0rem
     fontcolor: black
     linkcolor: blue
     backgroundcolor: white
