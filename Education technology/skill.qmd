@@ -3,55 +3,25 @@ title: "Teaching and learning complex procedures"
 order: 3
 ---
 
-::: callout-tip
-An enquiry in to Doto's 5 step and Peyton's 4 step methods
-:::
+Acquisition of procedural skills is a critical element in medical education. Traditionally, procedural skills are taught using a ‘‘see one - do one’’ approach, based on the Halsted’s teaching model (1904). Recently, two new teaching methods for the acquisition of procedural skills have been described:
 
-Acquisition of `procedures skills` is an important element if not the most important in medical education. Traditionally `procedures skills` are taught using a ‘‘see one - do one’’ approach. This is referred to as Halsted’s teaching approach, which is based on the surgeon `Halsted (1904)`. Recently two new teaching approaches for the acquisition of procedural skills were described.
+#### George and Doto’s 5-Step Method:
 
-A stepwise `Skill` teaching approach was presented by George in the meeting of American College of Surgeons, 1997 and later published by George & Doto in 2001. Originally, it was developed as an educational technique to support the American College of Surgeon’s Advanced Trauma Life Support course. [George and Doto]{style="color: blue"} used five steps. They based their teaching approach on Simpson’s taxonomy of the psychomotor domain (Simpson, 1966) . The steps are
+1.  **Overview**: Explains why and how the skill is important.
+2.  **Demonstration**: The preceptor performs the procedure.
+3.  **Students Talk Through the Skill**: The learner verbalizes the steps involved in the procedure.
+4.  **Performance**: The learner performs the procedure under supervision.
+5.  **Assessment of Performance**: Identifies issues affecting learner’s performance, such as inherent ability, inappropriate task description, previous incorrect techniques, and affective factors. Corrective actions can be initiated based on the identified issues.
 
-::: callout-note
-## Simpson
+*This method is based on Simpson’s taxonomy of the psychomotor domain, focusing on physical skills development. It was initially developed as an educational technique to support the American College of Surgeons’ Advanced Trauma Life Support course in 2001*​
 
--   Overview: Why and how the skill is important
--   demonstration
--   The preceptor then repeats the procedure
--   Students talk through the skill
--   performance.
-:::
+#### Peyton’s 4-Step Method:
 
-If students have a problem learning a skill, the preceptor will need to identify which of the following reasons may be underlying their performance deficit.
+1.  **Demonstration**: The preceptor demonstrates the skill.
+2.  **Deconstruction**: The procedure is broken down into parts.
+3.  **Comprehension**: The learner understands the steps and rationale behind the procedure.
+4.  **Performance**: The learner performs the procedure under supervision.
 
--   Learner Trait Ability
+*Peyton’s method differs by combining the demonstration and deconstruction steps, emphasizing the learner’s comprehension and ability to perform the procedure independently*​
 
-    > Learner trait ability is the inherent inability of the learner to perform the task because the learner may not possess the strength, fine motor coordination, or the fine motor skills necessary to do the task.
-
--   Inadequate/Inappropriate Task Description and/or Demonstration
-
--   Imprinting of Previous Incorrect or Obsolete Performance
-
--   Improper Correction/ Reinforcement
-
--   Affective Factors
-
--   Inaccurate Learner Perception of Performance
-
-If the preceptor recognizes any of these problems, corrective actions can be initiated. Skill teaching need not be a time-intensive process if the preceptor will learn this quick and easy five-step method. While going through these five steps may seem lengthy, the result is that `the preceptor will spend less time observing and corrrecting performance problems and will ensure a better learning environment.`
-
-Peyton’s teaching approach is also a stepwise method with following four steps: :
-
-::: callout-note
-## Peyton
-
--   demonstration
--   deconstruction
--   comprehension and
--   performance.
-:::
-
-Within Peyton’s teaching approach, two of the five steps are collated into a single step.
-
-{{< video https://www.youtube.com/embed/iXe1btHlgLQ >}}
-
-**Video showing Mr. J.W. Rodney Peyton FRCS an accomplished `consultant trauma surgeon`, author and trainer talking about his concepts.**
+**Video showing Mr. J.W. Rodney Peyton FRCS discussing his concepts**: {{< video https://www.youtube.com/embed/iXe1btHlgLQ >}}
