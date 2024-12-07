@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   212981    295015    341792    619347    433990 815263745 </code></pre>
+   209203    295454    343293    571651    435488 262332184 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  61951   64083   64493   64508   64922   66913 </code></pre>
+  62341   64070   64510   64512   64944   67054 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.355e+05 3.286e+06 5.535e+06 3.255e+07 1.161e+07 8.149e+10 </code></pre>
+9.014e+05 3.267e+06 5.639e+06 2.780e+07 1.186e+07 2.621e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -390,6 +390,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 </item>
 <item>
   <title>Problem of life span and strength</title>
+  <dc:creator>Kishore Puthezhath</dc:creator>
   <link>https://www.knotes.co.in/posts/Fragility.html</link>
   <description><![CDATA[ 
 
@@ -622,6 +623,7 @@ Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jerem
 <p>Emulating eating and exercise patterns in line with our ancestors in the form of HIIT/SIT could be promising.↩︎</p></li>
 </ol>
 </section></div> ]]></description>
+  <category>medicine</category>
   <guid>https://www.knotes.co.in/posts/Fragility.html</guid>
   <pubDate>Fri, 06 Dec 2024 18:30:00 GMT</pubDate>
 </item>

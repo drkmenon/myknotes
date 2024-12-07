@@ -1,5 +1,9 @@
 ---
 title: "Problem of life span and strength"
+categories: 
+   - medicine
+author: "Kishore Puthezhath"
+nosite:
 date: 12.07.2024
 ---
 
