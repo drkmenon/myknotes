@@ -1,0 +1,175 @@
+---
+title: "Problem of life span and strength"
+date: 12.07.2024
+---
+
+With significant increases in global life expectancy over the past century, largely due to advancements in public health and socio-economic advancement, the focus has shifted toward maintaining a high quality of life and promoting a longer health span rather than merely extending life. Since death is inevitable, prevention efforts aim to compress morbidity—reducing the duration and severity of illness and disability—toward the very end of life. This approach seeks to minimize the time individuals spend suffering from disease before passing, thereby improving overall well-being during ageing[@harrison2022].
+
+![](images/compress.png)
+
+One of the key development in this direction is *`primordial prevention`,* prevention of the development of risk factors for disease, not just prevention of disease.Naturally, emphasize is on upstream determinants of risk for chronic diseases, such as eating patterns, physical activity, and environmental and social determinants of health.
+
+If we have to know more about basic questions like what to eat and what sort of physical activity promote long term health and longevity, we should start with the basic science.
+
+Nutrition has a profound effect on ageing in all species. One of the most important nutritional interventions that influences ageing is caloric restriction (CR). Hence the focus is on `nutrient sensing pathways`. Key pathways are
+
+-   ::: {style="color: green"}
+    AMPK pathway
+    :::
+
+-   ::: {style="color: red"}
+    mTOR pathway
+    :::
+
+-   ::: {style="color: green"}
+    SIRT1 pathway
+    :::
+
+-   ::: {style="color: red"}
+    IGF-1 pathway and
+    :::
+
+-   ::: {style="color: green"}
+    FGF-21 pathway
+    :::
+
+The mTORC1 (`mechanistic Target of Rapamycin Complex 1`) and AMPK (`AMP-activated protein kinase`) pathways are central regulators of cellular metabolism, growth, proliferation and longevity. Their interaction is critical, as their dysregulation contributes to conditions such as type 2 diabetes, insulin resistance, inflammation, and tumor progression.
+
+Recent findings reveal that the interaction between these pathways is bidirectional. mTORC1 directly suppresses AMPK signalling,limiting AMPK's ability to respond to metabolic stress. AMPK indirectly inhibits mTORC1. This reciprocal regulation highlights a complex feedback mechanism that maintains cellular homeostasis under varying conditions of energy availability and stress. This interplay underscores the importance of understanding mTORC1 and AMPK regulation both in health and disease[@ling2020].
+
+```{mermaid}
+
+flowchart TD
+
+A{Aerobic exercise<br/>Starvation<br/>Muscle contraction} --> B[SIRT1]
+A --> C[Central Ghrelin]
+A --> D[reduced Insulin]
+B --> E{Upregulate AMPK}
+C --> E
+D --> E
+E --> F[Increase Life span]
+G[Animal Protein<br/>Muscle strengthening] --> H[mTOR activation]
+H --> I[Increased muscle mass & strength]
+E <--> J(INHIBIT)
+J <--> H
+```
+
+AMP kinase is believed to be the central switch that positively regulate the `life span` of an individual[@jeon2016].
+
+![](images/funampk.png)
+
+It is regulated by a complex mechanism:
+
+![](images/regampk.png)
+
+### AMPK is up-regulated by
+
+-   Aerobic exercise[@liang2021]
+
+-   Starvation (via SIRT 1 [@chen2020], Ghrelin, Insulin[@jeon2016])
+
+-   Muscle contraction
+
+mTORC1, mammalian target of rapamycin, is central in building muscle mass[@mota-martorell2022]. Muscle mass is important for maintaing strength and therefore healthy ageing.
+
+### mTORC1 is up-regulated by
+
+-   Animal protein
+
+-   Strengthening exercises
+
+As previously mentioned, **important role of mTORC1 is to inhibit AMP kinase and vice versa.**
+
+Now knowing the basics(as of now), the fundamental questions are
+
+-   Exercise or not and how?
+
+-   What to eat?
+
+## Exercise or not and what to eat?
+
+Exercise is a round about way to enhance fitness level and compress the morbidity.
+
+## The Theory of Training Super-compensation
+
+Systematic training is designed to enhance the fitness level of individuals. One foundational concept in training theory is the **training super-compensation cycle**, introduced by Yakovlev[@issurin2010]. This theory explains how the human body reacts and adapts to physical loads from training sessions or periods, leading to improved performance over time.
+
+### Phases of the Supercompensation Cycle
+
+1.  **Stress and Fatigue**:
+    -   Training imposes physical loads that the body is unaccustomed to, causing stress and fatigue.
+    -   This results in an acute reduction in performance and work capability, marking the **initial phase** of the cycle.
+    -   The body perceives this as an emergency and prioritizes recovery.
+2.  **Recovery**:
+    -   After the training session, the body begins an intense recovery process.
+    -   This leads to the restoration of physical performance and work capability to pre-training levels.
+3.  **Supercompensation**:
+    -   Beyond recovery, the body continues to adapt in response to the prior training stimulus.
+    -   Performance and work capability increase, allowing for improvements beyond the baseline.
+
+This cyclical process underscores the importance of structured training.
+
+### Molecular Pathways in Training Adaptation
+
+Training-induced adaptations occur through a network of molecular pathways, differing based on the type of activity:
+
+#### Endurance Training[^1]:
+
+[^1]: 150 minutes of moderate intensity or 75 minutes of high intensity aerobic exercise.
+
+-   Activates pathways such as:
+    -   **PGC-1α** (Promotes mitochondrial biogenesis).
+    -   **CaMK** (Calmodulin-dependent kinases).
+    -   **Calcineurin**.
+    -   **`AMPK`**`(Adenosine monophosphate-activated protein kinase)`.
+    -   **MAPKs** (Mitogen-activated protein kinases, e.g., ERK1/2, p38 MAPK).
+-   Leads to metabolic adaptations like mitochondrial biogenesis and angiogenesis, enhancing endurance capacity.
+
+#### Resistance Training[^2]:
+
+[^2]: Regular repeated weight lifting for a fixed period of time, say, 30 minutes.
+
+-   Primarily stimulates the **`AKT-mTOR pathway`**, which promotes:
+    -   **Muscle hypertrophy**.
+    -   **Strength and power gains**.
+    -   **Myofibrillar protein synthesis**.
+
+```{mermaid}
+flowchart LR 
+A[AMPK] <--> B(INHIBITS) 
+C[mTORC1] <--> B
+```
+
+This cell level interplay has got important practical implications.
+
+In the early 1980s, Hickson's groundbreaking research revealed that when individuals engaged in concurrent training (CT)—a combination of strength and endurance training—the adaptations from resistance training were diminished compared to those achieved through resistance training alone. Hickson initially termed this phenomenon the "Interference Effect"[@hickson1980]. Today, it is widely recognized as the "Concurrent Training Effect" (CTE).
+
+A training regimen with high energy demands can significantly activate mechanisms that inhibit pathways regulating muscle myofibrillar protein synthesis[@wilson2012]. Specifically, endurance exercises characterized by high volume or distance, lasting over 20 minutes, performed at moderate intensity (below 85% of maximum heart rate), and executed continuously are likely to amplify the concurrent training effect (CTE) when included in a concurrent training program[@terzis2016].
+
+Low-volume high-intensity interval training (HIIT) or sprint interval training (SIT)[@Coates2023], consisting of short sessions (4–10 minutes), appears to exert a minimal negative impact on resistance training adaptations within a concurrent training program[@macinnis2016]. These training modalities, particularly when cycling is involved, have a lower overall energy demand compared to continuous endurance exercises of matched volume, making them less likely to interfere with the benefits of resistance training[@gibala2012].
+
+Recent studies strongly suggest that separating endurance and strength training sessions yields superior adaptations in endurance capacity, muscle hypertrophy, strength, and power compared to combining both into a single session. This idea, initially highlighted by Sale et al., demonstrates that scheduling these training types on different days or in distinct sessions enhances the benefits of each[@sale1990].
+
+Optimal results are achieved when resistance and endurance training sessions are spaced 3–6 hours apart (to prioritize resistance adaptations) or 24 hours apart (to enhance endurance outcomes). This separation likely minimizes potential overlap in the activation of myofibrillar and mitochondrial protein synthesis pathways, thereby maximizing the benefits of both training modalities[@methenitis2018].
+
+## Conclusion
+
+-   High-volume, moderate-intensity, continuous, and frequent endurance training is believed to negatively impact resistance training-induced adaptations.
+
+-   This effect likely occurs due to the inhibition of the AKT-mTOR signaling pathway, mediated by the activation of adenosine monophosphate-activated protein kinase (AMPK).
+
+-   Endurance/Aerobic exercises go with low calorie diet. Both have positive effect on life span.
+
+-   Resistance exercises go with high protein intake. Both help in improving strength and balance.
+
+-   One may not mix aerobic with resistance exercises. There should be at least 3-24 hrs. gap between them, depending on where your focus is on.
+
+-   Lot of animal protein and strengthening exercises will increase muscle mass. But the same has got negative affect on life span.
+
+-   Hence, limit animal protein and strengthening exercises to 2 days per week. Rest of the days, take less protein and do aerobic exercises (Author's opinion).
+
+-   Explore HIIT/SIT[^3]
+
+[^3]: It is fair to assume that our genes have not yet evolved enough to process an abundance of food and a total lack of physical exertion. Nor are they familiar enough with lack of variety in food and excessive round the clock stress. Cavemen were accustomed to bouts of physical exertion (for food, mates, and escaping enemies) and sporadic feasts with prolonged periods of an empty stomach.
+
+    Emulating eating and exercise patterns in line with our ancestors in the form of HIIT/SIT could be promising.

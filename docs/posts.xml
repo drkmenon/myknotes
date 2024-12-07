@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   213950    295711    342656    621727    440598 644718137 </code></pre>
+   212981    295015    341792    619347    433990 815263745 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62208   64078   64499   64509   64936   67121 </code></pre>
+  61951   64083   64493   64508   64922   66913 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-1.082e+06 3.314e+06 5.635e+06 3.280e+07 1.215e+07 6.444e+10 </code></pre>
+9.355e+05 3.286e+06 5.535e+06 3.255e+07 1.161e+07 8.149e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -386,6 +386,243 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
+  <pubDate>Fri, 06 Dec 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>Problem of life span and strength</title>
+  <link>https://www.knotes.co.in/posts/Fragility.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>With significant increases in global life expectancy over the past century, largely due to advancements in public health and socio-economic advancement, the focus has shifted toward maintaining a high quality of life and promoting a longer health span rather than merely extending life. Since death is inevitable, prevention efforts aim to compress morbidity—reducing the duration and severity of illness and disability—toward the very end of life. This approach seeks to minimize the time individuals spend suffering from disease before passing, thereby improving overall well-being during ageing<span class="citation" data-cites="harrison2022">(<em>Harrison’s principles of internal medicine</em> 2022)</span>.</p>
+<p><img src="https://www.knotes.co.in/posts/images/compress.png" class="img-fluid"></p>
+<p>One of the key development in this direction is <em><code>primordial prevention</code>,</em> prevention of the development of risk factors for disease, not just prevention of disease.Naturally, emphasize is on upstream determinants of risk for chronic diseases, such as eating patterns, physical activity, and environmental and social determinants of health.</p>
+<p>If we have to know more about basic questions like what to eat and what sort of physical activity promote long term health and longevity, we should start with the basic science.</p>
+<p>Nutrition has a profound effect on ageing in all species. One of the most important nutritional interventions that influences ageing is caloric restriction (CR). Hence the focus is on <code>nutrient sensing pathways</code>. Key pathways are</p>
+<ul>
+<li><div style="color: green">
+<p>AMPK pathway</p>
+</div></li>
+<li><div style="color: red">
+<p>mTOR pathway</p>
+</div></li>
+<li><div style="color: green">
+<p>SIRT1 pathway</p>
+</div></li>
+<li><div style="color: red">
+<p>IGF-1 pathway and</p>
+</div></li>
+<li><div style="color: green">
+<p>FGF-21 pathway</p>
+</div></li>
+</ul>
+<p>The mTORC1 (<code>mechanistic Target of Rapamycin Complex 1</code>) and AMPK (<code>AMP-activated protein kinase</code>) pathways are central regulators of cellular metabolism, growth, proliferation and longevity. Their interaction is critical, as their dysregulation contributes to conditions such as type 2 diabetes, insulin resistance, inflammation, and tumor progression.</p>
+<p>Recent findings reveal that the interaction between these pathways is bidirectional. mTORC1 directly suppresses AMPK signalling,limiting AMPK’s ability to respond to metabolic stress. AMPK indirectly inhibits mTORC1. This reciprocal regulation highlights a complex feedback mechanism that maintains cellular homeostasis under varying conditions of energy availability and stress. This interplay underscores the importance of understanding mTORC1 and AMPK regulation both in health and disease<span class="citation" data-cites="ling2020">(Ling et al. 2020)</span>.</p>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+
+A{Aerobic exercise&lt;br/&gt;Starvation&lt;br/&gt;Muscle contraction} --&gt; B[SIRT1]
+A --&gt; C[Central Ghrelin]
+A --&gt; D[reduced Insulin]
+B --&gt; E{Upregulate AMPK}
+C --&gt; E
+D --&gt; E
+E --&gt; F[Increase Life span]
+G[Animal Protein&lt;br/&gt;Muscle strengthening] --&gt; H[mTOR activation]
+H --&gt; I[Increased muscle mass &amp; strength]
+E &lt;--&gt; J(INHIBIT)
+J &lt;--&gt; H
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>AMP kinase is believed to be the central switch that positively regulate the <code>life span</code> of an individual<span class="citation" data-cites="jeon2016">(Jeon 2016)</span>.</p>
+<p><img src="https://www.knotes.co.in/posts/images/funampk.png" class="img-fluid"></p>
+<p>It is regulated by a complex mechanism:</p>
+<p><img src="https://www.knotes.co.in/posts/images/regampk.png" class="img-fluid"></p>
+<section id="ampk-is-up-regulated-by" class="level3">
+<h3 class="anchored" data-anchor-id="ampk-is-up-regulated-by">AMPK is up-regulated by</h3>
+<ul>
+<li><p>Aerobic exercise<span class="citation" data-cites="liang2021">(Liang et al. 2021)</span></p></li>
+<li><p>Starvation (via SIRT 1 <span class="citation" data-cites="chen2020">(Chen et al. 2020)</span>, Ghrelin, Insulin<span class="citation" data-cites="jeon2016">(Jeon 2016)</span>)</p></li>
+<li><p>Muscle contraction</p></li>
+</ul>
+<p>mTORC1, mammalian target of rapamycin, is central in building muscle mass<span class="citation" data-cites="mota-martorell2022">(Mota-Martorell, Jové, and Pamplona 2022)</span>. Muscle mass is important for maintaing strength and therefore healthy ageing.</p>
+</section>
+<section id="mtorc1-is-up-regulated-by" class="level3">
+<h3 class="anchored" data-anchor-id="mtorc1-is-up-regulated-by">mTORC1 is up-regulated by</h3>
+<ul>
+<li><p>Animal protein</p></li>
+<li><p>Strengthening exercises</p></li>
+</ul>
+<p>As previously mentioned, <strong>important role of mTORC1 is to inhibit AMP kinase and vice versa.</strong></p>
+<p>Now knowing the basics(as of now), the fundamental questions are</p>
+<ul>
+<li><p>Exercise or not and how?</p></li>
+<li><p>What to eat?</p></li>
+</ul>
+</section>
+<section id="exercise-or-not-and-what-to-eat" class="level2">
+<h2 class="anchored" data-anchor-id="exercise-or-not-and-what-to-eat">Exercise or not and what to eat?</h2>
+<p>Exercise is a round about way to enhance fitness level and compress the morbidity.</p>
+</section>
+<section id="the-theory-of-training-super-compensation" class="level2">
+<h2 class="anchored" data-anchor-id="the-theory-of-training-super-compensation">The Theory of Training Super-compensation</h2>
+<p>Systematic training is designed to enhance the fitness level of individuals. One foundational concept in training theory is the <strong>training super-compensation cycle</strong>, introduced by Yakovlev<span class="citation" data-cites="issurin2010">(Issurin 2010)</span>. This theory explains how the human body reacts and adapts to physical loads from training sessions or periods, leading to improved performance over time.</p>
+<section id="phases-of-the-supercompensation-cycle" class="level3">
+<h3 class="anchored" data-anchor-id="phases-of-the-supercompensation-cycle">Phases of the Supercompensation Cycle</h3>
+<ol type="1">
+<li><strong>Stress and Fatigue</strong>:
+<ul>
+<li>Training imposes physical loads that the body is unaccustomed to, causing stress and fatigue.</li>
+<li>This results in an acute reduction in performance and work capability, marking the <strong>initial phase</strong> of the cycle.</li>
+<li>The body perceives this as an emergency and prioritizes recovery.</li>
+</ul></li>
+<li><strong>Recovery</strong>:
+<ul>
+<li>After the training session, the body begins an intense recovery process.</li>
+<li>This leads to the restoration of physical performance and work capability to pre-training levels.</li>
+</ul></li>
+<li><strong>Supercompensation</strong>:
+<ul>
+<li>Beyond recovery, the body continues to adapt in response to the prior training stimulus.</li>
+<li>Performance and work capability increase, allowing for improvements beyond the baseline.</li>
+</ul></li>
+</ol>
+<p>This cyclical process underscores the importance of structured training.</p>
+</section>
+<section id="molecular-pathways-in-training-adaptation" class="level3">
+<h3 class="anchored" data-anchor-id="molecular-pathways-in-training-adaptation">Molecular Pathways in Training Adaptation</h3>
+<p>Training-induced adaptations occur through a network of molecular pathways, differing based on the type of activity:</p>
+<section id="endurance-training1" class="level4">
+<h4 class="anchored" data-anchor-id="endurance-training1">Endurance Training<sup>1</sup>:</h4>
+<ul>
+<li>Activates pathways such as:
+<ul>
+<li><strong>PGC-1α</strong> (Promotes mitochondrial biogenesis).</li>
+<li><strong>CaMK</strong> (Calmodulin-dependent kinases).</li>
+<li><strong>Calcineurin</strong>.</li>
+<li><strong><code>AMPK</code></strong><code>(Adenosine monophosphate-activated protein kinase)</code>.</li>
+<li><strong>MAPKs</strong> (Mitogen-activated protein kinases, e.g., ERK1/2, p38 MAPK).</li>
+</ul></li>
+<li>Leads to metabolic adaptations like mitochondrial biogenesis and angiogenesis, enhancing endurance capacity.</li>
+</ul>
+</section>
+<section id="resistance-training2" class="level4">
+<h4 class="anchored" data-anchor-id="resistance-training2">Resistance Training<sup>2</sup>:</h4>
+<ul>
+<li>Primarily stimulates the <strong><code>AKT-mTOR pathway</code></strong>, which promotes:
+<ul>
+<li><strong>Muscle hypertrophy</strong>.</li>
+<li><strong>Strength and power gains</strong>.</li>
+<li><strong>Myofibrillar protein synthesis</strong>.</li>
+</ul></li>
+</ul>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR 
+A[AMPK] &lt;--&gt; B(INHIBITS) 
+C[mTORC1] &lt;--&gt; B
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>This cell level interplay has got important practical implications.</p>
+<p>In the early 1980s, Hickson’s groundbreaking research revealed that when individuals engaged in concurrent training (CT)—a combination of strength and endurance training—the adaptations from resistance training were diminished compared to those achieved through resistance training alone. Hickson initially termed this phenomenon the “Interference Effect”<span class="citation" data-cites="hickson1980">(Hickson 1980)</span>. Today, it is widely recognized as the “Concurrent Training Effect” (CTE).</p>
+<p>A training regimen with high energy demands can significantly activate mechanisms that inhibit pathways regulating muscle myofibrillar protein synthesis<span class="citation" data-cites="wilson2012">(Wilson et al. 2012)</span>. Specifically, endurance exercises characterized by high volume or distance, lasting over 20 minutes, performed at moderate intensity (below 85% of maximum heart rate), and executed continuously are likely to amplify the concurrent training effect (CTE) when included in a concurrent training program<span class="citation" data-cites="terzis2016">(Terzis et al. 2016)</span>.</p>
+<p>Low-volume high-intensity interval training (HIIT) or sprint interval training (SIT)<span class="citation" data-cites="Coates2023">(Coates et al. 2023)</span>, consisting of short sessions (4–10 minutes), appears to exert a minimal negative impact on resistance training adaptations within a concurrent training program<span class="citation" data-cites="macinnis2016">(MacInnis and Gibala 2016)</span>. These training modalities, particularly when cycling is involved, have a lower overall energy demand compared to continuous endurance exercises of matched volume, making them less likely to interfere with the benefits of resistance training<span class="citation" data-cites="gibala2012">(Gibala et al. 2012)</span>.</p>
+<p>Recent studies strongly suggest that separating endurance and strength training sessions yields superior adaptations in endurance capacity, muscle hypertrophy, strength, and power compared to combining both into a single session. This idea, initially highlighted by Sale et al., demonstrates that scheduling these training types on different days or in distinct sessions enhances the benefits of each<span class="citation" data-cites="sale1990">(SALE et al. 1990)</span>.</p>
+<p>Optimal results are achieved when resistance and endurance training sessions are spaced 3–6 hours apart (to prioritize resistance adaptations) or 24 hours apart (to enhance endurance outcomes). This separation likely minimizes potential overlap in the activation of myofibrillar and mitochondrial protein synthesis pathways, thereby maximizing the benefits of both training modalities<span class="citation" data-cites="methenitis2018">(Methenitis 2018)</span>.</p>
+</section>
+</section>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<ul>
+<li><p>High-volume, moderate-intensity, continuous, and frequent endurance training is believed to negatively impact resistance training-induced adaptations.</p></li>
+<li><p>This effect likely occurs due to the inhibition of the AKT-mTOR signaling pathway, mediated by the activation of adenosine monophosphate-activated protein kinase (AMPK).</p></li>
+<li><p>Endurance/Aerobic exercises go with low calorie diet. Both have positive effect on life span.</p></li>
+<li><p>Resistance exercises go with high protein intake. Both help in improving strength and balance.</p></li>
+<li><p>One may not mix aerobic with resistance exercises. There should be at least 3-24 hrs. gap between them, depending on where your focus is on.</p></li>
+<li><p>Lot of animal protein and strengthening exercises will increase muscle mass. But the same has got negative affect on life span.</p></li>
+<li><p>Hence, limit animal protein and strengthening exercises to 2 days per week. Rest of the days, take less protein and do aerobic exercises (Author’s opinion).</p></li>
+<li><p>Explore HIIT/SIT<sup>3</sup></p></li>
+</ul>
+
+
+
+</section>
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-chen2020" class="csl-entry">
+Chen, Cui, Min Zhou, Yuchen Ge, and Xiaobo Wang. 2020. <span>“SIRT1 and aging related signaling pathways.”</span> <em>Mechanisms of Ageing and Development</em> 187 (April): 111215. <a href="https://doi.org/10.1016/j.mad.2020.111215">https://doi.org/10.1016/j.mad.2020.111215</a>.
+</div>
+<div id="ref-Coates2023" class="csl-entry">
+Coates, Alexandra M., Michael J. Joyner, Jonathan P. Little, Andrew M. Jones, and Martin J. Gibala. 2023. <span>“A Perspective on High-Intensity Interval Training for Performance and Health.”</span> <em>Sports Medicine</em> 53 (S1): 85–96. <a href="https://doi.org/10.1007/s40279-023-01938-6">https://doi.org/10.1007/s40279-023-01938-6</a>.
+</div>
+<div id="ref-gibala2012" class="csl-entry">
+Gibala, Martin J., Jonathan P. Little, Maureen J. MacDonald, and John A. Hawley. 2012. <span>“Physiological Adaptations to Low<span>-</span>Volume, High<span>-</span>Intensity Interval Training in Health and Disease.”</span> <em>The Journal of Physiology</em> 590 (5): 1077–84. <a href="https://doi.org/10.1113/jphysiol.2011.224725">https://doi.org/10.1113/jphysiol.2011.224725</a>.
+</div>
+<div id="ref-harrison2022" class="csl-entry">
+<em>Harrison’s principles of internal medicine</em>. 2022. 21st ed. New York: McGraw Hill.
+</div>
+<div id="ref-hickson1980" class="csl-entry">
+Hickson, Robert C. 1980. <span>“Interference of Strength Development by Simultaneously Training for Strength and Endurance.”</span> <em>European Journal of Applied Physiology and Occupational Physiology</em> 45 (2-3): 255–63. <a href="https://doi.org/10.1007/bf00421333">https://doi.org/10.1007/bf00421333</a>.
+</div>
+<div id="ref-issurin2010" class="csl-entry">
+Issurin, Vladimir B. 2010. <span>“New Horizons for the Methodology and Physiology of Training Periodization.”</span> <em>Sports Medicine</em> 40 (3): 189–206. <a href="https://doi.org/10.2165/11319770-000000000-00000">https://doi.org/10.2165/11319770-000000000-00000</a>.
+</div>
+<div id="ref-jeon2016" class="csl-entry">
+Jeon, Sang-Min. 2016. <span>“Regulation and function of AMPK in physiology and diseases.”</span> <em>Experimental &amp; Molecular Medicine</em> 48 (7): e245. <a href="https://doi.org/10.1038/emm.2016.81">https://doi.org/10.1038/emm.2016.81</a>.
+</div>
+<div id="ref-liang2021" class="csl-entry">
+Liang, Jiling, Hu Zhang, Zhengzhong Zeng, Liangwen Wu, Ying Zhang, Yanju Guo, Jun Lv, Cenyi Wang, Jingjing Fan, and Ning Chen. 2021. <span>“Lifelong Aerobic Exercise Alleviates Sarcopenia by Activating Autophagy and Inhibiting Protein Degradation via the AMPK/PGC-1α Signaling Pathway.”</span> <em>Metabolites</em> 11 (5): 323. <a href="https://doi.org/10.3390/metabo11050323">https://doi.org/10.3390/metabo11050323</a>.
+</div>
+<div id="ref-ling2020" class="csl-entry">
+Ling, Naomi X. Y., Adrian Kaczmarek, Ashfaqul Hoque, Elizabeth Davie, Kevin R. W. Ngoei, Kaitlin R. Morrison, William J. Smiles, et al. 2020. <span>“mTORC1 Directly Inhibits AMPK to Promote Cell Proliferation Under Nutrient Stress.”</span> <em>Nature Metabolism</em> 2 (1): 41–49. <a href="https://doi.org/10.1038/s42255-019-0157-1">https://doi.org/10.1038/s42255-019-0157-1</a>.
+</div>
+<div id="ref-macinnis2016" class="csl-entry">
+MacInnis, Martin J., and Martin J. Gibala. 2016. <span>“Physiological Adaptations to Interval Training and the Role of Exercise Intensity.”</span> <em>The Journal of Physiology</em> 595 (9): 2915–30. <a href="https://doi.org/10.1113/jp273196">https://doi.org/10.1113/jp273196</a>.
+</div>
+<div id="ref-methenitis2018" class="csl-entry">
+Methenitis, Spyridon. 2018. <span>“A Brief Review on Concurrent Training: From Laboratory to the Field.”</span> <em>Sports</em> 6 (4): 127. <a href="https://doi.org/10.3390/sports6040127">https://doi.org/10.3390/sports6040127</a>.
+</div>
+<div id="ref-mota-martorell2022" class="csl-entry">
+Mota-Martorell, Natalia, Mariona Jové, and Reinald Pamplona. 2022. <span>“mTOR Complex 1 Content and Regulation Is Adapted to Animal Longevity.”</span> <em>International Journal of Molecular Sciences</em> 23 (15): 8747. <a href="https://doi.org/10.3390/ijms23158747">https://doi.org/10.3390/ijms23158747</a>.
+</div>
+<div id="ref-sale1990" class="csl-entry">
+SALE, D. G., I. JACOBS, J. D. MACDOUGALL, and S. GARNER. 1990. <span>“Comparison of Two Regimens of Concurrent Strength and Endurance Training.”</span> <em>Medicine &amp; Science in Sports &amp; Exercise</em> 22 (3): 348???356. <a href="https://doi.org/10.1249/00005768-199006000-00012">https://doi.org/10.1249/00005768-199006000-00012</a>.
+</div>
+<div id="ref-terzis2016" class="csl-entry">
+Terzis, Gerasimos, Kostas Spengos, Spyros Methenitis, Per Aagaard, Nikos Karandreas, and Gregory Bogdanis. 2016. <span>“Early Phase Interference Between Low-Intensity Running and Power Training in Moderately Trained Females.”</span> <em>European Journal of Applied Physiology</em> 116 (5): 1063–73. <a href="https://doi.org/10.1007/s00421-016-3369-z">https://doi.org/10.1007/s00421-016-3369-z</a>.
+</div>
+<div id="ref-wilson2012" class="csl-entry">
+Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jeremy P. Loenneke, and Jody C. Anderson. 2012. <span>“Concurrent Training.”</span> <em>Journal of Strength and Conditioning Research</em> 26 (8): 2293–2307. <a href="https://doi.org/10.1519/jsc.0b013e31823a3e2d">https://doi.org/10.1519/jsc.0b013e31823a3e2d</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>150 minutes of moderate intensity or 75 minutes of high intensity aerobic exercise.↩︎</p></li>
+<li id="fn2"><p>Regular repeated weight lifting for a fixed period of time, say, 30 minutes.↩︎</p></li>
+<li id="fn3"><p>It is fair to assume that our genes have not yet evolved enough to process an abundance of food and a total lack of physical exertion. Nor are they familiar enough with lack of variety in food and excessive round the clock stress. Cavemen were accustomed to bouts of physical exertion (for food, mates, and escaping enemies) and sporadic feasts with prolonged periods of an empty stomach.</p>
+<p>Emulating eating and exercise patterns in line with our ancestors in the form of HIIT/SIT could be promising.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <guid>https://www.knotes.co.in/posts/Fragility.html</guid>
   <pubDate>Fri, 06 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
