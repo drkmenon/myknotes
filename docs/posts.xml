@@ -108,7 +108,7 @@
 <p>Studies suggest that SIT can produce improvements in:</p>
 <ul>
 <li><p><strong>Aerobic Power:</strong> Comparable to traditional endurance training.</p></li>
-<li><p><strong>Metabolic Function:</strong> Enhances energy efficiency and metabolic health.</p></li>
+<li><p><strong>Metabolic Function:</strong> <a href="https://www.knotes.co.in/posts/fragility">Enhances energy efficiency and metabolic health</a>.</p></li>
 </ul>
 <p>SIT provides an efficient alternative to traditional endurance training while maintaining similar physiological benefits. <code>SIT has garnered considerable attention as a time-efficient and alternative method for enhancing aerobic performance and metabolic function</code><span class="citation" data-cites="Sloth2013">(Sloth et al. 2013)</span>.</p>
 </section>
@@ -390,7 +390,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   211030    296021    343056    532323    435883 142890413 </code></pre>
+2.128e+05 2.968e+05 3.442e+05 8.640e+05 4.358e+05 1.738e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -400,7 +400,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62109   64080   64501   64507   64941   66960 </code></pre>
+  62413   64079   64501   64510   64937   66902 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -410,7 +410,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-1.010e+06 3.357e+06 5.588e+06 2.380e+07 1.178e+07 1.422e+10 </code></pre>
+1.000e+06 3.360e+06 5.687e+06 5.703e+07 1.176e+07 1.737e+11 </code></pre>
 </div>
 </div>
 </section>
