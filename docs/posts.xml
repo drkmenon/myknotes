@@ -390,7 +390,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   203373    296982    343722    576599    434998 293342132 </code></pre>
+   211030    296021    343056    532323    435883 142890413 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -400,7 +400,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  61775   64076   64503   64513   64942   67241 </code></pre>
+  62109   64080   64501   64507   64941   66960 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -410,7 +410,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.032e+05 3.347e+06 5.620e+06 2.829e+07 1.169e+07 2.931e+10 </code></pre>
+1.010e+06 3.357e+06 5.588e+06 2.380e+07 1.178e+07 1.422e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -709,7 +709,7 @@ C[mTORC1] &lt;--&gt; B
 <li><p>One may not mix aerobic with resistance exercises. There should be at least 3-24 hrs. gap between them, depending on where your focus is on.</p></li>
 <li><p>Lot of animal protein and strengthening exercises will increase muscle mass. But the same has got negative affect on life span.</p></li>
 <li><p>Hence, limit animal protein and strengthening exercises to 2 days per week. Rest of the days, take less protein and do aerobic exercises<sup>3</sup>.</p></li>
-<li><p>Explore HIIT/SIT<sup>4</sup></p></li>
+<li><p><a href="https://www.knotes.co.in/posts/hiit">Explore HIIT/SIT</a><sup>4</sup></p></li>
 </ul>
 
 
