@@ -1,0 +1,157 @@
+---
+title: "Aseptic Loosening of THR"
+order: 5
+---
+
+## Classification
+
+### Gruen Zones
+
+1-7 starting at GT ending at Calcar
+
+### Charnley Zones
+
+1-3 starting laterally ending medially
+
+### Key Feature
+
+Progression of lucent lines is the key feature
+
+*Reference: Canale T (2002) Campbell’s Operative Orthopaedics, 10th edition, Mosby*
+
+## Femoral Stem
+
+### Cemented Stem Loosening
+
+#### 9 Possible Radiologic Findings to Note:
+
+1.  Radiolucency between stem and cement mantle\
+2.  Radiolucency between cement and bone\
+3.  Subsidence of stem within cement mantle\
+4.  Subsidence of cement mantle within bone\
+5.  Stem position changed to varus\
+6.  Bending of the stem\
+7.  Fracture of the stem\
+8.  Rarefaction of the cement or fragmentation of cement\
+9.  Cement mantle fracture (usually at stem tip – zone 4)
+
+## Differentiating Age-Related Changes from Loosening
+
+### With Aging:
+
+-   Femur expands to compensate for decreased bone mass\
+-   Leads to lucency at the bone-cement interface (does not indicate a loose stem)
+
+#### Features of Age-Related Changes:
+
+-   No sclerotic line around lucent areas\
+-   Lucency is uniform\
+-   No pain
+
+#### Features of True Loosening:
+
+-   Lucent areas are scalloped and non-uniform\
+-   Sclerotic lines present where remodeling has occurred\
+-   Pain is present
+
+## Technical Errors Contributing to Poor Cement Mantle
+
+1.  Removal of all cancellous bone\
+2.  Stem movement while cement hardening\
+3.  Cement voids (pigtail catheter, bone, blood, etc.)\
+4.  Inadequate pressurization\
+5.  Poor stem position – point contact with bone\
+6.  Inadequate cement mantle size (\<2mm or \<1/3 canal)
+
+## Modes of Cemented Stem Failure
+
+### Modes of Failure:
+
+Dependent on the quality of cement fixation in various zones around the stem.
+
+1.  **Pistoning (stem inside cement mantle)**\
+2.  **Pistoning (cement mantle within bone)**\
+3.  **Pivoting of mid-stem**\
+4.  **Pivoting at calcar**\
+5.  **Bending - cantilever**
+
+### Mode 1a: Pistoning (Stem Inside Cement Mantle)
+
+-   **Cause:** Inadequate bonding of cement with the whole stem\
+-   **Associated Finding:** Zone 4 cement fracture due to axial pistoning
+
+**XR Findings:**\
+- Stem subsidence\
+- Lucency in zones 1 and 2\
+- Distal cement fracture
+
+### Mode 1b: Pistoning (Cement Mantle Within Bone)
+
+-   **Cause:** Poor bonding of cement with bone
+    -   Inadequate pressurization\
+    -   Removal of all cancellous bone
+
+**XR Findings:**\
+- Lucency in all 7 zones\
+- Whole cement mantle subsidence with stem still incorporated
+
+### Mode 2: Pivoting of Mid-Stem
+
+-   **Cause:** Poor cement fixation proximal medially and distal laterally\
+-   **Mechanism:** Stem pivots around mid-point into varus
+
+**XR Findings:**\
+- Medial migration of proximal stem\
+- Lateral migration of distal stem\
+- Fracture around mid-stem pivot point (zones 2 and 6)
+
+### Mode 3: Pivoting at Calcar
+
+-   **Cause:** Poor distal cement fixation\
+-   **Mechanism:** Distal stem acts like a windscreen wiper while pivoting around the well-fixed calcar
+
+**XR Findings:**\
+- Lucency in zones 4 and 5\
+- Sclerosis and thickening around the stem tip
+
+### Mode 4: Bending - Cantilever
+
+-   **Cause:** Poor proximal fixation with solid distal fixation\
+-   **Outcome:** Stem bends as it is anchored distally and eventually fractures
+
+**XR Findings:**\
+- Lucency in zones 1, 7, 2, and 6\
+- Stem fracture
+
+## Uncemented Stem Loosening
+
+### Classification of Uncemented Stem Fixation:
+
+1.  **Well-Fixed Stem with Bony Ingrowth**\
+2.  **Stable Stem with Fibrous Ingrowth**\
+3.  **Loose Stem**
+
+### XR Features:
+
+#### Well-Fixed Stems:
+
+-   No radiolucent lines\
+-   May have cortical hypertrophy where porous coating ends\
+-   Proximal stress shielding indicates good, stable distal fixation
+
+#### Stable Fibrous Stems:
+
+-   Uniform radiolucent line \<1mm\
+-   Sclerotic line outlining the radiolucency\
+-   No subsidence
+
+#### Unstable Stems:
+
+-   Divergent, irregular radiolucent lines\
+-   Spot welds or areas of localized bone hypertrophy (e.g., at calcar or stem tip)\
+-   Indicate stem movement and lack of uniform loading
+
+### Summary of Key Findings:
+
+-   **Well-Fixed Stem:** No lucent lines, uniform hypertrophy\
+-   **Localized Hypertrophy:** At stem tip indicating pistoning or abnormal loading

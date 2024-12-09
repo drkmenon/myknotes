@@ -1,0 +1,192 @@
+# Avascular Necrosis of the Hip
+
+## Pathophysiology
+
+-   **Final common pathway is microvascular coagulation**, leading to:
+    -   Venous congestion
+    -   Retrograde arterial occlusion
+-   **Exact mechanism for each risk factor is unknown**
+
+## Causes
+
+**Common Causes:**
+
+1\. **Corticosteroids** – Most frequent
+
+2\. **Post Traumatic**
+
+3\. **Alcohol**
+
+4\. **Sickle cell disease**
+
+5\. **Caissons disease**
+
+**Uncommon Causes:**
+
+1\. **Irradiation**
+
+2\. **Smoking**
+
+3\. **HIV**
+
+4\. **Pregnancy**
+
+5\. **Coagulopathies**
+
+6\. **Inflammatory conditions (e.g., SLE)**
+
+7\. **Statins**
+
+\- **Many others**: Types of viruses or any state causing increased cortisol
+
+## Classification and Management Factors
+
+**Ficat System:**
+
+1\. **Stage 1**: XR normal, AVN on MRI (pre-collapse)
+
+2\. **Stage 2**: Sclerosis and cyst formation (pre-collapse)
+
+3\. **Stage 3**: Subchondral collapse (crescent sign)
+
+4\. **Stage 4**: Extensive femoral head collapse & acetabular degeneration
+
+**Steinberg Classification (Modification of Ficat):**
+
+1\. **Stage 0**: Normal XR, MRI & Bone Scan
+
+2\. **Stage 1**: Normal XR, Abnormal MRI or Bone Scan
+
+3\. **Stage 2**: XR features – sclerosis, cysts (pre-collapse)
+
+4\. **Stage 3**: Crescent sign – subchondral collapse
+
+5\. **Stage 4**: Femoral head deformation & flattening
+
+6\. **Stage 5**: Joint space narrowing
+
+7\. **Stage 6**: Advanced degenerative disease
+
+**Comparison of Ficat and Steinberg:** - Essentially the same, focusing on **Stage 3 (crescent sign)** as the critical stage. - Steinberg quantifies the degree of collapse and arthrosis better in stages 4, 5, and 6.
+
+### Quantification of Head Necrosis
+
+-   **Multiply the % involvement on AP view by % involved on lateral view**
+-   **50% on both views equates to 25% total volume involved**
+-   (0.5 \times 0.5 = 0.25) (25%)
+
+### Important Factors in Management Decisions:
+
+```         
+- **Size of necrotic lesion**
+- **Presence of the crescent sign**
+- **Degree of head collapse**
+- **Acetabular changes**
+```
+
+## Diagnosis
+
+**Clinical Presentation:** - **Groin pain, risk factors, limp, insidious chronic onset**
+
+**Imaging:**
+
+\- **XR**:
+
+ - Sclerosis & cysts
+
+ - Crescent sign
+
+ - Joint space narrowing
+
+ - Severe arthrosis
+
+\- **MRI**:
+
+ - 99% sensitivity and specificity for early diagnosis
+
+ - **Pathognomonic sign: Double line sign (present in 80%)**
+
+ - **MR appearances correspond to stage of AVN**:
+
+ - **Fat \> Blood \> Fluid \> fibrous tissue = Early \> Late disease**
+
+ - **High T1, Intermediate T2**
+
+ - **High T1, High T2**
+
+ - **Low T1, High T2**
+
+ - **Low T1, Low T2**
+
+## Management
+
+### Non-Surgical:
+
+-   **NWB (Non-Weight Bearing), USS (Ultrasound), and ECSW (Extracorporeal Shock Wave Therapy)**:
+    -   Not proven to help but useful to try if unfit for surgery
+-   **Bisphosphonates**:
+    -   May be helpful in slowing down the rate of head collapse but not currently recommended as first-line treatment
+
+### Surgical:
+
+-   **The treatment of choice** as it is proven to alter natural history
+-   **Bone conserving versus Arthroplasty**:
+    -   **Presence of the crescent sign** indicates arthroplasty (unless very small)
+-   **Core Decompression**:
+    -   **Ficat 1 or 2**
+    -   Small to medium necrotic lesion (30% max)
+    -   **Reduction of pressure relieves venous congestion**
+    -   Encourages neovascularisation
+    -   Cannulated drill or DHS reamer without the proximal large flute
+    -   Drill into the lesion but avoid joint penetration
+    -   Pre-op MRI to outline the area to aim for
+    -   Send reamings for histology
+    -   Some surgeons then insert non-vascularised bone graft up the channel ± BMP to encourage healing
+    -   **Not shown to be better than decompression alone**
+    -   **Results**:
+        -   70% good at up to 8 years
+        -   Smaller the lesion, the better the results
+        -   Not as good for steroid-induced AVN
+-   **Osteotomy**:
+    -   **Ficat 1-3**
+    -   Small localised lesions \<50%
+    -   Valgus, varus, or rotational osteotomy depending on location
+    -   Will not work in collapse \>50%
+    -   Rarely done in the UK due to issues with:
+        -   Non-union of osteotomy
+        -   Technical difficulty
+        -   Makes THR salvage more difficult
+    -   **Results**:
+        -   Good reported in Japan and Korea
+        -   Not reproduced in the West
+-   **Vascularised Bone Graft**:
+    -   **Ficat 1-3**
+    -   Lesions \<50% in size
+    -   Harvest mid-portion fibula
+    -   Drill and debride the necrotic lesion
+    -   Introducing the fibula into the drill track
+    -   A microvascular anastomosis is then performed between the peroneal vessels and the ascending lateral circumflex artery
+    -   **Results**:
+        -   Up to 90% success at 5 years in type 1-3 lesions
+        -   Useful for larger size lesions without significant collapse
+        -   Best results still in stage 1 or 2 pre-collapse
+    -   Time-consuming technique requiring a highly skilled team
+-   **Arthroplasty**:
+    -   **Ficat 3 or 4**
+    -   If stage 3 lesion should be of significant size
+    -   Older Patients – single operation
+    -   **Results of THR**:
+        -   As good for AVN as in OA (Osteoarthritis)
+        -   Avoid if possible in young but still has good outcomes
+    -   **Resurfacing contra-indicated**
+-   **Arthrodesis**:
+    -   An option for very young patients
+    -   Position of fusion is:
+        -   30 deg flexion
+        -   0-5 deg external rotation
+        -   0-5 deg adduction
+    -   **Results**:
+        -   Not as good as for fusion in OA (Osteoarthritis) – more non-union
+        -   5% have back pain
+        -   40% have ipsilateral knee pain
+        -   20% have contralateral hip pain

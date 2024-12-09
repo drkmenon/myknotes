@@ -8,6 +8,20 @@ nosite:
 date: 12.07.2024
 ---
 
+::: callout-note
+## Take home message
+
+High-volume, moderate-intensity, continuous, and frequent endurance training can negatively impact adaptations from resistance training.
+
+Endurance exercises pair well with a low-calorie diet and promote a longer lifespan.
+
+Resistance exercises go with a high-protein diet and enhance strength and balance.
+
+Mixing aerobic and resistance exercises may be avoided within the same session—there should be a gap of 3 to 24 hours between them, depending on your focus.
+
+Limit animal protein and strength training to 2 days a week; on other days, opt for lower protein intake and engage in aerobic exercises to maintain health and longevity.
+:::
+
 With significant increases in global life expectancy over the past century, largely due to advancements in public health and socio-economic advancement, the focus has shifted toward maintaining a high quality of life and promoting a longer health span rather than merely extending life. Since death is inevitable, prevention efforts aim to compress morbidity—reducing the duration and severity of illness and disability—toward the very end of life. This approach seeks to minimize the time individuals spend suffering from disease before passing, thereby improving overall well-being during ageing[@harrison2022].
 
 ![](images/compress.png)

@@ -1,0 +1,143 @@
+---
+title: "Instability"
+order: 6
+---
+
+## Risk Factors
+
+### Surgical Factors
+
+1.  Component malposition\
+2.  Inadequate offset restoration (abductors de-tensioned)\
+3.  Impingement – bony or component\
+4.  Shortening\
+5.  Poor soft tissue repair (especially posterior approach)\
+6.  Conversion of failed ORIF to THR
+
+### Patient Factors
+
+1.  Cognitive impairment\
+2.  High range of motion (ROM)\
+3.  Contact sports
+
+------------------------------------------------------------------------
+
+## Determinants of Hip Stability
+
+1.  Component design\
+2.  Component position\
+3.  Soft tissue tension\
+4.  Soft tissue function
+
+### Component Design
+
+#### Primary Arc Range
+
+-   Defines the ROM arc before impingement occurs\
+-   **Main determinant:** Head-neck ratio
+    -   Higher head-neck ratio = greater primary arc range
+
+#### Excursion Distance
+
+-   Distance traveled by the head before dislocation once impingement occurs\
+-   **Main determinant:** Head size
+    -   Excursion distance is half the head size
+        -   Example: 11mm for a 22mm head, 16mm for a 32mm head
+
+**Larger heads are inherently more stable because:**\
+1. Greater primary arc range (increased head-neck ratio)\
+2. Larger excursion distance
+
+#### Taper Size
+
+-   Narrower tapers increase the head-neck ratio and enhance stability\
+-   Collared stems tend to have larger necks, reducing the head-neck ratio
+
+#### Acetabular Augmentation
+
+-   Hooded cups are designed to aid stability but can lower the primary arc range\
+-   Constrained liners contain the head but drastically reduce the primary arc range
+    -   Leads to excessive stress transfer to the cup-bone interface, causing early loosening
+
+### Component Position
+
+-   A patient’s native hip has a larger head-neck ratio and larger head, making it inherently more stable
+
+**Goal:**\
+- Place THR in the middle of the patient’s functional range, providing leeway if the primary arc range is exceeded
+
+**Ideal Component Positioning:**\
+- **Cup anteversion:** 15–30 degrees\
+- **Combined anteversion:** 30–40 degrees\
+- **Cup inclination:** 35–45 degrees
+
+*Note: This may vary slightly based on the approach and implants used*
+
+### Soft Tissue Tension
+
+-   **Key muscles:** Abductors
+    -   Provide joint reaction force (JRF) to stabilize the hip
+
+**Impact of reduced offset or neck length:**\
+1. De-tensioning of abductors\
+2. Predisposing to trochanteric impingement in abduction
+
+### Soft Tissue Dysfunction
+
+-   Causes may be central or peripheral neurologic issues\
+-   Often multifactorial in elderly patients
+
+## Management of the Dislocated THR
+
+-   Hips that dislocate more than twice usually require revision surgery\
+-   Important to document the position of the hip and activity during dislocation\
+-   During closed reduction, document the position of instability
+
+### Use of Braces
+
+-   Not always necessary\
+-   Knee splints prevent flexion (posterior instability)\
+-   Abduction braces allow tissues to contract in a better position
+
+**Best predictor of successful revision surgery:**\
+- Understanding the cause of instability
+
+------------------------------------------------------------------------
+
+## Possible Causes & Solutions
+
+### Eccentric Poly Wear
+
+-   Common cause of dislocation\
+-   Rectified with poly exchange
+
+### Component Malposition
+
+-   Diagnosed via X-ray or CT scans\
+-   Must be revised even if well-fixed
+
+### Inadequate Offset or Neck Length
+
+-   Revision needed to restore or increase abductor tension
+
+### Increasing Head Size
+
+-   Increases primary arc and excursion distance
+
+### Trochanteric Advancement
+
+-   Useful for increasing abductor tension if all else is satisfactory\
+-   Not effective for trochanteric escape or pull-off
+
+### Constrained Liner
+
+-   Last resort after addressing all other factors
+
+### Conversion to Hemiarthroplasty
+
+-   Not possible with acetabular defects (risk of intra-pelvic migration)\
+-   Suitable for low-demand patients
+
+### Resection Arthroplasty
+
+-   Absolute last resort for low-demand patients where all else has failed

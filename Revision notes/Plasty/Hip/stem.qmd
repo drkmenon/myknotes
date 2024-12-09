@@ -1,16 +1,17 @@
 ---
 title: "Cemented Stem"
+order: 1
 ---
 
--   **Best Long-Term Results**:\
-    Partly because there are many uncemented designs without equivalent longevity.
+**Best Long-Term Results**:\
+Partly because there are many uncemented designs without equivalent longevity.
 
 ------------------------------------------------------------------------
 
 ### Evolution of Cementing Technique
 
 | **Generation** | **Technique** | **Features** |
-|------------------|------------------------|------------------------------|
+|-------------------|------------------------|------------------------------|
 | **1st** | Finger Packing | Sharp-edged stem. |
 | **2nd (1975)** | Cement Gun (retrograde) | Pulse lavage, pressurization. |
 | **3rd (1982)** | Vacuum Mixing (porosity reduction) | Canal brushed/dried, stem centralizer, cement restrictor, rough stem finish. |

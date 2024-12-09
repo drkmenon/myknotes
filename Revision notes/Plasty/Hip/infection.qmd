@@ -1,0 +1,272 @@
+---
+title: "Periprosthetic Joint Infection"
+order: 7
+---
+
+## MSIS Criteria
+
+The **Musculoskeletal Infection Society (MSIS)** proposes a new definition for prosthetic joint infections:
+
+### Major Criteria (Diagnosis can be made when \[1\] major criterion exists)
+
+1.  Sinus tract communicating with prosthesis\
+2.  Pathogen isolated by culture from 2 separate tissue/fluid samples from the affected joint
+
+### Minor Criteria (Diagnosis can be made when \[4/6\] of the following minor criteria exist)
+
+1.  Elevated ESR (\>30mm/h) or CRP (\>10mg/L)\
+2.  Elevated synovial WBC (\>1,100 cells/μL for knees, \>3,000 cells/μL for hips)\
+3.  Elevated synovial PMN (\>64% for knees, \>80% for hips)\
+4.  Purulence in affected joint (*Note: This finding alone is insufficient as fluid from metal-metal articulation, gout, etc., can resemble pus*)\
+5.  Pathogen isolation in 1 culture\
+6.  5 PMN per HPF in 5 HPF at ×400 magnification (intraoperative frozen section of periprosthetic tissue)
+
+## Epidemiology
+
+-   Occurs in \~1% of primary joints and \~5% of revisions\
+-   Knees \> Hips
+
+## Risk Factors
+
+-   Superficial infection\
+-   Hematoma and wound ooze\
+-   Inflammatory arthropathy\
+-   Diabetes\
+-   Immunosuppressive drugs\
+-   Poor nutrition\
+-   Revision surgery\
+-   Peri-operative infection at another site\
+-   Malignancy or prior radiotherapy
+
+## Prevention
+
+### Pre-Operative
+
+-   Screening for MRSA, ulcers, and UTI\
+-   Admission on the day of surgery to a ring-fenced ward\
+-   Urine dipstick test on admission day\
+-   Optimization of comorbidities and nutrition
+
+### Peri-Operative
+
+-   Laminar flow – Ex Flow (well-maintained and regularly tested)\
+-   Low traffic\
+-   Antibiotics within 1 hour of incision\
+-   Antibiotic-loaded cement\
+-   Shaving at the time of surgery\
+-   Good handwashing technique\
+-   Draping with disposable drapes and ioband\
+-   Opening sets within laminar flow\
+-   Efficient surgery, good hemostasis, and sound wound closure\
+-   No hypothermia or hypotension
+
+### Post-Operative
+
+-   Interactive dressing\
+-   Minimize dressing changes\
+-   Cultivate infection control – use of alcoholic gel; bare below elbows, etc.\
+-   Minimize unnecessary transfusions\
+-   Post-operative antibiotics for 24 hours\
+-   Early mobilization and physiotherapy\
+-   Optimal medical management\
+-   Timely but safe discharge
+
+## Classification
+
+1.  **Acute** – Within 1 month\
+2.  **Late Chronic** – \>1 month, indolent chronic infection\
+3.  **Acute Hematogenous** – Many years later in a previously sterile joint\
+4.  **Subclinical** – Found only on intra-operative cultures
+
+## History & Examination
+
+-   Hints at the type of infection and differentiates it from other causes\
+-   **Pain** – Cardinal feature (95% of infected joints have pain)
+    -   Rest pain, night pain, worsening pain (differentiates from loosening)\
+-   Systemic upset\
+-   Recent infection elsewhere – acute hematogenous
+
+## Radiology
+
+### X-Ray
+
+-   Periosteal reaction\
+-   Foci of osteolysis (rather than lucent lines seen in loosening)\
+-   Cortical destruction\
+-   Bone loss without significant prosthetic wear
+
+### Bone Scans
+
+-   Standard bone scan: **99% sensitivity**, but only **40% specificity**\
+-   Triple-phase scans: Improve specificity to **95%**
+    -   **Technetium-99** – Detects inflammation\
+    -   **Indium-111** – Detects leukocytes (may also be present in loosening)
+
+### PET Scan
+
+-   Uses fluorinated glucose – migrates to areas of high metabolic activity\
+-   **98% sensitivity and specificity** reported
+
+## Blood Tests
+
+### Combined CRP and ESR
+
+-   **99% sensitivity, 90% specificity**\
+-   ESR elevated up to 90 days post-op; CRP up to 21 days\
+-   Rising trend is worrisome
+
+### Interleukin-6
+
+-   Useful for diagnosis and monitoring\
+-   Expensive
+
+## Joint Aspiration
+
+-   **Sensitivity:** 50-90%, **Specificity:** 95%\
+-   Sensitivity increases with repeat aspirations and avoiding antibiotics\
+-   Specificity improves with good technique (reduces false positives)
+
+### Synovial Fluid WCC
+
+-   1,100 WCCs & 70% neutrophil differential diagnostic in knees (Parvizi)
+
+-   3,500 WCCs and 75% neutrophil differential diagnostic in all joints (Dalle Valle)
+
+## Microbiology
+
+### Gram Stain
+
+-   Poor sensitivity (25%)\
+-   Negative Gram stain is meaningless\
+-   Positive Gram stain almost certainly indicates infection
+
+### Frozen Section
+
+-   5 PMNs/HPF = positive
+
+-   **Specificity:** 85%, **Sensitivity:** 95%
+
+-   Useful for equivocal pre-op evaluation or worrisome intra-op appearance
+
+### Molecular Techniques
+
+-   PCR amplifies bacterial DNA (*risk of false positives due to contamination*)\
+-   Bacterial gene and protein targeting (*not widely available*)
+
+## Bacteriology of Periprosthetic Infection
+
+### Staphylococcus
+
+-   **Staph aureus:** Main coagulase-positive species
+    -   Secretes coagulase, converting fibrinogen to fibrin → Clotting protects against phagocytosis\
+-   **Staph epidermidis:** Main coagulase-negative species
+    -   Less virulent, but highly pathogenic within a biofilm
+
+### Glycocalyx and Biofilm
+
+-   **Glycocalyx**: Protective layer secreted by bacteria; increases resistance to phagocytosis and adhesion to metal\
+-   **Biofilm**: Bacterial community within a glycocalyx
+    -   Takes \~4 weeks to form\
+    -   Makes bacteria even more resistant to phagocytosis, better at adhering, and self-sufficient
+
+## Management Options
+
+1.  **Non-Operative** – Suppression with long-term antibiotics\
+2.  **Washout and Debridement with Prosthetic Retention**\
+3.  **Single- or Two-Stage Joint Revision**\
+4.  **Resection Arthroplasty/Arthrodesis**\
+5.  **Amputation**
+
+### Washout and Prosthetic Retention
+
+-   Large volume irrigation\
+-   Exchange easily removable implants (e.g., femoral heads, polyethylene)\
+-   Long-term antibiotics (6 weeks)\
+-   Only viable \<4 weeks due to biofilm formation\
+-   Suitable for acute or acute hematogenous infections
+
+### Two-Stage Joint Revision
+
+#### Prerequisites
+
+-   Fit patient with adequate bone and soft tissue\
+-   Serologic and tissue-proven eradication of infection
+
+#### First Stage
+
+-   Thorough debridement, removal of all prosthetic material (including cement)\
+-   Multiple cultures (≥5 samples)\
+-   Spacer implantation
+
+#### Interim Stage
+
+-   IV antibiotics for 6 weeks\
+-   Antibiotic-free period for 2 weeks → Aspiration and ESR/CRP testing
+
+#### Second Stage
+
+-   Frozen section (\>5 PMNs in 3/5 samples = ongoing infection)\
+-   Negative: Proceed to revision; Positive: Re-debride and re-insert spacers
+
+**Results:** 90-95% success
+
+### Single-Stage Revision
+
+#### Prerequisites
+
+-   Identified sensitive organism\
+-   Adequate bone and soft tissue coverage
+
+#### Surgical Principles
+
+-   Aggressive debridement, irrigation, and removal of prosthesis\
+-   New prosthesis implantation with antibiotic cement\
+-   Long post-operative antibiotics
+
+**Results:**\
+- Not as successful as two-stage revisions\
+- Better in hips than knees
+
+### Excision Arthroplasty
+
+-   For non-ambulatory or frail patients
+
+### Arthrodesis
+
+-   For ambulatory patients
+
+### Amputation
+
+-   For cases with inadequate bone or soft tissue
+
+### Antibiotic Cement Spacers
+
+#### Benefits
+
+-   Maintains tissue planes\
+-   Prevents instability\
+-   Preserves mobility\
+-   Allows local antibiotic delivery\
+-   Eases the second stage
+
+#### Types of Spacers
+
+1.  **Static:** Minimal motion, risk of soft tissue issues\
+2.  **Dynamic:** Allows mobility, better soft tissue maintenance
+
+#### Antibiotic Choice
+
+-   Heat-stable, water-soluble antibiotics (e.g., vancomycin, tobramycin)
+
+#### Factors Affecting Elution
+
+1.  Antibiotic type\
+2.  Cement type\
+3.  Porosity\
+4.  Surface area\
+5.  Mixing technique
+
+#### Antibiotic Dosing
+
+-   Limit: 8g per 40g of cement\
+-   Common: 3.2g tobramycin + 3g vancomycin per 40g

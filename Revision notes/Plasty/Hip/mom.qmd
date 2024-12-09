@@ -1,0 +1,236 @@
+---
+title: "Metal on Metal Hip Arthroplasty"
+order: 10
+---
+
+### Main properties of MOM:
+
+**Good** - **Fracture toughness** - **Hard**\
+- **Low surface roughness**\
+- **Small size particle generation (50-100nm)**\
+- **Low biologic activity**\
+- Macrophage need 0.1 – 0.5 micrometer to be most active\
+- **Self-Healing**\
+- Small scratches polished out with articulation\
+- **Very Resistant to abrasive wear**\
+- **Osteolysis not a major problem**
+
+**Bad** - **Produce greater number of particles**\
+- Especially during initial 2 years\
+- Bedding in period after which particle volume plateaus\
+- This is greater in implants with greater radial clearance
+
+### Wear mode of MOM Articulations
+
+-   **Adhesive**
+    -   Overcome by use of alloys with greater carbide (molybdenum)
+
+### Lubrication in MOM
+
+-   **Predominantly Fluid film lubrication exists in MoM bearings**\
+-   In past were equatorial bearing
+    -   High frictional torque, jamming, high failure\
+-   No fluid able to seep into articulation and lubricate\
+-   When the cup and head are manufactured from the same cast
+    -   E.g. original BHR\
+-   If pure polar bearing
+    -   Much lower frictional torque\
+    -   Excessive point contact, stress concentration and wear\
+-   **Ideal is Mid-Polar contact**
+    -   Needs a cup head clearance of 90-200 micrometers\
+    -   i.e. a size mismatch
+
+### Problems:
+
+-   **Metal ion dissemination into the blood stream**\
+-   **Potential for carcinogenesis**\
+-   **Occurrence of mettalosis \> ALVAL \> pseudotumours**
+
+### MoM soft tissue problems
+
+-   **Metallosis**
+    -   Macroscopic staining of the soft tissues\
+-   **ALVAL**
+    -   Aseptic Lymphocytic Vasculitis Associated Lesions\
+    -   Histological diagnosis\
+    -   May be present with or without metallosis\
+-   **Pseudotumour**
+    -   Cystic/Solid mass lesion\
+    -   Often has a synovial like bio-membrane\
+    -   Secretes collagenase, IL-1 and TNF alpha and beta\
+    -   Therefore can cause osteolysis chemically & mechanical destruction due to size\
+    -   Presentation
+        -   Pain
+        -   Mass
+        -   Dislocation
+        -   Nerve compression\
+    -   Diagnosed by imaging or macroscopically\
+    -   Usually but not always symptomatic\
+-   **ARMD**
+    -   Adverse Reaction to Metal Debris\
+    -   An umbrella term for all of the above\
+    -   All or only one may be present\
+    -   Metallosis does not necessarily progress to Pseudotumour formation\
+    -   Main metal found in tissues is Chromium III\
+    -   Molybdenum, Cobalt present sporadically
+
+### Aetiology
+
+-   **Two main theories**:
+    1.  **Wear debris related cytotoxicity**\
+    2.  **Hypersensitivity reaction**
+
+### Wear related Cytotoxicity
+
+-   **Caused by component malposition & edge loading**\
+-   Primarily increased cup inclination\
+-   Previously thought to occur in a dose dependent local cytotoxic response\
+-   But, retrieval analysis on the ASR shows that a true vasculitis may occur\
+-   **ALVAL can occur in presence of**
+    -   Normally aligned components\
+    -   Non MoM articulations\
+-   **Therefore, this is a spectrum where at the most benign end, there is a normal physiological response to metal debris which occurs in all Hip Replacements**\
+-   **Problems occur when the physiologic response is heightened**
+    -   Excessive metal debris
+    -   Patient related factors – genetics, hypersensitivity etc.
+
+### Hypersensitivity
+
+-   **True Type 4 Hypersensitivity reactions have been reported but are rare**\
+-   **Hypersensitivity is thought to be overstated**
+
+### Local Effects of Metal Debris
+
+-   **Metal wear produces higher volume of smaller particles**\
+-   **These particles has a higher surface area than MoP debris**\
+-   **This makes it more biologically active**\
+-   **Metal ions especially Cobalt cause cell death once ingested by macrophages**\
+-   **Inhibit osteoblastic activity**\
+-   **Contributes to the cascade of biological events that result in osteolysis**\
+-   **Cause a local immune response of uncertain aetiology**
+
+### Systemic Effects of Metal Debris
+
+-   **Circulating metal ion levels increase in MoM articulations**\
+-   **They vastly increase if the implants are loose or malpositioned**\
+-   **No proven effect on organ function despite reports of seeding in solid organs**\
+-   **Metal ions are excreted in urine therefore renal failure is a contraindication**
+
+### Carcinogenesis
+
+-   **Chromium IV is related to causing lung cancer**\
+-   Meta analysis of over 1 million person years follow up (Onega study)
+    -   No attributable increase in cancer found although some cancers increased and some decreased in frequency\
+    -   But we need to be vigilant because\
+    -   Follow up is relatively short (11yrs)\
+    -   Malignancy may take up to \>30 yrs to develop
+
+### Teratogenicity
+
+-   **Committee on Mutogenicity have reported that internal exposure to metal ions can cause genotoxicity**\
+-   **Animal studies have shown effect of teratogenicity**\
+-   **Metal ions can cross placenta**\
+-   **No evidence thus far shown of teratogenicity in humans**\
+-   **But, implications are severe therefore avoid in young females**
+
+### Incidence
+
+-   **Dependent on implant type**\
+-   **Less in Resurfacings**
+    -   More in female resurfacings – smaller sizes/head-neck ration\
+-   **Asymptomatic incidence estimated at 4%**\
+-   **Symptomatic incidence between 1-5%**
+
+### Risk Factors
+
+-   **Implant positioning**
+    -   Positive correlation by higher inclination angles and revisions with– edge loading\
+    -   In vitro studies confirm the increase in metal wear debris\
+    -   XS anteversion proposed as a cause also but not proven\
+    -   4X reduction in pseudotumours when alignment within 10 deg of recommended\
+    -   40 deg inclination and 20 deg anteversion angles in resurfacing\
+-   **Implant size**
+    -   Smaller sized resurfacing implants have increased wear rate due to impingement\
+    -   Smaller component sizes in resurfacing shown to increase pseudotumour incidence\
+-   **Gender**
+    -   Increased Pseudotumour formation in women with MoM articulations\
+    -   Mainly for above reasons
+
+### The ASR
+
+-   **Non-hemispheric cup to increase ROM**\
+-   **Resulted in reduced head coverage, edge loading, wear osteolysis and ALVAL**\
+-   **Much more technically demanding**
+    -   Implant in the correct position
+
+### Resurfacing vs THR
+
+-   **THR MoM implants shown to have higher levels of serum metal ions**\
+-   **Trunion wear and neck cup impingement implicated as cause**\
+-   Trunion wear made worse by large THR bearings
+
+### Specific Hip Resurfacing Complications
+
+-   **Femoral Neck Fracture (2%)**
+    -   Risk factors – patient and surgical dependent factors\
+    -   Females\
+    -   Poorer quality bone\
+    -   Smaller head Size\
+    -   More cement penetration and bone necrosis\
+    -   Smaller Head size\
+    -   Neck impingement on cup\
+    -   Higher risk of notching\
+-   **Superior neck notching**\
+-   **Varus positioning**\
+-   **Less Surgeon experience – learning curve**
+
+### Post operative AVN Avascular Necrosis
+
+-   **Exacerbated by**
+    -   Posterior Approach\
+    -   Thermal necrosis of head\
+    -   Cylindrical reaming of hard bone\
+    -   Deep cement penetration\
+    -   Predisposes to neck fracture which is how it usually presents
+
+### ARMD
+
+-   **Umbrella term for MoM soft tissue problems**
+
+### When Should THR Components be revised?
+
+-   **Some papers show evidence of progression of metallosis**\
+-   **Early revision for pseudotumour shown to have better outcome than late revision**\
+-   **Likely due to less soft tissue destruction**\
+-   **Early revision recommended for these reasons**
+
+### Results of Revision
+
+-   **Worse for Pseudotumour than for any other cause of failure**\
+-   **Worse if revision delayed**
+
+### How Long Should MoM Hip Replacements be followed up?
+
+-   **MHRA Guidelines from report published in June 2012**
+-   **Resurfacing**
+    -   Symptomatic
+        -   MARS scan
+        -   Consider revision if MARS positive and metal ions elevated\
+    -   Metal ion levels
+        -   If \>7 ppb then repeat - If rising and still \>7ppb consider revision\
+    -   Follow up yearly for life\
+    -   **Asymptomatic**
+        -   Follow up as per local protocols\
+        -   No need for investigation\
+-   **MoM THR with head size \<36mm**
+    -   Exactly same as resurfacing\
+-   **MoM THR head size \>36mm**
+    -   All should have metal ion levels\
+    -   All should be followed up yearly for life regardless of symptoms\
+    -   MARS if blood ion levels elevated or symptomatic\
+    -   Revision if serial levels \>7ppb, patient symptomatic or destructive lesion\
+-   **ASR**
+    -   All should have MARS and metal ion levels regardless of symptoms\
+    -   All followed for life\
+    -   Revision according to same criteria above\
+    -   7 parts per billion = 119nmol/L cobalt and 135 nmol/L Chromium do same

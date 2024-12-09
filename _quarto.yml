@@ -84,8 +84,8 @@ format:
   html:
     theme:
      journal
-    mainfont: sans-serif
-    fontsize: 1.0rem
+    mainfont: palatino
+    fontsize: 1.1rem
     fontcolor: "#1c1c1c"
     linkcolor: blue
     backgroundcolor: white

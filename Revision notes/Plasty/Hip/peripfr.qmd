@@ -1,0 +1,116 @@
+---
+title: "Periprosthetic Fractures of the Hip"
+order: 9
+---
+
+## Acetabular Fractures
+
+-   **Occurs during cup impaction or cup removal in revision surgery**
+-   **Often identified post-operatively**
+-   **Must have a high index of suspicion for at-risk cases**
+
+### **Intra-operative Risk factors**:
+
+1.  Uncemented cup
+2.  Press fit cup
+3.  Under-reaming by \>2mm
+4.  Impaction of the cup in a position different to that reamed
+5.  Poor bone quality – osteoporosis/Paget’s disease
+6.  Revision surgery during component extraction and impaction
+
+### **Post-operative Risk factors**:
+
+1.  Trauma
+2.  Poor quality bone
+3.  Infection, osteolysis, loose implants
+
+### **Classification**:
+
+There are classification systems (Paprosky etc.) but the key questions are:
+
+1.  Is the fracture displaced?
+2.  Is the cup stable?
+3.  What is extent of fracture? (Wall fracture; column fracture, discontinuity)
+4.  Is there adequate bone stock? (\>50%)
+
+### **Management**:
+
+Principles are essentially the same for intra and postoperative fractures
+
+-   **Undisplaced with stable cup**:
+    -   Supplementary cup screws, restricted weight bearing and vigilance
+-   **More extensive fracture with stable cup**:
+    -   Prophylactic fixation if intra-operative then standard cup with screws
+    -   If postoperative: vigilance for migration and low threshold for revision
+-   **Displaced with unstable cup**:
+    -   Fix fracture with screws or recon plate if necessary
+    -   Ream line to line; supplement with cup screws
+    -   Consider jumbo, trabecular metal cup if some bone loss
+-   **Posterior column fracture with unstable cup**:
+    -   Fix fracture with plate then use large trabecular metal cup with screws
+-   **Pelvic discontinuity**:
+    -   May not be stabilisable with plating alone
+    -   Be prepared to supplement with cup cage construct or allograft
+-   **Bone loss associated with any situation**:
+    -   \< 50% bone loss
+
+        -   Large trabecullar metal cup with screws, augments, impaction grafting options
+
+    -   50% bone loss
+
+        -   Consider cup cage constructs with impaction grafting, cement, trabecullar metal or supplementary allograft options
+
+## Femoral Fractures
+
+### **Intra-operative Risk Factors**:
+
+-   Anatomic variants to proximal femur
+-   Excessive femoral bow (e.g. Paget’s)
+-   Poor bone quality (e.g. osteoporosis, rheumatoid)
+-   Uncemented stems esp. fully porous coated
+-   Cylindrical non-anatomic stems
+-   Revision surgery during cement removal and large stem insertion
+
+### **Postoperative Risk Factors**:
+
+-   Trauma
+-   Infection, osteolysis and loosening
+-   Stress risers from stem design
+-   Osteoporosis
+
+### **Typical fractures around different stems post operatively are**:
+
+-   Extensive coated – at tip or distal
+-   Proximal coated – where porous coating is jammed into femur (B type)
+-   Cemented – same mode as extensive coated due to load distribution
+-   Cemented tend to fracture later than uncemented
+-   Cemented B type due to resorption of cement bone interface with time
+
+### **Classification – Vancouver Post-operative and Intra-operative**:
+
+**Postoperative**:
+
+-   AG or AL Treat depending on degree of displacement and dysfunction
+-   **Options include TBW; Claw plate; cabling etc.**
+-   **B1**: At level of stem or just distal with well fixed stem and good bone
+-   **B2**: Loose stem; good bone stock
+-   **B3**: Loose stem with poor bone stock
+-   **C**: Distal to stem – does not affect stem stability
+
+**Intra-operative**:
+
+-   Type A, B and C by location and divided into subtypes
+-   **Type A**:
+    -   A1 Leave alone or bone graft
+    -   A2 Cerclage wiring or claw plate
+    -   A3 As above or use long stem plus ORIF if stem destabilised
+-   **Type B**:
+    -   B1 Make sure stem bypasses perforation by 2 cortical diameters
+    -   B2 Cerclage wiring or plating and bypass by 2 cortical diameters
+    -   B3 Lean towards plating =/- strut grafts and bypass by 2 diameters
+-   **Type C**:
+    -   C1 Non-operative or strut grafts and cables to prevent propagation
+    -   C2 ORIF with plate overlapping stem
+    -   C3 As for C2 but may also use strut grafts
+-   **Revision stems**:
+    -   Need 4cm of isthmus to gain reliable hold and should pass the most distal defect by at least 2 cortical diameters

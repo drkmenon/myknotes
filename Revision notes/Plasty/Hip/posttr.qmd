@@ -1,0 +1,74 @@
+---
+title: "Total Hip Replacement in Post Trauma"
+---
+
+## Possible Indications for Primary THR for Fracture
+
+-   **High demand patient**
+-   **Pre-existing symptomatic arthritis**
+-   **Paget’s disease**
+-   **Rheumatoid arthritis**
+
+## Problems with Femoral Neck Non-unions or Failed Fixation
+
+-   **Avascular Necrosis (AVN)**
+    -   **Hypervascular tissues and more blood loss**
+-   **Non-Union**:
+    -   Free trochanter, etc.
+-   **No calcar in IT fractures**:
+    -   Deformity, shortening, and contracture
+-   **Scarring of nerves**
+-   **Poor Bone Quality**
+-   **Retained Hardware**
+
+### AVN
+
+-   **Hypervascular tissues and more blood loss**
+
+### Shortening
+
+-   **Soft tissue contracture**:
+    -   Multiple releases required to expose, maintain stability, and provide range of motion
+
+### Trochanteric Non-unions
+
+-   **May need a calcar replacing stem ± claw plate**
+
+### Existing Metalware
+
+-   **Remove if possible**
+-   **Consider strut grafts to support weak bone**
+-   **Plug holes to prevent cement extrusion**
+-   **Uncemented prostheses if possible but not strictly necessary**
+-   **Bypass screw holes by two bone diameters** to avoid stress riser
+
+## Acetabular Fractures
+
+-   **Primary THR may be indicated if**:
+    -   Co-existing neck fracture
+    -   Pre-existing arthritis
+    -   High demand with irreconstructable fracture
+
+### Problems with Old Acetabular Fractures
+
+-   **Bone Loss**:
+    -   Especially posterior \> cup retroversion
+-   **Medialise cup**
+-   **Use structural graft to support uncovered posterior cup**
+-   **Exposure difficult due to scarring**
+-   **Deformity due to malunion**
+-   **Protrusio**
+-   **Displacement of NV structures**
+-   **Retention of hardware if previous acetabular ORIF**:
+    -   Remove if possible or ream and remove as becomes apparent
+    -   Leave what does not interfere with cup placement
+
+## Considerations in Proximal Femoral Deformity
+
+-   **Soft tissue problems**
+-   **Difficulty accessing the canal due to sclerotic bone**:
+    -   Use high speed burrs, drills or open retrograde via subtrochanteric osteotomy
+-   **Calcar replacement stems if necessary**
+-   **DDH stems if very small or deformed canal**
+-   **Osteotomy, realignment then bypass with long uncemented stem**
+-   **Distal deformities can be ignored but may lead to early implant failure**

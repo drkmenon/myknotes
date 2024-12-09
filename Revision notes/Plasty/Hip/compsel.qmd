@@ -1,5 +1,6 @@
 ---
 title: "Component Selection in THR"
+order: 3
 ---
 
 ## Stem Length, Stem Diameter, Neck Length, Medial Offset, Vertical Height

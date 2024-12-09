@@ -1,0 +1,79 @@
+---
+title: "Management of Acetabular Bone Loss"
+order: 8
+---
+
+### CAUSES of Bone Loss
+
+-   **Osteolysis**
+    -   Wear debris induced (most common)
+    -   Implant migration – traumatic/atraumatic
+    -   Infection
+-   **Fracture**
+-   **Iatrogenic (intra-operative)**
+-   **Stress Shielding**
+
+### DIAGNOSIS
+
+-   Plain XR
+-   Judet views
+-   CT scan
+
+### STAGING/CLASSIFICATION – PAPROSKY
+
+Depends on: 1. Degree of bone loss 2. Degree of migration 3. Maintenance of acetabular rim
+
+-   **TYPE 1**
+    -   Minimal bone loss
+    -   No migration
+    -   Intact rim
+-   **TYPE 2**
+    -   \<50% bone loss
+    -   \<3cm migration
+    -   Intact rim
+-   **TYPE 3**
+    -   50% bone loss
+
+    -   3cm migration
+
+    -   Loss of rim
+
+(These are subdivided into a, b, c depending on position of bone loss – ischial loss being worst and position of migration)
+
+### MANAGEMENT OPTIONS
+
+#### IMPACTION GRAFTING
+
+-   Morcelised graft impacted by reverse reaming
+-   Cup can be cemented but usually uncemented in situ
+-   Supplement with screws and use large (jumbo) cups if necessary
+-   Needs an intact rim in place
+
+#### JUMBO CUPS + IMPACTION GRAFTING
+
+-   For larger defects
+-   Needs \>50% intact host bone
+-   Supplement with screws and graft
+-   Cups are porous/trabecular metal/HA coated
+-   (More often than not, the above 2 methods will suffice)
+
+#### ANTIPROTRUSIO CAGES
+
+-   Indicated when there is extensive bone loss and no intact rim
+-   Require use of cement, therefore longevity in question
+-   Are placed over impaction grafting – work by spreading the load of the cup over a wider area
+-   Require greater dissection ∴ dislocation risk increased
+
+#### STRUCTURAL ALLOGRAFTS +/- CAGE
+
+-   Use large grafts to fill defects then cages and cement as necessary
+-   For severe defects in the hands of experts only
+
+#### HIGH HIP CENTRE
+
+-   Placement of cup about 3.5 cm above teardrop
+-   Utilises host bone BUT:
+    -   Shortens leg
+    -   Decreases abductor lever arm
+-   Therefore, use long neck/trochanteric slide/high offset stem, etc.
+-   Not a recommended practice but is an option

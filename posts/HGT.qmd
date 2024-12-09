@@ -10,8 +10,6 @@ nosite:
   -@bostonuniversity2010
 ---
 
-![Dalle 3 imagined picture of vertical wrinkle in the vast sea.](images/wrinkle.jpeg)
-
 ## Horizontal gene transfer (HGT) in the primitive world
 
 Carl Woese is one of the leading taxonomical microbiologists is the world. His paper "A New Biology for a New Century" discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.
