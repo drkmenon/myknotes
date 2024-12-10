@@ -92,6 +92,7 @@ format:
     backgroundcolor: white
     css: styles.css
     toc: true
+    responsive: true
 
 editor: visual
 bibliography: references.bib

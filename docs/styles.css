@@ -12,4 +12,36 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* Make tables responsive */
+table {
+    width: 100%;
+    overflow-x: auto; /* Enables horizontal scrolling when necessary */
+    border-collapse: collapse;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 600px) {
+    table, th, td {
+        display: block; /* Make each row of the table a block element */
+    }
+    
+    th {
+        position: absolute;
+        left: -9999px; /* Hide header for small screens */
+    }
+    
+    td {
+        position: relative;
+        padding-left: 50%; /* Adjust for the header cell width */
+        white-space: nowrap; /* Prevent text wrapping in cells */
+    }
+    
+    /* Adjust the position of the cell content */
+    td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 10px;
+        font-weight: bold;
+    }
+}
 

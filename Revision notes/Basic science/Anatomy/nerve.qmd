@@ -91,7 +91,7 @@ The autonomic nerves originate from the grey matter of the spinal cord (T1 to L2
 ### **Nerve Fibre Types**
 
 | Fibre Type | Example | Myelination | Diameter (µm) | Velocity (m/s) |
-|-------------|--------------------|-------------|-------------|-------------|
+|----|----|----|----|----|
 | **Aα** | Motor (large diameter) | Myelinated | 20 | 100 |
 | **Aβ** | Organised sensory (hair) | Myelinated | 10 | 50 |
 | **Aδ** | Pain & Temperature | Myelinated | 5 | 25 |
@@ -107,7 +107,7 @@ Peripheral nerve injuries may result from **crush**, **traction**, **laceration*
 #### **Seddon Classification**
 
 | Type | Features | Sunderland Grade | Prognosis |
-|--------------|------------------------------|--------------|--------------|
+|----|----|----|----|
 | **Neuropraxia** | No Wallerian degeneration, conduction block | Grade 1 | Good |
 | **Axonotmesis** | Wallerian degeneration, axonal damage | Grade 2-4 | Moderate |
 | **Neurotmesis** | Complete nerve transection | Grade 5 | Poor |
