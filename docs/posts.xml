@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   215207    296251    342787    742272    434146 873044354 </code></pre>
+2.153e+05 2.955e+05 3.433e+05 2.965e+06 4.345e+05 2.390e+10 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  61803   64065   64509   64506   64926   67083 </code></pre>
+  62107   64062   64495   64500   64933   66941 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.563e+05 3.329e+06 5.580e+06 4.479e+07 1.185e+07 8.728e+10 </code></pre>
+9.803e+05 3.286e+06 5.672e+06 2.669e+08 1.183e+07 2.390e+12 </code></pre>
 </div>
 </div>
 </section>
@@ -812,91 +812,11 @@ Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jerem
 <p>Work: <strong><em>Pink roses in a white pot</em></strong></p>
 <p>Artist: Parvathy Menon</p>
 <p>Medium: Water-colour</p>
-<section id="aesthetic-appeal" class="level2">
-<h2 class="anchored" data-anchor-id="aesthetic-appeal"><strong>Aesthetic Appeal</strong></h2>
-<ol type="1">
-<li><p><strong>Colour Palette</strong>: The soft pinks of the roses complement the light, creamy yellow background, giving the painting a gentle and soothing appearance. The green leaves add contrast, balancing the overall composition.</p></li>
-<li><p><strong>Technique</strong>: The watercolour style with the soft blending of colours, especially in the background, creates a textured effect. The roses are more defined, with delicate shading, which enhances their three-dimensional look. The artist has achieved a nice balance between detail and softness.</p></li>
-<li><p><strong>Composition</strong>: Centering the pot and flowers focus the viewer’s attention directly on the subject. The background has a textured yet minimalistic feel, which avoids distracting from the focal point of the painting.</p></li>
-<li><p><strong>Lighting</strong>: The light effect in the background, with rays gently illuminating the roses, adds a warm, almost glowing atmosphere to the scene, giving the painting a serene and uplifting mood.</p></li>
-</ol>
-<p>Overall, it’s a beautifully executed piece, with a pleasing balance of colour, light, and composition. The artist’s choice to keep the background soft helps to bring out the details in the flowers, making them the highlight of the piece.</p>
-</section>
-<section id="technique" class="level2">
-<h2 class="anchored" data-anchor-id="technique">Technique</h2>
-<section id="blending-and-washes" class="level4">
-<h4 class="anchored" data-anchor-id="blending-and-washes"><strong>Blending and Washes</strong>:</h4>
-<p>The artist has used soft washes for the background, creating a subtle gradient effect with a warm, light yellow hue. This is well executed, as the blending of colours feels smooth and controlled. The watercolour medium shines here with its fluidity, giving the background an almost ethereal quality.</p>
-</section>
-<section id="texturing" class="level4">
-<h4 class="anchored" data-anchor-id="texturing"><strong>Texturing</strong>:</h4>
-<p>The background also features some interesting texture, possibly achieved through the “wet-on-wet” technique or dabbing with a sponge. This adds depth and dimension without overwhelming the focal point.</p>
-</section>
-<section id="detail-in-the-roses" class="level4">
-<h4 class="anchored" data-anchor-id="detail-in-the-roses"><strong>Detail in the Roses</strong></h4>
-</section>
-<section id="layering" class="level4">
-<h4 class="anchored" data-anchor-id="layering"><strong>Layering</strong>:</h4>
-<p>The roses themselves are rendered with more defined details, which indicates the artist’s understanding of how to layer watercolour effectively. Watercolor can be tricky when it comes to building layers, as it can easily overwork or muddy the paper. However, in this case, the artist has successfully built up the forms of the roses through layered washes and strategic shading, giving them a natural, soft appearance.</p>
-</section>
-<section id="shading-and-volume" class="level4">
-<h4 class="anchored" data-anchor-id="shading-and-volume"><strong>Shading and Volume</strong></h4>
-<p>The shading on the petals creates a sense of depth and realism, enhancing the three-dimensional look of the flowers. The artist has carefully shaded the undersides of petals and added highlights, showing an understanding of how light interacts with organic forms.</p>
-</section>
-<section id="control-and-precision" class="level3">
-<h3 class="anchored" data-anchor-id="control-and-precision"><strong>Control and Precision</strong></h3>
-<section id="clean-edges" class="level4">
-<h4 class="anchored" data-anchor-id="clean-edges"><strong>Clean Edges</strong></h4>
-<p>The edges of the leaves, stems, and the pot are fairly crisp, which is difficult to achieve with watercolors since the paint tends to bleed. The control here suggests the artist has a good grasp of when to let the paint flow and when to contain it.</p>
-</section>
-<section id="white-space" class="level4">
-<h4 class="anchored" data-anchor-id="white-space"><strong>White Space</strong></h4>
-<p>The white pot, while simple, is well-executed with minimal colour, relying on shading to define its form. The artist uses the white of the paper for highlights, which is a common watercolour technique that requires forethought and restraint.</p>
-</section>
-</section>
-</section>
-<section id="composition" class="level2">
-<h2 class="anchored" data-anchor-id="composition"><strong>Composition</strong></h2>
-<section id="centre-focus" class="level4">
-<h4 class="anchored" data-anchor-id="centre-focus"><strong>Centre Focus</strong></h4>
-<p>The composition is straightforward, with the roses placed centrally in the frame. This works well because the simplicity of the arrangement allows the viewer to focus entirely on the flowers. The pot anchors the composition, giving it a grounded feel.</p>
-</section>
-<section id="balance-between-foreground-and-background" class="level4">
-<h4 class="anchored" data-anchor-id="balance-between-foreground-and-background"><strong>Balance Between Foreground and Background</strong></h4>
-<p>The artist has balanced the detailed foreground (roses and pot) with the soft, flowing background. The focus remains on the flowers, yet the background supports them by providing a sense of light and warmth without being overly detailed or distracting</p>
-</section>
-</section>
-<section id="concept-and-meaning" class="level2">
-<h2 class="anchored" data-anchor-id="concept-and-meaning">Concept and meaning</h2>
-<p>The watercolour artwork featuring pink roses in a white pot against a soft yellow background evokes a sense of tranquillity, beauty, and simplicity.</p>
-<p><strong>Pink Roses</strong> traditionally symbolize love, grace, and <strong><em>gratitude</em></strong>.</p>
-<blockquote class="blockquote">
-<p>The choice of pink rather than bold red suggests a subtler, more refined expression of these feelings, leaning toward peacefulness and tenderness rather than passion.</p>
-</blockquote>
-<p><strong>White Pot as a Vessel</strong> symbolize purity and simplicity. It contrasts with the vibrant colours of the roses, serving as a neutral base that allows the beauty of the flowers to take center stage.</p>
-<blockquote class="blockquote">
-<p>The pot, being a vessel, might also suggest that beauty and love need nurturing and care to grow.</p>
-</blockquote>
-<p><strong>Soft Yellow Background</strong> brings warmth and light into the scene. Yellow often symbolizes optimism, happiness, and energy. The subtle gradient in the background, with light beams suggesting illumination, <strong><em>representing a positive, uplifting atmosphere, possibly signifying hope, joy, and a bright future</em></strong>.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Overall message
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>The overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in a humble, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.</p>
-<p>The warm, glowing background adds a timeless, ethereal quality to the image, almost as if it’s capturing a moment of peace that could last forever.</p>
-</div>
-</div>
-<p>In essence,</p>
-<p><span style="color: blue"><strong><em>the work reminds the viewer to find beauty in ordinary moments and to nurture the things that bring light and warmth into their lives.</em></strong></span></p>
+<p>Tender pink roses in a creamy yellow background with dark green leaves create an atmosphere of calmness and serenity. The painting is in watorcolour. Gentle blending and shading brings out the flowers’ three-dimensional quality, making them the focal point, while the subtle lighting effect adds warmth and serenity to the scene.</p>
+<p>The overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in an ordinary, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.</p>
+<p><code>The warm, glowing background adds a timeless, ethereal quality to the image, almost as if it's capturing a moment of peace that could last forever.</code></p>
 
 
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>art</category>
