@@ -1,0 +1,73 @@
+---
+title: "Ceramic Bearing in Total Hip Replacement"
+order: 16
+---
+
+### Factors Influencing the Rate of Head Fractures
+
+1.  **Quality of Impaction**
+    -   Performed along the axis of the neck of the prosthesis on a clean Morse taper.
+    -   Persistent tissue debris or a damaged Morse taper surface (e.g., scratches) can reduce static fracture load to **20%** of its normal value.
+2.  **Cleanliness of the Morse Taper During Impaction**
+    -   A clean, undamaged taper is essential to prevent fracture.
+3.  **Diameter of the Femoral Head**
+    -   **Advantages of Larger Head Diameters:**
+        -   Reduced risk of impingement between the neck and the rim of the ceramic liner or metal cup.
+        -   Increased range of motion.
+        -   Decreased risk of dislocation.
+    -   **Problems with Larger Head Diameters (\>36 mm):**
+        -   Positive offset develops as the head center moves outside the cup center, reducing head coverage angle.
+        -   Edge loading occurs during micro-separation phases (inevitable during walking).
+        -   Increased friction between bearing couple elements leads to noise (squeaking).
+        -   Potential ceramic surface modification, though the impact on fracture rates remains unknown.
+
+------------------------------------------------------------------------
+
+### Liner Fracture
+
+#### Contributing Factors:
+
+1.  **Implantation Techniques**
+2.  **Cup Design**
+3.  **Functional "Limits" During Edge Loading**
+
+#### Specific Issues with Cup and Liner:
+
+1.  **Thin Liners:**
+    -   Liners that are too thin are more prone to fractures, especially in 50-54 mm diameter cups.
+2.  **Cup Design:**
+    -   Cup diameter and thickness indirectly affect liner impaction quality.
+    -   Narrow Morse taper angles (\<10°) complicate insertion, increasing peripheral stresses.
+    -   Recent cups with longer Morse tapers (9 mm or 11 mm) aim to improve liner stability but present challenges with:
+        -   Tissue interposition.
+        -   Difficulties in cleaning the taper during minimally invasive procedures.
+        -   Deformation of perforated, non-impermeable metal cups during impaction.
+3.  **Insertion Issues:**
+    -   Misaligned impaction can result in peripheral stress and chipped edges.
+    -   Ceramic liners are rigid and cannot adapt to socket deformations, unlike polyethylene liners.
+
+------------------------------------------------------------------------
+
+### National Joint Registry (NJR) Data: 13-Year Revision Rates in THR
+
+| Fixation Type | Bearing Type | Revision Rate (\<55 years) | Revision Rate (\>55 years) |
+|----------------|----------------|---------------------|---------------------|
+| Cemented | MoP | 10 | 4.5 |
+| Cemented | CoP | 3.8 | 4.5 |
+| Cemented | CoC | \- | \- |
+| Uncemented | MoP | 7 | 6 |
+| Uncemented | CoP | 4.5 | 4.5 |
+| Uncemented | CoC | 6.5 | 5.5 |
+
+------------------------------------------------------------------------
+
+### Key Recommendations
+
+1.  **Fixation Preferences:**
+    -   Most patients choose **cemented fixation** with hard-on-soft bearings.
+2.  **Bearing Type Preferences:**
+    -   Ceramic bearings are preferred over metal.
+3.  **Patients Under 55 Years:**
+    -   Consider discussing **dynamic fixation** using uncemented components.
+4.  **Cup Design Considerations:**
+    -   Ensure appropriate liner thickness and proper Morse taper alignment to minimize risks of fracture and edge loading.
