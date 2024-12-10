@@ -6218,7 +6218,7 @@
     "href": "posts/montecarlo.html#visualisation-of-mean-income",
     "title": "Income distribution",
     "section": "Visualisation of mean income",
-    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n2.153e+05 2.955e+05 3.433e+05 2.965e+06 4.345e+05 2.390e+10 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  62107   64062   64495   64500   64933   66941 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n9.803e+05 3.286e+06 5.672e+06 2.669e+08 1.183e+07 2.390e+12",
+    "text": "Visualisation of mean income\n\n\nCode\n# Histogram of mean income from simulations\nhist(mean_income, breaks = 125, main = \"Histogram of Mean income from Monte Carlo Simulations\", xlab = \"Mean income\")\n\n\n\n\n\n\n\n\n\nCode\n# Summary statistics\nsummary(mean_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n   198422    295746    341035    578110    432295 557542329 \n\n\nCode\nsummary(median_income)\n\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  61941   64056   64491   64498   64930   67407 \n\n\nCode\nsummary(sd_income)\n\n\n     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. \n8.020e+05 3.282e+06 5.567e+06 2.851e+07 1.157e+07 5.571e+10",
     "crumbs": [
       "Home",
       "Blog",
@@ -6450,14 +6450,66 @@
   {
     "objectID": "posts/Pink roses.html",
     "href": "posts/Pink roses.html",
-    "title": "Pink roses in a white pot",
+    "title": "Little one’s creations",
     "section": "",
-    "text": "Pink roses in a white pot. Artist:Parvathy Menon\n\n\nWork: Pink roses in a white pot\nArtist: Parvathy Menon\nMedium: Water-colour\nTender pink roses in a creamy yellow background with dark green leaves create an atmosphere of calmness and serenity. The painting is in watorcolour. Gentle blending and shading brings out the flowers’ three-dimensional quality, making them the focal point, while the subtle lighting effect adds warmth and serenity to the scene.\nThe overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in an ordinary, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.\nThe warm, glowing background adds a timeless, ethereal quality to the image, almost as if it's capturing a moment of peace that could last forever.\n\n\n\n Back to top",
+    "text": "Pink roses in a white pot. Artist:Parvathy Menon\n\n\nWork: Pink roses in a white pot\nArtist: Parvathy Menon\nMedium: Water-colour\nTender pink roses in a creamy yellow background with dark green leaves create an atmosphere of calmness and serenity. The painting is in watorcolour. Gentle blending and shading brings out the flowers’ three-dimensional quality, making them the focal point, while the subtle lighting effect adds warmth and serenity to the scene.\nThe overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in an ordinary, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.\nThe warm, glowing background adds a timeless, ethereal quality to the image, almost as if it's capturing a moment of peace that could last forever.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Pink roses in a white pot"
+      "Little one's creations"
+    ]
+  },
+  {
+    "objectID": "posts/Pink roses.html#pink-roses",
+    "href": "posts/Pink roses.html#pink-roses",
+    "title": "Little one’s creations",
+    "section": "",
+    "text": "Pink roses in a white pot. Artist:Parvathy Menon\n\n\nWork: Pink roses in a white pot\nArtist: Parvathy Menon\nMedium: Water-colour\nTender pink roses in a creamy yellow background with dark green leaves create an atmosphere of calmness and serenity. The painting is in watorcolour. Gentle blending and shading brings out the flowers’ three-dimensional quality, making them the focal point, while the subtle lighting effect adds warmth and serenity to the scene.\nThe overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in an ordinary, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.\nThe warm, glowing background adds a timeless, ethereal quality to the image, almost as if it's capturing a moment of peace that could last forever.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Little one's creations"
+    ]
+  },
+  {
+    "objectID": "posts/Pink roses.html#fish",
+    "href": "posts/Pink roses.html#fish",
+    "title": "Little one’s creations",
+    "section": "Fish",
+    "text": "Fish",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Little one's creations"
+    ]
+  },
+  {
+    "objectID": "posts/Pink roses.html#the-parrot",
+    "href": "posts/Pink roses.html#the-parrot",
+    "title": "Little one’s creations",
+    "section": "The Parrot",
+    "text": "The Parrot",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Little one's creations"
+    ]
+  },
+  {
+    "objectID": "posts/Pink roses.html#കഥകള",
+    "href": "posts/Pink roses.html#കഥകള",
+    "title": "Little one’s creations",
+    "section": "കഥകളി",
+    "text": "കഥകളി",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Little one's creations"
     ]
   },
   {
@@ -7123,7 +7175,7 @@
     "href": "Biomedical/Research Methodology/wrangling.html#creating-breaks",
     "title": "Data wrangling",
     "section": "Creating breaks",
-    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     1  child\n3:     3     1  child\n4:     4     1  child\n5:     5     0  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2   &lt;NA&gt;  child\n3:     3   &lt;NA&gt;  child\n4:     4   &lt;NA&gt;  child\n5:     5  child   &lt;NA&gt;\n6:     6  child   &lt;NA&gt;",
+    "text": "Creating breaks\n{r}\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\nCode\nage=c(1:100)\ndtb=data.table(age=age,sex=c(rbinom(n = 100,size = 1,prob = .5)))\ndtb$class=cut(dtb$age,breaks = c(0,13,28,60,75,101),labels = c(\"child\",\"young\",\"mature\",\"old\",\"aged\"))\nhead(dtb)\n\n\n     age   sex  class\n   &lt;int&gt; &lt;int&gt; &lt;fctr&gt;\n1:     1     1  child\n2:     2     0  child\n3:     3     0  child\n4:     4     0  child\n5:     5     0  child\n6:     6     0  child\n\n\n\nMaking data wide\n{r}\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nCode\ndtw=dcast(data = dtb,formula = age~sex,value.var = \"class\")\nhead(dtw)\n\n\nKey: &lt;age&gt;\n     age      0      1\n   &lt;int&gt; &lt;fctr&gt; &lt;fctr&gt;\n1:     1   &lt;NA&gt;  child\n2:     2  child   &lt;NA&gt;\n3:     3  child   &lt;NA&gt;\n4:     4  child   &lt;NA&gt;\n5:     5  child   &lt;NA&gt;\n6:     6  child   &lt;NA&gt;",
     "crumbs": [
       "Home",
       "Research",

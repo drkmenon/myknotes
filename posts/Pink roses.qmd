@@ -1,14 +1,14 @@
 ---
-title: "Pink roses in a white pot"
+title: "Little one's creations"
 categories: 
    - art
 author: "Kishore Puthezhath"
 date: 25 september 2024
 ---
 
-![Pink roses in a white pot. Artist:Parvathy Menon](images/IMG_5406.jpeg)
+## Pink roses
 
-Work: ***Pink roses in a white pot***
+![Pink roses in a white pot. Artist:Parvathy Menon](images/IMG_5406.jpeg)
 
 Artist: Parvathy Menon
 
@@ -19,3 +19,15 @@ Tender pink roses in a creamy yellow background with dark green leaves create an
 The overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in an ordinary, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.
 
 `The warm, glowing background adds a timeless, ethereal quality to the image, almost as if it's capturing a moment of peace that could last forever.`
+
+## Fish
+
+![](images/IMG_5536.jpeg)
+
+## The Parrot
+
+![](images/IMG_5534.jpeg)
+
+## കഥകളി
+
+![](images/IMG_5533.jpeg)

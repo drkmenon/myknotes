@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-2.153e+05 2.955e+05 3.433e+05 2.965e+06 4.345e+05 2.390e+10 </code></pre>
+   198422    295746    341035    578110    432295 557542329 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62107   64062   64495   64500   64933   66941 </code></pre>
+  61941   64056   64491   64498   64930   67407 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.803e+05 3.286e+06 5.672e+06 2.669e+08 1.183e+07 2.390e+12 </code></pre>
+8.020e+05 3.282e+06 5.567e+06 2.851e+07 1.157e+07 5.571e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -795,7 +795,7 @@ Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jerem
   <pubDate>Fri, 06 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
-  <title>Pink roses in a white pot</title>
+  <title>Little one’s creations</title>
   <dc:creator>Kishore Puthezhath</dc:creator>
   <link>https://www.knotes.co.in/posts/Pink roses.html</link>
   <description><![CDATA[ 
@@ -803,6 +803,8 @@ Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jerem
 
 
 
+<section id="pink-roses" class="level2">
+<h2 class="anchored" data-anchor-id="pink-roses">Pink roses</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.knotes.co.in/posts/images/IMG_5406.jpeg" class="img-fluid figure-img"></p>
@@ -815,8 +817,21 @@ Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jerem
 <p>Tender pink roses in a creamy yellow background with dark green leaves create an atmosphere of calmness and serenity. The painting is in watorcolour. Gentle blending and shading brings out the flowers’ three-dimensional quality, making them the focal point, while the subtle lighting effect adds warmth and serenity to the scene.</p>
 <p>The overall composition seems to celebrate the simplicity and elegance of nature. The roses, a classic symbol of beauty, are placed in an ordinary, everyday object (the pot), reinforcing the idea that beauty can thrive in simple, unpretentious settings.</p>
 <p><code>The warm, glowing background adds a timeless, ethereal quality to the image, almost as if it's capturing a moment of peace that could last forever.</code></p>
+</section>
+<section id="fish" class="level2">
+<h2 class="anchored" data-anchor-id="fish">Fish</h2>
+<p><img src="https://www.knotes.co.in/posts/images/IMG_5536.jpeg" class="img-fluid"></p>
+</section>
+<section id="the-parrot" class="level2">
+<h2 class="anchored" data-anchor-id="the-parrot">The Parrot</h2>
+<p><img src="https://www.knotes.co.in/posts/images/IMG_5534.jpeg" class="img-fluid"></p>
+</section>
+<section id="കഥകള" class="level2">
+<h2 class="anchored" data-anchor-id="കഥകള">കഥകളി</h2>
+<p><img src="https://www.knotes.co.in/posts/images/IMG_5533.jpeg" class="img-fluid"></p>
 
 
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>art</category>
