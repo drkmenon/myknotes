@@ -147,6 +147,8 @@ order: 2
 -   Regional sensory or motor disturbance.
 -   Overreaction during examination.
 
+{{< pagebreak >}}
+
 # Ankylosing Spondylitis Examination
 
 ## Look (Standing)
