@@ -1,0 +1,45 @@
+---
+title: "Hip Arthrodesis"
+order: 12
+---
+
+## Indications
+
+-   Young patients (\<30 years) with debilitating arthritis
+-   Previously infected hip with end-stage joint destruction
+-   Heavy laborers\
+    *(Resurfacing may be a better option)*
+
+## Prerequisites
+
+-   Adjacent joints (spine, knee, other hip) must be normal
+-   No active sepsis
+-   No major limb length discrepancy (fusion will cause further shortening)
+
+## Position of Fusion
+
+-   **30 degrees flexion**: Clears foot and allows comfortable sitting
+-   **5 degrees adduction**: Prevents abductor lurch
+-   **5 degrees external rotation**: Prevents tripping
+
+## Instrumentation
+
+-   Rigid fixation of well-opposed joint surfaces with fixed-angle plates
+
+## Results & Complications
+
+-   Generally good; reports in children show \>20 years of good function
+-   Failure often due to adjacent joint disease, which is the most common reason for conversion to Total Hip Replacement (THR)
+-   Complications:
+    -   50% experience back pain
+    -   40% have ipsilateral knee pain
+    -   20% have contralateral hip pain
+    -   Non-union is uncommon but can occur
+
+## Conversion to THR
+
+-   Results are not as good as primary THR
+-   Challenges include:
+    -   Soft tissue contracture and wasting
+    -   Functional abductors are critical for good outcomes
+    -   Risks: Instability, limp, and pain

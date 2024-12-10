@@ -1,0 +1,221 @@
+---
+title: "Adult Developmental Dysplasia of the Hip"
+order: 11
+---
+
+## Typical Deformities
+
+### Acetabulum
+
+Primary deformity in hip dysplasia is the acetabulum:
+
+1\. Lateralised
+
+2\. Shallow
+
+3\. Retroverted
+
+4\. Deficient anteriorly and superiorly
+
+### Femur
+
+1.  Valgus neck
+2.  Anteverted neck
+3.  Small head
+4.  Posterior greater trochanter (GT)
+5.  Narrow canal
+6.  Shortened leg
+
+### Consequences
+
+-   Lateralised centre of rotation
+-   Increased body weight lever arm
+-   High contact pressures
+-   Premature osteoarthritis (OA)
+-   Tendency for superolateral migration
+
+## Assessment
+
+### History
+
+-   Previous surgeries
+-   Impingement symptoms
+-   Family history
+-   Childhood history
+
+### Examination
+
+-   Signs of impingement
+-   Leg lengths
+-   Range of motion (ROM)
+-   Other deformities (e.g., spine)
+
+### X-Ray (XR)
+
+-   **Lateral CE angle**:\
+    Normally \> 25 degrees; \<20 means a dysplastic acetabulum
+-   **Anterior CE angle**:\
+    Should be \>25 degrees (anteverted)
+-   **Acetabular index**
+-   **Crossover sign**:\
+    Indicates retroverted acetabulum
+-   **Tönnis Angle**:\
+    Top of femoral head and slope of acetabular roof should be \<15 degrees
+
+### CT Scan
+
+-   Useful in planning treatment (e.g., osteotomy)
+
+## Classification - Crowe and Tönnis Grades
+
+### Crowe Classification
+
+Based on the ratio of the distance between the inter-teardrop line and the head-neck junction with the opposite femoral head diameter. If the opposite femoral head is deformed, substitute 20% of pelvic height.
+
+-   **Type 1**: \<50% proximal migration
+-   **Type 2**: 50-75% proximal migration
+-   **Type 3**: 75-100% proximal migration
+-   **Type 4**: \>100% proximal migration
+
+## Management
+
+### Non-Arthroplasty Options
+
+Aim is to resolve pain and slow progression of OA:
+
+1\. Analgesia and activity modification
+
+2\. Arthroscopy
+
+3\. Periacetabular osteotomy
+
+4\. Femoral osteotomy
+
+5\. Arthrodesis
+
+6\. Resection arthroplasty
+
+#### Arthroscopy and Labral Debridement
+
+-   Indicated for Crowe type 1 with minimal acetabular or femoral deformity
+-   Results poor if bony deformities are left uncorrected
+
+#### Pelvic Osteotomy – Corrective or Salvage
+
+Aims to provide a congruent joint with femoral head coverage and redistribute contact pressures.
+
+-   **Corrective Osteotomy**:
+    -   For mild to moderate dysplasia with minimal OA
+    -   Preferred over femoral osteotomy as acetabulum is the primary problem
+    -   **Bernese Periacetabular Osteotomy**:
+        -   Large corrections possible
+        -   Extra-articular
+        -   Single incision
+        -   Good results by multiple authors
+    -   Other corrective osteotomies:
+        -   **Salter**: For children; relies on supple symphysis
+        -   **Triple innominate**: Risk of AVN of acetabulum
+-   **Salvage Osteotomy**:
+    -   Rare due to success of Bernese osteotomy
+    -   Indicated in severe dysplasia with insurmountable deformity
+    -   Types: **Chiari** or **Shelf**
+
+#### Femoral Osteotomy
+
+Indicated if:
+
+\- Acetabular development in children depends on head reduction
+
+\- Predominant femoral deformity and minimal acetabular deformity (rare)
+
+\- Coverage of head not achieved with pelvic osteotomy
+
+#### Arthrodesis
+
+-   Rare; for severe dysplasia, advanced OA, and poor arthroplasty candidates
+-   Indications: Cerebral palsy or polio
+-   Pain relief at the expense of function; only for unilateral dysplasia
+
+#### Resection Arthroplasty
+
+-   Indications similar to arthrodesis but for non-ambulatory patients
+-   Lower morbidity surgery
+-   Complications:
+    -   Shortening
+    -   Chronic pain
+    -   Difficulty ambulating
+
+------------------------------------------------------------------------
+
+## Arthroplasty in Hip Dysplasia
+
+### Aims
+
+-   Restore normal hip centre of rotation
+-   Provide adequate acetabular coverage
+-   Ensure long-lasting fixation
+
+### Potential Problems
+
+#### Soft Tissue Contracture
+
+-   Hamstrings, adductors, and rectus femoris
+-   Abductors are more transverse and less functional
+-   Thickened capsule and iliopsoas
+-   Shortened sciatic nerve (palsy more common if \>4cm lengthening)
+-   THR instability
+
+#### Approach
+
+-   Acetabular exposure is difficult:
+    -   Consider trochanteric osteotomy
+    -   Consider subtrochanteric osteotomy if femur needs shortening
+
+### Acetabulum
+
+-   Difficult to identify the true acetabulum
+-   Small components required due to underdeveloped acetabulum
+-   Poor medial bone stock
+-   Lateral acetabular erosion (especially in Crowe type 2 and 3 hips)
+
+#### Options:
+
+-   Superolateral bone grafting
+-   High hip centre (undesirable)
+-   Medialisation of cup through the medial wall
+-   Crowe type 1 and 4 hips usually have good lateral bone
+
+### Femur
+
+Deformities include:
+
+\- Narrow canal (affects stem selection)
+
+\- Posterior GT (may require osteotomy and reattachment)
+
+\- Valgus neck (requires low neck cut)
+
+\- Anteverted neck (avoid using native femur as a guide to version)
+
+#### Stem Selection
+
+-   Narrow canal requires small stems
+-   DDH stems have reduced metaphyseal flare
+-   Uncemented stems preferred in younger patients
+-   Modular stems help correct version
+-   Risk: Placement in anteversion
+
+### Femoral Shortening
+
+-   Necessary for Crowe type 3 and 4:
+    -   Contractures prevent reduction into the normal hip centre
+    -   Options:
+        -   Subtrochanteric osteotomy (better but more difficult)
+        -   Metaphyseal resection and distalisation of GT (easier but risks non-union)
+
+### Results
+
+-   Worse than standard THR due to complexity
+-   More complications and younger, active patients
+-   Uncemented results generally better
+-   Crowe type 1 outcomes are better than type 3 and 4

@@ -1,0 +1,215 @@
+---
+title: "Total Hip Replacement in Special Circumstances"
+order: 14
+---
+
+## Conversion of a Hip Arthrodesis to THR
+
+### Indications
+
+-   Pain in other joints due to hip fusion, especially in the other hip and ipsilateral knee
+-   Previously arthrodesed hip; patient now desires increased range of motion (ROM)
+
+### Pre-Op Workup
+
+-   Investigate the reason for the original arthrodesis
+-   Rule out ongoing infection if arthrodesis was due to or complicated by infection
+
+### Principles & Potential Problems
+
+1.  Proximal femoral deformity
+2.  Lack of reference for neck cut
+3.  Lack of reference for cup position (TAL often still present)
+4.  Bleeding
+5.  Bone loss (uncommon)
+
+-   Functioning abductors are essential for a good outcome
+-   Assess abductors clinically, using MRI (fatty infiltration) or EMG
+-   Use retained hardware or visible trochanter as reference for neck cut
+-   Place retractor in obturator foramen to visualize cup placement
+-   Intra-operative X-ray can help assess cup position before reaming
+-   Generally, good bone stock for cup placement
+-   If proximal femoral deformity or sclerosis is present, consider using burrs, drills, or osteotomy
+
+------------------------------------------------------------------------
+
+## Paget's Disease
+
+### Causes of Hip Pain
+
+-   Secondary arthritis
+-   Deformity
+-   Stress fracture
+-   Sarcomatous change
+-   Referred pain from the spine
+
+### Typical Deformities
+
+-   Varus neck
+-   Antero-lateral bowing of the femur
+-   Protrusio
+
+### Possible Problems
+
+-   Hypervascular tissues, especially in active disease, leading to significant blood loss
+-   Risk of intra-pelvic perforation
+-   Bone may be osteoporotic or sclerotic
+
+### Pre-Operative Considerations
+
+-   Evaluate for significant proximal femoral deformity; obtain full femur X-rays
+-   Plan for osteotomy if necessary
+-   Use burrs and drills to open the canal
+-   Pre-operative treatment with bisphosphonates and calcitonin to reduce disease activity
+-   Prepare for protrusio
+-   Avoid lengthening if the neck is in varus
+-   Warn the anesthetist about the potential for high output failure in active disease
+
+------------------------------------------------------------------------
+
+## Gaucher’s Disease
+
+-   Commonly presents with AVN; consider in any patient with AVN
+-   Bone infiltrated with structurally weak Gaucher's cells
+-   High risk of intra-operative fractures and bleeding
+-   Post-operative pain is common
+-   Many patients have had a splenectomy, increasing infection risk
+
+------------------------------------------------------------------------
+
+## Sickle Cell Anemia
+
+### Potential Problems
+
+-   AVN and its complications
+-   Very sclerotic canal due to prior sickle cell crises and infarcts
+-   Hypervascular tissues leading to bleeding
+-   Increased infection risk, particularly in asplenic patients
+-   Pain management challenges due to long-term opioid use
+
+------------------------------------------------------------------------
+
+## Hemophilia
+
+### Characteristics
+
+-   Hemophilic arthropathy typically affects the knee and elbow; less common in the hip
+-   Deformities resemble Perthes disease with a flattened head
+-   Often associated with acetabular dysplasia
+
+### Main Concerns
+
+-   Bleeding and infection
+-   Requires close collaboration with a hematologist in an MDT center
+
+------------------------------------------------------------------------
+
+## Tumors
+
+### Indications for THR
+
+-   Metastases
+-   Low-grade malignancies, such as chondrosarcoma
+-   Benign aggressive lesions, e.g., PVNS or GCT
+
+### Principles
+
+-   Determine the nature of the lesion
+-   Plan surgical margins
+-   Select the appropriate prosthesis (standard, revision type, or endoprosthesis)
+-   Preserve abductors if possible
+-   MDT collaboration is essential for adjuvant or neo-adjuvant therapy
+
+------------------------------------------------------------------------
+
+## Neuromuscular Disorders
+
+-   Examples include Parkinson’s disease
+-   Instability caused by contractures (flexion, adduction deformities)
+-   Treatment:
+    -   Release adductors, rectus femoris, and psoas
+    -   Use an anterolateral approach and over-antevert the cup
+-   Patients are prone to skin breakdown and systemic infections post-operatively
+
+------------------------------------------------------------------------
+
+## Femoroacetabular Impingement (FAI)
+
+### Aetiology
+
+-   Pain due to a labral tear, caused by acute or chronic trauma
+-   Often associated with structural issues, commonly CAM lesions
+-   May be secondary to conditions such as SUFE or Perthes
+-   Evidence suggests FAI is a leading cause of early-onset OA
+
+### Pathophysiology
+
+#### CAM Impingement
+
+-   Mismatch in the radius of curvature between the femoral head and acetabulum
+-   Labral tear leads to separation at the chondro-labral junction
+-   Progresses to delamination and unstable chondral flaps
+
+#### Pincer Impingement
+
+-   Femoral neck impinges on the acetabulum during ROM
+-   Associated with conditions like coxa profunda, protrusio, or acetabular retroversion
+-   Leads to acetabular lesions with cystic degeneration
+
+### Clinical Features
+
+-   Deep-seated groin pain exacerbated by hip flexion (e.g., sprinting, kicking, rising from chairs)
+-   Pincer impingement often causes buttock pain during leg extension
+-   Associated clicking is common with labral tears
+
+### Examination
+
+-   Positive impingement sign
+-   Reduced internal rotation
+
+### Imaging
+
+#### X-Ray (AP and Cross-Table Lateral)
+
+-   Evaluate acetabular abnormalities:
+    -   Centre Edge angle (\<15 degrees diagnostic of dysplasia)
+    -   Protrusio
+    -   Retroversion
+-   Evaluate femoral abnormalities:
+    -   Neck-shaft angle
+    -   Offset ratio (\<0.15 diagnostic of CAM)
+    -   Alpha angle (\>50 degrees diagnostic of CAM)
+
+#### MRI Arthrogram
+
+-   Gold standard for diagnosing labral and chondrolabral tears
+-   Detects subtle CAM deformities
+
+#### CT Scan
+
+-   Useful for identifying dysplasia and subtle deformities
+
+### Management
+
+#### Non-Operative
+
+-   Worth attempting but unlikely to resolve symptoms
+-   Aim to prevent arthritic changes
+
+#### Arthroscopic Surgery
+
+-   Recommended for isolated CAM deformity with labral tears
+-   Most common treatment
+
+#### Open Surgical Dislocation
+
+-   Less common due to advancements in arthroscopic techniques
+
+#### Osteotomy (Periacetabular or Proximal Femoral)
+
+-   Used for cases of dysplasia where labral repair alone is insufficient
+
+#### Arthroplasty
+
+-   Suitable for patients with debilitating symptoms and OA
+-   Options include THR or resurfacing

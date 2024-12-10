@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sun, 08 Dec 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Dec 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   210757    295202    342384    614253    437135 384299959 </code></pre>
+2.071e+05 2.966e+05 3.429e+05 6.982e+05 4.372e+05 1.018e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  61785   64073   64508   64510   64931   67118 </code></pre>
+  62187   64077   64517   64523   64957   67038 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.034e+05 3.307e+06 5.542e+06 3.206e+07 1.197e+07 3.839e+10 </code></pre>
+9.902e+05 3.344e+06 5.653e+06 4.042e+07 1.189e+07 1.017e+11 </code></pre>
 </div>
 </div>
 </section>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Sun, 08 Dec 2024 18:30:00 GMT</pubDate>
+  <pubDate>Mon, 09 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>What is Interval Training?</title>
