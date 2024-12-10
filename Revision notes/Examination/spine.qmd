@@ -124,14 +124,17 @@ order: 2
 ## Myelopathy Signs
 
 -   **Hoffman’s Sign**:
-    -   Flick distal phalanx and observe reflexive thumb flexion.
--   **Babinski Sign**:
-    -   Stroke lateral plantar aspect of sole. Big toe extension indicates UMN lesion.
--   **Clonus**:
-    -   
 
-        > 5 beats suggests myelopathy.
--   **Jaw Jerk**:
+    -   Flick distal phalanx and observe reflexive thumb flexion.
+
+-   **Babinski Sign**:
+
+    -   Stroke lateral plantar aspect of sole. Big toe extension indicates UMN lesion.
+
+-   **Clonus**: 5 beats suggests myelopathy.
+
+    **Jaw Jerk**:
+
     -   Striking mandible causes rapid movement; lesion above spinal cord.
 
 ------------------------------------------------------------------------

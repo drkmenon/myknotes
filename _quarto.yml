@@ -83,9 +83,10 @@ website:
 format:
   html:
     theme:
-     journal
-    mainfont: palatino
-    fontsize: 1.1rem
+     cosmo
+    mainfont: san-sherif #palatino
+    fontsize: 1.2rem
+    linestretch: 1.5
     fontcolor: "#1c1c1c"
     linkcolor: blue
     backgroundcolor: white

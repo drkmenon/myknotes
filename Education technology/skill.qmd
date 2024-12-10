@@ -3,7 +3,9 @@ title: "Teaching and learning complex procedures"
 order: 3
 ---
 
-Acquisition of procedural skills is a critical element in medical education. Traditionally, procedural skills are taught using a ‘‘see one - do one’’ approach, based on the Halsted’s teaching model (1904). Recently, two new teaching methods for the acquisition of procedural skills have been described:
+Acquisition of procedural skills is a critical element in medical education.
+
+Traditionally, procedural skills are taught using a ‘‘see one - do one’’ approach, based on the Halsted’s teaching model (1904). Recently, two new teaching methods for the acquisition of procedural skills have been described:
 
 #### George and Doto’s 5-Step Method:
 
