@@ -1,0 +1,161 @@
+---
+title: "Clinical Examination of the Hip"
+order: 1
+---
+
+## Common Clinical Cases
+
+-   Primary Osteoarthritis
+
+-   Post Traumatic Osteoarthritis
+
+-   AVN (Avascular Necrosis)
+
+-   Rheumatoid Hip
+
+-   Fused Hip
+
+-   Ankylosing Spondylitis
+
+-   Old Perthes, DDH, or SCFE
+
+-   Femoroacetabular Impingement
+
+-   Painful Hip After THR
+
+-   Infected THR
+
+-   Protrusio Acetabuli
+
+-   Tuberculosis of the Hip
+
+-   Multiple Epiphyseal Dysplasia
+
+-   Paget's Disease of the Hip
+
+## Examination of the Hip
+
+### Look (Standing)
+
+-   **Front**:
+    -   Pelvic obliquity
+    -   Scars
+    -   Sinuses
+    -   Muscle wasting
+    -   Obvious leg length discrepancy
+-   **Back**:
+    -   Spine: Scoliosis, lordosis, or kyphosis
+    -   Walking aids
+-   Shoes: Wear patterns
+-   **Block Test**: Assess leg length discrepancy
+-   **Trendelenberg Test**
+
+### Gait Assessment
+
+-   **Key Observations**:
+    -   Antalgia: Stance phase shortening
+    -   Trendelenberg:
+        -   Dipping of contralateral pelvis in single leg stance
+        -   Shoulder sway to ipsilateral side
+    -   Short Leg:
+        -   Equinus foot
+        -   Knee flexed
+        -   Contralateral circumduction
+    -   Stiff Hip Gait:
+        -   Hitching pelvis instead of hip flexion
+    -   Foot Progression Angle:
+        -   Rotational deformity
+
+### Look (Lying)
+
+-   Check pelvis alignment
+-   Measure leg lengths: True and apparent
+-   Comment on skin quality of lower legs
+
+### Feel
+
+-   Palpate over greater trochanter and groin
+-   Palpate while coughing
+
+### Move
+
+-   **Thomas Test**:
+    -   Hand in lumbar lordosis
+    -   Flex hip until lordosis obliterates
+    -   Quantify fixed flexion
+    -   Compare both hips
+-   **Abduction**: Hand on opposite ASIS
+-   **Adduction**: Hand on same ASIS
+-   **External/Internal Rotation**: Check in extension and flexion
+
+Comment on contractures
+
+### Measurements
+
+### Special tests
+
+### Finishing
+
+-   Palpate pulses
+-   Check distal sensation
+-   Examine spine and knee
+
+------------------------------------------------------------------------
+
+## Arthrodesed Hip: Examination Findings
+
+### Observations
+
+-   Pelvic obliquity
+-   Compensatory scoliosis
+-   Hyperlordosis
+-   Leg shortening
+-   Scars
+-   Fixed flexion deformity (no abduction/rotation)
+-   Pelvic tilt with motion
+-   False positive Trendelenberg test
+
+### Gait
+
+-   Asymmetric pattern
+-   Slow walking
+-   Short stance phase
+-   Prolonged swing phase
+-   Increased lumbar lordosis
+-   Pelvic tilts with exaggerated rotation
+-   Equinus compensation
+-   Opposite knee flexed
+
+**Don't Forget**:
+
+\- Examine spine, other hip, and knee
+
+\- Neurovascular status
+
+\- Investigate abductor function
+
+------------------------------------------------------------------------
+
+## Ankylosing Spondylitis: Examination Findings
+
+### Observations
+
+-   **Posture**:
+    -   Question mark posture
+    -   Loss of lumbar lordosis
+    -   Reduced forward gaze
+    -   Hips and knees flexed during gait
+-   **Fixed Deformities**:
+    -   Bilateral fixed flexion deformities
+
+**Additional Checks**:
+
+\- Chest wall expansion
+
+\- Chin-brow angle
+
+\- Forward gaze angle
+
+\- Occiput-wall distance
+
+**Important Note**: - High-risk case for anesthetist
