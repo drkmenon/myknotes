@@ -19,29 +19,22 @@ table {
     border-collapse: collapse;
 }
 
-/* Responsive adjustments for smaller screens */
-@media (max-width: 600px) {
-    table, th, td {
-        display: block; /* Make each row of the table a block element */
-    }
-    
-    th {
-        position: absolute;
-        left: -9999px; /* Hide header for small screens */
-    }
-    
-    td {
-        position: relative;
-        padding-left: 50%; /* Adjust for the header cell width */
-        white-space: nowrap; /* Prevent text wrapping in cells */
-    }
-    
-    /* Adjust the position of the cell content */
-    td::before {
-        content: attr(data-label);
-        position: absolute;
-        left: 10px;
-        font-weight: bold;
-    }
+/* Make tables horizontally scrollable */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto; /* Enables horizontal scrolling */
 }
 
+/* Styling for table headers */
+th {
+    background-color: #f2f2f2; /* Optional: add background color to distinguish headers */
+    text-align: left;
+    padding: 8px;
+}
+
+/* Styling for table cells */
+td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
