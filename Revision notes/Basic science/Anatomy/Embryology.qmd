@@ -18,13 +18,11 @@ The human embryo consists of four distinct germ cell layers that give rise to di
 ### **Timeline of Skeletal Development**
 
 | **Time Frame** | **Developmental Milestone** |
-|----|----|
+|--------------------------|----------------------------------------------|
 | **4 Weeks** | Limb buds appear, with the upper limb developing 48 hours before the lower limb. |
 | **8 Weeks** | Limbs rotate 90 degrees: the upper limb rotates externally, while the lower limb rotates internally (thumb lateral, big toe medial). |
 | **12 Weeks** | Primary ossification centers of long bones are present (humerus is the first to appear, followed by the femur). |
 | **36 Weeks** | Secondary ossification centers begin to appear, with the distal femur being the first. |
-
-: Time line {.responsive-md}
 
 ### **Limb Bud Development**
 
@@ -66,7 +64,7 @@ Limb development follows a well-defined pattern along three axes:
     -   The dorsal surface grows faster, causing the limbs to curve.
 
 | **Structure** | **Function** | **Developmental Disorders** | **Description** |
-|----|----|----|----|
+|------------------|------------------|------------------|--------------------|
 | **AER (Apical Ectodermal Ridge)** | Regulates proximodistal growth of the limb. | **Phocomelia** | Severe shortening or absence of limbs. |
 |  |  | **Amelia** | Complete absence of one or more limbs. |
 |  |  | **Meromelia** | Partial absence of a limb. |
@@ -77,8 +75,6 @@ Limb development follows a well-defined pattern along three axes:
 | **Surface Ectoderm of Limb Bud** | Differentiates into skin and helps in limb morphogenesis. | **Ectrodactyly (Split Hand/Foot Malformation)** | Absence of one or more central digits, forming a "cleft" hand or foot. |
 |  |  | **Nail-Patella Syndrome** | Abnormalities of nails, knees, elbows, and pelvis due to ectodermal disruption. |
 |  |  | **Cleft Hand/Foot** | Abnormal cleft between fingers or toes due to failure of surface ectoderm closure. |
-
-: Development in nutshell {.responsive-sm}
 
 ### **Formation of Joints and Ossification Centers**
 
@@ -109,7 +105,7 @@ The development of the spinal column is closely regulated by the **Homeobox gene
 ### **Key Structures Derived from Embryonic Layers**
 
 | **Structure** | **Origin** |
-|----|----|
+|--------------------------|----------------------------------------------|
 | **Neural Crest** | Peripheral nervous system, basal ganglia, sympathetic chain |
 | **Neural Tube** | Spinal cord |
 | **Notocord** | Vertebrae, intervertebral discs, and spinal muscles |
