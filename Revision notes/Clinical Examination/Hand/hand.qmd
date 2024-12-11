@@ -1,0 +1,216 @@
+---
+title: "Hand"
+---
+
+## Screen Test
+
+-   Expose above elbows
+-   Make a fist and open hands with palms up
+-   Raise arms above up to look at elbows and posterior aspect arms
+
+## Refine Exam
+
+### Swelling
+
+-   **Inspect and Describe**:
+    -   Location
+    -   Shape
+    -   Size
+    -   Overlying skin changes
+-   **Palpate**:
+    -   Firmness
+    -   Mobility
+    -   Attachment to underlying structures
+    -   Pain
+    -   Pulsatility
+    -   Skin temperature
+
+### Special Tests
+
+-   Distal neurology & vasculature
+-   **Allen’s Test** (especially if volar radial ganglion):
+    -   Assess blood flow to the hand by occluding radial and ulnar arteries alternately.
+
+## Dupuytren’s Contracture
+
+### Look
+
+-   Scars
+-   Pits
+-   Cords
+-   Garrod’s Pads
+
+### Feel
+
+-   Throughout palm
+-   Correctibility of deformities
+-   Sensation and vascularity (if past surgery)
+
+### Special Tests
+
+-   **Hueson’s Table Top Test**
+-   Measure contractures with goniometer
+-   Ask if other parts of body are affected
+
+### Functional Assessment
+
+-   Assess hand function for daily activities
+
+## Rheumatoid Arthritis
+
+### Look
+
+-   Comment on elbow or shoulder problems on screening
+-   **Extensor Surface Features**:
+    -   Skin appearance
+    -   Scars
+    -   DRUJ arthritis, prominence (caput ulna)
+    -   Wrist radial deviation
+    -   Dropped finger at MCPJ
+    -   Ulnar deviated fingers
+    -   MCPJ subluxation
+    -   Z Thumb
+    -   Boutonnière, Swan neck, or mallet deformities
+    -   Rheumatoid nodules
+    -   Joint inflammation
+-   **Flexor Surface Features**:
+    -   Skin appearance
+    -   Scars (CTD or trigger finger scars)
+    -   Trigger finger
+    -   Finger deformities
+
+### Functional Testing
+
+-   Grip, hook, pinch:
+    -   Grasp my hand as tight as possible
+    -   End pinch (pen)
+    -   Chuck pinch (coin)
+    -   Side pinch (key)
+
+### Feel
+
+-   Pain in small joints
+-   Correctibility of deformities
+
+### Special Tests
+
+-   Neurological screening
+
+## Nerve Lesions
+
+### Radial Nerve
+
+-   **Sensation**:
+    -   1st dorsal web space
+-   **Motor**:
+    -   ECRL
+    -   ED
+    -   EPL
+    -   Triceps (if ECRL weak)
+-   Differentiates between PIN and radial nerve palsy; ascertain if radial nerve palsy is very high or high by testing triceps.
+
+### Ulnar Nerve
+
+-   **Sensation**:
+    -   Little finger palm
+    -   Hypothenar skin
+    -   Dorsal hand
+-   **Motor**:
+    -   ECU
+    -   FDP little
+    -   ABDm
+    -   1st dorsal interosseous
+    -   ADP (Froment’s Sign)
+-   **Special Tests**:
+    -   Tinel’s (cubital tunnel to Guyon’s canal)
+    -   Elbow flexion (provocation of ulnar nerve at cubital tunnel)
+    -   Wartenberg’s Sign (inability to adduct little finger)
+    -   2-point discrimination and Semmes-Weinstein testing
+
+### Median Nerve
+
+-   **Sensation**:
+    -   Thenar eminence
+    -   Index palmar skin
+-   **Motor**:
+    -   FCR
+    -   FDS middle
+    -   OK sign
+    -   ABP
+-   **Special Tests**:
+    -   Tinel’s over forearm and hand
+    -   Phalen’s Test
+    -   2-point discrimination and Semmes-Weinstein testing
+
+### Musculocutaneous Nerve
+
+-   **Sensation**:
+    -   Lateral forearm
+-   **Motor**:
+    -   Biceps
+
+### Axillary Nerve
+
+-   **Sensation**:
+    -   Regimental badge area
+-   **Motor**:
+    -   Deltoid
+    -   Teres minor
+
+## Wrist Pain
+
+### Look
+
+-   Same as for hand
+
+### Feel
+
+-   Systematic from radial volar around ulnar aspect then back to radial dorsal
+
+### Move
+
+-   Prayer and inverted prayer sign
+-   Passive range:
+    -   Pronation
+    -   Supination
+    -   Radial and ulnar deviation
+
+### Special Tests
+
+-   **Finkelstein Test** (De Quervain’s)
+-   **Kirk Watson Test** (SL instability)
+-   **DRUJ Ballotment/Piano Key Test** (DRUJ instability)
+-   **Resisted Pronation Test** (STT arthrosis)
+-   **Thumb Grind Test** (CMCJ arthrosis)
+-   **Ulnar Grind Test** (TFCC)
+-   **Pisiform Compression Test** (Pisotriquetral joint OA)
+
+## Intrinsic Plus or Minus Hand
+
+## Carpal Tunnel Syndrome
+
+### Look
+
+-   Neck scars and movements
+-   Screening of hands, wrists, and shoulders
+-   Scars on hand from past surgery
+-   Thenar wasting
+
+### Feel
+
+-   Sensation in radial 3 digits
+-   Sensation over thenar eminence (proximal lesion)
+-   Sensation over ulnar digits for comparison and screening
+-   Semmes-Weinstein and 2-point discrimination (earliest signs)
+
+### Move
+
+-   Neck movements (if not done already)
+-   APB power
+-   Intrinsic power for comparison and screening
+-   FDS to middle finger power (proximal screening)
+
+### Special Tests
+
+-   Tinel’s
+-   Durkin’s Compression Test (1-minute maximum)

@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-2.177e+05 2.971e+05 3.462e+05 8.373e+05 4.397e+05 1.522e+09 </code></pre>
+   215970    296319    344006    566252    437051 127848027 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62223   64061   64494   64501   64932   67083 </code></pre>
+  62359   64063   64488   64501   64932   67111 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.936e+05 3.348e+06 5.786e+06 5.431e+07 1.201e+07 1.522e+11 </code></pre>
+9.609e+05 3.343e+06 5.694e+06 2.720e+07 1.190e+07 1.276e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -795,7 +795,7 @@ Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jerem
   <pubDate>Fri, 06 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
-  <title>Little one’s creations</title>
+  <title>Creative art work</title>
   <dc:creator>Kishore Puthezhath</dc:creator>
   <link>https://www.knotes.co.in/posts/Pink roses.html</link>
   <description><![CDATA[ 

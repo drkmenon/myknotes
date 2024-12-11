@@ -1,0 +1,168 @@
+---
+title: "Elbow"
+---
+
+## Conditions
+
+-   Tennis Elbow
+-   Golfer’s Elbow
+-   Stiff Elbow
+-   Cubitus Valgus
+-   Cubitus Varus
+-   Elbow Instability
+-   Elbow Arthritis
+-   Congenital Dislocation of the Radial Head
+-   Radioulnar Synostosis
+-   Rheumatoid Elbow with Nodules
+
+## General Examination
+
+### Look
+
+-   With elbows extended and then with shoulders flexed
+-   Comment on:
+    -   Scars, asymmetry, carrying angle, swellings, obvious loss of motion
+
+### Move
+
+-   Abduct and flex shoulders to 90 degrees:
+    -   Assess elbow extension and flexion
+    -   Assess passively if incomplete
+-   Arms at side, elbows flexed, thumbs up:
+    -   Assess supination & pronation
+    -   Quantify range as compared to opposite side
+
+### Feel
+
+-   Systematically feel for pain:
+    -   Lateral epicondyle, RC joint, olecranon fossa, medial epicondyle, ulnar nerve for subluxation or sensitivity, flexor and extensor masses
+
+## Special Tests
+
+### Instability
+
+-   **MCL**:
+    -   ER shoulder, supinate forearm, and flex elbow slightly
+-   **LCL**:
+    -   IR shoulder, pronate forearm, and flex elbow slightly
+-   **Pivot Shift for Posterolateral Rotatory Instability**:
+    -   Reliant on elbow hinging around an intact MCL (like Knee)
+    -   Ideally patient under GA
+    -   Flex shoulder 90 degrees, supinate and extend elbow
+    -   Apply axial and valgus force
+    -   Bring elbow into flexion
+    -   Radial head subluxates at 45° then reduces with greater flexion
+
+### Cubitus Valgus (or Varus)
+
+-   **ROM**
+-   **Palpation**:
+    -   Over ulnar nerve and medial epicondyle in particular
+    -   Pain
+    -   Subluxation
+    -   Tinel’s
+-   **Assess Ulnar Nerve in Hand**:
+    -   Look:
+        -   Interosseus wasting
+        -   Comment on Wartenberg’s Sign
+    -   Sensory:
+        -   5th finger
+        -   Dorsum of hand (ulnar aspect)
+    -   Motor:
+        -   1st dorsal interosseus
+        -   FDP to ring finger
+        -   FCU if unsure
+
+### Tennis or Golfer’s Elbow
+
+-   If patient has any medial or lateral pain or history indicative:
+    -   **Provocative Tests**:
+        -   Resisted wrist and 3rd finger extension
+        -   Resisted finger flexion
+
+### Arthritis
+
+-   If pain on ROM or palpation or restricted motion:
+    -   Describe where in range pain is:
+        -   Throughout
+        -   End range - impingement
+    -   Crepitus
+    -   Pain on varus or valgus
+    -   Make a fist – is there pain? Indicates RC impaction and arthritis
+
+### Stiff Elbow
+
+-   Assess passive and active ROM
+-   Assess if pain present during motion arc
+-   Assess function:
+    -   Can they get hand to mouth and hand to perineum
+
+### Congenital Dislocation of the Radial Head
+
+-   **Look, Feel, Move**:
+    -   Fullness over radial aspect
+    -   Cubitus valgus or varus
+    -   Restricted supination and extension
+    -   Describe where radial head is dislocated (anterior, posterior, lateral):
+        -   Posterior tends to be congenital
+        -   Anterior tends to be associated with other conditions
+    -   Look for features of associated conditions
+    -   Examine other side
+-   **Associated Conditions**:
+    -   Idiopathic
+    -   Hyperlaxity or paralytic:
+        -   CP, Down’s Syndrome, Arthrogryposis, Marfan’s, Ehlers-Danlos
+    -   Congenital:
+        -   Nail Patella Syndrome
+        -   Achondroplasia
+        -   Multiple Hereditary Osteochondromatosis
+-   **Management**:
+    -   Leave alone if asymptomatic
+    -   Surgical results poor – only if significant pain:
+        -   Open reduction with radial shortening
+        -   Excision
+        -   Ulnar lengthening (if ulna significantly short e.g., MHE)
+
+### Radioulnar Synostosis
+
+-   **Look, Feel, Move**:
+    -   Scars from past trauma
+    -   Deformity or shortening of limb
+    -   ROM decreased especially pronation & supination
+    -   Is there an associated congenital radial head dislocation?
+    -   Flexion & extension relatively retained depending on pathology
+-   **Causes & Classification**:
+    -   Congenital or Traumatic
+    -   Partial or Complete
+    -   Fibrous or Bony
+-   **Risk Factors for Traumatic**:
+    -   High energy trauma
+    -   Head injury
+    -   Restricted post-op ROM
+    -   Single incision approach
+    -   Crush injury
+    -   Fractures at same level
+    -   Delayed surgery
+    -   Open fracture
+-   **Management**:
+    -   Often unrewarding
+    -   Encourage non-operative
+    -   Excision with interposition:
+        -   Complex with high risk and unpredictable outcome
+    -   Rotational Osteotomy:
+        -   Radius easier – shorten to decrease tension
+
+### Rheumatoid Elbow
+
+-   **Look**:
+    -   Describe all features of rheumatoid in the elbow and hand:
+        -   Scars may be very faint
+-   **Move**:
+    -   Assess ROM of elbow and shoulder concurrently
+-   **Feel**:
+    -   Pain, crepitus, and warmth
+-   **Special Tests**:
+    -   Must examine neurologic function:
+        -   Especially PIN and ulnar nerve
+    -   Functional Assessment
+    -   Screen shoulders, neck, and hands

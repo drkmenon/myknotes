@@ -1,0 +1,181 @@
+---
+title: "Shoulder"
+---
+
+## Conditions
+
+-   Rotator Cuff & Impingement
+-   Instability
+-   Thoracic Outlet Syndrome
+-   LHB Rupture
+-   Frozen Shoulder
+-   ACJ Arthritis
+-   ACJ Dislocation
+-   GHJ Arthritis
+-   Fused Shoulder
+-   Brachial Neuritis/Parsonage Turner Syndrome
+-   Pec Major or Lat Dorsi Rupture
+-   Klippel Feil & Sprengel Shoulder
+-   Pseudoarthrosis of Clavicle
+-   Congenital Absence of Clavicles (Cleidocranial Dysplasia)
+-   Fascioscapulohumeral Dystrophy
+
+## Rotator Cuff, Impingement & ACJ Arthritis
+
+### Look
+
+-   Asymmetry – clavicles, ACJ, deltoid contour, scapula, scars
+-   Wasting – deltoid, supraspinatus & infraspinatus fossae
+
+### Feel
+
+-   SCJ, clavicle, ACJ, acromion, LHB, scapula spine, trapezius, neck
+-   Deltoid (axillary nerve) sensation
+
+### Move
+
+-   **Neck ROM**
+-   **Shoulder ROM**:
+    -   FF, ABD, ER, IR
+    -   Comment on pain, impingement arc, hitching of shoulder
+    -   Active, assisted, and passive ROM
+    -   GHJ motion from the back passively
+        -   Comment and test for scapula winging if present
+    -   GHJ motion with scapula stabilized passively
+-   **Cuff Power and Impingement Tests**:
+    -   Hawkins Impingement Test
+    -   Teres Minor
+    -   Hornblower Sign if weak teres minor
+    -   Cross Arm Adduction Test for ACJ – note exact location of pain
+    -   Jobe’s Test
+    -   Infraspinatus
+    -   Infraspinatus Lag Sign if weak
+    -   Subscapularis – Belly Press and Bear Hug Tests
+    -   Gerber Lag Sign if weak subscapularis
+
+### Other Tests
+
+-   If cuff and impingement equivocal or other pathology suspected:
+    -   ACJ
+    -   Biceps
+    -   SLAP
+
+## Shoulder Instability
+
+### Look
+
+-   Asymmetry, wasting, scars from arthroscopy, features of hyperlaxity
+
+### Feel
+
+-   Normal pattern
+-   Important to feel for axillary nerve function
+
+### Move
+
+-   **Beighton’s Score**
+-   Active ROM screen
+-   Abduction from behind – check for winging
+
+### Special Tests
+
+-   **Sit Down**:
+    -   Sulcus Sign
+    -   Anterior and Posterior Load Shift Test
+-   **Lie Down**:
+    -   Anterior Apprehension Test
+    -   Posterior Apprehension Test
+-   Test LHB if other tests negative or patient has LHB pain on palpation:
+    -   Speed’s Test
+    -   Yergason’s Test
+    -   O’Brien’s Test
+
+### Other Tests
+
+-   Check Cuff
+-   Check ACJ
+-   Pulses
+-   Neurology
+-   C-Spine
+
+## Thoracic Outlet Syndrome
+
+### Look
+
+-   Scars around clavicle, posterior triangle, or neck
+-   Muscular man, thin lady
+
+### Feel
+
+-   Neurologic examination
+-   Pulse
+
+### Move
+
+-   C-spine ROM and exacerbation
+-   Shoulder active ROM and exacerbation of symptoms
+
+### Special Tests
+
+-   If patient describes tingling in arm or history indicates TOS:
+    -   **Roo’s Test**:
+        -   For neurologic component
+        -   Brace shoulders back
+        -   Flex elbows to 90 degrees
+        -   Open and close hand rapidly
+        -   Reproduction of neurologic symptoms is a positive result
+    -   **Adson’s Test**:
+        -   For vascular component
+        -   Extend and turn neck to ipsilateral side
+        -   Abduct arm to 30 degrees
+        -   Palpate pulse
+        -   Ask to take a deep breath and hold
+        -   If pulse disappears or is dramatically less, test is positive
+
+## ACJ Dislocation
+
+### Examination
+
+-   Describe features on inspection
+-   Check ROM – is abduction full or abnormal
+-   Turn patient and ask to abduct again
+
+### Palpation
+
+-   Identify if superior or posterior dislocation
+-   Assess reducibility by elevating arm and pushing down on clavicle
+    -   Ask to abduct in reduced position and comment if improved
+
+## Frozen Shoulder
+
+### Examination
+
+-   Asymmetry
+-   ROM:
+    -   Check ER in adduction actively and passively
+    -   Quantify FF – inferior capsule tightness
+    -   Assess ER in abduction for rotator interval contracture
+
+## LHB Rupture
+
+### Examination
+
+-   Describe typical features
+-   Accentuate deformity by flexing elbow passively and against resistance
+-   Speed’s and Yergason’s Test
+-   Assess Rotator Cuff:
+    -   Often associated with cuff pathology in elderly men
+
+## Fascioscapulohumeral Dystrophy
+
+### Inspection
+
+-   Syndromic appearance
+-   Unusual appearance of chest and pectoral girdle
+
+### Examination
+
+-   ROM limited – may be painful
+-   Assess ROM from behind
+-   Reproduce winging
+-   Ask patient to whistle – will not be able to
