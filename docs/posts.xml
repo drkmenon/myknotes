@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s official website</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 09 Dec 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Dec 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   198422    295746    341035    578110    432295 557542329 </code></pre>
+2.177e+05 2.971e+05 3.462e+05 8.373e+05 4.397e+05 1.522e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  61941   64056   64491   64498   64930   67407 </code></pre>
+  62223   64061   64494   64501   64932   67083 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-8.020e+05 3.282e+06 5.567e+06 2.851e+07 1.157e+07 5.571e+10 </code></pre>
+9.936e+05 3.348e+06 5.786e+06 5.431e+07 1.201e+07 1.522e+11 </code></pre>
 </div>
 </div>
 </section>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Mon, 09 Dec 2024 18:30:00 GMT</pubDate>
+  <pubDate>Tue, 10 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>What is Interval Training?</title>
@@ -811,7 +811,6 @@ Wilson, Jacob M., Pedro J. Marin, Matthew R. Rhea, Stephanie M. C. Wilson, Jerem
 <figcaption>Pink roses in a white pot. Artist:Parvathy Menon</figcaption>
 </figure>
 </div>
-<p>Work: <strong><em>Pink roses in a white pot</em></strong></p>
 <p>Artist: Parvathy Menon</p>
 <p>Medium: Water-colour</p>
 <p>Tender pink roses in a creamy yellow background with dark green leaves create an atmosphere of calmness and serenity. The painting is in watorcolour. Gentle blending and shading brings out the flowers’ three-dimensional quality, making them the focal point, while the subtle lighting effect adds warmth and serenity to the scene.</p>

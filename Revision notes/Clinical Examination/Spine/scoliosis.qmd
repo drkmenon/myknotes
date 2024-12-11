@@ -1,0 +1,158 @@
+---
+title: "Scoliosis (AIS)"
+---
+
+# History
+
+### **Social History**
+
+-   **Age:**
+    -   How old are you?
+-   **Education/Work:**
+    -   Are you at school, college, or working? What is your job?
+-   **Home Circumstances:**
+    -   Who do you live with?
+-   **Sports and Activities:**
+    -   Do you play any sports or participate in physical activities?
+-   **Career Aspirations:**
+    -   What are your future plans or career goals?
+
+### **Curve-Related Questions**
+
+-   **Onset:**
+    -   When did you first notice the curve?
+-   **Progression:**
+    -   Has it gotten bigger?
+-   **Impact:**
+    -   Does the curve bother you, cause pain, or affect walking, sports, school, work, or social activities?
+-   **Previous Medical Attention:**
+    -   Have you seen anyone about it before? Have you received any treatment?
+
+### **Associated Problems**
+
+-   **Neurologic Symptoms:**
+    -   Do you experience any neurologic symptoms?
+-   **Respiratory Symptoms:**
+    -   Do you get short of breath?
+
+### **Past Medical History**
+
+-   **Birth History:**
+    -   Were there any issues during birth or the neonatal period (e.g., SCBU/NICU admissions)?
+-   **Developmental Milestones:**
+    -   Were there delays in milestones?
+-   **Maternal Perinatal Problems:**
+    -   Any complications during your mother’s pregnancy?
+-   **Other Medical Problems:**
+    -   Have you been told about any other related conditions?
+    -   Are there other issues you haven’t discussed with a doctor?
+
+### **Skeletal Maturity**
+
+-   **Menarche:**
+    -   When was your first period?
+-   **Parental Height:**
+    -   How tall are your parents or older siblings?
+
+### **Family History**
+
+-   Any family members with similar conditions?
+
+### **Drug History and Allergies**
+
+-   Current medications and allergies.
+
+------------------------------------------------------------------------
+
+## Examination
+
+### **Look (Standing)**
+
+-   **Front:**
+    -   Shoulder, pelvic, ASIS, and waist asymmetry.
+    -   Leg length discrepancy.
+    -   Skin signs of spinal dysraphism (e.g., café-au-lait spots, hairy patches, neurofibromas).
+-   **Side:**
+    -   Sagittal alignment (normal cervical, thoracic, and lumbar spine curves).
+    -   Plumb line alignment (measured via X-ray).
+-   **Back:**
+    -   Coronal alignment (C7 to natal cleft deviation).
+    -   Define curve pattern (e.g., right thoracic or left lumbar flexible).
+    -   Rib hump (measure with scoliometer during Adams forward bending test).
+    -   Skin stigmata or scars.
+
+### **Feel (Standing)**
+
+-   Palpate for pain along the spine.
+-   Chest expansion (nipple level) – should be at least 7 cm.
+
+### **Move (Standing)**
+
+-   Assess range of motion (ROM) in all planes.
+-   Observe gait:
+    -   Pelvic tilt or shoulder dipping.
+    -   Short leg gait.
+    -   Trendelenberg gait.
+
+### **Look (Sitting)**
+
+-   Assess partial correction of the curve (indicates compensatory/flexible elements).
+
+### **Look (Lying)**
+
+-   Measure leg lengths (apparent and true discrepancy).
+
+### **Feel (Lying)**
+
+-   Perform a full neurologic examination:
+    -   Reflexes.
+    -   Abdominal reflexes.
+    -   Upper Motor Neuron (UMN) signs (Babinski, clonus).
+
+### **Move (Lying)**
+
+-   Assess ROM of joints.
+
+------------------------------------------------------------------------
+
+## Finishing Steps
+
+-   **Radiographs:**
+    -   Obtain full-spine standing AP and lateral views.
+-   **MRI:**
+    -   If there are concerning features, order an MRI.
+
+------------------------------------------------------------------------
+
+## Scoliosis X-Ray Interpretation
+
+### **Radiographs:**
+
+-   Full spine (36-inch cassette), AP and lateral views, including hips.
+
+### **Curve Assessment:**
+
+-   **Pattern:**
+    -   Identify the type of curve.
+-   **Cobb Angle:**
+    -   Measure using the endplates of the most angled vertebrae.
+-   **Apical Vertebra:**
+    -   Note the most displaced vertebra.
+
+### **Rotation:**
+
+-   Assess pedicles for rotation.
+-   Determine whether spinous processes are visible between pedicles.
+-   Identify whether curves are structural (malrotation in both curves).
+
+### **Congenital Anomalies:**
+
+-   Look for hemivertebrae or bars.
+
+### **Skeletal Age:**
+
+-   Check iliac crest ossification and triradiate cartilage closure.
+
+### **Flexibility:**
+
+-   Forward-bending views to assess curve flexibility.

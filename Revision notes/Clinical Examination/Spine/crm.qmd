@@ -1,0 +1,103 @@
+---
+title: "Cervical Myelopathy"
+---
+
+## **History**
+
+1.  **Symptoms:**
+    -   Difficulty in fine motor tasks (e.g., dropping things, clumsiness with buttons, using utensils).
+    -   Walking difficulty, especially gait abnormalities (e.g., shuffling, broad-based, ataxic).
+    -   Urinary or bowel issues.
+    -   Neck or back pain.
+    -   Radicular symptoms (pain radiating down the limbs).
+    -   Are these symptoms progressive?
+    -   Any systemic symptoms like weight loss?
+    -   Any past treatment for similar episodes?
+    -   Headaches?
+2.  **Past Medical History (PMH):**
+    -   History of cancers, strokes, cardiovascular disease.
+3.  **Social History (SH):**
+    -   Smoking history.
+    -   Home circumstances.
+    -   Support network.
+
+------------------------------------------------------------------------
+
+## **Examination**
+
+### **Look**
+
+1.  **Ask the patient to expose fully to examine both upper and lower limbs.**
+2.  **Walking Aids:**
+    -   Note if the patient uses walking aids and their type.
+3.  **Front, Side, and Back:**
+    -   Check for scars, deformities, and muscle wasting.
+4.  **Rhomberg’s Test:**
+    -   Observe balance with eyes closed.
+5.  **Stand on Heels:**
+    -   Test for proprioception and gait stability.
+6.  **Stand on Toes:**
+    -   Check for strength and balance.
+7.  **Heel-Toe Walk:**
+    -   Assess coordination and gait pattern.
+8.  **Hands for Intrinsic Wasting:**
+    -   Look for muscle atrophy in the hands.
+9.  **Feet and Legs for Wasting and Clawing:**
+    -   Inspect for muscle wasting and foot drop.
+10. **Gait:**
+    -   Shuffling, broad-based, ataxic, unsteady, prolonged stance, reduced cadence.
+
+### **Feel**
+
+1.  **Pain:**
+    -   Check for neck or back pain.
+2.  **Sensory Examination:**
+    -   Test dermatomes and peripheral nerves.
+    -   Offer pin prick, soft touch, 2-point discrimination, and vibration testing.
+
+### **Move**
+
+1.  **Neck & Upper Limb:**
+    -   Assess neck movements (flexion, extension, rotation).
+    -   **Lhermitte’s Sign:**
+        -   Flex neck to provoke electric shock sensation down the spine.
+    -   **Spurling’s Test:**
+        -   Compression of the cervical spine to elicit radicular symptoms.
+    -   **Shoulder Abduction Relief Sign:**
+        -   Positive if symptom relief with shoulder shrug.
+    -   **Tone:**
+        -   Check for spasticity.
+    -   **Motor Power – Myotomes:**
+        -   Test key muscle groups (C5, C6, C7, C8, T1).
+    -   **Reflexes – Hyper-reflexia:**
+        -   Check for exaggerated DTRs (e.g., biceps, triceps, brachioradialis).
+    -   **Signs of Myelopathy – UMN Signs:**
+        -   **Scapulohumeral Reflex:**
+            -   Brisk humeral abduction on percussion of scapula spine.
+        -   **Hofman’s Test:**
+            -   Flicking the nail bed to elicit finger flexion.
+        -   **Inverted Radial Reflex Sign:**
+            -   Flexion of fingers when pressing on the radial styloid.
+        -   **Ulna Finger Escape Sign:**
+            -   Flexion of fingers with resistance during extension.
+2.  **Lower Limb Examination:**
+    -   Same steps as above for sensory, tone, power, and reflexes.
+    -   **Tests for UMN Lesions in Lower Limb:**
+        -   **Babinski Sign:**
+            -   Positive if there’s an up-going plantar response.
+        -   **Clonus:**
+            -   5 beats is abnormal.
+        -   **Hyper-reflexia:**
+            -   Exaggerated reflexes in the lower limb.
+
+### **Finishing**
+
+1.  **Offer to do PR (Per Rectum) and assess perianal sensation if indicated.**
+2.  **Vascular Examination:**
+    -   Check for signs of vascular compromise.
+3.  **X-Rays:**
+    -   Full spine in neutral, flexion, and extension views.
+4.  **MRI Scan:**
+    -   To confirm diagnosis and assess for cord compression and neural involvement.
+
+# 

@@ -1,0 +1,148 @@
+---
+title: "Clinical Examination of the Spine"
+order: 2
+---
+
+## Clinical Cases
+
+-   **Scoliosis**
+-   **Spondylolisthesis**
+-   **Spina Bifida**
+-   **Foot Drop**
+-   **Cervical Myelopathy**
+-   **Ankylosing Spondylitis**
+-   **Neurofibromatosis & Scoliosis**
+-   **Spinal Stenosis**
+-   **Cervical Radiculopathy**
+-   **Lumbar Radiculopathy**
+
+------------------------------------------------------------------------
+
+## Examination of the Spine
+
+### Look (Inspection)
+
+-   Expose fully.
+-   Assess from **front** and **back** for:
+    -   Pelvic or shoulder tip asymmetry.
+    -   Posterior rib cage prominence.
+    -   Sagittal alignment (normal curves).
+-   Inspect **skin**:
+    -   Stigmata of neurological disease.
+    -   Scars.
+    -   Muscle wasting.
+-   Observe specific areas:
+    -   Shoulder girdle (C5/C6).
+    -   Hand intrinsics (C8/T1).
+    -   Calf/Quads (L3/S1).
+-   **Gait Assessment**:
+    -   General inspection for Trendelenberg or ataxia.
+    -   Heel-toe walking: Tests Tibialis Anterior (L4) and Gastrosoleus (S1).
+    -   Pigeon walking: Assesses balance and early signs of myelopathy.
+    -   **Rhomberg’s Sign**:
+        -   Eyes shut, standing still.
+        -   Excessive swaying indicates cerebellar lesion or myelopathy.
+
+### Feel (Palpation)
+
+-   Palpate spinous processes from occiput down.
+-   Check paraspinal musculature for spasm.
+-   Assess SI joints, hips, and shoulders for associated pathologies.
+
+### Move
+
+-   Assess **range of motion** (ROM) in cervical and thoracolumbar spine:
+    -   Observe for pain, restriction, or radicular symptoms.
+
+------------------------------------------------------------------------
+
+## Provocative Tests
+
+### Cervical Spine
+
+-   **Spurling’s Test**:
+    -   Extend and rotate head to affected side.
+    -   Indicates nerve root entrapment.
+-   **Lhermitte’s Sign**:
+    -   Flex and extend spine fully.
+    -   Electric-like axial pain suggests myelopathy.
+
+### Lumbar Spine
+
+-   **Straight Leg Raise (SLR)**:
+    -   Dorsiflex ankle to stretch sciatic nerve.
+-   **Cross-leg SLR**:
+    -   More sensitive than SLR.
+-   **Bowstring Test**:
+    -   Flex hip with semi-flexed knee, reduce hip flexion slightly, and straighten knee.
+-   **Femoral Stretch Test**:
+    -   Extend hip and flex knee while prone.
+
+------------------------------------------------------------------------
+
+## Neurological Examination
+
+### Motor Power (MRC Grades)
+
+-   **Grades**: 0: No power. 1: Flicker of movement. 2: Movement with gravity eliminated. 3: Overcomes gravity but no resistance. 4: Overcomes some resistance. 5: Normal power.
+
+-   **Myotomes**:
+
+    -   **C5**: Deltoid, Biceps.
+    -   **C6**: Wrist extension.
+    -   **C7**: Wrist flexion.
+    -   **C8**: Finger flexion.
+    -   **T1**: Intrinsics, little finger abduction.
+    -   **L2**: Hip flexion, adduction.
+    -   **L3**: Knee extension.
+    -   **L4**: Ankle dorsiflexion, Gluteus medius.
+    -   **L5**: EHL, EDL.
+    -   **S1**: Ankle plantarflexion.
+
+### Sensory Assessment
+
+-   **Deep Pressure, Vibration, Proprioception**: Dorsal columns.
+-   **Pinprick**: Spinothalamic tracts.
+-   **Dermatomes**:
+    -   **C3**: Supraclavicular fossa.
+    -   **C4**: Over ACJ.
+    -   **C5-C8**: Arm and hand distribution.
+    -   **T1-T2**: Medial arm/forearm.
+    -   **L2-S1**: Lower limb.
+    -   **S2-S3**: Posterior thigh, buttocks.
+
+### Reflexes
+
+-   **C5**: Biceps.
+-   **C6**: Brachioradialis.
+-   **C7**: Triceps.
+-   **L4**: Patella tendon.
+-   **S1**: Ankle jerk.
+
+------------------------------------------------------------------------
+
+## Myelopathy Signs
+
+-   **Hoffman’s Sign**:
+
+    -   Flick distal phalanx and observe reflexive thumb flexion.
+
+-   **Babinski Sign**:
+
+    -   Stroke lateral plantar aspect of sole. Big toe extension indicates UMN lesion.
+
+-   **Clonus**: 5 beats suggests myelopathy.
+
+-   **Jaw Jerk**: Striking mandible causes rapid movement; lesion above spinal cord.
+
+------------------------------------------------------------------------
+
+## Nonorganic Signs of Waddell
+
+-   Nonanatomic tenderness.
+-   Simulation signs (e.g., axial loading, rotation pain).
+-   Distraction test discrepancies.
+-   Regional sensory or motor disturbance.
+-   Overreaction during examination.
+
+{{< pagebreak >}}

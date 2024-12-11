@@ -1,0 +1,62 @@
+---
+title: "Poliomyelitis"
+---
+
+## Examination
+
+### **Look**
+
+-   **Walking Aids:**
+    -   Observe for the use of crutches, braces, or other aids.
+-   **Muscle Wasting:**
+    -   Global wasting, with particular attention to the Quadriceps.
+-   **Limb Length Discrepancy:**
+    -   Assess for differences in leg length.
+-   **Flexion Deformity of Knee:**
+    -   Check for over-pulling by hamstrings.
+-   **Foot Deformities:**
+    -   Note any type of deformity (e.g., pes cavus or claw toes).
+-   **Scars:**
+    -   Inspect hips, knees, and feet for surgical or traumatic scars.
+-   **Spine:**
+    -   Check for scoliosis.
+-   **Gait:**
+    -   Look for:
+        -   Asymmetric gait.
+        -   Reduced cadence.
+        -   Changes in foot progression angle.
+        -   Trendelenberg gait (indicating abductor weakness).
+        -   Quadriceps-deficient gait (knee hyperextension during stance phase).
+        -   Foot drop.
+        -   Compensatory movements at the pelvis, hip, knee, and ankle.
+
+------------------------------------------------------------------------
+
+### **Feel (Lying Down)**
+
+-   **Pain:**
+    -   Assess for tenderness or discomfort in affected areas.
+-   **Sensory Examination:**
+    -   Test dermatomes and peripheral nerves; sensory function is typically intact.
+-   **Motor Power:**
+    -   Assess strength in myotomes and peripheral nerves.
+-   **Upper Motor Neuron (UMN) Signs:**
+    -   Check for Clonus, Babinski sign, and altered reflexes.
+
+------------------------------------------------------------------------
+
+### **Move (Lying Down)**
+
+-   **Range of Motion (ROM):**
+    -   Evaluate ROM in all joints.
+-   **Hip Dislocation:**
+    -   Screen for any signs of dislocation.
+-   **Correctibility of Deformities:**
+    -   Test whether deformities can be corrected manually.
+
+------------------------------------------------------------------------
+
+## Finishing Steps
+
+-   Take a full history.
+-   Document findings systematically.

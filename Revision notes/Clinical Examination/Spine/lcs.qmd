@@ -1,0 +1,41 @@
+---
+title: "Lumbar Spinal Stenosis"
+---
+
+## **History**
+
+1.  **Key point in history:**
+    -   Differentiate between vascular and neurogenic stenosis.
+    -   Ask about walking distance and difficulty walking, onset and progression of symptoms.
+
+## **Look**
+
+1.  **Stooped posture:**
+    -   Observe for a kyphotic or flexed posture, especially when standing.
+2.  **Elderly:**
+    -   Note the age of the patient.
+3.  **Scars over the back:**
+    -   Check for previous surgical scars which might indicate a history of back surgery.
+
+## **Feel**
+
+1.  **Pain over lower back:**
+    -   Assess for localized or radicular pain in the lumbar area.
+
+## **Move**
+
+1.  **Restricted Range of Motion (ROM):**
+    -   Look for limited forward bending, extension, and lateral bending.
+2.  **Gait:**
+    -   Observe for a stooped, shuffling gait with a slow cadence.
+    -   The patient may walk with minimal movement to avoid symptoms.
+3.  **Lie Down**
+    -   Perform a full neurologic examination to assess for any abnormalities.
+    -   Ask the patient to perform a bicycle test (exaggerated lumbar extension while sitting on a stationary bike). Pain relief in this position suggests neurogenic claudication.
+
+## **Finishing**
+
+1.  **PR (Per Rectum) and perianal sensation:**
+    -   Perform to assess for sacral root involvement.
+2.  **Vascular examination:**
+    -   Check pulses in the legs, for color changes, and for any signs of peripheral vascular disease.

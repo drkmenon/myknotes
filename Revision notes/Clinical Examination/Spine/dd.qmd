@@ -1,0 +1,47 @@
+---
+title: "Lumbar Disc Herniation"
+---
+
+## **Look**
+
+1.  **General screening:**
+    -   Check for scars post-discectomy, which may indicate previous surgery.
+
+## **Feel**
+
+1.  **Pain in back:**
+    -   Palpate the lumbar spine for tenderness and trigger points.
+
+## **Move**
+
+1.  **Range of Motion (ROM) examination:**
+    -   Assess for restricted movements, especially in flexion, extension, and lateral bending.
+2.  **Walk:**
+    -   Observe gait for any limp, altered stride, or compensation (e.g., limp on the affected side).
+
+## **Lie Down**
+
+1.  **Full Neurologic Examination:**
+    -   Perform a detailed sensory, motor, and reflex assessment.
+2.  **Include sciatic stretch tests:**
+    -   **SLR (Straight Leg Raise):**
+        -   Positive if pain radiates down the leg below the knee.
+    -   **Lesague’s test:**
+        -   Extension of the knee with hip flexion increases radicular pain.
+    -   **Cross over test:**
+        -   Positive if pain radiates on crossing the unaffected leg over the affected one.
+    -   **Bowstring test:**
+        -   Relief of pain when the leg is lowered after a positive SLR.
+    -   **Femoral Stretch test:**
+        -   Pain in the anterior thigh when extending the knee from a flexed position at the hip.
+
+## **Finishing**
+
+1.  **PR (Per Rectum) and perianal sensation:**
+    -   Check for sacral root involvement and bowel function.
+2.  **Vascular:**
+    -   Assess pulses, color, and temperature in the legs.
+3.  **MRI:**
+    -   Recommended for visualization of the herniated disc and surrounding structures.
+
+# 

@@ -1,0 +1,59 @@
+---
+title: "Ankylosing Spondylitis "
+---
+
+## Look (Standing)
+
+-   **General Appearance:**
+    -   Male, middle-aged adult.
+    -   Head translated forwards.
+    -   Decreased horizontal gaze.
+    -   "Question mark" posture.
+    -   Loss of cervical and lumbar lordosis.
+    -   Kyphotic deformity of the thoracic spine.
+    -   Flexed attitude of hips and knees.
+-   **Eyes:** Check for uveitis.
+
+## Feel (Standing)
+
+-   **Pain:**
+    -   Over sacroiliac joints (SIJ).
+    -   Throughout the spine (indicative of Romanus lesions or pseudoarthrosis).
+-   **Chest Expansion:**
+    -   Measure at the nipple level; should be at least 7 cm.
+
+## Move (Standing)
+
+-   **Walking Assessment:**
+    -   Observe gaze pattern while walking.
+    -   Assess for hip or knee flexion contractures.
+-   **Stiff Cervical Spine:**
+    -   Measure forward gaze angle.
+    -   Assess chin-brow angle.
+    -   Check for absence of lateral bend.
+    -   Measure occiput-to-wall distance.
+-   **Stiff Thoracic Spine:**
+    -   Inability to flatten the back against a wall.
+    -   Loss of rotation with pelvis fixed.
+-   **Stiff Lumbar Spine:**
+    -   Reduced flexion on Schober's test.
+
+## Lie Down
+
+-   **Posture:**
+    -   Unable to rest head back without pillows.
+-   **Tests:**
+    -   Perform FABER test for sacroiliitis.
+    -   Assess the range of motion (ROM) in hips and knees for any fixed flexion.
+
+## Finishing Steps
+
+-   Conduct a full neurologic and vascular examination.
+
+## History
+
+-   Gather a detailed history relevant to ankylosing spondylitis.
+
+## Imaging
+
+-   Order X-rays to confirm diagnosis and assess structural changes.

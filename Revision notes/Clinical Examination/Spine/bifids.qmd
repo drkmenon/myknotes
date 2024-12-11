@@ -1,0 +1,78 @@
+---
+title: "Spina Bifida"
+---
+
+## **Goals**
+
+1.  Make the diagnosis.
+2.  Establish the level of the lesion – strongly correlates with function.
+
+------------------------------------------------------------------------
+
+## **Examination**
+
+### **Look (Standing if Possible)**
+
+-   **Orthoses:**
+    -   Observe for the presence and type of orthoses, which can indicate functional level.
+-   **Catheter:**
+    -   Presence of a catheter suggests a lower functional level.
+-   **Muscle Wasting:**
+    -   Assess for wasting in the lower limbs.
+-   **Deformities:**
+    -   Identify any visible limb deformities.
+-   **Leg Length Discrepancy:**
+    -   Measure for differences in leg length.
+-   **Limb Hypoplasia:**
+    -   Look for underdeveloped limbs.
+-   **Hip Dislocation:**
+    -   Check for signs of hip dislocation.
+-   **Spine:**
+    -   **Scoliosis:**
+        -   Present in:
+            -   90% of cases with thoracic-level lesions.
+            -   20% of cases with L5 or below lesions.
+    -   **Myelomeningocele:**
+        -   Observe for evidence of repaired or open myelomeningocele.
+    -   **Stigmata of Dysraphism:**
+        -   Pits, hairy patches, café-au-lait spots, or other cutaneous markers.
+-   **Feet:**
+    -   Look for ulcers or pressure sores.
+    -   Identify foot deformities.
+
+### **Feel**
+
+-   **Sensory Examination:**
+    -   Quantify the level of sensory loss using dermatomal mapping.
+
+### **Move**
+
+-   **Tone:**
+    -   Assess for spasticity or hypotonia.
+-   **Motor Power:**
+    -   Test muscle strength in all key groups.
+-   **Reflexes:**
+    -   Check deep tendon reflexes (DTRs).
+-   **Range of Motion (ROM):**
+    -   Assess ROM in the hips, knees, and ankles.
+    -   Look for:
+        -   Dislocations.
+        -   Joint contractures.
+        -   Spasticity.
+        -   Arthrosis.
+
+### **Gait**
+
+-   Observe gait:
+    -   With and without orthotics.
+    -   Note any compensatory mechanisms or abnormal patterns.
+
+------------------------------------------------------------------------
+
+## **Finishing**
+
+1.  Take a full history, focusing on developmental milestones and functional abilities.
+2.  Correlate clinical findings with imaging (MRI/CT or spinal X-rays) to confirm the level of the lesion.
+3.  Perform additional evaluations as needed, such as urodynamic studies or orthopedic imaging.
+
+# 

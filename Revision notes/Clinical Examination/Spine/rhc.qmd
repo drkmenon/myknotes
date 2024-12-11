@@ -1,0 +1,75 @@
+---
+title: "Rheumatoid Cervical Spine"
+---
+
+## **Key Points**
+
+-   Screen for myelopathy, impending myelopathy, and instability.
+-   Focus on detecting signs that may indicate cervical spine involvement in rheumatoid arthritis (RA).
+
+## **History**
+
+1.  **Neck pain:**
+    -   Check for chronic or recent onset.
+2.  **Occipital headaches:**
+    -   Often related to RA-induced neck issues.
+3.  **Change to walking:**
+    -   New clumsiness, gait changes, or difficulty with balance.
+4.  **Functional deterioration:**
+    -   Difficulty with activities such as dressing or typing.
+5.  **Urinary or bowel disturbance:**
+    -   May indicate severe involvement affecting the cervical spine.
+6.  **Past treatment:**
+    -   Details on previous RA treatments, including medication and biologics.
+7.  **Co-morbidities:**
+    -   Other medical conditions affecting RA (e.g., diabetes, hypertension).
+
+## **Examination**
+
+### **Look**
+
+1.  **General features of appearance related to rheumatoid:**
+    -   Observe for any signs of severe RA (e.g., deformities in hands).
+2.  **Hands:**
+    -   Look for wasting, deformities, or changes that may be RA-specific (e.g., Swan neck deformity).
+
+### **Feel**
+
+1.  **Neck pain:**
+    -   Palpate for tenderness, step deformity, or signs of atlantoaxial instability.
+2.  **Sensation in upper limbs:**
+    -   Check for any neuropathy related to RA (e.g., median nerve involvement).
+
+### **Move**
+
+1.  **Neck ROM (Range of Motion):**
+    -   Reduced neck rotation, flexion, and extension can indicate cervical spine involvement.
+2.  **Gait:**
+    -   Observe gait for signs of a myelopathic gait (e.g., shuffling, broad-based, or ataxic gait).
+
+### **Upper Limb Full Neurologic Exam**
+
+1.  **Tone, power, reflexes:**
+    -   Assess the upper limbs for any signs of weakness, clumsiness, or muscle wasting.
+2.  **Myelopathy signs:**
+    -   **Hofman's sign:** Rapid flicking of the index and thumb causes thumb adduction.
+    -   **Scapula tap:** Tap on the scapula causes shoulder abduction and elbow flexion.
+    -   **Inverted radial reflex:** An outward flicking motion of the thumb when lightly flicked.
+    -   **Hyperreflexia:** May indicate spinal cord involvement.
+
+### **Feel Lie Down**
+
+1.  **Full Lower Limb Examination:**
+    -   Sensory, motor, and reflex assessments.
+    -   Check for signs of spasticity or clonus.
+
+## **Finishing**
+
+1.  **PR (Per Rectum) and perianal sensation:**
+    -   Assess for sacral root involvement affecting bowel and bladder function.
+2.  **Vascular Exam:**
+    -   Look for signs of vascular insufficiency affecting the cervical spine.
+3.  **X-rays:**
+    -   AP (Antero-Posterior) and Lateral views to assess for joint destruction and stability.
+4.  **MRI of Cervical Spine:**
+    -   For detailed visualization of soft tissue changes, spinal cord compression, and instability.

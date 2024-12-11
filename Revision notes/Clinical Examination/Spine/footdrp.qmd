@@ -1,0 +1,82 @@
+---
+title: "Foot Drop"
+---
+
+## Differential Diagnosis
+
+### Top to Bottom:
+
+1.  **Brain:**
+    -   CVA (Cerebrovascular Accident).
+    -   Space-occupying lesion.
+2.  **Spine:**
+    -   Spinal dysraphism.
+    -   L4/5 far lateral or L5/S1 posterolateral disc lesion.
+3.  **Hip:**
+    -   Post Total Hip Replacement (THR) iatrogenic injury.
+    -   Trauma.
+4.  **Knee:**
+    -   Post Total Knee Replacement (TKR) iatrogenic injury.
+    -   Compression neuropathy under Biceps femoris fascia.
+    -   Trauma (fracture, knee dislocation).
+    -   Mass (popliteal cyst, tumor).
+    -   Direct nerve injury (penetrating injury).
+5.  **Other Causes:**
+    -   Neural tumor (e.g., neurofibroma).
+    -   Mass lesions.
+    -   Neurological conditions (e.g., Polio, Spina Bifida).
+    -   Achilles tendon rupture.
+
+------------------------------------------------------------------------
+
+## Examination
+
+### **Look**
+
+-   **Gait:**
+    -   Loss of 1st rocker.
+    -   Compensatory pelvic tilt, lateral bend, or leg circumduction.
+    -   Compensatory hip and knee flexion for foot clearance during swing.
+    -   Toes make initial contact instead of the heel.
+    -   Heel lands with a characteristic slap.
+-   **Muscle Appearance:**
+    -   Wasting of anterior and peroneal compartment muscles.
+    -   Fasciculations in affected muscles.
+-   **Scars and Masses:**
+    -   Inspect hip, knee, leg, and spine for scars or masses.
+-   **Deformities:**
+    -   Identify any deformities.
+    -   Compare with the other leg.
+
+### **Feel**
+
+-   **Sensory Assessment:**
+    -   Test dermatomes and peripheral nerves.
+-   **Tinel’s Sign:**
+    -   Perform from proximal to distal.
+-   **Popliteal Fossa:**
+    -   Palpate for masses.
+-   **Achilles Tendon:**
+    -   Assess for abnormalities.
+
+### **Move**
+
+-   **Neurological Function:**
+    -   Assess myotomes and peripheral nerve motor power:
+        -   Tibialis Anterior (TA).
+        -   Tibialis Posterior (TP).
+        -   Gastrocnemius-Soleus (GS).
+        -   Peroneal muscles.
+-   **Differentiation Tests:**
+    -   Distinguish between L5 root involvement and peripheral nerve injury by testing Gluteus Medius (GM).
+-   **Spinal Irritation Tests:**
+    -   Straight Leg Raise (SLR).
+    -   Cross-over test.
+-   **Upper Motor Neuron (UMN) Signs:**
+    -   Babinski sign.
+    -   Clonus.
+
+## Finishing Steps
+
+-   Obtain a detailed history.
+-   Conduct a vascular examination to rule out vascular causes.
