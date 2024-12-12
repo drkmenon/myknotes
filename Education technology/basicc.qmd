@@ -2,6 +2,8 @@
 title: "Basic course workshop"
 ---
 
+## Date: 31^st^ Jan - 9^th^ Feb 2024
+
 ::: {layout-ncol="2"}
 ![*The course*](images/_br.jpeg)
 
