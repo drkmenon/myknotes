@@ -88,8 +88,8 @@ format:
     fontsize: 1.2rem
     linestretch: 1.5
     fontcolor: "#1c1c1c"
-    linkcolor: grey
-    backgroundcolor: white
+    linkcolor: "#0072bb"
+    backgroundcolor: "white"
     css: styles.css
     toc: true
     responsive: true
