@@ -7,7 +7,7 @@ project:
 website:
   title: "knotes"
   site-url: https://www.knotes.co.in
-  description: "Kishore Puthezhath's official website"
+  description: "Kishore Puthezhath's digital garden built around orthopaedic stream"
   site-path: '/'
   favicon: /image/logo.png
   navbar:

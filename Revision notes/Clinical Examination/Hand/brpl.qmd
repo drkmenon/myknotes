@@ -1,0 +1,45 @@
+## Brachial Plexus Examination
+
+### Inspection
+
+-   **Posture:** Observe for any abnormal postures or deformities of the shoulder, arm, or hand.
+-   **Muscle Wasting:** Assess for any visible muscle atrophy, particularly in the shoulder, arm, forearm, and hand muscles.
+-   **Fasciculations:** Look for involuntary muscle twitching, which may indicate nerve irritation.
+-   **Scars:** Note any surgical scars, especially in the neck, shoulder, axilla, or arm.
+-   **Horner's Syndrome:** Check for ptosis, miosis, and anhidrosis, which may indicate sympathetic nerve damage.
+
+### Palpation
+
+-   **Bony Landmarks:** Palpate the clavicle, scapula, and humerus for any tenderness, deformity, or crepitus.
+-   **Muscle Tone:** Assess muscle tone and bulk by palpation.
+
+### Sensation
+
+-   **Dermatomes:** Test sensory function in the following dermatomes:
+    -   C4: Shoulder
+    -   C5: Lateral upper arm
+    -   C6: Lateral forearm and thumb
+    -   C7: Middle finger
+    -   C8: Medial forearm and little finger
+    -   T1: Medial upper arm
+
+### Motor Function
+
+-   **Root Level:**
+    -   **Dorsal Scapular Nerve:** Test rhomboid muscle function by asking the patient to retract the scapula.
+    -   **Long Thoracic Nerve:** Test serratus anterior muscle function by asking the patient to push against a wall with outstretched arms.
+-   **Trunk Level:**
+    -   **Suprascapular Nerve:** Test supraspinatus and infraspinatus muscle function by assessing shoulder abduction and external rotation.
+-   **Cords and Branches:**
+    -   **Axillary Nerve:** Test deltoid muscle function by assessing shoulder abduction.
+    -   **Musculocutaneous Nerve:** Test biceps muscle function by assessing elbow flexion.
+    -   **Radial Nerve:** Test triceps, brachioradialis, and wrist extensor muscles.
+    -   **Median Nerve:** Test thumb opposition, index finger flexion, and sensation in the lateral palm and digits.
+    -   **Ulnar Nerve:** Test finger abduction and adduction, and sensation in the medial palm and digits.
+
+### Special Tests
+
+-   **Tinel's Sign:** Percuss over the nerve to elicit paresthesia.
+-   **Phalen's Test:** Flex the wrists for 60 seconds to reproduce symptoms of carpal tunnel syndrome.
+
+**Note:** This is a general examination guide. Specific tests and maneuvers may vary depending on the clinical presentation and suspected nerve involvement.

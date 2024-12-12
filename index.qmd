@@ -1,6 +1,7 @@
 ---
 title: "Welcome new readers"
 backgroundcolor: white
+tag: [Digital garden]
 ---
 
 ```{=html}
@@ -14,11 +15,29 @@ backgroundcolor: white
 
 Contents are best viewed on a screen 10 inches or larger.
 
-This compilation represents a collection of my notes and insights gathered over the years, primarily focusing on topics related to [Research](https://www.knotes.co.in/biomedical/research%20methodology/science), [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone), [Medical Education,](https://www.knotes.co.in/education%20technology/zotero) [Catallactics](https://www.knotes.co.in/catallactics/personal/conifers) and my general experiences in these fields. Some of the [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone) content is a compilation of already available materials rather than original works. These are included for quick revision purposes. If you notice any copyright infringement, please inform me via email.
+**About These Notes 🌱** 🌿 **🌳 🌸**
 
-Everything I learn, do, or write will be added to this site over time. I hope you find the content useful and share it with others. Good luck!
+Hi! Welcome to Knotes, my collection of digital notes. They might seem a bit unconventional, so here’s some context to help you navigate.
 
-## Contact me {#sec-contact-me}
+These notes are like a growing garden—starting as seeds of thought (borrowed, taken or imagined 🌱), maturing into seedlings (🌿), and eventually blossoming into fully formed ideas (🌳, 🌸). They’re primarily written for myself, serving as a single point for my quick reference ([My collected notes in Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone) 🌳). Some, I’ve decided to share publicly out of curiosity 🤟([My baby steps in research](https://www.knotes.co.in/biomedical/research%20methodology/science))
+
+If something feels unclear or underexplained, it’s likely because these notes weren’t originally intended for an external audience. That’s part of the original idea 🌻 (`Write notes for yourself first, without prioritizing external readers`).
+
+There is an organized index and navigation system for the notes to bring in some sanity. You’ll need to start by following a link to an entry point to the garden. If you’re not sure where to begin, you might want to check out §
+
+[Research](https://www.knotes.co.in/biomedical/research%20methodology/science)
+
+[Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone)
+
+[Medical Education ](https://www.knotes.co.in/education%20technology/zotero)
+
+[Catallactics](https://www.knotes.co.in/catallactics/personal/conifers)
+
+------------------------------------------------------------------------
+
+**PPS**: Some of the [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone) content is a compilation of already available materials rather than original works. These are included for quick revision purposes. If you notice any copyright infringement, please inform me via email.
+
+## 👋 Contact me {#sec-contact-me}
 
 I teach at a medical school, Amala Institute of Medical Sciences and my office address is below:
 

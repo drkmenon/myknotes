@@ -8,9 +8,9 @@
 <title>knotes</title>
 <link>https://www.knotes.co.in/posts.html</link>
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Kishore Puthezhath&#39;s official website</description>
+<description>Kishore Puthezhath&#39;s digital garden built around orthopaedic stream</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Tue, 10 Dec 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Dec 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   215970    296319    344006    566252    437051 127848027 </code></pre>
+   208752    295115    342555    551415    436683 147435278 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62359   64063   64488   64501   64932   67111 </code></pre>
+  62004   64070   64502   64511   64948   66953 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.609e+05 3.343e+06 5.694e+06 2.720e+07 1.190e+07 1.276e+10 </code></pre>
+9.485e+05 3.264e+06 5.575e+06 2.579e+07 1.190e+07 1.472e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Tue, 10 Dec 2024 18:30:00 GMT</pubDate>
+  <pubDate>Wed, 11 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>What is Interval Training?</title>
