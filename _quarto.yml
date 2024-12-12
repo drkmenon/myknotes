@@ -88,7 +88,7 @@ format:
     fontsize: 1.2rem
     linestretch: 1.5
     fontcolor: "#1c1c1c"
-    linkcolor: blue
+    linkcolor: grey
     backgroundcolor: white
     css: styles.css
     toc: true
