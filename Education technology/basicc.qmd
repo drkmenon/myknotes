@@ -1,0 +1,19 @@
+---
+title: "Basic course workshop"
+---
+
+::: {layout-ncol="2"}
+![The course](images/_br.jpeg)
+
+![Experts](images/_br 2.jpg)
+
+11th Basic Orthopaedic Pathology Course
+:::
+
+::: {layout-ncol="2"}
+![Price money](images/_br 3.jpg){alt="The course"}
+
+![Facilitators](images/_br4.jpg){alt="Experts"}
+
+11th Basic Orthopaedic Pathology Course
+:::
