@@ -27,18 +27,44 @@ His historic unbeaten streak of 100 games between 2017 and 2018 took him to abov
 
 ## Final Game
 
-<iframe width="740" height="471" src="https://lichess.org/study/embed/LF4x850G/HCFmWifD#0" frameborder="0">
-
-</iframe>
+::: {style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"}
+<iframe 
+    src="https://lichess.org/study/embed/LF4x850G/HCFmWifD#0" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"> </iframe>
+:::
 
 Now you can see Gukesh crying out of joy, making every Indian proud 😂
 
 {{< video https://youtu.be/sbPeUgTxRwE?si=gKDQZTq50yOmuh0n >}}
 
-I was particularly impressed by Gukesh's attitude. He almost always appeared calm and composed under high-pressure situations, a demeanor that an alien like Magnus Carlsen might not enjoy. He always wanted to play, trying to create chances even with inferior positions. While pundits were giving him a .27% chance of winning, he played on. In that way, he created his own luck at one point and seized it with all hands. After the shocking win, although he almost completely broke down, he quickly regained his composure, stoically rearranged the chess pieces, thanked the chess set, and put the chair back in its position. This speaks volumes about this young talent. As Hikaru Nakamura said on his stream, Gukesh has just begun—there’s only upside to see in his future.
+I was particularly impressed by Gukesh's attitude. He almost always appeared calm and composed under high-pressure situations, a demeanor that an alien like Magnus Carlsen might not enjoy. He always wanted to play, trying to create chances even with inferior positions. While pundits were giving him a 0.27% chance of winning, he played on. In that way, he created his own luck at one point and seized it with all hands. After the shocking win, although he almost completely broke down, he quickly regained his composure, stoically rearranged the chess pieces, thanked the chess set, and put the chair back in its position. This speaks volumes about this young talent. As Hikaru Nakamura said on his stream, Gukesh has just begun—there’s only upside to see in his future.
 
 He didn’t forget to take a light jab at Magnus, the GOAT, during the press conference:
 
 > ::: {style="color: red"}
 > The title he took away from Chennai is taken back. Try to get it back!!! Who knows?
 > :::
+
+## Where do the current world champion stand?
+
+| **Player/World Champion** | **Peak FIDE Rating at Age 18** | **Year** |
+|---------------------------|--------------------------------|----------|
+| **Gukesh Dommaraju**      | 2794                           | 2024     |
+| **Magnus Carlsen**        | 2786                           | 2009     |
+| **Garry Kasparov**        | 2786                           | 1981     |
+| **Viswanathan Anand**     | 2667                           | 1987     |
+| **Vladimir Kramnik**      | 2756                           | 1993     |
+| **Anatoly Karpov**        | 2525                           | 1969     |
+| **Bobby Fischer**         | \~2729                         | 1961     |
+
+We can clearly see that he is ahead of his peers and is absurd to believe that someone like him has already reached his peak.
+
+**PS** **Historical Limitations**: \~ Ratings for earlier champions are estimated due to the lack of formal systems before FIDE introduced ratings in the 1970s.
+
+More than 2000 years back, Socrates said this:
+
+> "*The children now love luxury; they have bad manners, contempt for authority; they show disrespect for elders and love chatter in place of exercise." Socrates (circa 470/469 – 399 BCE)*
+
+I can’t help but remember this and laugh at the similar rosy recapitulations of V Kramnik.
+
+![](images/kramnik.png)
