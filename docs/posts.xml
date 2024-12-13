@@ -240,8 +240,8 @@ background-color: null;
 font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   207865    295579    342713    530474    434696 117089354 </code></pre>
+<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  207489   296371   343395   530002   436469 63815210 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62180   64088   64511   64516   64944   66988 </code></pre>
+  62268   64073   64517   64514   64949   67296 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.499e+05 3.319e+06 5.561e+06 2.349e+07 1.170e+07 1.168e+10 </code></pre>
+1.011e+06 3.316e+06 5.657e+06 2.351e+07 1.186e+07 6.344e+09 </code></pre>
 </div>
 </div>
 </section>
@@ -481,6 +481,9 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
 </table>
 <p>We can clearly see that he is ahead of his peers and is absurd to believe that someone like him has already reached his peak.</p>
 <p><strong>PS</strong> <strong>Historical Limitations</strong>: ~ Ratings for earlier champions are estimated due to the lack of formal systems before FIDE introduced ratings in the 1970s.</p>
+</section>
+<section id="salt-is-what-makes-everything-taste-good" class="level2">
+<h2 class="anchored" data-anchor-id="salt-is-what-makes-everything-taste-good">Salt is what makes everything taste good</h2>
 <p>More than 2000 years back, Socrates said this:</p>
 <blockquote class="blockquote">
 <p>“<em>The children now love luxury; they have bad manners, contempt for authority; they show disrespect for elders and love chatter in place of exercise.” Socrates (circa 470/469 – 399 BCE)</em></p>
