@@ -240,8 +240,8 @@ background-color: null;
 font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
-  207489   296371   343395   530002   436469 63815210 </code></pre>
+<pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+2.082e+05 2.961e+05 3.425e+05 8.729e+05 4.345e+05 3.030e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62268   64073   64517   64514   64949   67296 </code></pre>
+  62324   64070   64500   64503   64932   67144 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-1.011e+06 3.316e+06 5.657e+06 2.351e+07 1.186e+07 6.344e+09 </code></pre>
+9.543e+05 3.351e+06 5.559e+06 5.793e+07 1.157e+07 3.029e+11 </code></pre>
 </div>
 </div>
 </section>
@@ -1200,6 +1200,29 @@ Woese, Carl R. 2004. <span>“A New Biology for a New Century.”</span> <em>Mic
   <category>science</category>
   <guid>https://www.knotes.co.in/posts/HGT.html</guid>
   <pubDate>Thu, 09 May 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>Just stuck</title>
+  <link>https://www.knotes.co.in/posts/pm.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<blockquote class="blockquote">
+<p><em>I look all around,</em></p>
+<p><em>Looking the right, left, up, and down,</em></p>
+<p><em>Searching earnestly for enablers.</em></p>
+<p><em>But all I find are taskmasters and pretenders—</em></p>
+<p><em>Imposters abound,</em></p>
+<p><em>Thriving in a hollow dance of autistic exchange.</em></p>
+</blockquote>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <guid>https://www.knotes.co.in/posts/pm.html</guid>
+  <pubDate>Fri, 13 Dec 2024 08:38:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
