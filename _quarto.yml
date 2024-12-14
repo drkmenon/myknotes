@@ -42,7 +42,7 @@ website:
         href: posts.xml
     
   sidebar: 
-    collapse-level: 1
+    collapse-level: 2
     contents: 
       - section: Orthopaedics
         contents: Revision notes
@@ -66,9 +66,12 @@ website:
         contents: 
           - href: author.qmd
           - href: articles.qmd
+      - text: "---"
+      - section: Privacy
+        contents:
           - href: tenet.qmd
-      
-      
+      - text: "---"
+      - text: "Kishore Puthezhath"
       
     background: white
   page-navigation: true
@@ -95,7 +98,7 @@ website:
 format:
   html:
     theme:
-     cosmo
+      cosmo
     mainfont: san-sherif #palatino
     fontsize: 1.2rem
     linestretch: 1.5

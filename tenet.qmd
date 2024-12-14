@@ -2,8 +2,6 @@
 title: "Privacy Policy"
 ---
 
-## [Privacy Policy for knotes.co.in]{.underline}
-
 At knotes.co.in, we prioritize the privacy of our visitors. This Privacy Policy outlines the types of personal information collected and received by knotes.co.in and how it is used.
 
 [Information Collection and Use]{.underline}

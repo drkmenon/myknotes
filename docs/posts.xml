@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s digital garden built around orthopaedic stream</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Fri, 13 Dec 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Dec 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   203573    297787    345466    652232    443029 438800971 </code></pre>
+2.117e+05 2.957e+05 3.432e+05 8.310e+05 4.340e+05 1.354e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62225   64074   64484   64499   64923   67064 </code></pre>
+  62151   64067   64496   64503   64932   67070 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-8.585e+05 3.376e+06 5.783e+06 3.574e+07 1.230e+07 4.384e+10 </code></pre>
+9.568e+05 3.310e+06 5.659e+06 5.367e+07 1.170e+07 1.354e+11 </code></pre>
 </div>
 </div>
 </section>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Fri, 13 Dec 2024 18:30:00 GMT</pubDate>
+  <pubDate>Sat, 14 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Just stuck</title>
