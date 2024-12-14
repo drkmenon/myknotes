@@ -19,10 +19,10 @@ table {
     white-space: nowrap; /* Prevent table content from wrapping */
 }
 
-/* Make sidebar scrollable */
+
+
 #quarto-sidebar {
-    max-height: 100vh; /* Limit height to viewport */
-    overflow-y: auto;  /* Add vertical scroll when necessary */
-    position: sticky;  /* Keep sidebar fixed when scrolling */
-    top: 0;            /* Stick to the top */
+    flex: 0 0 250px; /* Sidebar fixed width */
+    overflow-y: auto; /* Allows scrolling for longer content */
 }
+
