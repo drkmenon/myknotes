@@ -20,9 +20,11 @@ table {
 }
 
 
-
-#quarto-sidebar {
-    flex: 0 0 250px; /* Sidebar fixed width */
-    overflow-y: auto; /* Allows scrolling for longer content */
+@media (max-width: 768px) {
+    .sidebar {
+        overflow-y: scroll;
+    }
 }
+
+
 
