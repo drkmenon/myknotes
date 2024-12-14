@@ -65,10 +65,9 @@ website:
       - section: About the author
         contents: 
           - href: author.qmd
+          - href: articles.qmd
           - href: tenet.qmd
-      - text: "---"
-      - section: Publications
-        contents: Journal articles
+      
       
       
     background: white
