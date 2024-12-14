@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s digital garden built around orthopaedic stream</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 12 Dec 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Dec 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-2.082e+05 2.961e+05 3.425e+05 8.729e+05 4.345e+05 3.030e+09 </code></pre>
+2.064e+05 2.970e+05 3.453e+05 1.008e+06 4.359e+05 4.032e+09 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62324   64070   64500   64503   64932   67144 </code></pre>
+  62165   64058   64489   64500   64936   66787 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.543e+05 3.351e+06 5.559e+06 5.793e+07 1.157e+07 3.029e+11 </code></pre>
+9.073e+05 3.363e+06 5.747e+06 7.136e+07 1.180e+07 4.031e+11 </code></pre>
 </div>
 </div>
 </section>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Thu, 12 Dec 2024 18:30:00 GMT</pubDate>
+  <pubDate>Fri, 13 Dec 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Stoic Gukesh on top of the world</title>
@@ -1210,10 +1210,10 @@ Woese, Carl R. 2004. <span>“A New Biology for a New Century.”</span> <em>Mic
 
 
 <blockquote class="blockquote">
-<p><em>I look all around,</em></p>
+<p><em>He looks all around,</em></p>
 <p><em>Looking the right, left, up, and down,</em></p>
 <p><em>Searching earnestly for enablers.</em></p>
-<p><em>But all I find are taskmasters and pretenders—</em></p>
+<p><em>But all he finds are taskmasters and pretenders—</em></p>
 <p><em>Imposters abound,</em></p>
 <p><em>Thriving in a hollow dance of autistic exchange.</em></p>
 </blockquote>
@@ -1222,7 +1222,7 @@ Woese, Carl R. 2004. <span>“A New Biology for a New Century.”</span> <em>Mic
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://www.knotes.co.in/posts/pm.html</guid>
-  <pubDate>Fri, 13 Dec 2024 08:38:00 GMT</pubDate>
+  <pubDate>Sat, 14 Dec 2024 01:40:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
