@@ -41,7 +41,7 @@ HIIT has demonstrated significant benefits in various populations, including:
 HIIT can be classified into various protocols based on work intensity, bout duration, session volume, and intervention duration[@Wen2019]:
 
 | **Protocol Type** | **Details** |
-|--------------------|----------------------------------------------------|
+|----|----|
 | **Long-Interval HIIT (LI-HIIT)** | Work bouts lasting **2–4 minutes** at sub-maximal intensity. |
 | **Short-Interval HIIT (SI-HIIT)** | Work bouts lasting **\<45 seconds** at sub-maximal intensity. |
 | **Sprint-Interval Training (SIT)** | Work bouts lasting **20–30 seconds** at near-maximal to maximal intensity. |
