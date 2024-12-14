@@ -64,6 +64,9 @@ website:
       - text: "---"
       - section: Publications
         contents: Journal articles
+      - text: "---"
+      - section: Farm news
+        contents: Farm news
     background: white
   page-navigation: true
   back-to-top-navigation: true
