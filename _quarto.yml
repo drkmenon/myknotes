@@ -95,7 +95,6 @@ format:
   html:
     theme:
      cosmo
-    page-layout: full
     mainfont: san-sherif #palatino
     fontsize: 1.2rem
     linestretch: 1.5
