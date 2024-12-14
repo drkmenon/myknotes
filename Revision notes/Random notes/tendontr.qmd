@@ -1,0 +1,77 @@
+---
+title: "Tendon transfer"
+---
+
+### Key Principles
+
+Force is proportional to the cross-sectional area.
+
+Amplitude is proportional to length
+
+Work capacity = Length x Cross-sectional area
+
+-   **Requirements**
+    -   Motivated patient
+    -   Donor site must be expendable
+    -   Distance
+    -   Direction
+    -   Synergy
+    -   Strength
+    -   Tension
+    -   Excursion
+
+### Importance of resting length
+
+![Blex curve](images/IMG_5546.jpeg)
+
+## Tension and Strength
+
+-   **3-5-4 Rule**:
+    -   **3**: Wrist Extension & Flexion.
+    -   **5**: EDC, FPL, EPL.
+    -   **4**: FDP, FDS.
+
+**Erb's Palsy Affected Muscles**: (Axillary, MC, suprascapular and radial nerves)
+
+-   Deltoid,
+-   Supraspinatus,
+-   Infraspinatus,
+-   Teres Minor.
+-   Biceps,
+-   Brachialis,
+-   Supinator.
+
+## Brachial Plexus palsy 
+
+#### Principles of treatment
+
+1.  **Stable Shoulder** (Supra Scapular Nerve)
+2.  **Brachio-Thoracic Pinch** (PN).
+3.  **Elbow Flexion** (MCN):
+4.  **Wrist Extension** (Lateral & Posterior Cords).
+5.  **Finger Flexion**.
+6.  **C6 Sensation** (Lateral Cord).
+
+### Solution
+
+-   **Stable Shoulder:** GH arthrodesis
+-   Elbow flexion: Pect major to biceps
+-   **Wrist Extension**: Pronator Teres (PT) → ECRB.
+-   **Finger and Thumb Extension**: FCR → EDC.
+-   **Thumb extension**: Palmaris Longus (PL) → EPL
+
+### Ulnar nerve palsy
+
+-   Index finger abduction: EI to 1^st^ DI
+-   Thumb adduction: FDS to Add pollusis
+-   Clawing: FDS to lateral band of ulnar digits
+
+### Median nerve 
+
+-   Low: EI to APB
+-   High:
+    -   \+
+
+    -   BR to FPL
+
+    -   FDP tenodesis

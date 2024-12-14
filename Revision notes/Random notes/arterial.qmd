@@ -1,0 +1,29 @@
+---
+title: "Arterial Injury"
+---
+
+### Early Management
+
+-   **Vascular Referral**
+-   Follow ATLS protocol.
+-   Direct **pressure** over open wound.
+-   Avoid clamping if possible.
+-   Relocate, realign and splint the limb.
+-   Neuro-vascular examination
+-   Many pulses will reappear after realignment.
+
+### Key Signs
+
+-   Expanding hematoma may indicate worsening injury.
+-   **Absent Pulses**
+-   Altered sensation
+
+### Revascularisation injury
+
+A delay of more than 3-4 hours will lead to warm ischemia, irreversible tissue damage and increase the risk of amputation. Delayed vascularisation also lead to myoglobulinuria and death.
+
+Duplex, CT angeogram need not be done.
+
+### Approach
+
+Temporary shunt –\> assess vascularity –\> skeletal stabilisation –\> definitive procedure –\> nerve repair if any –\>Fasciotomy

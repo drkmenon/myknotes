@@ -1,0 +1,86 @@
+---
+title: "Polio"
+---
+
+::: callout-note
+Selective affection of **AHC** in an un-immunized child causes asymmetrical motor paralysis with intact sensation.
+:::
+
+It produces
+
+-   **Deformity:** deformity is due to gravity, muscle imbalance and posture\
+-   **Weakness**\
+-   **BID**\
+-   **Instability**
+
+### Aim
+
+-   Correct deformity\
+-   Grant muscle balance\
+-   Restore stability\
+-   Equalize limbs
+
+## Non-Surgical Management
+
+**Orthotics**
+
+## Deformities
+
+### I. Hip
+
+-   **FABER Hip**
+    -   Release **TFL**, Sartorius, and Deep Fascia
+
+### II. Knee
+
+-   **Flexion and ER (External Rotation)**\
+-   **Posterior Subluxation**\
+-   **'Yount's Procedure'**
+    -   Transection and excision of part of ITB\
+    -   **Hamstring Transfer**
+
+### III. Cavus Foot
+
+**Steindler Procedure-** Tpost, Medial Calcaneal Vessels & Nerve are at risk
+
+### IV. Equinus Deformity
+
+**Z Plasty Elongation of Achilles Tendon**
+
+### V Equino cavus
+
+**JESS Fixator**
+
+## Muscle Imbalance
+
+### I. Gluteal Paralysis
+
+#### Leads to **Strong Iliopsoas and Dislocation**
+
+**Musculo-Aponeurotic Transfer** of External Oblique Muscle
+
+**Psoas Transfer**- can cause injury to femoral nerve, AVN hip and weak flexion
+
+### II. Knee
+
+#### Quadriceps Weakness
+
+**Hamstring Transfer**
+
+MRC ≥ 4
+
+No Knee Contracture
+
+Hip Flexion ≥ 3 (Biceps & ST Transfer)
+
+**Supracondylar Extension Osteotomy**
+
+1.  Hamstring ≤ 3
+2.  Flexion Contracture \< 20°
+3.  Bring Weight-Bearing Axis Anterior to Knee
+
+## Foot & Ankle
+
+-   **EDL Transfer**
+-   **Tibialis Anterior Transfer**
+-   **Triple Arthrodesis**
