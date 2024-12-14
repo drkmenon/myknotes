@@ -26,12 +26,12 @@ It produces
 
 ## Deformities
 
-### I. Hip
+### Hip
 
 -   **FABER Hip**
     -   Release **TFL**, Sartorius, and Deep Fascia
 
-### II. Knee
+### Knee
 
 -   **Flexion and ER (External Rotation)**\
 -   **Posterior Subluxation**\
@@ -39,21 +39,21 @@ It produces
     -   Transection and excision of part of ITB\
     -   **Hamstring Transfer**
 
-### III. Cavus Foot
+### Cavus Foot
 
 **Steindler Procedure-** Tpost, Medial Calcaneal Vessels & Nerve are at risk
 
-### IV. Equinus Deformity
+### Equinus Deformity
 
 **Z Plasty Elongation of Achilles Tendon**
 
-### V Equino cavus
+### Equino cavus
 
 **JESS Fixator**
 
 ## Muscle Imbalance
 
-### I. Gluteal Paralysis
+### Gluteal Paralysis
 
 #### Leads to **Strong Iliopsoas and Dislocation**
 
@@ -61,7 +61,7 @@ It produces
 
 **Psoas Transfer**- can cause injury to femoral nerve, AVN hip and weak flexion
 
-### II. Knee
+### Knee
 
 #### Quadriceps Weakness
 
@@ -79,7 +79,7 @@ Hip Flexion ≥ 3 (Biceps & ST Transfer)
 2.  Flexion Contracture \< 20°
 3.  Bring Weight-Bearing Axis Anterior to Knee
 
-## Foot & Ankle
+### Foot & Ankle
 
 -   **EDL Transfer**
 -   **Tibialis Anterior Transfer**
