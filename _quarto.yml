@@ -42,7 +42,7 @@ website:
         href: posts.xml
     
   sidebar: 
-    collapse-level: 2
+    collapse-level: 1
     contents: 
       - section: Orthopaedics
         contents: Revision notes
@@ -59,7 +59,7 @@ website:
       - section: Blog
         contents: posts
       - text: "---"
-      - section: Farm news
+      - section: News
         contents: Farm news
       - text: "---"
       - section: About the author
@@ -69,6 +69,8 @@ website:
       - text: "---"
       - section: Publications
         contents: Journal articles
+      
+      
     background: white
   page-navigation: true
   back-to-top-navigation: true

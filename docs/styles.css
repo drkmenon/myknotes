@@ -20,18 +20,7 @@ table {
 }
 
 
-/* In your Quarto custom CSS file (e.g., _custom.scss or directly in the _quarto.yml) */
-@media (max-width: 768px) {
-    .sidebar {
-      
-        top: 0;
-        bottom: 0;
-        height: auto; /* Allow sidebar to expand with content */
-        overflow-y: scroll; /* Enables vertical scroll */
-        scroll-behavior: smooth; /* Enables smooth scrolling */
-        z-index: 1000;
-    }
-}
+
 
 
 
