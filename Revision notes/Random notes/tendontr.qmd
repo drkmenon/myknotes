@@ -10,15 +10,16 @@ Amplitude is proportional to length
 
 Work capacity = Length x Cross-sectional area
 
--   **Requirements**
-    -   Motivated patient
-    -   Donor site must be expendable
-    -   Distance
-    -   Direction
-    -   Synergy
-    -   Strength
-    -   Tension
-    -   Excursion
+**Requirements**
+
+-   Motivated patient
+-   Donor site must be expendable
+-   Distance
+-   Direction
+-   Synergy
+-   Strength
+-   Tension
+-   Excursion
 
 ### Importance of resting length
 
