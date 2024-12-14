@@ -3,6 +3,9 @@ title: "Stoic Gukesh on top of the world"
 subtitle: "You create your own luck"
 order: 3
 date: 12  december 2024
+author: "Kishore Puthezhath"
+categories:
+  - chess
 ---
 
 The 2024 World Chess Championship, officially titled the **World Chess Championship 2024 presented by Google**, featured an exciting showdown between reigning champion Ding Liren and challenger Gukesh Dommaraju to crown the next World Chess Champion. Held in Singapore from November 25 to December 12, 2024, the match followed a best-of-14-games format, with tiebreakers planned if needed. With an Indian trying to reach top of the world, I was absolutely captivated by the games and couldn’t take my eyes off the screen!
@@ -28,9 +31,9 @@ His historic unbeaten streak of 100 games between 2017 and 2018 took him to abov
 ## Final Game
 
 ::: {style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"}
-<iframe 
-    src="https://lichess.org/study/embed/LF4x850G/HCFmWifD#0" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"> </iframe>
+<iframe src="https://lichess.org/study/embed/LF4x850G/HCFmWifD#0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+
+</iframe>
 :::
 
 Now you can see Gukesh crying out of joy, making every Indian proud 😂
