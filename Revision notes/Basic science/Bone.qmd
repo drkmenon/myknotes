@@ -3,13 +3,11 @@ title: "Introduction"
 order: 1
 ---
 
-Here, you will have unlimited access to **high-quality content covering all aspects of orthopaedics**, providing you with the knowledge you need to successfully pass any orthopaedic examination and establish a strong foundation for your surgical practice.
+In this part of the garden 🌱, you will have unlimited access to **high-quality notes covering all aspects of orthopaedics**. This 📔 is the part of contents used by me to prepare for my FRCS orthopaedic examination.
 
-Most importantly, **this resource is guaranteed to remain free forever**. You will have the opportunity to learn at your own pace on clinically relevant and timely topics, while consistently experiencing palpable enhancement in your knowledge.
+The content is organized into several main sections, each divided into various subcategories that function as individual lessons. The goal is that, by completing the entire content, your knowledge will be thorough enough to pass the first part of the fellowship examination.
 
-The content is organized into five main sections, each divided into various subcategories that function as individual lessons. The goal is that, by completing the entire course, your knowledge will be thorough enough to pass the first part of the fellowship examination.
-
-::: callout-important
+::: callout-note
 ## Important
 
 **This is a continuous project and will expand over time**. Eventually, each lesson will include hand drawn diagrams, a video lecture, and additional related materials.
