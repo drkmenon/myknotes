@@ -40,6 +40,7 @@ website:
         href: posts.qmd
       - icon: rss
         href: posts.xml
+    
   sidebar: 
     contents: 
       - section: Orthopaedics
@@ -57,6 +58,9 @@ website:
       - section: Blog
         contents: posts
       - text: "---"
+      - section: Farm news
+        contents: Farm news
+      - text: "---"
       - section: About the author
         contents: 
           - href: author.qmd
@@ -64,9 +68,6 @@ website:
       - text: "---"
       - section: Publications
         contents: Journal articles
-      - text: "---"
-      - section: Farm news
-        contents: Farm news
     background: white
   page-navigation: true
   back-to-top-navigation: true
