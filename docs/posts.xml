@@ -241,7 +241,7 @@ font-style: inherit;">summary</span>(mean_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-   210110    296053    342427    627079    433609 472369941 </code></pre>
+   213212    296142    343491    511129    431139 140854378 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -251,7 +251,7 @@ font-style: inherit;">summary</span>(median_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  62148   64070   64496   64505   64928   67221 </code></pre>
+  62251   64064   64493   64500   64925   67601 </code></pre>
 </div>
 <details open="" class="code-fold">
 <summary>Code</summary>
@@ -261,7 +261,7 @@ font-style: inherit;">summary</span>(sd_income)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
 <pre><code>     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
-9.251e+05 3.305e+06 5.601e+06 3.319e+07 1.160e+07 4.719e+10 </code></pre>
+9.343e+05 3.329e+06 5.676e+06 2.182e+07 1.162e+07 1.406e+10 </code></pre>
 </div>
 </div>
 </section>
@@ -1222,7 +1222,7 @@ Woese, Carl R. 2004. <span>“A New Biology for a New Century.”</span> <em>Mic
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://www.knotes.co.in/posts/pm.html</guid>
-  <pubDate>Sat, 14 Dec 2024 12:43:40 GMT</pubDate>
+  <pubDate>Sat, 14 Dec 2024 14:32:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
