@@ -1,5 +1,9 @@
 ---
 title: "Just stuck"
+date: 13 december 2024
+categories:
+  - musings
+author: "Kishore Puthezhath"
 ---
 
 > *He looks all around,*
