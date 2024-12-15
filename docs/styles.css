@@ -16,7 +16,7 @@ table {
     display: block; /* Make table a block element */
     max-width: 100%; /* Restrict table to fit within the screen width */
     overflow-x: auto; /* Enable horizontal scrolling */
-    white-space: nowrap; /* Prevent table content from wrapping */
+    white-space: wrap; /* Prevent table content from wrapping */
 }
 
 
