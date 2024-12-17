@@ -1,0 +1,7 @@
+---
+title: "Top of mind"
+---
+
+A kind of `now` page focusing on something that is foremost in my thoughts or a priority in my consideration.
+
+-   Nourish the garden

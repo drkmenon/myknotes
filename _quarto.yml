@@ -14,7 +14,7 @@ website:
    icon: info-circle
    dismissable: true
    content: "**Save the date** - 11th Basic Orthopaedic Pathology Course **31 Jan** to **9 Feb 2025**  [click here](https://www.knotes.co.in/education%20technology/basicc)"
-   type: primary
+   type: light
    position: below-navbar
   navbar:
     background: "#f9fbfd"
@@ -62,6 +62,9 @@ website:
       - section: News
         contents: Farm news
       - text: "---"
+      - section: Backyard
+        contents: Dumping ground
+      - text: "---"
       - section: About the author
         contents: 
           - href: author.qmd
@@ -71,10 +74,9 @@ website:
         contents:
           - href: tenet.qmd
       - text: "---"
-      - text: "Kishore Puthezhath"
       
     background: white
-  page-navigation: true
+  page-navigation: false
   back-to-top-navigation: true
   page-footer:
     right: "Copyright 2024 @ Kishore Puthezhath"
@@ -99,7 +101,7 @@ format:
   html:
     theme:
       light: [cosmo, theme.scss]
-    mainfont: san-sherif #palatino
+    #mainfont: san-sherif #palatino
     code-copy: true
     code-overflow: wrap
     fontsize: 1.2rem

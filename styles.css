@@ -20,6 +20,20 @@ table {
 }
 
 
+.sidebar {
+  height: 100vh; /* Full viewport height for larger screens */
+  overflow-y: auto;
+}
+
+/* For smaller screens */
+@media (max-width: 768px) { /* Adjust as necessary */
+  .sidebar {
+    height: auto;
+  }
+}
+
+
+
 
 
 
