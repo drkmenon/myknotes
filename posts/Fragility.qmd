@@ -3,7 +3,14 @@ title: "Problem of life span and strength"
 order: 1
 categories: 
    - medicine
-author: "Kishore Puthezhath"
+description: | 
+  A summary of the available evidence about diet and exercises
+author:
+  - name: Kishore Puthezhath 
+    url: https://knotes.co.in
+    affiliation: KUHS
+    affiliation-url: http://amalaims.org/department/faculty-profile/dr-kishore-p
+citation: true
 nosite:
 date: 12.07.2024
 ---
