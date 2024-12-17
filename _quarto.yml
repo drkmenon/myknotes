@@ -76,7 +76,7 @@ website:
       - text: "---"
       
     background: white
-  page-navigation: false
+  page-navigation: true
   back-to-top-navigation: true
   page-footer:
     right: "Copyright 2024 @ Kishore Puthezhath"
