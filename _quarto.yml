@@ -73,7 +73,6 @@ website:
       - section: Privacy
         contents:
           - href: tenet.qmd
-      - text: "---"
       
     background: white
   page-navigation: true
