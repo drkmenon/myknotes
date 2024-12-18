@@ -42,3 +42,17 @@ $text-muted: #6a737b;
 #quarto-announcement a {
   color: $white;
 }
+
+ @media screen and (max-width: 768px) {           
+  .sidebar {
+    overflow-y: auto !important;
+    max-height: 100vh !important;
+    position: fixed !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    
+    z-index: 9999 !important; /* Ensures it's on top */
+    background-color: #fff; /* Optional: Add a background for clarity */
+  }
+}
+
