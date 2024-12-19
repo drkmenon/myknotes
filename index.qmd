@@ -4,16 +4,9 @@ backgroundcolor: white
 tag: [Digital garden]
 ---
 
-```{=html}
-<div style="background-color: #ffffff; padding: 10px 0; text-align: center;">
-    <h1> </h1>
-    <p> Please select the content you wish to read from the sidebar or click below  </p>
-    <a href= https://www.knotes.co.in/revision%20notes/basic%20science/bone style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #00609b; color: white; text-decoration: none; border-radius: 5px;">Orthopaedics</a>
-    <a href=https://www.knotes.co.in/research%20methodology/science style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #006200; color: white; text-decoration: none; border-radius: 5px;">Research</a>
-</div>
-```
-
+::: callout-note
 Contents are best viewed on a screen 10 inches or larger.
+:::
 
 **About These Notes 🌱** 🌿 **🌳 🌸**
 
@@ -36,6 +29,15 @@ There is an organized index and navigation system for the notes to bring in some
 ------------------------------------------------------------------------
 
 **PPS**: Some of the [Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone) content is a compilation of already available materials rather than original works. These are included for quick revision purposes. If you notice any copyright infringement, please inform me via email.
+
+```{=html}
+<div style="background-color: #ffffff; padding: 10px 0; text-align: center;">
+    <h1> </h1>
+    <p> Please select the content you wish to read from the sidebar or click below  </p>
+    <a href= https://www.knotes.co.in/revision%20notes/basic%20science/bone style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #00609b; color: white; text-decoration: none; border-radius: 5px;">Orthopaedics</a>
+    <a href=https://www.knotes.co.in/research%20methodology/science style="display: inline-block; margin: 10px; padding: 10px 20px; background-color: #006200; color: white; text-decoration: none; border-radius: 5px;">Research</a>
+</div>
+```
 
 ## 👋 Contact me {#sec-contact-me}
 
