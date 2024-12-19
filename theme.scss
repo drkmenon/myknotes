@@ -43,21 +43,7 @@ $text-muted: #6a737b;
   color: $white;
 }
 
- @media screen and (max-width: 768px) {           
-  .sidebar {
-    overflow-y: auto !important;
-    max-height: 100vh !important;
-    position: fixed !important;
-    #top: 90px !important;
-    bottom: 0 !important;
-    padding: 1px;
-    z-index: 1200 !important; /* Ensures it's on top */
-  }
-}
+ 
 
-
-.sidebar .element {
-  margin: 0;
-}
 
 

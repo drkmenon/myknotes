@@ -10,12 +10,12 @@ website:
   description: "Kishore Puthezhath's digital garden built around orthopaedic stream"
   site-path: '/'
   favicon: /image/logo.png
-  announcement: 
-   icon: info-circle
-   dismissable: true
-   content: "**Save the date** - 11th Basic Orthopaedic Pathology Course **31 Jan** to **9 Feb 2025**  [click here](https://www.knotes.co.in/education%20technology/basicc)"
-   type: light
-   position: below-navbar
+  #announcement: 
+   #icon: info-circle
+   #dismissable: true
+   #content: "**Save the date** - 11th Basic Orthopaedic Pathology Course **31 Jan** to **9 Feb 2025**  [click here](https://www.knotes.co.in/education%20technology/basicc)"
+   #type: light
+   #position: below-navbar
   navbar:
     background: "#f9fbfd"
     foreground: dark
@@ -66,6 +66,8 @@ website:
       - text: "---"
       - section: Musing
         contents: News
+    
+     
       
      
   page-navigation: true
