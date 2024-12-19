@@ -32,8 +32,8 @@ $text-muted: #6a737b;
 }
 
 #quarto-announcement {
-  padding: 1em;
-  font-size: 1em;
+  #padding: 1em;
+  #font-size: 1em;
   font-weight: normal;
   color: $white;
   background-color: #447099; 
@@ -48,11 +48,11 @@ $text-muted: #6a737b;
     overflow-y: auto !important;
     max-height: 100vh !important;
     position: fixed !important;
-    top: 0 !important;
+    #top: 0 !important;
     bottom: 0 !important;
-    
     z-index: 9999 !important; /* Ensures it's on top */
     background-color: #fff; /* Optional: Add a background for clarity */
   }
 }
+
 

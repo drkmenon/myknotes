@@ -4,10 +4,13 @@ format: html
 draft: true
 ---
 
-sidebar: 
-    collapse-level: 2
-      - title: "Orthopaedics"
-        contents: Revision notes
+sidebar: collapse-level: 2 - title: "Orthopaedics" contents: Revision notes - text: "---" - section: Medical Education contents: Education technology - text: "---"\
+- section: Research contents: Biomedical - text: "---" - section: Practical Catallactics contents: Catallactics - text: "---" - section: Blog contents: posts - text: "---" - section: News contents: Farm news - text: "---" - section: Backyard contents: Dumping ground - text: "---" - section: About the author contents: - href: author.qmd - href: articles.qmd - text: "---" - section: Privacy contents: - href: tenet.qmd - text: "---"
+
+```         
+contents: 
+       - section: Orthopaedics
+         contents: Revision notes
       - text: "---"
       - section: Medical Education
         contents: Education technology
@@ -35,4 +38,4 @@ sidebar:
       - section: Privacy
         contents:
           - href: tenet.qmd
-      - text: "---"
+```

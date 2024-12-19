@@ -42,8 +42,7 @@ website:
         href: posts.xml
     
   sidebar: 
-    collapse-level: 2
-    contents: 
+     contents: 
       - section: Orthopaedics
         contents: Revision notes
       - text: "---"
@@ -73,8 +72,8 @@ website:
       - section: Privacy
         contents:
           - href: tenet.qmd
-      
-    background: white
+     
+     background: white
   page-navigation: true
   back-to-top-navigation: true
   page-footer:
@@ -103,8 +102,8 @@ format:
     #mainfont: san-sherif #palatino
     code-copy: true
     code-overflow: wrap
-    fontsize: 1.2rem
-    linestretch: 1.5
+    #fontsize: 1.2rem
+    #linestretch: 1.5
     fontcolor: "#1c1c1c"
     linkcolor: "#0072bb"
     backgroundcolor: "white"
