@@ -4,4 +4,6 @@ format: html
 date: december 19 2024
 ---
 
-\| Best relationships are useless
+| Best relationships are useless
+
+[useless: something that has no practical use, purpose, or benefit]{.aside}
