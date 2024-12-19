@@ -40,8 +40,14 @@ website:
         href: posts.qmd
       - icon: rss
         href: posts.xml
-    
+    right:
+      - text: "More"
+        menu:
+          - author.qmd
+          - articles.qmd
+          - tenet.qmd
   sidebar: 
+     style: "floating"
      contents: 
       - section: Orthopaedics
         contents: Revision notes
@@ -58,22 +64,10 @@ website:
       - section: Blog
         contents: posts
       - text: "---"
-      - section: News
-        contents: Farm news
-      - text: "---"
-      - section: Backyard
-        contents: Dumping ground
-      - text: "---"
-      - section: About the author
-        contents: 
-          - href: author.qmd
-          - href: articles.qmd
-      - text: "---"
-      - section: Privacy
-        contents:
-          - href: tenet.qmd
+      - section: Musing
+        contents: News
+      
      
-     background: white
   page-navigation: true
   back-to-top-navigation: true
   page-footer:

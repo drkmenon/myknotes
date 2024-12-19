@@ -4,9 +4,6 @@ format: html
 draft: true
 ---
 
-sidebar: collapse-level: 2 - title: "Orthopaedics" contents: Revision notes - text: "---" - section: Medical Education contents: Education technology - text: "---"\
-- section: Research contents: Biomedical - text: "---" - section: Practical Catallactics contents: Catallactics - text: "---" - section: Blog contents: posts - text: "---" - section: News contents: Farm news - text: "---" - section: Backyard contents: Dumping ground - text: "---" - section: About the author contents: - href: author.qmd - href: articles.qmd - text: "---" - section: Privacy contents: - href: tenet.qmd - text: "---"
-
 ```         
 contents: 
        - section: Orthopaedics
@@ -38,4 +35,17 @@ contents:
       - section: Privacy
         contents:
           - href: tenet.qmd
+```
+
+```         
+- href: index.qmd
+        text: Home
+      - href: https://www.knotes.co.in/revision%20notes/basic%20science/bone
+        text: Orthopaedics
+      - href: https://www.knotes.co.in/biomedical/research%20methodology/science
+        text: Research
+      - text: My blog
+        href: posts.qmd
+      - icon: rss
+        href: posts.xml
 ```

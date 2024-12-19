@@ -48,11 +48,16 @@ $text-muted: #6a737b;
     overflow-y: auto !important;
     max-height: 100vh !important;
     position: fixed !important;
-    #top: 0 !important;
+    #top: 90px !important;
     bottom: 0 !important;
-    z-index: 9999 !important; /* Ensures it's on top */
-    background-color: #fff; /* Optional: Add a background for clarity */
+    padding: 1px;
+    z-index: 1200 !important; /* Ensures it's on top */
   }
+}
+
+
+.sidebar .element {
+  margin: 0;
 }
 
 
