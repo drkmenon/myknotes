@@ -1,5 +1,5 @@
 ---
-title: Jensen's inequality and risk reward
+title: Jensen's inequality
 comments: 
   hypothesis: true
 date: 09/02/2024

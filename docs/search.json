@@ -6056,7 +6056,7 @@
   {
     "objectID": "Catallactics/Personal/sequence1.html",
     "href": "Catallactics/Personal/sequence1.html",
-    "title": "Market risk is not the only risk in market",
+    "title": "Risk",
     "section": "",
     "text": "The Nifty index came into existence around 29 years ago in April 1996. If you had invested ₹100 on that date, you would have received a compounded annual growth rate (CAGR) of 12.03%, with the initial corpus growing to ₹2296. We all know that in the future, the return may be lower, higher, or even the same. We are blind to the future return of the index, say, after another 29 years; this is what we may call market risk.\nThis average return cleverly hides other important risks: volatility risk, inaction risk and sequence of return risk. They require a little explanation to understand their true impact on us.\nSequence of return risk originates from the fact that, unlike an index, we have a life cycle, and we invest to meet life cycle events without having to beg for help. These events include non-discretionary and discretionary spending after retirement (forced or voluntary), child education, marriage expenses, medical expenses, etc., to mention a few. Hence, whether we like it or not, we have to involuntarily time the market—namely, the starting point of the investment journey, in-between investments (regular or irregular SIPs), and the endpoint when we start withdrawing money as a lump sum or as regular or irregular SWPs.\nEssentially, unlike an index, for us, the sequence in which the return is generated matters as much as the rate of return. We may try to understand this from the following example.\nMr. Mony, 65, painstakingly accumulated a corpus of ₹1 crore for his retirement. He retired in 2006 and plans to withdraw ₹4 lakhs every year. He has all his retirement corpus in a Nifty ETF. He did so thinking that in the long term, say, the next 30 years, the CAGR would beat inflation, unlike debt instruments like G-secs or bonds.\nLet us analyze his next 5 years. His realized returns are shown below:\n\n\n\nYear\nReturn\n\n\n\n\n2007\n+54%\n\n\n2008\n-52%\n\n\n2009\n+76%\n\n\n2010\n+18%\n\n\n2011\n-25%\n\n\n\nMr. Mony’s portfolio calculation for the 5 years is as follows:\n((10000000 * 1.54) - 400000) * 0.48 - 400000) * 1.76 - 400000) * 1.18 - 400000) * 0.75 - 400000) = ₹9,537,680\nHe ended up poorer by ₹462,320 in 2011.\nThis need not be the only sequence that may play out in the future. In fact, there are 5! (5 factorial) ways by which the sequence can play out, i.e., 120 different paths, of which he will experience only one. If all the returns play out in descending order of magnitude, what will be the total portfolio value (TPV) of the retirement fund after 5 years?\nReturns:\n\n\n\nReturn\n\n\n\n\n+76%\n\n\n+54%\n\n\n+18%\n\n\n-25%\n\n\n-52%\n\n\n\nTPV = (10000000 * 1.76) - 400000) * 1.54 - 400000) * 1.18 - 400000) * 0.75 - 400000) * 0.48 - 400000) = ₹10,492,313.60\nHe would have been richer by ₹492,313.60 in 2011.\nWhat would be the TPV if the returns were sequenced in reverse, in ascending order of magnitude?\n\n\n\nReturn\n\n\n\n\n-52%\n\n\n-25%\n\n\n+18%\n\n\n+54%\n\n\n+76%\n\n\n\nTPV = (10000000 * 0.48) - 400000) * 0.75 - 400000) * 1.18 - 400000) * 1.54 - 400000) * 1.76 - 400000) = ₹7,086,828.80\nHe would have lost around 30% of his corpus after 5 years, sitting on a loss of ₹2,913,171.20.\nIf he had never retired, he would not have faced this problem of sequence of return risk.\nTPV (Buy and hold):\n\nWith returns in ascending order: (10000000 * 0.48) * 0.75 * 1.18 * 1.54 * 1.76 = ₹11,513,779.20\nWith returns in descending order: (10000000 * 1.76) * 1.54 * 1.18 * 0.75 * 0.48 = ₹11,513,779.20\n\nIn summary, if we are buying and holding a volatile asset like an equity index, the sequence in which the return is received every year/month/day never matters. This is because CAGR is calculated by multiplying the periodic returns. If there are no additions or subtractions in between, the order in which we multiply never affects the final value.\n\n\n\n\n\n\nTip\n\n\n\nSequence of return risk not only affects the TPV when we withdraw but also equally affects TPV when we are periodically adding money through SIPs.\n\n\nWhat if we withdraw or add a fixed percentage instead of a fixed amount? When exactly in your life cycle does sequence of return risk bites you most? see sequence of return risk\n\n\n\n Back to top",
     "crumbs": [
@@ -6064,7 +6064,7 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Market risk is not the only risk in market"
+      "Risk"
     ]
   },
   {
@@ -8888,7 +8888,7 @@
   {
     "objectID": "Catallactics/Personal/jenson.html",
     "href": "Catallactics/Personal/jenson.html",
-    "title": "Jensen’s inequality and risk reward",
+    "title": "Jensen’s inequality",
     "section": "",
     "text": "Important\n\n\n\nAny activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.\n\n\ne.g., Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.",
     "crumbs": [
@@ -8896,13 +8896,13 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Jensen's inequality and risk reward"
+      "Jensen's inequality"
     ]
   },
   {
     "objectID": "Catallactics/Personal/jenson.html#what-is-a-convex-position",
     "href": "Catallactics/Personal/jenson.html#what-is-a-convex-position",
-    "title": "Jensen’s inequality and risk reward",
+    "title": "Jensen’s inequality",
     "section": "",
     "text": "Important\n\n\n\nAny activity that result in unlimited potential upside with a limited quantifiable downside can be called convex.\n\n\ne.g., Learning, writing a book, research, start-ups and buying derivatives are similar; they are all convex. Risk of failure is high, but the reward one may recieve if successful will be life changing.",
     "crumbs": [
@@ -8910,13 +8910,13 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Jensen's inequality and risk reward"
+      "Jensen's inequality"
     ]
   },
   {
     "objectID": "Catallactics/Personal/jenson.html#risk-and-pay-off-graph",
     "href": "Catallactics/Personal/jenson.html#risk-and-pay-off-graph",
-    "title": "Jensen’s inequality and risk reward",
+    "title": "Jensen’s inequality",
     "section": "Risk and pay-off graph",
     "text": "Risk and pay-off graph\nAssume that we have a pay-off, g, which is a convex function of risk, x, given by f(x)=g.\nLet us plot risk, x, in x axis and pay-off, g, in y axis. When we go to the right in the x axis, risk goes on increasing and at one point x2, risk is 100%. We can loose everything deployed. Yet the reward is exponentially high to ignore,1000%!. In the extreme left, x1 , we can deploy the same asset with zero risk to get a modest return of 9%. Let the probability of x1 be p1 and probability of x2 be p2. p1 is extremely likely event and p2 is less likely event, and they can be unrelated. But for simplicity, p1 is around 66% and p2 is around 33% ( assuming that x2 happens when ever market moves more than 10% in either directions in 6 months). The below diagram graphically depicts the above mentioned scenario.\n\n\n\nJensen’s inequality\n\n\nIf all assets are deployed at x1, we can generate a return of f(E(x1))=9% with very high probability of success with almost zero risk. On the other hand, if we deploy all the assets at x2, we may generate a mind blowing return of f(E(x2))=1000%, but with a very high probability of 100% capital loss.\nAssume we have a combination of x1 and x2. Here, Jensen’s inequality says that expected value of g will always be greater than or equal to the function of the expected value of x, given that the f(x) is convex\n\\[\nE(g) &gt;= f(E(x))\n\\]\n\nConclusion\n\nNever put all eggs in one basket of similar risk-pay-off profile.\n\nOur immediate hunch will be to distribute the asset in all possible values of x to get an expected pay-off which is greater than the sum of the individual returns. This is true for a single period return.\nProblem with this is, when we invest for multiple periods without rebalancing, the approach neglect the following facts:\n\nthe money weighted moral expectation (geometric mean) is the true pay-off or return.\nThe correlation between various asset classes play a major role in determining the final return.\n\nBecause most asset classes which are originally negatively correlated become positively correlated during a draw-down, diversification reduces the geometric mean to mediocre levels.\n\n\n\n\n\n\nCaution\n\n\n\nIn other words, for multiple period investment, the true return is not the arithmetic mean, it is the geometric mean of money weighted return on capital. Diversification reduces the downside risk, but with a bad side effect of reducing the upside risk.\n\n\nThen, what should be our strategy?\nFor multiple period time horizon, it is impossible to predict the future return. What we can do is try to domesticate uncertainty by limiting the downside risk to minimum fixed value while keeping all the upside risks untouched.\nIn short, what we should try for is diversification in time using asset classes that can capture unlimited upside risk and at the same time limit any downside risk to fixed quantity, not diversification of assets.",
     "crumbs": [
@@ -8924,13 +8924,13 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Jensen's inequality and risk reward"
+      "Jensen's inequality"
     ]
   },
   {
     "objectID": "Catallactics/Personal/jenson.html#best-of-both-worlds",
     "href": "Catallactics/Personal/jenson.html#best-of-both-worlds",
-    "title": "Jensen’s inequality and risk reward",
+    "title": "Jensen’s inequality",
     "section": "Best of both worlds",
     "text": "Best of both worlds\n§1. Deploy almost all assets in a risk free instrument with an certain return for all time periods and use a small amount of capital to speculate in a highly convex instrument totally unrelated to the original asset.\n§2. Deploy almost all assets in a moderately risky instrument and take insurance against downside.\n\n\n\nBarbell",
     "crumbs": [
@@ -8938,13 +8938,13 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Jensen's inequality and risk reward"
+      "Jensen's inequality"
     ]
   },
   {
     "objectID": "Catallactics/Personal/jenson.html#assumptions",
     "href": "Catallactics/Personal/jenson.html#assumptions",
-    "title": "Jensen’s inequality and risk reward",
+    "title": "Jensen’s inequality",
     "section": "Assumptions",
     "text": "Assumptions\n\nYou have a substantial corpus\nYour time horizon is moderate\nYour contributions are relatively small when compared to the corpus which you want to grow and protect.",
     "crumbs": [
@@ -8952,7 +8952,7 @@
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Jensen's inequality and risk reward"
+      "Jensen's inequality"
     ]
   },
   {

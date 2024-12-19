@@ -1,5 +1,6 @@
 ---
-title: Market risk is not the only risk in market
+title: Risk
+subtitle: Market risk is not the only risk
 comments: 
   hypothesis: true
 date: 13 October 2024
