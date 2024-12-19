@@ -1,6 +1,5 @@
 ---
-title: "rel"
-format: html
+title: "relationship"
 date: december 19 2024
 ---
 
