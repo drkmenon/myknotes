@@ -19,9 +19,9 @@ Contents are best viewed on a screen 10 inches or larger.
 
 Hi! Welcome to Knotes, my collection of digital notes. They might seem a bit unconventional, so here’s some context to help you navigate.
 
-These notes are like a growing garden—starting as seeds of thought (borrowed, taken or imagined 🌱), maturing into seedlings (🌿), and eventually blossoming into fully formed ideas (🌳, 🌸). They’re primarily written for myself, serving as a single point for my quick reference ([My collected notes in Orthopaedics](https://www.knotes.co.in/revision%20notes/basic%20science/bone) 🌳). Some, I’ve decided to share publicly out of curiosity 🤟([My baby steps in research](https://www.knotes.co.in/biomedical/research%20methodology/science))
+These notes are like a growing garden—starting as seeds of thought (borrowed, taken or imagined 🌱), maturing into seedlings (🌿), and eventually blossoming into fully formed ideas (🌳, 🌸). They’re primarily written for myself, serving as a single point for my quick reference ([My collected notes in Orthopaedics](Revision notes/Basic science/Bone.qmd) 🌳). Some, I’ve decided to share publicly out of curiosity 🤟([My baby steps in research](Research Methodology/science.qmd))
 
-If something feels unclear or underexplained, it’s likely because these notes weren’t originally intended for an external audience. That’s part of the original idea 🌻 (`Write notes for yourself first, without prioritizing external readers`).
+If something feels unclear or under explained, it’s likely because these notes weren’t originally intended for an external audience. That’s part of the original idea 🌻 (`Write notes for yourself first, without prioritizing external readers`).
 
 There is an organized index and navigation system for the notes to bring in some sanity. You’ll need to start by following a link to an entry point to the garden. If you’re not sure where to begin, you might want to check out §
 

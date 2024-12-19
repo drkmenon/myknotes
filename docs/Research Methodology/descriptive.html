@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data – knotes</title>
+<title>Descriptive statistics – knotes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,30 +20,64 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../Biomedical/Research Methodology/p and CI.html" rel="next">
-<link href="../../Biomedical/Research Methodology/Averages.html" rel="prev">
-<link href="../..//image/logo.png" rel="icon" type="image/png">
-<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-9ac7a5c39e0d616cfb586960ef540970.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../Research Methodology/Funnel.html" rel="next">
+<link href="../Research Methodology/p and CI.html" rel="prev">
+<link href="..//image/logo.png" rel="icon" type="image/png">
+<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-c60a3e8eba68bfc7afa17dcf468e708a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -104,18 +138,21 @@ cookieconsent.run({
     document.body.classList.add('hypothesis-enabled');
   });
 </script>
-<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
-<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
-<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
-<link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Data – knotes">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Descriptive statistics – knotes">
 <meta property="og:description" content="Kishore Puthezhath’s digital garden built around orthopaedic stream">
+<meta property="og:image" content="https://www.knotes.co.in/Research Methodology/descriptive_files/figure-html/unnamed-chunk-11-1.png">
 <meta property="og:site_name" content="knotes">
-<meta name="twitter:title" content="Data – knotes">
+<meta property="og:image:height" content="960">
+<meta property="og:image:width" content="1344">
+<meta name="twitter:title" content="Descriptive statistics – knotes">
 <meta name="twitter:description" content="Kishore Puthezhath’s digital garden built around orthopaedic stream">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.knotes.co.in/Research Methodology/descriptive_files/figure-html/unnamed-chunk-11-1.png">
+<meta name="twitter:image-height" content="960">
+<meta name="twitter:image-width" content="1344">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -125,8 +162,8 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../image/knotes.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../image/knotes.png" alt="" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -135,23 +172,23 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://www.knotes.co.in/revision%20notes/basic%20science/bone"> 
+    <a class="nav-link active" href="../Revision notes/Basic science/Bone.html" aria-current="page"> 
 <span class="menu-text">Orthopaedics</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://www.knotes.co.in/biomedical/research%20methodology/science"> 
+    <a class="nav-link" href="../Research Methodology/Science.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../posts.html"> 
+    <a class="nav-link" href="../posts.html"> 
 <span class="menu-text">My blog</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="../../posts.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../posts.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -163,15 +200,15 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-more">    
         <li>
-    <a class="dropdown-item" href="../../author.html">
+    <a class="dropdown-item" href="../author.html">
  <span class="dropdown-text">Author</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../articles.html">
+    <a class="dropdown-item" href="../articles.html">
  <span class="dropdown-text">Published articles</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../tenet.html">
+    <a class="dropdown-item" href="../tenet.html">
  <span class="dropdown-text">Privacy Policy</span></a>
   </li>  
     </ul>
@@ -189,7 +226,7 @@ cookieconsent.run({
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item">Biomedical</li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/measure.html">Data</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item"><a href="../Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../Research Methodology/descriptive.html">Descriptive statistics</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -230,7 +267,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Bone.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
@@ -245,61 +282,61 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/Embryology.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/Embryology.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Embryology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/spinedev.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/spinedev.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Spine development</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/Articular cartilage.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/Articular cartilage.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cartilage</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/nerve.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/nerve.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Nerve</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/bone1.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/bone1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/boneform.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/boneform.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone formation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/growthplate.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/growthplate.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Growth plate</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/ivd.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/ivd.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Intervertebral disc</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/kneemeniscus.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/kneemeniscus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Knee Meniscus</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Anatomy/muscletendon.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Anatomy/muscletendon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Muscles and Tendons</span></a>
   </div>
 </li>
@@ -316,79 +353,79 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/biomechanics.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/biomechanics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Basic Biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/FBD.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Free body diagram</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/kneebio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/kneebio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Knee Biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/thrbio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/thrbio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">THR Biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/elbowbio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/elbowbio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Elbow biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/shoulderbio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/shoulderbio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Shoulder biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/wristbio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/wristbio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Wrist biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/handbio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/handbio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hand biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/spinebio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/spinebio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Spine biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/anklebio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/anklebio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ankle biomechanics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/gait.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/gait.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Gait</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/implants.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/implants.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Biomechanics of implants</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Biomechanics/stressstrain.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Biomechanics/stressstrain.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Stress and strain</span></a>
   </div>
 </li>
@@ -405,13 +442,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Classifications and tables/Classification.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Classifications</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Classifications and tables/Tables.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Useful Tables</span></a>
   </div>
 </li>
@@ -428,7 +465,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Genetics/Genetics.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Genetics/Genetics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Genetics</span></a>
   </div>
 </li>
@@ -445,7 +482,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Imaging/investigations.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Imaging/investigations.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Imaging techniques</span></a>
   </div>
 </li>
@@ -462,19 +499,19 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Metabolic disorders/metabolic.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Metabolic disorders/metabolic.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Metabolic bone disorders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Metabolic disorders/osteoporosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Metabolic disorders/osteoporosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteoporosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Metabolic disorders/petropaget.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Metabolic disorders/petropaget.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteopetrosis and Pagets</span></a>
   </div>
 </li>
@@ -491,31 +528,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Orthopaedic Materials/bonegraft.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Orthopaedic Materials/bonegraft.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone grafting</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Orthopaedic Materials/cement.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Orthopaedic Materials/cement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone cement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Orthopaedic Materials/ceramic.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Orthopaedic Materials/ceramic.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ceramics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Orthopaedic Materials/metals.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Orthopaedic Materials/metals.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Orthopaedic metals</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Orthopaedic Materials/polyethylene.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Orthopaedic Materials/polyethylene.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Polyethylene</span></a>
   </div>
 </li>
@@ -532,19 +569,19 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-11" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Pharmacology/antibiotics.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Pharmacology/antibiotics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Antibiotics and infection</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Pharmacology/pharmac.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Pharmacology/pharmac.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pharmacology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Pharmacology/theatre.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Pharmacology/theatre.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Theatre</span></a>
   </div>
 </li>
@@ -561,13 +598,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Prosthetics &amp; Orthotics/Orthotics.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Prosthetics &amp; Orthotics/Orthotics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Orthotics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Prosthetics &amp; Orthotics/Prosthetics.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Prosthetics &amp; Orthotics/Prosthetics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Prosthetics</span></a>
   </div>
 </li>
@@ -584,19 +621,19 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Tribology/bearing surface.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Tribology/bearing surface.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tribology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Tribology/lubrication.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Tribology/lubrication.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Joint lubrication</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Basic science/Tribology/wear.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Basic science/Tribology/wear.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Wear</span></a>
   </div>
 </li>
@@ -624,7 +661,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-15" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Elbow/Elbow.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Elbow/Elbow.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Elbow</span></a>
   </div>
 </li>
@@ -641,13 +678,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-16" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Hand/brpl.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Hand/brpl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Brachial Plexus Examination</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Hand/hand.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Hand/hand.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hand</span></a>
   </div>
 </li>
@@ -664,7 +701,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-17" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Hip/hip.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Hip/hip.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Clinical Examination of the Hip</span></a>
   </div>
 </li>
@@ -681,7 +718,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-18" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Shoulder/shldr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Shoulder/shldr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Shoulder</span></a>
   </div>
 </li>
@@ -698,73 +735,73 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-19" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/spine.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/spine.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Clinical Examination of the Spine</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/anksp.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/anksp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ankylosing Spondylitis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/bifids.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/bifids.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Spina Bifida</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/cr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/cr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cervical Rib (Thoracic Outlet Syndrome)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/crm.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/crm.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cervical Myelopathy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/dd.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/dd.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lumbar Disc Herniation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/footdrp.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/footdrp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Foot Drop</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/lcs.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/lcs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lumbar Spinal Stenosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/polio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/polio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Poliomyelitis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/rhc.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/rhc.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Rheumatoid Cervical Spine</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/scoliosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/scoliosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Scoliosis (AIS)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Clinical Examination/Spine/sl.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Clinical Examination/Spine/sl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Spondylolisthesis</span></a>
   </div>
 </li>
@@ -783,61 +820,61 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/action.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/action.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Action potential</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/artcart.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/artcart.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Articular cartilage</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/cemnt.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/cemnt.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/ct.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/ct.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Carpal Tunnel</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/fmrbld.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/fmrbld.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Femoral head supply</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/motion.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/motion.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Motion segment</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/nerve.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/nerve.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Nerve</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/plxs.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/plxs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Brachial Plexus</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/spnlcrd.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/spnlcrd.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Spinal cord</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Diagrams/teardrp.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Diagrams/teardrp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Femoral teardrop</span></a>
   </div>
 </li>
@@ -863,25 +900,25 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-22" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Congenital /dysplasias.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Congenital /dysplasias.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Bone Dysplasias</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Congenital /genetic.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Congenital /genetic.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Chromosomal &amp; Teratologic Disorders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Congenital /lldeformities.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Congenital /lldeformities.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Paediatric Lower Limb Deformity</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Congenital /mdyst.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Congenital /mdyst.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Muscular Dystrophies</span></a>
   </div>
 </li>
@@ -898,61 +935,61 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-23" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/calval.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/calval.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Calcaneovalgus</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/cavus.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/cavus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pes cavus</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/club.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/club.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Clubfoot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/cvt.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/cvt.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">CVT and COT</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/foot.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/foot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Foot disorders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/metaadd.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/metaadd.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Metatarsus adductus</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/others.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/others.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Miscellaneous foot disorders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/skew.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/skew.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Skewfoot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/tcoal.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/tcoal.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tarsal Coalition</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Foot and ankle/valgusft.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Foot and ankle/valgusft.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pes Planovalgus</span></a>
   </div>
 </li>
@@ -969,31 +1006,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-24" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Hip/coxavara.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Hip/coxavara.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Coxa Vara</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Hip/DDH.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Hip/DDH.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">DDH</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Hip/Hip.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Hip/Hip.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Paediatric hip</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Hip/Perthes.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Hip/Perthes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Perthes</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Hip/SUFE.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Hip/SUFE.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">SUFE</span></a>
   </div>
 </li>
@@ -1010,7 +1047,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-25" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Infections/infection.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Infections/infection.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteoarticular Infection</span></a>
   </div>
 </li>
@@ -1027,19 +1064,19 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-26" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/LLD/def.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/LLD/def.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Limb Deficiencies</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/LLD/lld.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/LLD/lld.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Limb Length Discrepancy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/LLD/rotation.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/LLD/rotation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Rotational Abnormalities</span></a>
   </div>
 </li>
@@ -1056,61 +1093,61 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-27" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/congky.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/congky.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Congenital Kyphosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/cp.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/cp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cerebral Palsy</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/cspineabn.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/cspineabn.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cervical Spine Abnormalities</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/myelo.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/myelo.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Myelodysplasia (Spina Bifida)</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/neurof.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/neurof.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Neurofibromatosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/nmcond.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/nmcond.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Other Neuromuscular Conditions</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/sacralag.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/sacralag.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Miscellaneous conditions</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/scoliosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/scoliosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Scoliosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/skyphosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/skyphosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Scheuermann’s Kyphosis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Spine/sl.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Spine/sl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Spondylolisthesis</span></a>
   </div>
 </li>
@@ -1127,25 +1164,25 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-28" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Trauma/anklefr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Trauma/anklefr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Triplane Fracture of the Ankle</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Trauma/cspinetrauma.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Trauma/cspinetrauma.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cervical trauma</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Trauma/physis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Trauma/physis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Physeal injury</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Trauma/scfr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Trauma/scfr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Supracondylar fracture of humerus</span></a>
   </div>
 </li>
@@ -1162,7 +1199,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-29" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Paediatrics/Upperlimb/upperlimb.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Paediatrics/Upperlimb/upperlimb.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Paediatric Upper Limb Conditions</span></a>
   </div>
 </li>
@@ -1181,55 +1218,55 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-30" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/arthritis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/arthritis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Arthritis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/avnh.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/avnh.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Avascular Necrosis of the Hip</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Charcot.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Charcot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Charcot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/conn.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/conn.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Connective Tissue Disorders</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Diabetic foot.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Diabetic foot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/nonunion.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/nonunion.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Nonunion</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Osteosarcopenia.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteosarcopenia</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/polio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/polio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Poliomyelitis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Tuberculosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tuberculosis</span></a>
   </div>
 </li>
@@ -1244,67 +1281,67 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-31" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/bbt.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/bbt.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Benign Bone Tumours</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/bst.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/bst.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Benign Soft Tissue Tumours</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/chs.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/chs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Chondrosarcoma</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/malignant.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/malignant.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Malignant Bone Tumors</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/met.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/met.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Metastatic Bone Disease</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/misc.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/misc.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Miscellaneous Conditions</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/msoft.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/msoft.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Malignant Soft Tissue Tumours</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/os.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/os.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Osteosarcoma</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/othr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/othr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Other malignant tumors</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/tmrlike.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/tmrlike.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tumour-like Lesions of Bone</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Pathology/Bone tumors/tumor.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Pathology/Bone tumors/tumor.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Principles of Bone Oncology</span></a>
   </div>
 </li>
@@ -1323,7 +1360,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-32" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/PBL modules/scfr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pink Pulseless Hand</span></a>
   </div>
 </li>
@@ -1349,91 +1386,91 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-34" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/stem.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/stem.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Cemented Stem</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/ucstem.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/ucstem.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Uncemented Stem</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/compsel.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/compsel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Component Selection in THR</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/compl.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/compl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Complications</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/loosetha.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/loosetha.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Aseptic Loosening of THR</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/instability.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/instability.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Instability</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/infection.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/infection.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Periprosthetic Joint Infection</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/abnlos.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/abnlos.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Management of Acetabular Bone Loss</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/peripfr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/peripfr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Periprosthetic Fractures of the Hip</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/mom.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/mom.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Metal on Metal Hip Arthroplasty</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/adultdys.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/adultdys.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Adult Developmental Dysplasia of the Hip</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/arthrodesis.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/arthrodesis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hip Arthrodesis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/splthr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/splthr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Total Hip Replacement in Special Circumstances</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/ceramic.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/ceramic.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ceramic Bearing in Total Hip Replacement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Plasty/Hip/posttr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Plasty/Hip/posttr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Total Hip Replacement in Post Trauma</span></a>
   </div>
 </li>
@@ -1452,7 +1489,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-35" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Questions/Basic Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Basic Science</span></a>
   </div>
 </li>
@@ -1469,25 +1506,25 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-36" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Random notes/arterial.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Random notes/arterial.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Arterial Injury</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Random notes/polio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Random notes/polio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Polio</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Random notes/tendontr.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Random notes/tendontr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tendon transfer</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Random notes/trigger.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Random notes/trigger.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Trigger finger</span></a>
   </div>
 </li>
@@ -1504,31 +1541,31 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-37" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/books.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">books</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/FRCS application.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FRCS application</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/Part 1 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 1 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/Part 2 FRCS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Part 2 FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Recommendations/Questions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">questions</span></a>
   </div>
 </li>
@@ -1545,13 +1582,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-38" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Trauma/fracture.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Trauma/fracture.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fracture</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Revision notes/Trauma/fracturebio.html" class="sidebar-item-text sidebar-link">
+  <a href="../Revision notes/Trauma/fracturebio.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fracture Biomechanics</span></a>
   </div>
 </li>
@@ -1582,49 +1619,49 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-40" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/zotero.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/zotero.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Zotero</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/skill.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/skill.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Complex procedures</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/pbl.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/pbl.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">PBL methodology</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/ECE.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/ECE.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Early clinical exposure</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/ASReview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">ASReview Lab</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/basicc.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/basicc.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Basic course workshop</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/mermaid.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/mermaid.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Gantt chart</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/quality.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/quality.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Clinical Audit</span></a>
   </div>
 </li>
@@ -1639,13 +1676,13 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-41" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/Presentation/revealjstext.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Revealjs for Presentation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/Presentation/skillpresent.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/Presentation/skillpresent.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Teaching complex procedural skill</span></a>
   </div>
 </li>
@@ -1660,7 +1697,7 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-42" class="collapse list-unstyled sidebar-section depth4 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
+  <a href="../Education technology/Presentation/Sample/revealjs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">sample presentation</span></a>
   </div>
 </li>
@@ -1685,78 +1722,69 @@ cookieconsent.run({
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-44" role="navigation" aria-expanded="true">
- <span class="menu-text">Biomedical</span></a>
+ <span class="menu-text">Research Methodology</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-44" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-44" class="collapse list-unstyled sidebar-section depth2 show">  
-          <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-45" role="navigation" aria-expanded="true">
- <span class="menu-text">Research Methodology</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-45" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-45" class="collapse list-unstyled sidebar-section depth3 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/statistics.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/statistics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/Averages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Averages and measures of dispersion</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/measure.html" class="sidebar-item-text sidebar-link active">
+  <a href="../Research Methodology/measure.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/p and CI.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">p and CI</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/descriptive.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/descriptive.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Descriptive statistics</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/Funnel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Funnel plot</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/pubmedsrch.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/pubmedsrch.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pubmed search</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/statisticsfrcs.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/statisticsfrcs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Statistics for FRCS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Biomedical/Research Methodology/wrangling.html" class="sidebar-item-text sidebar-link">
+  <a href="../Research Methodology/wrangling.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data wrangling</span></a>
   </div>
 </li>
@@ -1764,117 +1792,115 @@ cookieconsent.run({
   </li>
       </ul>
   </li>
-      </ul>
-  </li>
         <li class="px-0"><hr class="sidebar-divider hi "></li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-46" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-45" role="navigation" aria-expanded="true">
  <span class="menu-text">Practical Catallactics</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-46" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-45" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-46" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-45" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-46" role="navigation" aria-expanded="false">
+ <span class="menu-text">Catallactics</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-46" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-46" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-47" role="navigation" aria-expanded="false">
- <span class="menu-text">Catallactics</span></a>
+ <span class="menu-text">Personal</span></a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-47" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-47" class="collapse list-unstyled sidebar-section depth2 ">  
-          <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-48" role="navigation" aria-expanded="false">
- <span class="menu-text">Personal</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-48" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-48" class="collapse list-unstyled sidebar-section depth3 ">  
+      <ul id="quarto-sidebar-section-47" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Risk mitigation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/Retirement.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Retirement fund</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/Conifers.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Productivity</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/levi.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/levi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Draw-downs and buildups</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/IMA SSS.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">IMA SSS</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/bernoulli.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/bernoulli.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Moral expectation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/jenson.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/jenson.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Jensen’s inequality and risk reward</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/nifty.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/nifty.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Seeking Levy parameters</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/port_sel.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/port_sel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Portfolio Selection</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/Premium calculation.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/Premium calculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Pay-off formula</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/pricing.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/pricing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Hedge pricing</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/sequence1.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/sequence1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Market risk is not the only risk in market</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/sequence2.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/sequence2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sequence of return risk</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../Catallactics/Personal/volatility.html" class="sidebar-item-text sidebar-link">
+  <a href="../Catallactics/Personal/volatility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Volatility matters</span></a>
   </div>
 </li>
@@ -1887,73 +1913,73 @@ cookieconsent.run({
         <li class="px-0"><hr class="sidebar-divider hi "></li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-49" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-48" role="navigation" aria-expanded="true">
  <span class="menu-text">Blog</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-49" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-48" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-49" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-48" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-50" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-49" role="navigation" aria-expanded="false">
  <span class="menu-text">Posts</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-50" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-49" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-50" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="quarto-sidebar-section-49" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/Fragility.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/Fragility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Problem of life span and strength</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/hiit.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/hiit.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">What is Interval Training?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/gukesh.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/gukesh.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Stoic Gukesh on top of the world</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/EV battery.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/EV battery.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">EV battery</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/HGT.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/HGT.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Wrinkles in the vast genetic sea</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/mint.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/mint.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Through Windows to open world</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/montecarlo.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/montecarlo.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Income distribution</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/Pink roses.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/Pink roses.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Creative art work</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../posts/pm.html" class="sidebar-item-text sidebar-link">
+  <a href="../posts/pm.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Just stuck</span></a>
   </div>
 </li>
@@ -1964,34 +1990,34 @@ cookieconsent.run({
         <li class="px-0"><hr class="sidebar-divider hi "></li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-51" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-50" role="navigation" aria-expanded="true">
  <span class="menu-text">Musing</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-51" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-50" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-51" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-50" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-51" role="navigation" aria-expanded="false">
+ <span class="menu-text">News</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-51" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-51" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-52" role="navigation" aria-expanded="false">
- <span class="menu-text">News</span></a>
+ <span class="menu-text">Dumping ground</span></a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-52" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-52" class="collapse list-unstyled sidebar-section depth2 ">  
-          <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-53" role="navigation" aria-expanded="false">
- <span class="menu-text">Dumping ground</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-53" role="navigation" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-53" class="collapse list-unstyled sidebar-section depth3 ">  
+      <ul id="quarto-sidebar-section-52" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../News/Dumping ground/otm.html" class="sidebar-item-text sidebar-link">
+  <a href="../News/Dumping ground/otm.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Top of mind</span></a>
   </div>
 </li>
@@ -1999,16 +2025,16 @@ cookieconsent.run({
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-54" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-53" role="navigation" aria-expanded="false">
  <span class="menu-text">Farm news</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-54" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-53" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-54" class="collapse list-unstyled sidebar-section depth3 ">  
+      <ul id="quarto-sidebar-section-53" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../News/Farm news/mngr.html" class="sidebar-item-text sidebar-link">
+  <a href="../News/Farm news/mngr.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">That milk and those apples</span></a>
   </div>
 </li>
@@ -2060,18 +2086,27 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#measurement" id="toc-measurement" class="nav-link active" data-scroll-target="#measurement">Measurement</a></li>
-  <li><a href="#variable-scales" id="toc-variable-scales" class="nav-link" data-scroll-target="#variable-scales">Variable Scales</a></li>
-  <li><a href="#gross-difference-in-scales" id="toc-gross-difference-in-scales" class="nav-link" data-scroll-target="#gross-difference-in-scales">Gross difference in scales</a></li>
+  <li><a href="#data-import" id="toc-data-import" class="nav-link active" data-scroll-target="#data-import">Data Import</a></li>
+  <li><a href="#summarise-data" id="toc-summarise-data" class="nav-link" data-scroll-target="#summarise-data">Summarise data</a>
+  <ul class="collapse">
+  <li><a href="#summarise-based-on-group" id="toc-summarise-based-on-group" class="nav-link" data-scroll-target="#summarise-based-on-group">Summarise based on group</a></li>
+  <li><a href="#describe-function" id="toc-describe-function" class="nav-link" data-scroll-target="#describe-function">Describe function</a></li>
+  <li><a href="#aggregate" id="toc-aggregate" class="nav-link" data-scroll-target="#aggregate">Aggregate</a></li>
+  </ul></li>
+  <li><a href="#graphing-data" id="toc-graphing-data" class="nav-link" data-scroll-target="#graphing-data">Graphing data</a>
+  <ul class="collapse">
+  <li><a href="#post-test-score" id="toc-post-test-score" class="nav-link" data-scroll-target="#post-test-score">Post test score</a></li>
+  <li><a href="#pre-test-score" id="toc-pre-test-score" class="nav-link" data-scroll-target="#pre-test-score">Pre test score</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item">Biomedical</li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../../Biomedical/Research Methodology/measure.html">Data</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Research</li><li class="breadcrumb-item"><a href="../Research Methodology/Science.html">Research Methodology</a></li><li class="breadcrumb-item"><a href="../Research Methodology/descriptive.html">Descriptive statistics</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Data</h1>
+<h1 class="title">Descriptive statistics</h1>
 </div>
 
 
@@ -2088,133 +2123,327 @@ cookieconsent.run({
 </header>
 
 
-<p>Datum is a piece of information. A number of datum is data</p>
-<p>Research starts with data collection. Data collection can be considered as a form of measurement.</p>
-<section id="measurement" class="level2">
-<h2 class="anchored" data-anchor-id="measurement">Measurement</h2>
-<p>Measurement is the allocation of number, label or definition to a “<strong>Stuff</strong>” we want to measure. “<strong>Stuff</strong>” we want to measure is called theoretical framework. The process of connecting theoretical framework to measurement is called <code>operationalisation</code>. The end product of measurement is <code>Variable.</code></p>
-<p><strong><em>Variable is an attribute that varies</em></strong></p>
-<p>Differentiating different types of variables is called Scaling.</p>
-<div class="cell" data-layout-align="default">
+<section id="data-import" class="level2">
+<h2 class="anchored" data-anchor-id="data-import">Data Import</h2>
+<p>We have collected data from a quasi experimental study of medical students which was conducted in 2019. At that time nobody was familiar with the various meeting platforms like zoom or teams. Let us import the data to <code>r</code> :</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">require</span>(data.table)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Loading required package: data.table</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">require</span>(lsr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Loading required package: lsr</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>classStudyRaw<span class="ot">=</span><span class="fu">fread</span>(<span class="at">file =</span> <span class="st">"virtual.csv"</span>)</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">who</span>(<span class="at">expand =</span> T)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>   -- Name --         -- Class --   -- Size --
+   classStudyRaw      data.table    49 x 18   
+    $idertifier       character     49        
+    $type.class       character     49        
+    $pretest.score    integer       49        
+    $pretest.rank     integer       49        
+    $posttest.score   integer       49        
+    $posttest.rank    integer       49        
+    $sex              integer       49        
+    $likert.1         integer       49        
+    $likert.2         integer       49        
+    $likert.3         integer       49        
+    $likert.4         integer       49        
+    $likert.5         integer       49        
+    $likert.6         integer       49        
+    $likert.7         integer       49        
+    $likert.8         integer       49        
+    $likert.9         integer       49        
+    $likert.10        integer       49        
+    $likert.total     numeric       49        </code></pre>
+</div>
+</div>
+<p>We can see that <code>classStudyRaw</code> is a data.table with a dimension of 49 x 18. There are 49 rows, curresponding 49 students and 18 variable columns. It include an identifier for each student. The type of class is in the “character” class, which we want as “factor”, because it should be the grouping variable. Likert score of 1 to 10 could be the score for each question and the researcher might have considered it as pseudo-interval scale to get a total likert score, likert.total. So we may ignore the individual questions from the analysis for the time being. Similarly we may remove pretest and post test ranks from analysis, because what we are interested in is the score.</p>
+<p>So the final data table can be sub-setted in to 6 columns and type.class should be converted to factor.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>classStudy<span class="ot">=</span>classStudyRaw[,<span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">5</span>,<span class="dv">7</span>,<span class="dv">18</span>)]</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>classStudy<span class="sc">$</span>type.class<span class="ot">=</span><span class="fu">as.factor</span>(classStudy<span class="sc">$</span>type.class)</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="fu">who</span>(<span class="at">expand =</span> T)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>   -- Name --         -- Class --   -- Size --
+   classStudy         data.table    49 x 6    
+    $idertifier       character     49        
+    $type.class       factor        49        
+    $pretest.score    integer       49        
+    $posttest.score   integer       49        
+    $sex              integer       49        
+    $likert.total     numeric       49        
+   classStudyRaw      data.table    49 x 18   
+    $idertifier       character     49        
+    $type.class       character     49        
+    $pretest.score    integer       49        
+    $pretest.rank     integer       49        
+    $posttest.score   integer       49        
+    $posttest.rank    integer       49        
+    $sex              integer       49        
+    $likert.1         integer       49        
+    $likert.2         integer       49        
+    $likert.3         integer       49        
+    $likert.4         integer       49        
+    $likert.5         integer       49        
+    $likert.6         integer       49        
+    $likert.7         integer       49        
+    $likert.8         integer       49        
+    $likert.9         integer       49        
+    $likert.10        integer       49        
+    $likert.total     numeric       49        </code></pre>
+</div>
+</div>
+</section>
+<section id="summarise-data" class="level2">
+<h2 class="anchored" data-anchor-id="summarise-data">Summarise data</h2>
+<p>We have several options to summarise data in <code>r</code>. The base pack comes with <code>summary()</code> package</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(classStudy)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>  idertifier           type.class pretest.score   posttest.score  
+ Length:49          physical:24   Min.   : 0.00   Min.   : 50.00  
+ Class :character   virtual :25   1st Qu.:20.00   1st Qu.: 75.00  
+ Mode  :character                 Median :40.00   Median : 80.00  
+                                  Mean   :41.63   Mean   : 78.06  
+                                  3rd Qu.:60.00   3rd Qu.: 85.00  
+                                  Max.   :80.00   Max.   :100.00  
+      sex         likert.total  
+ Min.   :1.000   Min.   :3.100  
+ 1st Qu.:1.000   1st Qu.:3.500  
+ Median :2.000   Median :3.700  
+ Mean   :1.633   Mean   :3.665  
+ 3rd Qu.:2.000   3rd Qu.:3.800  
+ Max.   :2.000   Max.   :4.100  </code></pre>
+</div>
+</div>
+<p>We can see that sex is another grouping variable and the labels are not given for 1 and 2. We can give male and female labels to 1 and 2 using <code>levels()</code> function, of course, after converting sex in to factors.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>classStudy<span class="sc">$</span>sex<span class="ot">=</span><span class="fu">as.factor</span>(<span class="at">x =</span> classStudy<span class="sc">$</span>sex)</span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="fu">levels</span>(classStudy<span class="sc">$</span>sex)<span class="ot">=</span><span class="fu">c</span>(<span class="st">"male"</span>,<span class="st">"female"</span>)</span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>classStudy<span class="sc">$</span>sex</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code> [1] male   male   female female male   male   female female female female
+[11] male   male   male   female female female female female male   female
+[21] female male   female female female male   female female female female
+[31] male   female female male   female male   female male   female female
+[41] female male   female female male   female female male   male  
+Levels: male female</code></pre>
+</div>
+</div>
+<p>Lets summarise again</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(classStudy)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>  idertifier           type.class pretest.score   posttest.score       sex    
+ Length:49          physical:24   Min.   : 0.00   Min.   : 50.00   male  :18  
+ Class :character   virtual :25   1st Qu.:20.00   1st Qu.: 75.00   female:31  
+ Mode  :character                 Median :40.00   Median : 80.00              
+                                  Mean   :41.63   Mean   : 78.06              
+                                  3rd Qu.:60.00   3rd Qu.: 85.00              
+                                  Max.   :80.00   Max.   :100.00              
+  likert.total  
+ Min.   :3.100  
+ 1st Qu.:3.500  
+ Median :3.700  
+ Mean   :3.665  
+ 3rd Qu.:3.800  
+ Max.   :4.100  </code></pre>
+</div>
+</div>
+<section id="summarise-based-on-group" class="level3">
+<h3 class="anchored" data-anchor-id="summarise-based-on-group">Summarise based on group</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="fu">by</span>(classStudy,<span class="at">INDICES =</span> <span class="sc">~</span>classStudy<span class="sc">$</span>type.class<span class="sc">+</span>classStudy<span class="sc">$</span>sex,<span class="at">FUN =</span> summary)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>classStudy$type.class: physical
+classStudy$sex: male
+  idertifier           type.class pretest.score   posttest.score      sex   
+ Length:9           physical:9    Min.   : 0.00   Min.   :50.00   male  :9  
+ Class :character   virtual :0    1st Qu.:20.00   1st Qu.:75.00   female:0  
+ Mode  :character                 Median :40.00   Median :85.00             
+                                  Mean   :33.33   Mean   :78.33             
+                                  3rd Qu.:40.00   3rd Qu.:85.00             
+                                  Max.   :60.00   Max.   :90.00             
+  likert.total  
+ Min.   :3.700  
+ 1st Qu.:3.700  
+ Median :3.800  
+ Mean   :3.856  
+ 3rd Qu.:4.000  
+ Max.   :4.100  
+------------------------------------------------------------ 
+classStudy$type.class: virtual
+classStudy$sex: male
+  idertifier           type.class pretest.score   posttest.score       sex   
+ Length:9           physical:0    Min.   : 0.00   Min.   : 55.00   male  :9  
+ Class :character   virtual :9    1st Qu.:40.00   1st Qu.: 75.00   female:0  
+ Mode  :character                 Median :40.00   Median : 80.00             
+                                  Mean   :44.44   Mean   : 81.11             
+                                  3rd Qu.:60.00   3rd Qu.: 90.00             
+                                  Max.   :60.00   Max.   :100.00             
+  likert.total  
+ Min.   :3.200  
+ 1st Qu.:3.300  
+ Median :3.500  
+ Mean   :3.444  
+ 3rd Qu.:3.500  
+ Max.   :3.800  
+------------------------------------------------------------ 
+classStudy$type.class: physical
+classStudy$sex: female
+  idertifier           type.class pretest.score   posttest.score      sex    
+ Length:15          physical:15   Min.   : 0.00   Min.   :60.00   male  : 0  
+ Class :character   virtual : 0   1st Qu.:20.00   1st Qu.:75.00   female:15  
+ Mode  :character                 Median :40.00   Median :80.00              
+                                  Mean   :37.33   Mean   :77.67              
+                                  3rd Qu.:60.00   3rd Qu.:82.50              
+                                  Max.   :80.00   Max.   :90.00              
+  likert.total 
+ Min.   :3.60  
+ 1st Qu.:3.70  
+ Median :3.80  
+ Mean   :3.82  
+ 3rd Qu.:3.90  
+ Max.   :4.10  
+------------------------------------------------------------ 
+classStudy$type.class: virtual
+classStudy$sex: female
+  idertifier           type.class pretest.score   posttest.score      sex    
+ Length:16          physical: 0   Min.   :20.00   Min.   :55.00   male  : 0  
+ Class :character   virtual :16   1st Qu.:35.00   1st Qu.:68.75   female:16  
+ Mode  :character                 Median :50.00   Median :80.00              
+                                  Mean   :48.75   Mean   :76.56              
+                                  3rd Qu.:60.00   3rd Qu.:85.00              
+                                  Max.   :80.00   Max.   :90.00              
+  likert.total  
+ Min.   :3.100  
+ 1st Qu.:3.400  
+ Median :3.500  
+ Mean   :3.538  
+ 3rd Qu.:3.700  
+ Max.   :4.000  </code></pre>
+</div>
+</div>
+</section>
+<section id="describe-function" class="level3">
+<h3 class="anchored" data-anchor-id="describe-function">Describe function</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="fu">require</span>(psych)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Loading required package: psych</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a><span class="fu">describe.by</span>(<span class="at">x=</span>classStudy,<span class="at">group =</span> classStudy<span class="sc">$</span>type.class)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning in describe.by(x = classStudy, group = classStudy$type.class):
+describe.by is deprecated.  Please use the describeBy function</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+ Descriptive statistics by group 
+group: physical
+               vars  n  mean    sd median trimmed   mad  min  max range  skew
+idertifier        1 24 12.50  7.07   12.5   12.50  8.90  1.0 24.0  23.0  0.00
+type.class        2 24  1.00  0.00    1.0    1.00  0.00  1.0  1.0   0.0   NaN
+pretest.score     3 24 35.83 23.58   40.0   35.00 29.65  0.0 80.0  80.0  0.23
+posttest.score    4 24 77.92 10.31   80.0   79.00  7.41 50.0 90.0  40.0 -1.08
+sex               5 24  1.62  0.49    2.0    1.65  0.00  1.0  2.0   1.0 -0.48
+likert.total      6 24  3.83  0.16    3.8    3.83  0.15  3.6  4.1   0.5  0.23
+               kurtosis   se
+idertifier        -1.35 1.44
+type.class          NaN 0.00
+pretest.score     -1.01 4.81
+posttest.score     0.41 2.10
+sex               -1.84 0.10
+likert.total      -1.12 0.03
+------------------------------------------------------------ 
+group: virtual
+               vars  n  mean    sd median trimmed   mad  min max range  skew
+idertifier        1 25 37.00  7.36   37.0   37.00  8.90 25.0  49  24.0  0.00
+type.class        2 25  2.00  0.00    2.0    2.00  0.00  2.0   2   0.0   NaN
+pretest.score     3 25 47.20 20.72   40.0   47.62 29.65  0.0  80  80.0 -0.29
+posttest.score    4 25 78.20 12.74   80.0   78.57 14.83 55.0 100  45.0 -0.44
+sex               5 25  1.64  0.49    2.0    1.67  0.00  1.0   2   1.0 -0.55
+likert.total      6 25  3.50  0.23    3.5    3.50  0.30  3.1   4   0.9  0.16
+               kurtosis   se
+idertifier        -1.34 1.47
+type.class          NaN 0.00
+pretest.score     -0.64 4.14
+posttest.score    -0.83 2.55
+sex               -1.76 0.10
+likert.total      -0.78 0.05</code></pre>
+</div>
+</div>
+</section>
+<section id="aggregate" class="level3">
+<h3 class="anchored" data-anchor-id="aggregate">Aggregate</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a>meanPre<span class="ot">=</span><span class="fu">aggregate</span>(<span class="at">x =</span> classStudy,<span class="at">by =</span> classStudy<span class="sc">$</span>pretest.score<span class="sc">~</span>classStudy<span class="sc">$</span>type.class<span class="sc">+</span>classStudy<span class="sc">$</span>sex,<span class="at">FUN =</span> mean)</span>
+<span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a>meanPre</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>  classStudy$type.class classStudy$sex classStudy$pretest.score
+1              physical           male                 33.33333
+2               virtual           male                 44.44444
+3              physical         female                 37.33333
+4               virtual         female                 48.75000</code></pre>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a>meanPost<span class="ot">=</span><span class="fu">aggregate</span>(<span class="at">x =</span> classStudy,<span class="at">by =</span> classStudy<span class="sc">$</span>posttest.score<span class="sc">~</span>classStudy<span class="sc">$</span>type.class<span class="sc">+</span>classStudy<span class="sc">$</span>sex,<span class="at">FUN =</span> mean)</span>
+<span id="cb24-2"><a href="#cb24-2" aria-hidden="true" tabindex="-1"></a>meanPost</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>  classStudy$type.class classStudy$sex classStudy$posttest.score
+1              physical           male                  78.33333
+2               virtual           male                  81.11111
+3              physical         female                  77.66667
+4               virtual         female                  76.56250</code></pre>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>meanLik<span class="ot">=</span><span class="fu">aggregate</span>(<span class="at">x =</span> classStudy,<span class="at">by =</span> classStudy<span class="sc">$</span>likert.total<span class="sc">~</span>classStudy<span class="sc">$</span>type.class<span class="sc">+</span>classStudy<span class="sc">$</span>sex,<span class="at">FUN =</span> mean)</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>meanLik</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>  classStudy$type.class classStudy$sex classStudy$likert.total
+1              physical           male                3.855556
+2               virtual           male                3.444444
+3              physical         female                3.820000
+4               virtual         female                3.537500</code></pre>
+</div>
+</div>
+</section>
+</section>
+<section id="graphing-data" class="level2">
+<h2 class="anchored" data-anchor-id="graphing-data">Graphing data</h2>
+<section id="post-test-score" class="level3">
+<h3 class="anchored" data-anchor-id="post-test-score">Post test score</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(classStudy<span class="sc">$</span>posttest.score,<span class="at">breaks =</span> <span class="dv">10</span>,<span class="at">main =</span> <span class="st">"Hsitogram of Posttest Score of all students"</span>,<span class="at">xlab =</span> <span class="st">"Post test score"</span>,<span class="at">ylab =</span> <span class="st">"Number"</span>,<span class="at">col =</span> <span class="st">"light blue"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <div>
-<p></p><figure class="figure"><p></p>
+<figure class="figure">
+<p><img src="descriptive_files/figure-html/unnamed-chunk-11-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="pre-test-score" class="level3">
+<h3 class="anchored" data-anchor-id="pre-test-score">Pre test score</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(classStudy<span class="sc">$</span>pretest.score,<span class="at">breaks =</span> <span class="dv">5</span>,<span class="at">main =</span> <span class="st">"Hsitogram of Pretest Score of all students"</span>,<span class="at">xlab =</span> <span class="st">"Pre test score"</span>,<span class="at">ylab =</span> <span class="st">"Number"</span>,<span class="at">col =</span> <span class="st">"light yellow"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
 <div>
-<pre class="mermaid mermaid-js">flowchart LR 
- Theoretical\nframework --&gt; Operationalisation 
- Mearsure --&gt; Operationalisation
- Operationalisation --&gt; Variable
+<figure class="figure">
+<p><img src="descriptive_files/figure-html/unnamed-chunk-12-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
 
 
-</pre>
-</div>
-<p></p></figure><p></p>
-</div>
-</div>
-</div>
 </section>
-<section id="variable-scales" class="level2">
-<h2 class="anchored" data-anchor-id="variable-scales">Variable Scales</h2>
-<table class="caption-top table">
-<caption>Types of variables</caption>
-<colgroup>
-<col style="width: 6%">
-<col style="width: 12%">
-<col style="width: 23%">
-<col style="width: 32%">
-<col style="width: 22%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Scale</th>
-<th>Type</th>
-<th>Math Group</th>
-<th>Basic operation</th>
-<th>Statistics</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Nominal</td>
-<td>Discrete</td>
-<td><p>y=f(x)</p>
-<p>f(x) is one to one substitution</p></td>
-<td>Determination of equality</td>
-<td><p>Frequency</p>
-<p>Mode</p>
-<p>Contegency correlation</p></td>
-</tr>
-<tr class="even">
-<td>Ordinal</td>
-<td>Discrete</td>
-<td><p>y=f(x)</p>
-<p>f(x) is monotonic increasing function</p></td>
-<td>Determination of greater or less</td>
-<td><p>Median</p>
-<p>Percentile</p></td>
-</tr>
-<tr class="odd">
-<td>Interval</td>
-<td><p>Continuous</p>
-<p>Discrete</p></td>
-<td><p>y=ax+b</p>
-<p>General linear group</p></td>
-<td>Determination of equality of interval or difference</td>
-<td><p>Rank and product moment correlation</p>
-<p>mean</p>
-<p>standard deviation</p></td>
-</tr>
-<tr class="even">
-<td>Ratio</td>
-<td>ContinuousDiscrete</td>
-<td><p>y=ax</p>
-<p>Similarity group</p></td>
-<td>Determination of equality of ratio or difference</td>
-<td>Coefficient of Variation</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="gross-difference-in-scales" class="level2">
-<h2 class="anchored" data-anchor-id="gross-difference-in-scales">Gross difference in scales</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 13%">
-<col style="width: 56%">
-<col style="width: 30%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Scale</th>
-<th>Understanding</th>
-<th>Example</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Nominal</td>
-<td>They are different</td>
-<td>Brown and White</td>
-</tr>
-<tr class="even">
-<td>Ordinal</td>
-<td>Ordered, can be grouped</td>
-<td>Rank</td>
-</tr>
-<tr class="odd">
-<td>Interval</td>
-<td>Numbers with meaning, no definite zero</td>
-<td>Temperature in <sup>0</sup> C</td>
-</tr>
-<tr class="even">
-<td>Ratio</td>
-<td>Numbers with meaning, has definite zero</td>
-<td>Response time</td>
-</tr>
-</tbody>
-</table>
-
-
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
@@ -2637,13 +2866,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../Biomedical/Research Methodology/Averages.html" class="pagination-link" aria-label="Averages and measures of dispersion">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Averages and measures of dispersion</span>
+      <a href="../Research Methodology/p and CI.html" class="pagination-link" aria-label="p and CI">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">p and CI</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../Biomedical/Research Methodology/p and CI.html" class="pagination-link" aria-label="p and CI">
-        <span class="nav-page-text">p and CI</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../Research Methodology/Funnel.html" class="pagination-link" aria-label="Funnel plot">
+        <span class="nav-page-text">Funnel plot</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

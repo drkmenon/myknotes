@@ -32,9 +32,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://www.knotes.co.in/revision%20notes/basic%20science/bone
+      - href: Revision notes/Basic science/Bone.qmd
         text: Orthopaedics
-      - href: https://www.knotes.co.in/biomedical/research%20methodology/science
+      - href: Research Methodology/Science.qmd
         text: Research
       - text: My blog
         href: posts.qmd
@@ -56,7 +56,7 @@ website:
         contents: Education technology
       - text: "---"  
       - section: Research
-        contents: Biomedical
+        contents: Research Methodology
       - text: "---"
       - section: Practical Catallactics
         contents: Catallactics
