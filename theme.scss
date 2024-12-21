@@ -43,21 +43,13 @@ $text-muted: #6a737b;
   color: $white;
 }
 
-/* Reduce breadcrumb font size */
-.breadcrumb {
-  font-size: 0.8rem; /* Adjust as needed */
+
+@media (max-width: 768px) {
+  .sidebar {
+    top: 0 !important;  /* Start below the navbar */
+    left: 0; /* Align to the left */
+    overflow-y: auto !important; /* Enable scrolling */
+  }
 }
 
-/* Reduce spacing and padding for breadcrumbs */
-.breadcrumb-item {
-  margin-right: 0.5rem; /* Adjust spacing between items */
-}
-
-.breadcrumb-item + .breadcrumb-item::before {
-  font-size: 0.8rem; /* Adjust size of separator */
-}
-
-.breadcrumb a {
-  font-size: 0.8rem; /* Adjust link size */
-}
 

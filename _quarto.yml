@@ -46,7 +46,8 @@ website:
           - author.qmd
           - articles.qmd
           - tenet.qmd
-  sidebar: 
+  sidebar:
+     search: true
      style: "floating"
      contents: 
       - section: Orthopaedics
@@ -66,6 +67,7 @@ website:
       - text: "---"
       - section: Musing
         contents: News
+      - text: "---"
     
      
       
