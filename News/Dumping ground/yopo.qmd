@@ -1,0 +1,9 @@
+---
+title: "yopo"
+format: html
+date: 12/24/24
+---
+
+Your only path is one
+
+![](images/yopo.png)
