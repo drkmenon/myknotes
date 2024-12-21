@@ -1,0 +1,12 @@
+---
+title: "Timeless books"
+format: html
+---
+
+## Metamorphosis
+
+![](images/metam.png){width="344"}
+
+Gregor Samsa, to himself, was a machine—one that worked like clockwork until it suddenly stopped one day. To his family, he was a mere source of income; once broken, he became nothing more than a useless burden. To his office, he was a cog in the system, one that couldn’t afford to fail.
+
+Samsa, once unable to work, was reduced to being just a [useless](https://www.knotes.co.in/news/dumping%20ground/rel) insect. His death would liberate everyone from the weight of his existence.
