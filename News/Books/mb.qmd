@@ -1,0 +1,8 @@
+---
+title: "Madame Bovary"
+format: html
+---
+
+![](images/Madame_Bovary_1857_(hi-res).jpg){width="406"}
+
+A realistic account of how infatuations and indulgence in hedonic pleasures can create debt and a destructive cycle, ultimately ruining one’s life and soul. It painfully depicts how such a lifestyle can cast future generations into misery.

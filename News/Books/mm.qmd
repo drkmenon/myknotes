@@ -1,9 +1,7 @@
 ---
-title: "Timeless books"
+title: "Metamorphosis"
 format: html
 ---
-
-## Metamorphosis
 
 ![](images/metam.png){width="344"}
 
