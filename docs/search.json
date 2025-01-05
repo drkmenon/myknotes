@@ -7478,133 +7478,185 @@
     ]
   },
   {
-    "objectID": "posts/hiit.html",
-    "href": "posts/hiit.html",
-    "title": "What is Interval Training?",
+    "objectID": "posts/prospect.html",
+    "href": "posts/prospect.html",
+    "title": "Prospect theory",
     "section": "",
-    "text": "Interval training refers to repeated bouts of relatively intense exercise interspersed with recovery periods of lighter exercise or rest. This method has been used for over a century by high-level athletes to enhance performance in endurance-based sports such as middle- and long-distance running.\nMore recently, interval training has also gained recognition for its health benefits, including its role in rehabilitation and improving fitness in inactive or deconditioned individuals(Coates et al. 2023).",
+    "text": "What will you prefer?\n\n§1$2\n\n\n\nGet ₹50 definitely\nOption to get ₹100 or nothing with the toss of a coin (p=0.05).\n\n\n\n\nLose ₹50 definitely\nOption to lose ₹100 or nothing with the toss of a coin (p=0.05).\n\n\n\n\nIf you choose 1 for both §1 and §2, you are a risk avert-er\nIf you choose 2 for both §1 and §2, you are a risk taker\nIf you don’t have any preference, you are risk neutral\nIn general, if we have something to lose, we generally prefer small definite gain over a risky bet. But if we are already in a losing position, we tend to take more risk.\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "What is Interval Training?"
+      "Prospect theory"
     ]
   },
   {
-    "objectID": "posts/hiit.html#hiit",
-    "href": "posts/hiit.html#hiit",
-    "title": "What is Interval Training?",
-    "section": "HIIT",
-    "text": "HIIT\n\nNowadays, High-Intensity Interval Training (HIIT) is ranked as the most popular fitness trend globally. Its popularity stems from its ability to:\n\nServe as an effective alternative to traditional endurance training.\nYield higher levels of endurance performance.\nReduce time commitment and improve exercise adherence.\n\n\nProven Benefits of HIIT\nHIIT has demonstrated significant benefits in various populations, including:\n\nAthletes: Improved VO2max and endurance performance.\nHealthy Individuals: Enhanced fitness levels.\nOverweight/Obese Individuals: Better metabolic health.\nCardiac Patients: Improved cardiovascular function.\n\n\n\nHIIT Protocols\nHIIT can be classified into various protocols based on work intensity, bout duration, session volume, and intervention duration(Wen et al. 2019):\n\n\n\n\n\n\n\nProtocol Type\nDetails\n\n\n\n\nLong-Interval HIIT (LI-HIIT)\nWork bouts lasting 2–4 minutes at sub-maximal intensity.\n\n\nShort-Interval HIIT (SI-HIIT)\nWork bouts lasting &lt;45 seconds at sub-maximal intensity.\n\n\nSprint-Interval Training (SIT)\nWork bouts lasting 20–30 seconds at near-maximal to maximal intensity.\n\n\nRepeated-Sprint Training (RST)\nWork bouts lasting ≤10 seconds at near-maximal to maximal intensity.\n\n\n\n\n\nVolume and Duration Variations\nHIIT protocols can also differ based on session volume and intervention duration:\n\n\nSession Volume\n\nHigh-Volume HIIT (HV-HIIT): Sessions with 16 minutes or more of work.\nLow-Volume HIIT (LV-HIIT): Sessions with 4 minutes of work.\n\n\n\nIntervention Duration\n\nLong-Term HIIT (LT-HIIT): Training programs lasting ≥12 weeks.\nShort-Term HIIT (ST-HIIT): Training programs lasting ≤4 weeks.\n\nEven short work interval (≤30 s), low-volume (≤5 min) and short- term (≤4 weeks) HIIT could elicit clear beneficial effects on VO2max when compared to no exercise(Wen et al. 2019).",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "What is Interval Training?"
-    ]
-  },
-  {
-    "objectID": "posts/hiit.html#low-volume-sprint-interval-training-sit",
-    "href": "posts/hiit.html#low-volume-sprint-interval-training-sit",
-    "title": "What is Interval Training?",
-    "section": "Low-Volume Sprint Interval Training (SIT)",
-    "text": "Low-Volume Sprint Interval Training (SIT)\nLow-volume Sprint Interval Training (SIT), which can be cosidered a subset of HIIT,involves:\n\nVery High-Intensity Intervals: Work intervals lasting approximately 30 seconds.\nShort Duration: Each bout of activity is brief but intense.\nLong Recovery Periods: Rest intervals lasting around 4 minutes between each bout.\n\n\nBenefits of SIT\nStudies suggest that SIT can produce improvements in:\n\nAerobic Power: Comparable to traditional endurance training.\nMetabolic Function: Enhances energy efficiency and metabolic health.\n\nSIT provides an efficient alternative to traditional endurance training while maintaining similar physiological benefits. SIT has garnered considerable attention as a time-efficient and alternative method for enhancing aerobic performance and metabolic function(Sloth et al. 2013).\n\n\nDefinition\n\nDuration of Bouts: 10–30 seconds\nIntensity: Maximal effort, “all-out”\nVolume: ≤12 repetitions\nRecovery: ≥5 times the duration of each work bout\n\nSprint Interval Training (SIT) involves specific criteria to optimize its effectiveness. Bout durations are set between 10 and 30 seconds. Durations shorter than 10 seconds are excluded as they rely predominantly on anaerobic metabolism and have shown no significant impact on mitochondrial enzymes(M.-T. Linossier et al. 1993);(M.-T. Linossier et al. 1997);(BOGDANIS et al. 1998);(Dawson et al. 1998). The upper limit of 30 seconds is based on evidence that longer bouts significantly increase aerobic contribution to ATP turnover(Withers et al. 1991) and lead to a marked reduction in intensity, which disqualifies them from being classified as low-volume SIT. Intensity is characterized as “all-out” or near-maximal effort, adhering to the general conception of a sprint(Ross and Leveritt 2001). Volume and recovery protocols are designed to maintain a low total training volume while ensuring that high power output can be sustained across all sprints within a session.",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "What is Interval Training?"
-    ]
-  },
-  {
-    "objectID": "posts/EV battery.html",
-    "href": "posts/EV battery.html",
-    "title": "EV battery",
+    "objectID": "posts/Fragility.html",
+    "href": "posts/Fragility.html",
+    "title": "Problem of life span and strength",
     "section": "",
-    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
+    "text": "Take home message\n\n\n\nHigh-volume, moderate-intensity, continuous, and frequent endurance training can negatively impact adaptations from resistance training.\nEndurance exercises pair well with a low-calorie diet and promote a longer lifespan.\nResistance exercises go with a high-protein diet and enhance strength and balance.\nMixing aerobic and resistance exercises may be avoided within the same session—there should be a gap of 3 to 24 hours between them, depending on your focus.\nLimit animal protein and strength training to 2 days a week; on other days, opt for lower protein intake and engage in aerobic exercises to maintain health and longevity.\nWith significant increases in global life expectancy over the past century, largely due to advancements in public health and socio-economic advancement, the focus has shifted toward maintaining a high quality of life and promoting a longer health span rather than merely extending life. Since death is inevitable, prevention efforts aim to compress morbidity—reducing the duration and severity of illness and disability—toward the very end of life. This approach seeks to minimize the time individuals spend suffering from disease before passing, thereby improving overall well-being during ageing(Harrison’s principles of internal medicine 2022).\nOne of the key development in this direction is primordial prevention, prevention of the development of risk factors for disease, not just prevention of disease.Naturally, emphasize is on upstream determinants of risk for chronic diseases, such as eating patterns, physical activity, and environmental and social determinants of health.\nIf we have to know more about basic questions like what to eat and what sort of physical activity promote long term health and longevity, we should start with the basic science.\nNutrition has a profound effect on ageing in all species. One of the most important nutritional interventions that influences ageing is caloric restriction (CR). Hence the focus is on nutrient sensing pathways. Key pathways are\nThe mTORC1 (mechanistic Target of Rapamycin Complex 1) and AMPK (AMP-activated protein kinase) pathways are central regulators of cellular metabolism, growth, proliferation and longevity. Their interaction is critical, as their dysregulation contributes to conditions such as type 2 diabetes, insulin resistance, inflammation, and tumor progression.\nRecent findings reveal that the interaction between these pathways is bidirectional. mTORC1 directly suppresses AMPK signalling,limiting AMPK’s ability to respond to metabolic stress. AMPK indirectly inhibits mTORC1. This reciprocal regulation highlights a complex feedback mechanism that maintains cellular homeostasis under varying conditions of energy availability and stress. This interplay underscores the importance of understanding mTORC1 and AMPK regulation both in health and disease(Ling et al. 2020).\nflowchart TD\n\nA{Aerobic exercise&lt;br/&gt;Starvation&lt;br/&gt;Muscle contraction} --&gt; B[SIRT1]\nA --&gt; C[Central Ghrelin]\nA --&gt; D[reduced Insulin]\nB --&gt; E{Upregulate AMPK}\nC --&gt; E\nD --&gt; E\nE --&gt; F[Increase Life span]\nG[Animal Protein&lt;br/&gt;Muscle strengthening] --&gt; H[mTOR activation]\nH --&gt; I[Increased muscle mass & strength]\nE &lt;--&gt; J(INHIBIT)\nJ &lt;--&gt; H\nAMP kinase is believed to be the central switch that positively regulate the life span of an individual(Jeon 2016).\nIt is regulated by a complex mechanism:",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "EV battery"
+      "Problem of life span and strength"
     ]
   },
   {
-    "objectID": "posts/EV battery.html#types-of-battery",
-    "href": "posts/EV battery.html#types-of-battery",
-    "title": "EV battery",
+    "objectID": "posts/Fragility.html#exercise-or-not-and-what-to-eat",
+    "href": "posts/Fragility.html#exercise-or-not-and-what-to-eat",
+    "title": "Problem of life span and strength",
+    "section": "Exercise or not and what to eat?",
+    "text": "Exercise or not and what to eat?\nExercise is a round about way to enhance fitness level and compress the morbidity.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Problem of life span and strength"
+    ]
+  },
+  {
+    "objectID": "posts/Fragility.html#the-theory-of-training-super-compensation",
+    "href": "posts/Fragility.html#the-theory-of-training-super-compensation",
+    "title": "Problem of life span and strength",
+    "section": "The Theory of Training Super-compensation",
+    "text": "The Theory of Training Super-compensation\nSystematic training is designed to enhance the fitness level of individuals. One foundational concept in training theory is the training super-compensation cycle, introduced by Yakovlev(Issurin 2010). This theory explains how the human body reacts and adapts to physical loads from training sessions or periods, leading to improved performance over time.\n\nPhases of the Supercompensation Cycle\n\nStress and Fatigue:\n\nTraining imposes physical loads that the body is unaccustomed to, causing stress and fatigue.\nThis results in an acute reduction in performance and work capability, marking the initial phase of the cycle.\nThe body perceives this as an emergency and prioritizes recovery.\n\nRecovery:\n\nAfter the training session, the body begins an intense recovery process.\nThis leads to the restoration of physical performance and work capability to pre-training levels.\n\nSupercompensation:\n\nBeyond recovery, the body continues to adapt in response to the prior training stimulus.\nPerformance and work capability increase, allowing for improvements beyond the baseline.\n\n\nThis cyclical process underscores the importance of structured training.\n\n\nMolecular Pathways in Training Adaptation\nTraining-induced adaptations occur through a network of molecular pathways, differing based on the type of activity:\n\nEndurance Training1:\n\nActivates pathways such as:\n\nPGC-1α (Promotes mitochondrial biogenesis).\nCaMK (Calmodulin-dependent kinases).\nCalcineurin.\nAMPK.\nMAPKs (Mitogen-activated protein kinases, e.g., ERK1/2, p38 MAPK).\n\nLeads to metabolic adaptations like mitochondrial biogenesis and angiogenesis, enhancing endurance capacity.\n\n\n\nResistance Training2:\n\nPrimarily stimulates the AKT-mTOR pathway, which promotes:\n\nMuscle hypertrophy.\nStrength and power gains.\nMyofibrillar protein synthesis.\n\n\n\n\n\n\n\nflowchart LR \nA[AMPK] &lt;--&gt; B(INHIBITS) \nC[mTORC1] &lt;--&gt; B\n\n\n\n\n\n\nThis cell level interplay has got important practical implications.\nIn the early 1980s, Hickson’s groundbreaking research revealed that when individuals engaged in concurrent training (CT)—a combination of strength and endurance training—the adaptations from resistance training were diminished compared to those achieved through resistance training alone. Hickson initially termed this phenomenon the “Interference Effect”(Hickson 1980). Today, it is widely recognized as the “Concurrent Training Effect” (CTE).\nA training regimen with high energy demands can significantly activate mechanisms that inhibit pathways regulating muscle myofibrillar protein synthesis(Wilson et al. 2012). Specifically, endurance exercises characterized by high volume or distance, lasting over 20 minutes, performed at moderate intensity (below 85% of maximum heart rate), and executed continuously are likely to amplify the concurrent training effect (CTE) when included in a concurrent training program(Terzis et al. 2016).\nLow-volume high-intensity interval training (HIIT) or sprint interval training (SIT)(Coates et al. 2023), consisting of short sessions (4–10 minutes), appears to exert a minimal negative impact on resistance training adaptations within a concurrent training program(MacInnis and Gibala 2016). These training modalities, particularly when cycling is involved, have a lower overall energy demand compared to continuous endurance exercises of matched volume, making them less likely to interfere with the benefits of resistance training(Gibala et al. 2012).\nRecent studies strongly suggest that separating endurance and strength training sessions yields superior adaptations in endurance capacity, muscle hypertrophy, strength, and power compared to combining both into a single session. This idea, initially highlighted by Sale et al., demonstrates that scheduling these training types on different days or in distinct sessions enhances the benefits of each(SALE et al. 1990).\nOptimal results are achieved when resistance and endurance training sessions are spaced 3–6 hours apart (to prioritize resistance adaptations) or 24 hours apart (to enhance endurance outcomes). This separation likely minimizes potential overlap in the activation of myofibrillar and mitochondrial protein synthesis pathways, thereby maximizing the benefits of both training modalities(Methenitis 2018).",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Problem of life span and strength"
+    ]
+  },
+  {
+    "objectID": "posts/Fragility.html#conclusion",
+    "href": "posts/Fragility.html#conclusion",
+    "title": "Problem of life span and strength",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nHigh-volume, moderate-intensity, continuous, and frequent endurance training is believed to negatively impact resistance training-induced adaptations.\nThis effect likely occurs due to the inhibition of the AKT-mTOR signaling pathway, mediated by the activation of adenosine monophosphate-activated protein kinase (AMPK).\nEndurance/Aerobic exercises go with low calorie diet. Both have positive effect on life span.\nResistance exercises go with high protein intake. Both help in improving strength and balance.\nOne may not mix aerobic with resistance exercises. There should be at least 3-24 hrs. gap between them, depending on where your focus is on.\nLot of animal protein and strengthening exercises will increase muscle mass. But the same has got negative affect on life span.\nHence, limit animal protein and strengthening exercises to 2 days per week. Rest of the days, take less protein and do aerobic exercises3.\nExplore HIIT/SIT4",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Problem of life span and strength"
+    ]
+  },
+  {
+    "objectID": "posts/Fragility.html#footnotes",
+    "href": "posts/Fragility.html#footnotes",
+    "title": "Problem of life span and strength",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n150 minutes of moderate intensity or 75 minutes of high intensity aerobic exercise.↩︎\nRegular repeated weight lifting for a fixed period of time, say, 30 minutes.↩︎\nAuthor’s opinion↩︎\nIt is fair to assume that our genes have not yet evolved enough to process an abundance of food and a total lack of physical exertion. Nor are they familiar enough with lack of variety in food and excessive round the clock stress. Cavemen were accustomed to bouts of physical exertion (for food, mates, and escaping enemies) and sporadic feasts with prolonged periods of an empty stomach.\nEmulating eating and exercise patterns in line with our ancestors in the form of HIIT/SIT could be promising.↩︎",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Problem of life span and strength"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html",
+    "href": "posts/mint.html",
+    "title": "Through Windows to open world",
     "section": "",
-    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
+    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "EV battery"
+      "Through Windows to open world"
     ]
   },
   {
-    "objectID": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
-    "href": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
-    "title": "EV battery",
-    "section": "Comparison of LFP and NMC Li-ion battery",
-    "text": "Comparison of LFP and NMC Li-ion battery\n\n\n\n\n\n\n\nLFP\nNMC\n\n\n\n\nCheap ($ 100/unit)\nCostly\n\n\nLess thermal run away\nMore thermal run away\n\n\nSafe to charge 100%\nLess safe for 100% charge\n\n\nLess energy density\nMore energy density\n\n\nLife is ~ 3000 cycles of charge\nLife is ~ 1500 cycles of charge\n\n\nSub-par range & charging in cold\nTemperature insensitive\n\n\ne.g: MG 50.3 pack, Tesla, BYD\ne.g: MG 44.5 pack, Nissan, Benz",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "EV battery"
-    ]
-  },
-  {
-    "objectID": "posts/HGT.html",
-    "href": "posts/HGT.html",
-    "title": "Wrinkles in the vast genetic sea",
+    "objectID": "posts/mint.html#breaking-open-the-window",
+    "href": "posts/mint.html#breaking-open-the-window",
+    "title": "Through Windows to open world",
     "section": "",
-    "text": "Carl Woese is one of the leading taxonomical microbiologists is the world. His paper “A New Biology for a New Century” discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.\nThat world was a vast sea of cosmopolitan genes, freely flowing from one entity to another. Because of HGT, evolution might have been largely communal and reticulate, rather than individual. We may never know whether their communal bonds persisted solely through gene exchanges or whether they evolved into physically organized groups, possibly resembling contemporary bacterial consortia but exhibiting even greater diversity in composition and methods of interaction. But it seems that efficient genes produced better systems of metabolism and reproduction, which got readily transferred to the community, thereby upgrading the system as a whole.",
+    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Wrinkles in the vast genetic sea"
+      "Through Windows to open world"
     ]
   },
   {
-    "objectID": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
-    "href": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
-    "title": "Wrinkles in the vast genetic sea",
+    "objectID": "posts/mint.html#linux",
+    "href": "posts/mint.html#linux",
+    "title": "Through Windows to open world",
+    "section": "Linux",
+    "text": "Linux\nBelieve me or not, Linux is the most commonly used operating system in the world. Yes, you heard me right: it is not the windows. Because of the dominance of Linux-based Android on smartphones, Linux, including Android, has the largest installed base of all general-purpose operating systems as of now. It is a completely free kernal for operating system. But, two eternal impediments of the system are\n\nMultiple distributions, called “distros”\nEqually fragmented application development and availability\n\nThese impediments are not limitations in the strictest sense. Linux is not developed, it evolves by trial and error. It emulates socio cultural evolution and strongly resonates with our own position in the Darvenian interlude. Just like the author, Linux is completely agnostic about why and where.\nLinux captured my mind and I immediately jumped in.\n\nDistro\nThe multitude of Linux distributions can be overwhelming for newcomers, but among them, Ubuntu and Linux Mint are particularly notable for their user-friendliness and quick setup. Ubuntu tends to be more technical, while Linux Mint is known for supporting Flatpak.\nFlatpak is a tool designed for software deployment and package management on Linux. It claims to provide a sandboxed environment where applications can run independently from the rest of the system. In theory, Flatpak apps can be installed on any existing or future Linux distribution, including those running under the Windows Subsystem for Linux, as long as bubblewrap and OSTree are present. Linux Mint felt more appealing for me.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Through Windows to open world"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html#installation-preparation",
+    "href": "posts/mint.html#installation-preparation",
+    "title": "Through Windows to open world",
+    "section": "Installation preparation",
+    "text": "Installation preparation\nInstallation involve multiple steps. Basically we have to create a bootable USB drive for linux, delete all remeasurement of Windows from the PC, boot and install Linux Mint and finally download necessary packages to run and use them.\n\nDownload Linux mint\nThis is the official website to reach Wilma, the latest version Linux Mint 22.\n\nIt is a long time support version and is fairly stable and usable out of the box. Download the iso file after verification.\n\n\nFlash as USB UEFI\nGet a USB flash drive of sufficient storage space(~10 GB).\n\nDownload BalenaEtcher. It is a USB flashing software. Install it on the machine and follow the instructions, select image, select drive and flash!\n\n\nEnter BIOS set-up\nFor dell laptops, following steps will take you to BIOS setting\n\nConnect USB flash drive\nShut-down the PC\nKeep pressing fn and f12 keys\nSwitch on the PC\nHold the f12 key until BIOS menu is open",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Through Windows to open world"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html#bios-changes",
+    "href": "posts/mint.html#bios-changes",
+    "title": "Through Windows to open world",
+    "section": "BIOS Changes",
+    "text": "BIOS Changes\n\nBoot set up\nDelete all options except USB UEFI flash drive\n\n\nStorage controller\nSet to AHCI/NVMe from RAID on\n\n\nSecurity\nToggle data wipe on. This will take several minutes to hours based on the size and type of drive. SSD is faster. Our PC took hours (kept running overnight).\nAfter data wipe, the PC will be automatically switched off",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Through Windows to open world"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html#linux-mint-installation",
+    "href": "posts/mint.html#linux-mint-installation",
+    "title": "Through Windows to open world",
+    "section": "Linux Mint installation",
+    "text": "Linux Mint installation\nSwitch on the PC after holding f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.\nThe desktop will show installation file. Click on it and follow the instructions.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Through Windows to open world"
+    ]
+  },
+  {
+    "objectID": "posts/mint.html#application-installation",
+    "href": "posts/mint.html#application-installation",
+    "title": "Through Windows to open world",
+    "section": "Application installation",
+    "text": "Application installation\n\nVia Terminal\nUpdate package list: sudo apt update\nUpgrade packages: sudo apt upgrade\nInstall a package: sudo apt install package_name\nRemove a package: sudo apt remove package_name\nSearch for a package: apt search package_name\nList installed packages: apt list --installed\n\n\nVia Software manager\nLinux Mint comes with a software manager inbuilt. It has a store with popular softwares.\n\nZotero\nsudo apt install zotero\n\n\nZotero connector\n\nLaunch mozella, go to Zotero connector link and install\n\n\nBetter BibTEX\nDownload from github link\n\n\nr-base\nsudo apt install r-base\n\n\nrStudio\n\nDownload from official posit website. Download the Ubundu 22/Debian 12 version and install\n\n\ngit\nsudo apt install git\nUse ssh key for secure login",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Through Windows to open world"
+    ]
+  },
+  {
+    "objectID": "posts/pm.html",
+    "href": "posts/pm.html",
+    "title": "Just stuck",
     "section": "",
-    "text": "Carl Woese is one of the leading taxonomical microbiologists is the world. His paper “A New Biology for a New Century” discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.\nThat world was a vast sea of cosmopolitan genes, freely flowing from one entity to another. Because of HGT, evolution might have been largely communal and reticulate, rather than individual. We may never know whether their communal bonds persisted solely through gene exchanges or whether they evolved into physically organized groups, possibly resembling contemporary bacterial consortia but exhibiting even greater diversity in composition and methods of interaction. But it seems that efficient genes produced better systems of metabolism and reproduction, which got readily transferred to the community, thereby upgrading the system as a whole.",
+    "text": "He looks all around,\nLooking the right, left, up, and down,\nSearching earnestly for enablers.\nBut all he finds are taskmasters and pretenders—\nImposters abound,\nThriving in a hollow dance of autistic exchange.\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Wrinkles in the vast genetic sea"
-    ]
-  },
-  {
-    "objectID": "posts/HGT.html#bumpy-roads-to-who-knows-where",
-    "href": "posts/HGT.html#bumpy-roads-to-who-knows-where",
-    "title": "Wrinkles in the vast genetic sea",
-    "section": "Bumpy roads to who knows where",
-    "text": "Bumpy roads to who knows where\nThis reticulate evolution sometimes reaches a saturation point as far as a particular individual entity (e.g., cells) is concerned. What may mean by a saturation point is that HGT breaks the existing composition, and a new entity emerges from the existing one. Very often, such an entity will not have any survival advantage and becomes obsolete over the passage of time.\nBut, as Freeman Dyson would call it, a ‘Bill Gates’ moment can happen at this juncture. The entity or cell that gains a new emergent property, a saltation, suddenly feels it inconceivable to share that property with the rest of the community. The advancement thus happened gets reserved to the private consumption rather than the advancement of the community. Muliple such events might have happened.\nThese saltatory moments become the start of a winner-takes-all, fractal cascade, the vertical individual evolution. This vertical wrinkle in the vast sea of horizontal evolution is marked by canonical interactions based on competition for survival rather than free transfer.\nThat wrinkle could be archaea, bacteria, a eukaryote, or even an unknown entity that could be evolving vertically in their own right. What is clear here is that vertical evolution is not only bumpy or staccato, but it seemingly leads to nowhere.",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Wrinkles in the vast genetic sea"
-    ]
-  },
-  {
-    "objectID": "posts/HGT.html#who-will-straighten-the-wrinkles",
-    "href": "posts/HGT.html#who-will-straighten-the-wrinkles",
-    "title": "Wrinkles in the vast genetic sea",
-    "section": "Who will straighten the wrinkles?",
-    "text": "Who will straighten the wrinkles?\nAlmost everything that defines humans boils down to reticulation. Whether it is language, religion, and such social organizations, or gene therapy and the worldwide web, what we see is pure horizontal transfer of information. This cultural evolution is 1000s of times more faster and potent than Darwinian evolution of competition for survival between non interbreeding species. Except for some aberrations, we can see that Homo sapiens as a whole are attempting to straighten the wrinkle. In a sense, they are trying to rectify the Darwinian error.",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Wrinkles in the vast genetic sea"
+      "Just stuck"
     ]
   },
   {
@@ -7803,172 +7855,133 @@
     ]
   },
   {
-    "objectID": "posts/pm.html",
-    "href": "posts/pm.html",
-    "title": "Just stuck",
+    "objectID": "posts/HGT.html",
+    "href": "posts/HGT.html",
+    "title": "Wrinkles in the vast genetic sea",
     "section": "",
-    "text": "He looks all around,\nLooking the right, left, up, and down,\nSearching earnestly for enablers.\nBut all he finds are taskmasters and pretenders—\nImposters abound,\nThriving in a hollow dance of autistic exchange.\n\n\n\n\n Back to top",
+    "text": "Carl Woese is one of the leading taxonomical microbiologists is the world. His paper “A New Biology for a New Century” discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.\nThat world was a vast sea of cosmopolitan genes, freely flowing from one entity to another. Because of HGT, evolution might have been largely communal and reticulate, rather than individual. We may never know whether their communal bonds persisted solely through gene exchanges or whether they evolved into physically organized groups, possibly resembling contemporary bacterial consortia but exhibiting even greater diversity in composition and methods of interaction. But it seems that efficient genes produced better systems of metabolism and reproduction, which got readily transferred to the community, thereby upgrading the system as a whole.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Just stuck"
+      "Wrinkles in the vast genetic sea"
     ]
   },
   {
-    "objectID": "posts/mint.html",
-    "href": "posts/mint.html",
-    "title": "Through Windows to open world",
+    "objectID": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
+    "href": "posts/HGT.html#horizontal-gene-transfer-hgt-in-the-primitive-world",
+    "title": "Wrinkles in the vast genetic sea",
     "section": "",
-    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
+    "text": "Carl Woese is one of the leading taxonomical microbiologists is the world. His paper “A New Biology for a New Century” discusses his insights in to the working of primitive biological world. His studies on tRNA suggests that horizontal gene transfer was rampant, and cells acquired new functions and characteristics through this method.\nThat world was a vast sea of cosmopolitan genes, freely flowing from one entity to another. Because of HGT, evolution might have been largely communal and reticulate, rather than individual. We may never know whether their communal bonds persisted solely through gene exchanges or whether they evolved into physically organized groups, possibly resembling contemporary bacterial consortia but exhibiting even greater diversity in composition and methods of interaction. But it seems that efficient genes produced better systems of metabolism and reproduction, which got readily transferred to the community, thereby upgrading the system as a whole.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Through Windows to open world"
+      "Wrinkles in the vast genetic sea"
     ]
   },
   {
-    "objectID": "posts/mint.html#breaking-open-the-window",
-    "href": "posts/mint.html#breaking-open-the-window",
-    "title": "Through Windows to open world",
+    "objectID": "posts/HGT.html#bumpy-roads-to-who-knows-where",
+    "href": "posts/HGT.html#bumpy-roads-to-who-knows-where",
+    "title": "Wrinkles in the vast genetic sea",
+    "section": "Bumpy roads to who knows where",
+    "text": "Bumpy roads to who knows where\nThis reticulate evolution sometimes reaches a saturation point as far as a particular individual entity (e.g., cells) is concerned. What may mean by a saturation point is that HGT breaks the existing composition, and a new entity emerges from the existing one. Very often, such an entity will not have any survival advantage and becomes obsolete over the passage of time.\nBut, as Freeman Dyson would call it, a ‘Bill Gates’ moment can happen at this juncture. The entity or cell that gains a new emergent property, a saltation, suddenly feels it inconceivable to share that property with the rest of the community. The advancement thus happened gets reserved to the private consumption rather than the advancement of the community. Muliple such events might have happened.\nThese saltatory moments become the start of a winner-takes-all, fractal cascade, the vertical individual evolution. This vertical wrinkle in the vast sea of horizontal evolution is marked by canonical interactions based on competition for survival rather than free transfer.\nThat wrinkle could be archaea, bacteria, a eukaryote, or even an unknown entity that could be evolving vertically in their own right. What is clear here is that vertical evolution is not only bumpy or staccato, but it seemingly leads to nowhere.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Wrinkles in the vast genetic sea"
+    ]
+  },
+  {
+    "objectID": "posts/HGT.html#who-will-straighten-the-wrinkles",
+    "href": "posts/HGT.html#who-will-straighten-the-wrinkles",
+    "title": "Wrinkles in the vast genetic sea",
+    "section": "Who will straighten the wrinkles?",
+    "text": "Who will straighten the wrinkles?\nAlmost everything that defines humans boils down to reticulation. Whether it is language, religion, and such social organizations, or gene therapy and the worldwide web, what we see is pure horizontal transfer of information. This cultural evolution is 1000s of times more faster and potent than Darwinian evolution of competition for survival between non interbreeding species. Except for some aberrations, we can see that Homo sapiens as a whole are attempting to straighten the wrinkle. In a sense, they are trying to rectify the Darwinian error.",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Wrinkles in the vast genetic sea"
+    ]
+  },
+  {
+    "objectID": "posts/EV battery.html",
+    "href": "posts/EV battery.html",
+    "title": "EV battery",
     "section": "",
-    "text": "A generic image downloaded from google\n\n\nMy wife owns a Dell Vostro 14 3000 series laptop. It boasts a 14-inch Full HD WVA display but is a bit of a relic, running on an Intel Core i3 processor. It also runs Windows 11 Home Edition. For reasons that remain a mystery—be it the underwhelming specs, the bloated software, or both—using the PC is a real exercise in patience. You turn it on and wait more than 10 minutes just to reach the log in page. Enter the password, and you get to enjoy another 10-minute wait while the applications slowly make their grand entrance. No wonder she ditched the laptop for an iPad; it’s much faster and doesn’t make you question your life choices.\nMeanwhile, my unparalleled skill for getting lost in to self-created problems of endless depth was just beginning to unfold. Though I am somewhat familiar with the Linux operating system, I first learned about Linus Torvalds quite recently while scrolling through a YouTube Shorts video in which he candidly discussed AI and the hype surrounding it. I was truly amazed to discover that he was the genius behind both Linux and Git.",
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Through Windows to open world"
+      "EV battery"
     ]
   },
   {
-    "objectID": "posts/mint.html#linux",
-    "href": "posts/mint.html#linux",
-    "title": "Through Windows to open world",
-    "section": "Linux",
-    "text": "Linux\nBelieve me or not, Linux is the most commonly used operating system in the world. Yes, you heard me right: it is not the windows. Because of the dominance of Linux-based Android on smartphones, Linux, including Android, has the largest installed base of all general-purpose operating systems as of now. It is a completely free kernal for operating system. But, two eternal impediments of the system are\n\nMultiple distributions, called “distros”\nEqually fragmented application development and availability\n\nThese impediments are not limitations in the strictest sense. Linux is not developed, it evolves by trial and error. It emulates socio cultural evolution and strongly resonates with our own position in the Darvenian interlude. Just like the author, Linux is completely agnostic about why and where.\nLinux captured my mind and I immediately jumped in.\n\nDistro\nThe multitude of Linux distributions can be overwhelming for newcomers, but among them, Ubuntu and Linux Mint are particularly notable for their user-friendliness and quick setup. Ubuntu tends to be more technical, while Linux Mint is known for supporting Flatpak.\nFlatpak is a tool designed for software deployment and package management on Linux. It claims to provide a sandboxed environment where applications can run independently from the rest of the system. In theory, Flatpak apps can be installed on any existing or future Linux distribution, including those running under the Windows Subsystem for Linux, as long as bubblewrap and OSTree are present. Linux Mint felt more appealing for me.",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/mint.html#installation-preparation",
-    "href": "posts/mint.html#installation-preparation",
-    "title": "Through Windows to open world",
-    "section": "Installation preparation",
-    "text": "Installation preparation\nInstallation involve multiple steps. Basically we have to create a bootable USB drive for linux, delete all remeasurement of Windows from the PC, boot and install Linux Mint and finally download necessary packages to run and use them.\n\nDownload Linux mint\nThis is the official website to reach Wilma, the latest version Linux Mint 22.\n\nIt is a long time support version and is fairly stable and usable out of the box. Download the iso file after verification.\n\n\nFlash as USB UEFI\nGet a USB flash drive of sufficient storage space(~10 GB).\n\nDownload BalenaEtcher. It is a USB flashing software. Install it on the machine and follow the instructions, select image, select drive and flash!\n\n\nEnter BIOS set-up\nFor dell laptops, following steps will take you to BIOS setting\n\nConnect USB flash drive\nShut-down the PC\nKeep pressing fn and f12 keys\nSwitch on the PC\nHold the f12 key until BIOS menu is open",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/mint.html#bios-changes",
-    "href": "posts/mint.html#bios-changes",
-    "title": "Through Windows to open world",
-    "section": "BIOS Changes",
-    "text": "BIOS Changes\n\nBoot set up\nDelete all options except USB UEFI flash drive\n\n\nStorage controller\nSet to AHCI/NVMe from RAID on\n\n\nSecurity\nToggle data wipe on. This will take several minutes to hours based on the size and type of drive. SSD is faster. Our PC took hours (kept running overnight).\nAfter data wipe, the PC will be automatically switched off",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/mint.html#linux-mint-installation",
-    "href": "posts/mint.html#linux-mint-installation",
-    "title": "Through Windows to open world",
-    "section": "Linux Mint installation",
-    "text": "Linux Mint installation\nSwitch on the PC after holding f12 as before to reach BIOS setting. Now click on the USB UEFI to boot from it. The PC will boot from USB to Linux Mint.\nThe desktop will show installation file. Click on it and follow the instructions.",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/mint.html#application-installation",
-    "href": "posts/mint.html#application-installation",
-    "title": "Through Windows to open world",
-    "section": "Application installation",
-    "text": "Application installation\n\nVia Terminal\nUpdate package list: sudo apt update\nUpgrade packages: sudo apt upgrade\nInstall a package: sudo apt install package_name\nRemove a package: sudo apt remove package_name\nSearch for a package: apt search package_name\nList installed packages: apt list --installed\n\n\nVia Software manager\nLinux Mint comes with a software manager inbuilt. It has a store with popular softwares.\n\nZotero\nsudo apt install zotero\n\n\nZotero connector\n\nLaunch mozella, go to Zotero connector link and install\n\n\nBetter BibTEX\nDownload from github link\n\n\nr-base\nsudo apt install r-base\n\n\nrStudio\n\nDownload from official posit website. Download the Ubundu 22/Debian 12 version and install\n\n\ngit\nsudo apt install git\nUse ssh key for secure login",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Through Windows to open world"
-    ]
-  },
-  {
-    "objectID": "posts/Fragility.html",
-    "href": "posts/Fragility.html",
-    "title": "Problem of life span and strength",
+    "objectID": "posts/EV battery.html#types-of-battery",
+    "href": "posts/EV battery.html#types-of-battery",
+    "title": "EV battery",
     "section": "",
-    "text": "Take home message\n\n\n\nHigh-volume, moderate-intensity, continuous, and frequent endurance training can negatively impact adaptations from resistance training.\nEndurance exercises pair well with a low-calorie diet and promote a longer lifespan.\nResistance exercises go with a high-protein diet and enhance strength and balance.\nMixing aerobic and resistance exercises may be avoided within the same session—there should be a gap of 3 to 24 hours between them, depending on your focus.\nLimit animal protein and strength training to 2 days a week; on other days, opt for lower protein intake and engage in aerobic exercises to maintain health and longevity.\nWith significant increases in global life expectancy over the past century, largely due to advancements in public health and socio-economic advancement, the focus has shifted toward maintaining a high quality of life and promoting a longer health span rather than merely extending life. Since death is inevitable, prevention efforts aim to compress morbidity—reducing the duration and severity of illness and disability—toward the very end of life. This approach seeks to minimize the time individuals spend suffering from disease before passing, thereby improving overall well-being during ageing(Harrison’s principles of internal medicine 2022).\nOne of the key development in this direction is primordial prevention, prevention of the development of risk factors for disease, not just prevention of disease.Naturally, emphasize is on upstream determinants of risk for chronic diseases, such as eating patterns, physical activity, and environmental and social determinants of health.\nIf we have to know more about basic questions like what to eat and what sort of physical activity promote long term health and longevity, we should start with the basic science.\nNutrition has a profound effect on ageing in all species. One of the most important nutritional interventions that influences ageing is caloric restriction (CR). Hence the focus is on nutrient sensing pathways. Key pathways are\nThe mTORC1 (mechanistic Target of Rapamycin Complex 1) and AMPK (AMP-activated protein kinase) pathways are central regulators of cellular metabolism, growth, proliferation and longevity. Their interaction is critical, as their dysregulation contributes to conditions such as type 2 diabetes, insulin resistance, inflammation, and tumor progression.\nRecent findings reveal that the interaction between these pathways is bidirectional. mTORC1 directly suppresses AMPK signalling,limiting AMPK’s ability to respond to metabolic stress. AMPK indirectly inhibits mTORC1. This reciprocal regulation highlights a complex feedback mechanism that maintains cellular homeostasis under varying conditions of energy availability and stress. This interplay underscores the importance of understanding mTORC1 and AMPK regulation both in health and disease(Ling et al. 2020).\nflowchart TD\n\nA{Aerobic exercise&lt;br/&gt;Starvation&lt;br/&gt;Muscle contraction} --&gt; B[SIRT1]\nA --&gt; C[Central Ghrelin]\nA --&gt; D[reduced Insulin]\nB --&gt; E{Upregulate AMPK}\nC --&gt; E\nD --&gt; E\nE --&gt; F[Increase Life span]\nG[Animal Protein&lt;br/&gt;Muscle strengthening] --&gt; H[mTOR activation]\nH --&gt; I[Increased muscle mass & strength]\nE &lt;--&gt; J(INHIBIT)\nJ &lt;--&gt; H\nAMP kinase is believed to be the central switch that positively regulate the life span of an individual(Jeon 2016).\nIt is regulated by a complex mechanism:",
+    "text": "Most commonly used EV battery today are Li- ion. They include\n\nLFP: Lithium iron phosphate\nNMC: Nickel Manganese Cobalt",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Problem of life span and strength"
+      "EV battery"
     ]
   },
   {
-    "objectID": "posts/Fragility.html#exercise-or-not-and-what-to-eat",
-    "href": "posts/Fragility.html#exercise-or-not-and-what-to-eat",
-    "title": "Problem of life span and strength",
-    "section": "Exercise or not and what to eat?",
-    "text": "Exercise or not and what to eat?\nExercise is a round about way to enhance fitness level and compress the morbidity.",
+    "objectID": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "href": "posts/EV battery.html#comparison-of-lfp-and-nmc-li-ion-battery",
+    "title": "EV battery",
+    "section": "Comparison of LFP and NMC Li-ion battery",
+    "text": "Comparison of LFP and NMC Li-ion battery\n\n\n\n\n\n\n\nLFP\nNMC\n\n\n\n\nCheap ($ 100/unit)\nCostly\n\n\nLess thermal run away\nMore thermal run away\n\n\nSafe to charge 100%\nLess safe for 100% charge\n\n\nLess energy density\nMore energy density\n\n\nLife is ~ 3000 cycles of charge\nLife is ~ 1500 cycles of charge\n\n\nSub-par range & charging in cold\nTemperature insensitive\n\n\ne.g: MG 50.3 pack, Tesla, BYD\ne.g: MG 44.5 pack, Nissan, Benz",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Problem of life span and strength"
+      "EV battery"
     ]
   },
   {
-    "objectID": "posts/Fragility.html#the-theory-of-training-super-compensation",
-    "href": "posts/Fragility.html#the-theory-of-training-super-compensation",
-    "title": "Problem of life span and strength",
-    "section": "The Theory of Training Super-compensation",
-    "text": "The Theory of Training Super-compensation\nSystematic training is designed to enhance the fitness level of individuals. One foundational concept in training theory is the training super-compensation cycle, introduced by Yakovlev(Issurin 2010). This theory explains how the human body reacts and adapts to physical loads from training sessions or periods, leading to improved performance over time.\n\nPhases of the Supercompensation Cycle\n\nStress and Fatigue:\n\nTraining imposes physical loads that the body is unaccustomed to, causing stress and fatigue.\nThis results in an acute reduction in performance and work capability, marking the initial phase of the cycle.\nThe body perceives this as an emergency and prioritizes recovery.\n\nRecovery:\n\nAfter the training session, the body begins an intense recovery process.\nThis leads to the restoration of physical performance and work capability to pre-training levels.\n\nSupercompensation:\n\nBeyond recovery, the body continues to adapt in response to the prior training stimulus.\nPerformance and work capability increase, allowing for improvements beyond the baseline.\n\n\nThis cyclical process underscores the importance of structured training.\n\n\nMolecular Pathways in Training Adaptation\nTraining-induced adaptations occur through a network of molecular pathways, differing based on the type of activity:\n\nEndurance Training1:\n\nActivates pathways such as:\n\nPGC-1α (Promotes mitochondrial biogenesis).\nCaMK (Calmodulin-dependent kinases).\nCalcineurin.\nAMPK.\nMAPKs (Mitogen-activated protein kinases, e.g., ERK1/2, p38 MAPK).\n\nLeads to metabolic adaptations like mitochondrial biogenesis and angiogenesis, enhancing endurance capacity.\n\n\n\nResistance Training2:\n\nPrimarily stimulates the AKT-mTOR pathway, which promotes:\n\nMuscle hypertrophy.\nStrength and power gains.\nMyofibrillar protein synthesis.\n\n\n\n\n\n\n\nflowchart LR \nA[AMPK] &lt;--&gt; B(INHIBITS) \nC[mTORC1] &lt;--&gt; B\n\n\n\n\n\n\nThis cell level interplay has got important practical implications.\nIn the early 1980s, Hickson’s groundbreaking research revealed that when individuals engaged in concurrent training (CT)—a combination of strength and endurance training—the adaptations from resistance training were diminished compared to those achieved through resistance training alone. Hickson initially termed this phenomenon the “Interference Effect”(Hickson 1980). Today, it is widely recognized as the “Concurrent Training Effect” (CTE).\nA training regimen with high energy demands can significantly activate mechanisms that inhibit pathways regulating muscle myofibrillar protein synthesis(Wilson et al. 2012). Specifically, endurance exercises characterized by high volume or distance, lasting over 20 minutes, performed at moderate intensity (below 85% of maximum heart rate), and executed continuously are likely to amplify the concurrent training effect (CTE) when included in a concurrent training program(Terzis et al. 2016).\nLow-volume high-intensity interval training (HIIT) or sprint interval training (SIT)(Coates et al. 2023), consisting of short sessions (4–10 minutes), appears to exert a minimal negative impact on resistance training adaptations within a concurrent training program(MacInnis and Gibala 2016). These training modalities, particularly when cycling is involved, have a lower overall energy demand compared to continuous endurance exercises of matched volume, making them less likely to interfere with the benefits of resistance training(Gibala et al. 2012).\nRecent studies strongly suggest that separating endurance and strength training sessions yields superior adaptations in endurance capacity, muscle hypertrophy, strength, and power compared to combining both into a single session. This idea, initially highlighted by Sale et al., demonstrates that scheduling these training types on different days or in distinct sessions enhances the benefits of each(SALE et al. 1990).\nOptimal results are achieved when resistance and endurance training sessions are spaced 3–6 hours apart (to prioritize resistance adaptations) or 24 hours apart (to enhance endurance outcomes). This separation likely minimizes potential overlap in the activation of myofibrillar and mitochondrial protein synthesis pathways, thereby maximizing the benefits of both training modalities(Methenitis 2018).",
+    "objectID": "posts/hiit.html",
+    "href": "posts/hiit.html",
+    "title": "What is Interval Training?",
+    "section": "",
+    "text": "Interval training refers to repeated bouts of relatively intense exercise interspersed with recovery periods of lighter exercise or rest. This method has been used for over a century by high-level athletes to enhance performance in endurance-based sports such as middle- and long-distance running.\nMore recently, interval training has also gained recognition for its health benefits, including its role in rehabilitation and improving fitness in inactive or deconditioned individuals(Coates et al. 2023).",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Problem of life span and strength"
+      "What is Interval Training?"
     ]
   },
   {
-    "objectID": "posts/Fragility.html#conclusion",
-    "href": "posts/Fragility.html#conclusion",
-    "title": "Problem of life span and strength",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nHigh-volume, moderate-intensity, continuous, and frequent endurance training is believed to negatively impact resistance training-induced adaptations.\nThis effect likely occurs due to the inhibition of the AKT-mTOR signaling pathway, mediated by the activation of adenosine monophosphate-activated protein kinase (AMPK).\nEndurance/Aerobic exercises go with low calorie diet. Both have positive effect on life span.\nResistance exercises go with high protein intake. Both help in improving strength and balance.\nOne may not mix aerobic with resistance exercises. There should be at least 3-24 hrs. gap between them, depending on where your focus is on.\nLot of animal protein and strengthening exercises will increase muscle mass. But the same has got negative affect on life span.\nHence, limit animal protein and strengthening exercises to 2 days per week. Rest of the days, take less protein and do aerobic exercises3.\nExplore HIIT/SIT4",
+    "objectID": "posts/hiit.html#hiit",
+    "href": "posts/hiit.html#hiit",
+    "title": "What is Interval Training?",
+    "section": "HIIT",
+    "text": "HIIT\n\nNowadays, High-Intensity Interval Training (HIIT) is ranked as the most popular fitness trend globally. Its popularity stems from its ability to:\n\nServe as an effective alternative to traditional endurance training.\nYield higher levels of endurance performance.\nReduce time commitment and improve exercise adherence.\n\n\nProven Benefits of HIIT\nHIIT has demonstrated significant benefits in various populations, including:\n\nAthletes: Improved VO2max and endurance performance.\nHealthy Individuals: Enhanced fitness levels.\nOverweight/Obese Individuals: Better metabolic health.\nCardiac Patients: Improved cardiovascular function.\n\n\n\nHIIT Protocols\nHIIT can be classified into various protocols based on work intensity, bout duration, session volume, and intervention duration(Wen et al. 2019):\n\n\n\n\n\n\n\nProtocol Type\nDetails\n\n\n\n\nLong-Interval HIIT (LI-HIIT)\nWork bouts lasting 2–4 minutes at sub-maximal intensity.\n\n\nShort-Interval HIIT (SI-HIIT)\nWork bouts lasting &lt;45 seconds at sub-maximal intensity.\n\n\nSprint-Interval Training (SIT)\nWork bouts lasting 20–30 seconds at near-maximal to maximal intensity.\n\n\nRepeated-Sprint Training (RST)\nWork bouts lasting ≤10 seconds at near-maximal to maximal intensity.\n\n\n\n\n\nVolume and Duration Variations\nHIIT protocols can also differ based on session volume and intervention duration:\n\n\nSession Volume\n\nHigh-Volume HIIT (HV-HIIT): Sessions with 16 minutes or more of work.\nLow-Volume HIIT (LV-HIIT): Sessions with 4 minutes of work.\n\n\n\nIntervention Duration\n\nLong-Term HIIT (LT-HIIT): Training programs lasting ≥12 weeks.\nShort-Term HIIT (ST-HIIT): Training programs lasting ≤4 weeks.\n\nEven short work interval (≤30 s), low-volume (≤5 min) and short- term (≤4 weeks) HIIT could elicit clear beneficial effects on VO2max when compared to no exercise(Wen et al. 2019).",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Problem of life span and strength"
+      "What is Interval Training?"
     ]
   },
   {
-    "objectID": "posts/Fragility.html#footnotes",
-    "href": "posts/Fragility.html#footnotes",
-    "title": "Problem of life span and strength",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\n150 minutes of moderate intensity or 75 minutes of high intensity aerobic exercise.↩︎\nRegular repeated weight lifting for a fixed period of time, say, 30 minutes.↩︎\nAuthor’s opinion↩︎\nIt is fair to assume that our genes have not yet evolved enough to process an abundance of food and a total lack of physical exertion. Nor are they familiar enough with lack of variety in food and excessive round the clock stress. Cavemen were accustomed to bouts of physical exertion (for food, mates, and escaping enemies) and sporadic feasts with prolonged periods of an empty stomach.\nEmulating eating and exercise patterns in line with our ancestors in the form of HIIT/SIT could be promising.↩︎",
+    "objectID": "posts/hiit.html#low-volume-sprint-interval-training-sit",
+    "href": "posts/hiit.html#low-volume-sprint-interval-training-sit",
+    "title": "What is Interval Training?",
+    "section": "Low-Volume Sprint Interval Training (SIT)",
+    "text": "Low-Volume Sprint Interval Training (SIT)\nLow-volume Sprint Interval Training (SIT), which can be cosidered a subset of HIIT,involves:\n\nVery High-Intensity Intervals: Work intervals lasting approximately 30 seconds.\nShort Duration: Each bout of activity is brief but intense.\nLong Recovery Periods: Rest intervals lasting around 4 minutes between each bout.\n\n\nBenefits of SIT\nStudies suggest that SIT can produce improvements in:\n\nAerobic Power: Comparable to traditional endurance training.\nMetabolic Function: Enhances energy efficiency and metabolic health.\n\nSIT provides an efficient alternative to traditional endurance training while maintaining similar physiological benefits. SIT has garnered considerable attention as a time-efficient and alternative method for enhancing aerobic performance and metabolic function(Sloth et al. 2013).\n\n\nDefinition\n\nDuration of Bouts: 10–30 seconds\nIntensity: Maximal effort, “all-out”\nVolume: ≤12 repetitions\nRecovery: ≥5 times the duration of each work bout\n\nSprint Interval Training (SIT) involves specific criteria to optimize its effectiveness. Bout durations are set between 10 and 30 seconds. Durations shorter than 10 seconds are excluded as they rely predominantly on anaerobic metabolism and have shown no significant impact on mitochondrial enzymes(M.-T. Linossier et al. 1993);(M.-T. Linossier et al. 1997);(BOGDANIS et al. 1998);(Dawson et al. 1998). The upper limit of 30 seconds is based on evidence that longer bouts significantly increase aerobic contribution to ATP turnover(Withers et al. 1991) and lead to a marked reduction in intensity, which disqualifies them from being classified as low-volume SIT. Intensity is characterized as “all-out” or near-maximal effort, adhering to the general conception of a sprint(Ross and Leveritt 2001). Volume and recovery protocols are designed to maintain a low total training volume while ensuring that high power output can be sustained across all sprints within a session.",
     "crumbs": [
       "Home",
       "Blog",
       "Posts",
-      "Problem of life span and strength"
+      "What is Interval Training?"
     ]
   },
   {
@@ -15119,19 +15132,6 @@
       "Revision notes",
       "Random notes",
       "Polio"
-    ]
-  },
-  {
-    "objectID": "posts/prospect.html",
-    "href": "posts/prospect.html",
-    "title": "Prospect theory",
-    "section": "",
-    "text": "What will you prefer?\n\n§1$2\n\n\n\nGet ₹50 definitely\nOption to get ₹100 or nothing with the toss of a coin (p=0.05).\n\n\n\n\nLose ₹50 definitely\nOption to lose ₹100 or nothing with the toss of a coin (p=0.05).\n\n\n\n\nIf you choose 1 for both §1 and §2, you are a risk avert-er\nIf you choose 2 for both §1 and §2, you are a risk taker\nIf you don’t have any preference, you are risk neutral\nIn general, if we have something to lose, we generally prefer small definite gain over a risky bet. But if we are already in a losing position, we tend to take more risk.\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Home",
-      "Blog",
-      "Posts",
-      "Prospect theory"
     ]
   }
 ]
