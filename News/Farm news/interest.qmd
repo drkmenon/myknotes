@@ -1,0 +1,7 @@
+---
+title: "Common interest"
+format: html
+editor: visual
+---
+
+![](images/IMG_5586.jpeg)
