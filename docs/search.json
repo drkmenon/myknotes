@@ -15120,5 +15120,18 @@
       "Random notes",
       "Polio"
     ]
+  },
+  {
+    "objectID": "posts/prospect.html",
+    "href": "posts/prospect.html",
+    "title": "Prospect theory",
+    "section": "",
+    "text": "What will you prefer?\n\n§1$2\n\n\n\nGet ₹50 definitely\nOption to get ₹100 or nothing with the toss of a coin (p=0.05).\n\n\n\n\nLose ₹50 definitely\nOption to lose ₹100 or nothing with the toss of a coin (p=0.05).\n\n\n\n\nIf you choose 1 for both §1 and §2, you are a risk avert-er\nIf you choose 2 for both §1 and §2, you are a risk taker\nIf you don’t have any preference, you are risk neutral\nIn general, if we have something to lose, we generally prefer small definite gain over a risky bet. But if we are already in a losing position, we tend to take more risk.\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Home",
+      "Blog",
+      "Posts",
+      "Prospect theory"
+    ]
   }
 ]

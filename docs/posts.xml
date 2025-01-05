@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s digital garden built around orthopaedic stream</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sat, 21 Dec 2024 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jan 2025 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Sat, 21 Dec 2024 18:30:00 GMT</pubDate>
+  <pubDate>Sat, 04 Jan 2025 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Just stuck</title>
@@ -1238,6 +1238,46 @@ Woese, Carl R. 2004. <span>“A New Biology for a New Century.”</span> <em>Mic
   <category>science</category>
   <guid>https://www.knotes.co.in/posts/HGT.html</guid>
   <pubDate>Thu, 09 May 2024 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>Prospect theory</title>
+  <link>https://www.knotes.co.in/posts/prospect.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://www.knotes.co.in/posts/images/prosp.png" class="img-fluid" width="499"></p>
+<section id="what-will-you-prefer" class="level3">
+<h3 class="anchored" data-anchor-id="what-will-you-prefer">What will you prefer?</h3>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true">§1</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">$2</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+<ol type="1">
+<li><p>Get ₹50 definitely</p></li>
+<li><p>Option to get ₹100 or nothing with the toss of a coin (<em>p=0.05</em>).</p></li>
+</ol>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
+<ol type="1">
+<li><p>Lose ₹50 definitely</p></li>
+<li><p>Option to lose ₹100 or nothing with the toss of a coin (<em>p=0.05</em>).</p></li>
+</ol>
+</div>
+</div>
+</div>
+<p>If you choose 1 for both §1 and §2, you are a <strong>risk avert-er</strong></p>
+<p>If you choose 2 for both §1 and §2, you are a <strong>risk taker</strong></p>
+<p>If you don’t have any preference, you are <strong>risk neutral</strong></p>
+<p>In general, if we have something to lose, we generally prefer small definite gain over a risky bet. But if we are already in a losing position, we tend to take more risk.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <guid>https://www.knotes.co.in/posts/prospect.html</guid>
+  <pubDate>Sun, 05 Jan 2025 15:51:48 GMT</pubDate>
 </item>
 </channel>
 </rss>

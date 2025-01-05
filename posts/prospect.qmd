@@ -1,0 +1,30 @@
+---
+title: "Prospect theory"
+format: html
+---
+
+![](images/prosp.png){width="499"}
+
+### What will you prefer?
+
+::: panel-tabset
+## §1
+
+1.  Get ₹50 definitely
+
+2.  Option to get ₹100 or nothing with the toss of a coin (*p=0.05*).
+
+## \$2
+
+1.  Lose ₹50 definitely
+
+2.  Option to lose ₹100 or nothing with the toss of a coin (*p=0.05*).
+:::
+
+If you choose 1 for both §1 and §2, you are a **risk avert-er**
+
+If you choose 2 for both §1 and §2, you are a **risk taker**
+
+If you don't have any preference, you are **risk neutral**
+
+In general, if we have something to lose, we generally prefer small definite gain over a risky bet. But if we are already in a losing position, we tend to take more risk.
