@@ -1,0 +1,7 @@
+---
+title: "Expectation"
+format: html
+editor: visual
+---
+
+Happiness = Achievement- Expectation
