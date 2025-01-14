@@ -102,8 +102,8 @@ format:
     mainfont: palatino
     code-copy: true
     code-overflow: wrap
-    fontsize: 1.2rem
-    #linestretch: 1.5
+    fontsize: 1.1rem
+    linestretch: 1.5
     fontcolor: "#1c1c1c"
     linkcolor: "#0072bb"
     backgroundcolor: "white"

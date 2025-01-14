@@ -9,7 +9,7 @@
 <link>https://www.knotes.co.in/posts.html</link>
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s digital garden built around orthopaedic stream</description>
-<generator>quarto-1.6.39</generator>
+<generator>quarto-1.6.40</generator>
 <lastBuildDate>Mon, 13 Jan 2025 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
@@ -1277,7 +1277,7 @@ Woese, Carl R. 2004. <span>“A New Biology for a New Century.”</span> <em>Mic
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://www.knotes.co.in/posts/prospect.html</guid>
-  <pubDate>Tue, 14 Jan 2025 11:18:42 GMT</pubDate>
+  <pubDate>Tue, 14 Jan 2025 12:29:17 GMT</pubDate>
 </item>
 </channel>
 </rss>

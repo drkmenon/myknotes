@@ -46,9 +46,9 @@ $text-muted: #6a737b;
 
 @media (max-width: 768px) {
   .sidebar {
-    top: 0 !important;  /* Start below the navbar */
+    top: 86px !important;  /* Start below the navbar */
     left: 0; /* Align to the left */
-    overflow-y: auto !important; /* Enable scrolling */
+    overflow-y: scroll !important; /* Enable scrolling */
   }
 }
 
