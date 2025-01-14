@@ -43,12 +43,11 @@ $text-muted: #6a737b;
   color: $white;
 }
 
-
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .sidebar {
     top: 86px !important;  /* Start below the navbar */
     left: 0; /* Align to the left */
-    overflow-y: scroll !important; /* Enable scrolling */
+    overflow-y: auto !important; /* Enable scrolling */
   }
 }
 
