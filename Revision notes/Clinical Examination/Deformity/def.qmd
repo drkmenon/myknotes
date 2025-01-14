@@ -1,0 +1,99 @@
+---
+title: "Deformity"
+format: html
+editor: visual
+---
+
+# Examination of a Lower Leg Angular Deformity
+
+## Look
+
+-   **Overall appearance**: Comment on obesity or short stature.\
+    Ask to document height and weight on a growth chart.\
+-   **Scars**: Look for scars from past surgery.\
+-   **Deformity**: Comment on the deformity from the front, side, and back.\
+-   **Spine**: Comment on the spine from the back.\
+-   **Focus**: Is it obvious where the deformity is?
+
+## Walk
+
+-   Observe for:
+    -   Varus or valgus thrust\
+    -   Waddling\
+    -   Antalgic gait
+
+## Feel
+
+-   Measure intermalleolar distance with knees together and patellae facing forward.
+
+## Lie Down
+
+-   **Square pelvis**: Check alignment.\
+-   **Measure deformity**:
+    -   ASIS to medial malleolus (Tibia).\
+    -   Use a goniometer at the knee for crude measurements.\
+-   **Correctibility**: Assess if deformities are correctable.
+
+## Move
+
+-   **Range of Motion (ROM)**: Assess in the joints.\
+-   **Rotational Profile**: Evaluate rotational alignment.
+
+## Finishing
+
+-   **Imaging**:
+    -   Full-limb standing X-rays with the emitter at 3m, centered on knees.\
+    -   CT scanograms.\
+-   **Family history**: Take a detailed family history.
+
+------------------------------------------------------------------------
+
+# Examination of a Leg Length Discrepancy
+
+## Standing
+
+### Look
+
+-   **Discrepancy**: Check for any obvious discrepancy.\
+-   **Trunk/Pelvis**: Look for pelvic tilt or trunk lean.\
+-   **Posture**: Observe for flexion posture in the long leg or equinus in the short leg.\
+-   **Spine**: Assess for scoliosis using a forward bend test and note correction (compensatory).\
+-   **Feet**: Check for fusions or deformities.\
+-   **Other signs**: Look for scars, swellings, or angular deformities.
+
+### Feel
+
+-   Place fingers on ASIS with knees extended and feet flat to assess difference.\
+-   Perform a block test until the pelvis is square (functional discrepancy).
+
+## Move
+
+-   **Gait**:
+    -   Observe and comment on gait patterns, such as short leg gait, ipsilateral knee flexion, contralateral ankle equinus, circumduction, hip hitching, or trunk bending.
+
+## Lie Down
+
+### Look
+
+-   Observe for any additional findings.
+
+### Feel
+
+-   Square up the pelvis and palpate the ASIS.\
+-   Measure **true** and **apparent discrepancy**.
+
+### Move
+
+-   Perform:
+    -   **Thomas test**: Assess hip flexion contractures.\
+    -   **Hip ROM**: Evaluate for contractures.\
+    -   **Galleazzi test**: Determine femoral or tibial discrepancy.
+        -   If femoral: Use Nelaton's line and Bryan's triangle for further assessment.
+
+## Finishing
+
+-   **Other examinations**:
+    -   Examine upper limbs.\
+    -   Examine chest and abdomen for anomalies.\
+-   **Imaging**:
+    -   Full-length X-rays for a detailed view.

@@ -1,0 +1,77 @@
+---
+title: "Assessment of an Amputee"
+format: html
+editor: visual
+---
+
+
+
+## History
+
+### Baseline Questions
+- **Age**: Record the patient's age.  
+- **Employment**: Document their job or occupation.  
+- **Home Circumstances**: Note living conditions, support systems, and accessibility.  
+
+### Details of Amputation
+- **When**: Record the date of the amputation.  
+- **Why**: Determine the cause (e.g., trauma, vascular disease, congenital, infection).  
+- **Operations**: Ask if there have been multiple surgeries on the stump.  
+- **Complications**: Inquire about post-operative issues, such as infection or delayed healing.  
+
+### Current Symptoms
+- **Pain**:  
+  - **Stump Pain**: Nature, onset, relieving factors, and analgesics used.  
+  - **Phantom Pain**: Frequency, nature, and treatment.  
+  - **Night or Rest Pain**: Assess severity and impact on sleep.  
+- **Neurologic Symptoms**: Evaluate sensations like tingling or numbness in the stump.  
+- **Infection**:  
+  - Presence of discharge, redness, swelling, or systemic symptoms.
+
+### Prosthetic History
+- **Prostheses**:  
+  - How many prostheses has the patient used?  
+  - Why were they changed?  
+  - What is currently in use?  
+- **Comfort**: Is the prosthesis comfortable and functional?
+
+### Functional Level
+- **Current Function**: Assess the patient's capabilities and limitations:  
+  - Sports, walking, climbing stairs, self-care, and driving.  
+- **Changes**: Has functional ability recently improved or declined?  
+- **Satisfaction**: Is the patient satisfied with their current functional status?  
+- **Problems**: Identify specific issues the patient wishes to address.
+
+### Additional History
+- **Past Medical History (PMH)**: Review for conditions relevant to amputation or prosthetic use.  
+- **Drug History**: Document medications, especially those for pain or infection.  
+- **Family History**: Investigate genetic or congenital causes if relevant.
+
+---
+
+## Examination
+
+### Look
+- **Orthoses and Aids**: Note any orthoses, prostheses, or use of wheelchairs.  
+- **General Mobility**: Observe how the patient moves around the room.  
+- **Stump Examination**:  
+  - **Scars**: Check for redness, swelling, sinuses, or discharge.  
+  - **Muscle Wasting**: Assess proximal muscle groups.  
+  - **Stump Shape**: Look for pressure areas or abnormal contours.  
+
+### Feel
+- **Warmth**: Detect signs of inflammation or infection.  
+- **Collections**: Palpate for fluid accumulations.  
+- **Sensitivity**: Assess for tenderness or pain.  
+- **Tissue Tethering**: Check if soft tissues are adhered to the bone.  
+
+### Move
+- **Range of Motion (ROM)**:  
+  - Evaluate active and passive movement of proximal joints.  
+  - Note any stiffness or pain.  
+
+### Gait Assessment in Prosthesis
+- Observe gait mechanics while the patient is using their prosthesis.  
+- Look for asymmetry, compensatory movements, or discomfort.
+
+--- 

@@ -1,0 +1,149 @@
+---
+title: "Pediatric Cases"
+format: html
+editor: visual
+---
+
+## Cases
+- **Spina Bifida**
+- **Cerebral Palsy**
+- **Leg Length Discrepancy**
+- **Rotational Profile**: Intoeing/Outtoeing
+- **Talipes Equinovarus**
+- **Multiple Hereditary Osteochondromatosis**
+- **Arthrogryposis**
+- **Achondroplasia**
+- **Rickets**
+- **Genu Valgum or Varum**
+- **Scoliosis**
+- **Spondylolisthesis**
+- **Lesser Toe Deformities**
+- **Tarsal Coalition and Idiopathic Flatfoot**
+- **Popliteal Cyst**
+- **HSMN (Hereditary Sensory and Motor Neuropathy)**
+- **Muscular Dystrophy**
+- **Cleidocranial Dysostosis**
+- **Klippel-Feil Syndrome & Sprengel Shoulder**
+- **Radio-Ulnar Synostosis**
+- **Congenital Radial Head Dislocation**
+- **Congenital Hand Deformities**
+- **Madelung’s Deformity**
+- **Pseudoarthrosis of the Clavicle**
+- **Trigger Thumb**
+- **Limb Deficiency**: Fibular Hemimelia, PFFD
+- **Post DDH, SUFE, or Perthes**
+- **Coxa Vara**
+- **Osteogenesis Imperfecta**
+
+---
+
+## **Spina Bifida**
+### Examination
+#### Look
+- Legs, feet, spine, orthoses, wheelchair.
+  - **L4**: Community ambulators with an AFO.
+  - **L5**: Typically do not require orthoses.
+  - **L2**: May require a KAFO.
+- Assess gait with and without orthoses.
+- Describe deformities, wasting, or ulcers.
+- Check for healed ulcers and cutaneous manifestations (hair tufts, pits, café-au-lait spots).
+- Observe for scoliosis.
+
+#### Feel
+- **Sensory Examination**: Determine the lowest functional level.
+
+#### Move
+- Assess hips for dislocation.
+- Passive ROM in joints.
+- Evaluate tone and motor power to establish the motor level.
+- Check the power of individual muscle groups in the feet.
+
+---
+
+## **Cerebral Palsy**
+### History
+#### Background & Developmental History
+- **Age** and date of diagnosis.
+- **Birth and pregnancy history**: Assess developmental milestones (sitting, walking, talking).
+
+#### Chronic Problems
+- Spine, hips, knees, feet.
+
+#### History of Treatments
+- **Orthotics**: Walking aids, braces, AFOs, wheelchair, sitting support.
+- **Medications**: Baclofen, Botox, neuroleptics (e.g., for epilepsy), current medications.
+- **Surgery**: Addressing spine, hips, knees, feet, upper limbs, and contracture release.
+
+#### New and Current Problems
+- Assess functional level and limitations (walking, sitting, sleeping, self-care, feeding).
+- Identify problematic deformities.
+
+#### Social Circumstances
+- **Home Help**: Home modifications, schooling.
+- **Self-Care**: Catheter use, intermittent catheterization.
+
+#### Past Medical History
+- Notable issues, especially epilepsy.
+
+### Examination
+#### Look
+- Walking aids, wheelchair, seating support.
+- Presence of an intrathecal baclofen pump.
+- Posture at rest:
+  - **Head**: Position.
+  - **Upper Limbs**: Position.
+  - **Balance**: Sagittal and coronal.
+  - **Lower Limbs**: Contractures.
+- Feet: Hallux valgus, cavus, ulceration, plantar callosities.
+- Spine: Coronal and sagittal balance, scars.
+- Gait: Describe systematically (head, shoulders, trunk, hips, knees, feet, gait phases, and foot progression angle).
+
+#### Feel & Move
+- Assess spine (standing): Forward bend test to display rib hump.
+- **Supine**:
+  - Pelvic obliquity, measure leg lengths.
+  - Passive ROM in joints to quantify contracture:
+    - Hips: Dislocation, ROM, pain, fixed flexion deformity (Thomas test).
+    - Knees: Hamstring contracture, popliteal angle.
+    - Feet: Gastrosoleus contracture, forefoot deformities (Silverskiold test).
+- **Prone**:
+  - Rotational profile: Femoral version, Gage’s test, thigh-foot angle.
+  - Staheli test for FFD.
+  - Ely test for rectus femoris contracture.
+- **Side**:
+  - Ober’s test for ITB tightness.
+
+---
+
+## **Achondroplasia**
+### Examination
+#### Look
+- **Face/Head**: Frontal bossing, flattened midface, button nose.
+- **Stature**: Short stature with normal trunk and rhizomelic shortening of the arms.
+- **Elbows**: Decreased ROM, radial head dislocation.
+- **Hands**: Brachydactyly, trident hands.
+- **Spine**: Lumbar hyperlordosis, kyphosis.
+- **Legs**: Genu varum, coxa valga.
+
+#### Other Tests
+- Assess the spine for stenosis (lumbar, foramen magnum).
+
+---
+
+## **Multiple Hereditary Osteochondromatosis**
+### Examination
+#### Keys
+- Lump characteristics: Sessile or pedunculated, hard, non-expansile, pain-free/painful.
+- Location: Adjacent to joints, with no skin changes.
+- Neurovascular assessment distal to the lesion.
+- Limb length or angular deformity: Offer to measure supine.
+- Look for additional osteochondromas in other regions (pelvis, knees, spine).
+- Symptoms: Mechanical or malignancy-related (e.g., growth, night pain).
+
+#### Management
+- Excise suspicious or mechanically bothersome lesions.
+- Delay excision until maturity if possible.
+
+---
+
+For further specific cases, expand as needed based on detailed clinical features and assessments.

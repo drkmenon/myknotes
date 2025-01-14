@@ -92,31 +92,31 @@
 
 \- **XR**:
 
- - Sclerosis & cysts
+-   Sclerosis & cysts
 
- - Crescent sign
+-   Crescent sign
 
- - Joint space narrowing
+-   Joint space narrowing
 
- - Severe arthrosis
+-   Severe arthrosis
 
 \- **MRI**:
 
- - 99% sensitivity and specificity for early diagnosis
+-   99% sensitivity and specificity for early diagnosis
 
- - **Pathognomonic sign: Double line sign (present in 80%)**
+-   **Pathognomonic sign: Double line sign (present in 80%)**
 
- - **MR appearances correspond to stage of AVN**:
+-   **MR appearances correspond to stage of AVN**:
 
- - **Fat \> Blood \> Fluid \> fibrous tissue = Early \> Late disease**
+-   **Fat \> Blood \> Fluid \> fibrous tissue = Early \> Late disease**
 
- - **High T1, Intermediate T2**
+-   **High T1, Intermediate T2**
 
- - **High T1, High T2**
+-   **High T1, High T2**
 
- - **Low T1, High T2**
+-   **Low T1, High T2**
 
- - **Low T1, Low T2**
+-   **Low T1, Low T2**
 
 ## Management
 

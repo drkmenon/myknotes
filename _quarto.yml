@@ -5,6 +5,9 @@ project:
     - ads.txt 
 
 website:
+  search: 
+    location: sidebar
+    type: textbox
   title: "knotes"
   site-url: https://www.knotes.co.in
   description: "Kishore Puthezhath's digital garden built around orthopaedic stream"
@@ -47,7 +50,6 @@ website:
           - articles.qmd
           - tenet.qmd
   sidebar:
-     search: true
      style: "floating"
      contents: 
       - section: Orthopaedics
@@ -75,7 +77,7 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   page-footer:
-    right: "Copyright 2024 @ Kishore Puthezhath"
+    right: "Copyright 2025 @ Kishore Puthezhath"
     left: "Opinions are for informational purposes"
     background: white
   reader-mode: false
@@ -97,10 +99,10 @@ format:
   html:
     theme:
       light: [cosmo, theme.scss]
-    #mainfont: san-sherif #palatino
+    mainfont: palatino
     code-copy: true
     code-overflow: wrap
-    #fontsize: 1.2rem
+    fontsize: 1.2rem
     #linestretch: 1.5
     fontcolor: "#1c1c1c"
     linkcolor: "#0072bb"

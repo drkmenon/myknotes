@@ -1111,6 +1111,81 @@
     ]
   },
   {
+    "objectID": "Revision notes/Clinical Examination/Knee/knee.html",
+    "href": "Revision notes/Clinical Examination/Knee/knee.html",
+    "title": "Knee Ligament Examination",
+    "section": "",
+    "text": "Wasting: Observe for muscle atrophy.\n\nScars: Look for surgical or injury-related scars.\n\nDeformity: Assess for visible abnormalities.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Knee",
+      "Knee Ligament Examination"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Knee/knee.html#inspect",
+    "href": "Revision notes/Clinical Examination/Knee/knee.html#inspect",
+    "title": "Knee Ligament Examination",
+    "section": "",
+    "text": "Wasting: Observe for muscle atrophy.\n\nScars: Look for surgical or injury-related scars.\n\nDeformity: Assess for visible abnormalities.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Knee",
+      "Knee Ligament Examination"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Knee/knee.html#walk",
+    "href": "Revision notes/Clinical Examination/Knee/knee.html#walk",
+    "title": "Knee Ligament Examination",
+    "section": "Walk",
+    "text": "Walk\n\nCheck for ACL deficiency gait.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Knee",
+      "Knee Ligament Examination"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Knee/knee.html#lie-down",
+    "href": "Revision notes/Clinical Examination/Knee/knee.html#lie-down",
+    "title": "Knee Ligament Examination",
+    "section": "Lie Down",
+    "text": "Lie Down\n\nRange of Motion (ROM): Assess joint movement.\n\nScreen for Sag: Look for posterior sag (PCL assessment).\n\nPosterior Draw Test: Evaluate posterior cruciate ligament (PCL) integrity.\n\nQuads Active Test: If PCL laxity is present, observe tibial movement during quadriceps contraction.\n\nLachman Test: Assess anterior cruciate ligament (ACL) integrity.\n\nCollateral Ligaments:\n\nVarus and valgus stress tests.\n\n\nPivot Shift: Dynamic test for ACL laxity.\n\nDial Test: Assess for posterolateral corner injuries.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Knee",
+      "Knee Ligament Examination"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Knee/knee.html#finishing",
+    "href": "Revision notes/Clinical Examination/Knee/knee.html#finishing",
+    "title": "Knee Ligament Examination",
+    "section": "Finishing",
+    "text": "Finishing\n\nJoint Lines and Menisci: Palpate for tenderness and check for meniscal involvement.\n\nPulses and Neurology: Evaluate vascular and nerve function.\n\nFull History: Gather a complete patient history.\n\nImaging: Order appropriate imaging for confirmation (e.g., MRI, X-ray).",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Knee",
+      "Knee Ligament Examination"
+    ]
+  },
+  {
     "objectID": "Revision notes/Clinical Examination/Hip/hip.html",
     "href": "Revision notes/Clinical Examination/Hip/hip.html",
     "title": "Clinical Examination of the Hip",
@@ -1183,6 +1258,51 @@
       "Clinical Examination",
       "Hip",
       "Clinical Examination of the Hip"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Amputee/amput.html",
+    "href": "Revision notes/Clinical Examination/Amputee/amput.html",
+    "title": "Assessment of an Amputee",
+    "section": "",
+    "text": "Age: Record the patient’s age.\n\nEmployment: Document their job or occupation.\n\nHome Circumstances: Note living conditions, support systems, and accessibility.\n\n\n\n\n\nWhen: Record the date of the amputation.\n\nWhy: Determine the cause (e.g., trauma, vascular disease, congenital, infection).\n\nOperations: Ask if there have been multiple surgeries on the stump.\n\nComplications: Inquire about post-operative issues, such as infection or delayed healing.\n\n\n\n\n\nPain:\n\nStump Pain: Nature, onset, relieving factors, and analgesics used.\n\nPhantom Pain: Frequency, nature, and treatment.\n\nNight or Rest Pain: Assess severity and impact on sleep.\n\n\nNeurologic Symptoms: Evaluate sensations like tingling or numbness in the stump.\n\nInfection:\n\nPresence of discharge, redness, swelling, or systemic symptoms.\n\n\n\n\n\n\nProstheses:\n\nHow many prostheses has the patient used?\n\nWhy were they changed?\n\nWhat is currently in use?\n\n\nComfort: Is the prosthesis comfortable and functional?\n\n\n\n\n\nCurrent Function: Assess the patient’s capabilities and limitations:\n\nSports, walking, climbing stairs, self-care, and driving.\n\n\nChanges: Has functional ability recently improved or declined?\n\nSatisfaction: Is the patient satisfied with their current functional status?\n\nProblems: Identify specific issues the patient wishes to address.\n\n\n\n\n\nPast Medical History (PMH): Review for conditions relevant to amputation or prosthetic use.\n\nDrug History: Document medications, especially those for pain or infection.\n\nFamily History: Investigate genetic or congenital causes if relevant.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Amputee",
+      "Assessment of an Amputee"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Amputee/amput.html#history",
+    "href": "Revision notes/Clinical Examination/Amputee/amput.html#history",
+    "title": "Assessment of an Amputee",
+    "section": "",
+    "text": "Age: Record the patient’s age.\n\nEmployment: Document their job or occupation.\n\nHome Circumstances: Note living conditions, support systems, and accessibility.\n\n\n\n\n\nWhen: Record the date of the amputation.\n\nWhy: Determine the cause (e.g., trauma, vascular disease, congenital, infection).\n\nOperations: Ask if there have been multiple surgeries on the stump.\n\nComplications: Inquire about post-operative issues, such as infection or delayed healing.\n\n\n\n\n\nPain:\n\nStump Pain: Nature, onset, relieving factors, and analgesics used.\n\nPhantom Pain: Frequency, nature, and treatment.\n\nNight or Rest Pain: Assess severity and impact on sleep.\n\n\nNeurologic Symptoms: Evaluate sensations like tingling or numbness in the stump.\n\nInfection:\n\nPresence of discharge, redness, swelling, or systemic symptoms.\n\n\n\n\n\n\nProstheses:\n\nHow many prostheses has the patient used?\n\nWhy were they changed?\n\nWhat is currently in use?\n\n\nComfort: Is the prosthesis comfortable and functional?\n\n\n\n\n\nCurrent Function: Assess the patient’s capabilities and limitations:\n\nSports, walking, climbing stairs, self-care, and driving.\n\n\nChanges: Has functional ability recently improved or declined?\n\nSatisfaction: Is the patient satisfied with their current functional status?\n\nProblems: Identify specific issues the patient wishes to address.\n\n\n\n\n\nPast Medical History (PMH): Review for conditions relevant to amputation or prosthetic use.\n\nDrug History: Document medications, especially those for pain or infection.\n\nFamily History: Investigate genetic or congenital causes if relevant.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Amputee",
+      "Assessment of an Amputee"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Amputee/amput.html#examination",
+    "href": "Revision notes/Clinical Examination/Amputee/amput.html#examination",
+    "title": "Assessment of an Amputee",
+    "section": "Examination",
+    "text": "Examination\n\nLook\n\nOrthoses and Aids: Note any orthoses, prostheses, or use of wheelchairs.\n\nGeneral Mobility: Observe how the patient moves around the room.\n\nStump Examination:\n\nScars: Check for redness, swelling, sinuses, or discharge.\n\nMuscle Wasting: Assess proximal muscle groups.\n\nStump Shape: Look for pressure areas or abnormal contours.\n\n\n\n\nFeel\n\nWarmth: Detect signs of inflammation or infection.\n\nCollections: Palpate for fluid accumulations.\n\nSensitivity: Assess for tenderness or pain.\n\nTissue Tethering: Check if soft tissues are adhered to the bone.\n\n\n\nMove\n\nRange of Motion (ROM):\n\nEvaluate active and passive movement of proximal joints.\n\nNote any stiffness or pain.\n\n\n\n\nGait Assessment in Prosthesis\n\nObserve gait mechanics while the patient is using their prosthesis.\n\nLook for asymmetry, compensatory movements, or discomfort.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Amputee",
+      "Assessment of an Amputee"
     ]
   },
   {
@@ -12250,24 +12370,9 @@
   {
     "objectID": "Revision notes/Clinical Examination/Hand/brpl.html",
     "href": "Revision notes/Clinical Examination/Hand/brpl.html",
-    "title": "knotes",
+    "title": "Brachial Plexus Examination",
     "section": "",
-    "text": "Posture: Observe for any abnormal postures or deformities of the shoulder, arm, or hand.\nMuscle Wasting: Assess for any visible muscle atrophy, particularly in the shoulder, arm, forearm, and hand muscles.\nFasciculations: Look for involuntary muscle twitching, which may indicate nerve irritation.\nScars: Note any surgical scars, especially in the neck, shoulder, axilla, or arm.\nHorner’s Syndrome: Check for ptosis, miosis, and anhidrosis, which may indicate sympathetic nerve damage.\n\n\n\n\n\nBony Landmarks: Palpate the clavicle, scapula, and humerus for any tenderness, deformity, or crepitus.\nMuscle Tone: Assess muscle tone and bulk by palpation.\n\n\n\n\n\nDermatomes: Test sensory function in the following dermatomes:\n\nC4: Shoulder\nC5: Lateral upper arm\nC6: Lateral forearm and thumb\nC7: Middle finger\nC8: Medial forearm and little finger\nT1: Medial upper arm\n\n\n\n\n\n\nRoot Level:\n\nDorsal Scapular Nerve: Test rhomboid muscle function by asking the patient to retract the scapula.\nLong Thoracic Nerve: Test serratus anterior muscle function by asking the patient to push against a wall with outstretched arms.\n\nTrunk Level:\n\nSuprascapular Nerve: Test supraspinatus and infraspinatus muscle function by assessing shoulder abduction and external rotation.\n\nCords and Branches:\n\nAxillary Nerve: Test deltoid muscle function by assessing shoulder abduction.\nMusculocutaneous Nerve: Test biceps muscle function by assessing elbow flexion.\nRadial Nerve: Test triceps, brachioradialis, and wrist extensor muscles.\nMedian Nerve: Test thumb opposition, index finger flexion, and sensation in the lateral palm and digits.\nUlnar Nerve: Test finger abduction and adduction, and sensation in the medial palm and digits.\n\n\n\n\n\n\nTinel’s Sign: Percuss over the nerve to elicit paresthesia.\nPhalen’s Test: Flex the wrists for 60 seconds to reproduce symptoms of carpal tunnel syndrome.\n\nNote: This is a general examination guide. Specific tests and maneuvers may vary depending on the clinical presentation and suspected nerve involvement.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Clinical Examination",
-      "Hand",
-      "Brachial Plexus Examination"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Clinical Examination/Hand/brpl.html#brachial-plexus-examination",
-    "href": "Revision notes/Clinical Examination/Hand/brpl.html#brachial-plexus-examination",
-    "title": "knotes",
-    "section": "",
-    "text": "Posture: Observe for any abnormal postures or deformities of the shoulder, arm, or hand.\nMuscle Wasting: Assess for any visible muscle atrophy, particularly in the shoulder, arm, forearm, and hand muscles.\nFasciculations: Look for involuntary muscle twitching, which may indicate nerve irritation.\nScars: Note any surgical scars, especially in the neck, shoulder, axilla, or arm.\nHorner’s Syndrome: Check for ptosis, miosis, and anhidrosis, which may indicate sympathetic nerve damage.\n\n\n\n\n\nBony Landmarks: Palpate the clavicle, scapula, and humerus for any tenderness, deformity, or crepitus.\nMuscle Tone: Assess muscle tone and bulk by palpation.\n\n\n\n\n\nDermatomes: Test sensory function in the following dermatomes:\n\nC4: Shoulder\nC5: Lateral upper arm\nC6: Lateral forearm and thumb\nC7: Middle finger\nC8: Medial forearm and little finger\nT1: Medial upper arm\n\n\n\n\n\n\nRoot Level:\n\nDorsal Scapular Nerve: Test rhomboid muscle function by asking the patient to retract the scapula.\nLong Thoracic Nerve: Test serratus anterior muscle function by asking the patient to push against a wall with outstretched arms.\n\nTrunk Level:\n\nSuprascapular Nerve: Test supraspinatus and infraspinatus muscle function by assessing shoulder abduction and external rotation.\n\nCords and Branches:\n\nAxillary Nerve: Test deltoid muscle function by assessing shoulder abduction.\nMusculocutaneous Nerve: Test biceps muscle function by assessing elbow flexion.\nRadial Nerve: Test triceps, brachioradialis, and wrist extensor muscles.\nMedian Nerve: Test thumb opposition, index finger flexion, and sensation in the lateral palm and digits.\nUlnar Nerve: Test finger abduction and adduction, and sensation in the medial palm and digits.\n\n\n\n\n\n\nTinel’s Sign: Percuss over the nerve to elicit paresthesia.\nPhalen’s Test: Flex the wrists for 60 seconds to reproduce symptoms of carpal tunnel syndrome.\n\nNote: This is a general examination guide. Specific tests and maneuvers may vary depending on the clinical presentation and suspected nerve involvement.",
+    "text": "Inspection\n\nPosture: Observe for any abnormal postures or deformities of the shoulder, arm, or hand.\nMuscle Wasting: Assess for any visible muscle atrophy, particularly in the shoulder, arm, forearm, and hand muscles.\nFasciculations: Look for involuntary muscle twitching, which may indicate nerve irritation.\nScars: Note any surgical scars, especially in the neck, shoulder, axilla, or arm.\nHorner’s Syndrome: Check for ptosis, miosis, and anhidrosis, which may indicate sympathetic nerve damage.\n\n\n\nPalpation\n\nBony Landmarks: Palpate the clavicle, scapula, and humerus for any tenderness, deformity, or crepitus.\nMuscle Tone: Assess muscle tone and bulk by palpation.\n\n\n\nSensation\n\nDermatomes: Test sensory function in the following dermatomes:\n\nC4: Shoulder\nC5: Lateral upper arm\nC6: Lateral forearm and thumb\nC7: Middle finger\nC8: Medial forearm and little finger\nT1: Medial upper arm\n\n\n\n\nMotor Function\n\nRoot Level:\n\nDorsal Scapular Nerve: Test rhomboid muscle function by asking the patient to retract the scapula.\nLong Thoracic Nerve: Test serratus anterior muscle function by asking the patient to push against a wall with outstretched arms.\n\nTrunk Level:\n\nSuprascapular Nerve: Test supraspinatus and infraspinatus muscle function by assessing shoulder abduction and external rotation.\n\nCords and Branches:\n\nAxillary Nerve: Test deltoid muscle function by assessing shoulder abduction.\nMusculocutaneous Nerve: Test biceps muscle function by assessing elbow flexion.\nRadial Nerve: Test triceps, brachioradialis, and wrist extensor muscles.\nMedian Nerve: Test thumb opposition, index finger flexion, and sensation in the lateral palm and digits.\nUlnar Nerve: Test finger abduction and adduction, and sensation in the medial palm and digits.\n\n\n\n\nSpecial Tests\n\nTinel’s Sign: Percuss over the nerve to elicit paresthesia.\nPhalen’s Test: Flex the wrists for 60 seconds to reproduce symptoms of carpal tunnel syndrome.\n\nNote: This is a general examination guide. Specific tests and maneuvers may vary depending on the clinical presentation and suspected nerve involvement.\n\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -12743,6 +12848,171 @@
     ]
   },
   {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html",
+    "title": "Deformity",
+    "section": "",
+    "text": "Overall appearance: Comment on obesity or short stature.\nAsk to document height and weight on a growth chart.\n\nScars: Look for scars from past surgery.\n\nDeformity: Comment on the deformity from the front, side, and back.\n\nSpine: Comment on the spine from the back.\n\nFocus: Is it obvious where the deformity is?\n\n\n\n\n\nObserve for:\n\nVarus or valgus thrust\n\nWaddling\n\nAntalgic gait\n\n\n\n\n\n\nMeasure intermalleolar distance with knees together and patellae facing forward.\n\n\n\n\n\nSquare pelvis: Check alignment.\n\nMeasure deformity:\n\nASIS to medial malleolus (Tibia).\n\nUse a goniometer at the knee for crude measurements.\n\n\nCorrectibility: Assess if deformities are correctable.\n\n\n\n\n\nRange of Motion (ROM): Assess in the joints.\n\nRotational Profile: Evaluate rotational alignment.\n\n\n\n\n\nImaging:\n\nFull-limb standing X-rays with the emitter at 3m, centered on knees.\n\nCT scanograms.\n\n\nFamily history: Take a detailed family history.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#look",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#look",
+    "title": "Deformity",
+    "section": "",
+    "text": "Overall appearance: Comment on obesity or short stature.\nAsk to document height and weight on a growth chart.\n\nScars: Look for scars from past surgery.\n\nDeformity: Comment on the deformity from the front, side, and back.\n\nSpine: Comment on the spine from the back.\n\nFocus: Is it obvious where the deformity is?",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#walk",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#walk",
+    "title": "Deformity",
+    "section": "",
+    "text": "Observe for:\n\nVarus or valgus thrust\n\nWaddling\n\nAntalgic gait",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#feel",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#feel",
+    "title": "Deformity",
+    "section": "",
+    "text": "Measure intermalleolar distance with knees together and patellae facing forward.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#lie-down",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#lie-down",
+    "title": "Deformity",
+    "section": "",
+    "text": "Square pelvis: Check alignment.\n\nMeasure deformity:\n\nASIS to medial malleolus (Tibia).\n\nUse a goniometer at the knee for crude measurements.\n\n\nCorrectibility: Assess if deformities are correctable.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#move",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#move",
+    "title": "Deformity",
+    "section": "",
+    "text": "Range of Motion (ROM): Assess in the joints.\n\nRotational Profile: Evaluate rotational alignment.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#finishing",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#finishing",
+    "title": "Deformity",
+    "section": "",
+    "text": "Imaging:\n\nFull-limb standing X-rays with the emitter at 3m, centered on knees.\n\nCT scanograms.\n\n\nFamily history: Take a detailed family history.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#standing",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#standing",
+    "title": "Deformity",
+    "section": "Standing",
+    "text": "Standing\n\nLook\n\nDiscrepancy: Check for any obvious discrepancy.\n\nTrunk/Pelvis: Look for pelvic tilt or trunk lean.\n\nPosture: Observe for flexion posture in the long leg or equinus in the short leg.\n\nSpine: Assess for scoliosis using a forward bend test and note correction (compensatory).\n\nFeet: Check for fusions or deformities.\n\nOther signs: Look for scars, swellings, or angular deformities.\n\n\n\nFeel\n\nPlace fingers on ASIS with knees extended and feet flat to assess difference.\n\nPerform a block test until the pelvis is square (functional discrepancy).",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#move-1",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#move-1",
+    "title": "Deformity",
+    "section": "Move",
+    "text": "Move\n\nGait:\n\nObserve and comment on gait patterns, such as short leg gait, ipsilateral knee flexion, contralateral ankle equinus, circumduction, hip hitching, or trunk bending.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#lie-down-1",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#lie-down-1",
+    "title": "Deformity",
+    "section": "Lie Down",
+    "text": "Lie Down\n\nLook\n\nObserve for any additional findings.\n\n\n\nFeel\n\nSquare up the pelvis and palpate the ASIS.\n\nMeasure true and apparent discrepancy.\n\n\n\nMove\n\nPerform:\n\nThomas test: Assess hip flexion contractures.\n\nHip ROM: Evaluate for contractures.\n\nGalleazzi test: Determine femoral or tibial discrepancy.\n\nIf femoral: Use Nelaton’s line and Bryan’s triangle for further assessment.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Deformity/def.html#finishing-1",
+    "href": "Revision notes/Clinical Examination/Deformity/def.html#finishing-1",
+    "title": "Deformity",
+    "section": "Finishing",
+    "text": "Finishing\n\nOther examinations:\n\nExamine upper limbs.\n\nExamine chest and abdomen for anomalies.\n\n\nImaging:\n\nFull-length X-rays for a detailed view.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Deformity",
+      "Deformity"
+    ]
+  },
+  {
     "objectID": "Revision notes/Clinical Examination/Shoulder/shldr.html",
     "href": "Revision notes/Clinical Examination/Shoulder/shldr.html",
     "title": "Shoulder",
@@ -12875,6 +13145,96 @@
       "Clinical Examination",
       "Shoulder",
       "Shoulder"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Pediatrics/paed.html",
+    "href": "Revision notes/Clinical Examination/Pediatrics/paed.html",
+    "title": "Pediatric Cases",
+    "section": "",
+    "text": "Spina Bifida\nCerebral Palsy\nLeg Length Discrepancy\nRotational Profile: Intoeing/Outtoeing\nTalipes Equinovarus\nMultiple Hereditary Osteochondromatosis\nArthrogryposis\nAchondroplasia\nRickets\nGenu Valgum or Varum\nScoliosis\nSpondylolisthesis\nLesser Toe Deformities\nTarsal Coalition and Idiopathic Flatfoot\nPopliteal Cyst\nHSMN (Hereditary Sensory and Motor Neuropathy)\nMuscular Dystrophy\nCleidocranial Dysostosis\nKlippel-Feil Syndrome & Sprengel Shoulder\nRadio-Ulnar Synostosis\nCongenital Radial Head Dislocation\nCongenital Hand Deformities\nMadelung’s Deformity\nPseudoarthrosis of the Clavicle\nTrigger Thumb\nLimb Deficiency: Fibular Hemimelia, PFFD\nPost DDH, SUFE, or Perthes\nCoxa Vara\nOsteogenesis Imperfecta",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Pediatrics",
+      "Pediatric Cases"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Pediatrics/paed.html#cases",
+    "href": "Revision notes/Clinical Examination/Pediatrics/paed.html#cases",
+    "title": "Pediatric Cases",
+    "section": "",
+    "text": "Spina Bifida\nCerebral Palsy\nLeg Length Discrepancy\nRotational Profile: Intoeing/Outtoeing\nTalipes Equinovarus\nMultiple Hereditary Osteochondromatosis\nArthrogryposis\nAchondroplasia\nRickets\nGenu Valgum or Varum\nScoliosis\nSpondylolisthesis\nLesser Toe Deformities\nTarsal Coalition and Idiopathic Flatfoot\nPopliteal Cyst\nHSMN (Hereditary Sensory and Motor Neuropathy)\nMuscular Dystrophy\nCleidocranial Dysostosis\nKlippel-Feil Syndrome & Sprengel Shoulder\nRadio-Ulnar Synostosis\nCongenital Radial Head Dislocation\nCongenital Hand Deformities\nMadelung’s Deformity\nPseudoarthrosis of the Clavicle\nTrigger Thumb\nLimb Deficiency: Fibular Hemimelia, PFFD\nPost DDH, SUFE, or Perthes\nCoxa Vara\nOsteogenesis Imperfecta",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Pediatrics",
+      "Pediatric Cases"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Pediatrics/paed.html#spina-bifida",
+    "href": "Revision notes/Clinical Examination/Pediatrics/paed.html#spina-bifida",
+    "title": "Pediatric Cases",
+    "section": "Spina Bifida",
+    "text": "Spina Bifida\n\nExamination\n\nLook\n\nLegs, feet, spine, orthoses, wheelchair.\n\nL4: Community ambulators with an AFO.\nL5: Typically do not require orthoses.\nL2: May require a KAFO.\n\nAssess gait with and without orthoses.\nDescribe deformities, wasting, or ulcers.\nCheck for healed ulcers and cutaneous manifestations (hair tufts, pits, café-au-lait spots).\nObserve for scoliosis.\n\n\n\nFeel\n\nSensory Examination: Determine the lowest functional level.\n\n\n\nMove\n\nAssess hips for dislocation.\nPassive ROM in joints.\nEvaluate tone and motor power to establish the motor level.\nCheck the power of individual muscle groups in the feet.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Pediatrics",
+      "Pediatric Cases"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Pediatrics/paed.html#cerebral-palsy",
+    "href": "Revision notes/Clinical Examination/Pediatrics/paed.html#cerebral-palsy",
+    "title": "Pediatric Cases",
+    "section": "Cerebral Palsy",
+    "text": "Cerebral Palsy\n\nHistory\n\nBackground & Developmental History\n\nAge and date of diagnosis.\nBirth and pregnancy history: Assess developmental milestones (sitting, walking, talking).\n\n\n\nChronic Problems\n\nSpine, hips, knees, feet.\n\n\n\nHistory of Treatments\n\nOrthotics: Walking aids, braces, AFOs, wheelchair, sitting support.\nMedications: Baclofen, Botox, neuroleptics (e.g., for epilepsy), current medications.\nSurgery: Addressing spine, hips, knees, feet, upper limbs, and contracture release.\n\n\n\nNew and Current Problems\n\nAssess functional level and limitations (walking, sitting, sleeping, self-care, feeding).\nIdentify problematic deformities.\n\n\n\nSocial Circumstances\n\nHome Help: Home modifications, schooling.\nSelf-Care: Catheter use, intermittent catheterization.\n\n\n\nPast Medical History\n\nNotable issues, especially epilepsy.\n\n\n\n\nExamination\n\nLook\n\nWalking aids, wheelchair, seating support.\nPresence of an intrathecal baclofen pump.\nPosture at rest:\n\nHead: Position.\nUpper Limbs: Position.\nBalance: Sagittal and coronal.\nLower Limbs: Contractures.\n\nFeet: Hallux valgus, cavus, ulceration, plantar callosities.\nSpine: Coronal and sagittal balance, scars.\nGait: Describe systematically (head, shoulders, trunk, hips, knees, feet, gait phases, and foot progression angle).\n\n\n\nFeel & Move\n\nAssess spine (standing): Forward bend test to display rib hump.\nSupine:\n\nPelvic obliquity, measure leg lengths.\nPassive ROM in joints to quantify contracture:\n\nHips: Dislocation, ROM, pain, fixed flexion deformity (Thomas test).\nKnees: Hamstring contracture, popliteal angle.\nFeet: Gastrosoleus contracture, forefoot deformities (Silverskiold test).\n\n\nProne:\n\nRotational profile: Femoral version, Gage’s test, thigh-foot angle.\nStaheli test for FFD.\nEly test for rectus femoris contracture.\n\nSide:\n\nOber’s test for ITB tightness.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Pediatrics",
+      "Pediatric Cases"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Pediatrics/paed.html#achondroplasia",
+    "href": "Revision notes/Clinical Examination/Pediatrics/paed.html#achondroplasia",
+    "title": "Pediatric Cases",
+    "section": "Achondroplasia",
+    "text": "Achondroplasia\n\nExamination\n\nLook\n\nFace/Head: Frontal bossing, flattened midface, button nose.\nStature: Short stature with normal trunk and rhizomelic shortening of the arms.\nElbows: Decreased ROM, radial head dislocation.\nHands: Brachydactyly, trident hands.\nSpine: Lumbar hyperlordosis, kyphosis.\nLegs: Genu varum, coxa valga.\n\n\n\nOther Tests\n\nAssess the spine for stenosis (lumbar, foramen magnum).",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Pediatrics",
+      "Pediatric Cases"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Clinical Examination/Pediatrics/paed.html#multiple-hereditary-osteochondromatosis",
+    "href": "Revision notes/Clinical Examination/Pediatrics/paed.html#multiple-hereditary-osteochondromatosis",
+    "title": "Pediatric Cases",
+    "section": "Multiple Hereditary Osteochondromatosis",
+    "text": "Multiple Hereditary Osteochondromatosis\n\nExamination\n\nKeys\n\nLump characteristics: Sessile or pedunculated, hard, non-expansile, pain-free/painful.\nLocation: Adjacent to joints, with no skin changes.\nNeurovascular assessment distal to the lesion.\nLimb length or angular deformity: Offer to measure supine.\nLook for additional osteochondromas in other regions (pelvis, knees, spine).\nSymptoms: Mechanical or malignancy-related (e.g., growth, night pain).\n\n\n\nManagement\n\nExcise suspicious or mechanically bothersome lesions.\nDelay excision until maturity if possible.\n\n\nFor further specific cases, expand as needed based on detailed clinical features and assessments.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Clinical Examination",
+      "Pediatrics",
+      "Pediatric Cases"
     ]
   },
   {

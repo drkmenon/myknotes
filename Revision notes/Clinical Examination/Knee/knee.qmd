@@ -1,0 +1,71 @@
+---
+title: "Knee Ligament Examination"
+format: html
+editor: visual
+---
+
+## Inspect
+- **Wasting**: Observe for muscle atrophy.  
+- **Scars**: Look for surgical or injury-related scars.  
+- **Deformity**: Assess for visible abnormalities.  
+
+## Walk
+- Check for **ACL deficiency gait**.  
+
+## Lie Down
+- **Range of Motion (ROM)**: Assess joint movement.  
+- **Screen for Sag**: Look for posterior sag (PCL assessment).  
+- **Posterior Draw Test**: Evaluate posterior cruciate ligament (PCL) integrity.  
+- **Quads Active Test**: If PCL laxity is present, observe tibial movement during quadriceps contraction.  
+- **Lachman Test**: Assess anterior cruciate ligament (ACL) integrity.  
+- **Collateral Ligaments**:  
+  - Varus and valgus stress tests.  
+- **Pivot Shift**: Dynamic test for ACL laxity.  
+- **Dial Test**: Assess for posterolateral corner injuries.
+
+## Finishing
+- **Joint Lines and Menisci**: Palpate for tenderness and check for meniscal involvement.  
+- **Pulses and Neurology**: Evaluate vascular and nerve function.  
+- **Full History**: Gather a complete patient history.  
+- **Imaging**: Order appropriate imaging for confirmation (e.g., MRI, X-ray).  
+
+---
+
+# Pivot Shift Quantification
+- **Grade 1**: Glide.  
+- **Grade 2**: Clunk.  
+- **Grade 3**: Gross clunk with locking.  
+- In extension, the tibia starts anteriorly subluxated.  
+- **Mechanism**:  
+  - Valgus force tensions the MCL.  
+  - During flexion, the knee pivots around the MCL.  
+  - The ITB moves posterior to the knee's center of rotation (COR), working as a flexor, reducing the tibia with a clunk.  
+
+---
+
+# Lachman Test Quantification
+- **Position**: Perform at 30° flexion when ACL is most lax.  
+- **Grades**:  
+  - **Mild**: 0–5 mm translation.  
+  - **Moderate**: 6–10 mm translation.  
+  - **Severe**: >10 mm translation.  
+- **Comparison**: Always compare with the contralateral knee to determine normal.  
+- **End Point**: Assess the quality of the end point.  
+- **KT 1000 Testing**:  
+  - Translation of 11 mm or a Lachman delta of 3 mm is diagnostic.  
+  - High-grade laxity may indicate associated MCL or posterior horn medial meniscus tears.
+
+---
+
+# PCL Sag Sign
+- **Grades**:  
+  - **Grade 1**: Tibia still in front of femoral condyles.  
+  - **Grade 2**: Tibia level with condyles.  
+  - **Grade 3**: Tibia sagged behind condyles.  
+
+---
+
+# Collaterals
+- **Varus Opening**:  
+  - At **0°**: Suggests LCL and PLC injury (high likelihood).  
+  - At **30°**: May indicate isolated LCL injury (uncommon).  
