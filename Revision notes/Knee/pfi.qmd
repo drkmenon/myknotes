@@ -1,0 +1,123 @@
+---
+title: "Patellofemoral Instability"
+format: html
+editor: visual
+---
+### Definition
+- Symptomatic dislocation or subluxation of the patella, usually laterally.
+
+### Epidemiology
+- Can be **congenital or acquired** (usually with mechanical or anatomical predisposition).
+- **Women > Men** (due to laxity).
+- **Recurrence**:
+  - 20% risk after first dislocation.
+  - 50% risk after second dislocation.
+  - Younger age at first dislocation increases long-term risk.
+
+### Anatomy
+- **Patella**: Has the thickest cartilage in the body.
+  - Facets: Lateral, medial, and odd (lateral facet is typically larger).
+  - **Types** (Wrisberg classification):
+    1. Type 1: Central ridge, equal size of medial and lateral facets.
+    2. Type 2: Medialized ridge, small medial facet (common).
+    3. Type 3: Nearly absent medial facet or ridge.
+- **Trochlea**: V-shaped, with a higher lateral wall (bony buttress), may be dysplastic (classified by Dejour).
+
+### Soft Tissue Restraints
+- **Medial**:
+  - MPFL (Medial Patellofemoral Ligament): 50% of the medial pull (primary static restraint).
+  - VMO (Vastus Medialis Obliquus): Primary dynamic restraint.
+  - Patellomeniscal ligament, medial retinaculum.
+- **Lateral**:
+  - ITB (Iliotibial Band), Vastus Lateralis, LPFL (Lateral Patellofemoral Ligament).
+
+### Biomechanics
+- **Joint Reaction Forces**:
+  - Level walking: 2x body weight.
+  - Stairs: 4x body weight.
+  - Squatting: 8x body weight.
+  - Jumping: 20x body weight.
+- **Q Angle**:
+  - Angle between ASIS, the center of the patella, and tibial tuberosity.
+  - Indicates the lateral force vector on the patella.
+  - Decreased Q angle stabilizes the patella by reducing quadriceps pull in flexion.
+  - Alternative to Q angle: **Trochlea Groove to Tibial Tuberosity** (via MRI/CT).
+
+### Anatomical Causes of Instability
+1. High Q angle (lateralized or externally rotated tuberosity, lateralized ASIS).
+2. Trochlea dysplasia.
+3. Anteverted femoral neck.
+4. External tibial torsion.
+5. Genu valgum.
+6. Soft tissue laxity/incompetence.
+7. Hyper-pronated feet.
+
+### Clinical Assessment
+- **History**:
+  - Dislocation or subluxation?
+  - Associated pain and its location.
+  - Global laxity, trauma history, family history.
+  - Age of onset and functional impact.
+- **Examination of Patellofemoral Joint**:
+  - **Look**: Coronal alignment, Q angle, foot pronation, scars, quads bulk, swelling, Beighton score.
+  - **Gait**: Foot progression angle, patella orientation.
+  - **Sit**: Extensor mechanism competence, crepitus, J sign, patella tracking, patella alta.
+  - **Lie Down**: Effusion, Clarke's test, patella excursion and apprehension test, patella tilt, screen knee ROM.
+  - **Prone**: Thigh-foot axis, tibial and femoral versions, Gage's test for anteversion.
+  - **Finishing**: Knee ligaments, Beighton score, hip and foot examination, pulses & neurology, weight-bearing plain X-rays, patella merchant view.
+
+### Imaging
+- **Plain X-ray**:
+  - AP, lateral, and merchant views (knee semi-flexed to engage patella).
+  - May show tilt, genu valgum, patella alta/baja.
+- **CT**:
+  - Most useful modality for assessing patella height, tilt, and trochlea groove.
+  - Protocol: Mid-axial cuts in 10° increments (0-60°).
+  - **Measurements**:
+    - Patella height.
+    - Patella tilt (<7° = tilt, >11° = normal).
+    - Trochlea Groove-Tibial Tuberosity Offset (<10mm = normal, >20mm = abnormal).
+- **MRI**:
+  - Used for soft tissue evaluation if considering soft tissue reconstruction.
+  - Often used as an alternative to CT scans.
+
+### Management
+
+#### Acute Dislocations
+- **Non-operative**: In almost all cases, non-operative management is effective.
+  - Indications for surgery: Osteochondral injury, irreducible lateral subluxation.
+
+#### Chronic Instability
+- **Recurrent symptomatic instability** with imaging evidence of the cause.
+
+#### Non-Operative Treatment
+1. Extension splint for 2-4 weeks, followed by physiotherapy.
+2. **VMO strengthening program**.
+3. McConnell taping.
+
+#### Operative Options
+
+- **Proximal Realignment**:
+  - MPFL repair/reconstruction (+/- VMO advancement/re-attachment).
+  - **Indications**: No mechanical/anatomical abnormality, evidence of tilt/maltracking.
+
+- **Lateral Release**:
+  - Can be combined with other procedures but controversial when done alone.
+  - Only if lateral structures are truly tight with isolated tilt and no mechanical abnormality (rare).
+  - **Avoid in case of arthrosis**.
+
+- **Distal Realignment**:
+  1. **Elsie Tremellat**:
+     - Medial and internal rotation tibial tubercle realignment.
+     - Must have proven lateralization of tibial tuberosity.
+     - Consider distal unloading procedure if arthrosis present.
+  2. **Fulkerson**:
+     - Medial and anterior realignment.
+     - Reduces patellofemoral joint reaction forces by unloading the joint.
+  3. **Tibial Tubercle Distalization**:
+     - For patella alta (late engagement of patella).
+  4. **Trochleoplasty**:
+     - If dysplastic trochlea needs addressing.
+  5. **Address Other Underlying Deformities**:
+     - E.g., tibial torsion, if symptoms are severe.
+

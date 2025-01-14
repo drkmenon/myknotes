@@ -1,0 +1,191 @@
+---
+title: "Acl injury"
+format: html
+editor: visual
+---
+
+## Anatomy
+- **Anteromedial and Posterolateral bundles**  
+  - Named by their insertion on the tibia.
+
+### AM Bundle
+- Single bundle reconstruction traditionally based on the AM bundle.
+- Origin: Proximal and posterior on the medial wall of the lateral femoral condyle (LFC).
+- Insertion: Anterior to the posterior medial (PM) bundle.
+- Tight in flexion.
+
+### PL Bundle
+- Origin: Distal to the AM bundle.
+- Insertion: Posterior to the AM bundle.
+- Tight in extension.
+
+**Remember AMPLE**  
+- **Anteromedial tight in flexion, Posterolateral tight in extension**.
+
+## Blood Supply
+- Middle geniculate artery branches and fat pad vessels.
+
+## Nerve Innervation
+- Posterior articular nerve (tibial nerve).
+- Ligament also has mechanoreceptors on its surface, providing inherent proprioception.
+
+## Biomechanics
+- Primary restraint to anterior tibial translation.
+- PM bundle prevents hyperextension.
+- Least tension on ACL at 30-40 degrees flexion (good position for examination – Lachman’s test).
+- Secondary restraint to:
+  - Varus & Valgus.
+  - Internal rotation in particular.
+- Mechanoreceptors provide proprioceptive role.
+
+## Mechanism of Injury
+- Typically a non-contact jumping, twisting, or deceleration injury.
+
+## History
+- Typical history and haemarthrosis have a sensitivity of 70% for ACL tear.
+
+## Examination
+- Immediate haemarthrosis.
+- Lachman test has 95% sensitivity and specificity.
+- Pivot shift test is similar but requires a relaxed patient.
+
+## Investigation
+- MRI.
+
+## Concurrent Injuries
+- **Meniscal Injuries**:
+  - Acutely, lateral meniscus is most common.
+  - In ACL-deficient knee, medial meniscus (MM) is more common due to anchoring to the plateau.
+- **Kissing Lesion**:
+  - Anterior LFC and posterior-lateral lateral plateau.
+- **Osteochondral Damage**.
+- **Classic Terrible Triad**: ACL, MCL, and MM (O'Donoghue).
+  - Actually, ACL & LM is more common.
+
+## Predisposing Factors
+- High-risk sports.
+- Reduced notch width.
+- ACL rupture is 4x more common in women – multifactorial:
+  - Women have narrower notches.
+  - Hyperlaxity; hormonal factors.
+  - Lower limb mechanical differences in alignment.
+
+## Natural History
+- **Sport in ACL deficiency** causes further chondral & meniscal damage, likely leading to accelerated arthritis.
+- Not proven that ACL reconstruction alters the natural history of arthrosis.
+  - At the time of rupture, release of cytokines and pro-inflammatory factors begins the degenerative process.
+
+## Management
+**Goals of Treatment**:
+1. Provide a stable asymptomatic knee.
+2. Facilitate return to sports.
+3. Prevent accelerated arthritis and other knee injuries.
+
+- Goal 1 is essential, Goal 2 is possible, Goal 3 is questionable.
+- Treatment should be individualized.
+
+### Non-operative
+- Good option if the patient is willing to make lifestyle changes.
+- If the patient is low demand to begin with.
+- Patient over 40 years should be considered carefully.
+- If significant degenerative changes in the knee exist.
+- Aggressive physiotherapy focusing on quads, hamstrings, and proprioception.
+- Modified sports.
+- Knee brace use is not proven to be beneficial.
+
+### Primary Repair
+- Not an option, and it has failed in the past.
+- ACL becomes coated in myofibroblasts, which prevent healing.
+
+### ACL Reconstruction Timing
+- Generally, wait until full range of motion (ROM) is achieved, especially extension, to minimize the risk of arthrofibrosis.
+- Some proponents perform immediate reconstruction for elite athletes, requiring extensive supervised physiotherapy and very motivated patients.
+
+## Graft Selection
+- **Autograft**, **Allograft**, or **Synthetic**.
+
+### Autograft
+- **Advantages**: Low morbidity, low immune reaction, cost-effective.
+- Revascularization and incorporation of the graft are advantages.
+- **Autograft strength** initially deteriorates; thus, the chosen graft must be stronger than the native ACL:
+  - Quad Hamstring: 4500 N.
+  - BPTB: 2500 N.
+  - Native ACL: 2000-2500 N.
+  
+- **BPTB Graft**:
+  - Bony fixation with slightly lower re-rupture rate.
+  - May cause patellofemoral osteoarthritis and anterior knee pain.
+  
+- **Hamstrings**:
+  - Single strand hamstrings alone are weaker than ACL.
+  - Hamstrings folded to give a 4-strand graft have double the tensile strength of native ACL.
+  - Slight 10% reduction in hamstring strength, but not clinically noticeable.
+  
+- **BPTB in elite sprinters** is recommended as hamstrings are vital.
+
+- **Failure rates**: Comparable between hamstrings and BPTB.
+
+### Allograft
+- Options: Achilles, BPTB, quads tendon.
+- **Advantages**: Faster immediate recovery (no graft site morbidity), no strength reduction initially, better cosmesis.
+- **Disadvantages**: More expensive, infection and immune risk.
+  
+- **Freeze-dried allograft** has similar properties to autograft.
+- **Irradiated allograft** loses its mechanical properties (no longer used).
+
+### Single or Double Bundle
+- Double bundle is more anatomic but has no proven clinical benefit.
+- Double bundle is technically more demanding.
+
+## Rehabilitation
+- Avoid braces if possible.
+- Focus on closed chain quads and hamstrings exercises.
+- Gradually build up exercises and return to full sports at 9 months.
+- Hamstrings are important for limiting anterior translation.
+- Proprioceptive training.
+
+## Surgical Principles
+
+### Tunnel Placement
+- Position of the femoral tunnel is more important.
+- Influenced by tibial tunnel position if using a trans-tibial technique.
+- Anterior placement of the tibial tunnel should be avoided.
+- Angle of the femoral tunnel should be 60 degrees to the joint line, aiming for the 10:30 or 1:30 clock position.
+  - This avoids a vertical and anterior graft.
+  - Anterior graft placement leads to impingement on PCL and pain, limiting range of motion in extension.
+  
+- **Notchplasty** may be performed to visualize the wall of the lateral femoral condyle (LFC) and clear the resident’s ridge.
+
+- **Tibial Tunnel**: Lateral edge should be aligned with the lateral tibial spine, starting just anterior to the MCL insertion.
+
+### Graft Fixation
+- Options: Interference screw, cortical or cross pins.
+  - Interference screws are easy but may widen tunnels and be proud.
+  - Cortical screws (e.g., endobuttons) provide excellent results.
+  - Cross pins are advantageous as they secure the graft closer to the joint, preventing windscreen-wiping.
+
+## Complications
+- Main technical issue is anterior tunnel placement, leading to impingement, pain, tightness, and decreased flexion.
+- Cyclops lesion (scar tissue from remnant ACL).
+- Graft impingement in the notch.
+- **Arthrofibrosis** and global stiffness occur if surgery is done too early before achieving full ROM.
+- Re-rupture rate: 2-5%.
+- Infection and thromboembolism: <1%.
+- **Anterior knee pain** is more common with BPTB.
+
+## Results of ACL Reconstruction
+- Re-rupture rate: 2-5%.
+- 80-90% have <3mm laxity on KT-1000.
+- 80-90% return to sport with good to excellent results.
+
+## Revision ACL Reconstruction
+
+### Principles
+- The most important determinant of a good result is understanding the cause of failure.
+- Graft selection: more often use allografts to avoid other leg graft morbidity and provide more graft length.
+- Revision is often done in two stages.
+- Bone grafting may be needed to restore bone stock if tunnels are widened.
+
+### Results
+- Revision ACL reconstruction has less favorable outcomes than primary ACL reconstruction.
+

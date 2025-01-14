@@ -1,0 +1,109 @@
+---
+title: "MCL & PMC Injuries"
+format: html
+editor: visual
+---
+
+## Anatomy
+
+### MCL
+- **Superficial Layer**:
+  - Fan-shaped.
+  - One origin and two insertion points.
+  - More important for **valgus stability**.
+  
+- **Deep Layer**:
+  - Thickening of the medial capsule.
+  - Connected to the medial meniscus (MM) by coronary ligaments.
+  - **Origin**: Medial epicondyle of femur (adductor tubercle).
+  - **Insertion**: Anteromedial tibia, deep to the pes anserinus tendons.
+
+### Blood Supply
+- Superomedial and inferomedial geniculate arteries.
+
+## Medial Complex
+- Composed of **3 layers** of static and dynamic stabilizers.
+
+### Static Stabilizers:
+- **Superficial MCL** (primary restraint to valgus).
+- **Posterior Oblique Ligament**.
+- **Deep MCL**.
+
+### Dynamic Stabilizers:
+- **Semimembranosus** (5 insertion points).
+- **Pes Anserinus Tendons** (Sartorius, Gracilis, Semitendinosus).
+- **Medial Retinaculum, VMO**.
+
+### Layered Structure:
+| Layer  | Contents                                                   |
+|--------|------------------------------------------------------------|
+| Layer 1 | Patella Retinacular fascia, Sartorius & Sartorius Fascia, Semitendinosus, Gracilis |
+| Layer 2 | Superficial Medial Collateral, POL                        |
+| Layer 3 | Semimembranosus (5 insertions), Medial Capsule, Deep MCL   |
+
+## Pes Anserinus
+- Overlies the MCL.
+- **Pneumonic SGT FOT** (Sartorius, Gracilis, Semitendinosus).
+  - **Sartorius** (femoral nerve).
+  - **Gracilis** (obturator nerve).
+  - **Semitendinosus** (tibial branch of the sciatic nerve).
+
+## Biomechanics
+- **MCL** is the primary restraint to **valgus**.
+- Other ligaments and structures act as **secondary static or dynamic** stabilizers.
+
+## Injury Mechanism
+- MCL is the **most commonly injured knee ligament**.
+- **Valgus force**.
+- Injury is usually to **femoral origin**.
+
+## Concurrent Injuries
+- **ACL** is the most common concurrent injury.
+- Found in **75% of grade 3 MCL injuries**.
+
+## Examination
+- **Valgus instability** in 30° flexion indicates **isolated MCL**.
+- **Valgus instability in extension** indicates **grade 3 MCL** with possible other ligament injury (e.g., ACL).
+- **Pivot Shift Test**: 
+  - Used to rule out **ACL**.
+  - False negative in **grade 3 MCL**.
+  - Based on joint pivoting and subluxation around an intact MCL.
+
+## Classification
+- Based on degree of **valgus laxity**:
+  - **Grade 1**: Sprain with no laxity.
+  - **Grade 2**: Partial injury with laxity but with end point.
+  - **Grade 3**: Complete injury with >10mm joint opening.
+  
+- **Grade 3 isolated MCL** is **rare**.
+- **Chronic MCL**: Seen on X-ray as **Pelligrini-Steida sign** (ossification at MCL femoral origin).
+
+## Management
+
+### Non-operative Management
+- Almost all MCL injuries are managed non-operatively.
+- **Brace** for grade 2 and 3 injuries.
+- **RICE** (Rest, Ice, Compression, Elevation).
+- **ROM** and early **weight-bearing**.
+- **Graded return to sports**.
+
+### Operative Management
+- **Failed non-operative management**.
+- **Chronic symptomatic MCL instability**.
+- **Acute MCL injuries** with ligament flipped into the joint.
+- **Multi-ligament instability**: MCL can sometimes be left alone.
+
+## Surgical Technique
+
+### Acute Injury:
+- **Proximal avulsion**: Use anchors in the **medial epicondyle**.
+- **Direct repair** for intrasubstance tears.
+- May need to **advance MCL and POL** if tissue is insufficient.
+
+### Chronic Injury:
+- More common scenario.
+- **Advancement** may not be possible.
+- **Reconstruct** using **ST autograft** or **allografts** at isometric points through tunnels.
+
+## Management of Combined ACL and MCL Injury
+- **Rule**: Wait for MCL healing (6-8 weeks) before addressing ACL reconstruction.

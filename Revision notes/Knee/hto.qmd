@@ -1,0 +1,110 @@
+---
+title: "High Tibial Osteotomy"
+format: html
+editor: visual
+---
+### Clinical Indications
+- **Varus malalignment** with:
+  1. Medial compartment osteoarthritis (OA) and pain
+  2. Instability
+     - Alteration of the slope can compensate for anterior or posterior translation in ACL or PCL deficient knee
+  3. Protection of chondral or meniscal surgery
+     - Restoration of mechanical axis maintains longevity of the soft tissue procedure
+
+### Contraindications
+1. **Absolute**:
+   - Patellofemoral OA
+   - Tricompartmental OA
+   - Fixed flexion contracture >10 degrees
+   - Fixed varus or valgus contracture >10 degrees
+   - Lateral tibial subluxation >1cm
+
+2. **Relative**:
+   - Poor range of motion (ROM) (<90 degrees flexion)
+   - Smoker
+   - Inflammatory arthropathy
+   - Varus thrust on walking
+
+### Ideal Patient
+1. Young
+2. Non-smoker
+3. Correctible deformity
+4. Isolated medial OA
+
+### Surgical Techniques
+
+#### Traditionally Closing Lateral Wedge
+- **Disadvantages**:
+  1. Patella baja
+  2. Altered slope
+  3. More challenging total knee replacement (TKR)
+  4. Peroneal nerve palsy
+  5. Loss of bone stock
+
+#### Medial Opening Wedge
+- **Disadvantages**:
+  1. Non-union
+  2. Risk of collapse or fixation loss
+- **Advantages**:
+  1. Retention of slope and bone stock
+  2. Easier TKR
+  3. No patella baja
+- **Outcome**:
+  - No high-quality trials indicate superiority of one technique over the other.
+
+### Alternative Techniques
+
+#### Dome Osteotomy
+- **Description**: Done above the tibial tubercle.
+- **Indication**: Useful for big, multiplanar correction.
+- **Advantages**: Does not alter patella height.
+- **Disadvantages**: Technically difficult.
+
+#### Distraction Osteogenesis Technique
+- **Indication**: For very large corrections using the Taylor Spatial Frame (TSF) for gradual distraction.
+
+### Pre-Operative Planning
+#### History
+- Determine if pain is acute or insidious.
+- Rule out meniscal tear vs arthrosis.
+- Assess symptoms like instability, locking, or catching.
+- Consider smoking history.
+
+#### Examination
+- Overall alignment.
+- Check for concurrent patella instability and consider tubercle transfer if necessary.
+- Assess knee stability.
+- Identify the point of pain.
+
+#### Investigations
+1. Simple AP, lateral, and skyline X-rays of the knee standing.
+2. Long leg standing alignment X-rays.
+3. MRI.
+4. Arthroscopic evaluation pre-operatively.
+
+### Osteotomy Planning
+1. **Long leg AP views** are essential for planning.
+2. **Mark the mechanical axis** of the leg – from the center of the femoral head to the center of the ankle.
+   - The axis should pass just lateral to the middle of the tibial plateau.
+   - If the line passes more medially, the knee is in varus; if more laterally, the knee is in valgus.
+3. **Osteotomy Angle**:
+   - Aim for slight overcorrection to valgus.
+   - Calculate the angle between the two lines (femoral head to the desired axis and ankle to the same point) for correction.
+
+4. **Opening Wedge Height**:
+   - Draw a line from 4cm distal to the medial joint line to just proximal to the fibula head (this is the osteotomy cut plane).
+   - Measure the distance from the subtended line to the femoral mechanical axis line to determine how much the osteotomy needs to be opened for angular correction.
+
+### Post-Operative Management
+- ROM exercises.
+- **Touch-weight bearing (TWB)** for 6 weeks (6/52).
+
+### Outcomes
+- **Conversion to TKR vs Primary TKR**:
+  - High tibial osteotomy may have longer surgical time, less mean ROM, and is technically more demanding, but clinical outcomes do not correlate with these factors.
+  
+- **Closing vs Opening Wedge**:
+  - No long-term outcome difference between closing and opening wedge techniques, though theoretical benefits of the opening wedge are widely accepted today.
+
+- **Overall**:
+  - High tibial osteotomy provides good long-term results, with a mean follow-up of 10 years in some studies, maintaining activity levels and pain relief.

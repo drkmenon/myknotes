@@ -1,0 +1,174 @@
+---
+title: "Extensor Mechanism Problems"
+format: html
+editor: visual
+---
+
+## Patella Dislocation
+- **1st time dislocations**: Equal in men and women
+- **Recurrent dislocations**: More common in women
+
+### Risk Factors
+- **Patella Alta** – Patella does not engage trochlea till late in flexion
+- **Trochlea Dysplasia** – Shallow trochlea does not contain patella well
+- **Increased Q angle**
+- **Lateralised tibial tubercle**
+- **Patella tilt**
+- **Connective tissue disorders**
+- **Hypermobility syndromes**
+
+### Mechanism
+- Non-contact pivot with knee near extension
+
+### Examination
+- **Swelling**: If gross, consider OC fracture
+  - Lack of hint tissues so lax, patella dislocates without MPFL damage
+- **Medial patella border pain**: Torn MPFL
+- **Quads inhibition**: Weak straight leg raise
+- **Apprehension when patella moved laterally**
+- **Patella translation**: How far across does patella move?
+  - Medial patella border should not translate further than lateral trochlea groove
+- **Lateral patella tilt**:
+  - Lateral border patella should not be able to tilt horizontally
+  - Ability to do so indicates lateral retinacular tightness
+- **Q Angle Assessment**
+  - ASIS to centre of patella to tibial tubercle
+  - Normal = Females 15 degrees; Men 10 degrees (+/- 5)
+- **Tubercle Sulcus Angle**:
+  - Angle between centre of trochlea sulcus and tubercle at 90 deg flexion
+  - Should be zero (i.e., tubercle should lie directly under sulcus)
+  - This is a clinical way of assessing if tubercle is lateralised
+- **Limb Version**:
+  - Anteversion or femoral internal torsion can cause maltracking
+  - Assess in prone position
+  - Increased internal rotation indicates torsion or anteversion
+- **J Sign**:
+  - When the patella lies laterally in extension and flexion causes it to ‘pop back’ into sulcus visibly
+  - Indicative of patella alta
+
+### Imaging
+- **XRays**:
+  - AP and lateral should be full weight bearing views – relaxes Quads
+  - Patella height calculated on true lateral
+    - 3 common methods:
+      - **Insall-Salvetti Ratio** (1.0): Patella tendon length: Length of patella
+      - **Blackburn-Peel Ratio** (0.8): Distance from a line perpendicular to the joint line to inferior pole patella: Length patella articular surface
+      - **Blummensat’s line**: Inferior pole lies at Blummensat’s in 30 deg flexion
+- **Trochlea Shape**:
+  - Plain XR perfect lateral view allows assessment
+  - Three lines – MFC, LFC, and Trochlea groove are visible
+  - Trochlea should be below – if crosses either, is a positive crossover sign
+  - Visible as anterior continuation of Blummensat’s
+- **Axial Imaging**:
+  - CT scan is best – cuts at prox & distal femur and tubercle & distal tibia
+  - Look for femoral version, trochlea dysplasia, TTG, and Patella tilt angle
+    - 15 deg anteversion normal
+  - **TTG** – distance between longitudinal lines through the sulcus and tubercle
+    - 15-20mm is borderline; >20mm is abnormal
+  - **Patella tilt**:
+    - Angle between a line through patella body and another along the posterior condyles
+    - Should be about parallel – >20 degrees abnormal
+
+## Management of Patella Dislocation
+
+### Acute First-Time Dislocations
+- **Aspirate if tense** – comfort and to check for fat
+- **OC fracture** occurs on the medial facet typically as the patella relocates
+- **Non-Operative**:
+  - No evidence supports primary MPFL reconstruction, therefore non-operative is first line for almost all
+  - Splinting for comfort in extension
+  - ROM and Quads rehab, especially VMO
+  - Limb control under pelvis is actually more important – core therapy, gluteals, etc.
+  - Proprioception and sport-specific training
+  - McConnell Taping can help with this
+  - Orthotics for very pronated feet
+- **Operative**:
+  - For fixable OC fragments or those that need removal
+  - Primary MPFL recon – consider in elite athletes, etc.
+
+### Recurrent Dislocation
+- **Operative Treatment** is warranted if problematic
+  - Address risk factors:
+    - **Patella Alta** – distalising tibial tubercle osteotomy
+    - **Lateralised tubercle** – medialising osteotomy
+    - **Dysplastic trochlea** – trochleaplasty
+    - **Isolated patella tilt** (rare) – lateral release
+    - **Excessive femoral version or torsion** – corrective osteotomy
+    - **MPFL reconstruction**:
+      - Can be done alone if no other risk factors or to supplement another operation
+      - Allograft or autograft
+      - Hamstrings; Achilles most common
+
+## Patella and Quads Tendon Ruptures
+
+### Mechanism
+- Eccentric loading of the flexed knee
+- Landing from a jump; missing a step
+- Rarely a direct blow
+
+### Risk Factors
+- Prior **Steroid injection** or **anabolic steroids** for both
+- For Quads:
+  - Gout; Renal failure; Diabetes; SLE; Rheumatoid, etc.
+- **Patella tendon**: Younger people, **Quads**: Older (over 40 years)
+
+### Pathoanatomy
+- **Angiofibroblastic tendinosis**
+- **Mucoid Degeneration**
+- **Pseudocyst formation** at bone insertion
+- Rupture usually at bony attachment for both
+- Quads tendon is made of 4 layers, therefore more partial ruptures
+
+### Diagnosis
+- Typical history of mechanism or risk factors
+- **Examination**: Gap, swelling, unable to SLR
+- **Imaging**: XR (baja or alta), US, MRI
+
+### Management
+- **Non-Operative**:
+  - For partial ruptures that can SLR
+  - 6 weeks in knee brace followed by ROM and strengthening program
+- **Operative**:
+  - Drill holes and locking sutures or suture anchors
+  - Protective wire or heavy suture
+  - Knee should bend to 90 degrees intra-operatively
+
+### Chronic Ruptures
+- **Patella**:
+  - Mobilise Quads to free up proximally migrated patella
+  - Reinforce with hamstrings or fascia lata autograft or allograft
+  - Harvest contralateral BTB graft
+- **Quadriceps**:
+  - VY plasty
+  - Hamstrings, fascia lata, allograft for augmentation
+
+## Patella and Quadriceps Tendinopathy
+
+### Pathoanatomy
+- **Angiofibroblastic mucoid degeneration**
+- Deep surface and medial fibres most commonly affected
+- Due to poor blood supply
+
+### Mechanism/Risk Factors
+- Repetitive sports, especially jumping, is typical (Jumper’s knee)
+- **Patella tendinopathy**: Young people, **quads**: Older people
+- Same metabolic risk factors in quads as for rupture
+
+### Diagnosis
+- Typical history – during or after activity
+- **Examination**:
+  - Focal tenderness and reproducibility with stressing
+  - Tendon thickening
+- **Imaging**:
+  - Associated bone spurs on XR
+  - Main MRI finding is tendon thickening but high signal may be present
+
+### Management
+- **Non-Operative**:
+  - Activity modification
+  - Eccentric exercises
+  - Proprioceptive therapy
+  - Autologous Platelet injections – some studies support this
+- **Operative**:
+  - Tendon debridement and excision of degenerate tissue
+  - Stimulation of healing by decorticating adjacent bone surfaces

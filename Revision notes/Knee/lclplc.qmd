@@ -1,0 +1,110 @@
+---
+title: "LCL & PLC Injuries"
+format: html
+editor: visual
+---
+## Anatomy
+
+### Static Stabilizers
+- **LCL**
+- **Popliteus tendon**
+- **Arcuate ligaments**
+- **Capsule**
+
+### Dynamic Stabilizers
+- **Biceps femoris**
+- **Popliteus muscle**
+- **ITB (Iliotibial band)**
+- **Lateral head of gastrocnemius**
+
+### Popliteus Tendon
+- Intra-articular at the **popliteal hiatus** of the **lateral meniscus**.
+- Important stabilizer of the lateral meniscus via **popliteomeniscal ligaments**.
+
+### Arcuate Complex
+- Y-shaped ligamentous complex attaching to the **fibula head**.
+
+### Layered Structure
+
+| Layer            | Contents                                                         |
+|------------------|------------------------------------------------------------------|
+| **Superficial**   | Biceps Femoris, ITB, Common Peroneal Nerve                       |
+| **Middle**        | Patellofemoral Ligament, Patella Retinaculum                      |
+| **Deep Superficial** | Lateral Collateral Ligament, Fabellofibular Ligament, Lateral Geniculate Artery |
+| **Deep Deep**     | Popliteus Tendon, Arcuate Ligament, Coronary Ligament, Popliteofibular Ligament, Lateral Capsule |
+
+### Capsule
+- Gives rise to **meniscotibial** and **meniscofemoral** ligaments.
+- **Meniscotibial** ligaments are associated with **Segond fracture**.
+- **Meniscofemoral** ligaments include **Humphrey’s** and **Wrisberg’s** ligaments.
+
+### LCL (Lateral Collateral Ligament)
+- **Shape**: Tubular.
+- **Origin**: Lateral epicondyle of femur to **fibula head**.
+- **Blood Supply**: Superolateral and inferolateral geniculates.
+- **Biomechanics**:
+  - Primary restraint to **varus** at 5° and 25° knee flexion.
+  - Primary restraint to **external rotation (ER)**.
+  - Popliteus restricts posterior tibial translation, **external rotation**, and **varus**.
+
+## Injury Mechanism and Symptoms
+- **Varus** and **anterior-posterior (AP) stress** to the knee, especially in extension.
+- **Instability** with knee extended.
+- **Symptoms**: Lateral pain, difficulty with stairs, unable to pivot on the knee.
+
+## Examination
+
+### Varus Instability
+- **At 30° flexion**: Indicates **isolated LCL injury**.
+- **At 0° and 30° flexion**: Suggests LCL and PCL or ACL involvement.
+
+### Dial Test
+- **Test** for **PLC injury**.
+- **At 30° and 90° flexion**: Positive if **external rotation (ER)** >10°.
+  - Positive at 30° only indicates **PLC**.
+  - Positive at both 30° and 90° indicates **PCL** involvement as well.
+
+### Reverse Pivot Shift
+- Extend the knee from a flexed position in **external rotation (ER)**.
+- Feel for **knee relocation**.
+
+### External Recurvatum Test
+- Lift legs by big toes.
+- Look for **ER** and **sag of tibia**.
+
+### Posterolateral Drawer Test
+- **At 30° and 90° flexion**:
+  - **30°**: Positive indicates **PLC**.
+  - **90°**: Positive indicates **PCL**.
+
+## Classification of PLC Injury
+- **Grade 1**: Minimal damage, **varus opening** of the joint line.
+- **Grade 2**: Partial damage, **<10mm opening**.
+- **Grade 3**: Complete disruption, **>10mm opening**.
+
+## Management
+
+### Non-Operative Management
+- For **grade 1 and 2 injuries**.
+- **ROM** and **quadriceps exercises** with proprioceptive training.
+
+### Operative Management
+- **Avulsed LCL**.
+- **Isolated unstable symptomatic grade 3 PLC** (involving LCL and other PLC structures).
+- **Combined injuries** with PCL or ACL (more common).
+
+## Surgical Principles
+- Best results for PLC and LCL injuries with **acute repair within 2-3 weeks**.
+- After 2-3 weeks, **scar tissue** makes primary repair outcomes worse.
+- **Acute setting**: Use **suture anchors** for repair; direct repair can be done **open**.
+- **Arthroscopy** is used to screen for and treat intra-articular injuries.
+
+### Chronic PLC and LCL Instability
+- Use **synthetic grafts (LARS)** for LCL via drill holes.
+- **Anatomic repair** with **Y-shaped Achilles allograft**.
+- Often in combination with **PCL** or **ACL** reconstruction.
+- **Concurrent treatment** for PCL and ACL.
+- If patient has a pre-existing **varus deformity**, consider **high tibial osteotomy (HTO)** to correct the axis.
+- **Common peroneal nerve** should be identified below the biceps femoris at the fibula head and traced proximally.
+- Consider **extension splinting** post-op for 4 weeks to prevent **external rotation** of the tibia.
+

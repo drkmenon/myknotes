@@ -1,0 +1,91 @@
+---
+title: "Osteochondritis Dissecans"
+format: html
+editor: visual
+---
+
+### Not the Same as Osteochondral Defects (OCD)
+- **Osteochondritis dissecans (OCD)** may cause an osteochondral defect but is not the same.
+
+### Aetiology (Causes)
+The causes are **unknown**, but three suggested theories are:
+1. **Hereditary**:
+   - Associations: Perthes disease, dwarfism, Stickler's disease, tibia vara.
+2. **Vascular**:
+   - Paucity of blood supply just adjacent to the posterior cruciate ligament (PCL) on the medial femoral condyle (MFC).
+3. **Traumatic**:
+   - Repetitive microtrauma from shear forces.
+
+### Clinical Presentation
+- **Mechanical symptoms**:
+  - Pain
+  - Activity-related swelling
+  - Catching
+  - Locking
+
+### Imaging
+1. **X-ray**:
+   - Standing AP/Lateral and Skyline views.
+   - Notch view (knee flexed 30 degrees) shows posterior condyles better.
+   - Malalignment may be contributory, especially in adults.
+   
+2. **MRI**:
+   - Gold standard for assessment.
+   - Identifies or eliminates concurrent pathology.
+   - Can assess stability, fragmentation, and lesion size.
+
+### Classification
+1. **By Age of Onset**:
+   - **Juvenile**: Open physis.
+   - **Adult**: Closed physis.
+
+2. **By Location**:
+   - Typically on the lateral aspect of the **medial femoral condyle (MFC)**.
+   - May occur anywhere, but lateral condyle lesions are least common.
+   - Lateral condyle lesions, if present, are associated with **discoid meniscus** or **meniscectomy**.
+
+3. **Cahill Classification**:
+   - Classifies lesions by lateral position in relation to Blumensaat’s line.
+
+4. **By Stability**:
+   - **Type 1**: Subchondral bone compression.
+   - **Type 2**: Partially detached lesion.
+   - **Type 3**: Fully detached lesion but still within the underlying crater.
+   - **Type 4**: Loose body.
+
+### Prognostic Factors
+Lesions with poorer outcomes include:
+- **Closed physis** (older children).
+- **Atypical location**.
+- **Large size** (>2 cm).
+- **Unstable fragment**.
+- **Subchondral sclerosis on X-ray** (poor response to drilling).
+
+### Management
+1. **Non-Surgical**:
+   - Goal: Allow healing and prevent displacement of fragment.
+   - Includes:
+     - Activity modification
+     - Analgesia (avoid NSAIDs)
+     - ROM (Range of Motion) program
+     - Restricted weight-bearing
+
+2. **Surgical**:
+   - Goals: Stabilize fragments, restore articular congruity.
+   - Treatment may be **arthroscopic** or **open**, with the same principles.
+   
+   **If Fragments Are Preservable**:
+   - **Antegrade transchondral microfracture**: If the chondral surface is intact, it promotes healing underneath.
+   - **Fixation of fragments + microfracture/compression grafting**: Used if the lesion is reparable; bioabsorbable pins are commonly used.
+     - This is the treatment of choice for most cases.
+
+   **If Fragments Are Not Preservable**:
+   - **Autologous Chondrocyte Implantation (ACI)**.
+   - **Autologous chondral plug transplantation**.
+   - **Allograft transplantation**.
+   - **Mosaicplasty**.
+   - **Microfracture**.
+   
+   **If Malalignment in Adults**:
+   - **Osteotomy** +/- any of the above treatments.
+   - **Hemiepiphysiodesis** to correct alignment if the physis is still open and limb malaligned.

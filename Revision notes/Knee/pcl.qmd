@@ -1,0 +1,91 @@
+---
+title: "PCL injury"
+format: html
+editor: visual
+---
+
+## Anatomy
+- **Origin**: Lateral wall of the medial femoral condyle (MFC).
+- **Insertion**: A sulcus on the posterior tibia, 15mm below the joint line.
+- **Menisco-femoral Ligaments**:
+  - **Humphrey’s ligament**: Anterior to the PCL.
+  - **Wrisberg’s ligament**: Posterior to the PCL.
+
+### Blood Supply
+- Middle geniculate artery.
+- **Better vascularity than ACL**, leading to better healing of PCL.
+
+### Innervation
+- Posterior articular nerve (tibial nerve).
+
+## Biomechanics
+- **Main restraint**: Posterior tibial translation.
+- **Secondary stabilizer**: Varus-valgus stability.
+
+## Mechanism of Injury
+- **Direct anterior to posterior blow to tibia** with knee flexed (e.g., dashboard injury).
+- **Hyperextension or hyperflexion injury**.
+- **Fall with foot plantarflexed and knee flexed** (posterior force on tibia).
+
+## Classification
+- **Isolated or part of a multi-ligament injury**:
+  - Completely different management strategies.
+  
+### Clinical Classification (based on sag degree):
+- **Grade 1**: Tibia still in front of femoral condyles.
+- **Grade 2**: Tibia level with femoral condyles.
+- **Grade 3**: Tibia sagged behind femoral condyles.
+
+### Injury Location
+- Mid-substance.
+- Avulsion from tibial insertion.
+
+## Concurrent Injuries
+- Often associated with **patellofemoral chondral injuries**.
+- Other ligament injuries must be ruled out.
+
+## History
+- Mechanism as described above.
+- **Instability**: Especially noticeable when ascending or descending stairs or hills.
+
+## Examination
+- **Posterior Drawer Test**: Positive in grade 3 PCL injuries and multi-ligament injuries.
+- **Dial Test**:
+  - Increased external rotation (ER) of the tibia with the knee flexed to 30 and 90 degrees.
+  - 30 degrees indicates **PLC** (posterolateral corner) involvement alone.
+  - 30 and 90 degrees together indicate **PLC and PCL** involvement.
+
+## Management
+**Goal**: Prevent symptomatic instability.
+
+### Non-operative Management
+- For the majority of **grade 1 and 2 isolated PCL injuries**.
+- Even most **grade 3 injuries** are treated non-operatively.
+- **Bony avulsions** usually heal well.
+- **Rest in extension splint** for 4 weeks with limited ROM.
+- **Rehabilitation**:
+  - Closed-chain rehab focusing on quads to pull tibia anteriorly.
+  - Graded return to sports.
+
+### Operative Management
+- **Grade 3 injuries** may require reconstruction, even if isolated.
+- **Combined ligament injuries** require stabilisation.
+- Symptomatic patients are candidates for surgery.
+
+### Operative Options
+- **Single or double bundle**:
+  - PCL has **anterior-lateral (AL)** and **posterior-medial (PM)** bundles.
+  - No proven benefit of the double bundle technique over single bundle.
+  
+- **Tibial Onlay or Trans-Tibial Inlay Technique**:
+  - **Tibial onlay** may avoid the ‘killer angle’, where a transtibial graft turns acutely towards the femoral tunnel.
+  - **Trans-tibial inlay** requires a long graft.
+
+### Graft Selection
+- **Hamstrings** may not be long enough for transtibial technique.
+- **Synthetic or allografts** are commonly used (e.g., LARS – Ligament Augmentation and Reconstruction System).
+  
+- **Other options**:
+  - **BPTB (Bone-Patellar Tendon-Bone)**: Tibial onlay as bone block required.
+  - **Quadriceps Tendon**.
+

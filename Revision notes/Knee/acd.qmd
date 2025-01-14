@@ -1,0 +1,86 @@
+---
+title: "Articular Cartilage Defects"
+format: html
+editor: visual
+---
+
+### Why treat these lesions?
+- Result in pain
+- Future arthritis
+
+## Non-Operative Modalities
+- Activity modification, analgesia, physiotherapy
+- Not going to affect development of arthritis
+
+## Operative Options
+- **Debridement of lesion and trimming of chondral flaps**
+- **Bone Marrow Stimulation (Micro-fracture)**
+- **Osteochondral Grafting**:
+  - Autograft (Mosaicoplasty)
+  - Allograft
+- **Chondrocyte Implantation**:
+  - ACI
+  - MACI
+- **Osteotomy/Arthroplasty**
+
+### Factors Affecting Treatment Outcome
+- **Worse outcomes if**:
+  - Age >40 years
+  - Multiple lesions
+  - Multi-compartment disease
+  - Limb deformity
+  - Inflammatory disease
+
+### Debridement of Lesion and Trimming of Chondral Flaps
+- Some studies show significant improvement in many patients; however, these improvements have not been sustained over time as it does not address the underlying problem.
+
+### Bone Marrow Stimulation (Micro-fracture)
+- Perforation of the subchondral plate to recruit mesenchymal stem cells from the bone marrow into the lesion.
+- Forms fibrocartilage, which is second-best to hyaline cartilage (contains less type 2 collagen).
+- **Key Technical Points**:
+  - Form a stable confined clot within the lesion.
+  - Create a stable cartilage shoulder around the lesion.
+  - Remove the calcified base of the lesion with a curette.
+  - Perforate the subchondral bone until fat droplets are seen.
+  - Use CPM; restrict WB and ROM depending on location of lesion.
+- **Advantages**: Cheap, easy, single surgery, short recovery.
+- **Disadvantages**: Not hyaline cartilage; less useful >40 years due to lower marrow concentration of stem cells.
+- **Outcomes**: 
+  - Good results in many papers. RCTs show it to be better than ACI, although others have shown the opposite.
+  - Results may deteriorate over time.
+  - Remains a safe, easy first-line option with reasonable results, good to excellent results in around 2/3 of patients.
+
+### Osteochondral Grafting - Autograft (Mosaicoplasty)
+- Use of multiple osteochondral plugs harvested from non-articular parts of the same knee to fill the defect. Produces a congruent, viable, and durable option.
+- **Key Technical Points**:
+  - Pack cylinders closely to avoid large gaps.
+  - Use cylinders of the same depth as the holes to prevent loosening/subsidence.
+  - Create a congruent surface.
+- **Advantages**: Autologous, hyaline cartilage, single operation, low recovery time.
+- **Disadvantages**: Technical challenge, graft site morbidity, limited volume available.
+- **Outcomes**:
+  - Good: 80% good or excellent at 36 months.
+  - Two RCTs show better improvement than ACI, although all improved, and even some with debridement alone improved.
+
+### Osteochondral Grafting - Allograft
+- Use of fresh (frozen denatured chondrocytes) allograft to fill defects.
+- The graft is harvested fresh and stored in Hartmans or culture fluid in the fridge (4 degrees). The allograft bone is necrotic and is replaced by creeping substitution, providing a scaffold for cartilage incorporation. 
+- The cartilage itself, being fairly avascular, resists immune reactions.
+- **Advantages**: No graft site morbidity, very good for large lesions, excellent congruency, hyaline cartilage.
+- **Disadvantages**: Poor availability of allograft, expensive, technically demanding, immune/infection risk.
+- **Outcomes**: Long-term graft survival has been shown with good results in case series, but no good evidence that this is better than other modalities.
+  - Other types of allograft, such as fresh frozen and cryopreserved, are inferior in quality due to the denaturing of the chondrocytes and are not recommended.
+
+### Chondrocyte Implantation - Autologous Chondrocyte Implantation (ACI)
+- Harvesting of host chondrocytes, growth in vivo, and re-implantation into defect. Potentially the best option as host hyaline cartilage is formed.
+- **Advantages**: Hyaline cartilage formed with potential for best longevity.
+- **Disadvantages**: Two operations needed, not available everywhere, long process, technically demanding.
+- **Outcomes**:
+  - RCTs have shown mixed results, but several show superiority over microfracture and mosaicplasty. However, these treatments also gave good results in the same trials.
+
+### Chondrocyte Implantation – Matrix Associated Chondrocyte Implantation (MACI)
+- Chondrocytes are incorporated into a porcine collagen membrane, which gives a more even cell distribution and makes placement of the cells easier.
+- Shown good results, some better than ACI, although disadvantages are similar.
+
+### Conclusion
+- Conflicting evidence for more advanced techniques with benefits from ‘lesser’ methods. Therefore, first-line treatment should be microfracture/mosaicplasty for standard lesions and situations.

@@ -1,0 +1,190 @@
+---
+title: "Multi-Ligament Knee Injury"
+format: html
+editor: visual
+---
+
+## Overview
+
+-   **High-energy injury**.
+-   **3 or more ligaments** involved is considered a **knee dislocation**.
+
+## Pathoanatomy
+
+-   Both **Cruciate ligaments** are almost always torn.
+-   Up to **30% risk** of **popliteal artery injury**.
+-   Up to **30% risk** of **peroneal nerve injury**.
+
+## Associated Injuries
+
+-   **Extensor Mechanism**.
+-   **Fractures to knee**.
+-   **Systemic high-energy injuries**.
+
+## Examination
+
+### Vascular Examination
+
+-   **Critical**: Check pulses, Doppler, and **Ankle-Brachial Pressure Index (ABPI)**.
+-   **ABPI**:
+    -   \<0.9 is suspicious.
+    -   \<0.8 is abnormal.
+    -   **Note**: ABPI may be falsely high in chronic diabetics.
+-   **Repeat vascular exams periodically**, as intimal tears can worsen over time, leading to false aneurysms.
+
+### Neurologic Exam
+
+-   **Common peroneal nerve** is the most commonly injured (up to 30%).
+
+### Other Assessments
+
+-   **Compartment Syndrome**.
+-   **Extensor Mechanism**.
+-   Assess for **ligament instability** (Lachman, Posterior Drawer, ER recurvatum, and Dial tests are useful acutely).
+
+## Imaging
+
+-   **X-rays**: Fractures and knee reduction.
+-   **MRI**: Soft tissue injuries and joint status.
+-   **Angiography**: If there is any hint of **vascular compromise** (potentially routine in severe cases).
+
+## Classification of Knee Dislocations
+
+-   **KD1**: Cruciates intact (rare without severe bony injury).
+-   **KD2**: Cruciates torn, both collateral ligaments intact.
+-   **KD3M**: Cruciates plus MCL torn.
+-   **KD3L**: Cruciates plus LCL torn.
+-   **KD4**: All 4 ligaments torn.
+-   **KD5**: Fracture dislocation.
+-   **Note**: Also describe as the direction of tibial translation (posterior is the most common).
+
+## Management
+
+### Non-Surgical
+
+-   For **elderly**, **very sick**, or when the **leg is unviable**.
+
+### Surgical
+
+-   **Address limb-threatening problems first** (vascular/compartment syndrome).
+-   **Timing**:
+    -   Stabilize lateral or **PLC injuries** within 3 weeks.
+-   **How much to do?**
+    -   More **acute reconstruction** allows earlier **range of motion (ROM)** and prevents **fixed subluxation**, though it may cause **arthrofibrosis**.
+    -   **Collateral repair** can be done first, with ACL and PCL addressed later.
+
+### Ex-Fix Application
+
+-   Provides **soft tissue rest** in an anatomical position.
+    -   **Disadvantages**: Pin tracks may cause future issues, and stasis can lead to arthrofibrosis.
+    -   **Preferred**: Early **ROM** and **weight-bearing** when possible.
+
+------------------------------------------------------------------------
+
+# Injuries to the Medial Structures of the Knee
+
+## Anatomy
+
+### Superficial Medial Collateral Ligament (sMCL)
+
+-   **Origin**: Adductor tubercle (just above the medial epicondyle of femur).
+-   **Insertions**:
+    -   Semimembranosus rim.
+    -   Tibia.
+-   **Primary restraint** to **valgus** force.
+
+### Deep Medial Collateral Ligament (dMCL)
+
+-   Deep to the superficial ligament, continuous with the medial joint capsule.
+-   Has 2 parts:
+    -   **Meniscofemoral**.
+    -   **Meniscotibial**.
+-   **Secondary restraint** to valgus and especially **external rotation**.
+
+### Posterior Oblique Ligament (POL)
+
+-   Fibrous extension of the **semimembranosus tendon**.
+-   Blends with and reinforces the **posteromedial joint capsule**.
+-   Restrains against **valgus** and **internal rotation**.
+
+## Injury Classification
+
+-   **Clinical Diagnosis** relies on the patient's ability to tolerate examination.
+    -   Otherwise, **laxity** may be underestimated.
+
+### Classification
+
+-   **Grade 1**: Pain but no laxity at 20-30 degrees flexion.
+-   **Grade 2**: Pain and mild laxity (MRI reveals partial tear of POL and sMCL).
+-   **Grade 3**: Complete disruption of all structures with significant laxity.
+
+### Healing
+
+-   **sMCL** has a rich blood supply and heals well.
+-   Ligament strength improves with movement and loading.
+-   **Full immobilization** during rehab is detrimental.
+
+## Clinical Diagnosis
+
+### History
+
+-   **Valgus force injury**.
+-   Difficulty with sports requiring turning and cutting movements.
+-   **Pain** around the medial aspect of the knee.
+
+### Examination
+
+-   **Tenderness** over medial structures.
+-   **Bruising/swelling**.
+-   **Laxity testing** in extension and 30 degrees flexion:
+    -   Stable in extension but not in flexion = **POL intact**.
+-   **End point presence**: With complete tear, ACL is the only remaining valgus restraint.
+-   **Anteromedial draw test**: Externally rotate the tibia while performing an anterior draw.
+    -   External rotation increases with complete MCL tears.
+
+### Radiographic Evaluation
+
+-   **X-rays**: Avulsion fractures, comparative stress radiographs to demonstrate laxity.
+-   **MRI**: Quantify if the deep part of the MCL is torn and assess for other injuries.
+    -   **Bone bruising** on the lateral tibial plateau can be noted.
+
+## Management
+
+### Non-Operative Treatment
+
+-   Generally, **grade 1 and 2 tears** can be managed non-operatively with **good results**.
+-   **sMCL** heals well due to its blood supply.
+-   All **grade 1 and 2 injuries** should be treated non-operatively.
+
+### Grade 3 Injuries
+
+-   Initially treated **non-operatively**.
+-   May require **repair** if persistent instability is present.
+
+### Non-Operative Treatment Protocol
+
+-   **Functional rehab program** with early **weight-bearing** and **ROM**.
+-   **Knee brace** for protection against valgus and **external rotation**.
+
+### Operative Treatment
+
+-   Goal: Restore anatomy of the superficial ligament, especially its two tibial attachments.
+-   Options:
+    -   **Direct repair** with or without augmentation.
+    -   **Reconstruction** with **autograft** or **allograft**.
+    -   **sMCL advancement** to tighten medial structures.
+    -   **Pes Anserinus transfer**.
+
+## Pellegrini-Stieda Syndrome
+
+-   **Definition**: Intraligamentous calcification resulting from a **chronic MCL (Medial Collateral Ligament) tear**, typically on the **femoral side**.
+
+-   **Symptoms**:
+
+    -   May be **painful** due to the calcification or associated inflammation.
+    -   The **heterotopic bone** (abnormal bone formation) can sometimes contribute to discomfort.
+
+-   **Management**:
+
+    -   **Avoid operative treatment** if possible.
+    -   If necessary, surgical **excision of the calcified tissue** may be considered in persistent or debilitating cases.
