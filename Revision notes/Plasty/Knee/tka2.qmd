@@ -1,0 +1,136 @@
+---
+title: "Principles & Technical Aspects"
+format: html
+editor: visual
+order: 3
+---
+
+## Clinical Goals
+1. Achieve a knee that is:
+   - Pain-free
+   - Provides functional range of motion (ROM)
+   - Ensures longevity
+2. Achieved by:
+   - Restoring correct mechanical alignment
+   - Using good component design
+   - Ensuring durable fixation
+   - Restoring the joint line
+   - Proper knee balancing
+
+---
+
+## Mechanical Axis
+- **Femoral Anatomic vs. Mechanical Axis**:
+  - The femoral anatomic axis is 6° off its mechanical axis.
+- **Tibial Axis**:
+  - Mechanical and anatomic axes are identical.
+- **Distal Femur**:
+  - In 6° valgus, allowing parallel articulation with the tibia.
+
+---
+
+## Surgical Techniques
+
+### Distal Femoral Cut
+- Creates the **extension gap**.
+- Referenced from the femoral anatomic axis.
+  - Cutting jig replicates normal 6° valgus.
+  - Results in a rectangular extension gap.
+- Adjustments for:
+  - Very tall (<6° valgus).
+  - Very short patients (>6° valgus).
+  - Previous femoral deformity (pre-operative measurement required).
+
+### AP Femoral Cut
+- Determines the **flexion gap**.
+- Normal tibial plateau is in 3° varus; tibial cut is perpendicular to the tibial axis.
+- To create a rectangular flexion gap:
+  - Posterior condyles are cut in external rotation (removing more of the MFC).
+  - Cutting jigs are typically offset by 3°.
+
+#### Referencing Options
+1. **Anterior Referencing**:
+   - Errors affect the posterior condyles, prioritizing PFJ space.
+2. **Posterior Referencing**:
+   - Errors affect the anterior space, prioritizing flexion gap.
+
+---
+
+## Joint Line Restoration
+- Critical for maintaining ligament function at normal tension.
+- Achieved by replacing the same amount of bone/cartilage resected.
+- Elevation or distalization of the joint line can result in:
+  - **Patella Baja**:
+    - Limits flexion and causes patella-poly impingement.
+  - **Patella Alta**:
+    - Increases contact pressures in flexion, leading to pain and wear.
+
+---
+
+## Ligament Balancing
+- Essential for correcting deformities.
+- **Varus Knee**:
+  - Releases are performed on the tibia (osteophytes, MCL, etc.).
+  - Sequential releases of superficial MCL, avoiding complete release.
+- **Valgus Knee**:
+  - Releases are mainly performed on the femur (lateral capsule, ITB, LCL).
+  - Severe valgus deformities may require constrained prostheses.
+- **Flexion Contracture**:
+  - Managed with posterior osteophyte removal, capsule release, or increased tibial slope.
+
+---
+
+## Balancing the PCL
+- **Too tight**: Excessive rollback damages poly.
+- **Too lax**: Flexion instability and reduced ROM.
+- Managed by:
+  - Sequential PCL recessing (1-2 mm increments).
+  - Increasing posterior slope.
+  - Switching to posterior-stabilized (PS) components if necessary.
+
+---
+
+## Addressing Flexion/Extension Gap Mismatches
+1. Equalize flexion and extension gaps for stable tibial insert throughout ROM.
+2. Rules for sagittal plane balancing:
+   - Symmetric issues: Address tibia first.
+   - Asymmetric issues: Address femur first.
+
+### Common Scenarios
+| **Scenario**               | **Problem**                            | **Solution**                        |
+|----------------------------|---------------------------------------|------------------------------------|
+| Flexion & Extension tight  | Tibial cut too small                  | Cut more tibia                     |
+| Flexion & Extension loose  | Too much tibia cut                    | Upsize poly or augment tibia       |
+| Flexion good, Extension loose | Excessive distal femur resection   | Augment distal femur or downsize femur |
+| Flexion good, Extension tight | Inadequate distal femur resection  | Cut more distal femur              |
+| Flexion tight, Extension good | Insufficient posterior femur resection | Downsize femur or recess/substitute PCL |
+| Flexion loose, Extension good | Excessive posterior femur resection | Upsize femur AP size               |
+
+---
+
+## Patellofemoral Joint (PFJ)
+### Maltracking and Failure Causes
+- Common technical causes include:
+  - Unequal gaps (instability/impingement).
+  - Patella maltracking or overstuffing.
+
+### Strategies for Optimal Tracking
+1. Lateralize femoral component.
+2. Medialize patella button.
+3. Avoid internal rotation of tibia or femur.
+4. Restore mechanical alignment (valgus increases Q angle).
+
+### PFJ Pathologies
+- **Patella Baja**:
+  - Pre-existing or due to distal femoral cut.
+  - Managed by superior button placement or anterior poly trimming.
+- **Patella Alta**:
+  - Caused by excessive tibial cut or lowered joint line.
+  - Leads to early wear.
+
+---
+
+## TKA After Patellectomy
+- Reduces quadriceps strength by ~50%.
+- Post-patellectomy TKR:
+  - Use PS knee (prevents anterior femoral translation).

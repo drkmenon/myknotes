@@ -1,0 +1,105 @@
+---
+title: "Design Principles"
+format: html
+editor: visual
+order: 2
+---
+
+### Native Knee
+- Functions as a 4-bar linkage system with the axis of rotation (COR) through the cruciate ligaments.
+- COR moves posteriorly during flexion.
+- Femur rolls backward and rotates on the tibia:
+  - **Flexion**: Tibia internally rotates due to the LFC being farther back.
+  - **Extension**: Tibia externally rotates to "screw home" the knee.
+
+### Original TKR Design
+- **Insall Total Contact Condylar Knee**:
+  - Highly conforming but did not allow femoral rollback.
+  - Tibia initially all-polyethylene; later designs included metal-backed tibias.
+  - Posterior femur impinged on poly during flexion, limiting flexion to <100°.
+  - Resulted in flexion instability and loosening due to high conformity and impingement.
+  - Despite limitations, the design achieved good outcomes.
+
+### Modern TKR Design
+Focus: Achieving "normal" femoral rollback.  
+
+#### Two Methods
+1. **Retain the PCL**:
+   - PCL tension during flexion prevents anterior femoral translation.
+   - As the PCL angle changes, the femur rolls back.
+2. **Substitute the PCL**:
+   - **CAM and post mechanism** replicate femoral rollback:
+     - CAM engages the post, pushing the femur backward.
+     - Post also prevents anterior instability.
+
+---
+
+### PCL Retaining
+
+#### Advantages
+- Less bone resection.
+- More "normal" rollback pattern (more sliding since ACL is resected).
+- Less constraint (flatter poly allows rollback), reducing the risk of loosening.
+
+#### Disadvantages
+- Technically challenging to balance the knee:
+  - PCL contracture can limit balancing in severe deformities.
+- Rollback is achieved through sliding, increasing poly wear.
+- Less constraint increases contact stress on the poly:
+  - Newer designs use more conforming poly.
+  - PCL acts more as a static stabilizer.
+  - Flexion is achieved by restoring slope and posterior offsetting of the COR.
+
+---
+
+### PCL Substituting
+
+#### Advantages
+- Suitable for almost all knees.
+- More conformity reduces edge loading, sliding, and wear.
+- Post provides varus-valgus stability.
+
+#### Disadvantages
+- Higher conformity may transfer more stress to the implant-bone interface:
+  - Theoretical risk of loosening (not proven in practice).
+- More bone resection required.
+- Not ideal for hyperextending knees:
+  - Risk of post fracture or wear.
+- **CAM Jump**: Can occur in high flexion or loose flexion gaps.
+- **Patella Clunk Syndrome**:
+  - Soft tissue impingement in the notch, causing a clunk.
+
+---
+
+### Indications for PCL Retaining vs. Substituting
+
+#### **PCL Retaining**
+1. Knees with significant hyperextension.
+2. Patients requiring >130° flexion (e.g., certain cultural activities):
+   - Avoids risk of CAM jumping.
+
+#### **PCL Substituting**
+1. Post-patellectomy:
+   - Weak quads increase the risk of anterior femoral translation.
+2. Severe deformities:
+   - Non-functioning PCL.
+3. Inflammatory arthritis:
+   - Potential PCL disease or incompetence.
+4. Past PCL injury.
+
+---
+
+### Mobile Bearing/Rotating Platform Knees
+- **Cruciate sacrificing** design with more conforming poly.
+- The mobile poly adjusts during flexion and extension:
+  - Accommodates minor component positioning errors.
+  - Maintains better conformity throughout the ROM.
+  - Reduces sliding, high contact stresses, and wear.
+
+#### Unique Problem: **Poly Spinout**
+- Poly moves beyond the knee's intended constraints and dislocates anteriorly:
+  - Occurs due to a loose flexion gap.
+  - Requires revision if it occurs.
+
+#### Outcomes
+- Results are comparable to fixed-bearing designs but not significantly superior.

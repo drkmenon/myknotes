@@ -1,0 +1,98 @@
+---
+title: "TKA continued"
+format: html
+editor: visual
+order: 4
+---
+
+# Patella-Femoral Arthroplasty (PFA)
+
+## Indications
+1. Isolated patellofemoral (PF) arthritis.
+2. Young patients (<50 years).
+
+## Contraindications
+1. PF instability.
+2. Medial or lateral compartment arthrosis.
+3. High-demand patients with unrealistic expectations.
+4. Inflammatory arthritis.
+5. Malalignment.
+
+## Results
+1. **Appropriate Patients**:
+   - 90% good outcomes at mid-term follow-up.
+2. **Conversion to TKR**:
+   - Outcomes may be worse compared to primary TKR.
+   - Early studies (e.g., AAOS 2012) report mixed results.
+
+---
+
+# Management of Bone Deficiency in TKR
+
+## Causes
+- Bone loss may occur due to various etiologies, including degenerative changes or previous surgeries.
+
+## Classification of Bone Defects
+1. **Type 1**:
+   - Small, focal defect contained within cortical rim.
+2. **Type 2**:
+   - Larger metaphyseal defect, still contained within cortical rim.
+3. **Type 3**:
+   - Uncontained metaphyseal defect with no cortical rim.
+
+## Management Strategies
+1. **Contained Defects <5 mm**:
+   - Fill with cement.
+2. **Larger Contained Defects**:
+   - Use impacted cancellous graft.
+3. **Very Large or Uncontained Defects**:
+   - Structural autograft fixed with screws.
+   - Cement around multiple screws.
+   - Metallic augments.
+4. **Critical Considerations**:
+   - Ensure correct alignment to avoid stress on grafts.
+   - For significant grafting, use stems to dissipate stress away from the graft.
+
+---
+
+# Wound Closure
+
+## Key Steps
+1. Perform closure in **flexion**:
+   - Ensures patella tracking.
+   - Avoids soft tissue restriction impacting ROM.
+2. Use **sub-cuticular sutures**:
+   - Minimizes wound ooze.
+
+---
+
+# Use of Drains
+
+## Observations
+1. No significant difference in wound infection rates.
+2. **With Drains**:
+   - Increased risk of transfusions.
+3. **Without Drains**:
+   - Requires more dressing changes and padding but no increase in infection rates.
+   - **Note**: Avoiding wound drainage is preferable to minimize infection risk.
+
+---
+
+# Use of Navigation in TKR
+
+## Benefits
+1. Ideal for managing pre-operative femoral or tibial deformities.
+2. Improves consistency in recreating correct mechanical axes in primary TKR.
+
+## Limitations
+- Improved alignment has not yet been directly correlated with better clinical outcomes.
+
+---
+
+# Custom Cutting Blocks
+
+## Overview
+1. Useful for challenging primary or revision knees.
+2. Process:
+   - Pre-operative MRI or CT used for templating.
+   - Cutting blocks are custom-made for patient anatomy.

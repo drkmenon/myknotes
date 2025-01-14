@@ -1,0 +1,147 @@
+---
+title: "Wear and special cases"
+format: html
+editor: visual
+order: 5
+---
+# Wear in Total Knee Replacement (TKR)
+
+## Catastrophic Wear vs. Long-Term Wear
+- **Catastrophic Wear**: Different from long-term submicron wear particles.
+- Influenced by various factors:
+  1. Polyethylene (PE) thickness.
+  2. PE manufacturing.
+  3. PE sterilization.
+  4. Articular geometry.
+  5. Sagittal plane kinematics.
+
+## PE Thickness
+- Minimum acceptable thickness: **8mm**.
+- Thinner polyethylene has insufficient yield strength.
+- Includes metal tray thickness in measurement.
+
+## Articular Geometry
+- **Flatter Polyethylene**:
+  - Decreases congruency, increasing contact pressure.
+  - Accelerates wear (e.g., edge loading, fatigue failure).
+- Better designs prioritize higher congruency and more surface area contact.
+
+## Sagittal Plane Kinematics
+- **Without ACL rollback**:
+  - Includes sliding, which leads to subsurface wear and cracks in PE.
+- **New designs**:
+  - Increased articular congruency reduces sliding.
+  - Flexion achieved through increased slope, posterior center of rotation (COR), or posterior stabilized (PS) designs.
+
+## PE Sterilization
+- **Oxidized PE** is weaker.
+- Best sterilized with **inert gas** irradiation (prevents free radical oxidation).
+- **Storage**: In a vacuum with a shelf life of <2 years.
+- Avoid using highly cross-linked polyethylene in TKR due to its vulnerability to fatigue wear.
+
+## PE Manufacturing
+- **Best Method**: Direct compression molding.
+- **Avoid RAM bar extruded PE** due to inconsistent quality.
+- **Subsurface white band** indicates vulnerability to fatigue failure and delamination.
+
+---
+
+# Total Knee Replacement in Specific Situations
+
+## Previous High Tibial Osteotomy (HTO)
+### Challenges:
+1. **Multiple Scars**:
+   - Prefer MPP approach or lateral incisions for easier access.
+2. **Joint Line**:
+   - **Patella Baja** common; use cuts that lower the joint line.
+3. **Rotational Malalignment**:
+   - Do not rely on IM referencing.
+4. **Ligament Balance**:
+   - More challenging post-HTO; use PCL substituting implants.
+
+## Previous Patellectomy
+- **Challenges**:
+  - Reduced **quadriceps strength** (up to 50%).
+  - Decreased flexion and no rollback of the femur relative to tibia.
+  - **Sagittal instability** in flexion.
+- **Recommendation**: Use **PCL substituting design** to allow mechanical rollback.
+
+## Neuropathic Arthropathy (e.g., Charcot Joint Disease)
+- **Challenges**:
+  - **Worse outcomes**; avoid TKR if possible.
+  - **Bone loss** and wound problems due to neuropathy.
+- **Management**: Grafting likely necessary.
+
+## Inflammatory Arthritis
+- **Approach**: Resurface patella; use **Posterior Stabilized (PS) Knee**.
+- Be cautious of **skin problems** and peri-operative medication management.
+
+## Haemophiliac Arthropathy
+- **Considerations**:
+  - Increased **HIV risk**.
+  - **Higher transfusion requirements**.
+  - **Pre-operative angiogram** recommended due to aneurysm risk.
+  - Maintain **factor 8 levels at 100%** before surgery.
+
+---
+
+# Periprosthetic Fractures Around Knee Replacements
+
+## Distal Femur Fractures
+### Risk Factors:
+- **Osteoporosis**, **Rheumatoid arthritis**, **Immunosuppressants**, **Trauma**.
+- **Notching**: Shown to weaken the distal femur but not clinically linked to increased fracture risk.
+
+### Classification:
+- **Location of fracture**.
+- **Are components loose?**
+- **Adequate bone for fixation?**
+
+### Management:
+1. **Nonoperative**:
+   - For undisplaced fractures in medically unfit patients: Proximal tibial traction or retrograde nail.
+2. **Supracondylar fractures**:
+   - Open box design, multiple blocking screws, ORIF with fixed angle plate.
+3. **Revision TKR**:
+   - For loose components, very distal fractures, use stemmed revision knee or hinged knee replacement.
+4. **Distal Femoral Replacement**:
+   - For elderly or comminuted fractures.
+
+## Tibial Fractures
+### Risk Factors:
+- **Poor bone quality**, **Loose/infected implants**, **Osteolysis**, **Previous tibial tubercle osteotomy**, **Malalignment**, **Trauma**.
+
+### Classification (Felix et al.):
+1. **Type 1**: Fracture of tibial plateau.
+2. **Type 2**: Fracture at the level of tibial stem.
+3. **Type 3**: Fracture distal to the stem.
+4. **Type 4**: Tibial tuberosity fracture.
+
+### Management:
+- **Type 1**: Non-operative or ORIF with screws/plates.
+- **Type 2**: Same as Type 1.
+- **Type 3**: Maintain tibial alignment, non-operative or ORIF, possible external fixation.
+- **Type 4**: ORIF with standard methods.
+
+---
+
+# Patella Fractures
+
+## Risk Factors:
+1. **Patient-Related**:
+   - Osteoporosis, **Trauma**, **Rheumatoid arthritis**, **Obesity**, **High demand**.
+2. **Component-Related**:
+   - Patella resurfacing, single PEG patella, uncemented patella, metal-backed patella.
+3. **Technical Factors**:
+   - **Devascularization** of patella, **Maltracking**, over-resection.
+
+### Classification:
+1. **Type 1**: Extensor mechanism intact, component stable.
+2. **Type 2**: Extensor mechanism absent, component stable or unstable.
+3. **Type 3**: Extensor mechanism intact, component unstable.
+
+### Management Principles:
+1. **Priority**: Preserve the extensor mechanism.
+2. **Type 1**: Non-operative treatment.
+3. **Type 2**: Surgical repair or reconstruction of the extensor mechanism, with possible allograft.
+4. **Type 3**: Remove loose components, partial or complete resection of the patella if necessary.

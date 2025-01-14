@@ -1,0 +1,134 @@
+---
+title: "Anatomy"
+format: html
+editor: visual
+order: 1
+---
+# Anatomy and Biomechanics of the Knee
+
+## Anatomy
+
+- **Knee**: A condylar joint.  
+- **Patellofemoral Joint**: A saddle joint.
+
+### Tibia
+- 7–10° posterior slope.
+- 3° varus to the anatomic axis.
+- Lateral plateau higher than medial.
+- Lateral plateau convex; medial plateau concave.
+- Plateaus separated by the intercondylar eminence.
+- Spinous processes arise from the intercondylar eminence.
+- Gerdy’s tubercle: Attachment of the ITB.
+
+### Femur
+- Medial femoral condyle (MFC) is larger and more distal.
+- Lateral femoral condyle (LFC) is wider.
+- Adductor tubercle is the proximal origin of MCL and MPFL, located just proximal to the medial epicondyle.
+- PCL is on the medial wall of the notch; ACL is on the lateral wall.
+- Just distal to the LFC’s medial edge lies the sulcus terminalis.
+
+### Patella
+- Thickest articular cartilage in the body.
+- Three facets:
+  - Medial, Lateral, and Odd Facet (small and far medial).
+  - Medial and lateral facets separated by a longitudinal ridge; the lateral facet is usually larger.
+- Accessory patella typically found superior-laterally.
+
+#### Wiberg Classification of Patella Morphology
+1. **Type 1**: Medial and lateral facets equal; ridge central.
+2. **Type 2**: Medial facet smaller; ridge medialized (most common).
+3. **Type 3**: Medial facet tiny and far medialized, rendering the ridge almost absent.
+
+### Trochlea
+- Lateral ridge is higher than the medial ridge (may be dysplastic).
+- **Dejour Index**: Used for classification.
+
+### Fibula
+- Does not contribute to the knee joint.
+- Articulates with the lateral tibia at the fibular notch.
+- Fibular styloid process: Attachment of LCL and biceps tendon.
+- Common peroneal nerve runs beneath the biceps and around the fibular neck.
+
+### Vascular Anatomy
+- Arterial anastomosis from femoral, popliteal, and tibial arteries:
+  - Femoral artery → Popliteal artery → Anterior and Posterior tibial arteries.
+- Branches:
+  - **Superior Geniculate (medial and lateral)**: Popliteal.
+  - **Inferior Geniculate (medial and lateral)**: Popliteal.
+  - **Middle Geniculate**: Popliteal.
+  - **Descending Geniculate**: Femoral.
+  - **Anterior Tibial Recurrent Arteries**: Tibial.
+- Inferior geniculates pass deep to their respective collateral ligaments.
+
+#### Patella Blood Supply
+- Geniculate anastomosis and anterior recurrent tibial artery.
+- Blood enters the patella in the lower two-thirds.
+
+### Nerve Anatomy
+- Sensory nerves:
+  - **Femoral (L2–L4)**, **Obturator (L2–L4)**, and **Sciatic (L4–S2)**.
+- Important nerves:
+  - **Posterior Articular Nerve**: Branch of the posterior tibial nerve (intra-articular structures).
+  - **Infra-patella Branch of Saphenous Nerve**: Supplies skin over the anterior knee and tibia.
+
+### Ligaments
+- Refer to the section on ligament injuries.
+
+### Extensor Mechanism
+- **Quadriceps Tendon**:
+  - Rectus femoris, vastus medialis, vastus intermedius, vastus lateralis.
+- Medial and lateral retinaculae extend from the quadriceps.
+- Patellofemoral ligaments are thickenings of the retinaculum.
+- MPFL stabilizes the patella and attaches to the adductor tubercle.
+
+### Meniscus
+- Medial: C-shaped; lateral: nearly circular.
+- Lateral meniscus is more mobile (posterolaterally not attached at the popliteal hiatus).
+- Connected to the capsule by coronary ligaments (more on the medial meniscus).
+- Menisci are connected anteriorly by the intermeniscal ligament.
+- **Meniscofemoral Ligaments**:
+  - Humphrey’s (anterior) and Wrisberg’s (posterior) ligaments.
+  - Arise from the lateral meniscus, pass around the PCL, and attach to the femur.
+  - Alphabetical order: Humphrey (H) → PCL → Wrisberg (W).
+
+---
+
+## Biomechanics
+
+### Gait
+- Knee functions during gait:
+  - Flexes to decrease impact at initial contact.
+  - Extends in mid-stance for leg stabilization.
+  - Flexes in the initial swing for foot clearance.
+
+#### Gait Abnormalities
+- **Quads Avoidance Gait**:
+  - Weak quads or ACL deficiency.
+  - Compensatory forward leaning to prevent knee buckling.
+- **Fixed Flexion Deformity (FFD)**:
+  - Difficulty in stance; compensatory mechanisms occur in the opposite leg.
+
+### Joint Reaction Forces
+- Tibiofemoral joint: 3× body weight during walking, 4× on stairs.
+- Patellofemoral joint: 3× body weight on stairs, 7× during deep squats.
+
+### Ligament Kinematics
+- Knee acts as a 4-bar linkage enabling rolling and sliding motion.
+- ACL and PCL cross-over point: Center of axis of rotation (COR).
+- ACL:
+  - AM bundle tight in flexion; PL bundle tight in extension.
+  - Ultimate tensile strength: 2000N.
+- PCL:
+  - Opposite bundle behavior; PM bundle tight in extension.
+  - Stronger than ACL (UTN: 2500N).
+
+### Meniscus Biomechanics
+- Anisotropic properties (load-dependent behavior).
+- Dissipates 50% of the load in extension, 75% in flexion.
+- Meniscectomy increases articular contact pressure proportionally.
+
+### Articular Cartilage
+- Biphasic material (70% water content).
+- Withstands repetitive loading via a strong proteoglycan matrix.
+- Disuse or pathological loading damages cartilage integrity.
+

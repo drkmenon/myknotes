@@ -1,0 +1,53 @@
+---
+title: "Patella-Femoral Arthroplasty"
+format: html
+editor: visual
+order: 6
+---
+
+## Indications:
+- **Isolated PF arthritis**.
+- **Young patients** (<50 years).
+
+## Contraindications:
+- **PF instability**.
+- **Medial or lateral compartment arthrosis**.
+- **High-demand patients** with false expectations.
+- **Inflammatory arthritis**.
+- **Malalignment**.
+
+## Results:
+- **In appropriate patients**, 90% achieve good outcomes at mid-term follow-up.
+- **Conversion to Total Knee Replacement (TKR)**:
+  - Some reports indicate that outcomes are worse than primary TKR.
+  - **Early reports** (AAOS 2012).
+
+---
+
+# Press Fit Condylar (PFC) Sigma Registry Data
+
+### British Data:
+- **All Brands Cemented Unconstrained Fixed Bearing**:
+  - Revision rate: **2.62%** at 8 years.
+- **Total PFC Implants**:
+  - 158,000 PFCs implanted since the registry began.
+  - Highest proportion in the UK.
+- **All Fixed Bearing Implants**:
+  - Revision rate: **2.04%** at 8 years.
+- **Cemented Posterior Stabilized (PS) PFC**:
+  - Revision rate: **2.25%** at 8 years.
+- **Cemented Cruciate Retaining (CR) PFC**:
+  - Revision rate: **1.84%** at 8 years.
+
+### Swedish Data:
+- **10-Year Follow-Up for TKR**:
+  - Results given as **revision rate** and **risk of revision** compared to AGC knee.
+- **23,000 PFC Implants** over the registry period (most of any TKR).
+- **Risk of revision** for all cemented PFC fixed bearing types:
+  - **0.83 below reference** (lowest risk of revision of all implants).
+- **PFC with Patella Resurfacing**:
+  - **Risk of revision ratio**: **1.2**.
+  - Statistically equal to **AGC**.
+  - Better than all other brands.
+- **Cumulative 10-Year Revision Rate** for PFC:
+  - **4%**, lowest rate (lower than AGC).

@@ -1,0 +1,114 @@
+---
+title: "Revision Total Knee Replacement"
+format: html
+editor: visual
+order: 7
+---
+
+## Most Important Factor:
+- Accurate diagnosis of the cause of failure and a clear strategy for revision.
+
+## Causes of Failure:
+1. Osteolysis
+2. Aseptic Loosening
+3. Catastrophic Polyethylene (PE) Failure
+4. Patella Pain
+5. Instability
+6. Fracture
+7. Infection
+8. Stiffness
+9. Undiagnosed (Mystery Knee)
+
+---
+
+### **Osteolysis**
+- Less common in TKR.
+- **Wear mode** in TKR: subsurface delamination.
+- **Delamination** produces larger particles compared to abrasive wear, which are more biologically active.
+- When osteolysis occurs in TKR, it tends to be **expansile**.
+
+### **Aseptic Loosening**
+- Less common cause than wear.
+- **Tibia** is more commonly affected than the femur.
+- **Uncemented designs** are prone to early loosening but become equal thereafter.
+- May be related to osteolysis but not always.
+- **Malalignment** (especially varus) predisposes to loosening.
+- **Diagnosis**: 
+  - New onset pain (e.g., start-up, weight-bearing, knee motion).
+  - Subsidence of tibia.
+  - Changes in tibial position or rotation.
+  - Radiolucent lines that progress in size or are continuous.
+  - Stiffness.
+
+---
+
+### **Stiffness**
+- Can be **global** (failure to extend or flex).
+- **Arthrofibrosis** (scarring, especially in medial and lateral recesses) causes global stiffness.
+- Loss of extension: Often due to hamstring overactivity or overstuffing of the extension gap.
+- Loss of flexion: Due to quadriceps contracture or overstuffing of the flexion gap.
+- **Manipulation under anesthesia (MUA)** should be performed within 6 weeks; overstuffing requires revision.
+
+---
+
+### **Instability**
+- Types: **Mediolateral**, **patella**, and **flexion instability**.
+  - **Mediolateral Instability**: Caused by collateral ligament injury, intra- or post-operatively.
+  - **Flexion Instability**: Typically, the knee sits backward due to absence of ACL. Worse with tight or strong hamstrings. 
+    - Paradoxical anterior femoral translation instead of rollback.
+  - **Patella Instability**: Usually due to component malrotation.
+
+---
+
+### **Evaluating the Painful Knee**
+- History, imaging, and blood tests are essential.
+- **Three broad causes**:
+  1. **Infection/inflammation**
+  2. **Neurogenic**
+  3. **Mechanical**
+- **Mechanical Causes**: 
+  - **Patella**: Clunk syndrome (scar tissue impinging against the polyethylene post in a PS knee).
+  - **Flexion Instability**: Associated with anterior translation of femur in CR knees.
+  - **Malalignment**: Varus causes loosening; valgus causes instability.
+
+---
+
+### **Assessment of Bone Loss**
+- Pre-operative imaging may **underestimate** bone loss.
+- **CT scan** and intra-operative assessment are better.
+- Factors: Size, location, contained or uncontained defects, and potential blood supply to the bone.
+- **Surgical Principles**: Diagnosis, exposure, bone loss, instability, joint line height.
+
+---
+
+### **Approach & Exposure**
+- In multiply operated knees, use the most **lateral incision** to avoid anterior skin necrosis.
+- **Medial Parapatellar approach** is commonly used.
+- **Extensile measures**: Rectus snip, tibial tubercle osteotomy (avoided if possible).
+
+---
+
+### **Bone Loss Management**
+- Small defects: Fill with **cement**.
+- Larger defects: Use **particulate bone graft**.
+- **Big defects**: Use **metallic augments**, **allografts**, or **endoprostheses**.
+- **Uncontained defects**: Likely require **metallic augments**.
+- **Stem use**: Stems help dissipate stress at the bone-implant interface, preventing rapid loosening.
+  - Indicated for instability, protecting bone graft, and dubious metaphyseal fixation.
+
+---
+
+### **Levels of Constraint**
+- **Unconstrained CR or PS**: Rare for TKR revision.
+- **Semi-Constrained PS**: Wider, taller post, effective for medio-lateral instability but risks post wear.
+- **Fully Constrained Fixed or Rotating Hinge**: Used for very unstable knees with no collateral competence.
+  - Requires more bone resection.
+  - Prevents hyperextension.
+
+---
+
+### **Implant Constraints**
+- **Increased constraint** is counteracted by:
+  - **Rotating platform** or **rotating hinge**.
+  - **Stemmed implants** to dissipate stresses.
+
