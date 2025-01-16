@@ -1,0 +1,65 @@
+---
+title: "Surgical Site Infection"
+format: html
+editor: visual
+---
+
+# Prevention
+
+## Pre-Operative
+- **Optimise patient’s medical co-morbidities**  
+  - Tight diabetic control  
+  - Nutritional status  
+- **Smoking cessation**  
+- **Screen for MRSA**
+
+## Peri-Operative
+
+### Patient Preparation
+- Shave hair with clippers at the time of surgery  
+- Perform a pre-wash for non-elective trauma cases  
+- **Skin Preparation**  
+  - Alcoholic 2% chlorhexidine or alcoholic povidone-iodine  
+
+### Antibiotic Prophylaxis
+- For contaminated cases and clean cases with prosthesis insertion  
+- Administer within 1 hour of incision & prior to tourniquet use (local policy)  
+- Repeat antibiotic dosage if surgery is prolonged  
+- Avoid unnecessary use to prevent resistance  
+
+### Theatre Issues
+- Use laminar flow  
+- Minimise theatre traffic  
+
+### Hands
+- Good hand washing technique  
+  - Use 2% chlorhexidine or povidone-iodine  
+  - Remove all jewellery  
+
+### Drapes & Clothing
+- Use disposable drapes  
+- Wear disposable gowns  
+- Change clothing on leaving the theatre suite  
+- Use different shoes for inside and outside the theatre  
+
+### Surgical Technique and Wound Management
+- Perform efficient surgery:  
+  - Minimal soft tissue damage and skin handling  
+  - Avoid long tourniquet times  
+  - Ensure haemostasis to prevent blood loss  
+  - Use sound wound closure techniques  
+  - Apply see-through interactive dressings  
+
+### Anaesthesia
+- Maintain steady body temperature to avoid hyperthermia or hypothermia  
+
+## Post-Operative
+- Use ring-fenced beds for elective cases  
+- Allocate side rooms for infectious patients  
+- Breed a good ward culture for infection control  
+- Minimise dressing changes  
+- Use aseptic technique if dressing changes are necessary  
+- Apply see-through interactive dressings  
+- Wash hands between each patient contact  
+- Treat oozing wounds aggressively  
+- Avoid unnecessary use of antibiotics  

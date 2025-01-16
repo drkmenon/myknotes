@@ -1,0 +1,146 @@
+---
+title: "Surgical Tourniquets"
+format: html
+editor: visual
+---
+
+## Types of Tourniquets
+1. **Pneumatic**:
+   - Automatic: More accurate.
+   - Manual.
+2. **Non-Pneumatic**:
+   - E.g., for finger surgery.
+
+---
+
+## Contra-indications to Tourniquet Use
+1. **Absolute**:
+   - Severe crush injuries.
+   - Compartment syndrome.
+2. **Relative**:
+   - Sickle cell disease.
+   - Peripheral vascular disease.
+
+---
+
+## Nerve Injury Related to Tourniquet Use
+- **Cause**: Direct compression neuropraxia at the edge of the cuff. 
+  - The central part of the cuff is spared.
+- **Mechanism**:
+  - Displacement of the node of Ranvier from its normal relation to the Schwann cell.
+  - Causes stretching of the myelin sheath.
+  - **Not due to ischaemic injury to nerves**.
+
+---
+
+## Cuff Design and Pressures
+- **Pressures**:
+  - Highest at the center of the cuff where skin pressure is 95% of the cuff pressure.
+  - Higher cuff pressure correlates to higher tissue pressure.
+  - Tissue pressures fall as limb circumference increases.
+  - Only a 2% decrease in pressure from the surface to the deepest tissues.
+- **Cuff Width**:
+  - Narrower cuffs require higher occlusion pressure for the same limb circumference.
+  - **Wider cuffs** should be used in larger limbs to reduce the risk of neurological injury.
+
+---
+
+## Limb Occlusion Pressures (LOP)
+- Pressure required to occlude arterial flow distal to the cuff.
+- **Traditional Recommendations**:
+  - Add **50–75 mmHg** to the systolic pressure for the upper limb.
+  - Double the systolic pressure for the lower limb.
+- **More Accurate Method**:
+  1. Gradually increase tourniquet pressure until the distal pulse is lost.
+  2. Adjust:
+     - Add **40 mmHg** for occlusion pressures <130 mmHg.
+     - Add **60 mmHg** for occlusion pressures <190 mmHg.
+     - Add **80 mmHg** for occlusion pressures >190 mmHg.
+  - This method results in significantly lower tourniquet pressures.
+
+---
+
+## Limb Exanguination
+- **More effective than elevation alone**.
+- **Contraindications**:
+  - Infection.
+  - Metastatic disease.
+  - Venous thrombosis.
+
+---
+
+## Limb Protection
+- Studies show padding under the cuff reduces skin injuries.
+- **Two-layer elastic stockinette** is superior to Velband padding.
+
+---
+
+## Duration of Tourniquet Use
+- **Recommended**: 2 hours (safe, especially in the upper limb).
+- **No definitive unsafe time**, but:
+  - Longer durations = increased risk of nerve injury and tissue ischaemia.
+  - Up to 3 hours may be acceptable in the lower limb (use common sense).
+
+---
+
+## Complications of Tourniquet Use
+
+### Local
+- Neuropraxia.
+- Muscle ischaemia and necrosis.
+- Vascular injury.
+- Post-release swelling and joint stiffness.
+- Haematoma formation.
+- Delayed recovery of muscle power.
+
+### Systemic
+- Embolism of fat and metabolites.
+- Cardio-respiratory decomposition (not conclusively proven).
+
+---
+
+### Neuropraxia
+- Resolves within 3 months.
+- Affects motor and sensory functions (temperature sensation preserved).
+- Pulses, skin appearance, and temperature are normal.
+- **EMG findings**: Conduction block at the level of the tourniquet.
+
+---
+
+### Muscle Ischaemia
+- Re-perfusion injury to the muscle.
+- Longer tourniquet times = higher CK levels and more tissue ischaemia.
+- **Tissue markers normalize** between 2 and 20 minutes after reperfusion.
+- No evidence that deflating and re-inflating the tourniquet improves safety.
+
+---
+
+### Myonephrotic Metabolic Syndrome
+- Rare, occurs in severe ischaemia.
+- Features:
+  - Renal failure.
+  - Metabolic acidosis.
+  - Myoglobinuria.
+  - Hyperkalaemia.
+
+---
+
+## Tourniquet Deflation
+- No evidence that tourniquet use increases the risk of DVT or PE after deflation.
+- **Precautions**:
+  - Monitor patients undergoing intramedullary procedures for sudden fat or metabolite embolism.
+- **Effects of Deflation**:
+  - Increases production of antithrombin 3 and Protein C, leading to increased bleeding and reduced clotting.
+
+---
+
+## Tourniquet Release in Total Knee Replacement (TKR)
+- **Pre-closure deflation**:
+  - Increases blood loss and transfusion needs.
+  - Associated with increased infection risk.
+- **Post-closure deflation**:
+  - More likely to require return for wound washout.
+- **Surgeon’s Discretion**:
+  - Balance between minimizing blood loss and reducing infection risk.
+
+

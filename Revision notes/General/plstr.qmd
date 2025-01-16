@@ -1,0 +1,54 @@
+---
+title: "Plaster"
+format: html
+editor: visual
+---
+
+## Plaster of Paris
+
+### History
+- A house in Paris on a gypsium deposit burned down in the 1800s.  
+- A gypsium mine still exists near Montmartre in Paris.  
+- Rain falling on the remains revealed that footprints hardened in the material.  
+- Initially used in industry and for coating walls.  
+- First used by Mathyson of the Dutch military in 1852 to make splints from cotton bandages.  
+
+### Current Form
+- A muslin roll stiffened by starch or dextrose and impregnated with a hemihydrate of calcium sulphate.  
+- **Chemical Formula**: CaSO₄·2H₂O (Gypsium).  
+- On addition of water, calcium sulphate crystallizes.  
+- **Setting Time**:  
+  - Sets in 5-10 minutes.  
+  - Fully hardens in 72 hours when it becomes completely anhydrous.  
+
+### Advantages
+- Cheap.  
+- Mouldable.  
+- No adverse allergic reactions.  
+- More expansile in case of swelling.  
+
+### Disadvantages
+- Heavy.  
+- Partially radio-opaque.  
+- Not waterproof.  
+- Weaker than fibreglass.  
+
+---
+
+## Synthetic Casts
+
+### Composition
+- A polymer (fibreglass).  
+- **Chemical Formula**: C₆H₅.NCO (Scotchcast).  
+
+### Advantages
+- Stronger.  
+- Lighter.  
+- Waterproof.  
+- Available in different colors (popular with children).  
+- Hardens more quickly (10-20 minutes).  
+
+### Disadvantages
+- Less expansile in case of swelling.  
+- More expensive.  
+- Not as easy to mould.  

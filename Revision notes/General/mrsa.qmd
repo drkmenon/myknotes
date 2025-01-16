@@ -1,0 +1,66 @@
+---
+title: "MRSA"
+format: html
+editor: visual
+---
+
+## Overview
+- **Staphylococcus aureus** has innovative mechanisms to evade host defenses.  
+  - Produces molecules that inhibit neutrophils and phagocytosis.  
+
+## Methicillin Resistance
+- **History:** Resistance was present by the 1950s.  
+  - Methicillin is an old beta-lactam antibiotic.  
+  - The term now applies to strains of Staphylococcus aureus resistant to all beta-lactams.  
+
+### Acquisition of Resistance
+1. **Intrinsic Resistance:**  
+   - Innate resistance of the cell wall to certain antibiotics.  
+2. **Acquired Resistance:**  
+   - Acquisition of the **mecA gene**:  
+     - Encodes for penicillin-binding protein (PBP).  
+     - Binds to beta-lactam antibiotics, reducing their effect on the cell wall.  
+   - Formation of **glycocalyx** and **biofilm** when adherent to metalware:  
+     - Increases resistance by over 100 times.  
+
+### Community-Acquired MRSA
+- More virulent and resistant than hospital-acquired strains.  
+- Produce cytotoxins causing:  
+  - Skin necrosis.  
+  - Leucocyte destruction.  
+- Possess the **mecA gene** and penicillin-binding protein.  
+
+## MRSA Carriage
+- **Nasal Carriage:**  
+  - Strains match those cultured from surgical site infections (SSI) in 85%.  
+  - May spread to the bloodstream during intubation.  
+  - Represents skin colonization.  
+- **High-Risk Colonization Areas:**  
+  - Skin, groin, and axilla.  
+- **Risks of Nasal Colonization with Staphylococcus aureus:**  
+  - Greatest independent risk factor for SSI.  
+  - 9 times higher risk than uncolonized individuals.  
+  - Fourfold increase in infection risk.  
+
+## Screening
+- Literature supports institution-wide screening, leading to a significant reduction in post-operative SSIs.  
+  - Screening reduces transmission to elective patients undergoing arthroplasty.  
+- **Routine Pre-Operative Screening:**  
+  - Swabs from nasal, groin, and axilla regions for Staphylococcus aureus.  
+  - 20% of patients are Staphylococcus carriers.  
+  - 5% are MRSA carriers.  
+
+## Treatment
+- **Standard Treatment:**  
+  - **Mupirocin nasal ointment** and **chlorhexidine washes** for 5 days.  
+  - Re-swab and repeat if still positive.  
+  - Require 3 clear swabs at different times post-treatment prior to surgery.  
+- **Success Rate:**  
+  - 90% eradication of nasal carriage.  
+
+## Antibiotic Prophylaxis in Arthroplasty
+- **For MRSA-Treated Patients:**  
+  - Use of **vancomycin** is recommended.  
+- **Routine Vancomycin Use:**  
+  - Not advised due to the risk of **VRSA strain development**.  
+

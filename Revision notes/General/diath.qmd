@@ -1,0 +1,68 @@
+---
+title: "Diathermy"
+format: html
+editor: visual
+---
+
+## Definition
+- Use of high-frequency electrical current to produce heat.  
+- Utilizes an alternating current (AC).  
+
+---
+
+## Current Strength
+- **Mains Electricity**: 50 Hz  
+  - Causes intense nerve and muscle activation.  
+- **Diathermy**: 300 KHz – 3 MHz  
+  - Stronger current avoids muscle and nerve activation.  
+
+---
+
+## Types of Diathermy
+
+### Monopolar Diathermy
+- **Active Electrode**: Tip of the instrument.  
+- **Indifferent Electrode**: Plate placed on the patient.  
+- **Current Flow**: Passes through the patient.  
+- **Heat Generation**:  
+  - Intense heat at the instrument tip.  
+  - Minimal heat at the plate.  
+- **Burn Prevention**:  
+  - Use a large surface area plate.  
+  - Place over a large muscle mass.  
+
+---
+
+### Cutting Diathermy
+- Continuous current is used.  
+- **Waveform**: Sinusoidal.  
+- **Effect**:  
+  - Tissue is vaporized.  
+  - No coagulation occurs.  
+
+---
+
+### Coagulation Diathermy
+- Intermittent current is used, allowing time for coagulation to occur.  
+- **Waveform**: Square.  
+- **Frequency**: 50 per second (10% of continuous waveform).  
+- **Effect**:  
+  - More surrounding tissue damage if used for cutting.  
+
+---
+
+### Bipolar Diathermy
+- **Current Path**: Passes between the tips of the instrument, not through the patient.  
+- **Safety**:  
+  - Safe for use in patients with pacemakers.  
+  - Points of forceps must be separated for current to pass.  
+
+---
+
+## Risks and Complications of Diathermy
+1. **Pacemaker Interference**: Use bipolar diathermy.  
+2. **Arcing**: Can occur with metal implants (place plate away from metal).  
+3. **Flammable Skin Prep**:  
+   - Burns can occur if pooling or soaking of drapes happens.  
+4. **Improper Plate Application**:  
+   - Concentrates current, leading to burns.  

@@ -1,0 +1,136 @@
+---
+title: "Blood Management"
+format: html
+editor: visual
+---
+
+## Transfusion Reactions
+
+### Allergic Reaction
+- **Most common.**  
+- Occurs towards the end of a transfusion.  
+- **Management:**  
+  - Settles spontaneously.  
+  - Supportive medical treatment.  
+
+### Febrile Reaction
+- Occurs after the first **100 ml.**  
+- **Cause:** Antibody formation against foreign RBCs.  
+- **Management:**  
+  - Stop transfusion.  
+  - Treat fever supportively.  
+
+### Haemolytic Reaction
+- **Most severe.**  
+- Occurs early in the transfusion.  
+- **Symptoms:**  
+  - Chest tightness.  
+  - Flank pain.  
+  - Tachycardia.  
+  - Fever and chills.  
+- **Management:**  
+  - Stop transfusion immediately.  
+  - Administer IV fluids.  
+  - Perform coagulation screening.  
+  - Transfer to ICU for monitoring.  
+
+---
+
+## Transfusion Infection Transmission Risks
+- **Hepatitis C:** 1 in 2 million (rarest).  
+- **Hepatitis B:** 1 in 200,000.  
+- **CMV:**  
+  - Most common.  
+  - Carried by 70% of donors.  
+  - Clinically irrelevant.  
+- **HIV:** 1 in 1.2 million.  
+
+---
+
+## Alternatives to Blood Transfusion
+
+### Autologous Deposition
+- **Description:** Storage of autologous donated blood weeks before surgery.  
+- **Indications:**  
+  - Anticipated significant blood loss during surgery.  
+  - Patient preference.  
+- **Contraindications:**  
+  - Low Hb (<11).  
+  - Coronary artery disease.  
+  - Low haematocrit (<33%).  
+- Hepatitis C-containing blood can be transfused back to the patient.  
+
+### Cell Saver
+- **Description:** Collection, washing, and re-transfusion of blood intra-operatively.  
+- **Requirements:**  
+  - Blood loss >1 unit expected.  
+  - Minimum of 400 ml blood loss needed to produce 1 unit.  
+  - Maximum usage time: 4 hours.  
+- **Process:**  
+  1. Blood is collected and passed through a filter.  
+  2. Washed to remove cytokines and debris (also removes clotting factors and platelets).  
+  3. Re-transfused into the patient.  
+- **Disadvantage:**  
+  - Sub-standard blood quality.  
+  - Residual cytokines may cause SIRS, TRALI, etc.  
+
+### Autotransfusion
+- **Description:** Direct re-introduction of lost blood back into the bloodstream.  
+- **Requirements:**  
+  - Must begin within **6 hours of blood loss** to avoid transfusion reaction.  
+- **Advantages:**  
+  - Contains clotting factors and platelets.  
+- **Disadvantages:**  
+  - Risk of reactions due to unremoved cytokines and debris.  
+  - May not be of optimal quality.  
+
+---
+
+## Blood Product Storage
+
+| **Product**       | **Storage Duration** | **Temperature** |
+|--------------------|----------------------|-----------------|
+| Whole Blood        | 24 hours            | Room Temperature |
+| Packed Red Cells   | 35 days             | 4°C             |
+| Platelets          | 5 days              | Room Temperature |
+| Cryoprecipitate    | 12 months           | -25°C           |
+
+---
+
+## Massive Transfusion Protocols
+
+### Definition
+- **Massive Transfusion:**  
+  - Transfusion of >4 units of blood in 1 hour.  
+- **Statistics:**  
+  - Leading cause of preventable trauma deaths (39%).  
+  - 2% of trauma victims require massive transfusion.  
+- **Main Complication:** Post-transfusion coagulopathy.  
+
+### Global Recommendations
+- **Debra L. Malone, Journal of Trauma (2006):**  
+  - Equivalent use of packed cells and platelets.  
+  - Early use of platelets and FFP reduces coagulopathy.  
+  - Early use of FFP reduces mortality.  
+
+### Practical Guidelines
+- **Identify at-risk patients based on:**  
+  - Injury mechanism.  
+  - Biochemical parameters:  
+    - HR > 100.  
+    - Acidosis.  
+    - Raised lactate.  
+    - Poor response to fluid resuscitation.  
+
+- **Goals:**  
+  - Normothermia.  
+  - Urine output ≥ 35 ml/hr.  
+  - Hb ≥ 10 g/dL.  
+  - PT & APTT ratio < 1.5.  
+  - Platelets > 100,000.  
+  - Normal lactate.  
+
+### General Protocol
+- Use a **1:1 ratio of FFP and RBC.**  
+- Start with **4 units of each.**  
+- Add platelets for every **4 units** given after the first batch.  

@@ -1,0 +1,116 @@
+---
+title: "DCO and ETC"
+format: html
+editor: visual
+---
+
+## Background
+
+### 1960s
+- **High complication rate with immediate surgery.**  
+  - Due to outdated methods, poor trauma coordination, and limited ICU support.  
+- **Delays in treatment for up to 2 weeks** with interim use of casts and traction.  
+  - Resulted in:
+    - Pulmonary, gastrointestinal, and soft tissue complications.
+    - Stiff joints, prolonged rehabilitation, and extended ICU stays.
+
+### 1980s
+- **Early Total Care (ETC):**  
+  - Shift to fixing everything as early as possible.  
+  - **Adverse outcomes:**  
+    - Prolonged surgical times, blood loss, hypothermia, and excessive "second hit" inflammatory response.  
+
+---
+
+## Immune System Effects
+- Trauma induces a **hyperinflammatory immune response.**  
+  - Usually insignificant in isolated injuries.  
+  - **Exacerbated by:**  
+    - Hypothermia and blood loss in polytrauma patients.  
+    - Can lead to:
+      - Coagulopathy.
+      - Acute Respiratory Distress Syndrome (ARDS).
+      - Renal failure.  
+
+- **Surgical considerations:**  
+  - Surgery adds to the inflammatory response.  
+  - Stabilizing long bones and addressing chest/abdominal injuries help control the inflammatory cascade.  
+
+### Research Studies:
+1. **Morshed et al, JBJSam 2009:**  
+   - Definitive femoral shaft fixation <12 hours post-injury led to **50% higher mortality** in polytrauma patients.  
+
+2. **Pape et al, Ann Surgery 2007:**  
+   - External Fixation (Ex Fix) followed by delayed definitive fixation reduced pulmonary complications in borderline patients.  
+
+### Key Principle of DCO:
+- **Stabilize injuries without causing an overwhelming "second hit" inflammatory response.**  
+
+---
+
+## Patient Categories for DCO vs. ETC
+
+### Four Patient Groups:
+1. **Stable:** Suitable for ETC.  
+2. **Borderline:** Suitable for DCO.  
+3. **Unstable:** Suitable for DCO.  
+4. **In Extremis:** Suitable for DCO.  
+
+---
+
+## Criteria for Categorizing Patient Stability
+
+### Key Parameters:
+1. **Shock:**  
+   - Blood pressure (BP), ATLS shock grades, transfusion requirements, lactate levels.  
+2. **Temperature:**  
+   - Degree of hypothermia.  
+3. **Coagulation:**  
+   - Platelet count, fibrinogen levels.  
+4. **Systemic Injuries:**  
+   - Lung function, chest, abdominal, pelvis, and external injuries (AIS).  
+
+---
+
+## Markers of a Borderline Patient
+
+1. **Mild Shock:**  
+   - Grade 2–3 shock.  
+   - **Blood transfusion:** 6–8 liters over the last 2 hours.  
+   - **Lactate:** 2.5 mmol/L.  
+   - **BP:** 80–100 mmHg.  
+
+2. **Hypothermia:**  
+   - Temperature < 35°C.  
+
+3. **Coagulopathy:**  
+   - Platelets < 110,000.  
+
+4. **Other Injuries:**  
+   - **Lung function:** FiO2 < 350 mmHg.  
+   - Thoracic trauma (e.g., rib fractures).  
+   - Mild pelvic and/or abdominal trauma.  
+
+---
+
+## Orthopaedic Treatment Principles
+
+1. **In Extremis Patients:**  
+   - Orthopaedic injuries take lower priority.  
+   - Treatment involves:  
+     - Debridement.  
+     - External fixation of long bones within 2 hours.  
+
+2. **Borderline Patients:**  
+   - Can consider intramedullary (IM) nailing if:  
+     - Procedure is completed in <2 hours.  
+
+3. **Patient Monitoring:**  
+   - Monitor during and after each procedure.  
+   - Proceed with the next procedure only if the patient remains stable.  
+   - Temporize if instability arises.  
+
+4. **Intra-Operative Markers of Instability:**  
+   - FiO2 < 250 mmHg.  
+   - Temperature < 32°C.  
+   - Increasing fluid or blood requirement.  
