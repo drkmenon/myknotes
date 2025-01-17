@@ -1,0 +1,112 @@
+---
+title: "Calcaneal Fractures"
+format: html
+editor: visual
+---
+
+## Incidence
+- Most common tarsal fracture.  
+- **10%** are bilateral.  
+- **10%** are open fractures.  
+- **Up to 80%** associated with other injuries:  
+  - Spine injuries.  
+  - Femoral neck fractures.  
+  - Lower limb long bone fractures.  
+
+---
+
+## Anatomy
+
+### Ossification
+- **Two Ossification Centres:**  
+  - **Anterior Centre:** Visible at birth.  
+  - **Posterior Centre:** Last in the foot to ossify (around age 8 years).  
+
+### Facets
+1. **Posterior Facet** (largest).  
+2. **Medial Facet**.  
+3. **Anterior Facet** (often continuous with medial facet).  
+
+### Sinus Tarsi
+- Separates medial and posterior facets.  
+
+### Sustentaculum Tali
+- Cortical medial process supporting the talus.
+
+---
+
+## Mechanism of Injury
+- **Axial Compression:**  
+  - Fall from height.  
+  - Road traffic accidents (RTA).
+
+---
+
+## Classification
+
+### Essex-Lopresti
+- **Pre-CT Classification:**  
+  - **Primary Fracture Line:**  
+    - Created by the talus' lateral process driving into the crucial angle of Gissane.  
+    - Intra-articular involvement of the posterior facet.  
+    - Runs posteromedial to anterolateral from proximal to distal.  
+    - **Sustentaculum Tali:** Always attached to the distal fragment (constant fragment for fixation).  
+
+- **Secondary Fracture Line Determines Type:**  
+  - **Joint Depression Type:**  
+    - Line runs from the primary fracture line to just posterior to the posterior facet.  
+  - **Tongue Type:**  
+    - Line runs from the primary fracture line to the posterior tuberosity.  
+
+- **Problems:**  
+  - Does not indicate prognosis.  
+  - Limited guidance for management (except tongue type).  
+
+---
+
+### Sanders Classification
+- **CT-Based Classification** (coronal CT at the sustentaculum tali level).  
+- Grades based on the number of displaced fracture lines in the posterior facet:  
+  - **Grade 1:** Undisplaced (regardless of fracture lines).  
+  - **Grade 2 (A, B, C):** 1 fracture line causing 2 displaced fragments.  
+  - **Grade 3 (A, B, C):** 2 fracture lines causing 3 displaced fragments.  
+  - **Grade 4:** 3+ fracture lines with multiple fragments.  
+
+- **Subclassification (A, B, C):**  
+  - **A:** Lateral position.  
+  - **B:** Middle position.  
+  - **C:** Near the sustentaculum.  
+
+- **Prognostic Notes:**  
+  - Increasing grade indicates more severity and worse prognosis.  
+
+---
+
+## Evaluation
+
+### Initial Steps
+- **ATLS Protocol:** Address high incidence of associated injuries.  
+- Screen for **compartment syndrome** (rare).  
+- **Splint, ICE, and elevate foot**.  
+- Ensure no skin compromise (especially in tongue-type fractures).  
+
+### Imaging
+- **X-Ray Views:**  
+  - AP.  
+  - Lateral.  
+  - Axial.  
+  - **Harris View:**  
+    - Foot dorsiflexed, beam angled 45° cephalad.  
+  - **Broden View:**  
+    - Multiple X-rays showing posterior facet in different positions.  
+
+- **Key Angles:**  
+  1. **Bohler’s Angle:**  
+     - Formed by the highest points of the:  
+       - Anterior process.  
+       - Posterior facet.  
+       - Tuberosity.  
+     - Normal range: **20-40 degrees**.  
+  2. **Crucial Angle of Gissane:**  
+     - Formed by cortical struts joining the posterior and anterior facets.  
+     - Normal range: **120-140 degrees**.  

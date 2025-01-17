@@ -1,0 +1,169 @@
+---
+title: "Acetabular Fractures"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **Demographics:**  
+  - Common in young males, similar to pelvic fractures.
+- **Mechanism:**  
+  - High-speed motor vehicle accidents (MVA) and falls from height.  
+  - Injury pattern depends on the position of the femoral head at the time of impact.  
+  - Dashboard injury is the most common.  
+- **Associated Injuries:**  
+  - High-energy mechanism; follow ATLS protocol.  
+  - Specific injuries include:  
+    - Ipsilateral knee soft tissue injury.  
+    - Sciatic nerve injury in posterior wall fractures.  
+
+---
+
+## Classification
+
+### Letournel Classification
+- **Reliability:**  
+  - High inter- and intra-observer reliability.  
+  - Useful for determining the surgical approach.  
+- **Types:**  
+  - **Elementary (5 types):**  
+    1. Posterior wall  
+    2. Posterior column  
+    3. Anterior wall  
+    4. Anterior column  
+    5. Transverse  
+  - **Associated (5 types):**  
+    1. Posterior wall – Posterior column  
+    2. Anterior column – Posterior hemitransverse  
+    3. Both column  
+    4. Transverse – Posterior wall  
+    5. T-type  
+- **Order of Frequency:**  
+  - Posterior wall > Both column > Transverse & Posterior hemitransverse > Transverse > T-Type  
+  - Anterior wall, anterior column, and posterior wall & column are uncommon.  
+
+---
+
+## Anatomy
+- **Structure:**  
+  - Formed by the confluence of the pubis, ischium, and ileum.  
+  - Supported by two columns in an inverted Y-shape:  
+    - **Anterior column:**  
+      - Anterior half of the ileum, including the pelvic brim and anterior half of the acetabular surface.  
+    - **Posterior column:**  
+      - Extends from the greater sciatic notch to the ischial tuberosity and includes the posterior half of the acetabular surface.  
+  - **Quadrilateral Plate:** Thin medial wall.  
+  - **Weight-Bearing Dome:**  
+    - Superior one-third of the acetabulum on X-ray.  
+    - Superior 10 mm on axial CT slices (most critical cartilage).  
+
+---
+
+## Imaging
+- **Plain Radiographs:**  
+  - **Views:** AP, Iliac oblique, and Obturator oblique.  
+  - **Best Uses:**  
+    - Iliac oblique: Anterior wall and posterior column.  
+    - Obturator oblique: Posterior wall and anterior column.  
+
+- **CT Scan:**  
+  - Almost mandatory.  
+  - Helps visualize fracture morphology and displacement.  
+
+### Key Radiographic Landmarks
+#### AP View
+1. Iliopectineal line.  
+2. Ilioischial line.  
+3. Teardrop.  
+4. Acetabular roof.  
+5. Anterior rim of the acetabulum.  
+6. Posterior rim of the acetabulum.  
+
+#### Iliac Oblique
+- Best for anterior wall and posterior column fractures.  
+
+#### Obturator Oblique
+- Best for posterior wall and anterior column fractures.  
+
+---
+
+## Specifics of Fracture Types
+
+### Posterior Wall Fractures
+- Most common type.  
+- Often comminuted, with 50% involving marginal impaction.  
+
+### Posterior Column Fractures
+- Uncommon in isolation.  
+- Fracture extends from the greater sciatic notch to the ischial ramus.  
+- Grossly unstable; often requires skeletal traction.  
+
+### Anterior Wall and Column Fractures
+- Rare in isolation.  
+- Usually involves the quadrilateral plate.  
+
+### Transverse Fractures
+- Only elementary type to involve both columns.  
+- Fracture divides into infratectal, transtectal, or juxtatectal based on its position relative to the articular surface.  
+
+### T-Type Fractures
+- Combination of transverse fracture with vertical split through the ischiopubic ramus.  
+- Worst prognosis among acetabular fractures.  
+
+### Both Column Fractures
+- Most common associated type (25%).  
+- No articular surface remains in continuity with the ileum.  
+- **Spur Sign:** Pathognomonic on obturator oblique view.  
+
+---
+
+## Management Principles
+
+### Preferred Surgical Approach
+- **Posterior wall/column fractures:** Kocher-Langenbach.  
+- **Anterior wall/column fractures:** Ilioinguinal.  
+- **Both column fractures:** Extended iliofemoral, ilioinguinal, or combined approaches.  
+- **Transverse fractures:** Approach depends on displacement and fracture level.  
+
+### Non-Surgical Treatment
+- **Criteria for Non-Operative Management:**  
+  - Stable with articular congruity.  
+  - Secondary congruency in some both-column fractures.  
+  - Roof arc angle > 45° on all views.  
+  - No fracture lines within the superior 10 mm of axial CT cuts.  
+- **Roof Arc Angle:**  
+  - Formed by a vertical line through the femoral head and a line to the articular fracture.  
+  - >45° indicates fracture outside the weight-bearing dome.  
+
+### Surgical Treatment
+- **Indications:**  
+  - Hip instability or loss of joint congruence.  
+  - Articular displacement > 2 mm.  
+  - Incarcerated intra-articular fragments.  
+  - Roof arc angle < 45°.  
+- **Goals:**  
+  - Restore articular congruity and hip stability.  
+
+---
+
+## Primary Hip Arthroplasty
+- Indicated for unreconstructable articular comminution or elderly osteoporotic bone.  
+
+---
+
+## Complications
+- **Avascular Necrosis (AVN):** Especially with posterior dislocation; reduce ASAP.  
+- **Post-Traumatic Arthrosis.**  
+- **Neurologic Injury:** From fracture or iatrogenic causes.  
+- **Thromboembolism:**  
+  - DVT: 20–50%.  
+  - Fatal PE: 2%.  
+- **Heterotopic Ossification.**  
+
+---
+
+## Best Surgical Outcomes
+- Good bone quality.  
+- Early surgery.  
+- Minimal comminution and marginal impaction.  
+- Accurate joint reduction.  

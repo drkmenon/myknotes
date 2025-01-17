@@ -1,0 +1,134 @@
+---
+title: "Dislocations of Hip"
+format: html
+editor: visual
+---
+
+## Aims of Treatment
+- **Primary Goal:** Prevention of AVN and arthritis through emergent, congruent reduction.
+
+---
+
+## Aetiology/Mechanism
+- **Posterior Dislocations:** 9x more common than anterior dislocations.  
+- **Mechanism:**  
+  - Pure dislocations: Occur with more **flexion** and **adduction**.  
+  - Fracture-dislocations: Occur with **lesser degrees of flexion**.  
+- **Increased Femoral Anteversion:** Predisposes to fractures.  
+- **Anterior Dislocations:**  
+  - Caused by **hyperabduction** and **external rotation**.  
+  - Types: Obturator, iliac, or pubic, depending on the position of the femoral head.  
+
+---
+
+## Associated Injuries
+- Knee, pelvis, femoral neck, femoral head, and acetabular (posterior wall).
+
+---
+
+## Classification
+
+### Direction of Dislocation
+- **Posterior:** Most common.  
+- **Anterior:** Subtypes include obturator, pubic, or iliac.
+
+### Pipkin Classification
+| Type  | Features                                           | AVN Rate |
+|-------|----------------------------------------------------|----------|
+| **1** | Dislocation with fracture inferior to fovea (non-weight-bearing zone). | <5%      |
+| **2** | Dislocation with fracture superior to fovea (weight-bearing zone).     | <5%      |
+| **3** | Type 1 or 2 with associated femoral neck fracture. | 50%      |
+| **4** | Type 1 or 2 with associated acetabular fracture.   | 10%      |
+
+- **Management Notes:**  
+  - Types 1 & 2: Non-operative if reduction is anatomical; lower threshold for surgery in Type 2.  
+  - Type 3: **Worst prognosis**. Perform urgent ORIF in young patients; arthroplasty in older patients.  
+  - Type 4: Management depends on acetabular fracture characteristics (position, size, stability).  
+
+---
+
+## Management
+
+### Examination
+- Follow **ATLS protocol**.  
+- Assess leg position to determine the direction of dislocation.  
+- Evaluate **neurovascular status**.  
+- Screen for associated injuries.
+
+### Imaging
+- **X-rays:** AP, Lateral, and Judet views.  
+- **CT Scan:** Essential for identifying associated fractures.  
+
+### Reduction
+- **Advantages of ED Reduction:**  
+  - Reduced time to reduction and immediate ability to proceed to CT if irreducible.  
+- **Disadvantages:**  
+  - Requires adequate relaxation to avoid failed attempts and cartilage damage.  
+
+#### Technique
+- Apply **in-line traction**, exaggerate the deformity, and reverse the deformity.  
+- For posterior dislocations: Flexion, traction, and internal rotation.  
+- For anterior dislocations: Traction with external rotation.
+
+#### Stability Testing
+- Take AP, lateral, and Judet views to confirm congruency.  
+- Test stability under loading conditions.
+
+---
+
+## Aims of Surgical Treatment
+1. Achieve congruent reduction.  
+2. Ensure stability of the reduction.  
+3. Address associated fractures contributing to instability or incongruity.
+
+### Associated Femoral Neck Fractures
+- **Displaced:** ORIF and open reduction of the hip.  
+- **Undisplaced:** Percutaneous pinning followed by closed reduction.
+
+### Post-Reduction Steps
+- Confirm true congruency with **fine-cut (2mm) CT scans**.  
+- Remove loose bodies to prevent cartilage abrasion. This can be delayed.  
+- Open reduction and fixation required for displaced femoral head fractures (e.g., Pipkin 2).  
+
+---
+
+## Open Reduction
+
+### Indications
+- Irreducible dislocations.  
+- Fixation of head or neck fractures.  
+
+#### Anterior Approaches
+- Use **Smith-Peterson (SP)** or **Watson-Jones (WJ)** approach:  
+  - **SP:** Preferred for head fractures or removing incarcerated fragments.  
+  - **WJ:** Better for neck fractures.  
+
+#### Posterior Approach (Kocher-Langenbach)
+- Indicated for posterior dislocations and posterior wall acetabular fractures.  
+- Protect the **sciatic nerve** by identifying it distally and keeping the hip extended with the knee flexed.
+
+#### Trans-Trochanteric Approach (Ganz)
+- Best for associated neck and head fractures.  
+- Involves surgical dislocation of the hip while preserving the medial femoral circumflex artery.  
+
+---
+
+## Outcomes and Complications
+
+### Prognostic Factors
+- **Time to Reduction:** Early reduction reduces AVN risk.  
+- **Associated Fractures:** Increase complication rates.  
+- **Repeated Reduction Attempts:** Can damage the blood supply.  
+- **Open Reduction:** Risk of further violation and AVN.
+
+### AVN and OA Rates
+- **Simple Dislocations:** AVN < 5%.  
+- **Pipkin Types:**  
+  - Type 1 & 2: Comparable to simple dislocations if fractures are anatomically reduced.  
+  - Type 4: AVN < 10%.  
+  - Type 3: Worst prognosis, AVN up to 50%.  
+
+### Post-Traumatic OA
+- More common in Pipkin 2 fractures (involves weight-bearing zone).
+
+---

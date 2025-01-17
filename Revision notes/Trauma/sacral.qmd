@@ -1,0 +1,104 @@
+---
+title: "Sacral Fractures"
+format: html
+editor: visual
+---
+# Sacral Fractures and SI Joint Dislocations
+
+## Epidemiology
+- Considered pelvic ring injuries.  
+- **Typical in:**  
+  - Young males with high-energy mechanisms.  
+  - Insufficiency fractures seen in the elderly.  
+
+---
+
+## Anatomy
+- **Sacrum:** Comprises S1 to S5 bodies.  
+  - Rarely, S1 can be lumbarised or L5 sacralised.  
+  - Contains 4 foramina.  
+- **Nerve Roots:**  
+  - S1–S4 roots exit anteriorly through the foramina.  
+  - S5 root exits below the sacrum.  
+  - L5 root lies on the sacral ala, 2 cm medial to the SI joint.  
+- **SI Joint:**  
+  - Extends down to the level of the 3rd foramina.  
+  - Inherently unstable due to poor bony congruity.  
+- **Stability is provided by:**  
+  - **Ligaments:**  
+    - Anterior, interosseous, and posterior sacroiliac ligaments.  
+      - Posterior sacroiliac ligament is the strongest and last to fail.  
+    - Sacrotuberous and sacrospinous ligaments.  
+
+---
+
+## Classification and Fracture Patterns
+
+### Denis Classification
+Based on the fracture line's relation to the foramina:  
+
+| **Type**  | **Features**            | **Notes**                          |
+|-----------|--------------------------|-------------------------------------|
+| Zone 1    | Lateral to foramina      | 50% of all fractures, 5% neurologic injury. |
+| Zone 2    | Through the foramina     | 30% incidence, 30% neurologic injury.        |
+| Zone 3    | Medial to foramina       | 20% incidence, 60% neurologic injury.        |
+
+- **Zone 1 and 2 fractures:**  
+  - Tend to be vertical or oblique.  
+  - Do not cause spinal instability but may result in pelvic instability.  
+- **Zone 3 fractures:**  
+  - May be vertical or horizontal.  
+  - Horizontal fractures occur through the vestigial disc space due to hyperflexion.  
+- **Key Points:**  
+  - Any fracture may cause root or cauda equina injury.  
+  - Spinal instability and spino-pelvic dissociation may occur with horizontal fractures.  
+  - Pelvic instability may occur with vertical fractures.  
+  - Comminuted or oblique fractures may result in instability of both spine and pelvis.  
+  - Vertical shear injuries increase the likelihood of neurologic injury.  
+
+### Crescent Fracture
+- Iliac wing fracture that exits through the SI joint, possibly causing SI joint dislocation.  
+- Typically an **LC2 injury**.  
+
+---
+
+## Management Principles
+
+### Non-Operative Management
+- **Indicated for:**  
+  - Stable pelvic ring.  
+  - Congruent SI joint.  
+  - No cauda equina syndrome.  
+  - Impacted sacral fractures (often stable, especially in LC injuries).  
+
+---
+
+### Goals of Surgery
+1. Reduce the SI joint and pelvic ring.  
+   - In anterior and posterior ring injuries, stabilize the posterior ring first.  
+2. Decompress neural injuries.  
+3. Prevent iatrogenic neural injury.  
+4. Stabilize the spine if necessary.  
+
+---
+
+## Methods of Stabilization
+
+### Percutaneous Iliosacral Screws
+- **Key Points:**  
+  - Typically 1 or 2 screws.  
+  - Requires clear imaging and an experienced surgeon.  
+  - Joint must be reducible through closed techniques.  
+  - Can be performed with the patient in prone or supine position.  
+- **Main Risk:** Injury to the L5 nerve root.  
+
+### ORIF (Open Reduction and Internal Fixation)
+- **Preferred Technique:** Posterior plates to restore tension band.  
+- **Additional Considerations:**  
+  - May require anterior supplementation.  
+  - Can be combined with iliosacral screws.  
+  - Avoid over-compression of foramina when reducing fractures.  
+
+### Lumbopelvic Fusion
+- **Indication:** Spinal instability.  
+- **Method:** Fuse into the lumbar spine using plates or pedicle screws and bars.  

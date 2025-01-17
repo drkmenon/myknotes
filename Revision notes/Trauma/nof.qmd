@@ -1,0 +1,113 @@
+---
+title: "Femoral Neck Fractures"
+format: html
+editor: visual
+---
+
+## Blood Supply and Healing of the Femoral Head
+
+### Blood Supply
+- In adults, blood supply is derived from 3 sources:  
+  1. **Retinacular (capsular) vessels**  
+  2. **Intraosseous vessels**  
+  3. **Ligamentum teres** – branch of obturator or medial circumflex femoral artery (MCFA).  
+- **Most Important:** Ascending retinacular vessels.
+- **Circumflex Vessels:**  
+  - Derived from profunda femoris in 79%.  
+  - Partly from femoral artery in 20%, completely from femoral artery in 1%.  
+  - MFC and LFC form an anastomosis at the base of the neck.  
+- **Sub-synovial Ring Anastomosis:**  
+  - Formed at the base of the head, where vessels enter the head.  
+  - Main blood supply enters the head postero-superiorly, supplying the weight-bearing area.
+
+### Healing
+- Occurs via **primary endosteal healing** (no callus formation due to the absence of a cambial layer over the femoral neck).  
+- Prolonged healing time due to this mechanism.  
+
+### Sensory Supply
+- Provided by femoral, sciatic, and obturator nerves, explaining pain in the groin and thigh.
+
+---
+
+## Classification
+
+### Garden Classification
+1. **Type 1:** Valgus impacted fracture. Trabeculae misaligned with neck or acetabulum.  
+2. **Type 2:** Undisplaced complete fracture. Trabeculae are co-linear.  
+3. **Type 3:** Partially displaced into varus. Trabeculae misaligned with neck or acetabulum.  
+4. **Type 4:** Completely displaced. Trabeculae re-align with acetabulum but not the neck.  
+
+### Pauwels Classification
+- Based on the angle of the fracture line relative to the horizontal plane:  
+  1. **Type 1:** <30° (most common).  
+  2. **Type 2:** 30–50°.  
+  3. **Type 3:** >50° (higher shear forces; greater risk of non-union and fixation failure).  
+
+---
+
+## Management
+
+### Undisplaced Fractures
+- **Non-Operative Management:**  
+  - 50% displace if treated non-surgically.  
+  - Higher rates of non-union.  
+  - 30% 1-year mortality with non-operative treatment.  
+- **Operative Management:**  
+  - Internal fixation preferred (5% non-union rate).  
+  - Greater morbidity with hemiarthroplasty.  
+  - Outcomes worse with increasing age, poor walking ability, lateral displacement, or less impaction.  
+  - Revision rate: 7%.  
+
+### Displaced Fractures
+- **Non-Operative Management:**  
+  - No role (90% 1-year mortality).  
+- **Operative Management Considerations:**  
+  - Age: Preserve femoral head in patients <60–70 years.  
+  - Gender: 50% higher non-union risk in females.  
+  - THR preferred for rheumatoid arthritis, metabolic bone disease, symptomatic OA, or delayed presentation.  
+
+#### Surgical Options
+1. **Internal Fixation:**  
+   - Higher reoperation rate compared to hemiarthroplasty.  
+2. **THR vs Hemiarthroplasty:**  
+   - THR: Better functional outcomes but higher dislocation rate.  
+   - Hemi: Similar outcomes to internal fixation.  
+3. **Cemented vs Non-Cemented Arthroplasty:**  
+   - Cemented: Better pain scores and functional outcomes.  
+   - Non-cemented: Greater thigh pain, higher fracture rates, and worse functional outcomes.  
+
+---
+
+## Closed Reduction Techniques
+
+### Leadbetter Technique
+1. Flex and adduct the hip slightly.  
+2. Apply traction in line with the femur.  
+3. Fully flex and adduct, then slowly abduct and extend while maintaining internal rotation.
+
+### Traction Table
+- Minimal traction and internal rotation, with X-ray guidance.  
+- Avoid excessive traction to prevent valgus malreduction.  
+- Limit repeated attempts to preserve blood supply.  
+
+---
+
+## Surgical Approach for Open Reduction
+
+### Preferred Approach: Watson Jones
+- Between **tensor fascia lata** and **gluteus medius** (no internervous plane).  
+- Curved incision toward ASIS, centered on GT.  
+- Incision of anterior gluteus medius (similar to Hardinge approach).  
+- Capsule incised with an inverted T for exposure.  
+- Reduction facilitated by joysticks, hooks, and muscle relaxation via hip flexion/adduction.  
+
+---
+
+## Department of Health Best Practice Tariffs for Fractured Neck of Femur
+1. Surgery within 36 hours of casualty arrival.  
+2. Admission via agreed protocol.  
+3. Joint care by orthopaedic surgeon and ortho-geriatrician.  
+4. Pre-surgical ortho-geriatric assessment.  
+5. MDT rehabilitation post-surgery.  
+6. Falls risk and bone health assessment.  
+7. Audit collection and submission for analysis.  

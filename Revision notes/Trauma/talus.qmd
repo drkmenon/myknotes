@@ -1,0 +1,107 @@
+---
+title: "Talar Fractures"
+format: html
+editor: visual
+---
+
+## Anatomy
+- **70% of the talus** is covered with articular cartilage.  
+- **No muscular attachments** or insertions.  
+
+### Blood Supply
+- **Three main vessels:**  
+  - **Posterior Tibial Artery** (most important via artery of sinus canal).  
+  - **Anterior Tibial Artery** (dorsalis pedis).  
+  - **Peroneal Artery** (gives off sinus tarsi branch).  
+- **Anastomotic Sling:**  
+  - Formed beneath the talar neck by sinus canal & sinus tarsi branches.  
+- **Regions supplied:**  
+  - **Dorsum:** Anterior tibial (dorsalis pedis).  
+  - **Head:** Sinus tarsi (peroneal artery).  
+  - **Body:** Sinus canal (posterior tibial artery).  
+- **Intraosseous Anastomoses:**  
+  - Medial wall supplied by a branch through the deltoid ligament.  
+
+---
+
+## Talar Neck Fractures
+- **50% of all talar fractures.**  
+- **Mechanism:**  
+  - Axial loading & forced dorsiflexion against the anterior tibia.  
+  - Neck is narrower with less dense bone, making it prone to fractures.  
+  - Supination often causes medial malleolar fracture.  
+
+### Hawkins Classification (Rate of AVN)
+1. **Type 1:**  
+   - Undisplaced (<2mm).  
+   - AVN risk: **10-20%.**  
+2. **Type 2:**  
+   - Displaced with subtalar subluxation/dislocation.  
+   - AVN risk: **20-50%.**  
+3. **Type 3:**  
+   - Type 2 + Talotibial dislocation.  
+   - AVN risk: **50-90%.**  
+4. **Type 4:**  
+   - Type 3 + Talonavicular dislocation.  
+   - AVN risk: **100%.**  
+
+### Management
+- **Type 1:** Cast if undisplaced with angulation <5°.  
+- **Types 2-4:** ORIF.  
+
+### Surgical Approaches & Considerations
+- **Approaches:**  
+  - Combined anteromedial (medial to tibialis anterior) and anterolateral (lateral to EDL).  
+  - Posterolateral (between TA & FHL) for closed reduction with PA screws.  
+  - Medial malleolar osteotomy for increased exposure.  
+- **Screw Constructs:**  
+  - Best construct: **PA screws.**  
+  - Crossed or AP screws also effective.  
+  - Sink screw heads to prevent impingement.  
+- **Comminution:**  
+  - Plate medial side if there is medial wall comminution to prevent varus collapse.  
+
+### Complications
+- **Varus Malunion.**  
+- **Avascular Necrosis (AVN):**  
+  - Hawkins sign: Subchondral osteopenia at 8 weeks (indicates revascularization).  
+- **Post-Traumatic Arthritis.**  
+- **Infection:** High rate due to compound fractures.  
+- **Salvage Treatment:**  
+  - Arthrodesis for affected joints.  
+  - Address varus deformity with medial column lengthening or lateral column shortening.
+
+---
+
+## Talar Body Fractures
+- **Less common than neck fractures.**  
+- High energy injuries, often associated with subtalar dislocation.  
+- **Treatment:**  
+  - Similar to neck fractures.  
+  - Often intraarticular into the ankle joint.  
+
+---
+
+## Talar Process Fractures
+- **Posterior, anterior, medial, or lateral processes.**  
+- Often mistaken for ankle sprains.  
+- **Non-operative Treatment:**  
+  - Unless fragment is very large and non-comminuted.  
+
+---
+
+## Subtalar Dislocation
+- **Mechanism:**  
+  - High energy injury.  
+  - **Inversion (medial)** or **eversion (lateral)** dislocation.  
+  - Medial dislocation often associated with medial malleolus fracture.  
+- **Treatment:**  
+  - Open reduction often required due to soft tissue interposition.  
+  - **Medial dislocation:** Peronei, EDB, EDC interposition.  
+  - **Lateral dislocation:** Tibialis posterior interposition.  
+
+---
+
+## Total Talar Dislocation
+- **Devastating high-energy injury.**  
+- Often open fractures with **100% AVN and arthritis rates.**  

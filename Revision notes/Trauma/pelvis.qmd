@@ -1,0 +1,243 @@
+---
+title: "Pelvic Fractures"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **Common in:**  
+  - Young males.  
+  - Older females (osteoporotic).  
+- **Causes:**  
+  - Motorcycle accidents > Motor vehicle accidents (MVA) > Falls from height.  
+- **Risk Factors:**  
+  - Side-on collisions.  
+  - Size discrepancy between vehicles.  
+
+---
+
+## Anatomy
+
+### Bony & Ligamentous Anatomy
+- **Pelvis components:**  
+  - 2 innominate bones and the sacrum.  
+- **Innominate bones:**  
+  - Formed by fusion of 3 ossification centers:  
+    1. Ilium.  
+    2. Ischium.  
+    3. Pubis.  
+- **Anterior connection:**  
+  - Symphysis pubis ligament.  
+- **Posterior connection:**  
+  - **Ligaments:**  
+    1. Anterior & Posterior Sacro-Iliac ligaments.  
+    2. Sacrotuberous & Sacrospinous ligaments.  
+    3. Iliolumbar ligament (L5 transverse process to ilium).  
+  - **Note:** Posterior ligaments are among the strongest in the body.  
+
+### Nerve Anatomy
+- **Sciatic nerve:** Formed by L4-S3 roots (lumbosacral plexus).  
+- **L5 nerve root:** Runs over the sacral ala, 2 cm medial to the SI joint.  
+
+### Vascular Anatomy
+- **Common Iliac Artery:**  
+  - Divides into External and Internal Iliac arteries at the level of the S1 vertebral body.  
+- **Branches of Internal Iliac Artery:**  
+  - **Anterior Branch:**  
+    1. Inferior Gluteal.  
+    2. Internal Pudendal.  
+    3. Obturator.  
+  - **Posterior Branch:**  
+    1. Superior Gluteal.  
+       - Runs along SI joint and exits via the greater sciatic notch.  
+    2. Iliolumbar.  
+    3. Lateral Sacral arteries.  
+- **Posterior Venous Plexus:**  
+  - Drains into the internal iliac veins.  
+  - Responsible for most bleeding in pelvic fractures.  
+- **Corona Mortis:**  
+  - Connection between Obturator and External Iliac arteries.  
+  - **Location:** Superior pubic ramus, 6 cm lateral to symphysis pubis.  
+  - Can be arterial or venous.  
+
+---
+
+## Surgical Approaches and Risks
+1. **Kocher-Langenbeck Approach:**  
+   - Risk: Sciatic nerve, Superior Gluteal Artery (may require retraction).  
+2. **Ilioinguinal Approach:**  
+   - Risks: Obturator nerve, Corona Mortis, Lateral Femoral Cutaneous nerve.  
+3. **Stoppa Approach:**  
+   - Risk: Corona Mortis.  
+4. **Anterior or Percutaneous SI Joint Approach:**  
+   - Risk: L5 nerve root.  
+
+---
+
+## Pelvic Stability
+- **Stability is determined by:**  
+  - Degree of injury to the posterior pelvis.  
+- **Key Points:**  
+  - **Posterior sacroiliac ligaments:** Last structure to be disrupted, leading to vertical, lateral, and rotational instability.  
+  - **Rotational instability:**  
+    - Can occur with disruption of anterior ligaments alone (e.g., sacrotuberous, sacrospinous, anterior sacroiliac).  
+  - **Iliolumbar ligament disruption:**  
+    - Indicated by L5 avulsion fractures.  
+    - Equivalent to posterior iliac and sacral fractures.  
+
+---
+
+## Clinical Evaluation
+
+### Haemodynamics
+- **Predictors of major haemorrhage:**  
+  1. Haematocrit <30%.  
+  2. Heart Rate >130 bpm.  
+  3. Wide displacement of fractures.  
+  4. Obturator ring fractures.  
+  5. Large symphysis diastasis.  
+
+- **Sources of haemorrhage:**  
+  - Bony, venous (most common), or arterial.  
+  - Disruption of the pelvic floor (ligaments and muscles) can lead to massive haemorrhage.  
+
+- **Initial Resuscitation:**  
+  - 2L isotonic fluid bolus.  
+  - If unstable, commence blood products:  
+    - Packed Red Cells (PRC).  
+    - Fresh Frozen Plasma (FFP).  
+    - Platelets (1 unit for every 4 units of PRC and FFP).  
+
+### Neurological Status
+- **Commonly injured nerves:**  
+  - Lumbosacral plexus, L5, and S1 nerve roots.  
+  - Femoral and Pudendal nerves.  
+
+### Gastrointestinal Injury
+- **Signs:**  
+  - Abdominal pain (visceral injuries).  
+  - Rectal examination for tears (constitutes an open fracture).  
+
+### Genitourinary Injury
+- **Signs:**  
+  - Blood at meatus.  
+  - High-riding prostate.  
+  - Perineal bruising.  
+- **Workup:**  
+  - Retrograde urethrogram before catheterisation.  
+  - Use suprapubic catheter for bladder injury.  
+- **Notes:**  
+  - Male urethra is more mobile and commonly injured (bulbous urethra most affected).  
+  - **Injury Correlation:**  
+    - APC injury → Predictive of bladder injury.  
+    - LC injury with ramus fracture → Predictive of urethral injury.  
+
+---
+
+## Radiologic Examination
+- **X-rays:** AP, Inlet, and Outlet views.  
+- **CT scan:** If stable.  
+
+### Inlet View
+- Assesses anterior-posterior displacement.  
+
+### Outlet View
+- Assesses vertical displacement.  
+
+---
+
+## Classification
+
+### Tile Classification
+| Grade | Features                                     |
+|-------|---------------------------------------------|
+| A     | Stable in all planes                        |
+| B     | Rotationally unstable                       |
+| C     | Rotationally and vertically unstable        |
+
+### Young & Burgess Classification
+- Mechanistic classification.  
+- Categories:  
+  - **APC (Anterior Posterior Compression):** Grades 1-3.  
+  - **LC (Lateral Compression):** Grades 1-3.  
+  - **VS (Vertical Shear).**  
+  - **Combined injuries.**  
+- **Key Notes:**  
+  - Higher grades = greater energy and instability.  
+  - **LC fractures:** Transverse ramus fractures.  
+  - **APC fractures:** Vertical ramus fractures (may occur instead of symphysis diastasis).  
+
+---
+
+## Management
+
+### Acute Management Algorithm
+1. Follow **ATLS Protocol** and screen for life-threatening injuries.  
+2. Assess pelvic injuries for:  
+   - Open fractures.  
+   - Perineal injuries.  
+   - Morel-Lavallée lesion.  
+   - Neurological injury.  
+   - Haemodynamic instability.  
+   - Fracture pattern on X-rays.  
+3. **Resuscitation:**  
+   - Goal-directed resuscitation (normalize lactate, coagulopathy, HR, BP).  
+   - Early transfusion (PRC, FFP, platelets).  
+   - Consider cryoprecipitate and tranexamic acid.  
+
+### Haemorrhage Control Methods
+1. **Binder or External Fixator:**  
+   - Stabilizes fractures, provides tamponade.  
+   - Shown not to significantly reduce pelvic volume.  
+2. **Angiography & Embolisation:**  
+   - 20% of pelvic fractures involve arterial haemorrhage.  
+   - Predictors: Pelvic AIS >3 and transfusion >0.5 units/hour.  
+3. **Pelvic Packing:**  
+   - Place large swabs around the bladder, SIJ, and retropubic space.  
+4. **Acute Internal Fixation:**  
+   - Plate symphysis pubis or place iliosacral screws.  
+5. **Clamp Aorta or Iliac Vessels:**  
+   - For severe haemorrhage.  
+
+---
+
+## Definitive Management
+
+### Indications for Surgery
+- Unstable fractures.  
+- Wide symphysis diastasis (>2.5 cm).  
+
+### Techniques
+- **Anterior Ring:**  
+  - ORIF (plating for symphysis or ramus fractures).  
+  - External fixation for contaminated wounds or poor soft tissue.  
+- **Posterior Ring:**  
+  - Percutaneous screws for SIJ disruptions.  
+  - ORIF with tension band plates for sacral fractures.  
+  - Iliolumbar triangular fixation for maximum stability.  
+
+---
+
+## Complications and Outcomes
+
+### Mortality
+- **Early mortality:**  
+  - Massive haemorrhage.  
+  - Concurrent injuries (better predictor of mortality).  
+- **Late mortality:**  
+  - Sepsis.  
+  - Predictors: Open fractures, severe soft tissue injury (Morel-Lavallée).  
+
+### Functional Outcomes
+- Neurological injury is the main predictor of poor outcomes.  
+- **Specific Outcome Measure:** Majeed score.  
+
+### Other Complications
+- **Sexual Dysfunction:**  
+  - Occurs in 61% of males (19% with persistent erectile dysfunction).  
+  - Associated with APC injuries.  
+- **Urologic Problems:**  
+  - Bladder dysfunction, urethral stricture, incontinence, impotence.  
+- **Thromboembolism:**  
+  - High risk for DVT and PE.  
+  - Fatal PE occurs in 2%; DVT in 20-50%.  
