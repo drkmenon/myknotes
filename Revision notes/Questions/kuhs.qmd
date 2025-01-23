@@ -1,0 +1,107 @@
+---
+title: "Previous year questions"
+format: html
+editor: visual
+---
+
+## Essays
+
+1. **What is osteosynthesis?**  
+   Describe ways to achieve osteosynthesis in the treatment of fractures with recent advances.
+   
+2. **Define osteoporosis.**  
+   Discuss the clinical features, causes, and management of generalized osteoporosis.
+   
+3. **With regard to slipped capital femoral epiphysis, discuss:**
+   - Prediction of contralateral slip.
+   - Treatment updates.
+   - Femoro-acetabular impingement associated with it.
+   
+4. **Discuss the blood supply of the talus.**  
+   Describe the clinical features, classification, and management of talus fractures.
+
+5. **Explain the anatomy of the brachial plexus.**  
+   Classify and discuss the management of brachial plexus injury.
+   
+6. **Discuss the pathogenesis, clinical features, and management of tuberculosis of the spine with paraplegia.**
+
+7. **Describe the etiology, modern diagnostic methods, prevention, and various management methods for osteoporosis.**
+
+8. **Describe the extensor mechanism of the knee joint.**  
+   Discuss the etiology, diagnosis, and management of recurrent dislocation of the patella.
+   
+9. **Explain the biomechanics of the thoraco-lumbar spine.**  
+   Classify and discuss the management of thoraco-lumbar spine injuries.
+
+## Short Essays
+
+1. Bearing surfaces in total hip replacement.
+2. Zolandronic acid.
+3. Tumor markers.
+4. Femoro-acetabular impingement.
+5. Bone cement.
+6. DEXA scan.
+7. Proximal femoral nail.
+8. Postoperative DVT: prevention, clinical features, and management.
+9. Chordoma.
+10. Arthrogryposis multiplex congenita.
+11. Congenital pseudoarthrosis of tibia.
+12. Hallux valgus.
+13. DOTS regime for tuberculosis.
+14. Solid ankle cushion heel foot.
+15. Vertebra plana.
+16. Ulnar claw hand.
+17. Simple bone cyst.
+18. Stem cells in orthopedics.
+19. Poller screw.
+20. Recent advances in internal fixation of distal tibial fractures.
+21. Fresh frozen allograft.
+22. Multidirectional instability of the shoulder.
+23. Advances in anterior cruciate ligament reconstruction.
+24. Vitamin D resistant rickets.
+25. Hyaline cartilage.
+26. Joint lubrication.
+27. DVT prophylaxis.
+28. Duchenne muscular dystrophy.
+29. Discoid meniscus.
+30. Hamilton Russell traction.
+31. Myositis ossificans.
+32. Scapular fracture.
+33. PCL deficient knee.
+34. Scaphoid nonunion.
+35. Damage control in orthopedics.
+36. Chance's fracture.
+37. Automatic bladder.
+38. Jumper's knee.
+39. Malgaigne fracture.
+40. Radiological features of Perthes disease.
+41. Spina ventosa.
+42. Foot drop.
+43. Chondrocalcinosis.
+44. Meniscal cyst.
+45. Multiple myeloma.
+46. Sever's disease.
+47. Myositis ossificans progressiva.
+48. Positron emission tomography.
+49. Bone banking.
+50. Methicillin-resistant Staphylococcus aureus.
+51. Floor reaction orthosis.
+52. Endoscopic disc surgery.
+53. Immunomodulators in rheumatoid arthritis.
+54. Bioabsorbable implants.
+55. Chemotherapy for osteosarcoma.
+56. Growth plate anatomy and its functions.
+57. Differentiate between osteopenia and osteoporosis.
+58. Glasgow coma scale.
+59. Methotrexate.
+60. Adult respiratory distress syndrome.
+61. Transfusion reactions.
+62. Types of biopsy.
+63. Recurrent dislocation of the shoulder.
+64. Pubic diastasis.
+65. Dunlop traction.
+66. McMurray’s osteotomy.
+67. Locked compression plate.
+68. Neglected tendocalcaneus injury.
+69. Odontoid fracture.
+70. Crutch gait.
