@@ -90,4 +90,4 @@ To subscribe for regular updates whenever a new blog post is published, please p
 <!-- End Mailchimp Signup Form -->
 ```
 
-By submitting your email address and clicking "Subscribe", you consent to receive updates whenever a new blog post is published. This will help us improve the meaning and content of our blog by keeping you informed about our latest articles and updates. Thank you for subscribing!
+By submitting your email address and clicking "Subscribe", you consent to receive updates whenever a new blog post is published. This will help me improve the meaning and content of the website by keeping you informed about our latest articles and updates. Thank you for subscribing!

@@ -3,9 +3,9 @@ title: "Introduction"
 order: 1
 ---
 
-In this part of the garden 🌱, you will have unlimited access to **high-quality notes covering all aspects of orthopaedics**. This 📔 is the part of contents used by me to prepare for my FRCS orthopaedic examination.
+In this part of the garden 🌱, you will have unlimited access to **notes covering all aspects of orthopaedics**. This 📔 is the part of contents used by me to prepare for my FRCS orthopaedic examination.
 
-The content is organized into several main sections, each divided into various subcategories that function as individual lessons. The goal is that, by completing the entire content, your knowledge will be thorough enough to pass the first part of the fellowship examination.
+The content is organized into several main sections, each divided into various subcategories that function as individual lessons. The goal is that, by completing the entire content, our knowledge will be thorough enough to pass the first part of the fellowship examination.
 
 ::: callout-note
 ## Important

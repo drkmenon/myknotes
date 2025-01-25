@@ -4,104 +4,326 @@ format: html
 editor: visual
 ---
 
-## Essays
+#MS ortho (2012-15)
 
-1. **What is osteosynthesis?**  
-   Describe ways to achieve osteosynthesis in the treatment of fractures with recent advances.
-   
-2. **Define osteoporosis.**  
-   Discuss the clinical features, causes, and management of generalized osteoporosis.
-   
-3. **With regard to slipped capital femoral epiphysis, discuss:**
-   - Prediction of contralateral slip.
-   - Treatment updates.
-   - Femoro-acetabular impingement associated with it.
-   
-4. **Discuss the blood supply of the talus.**  
-   Describe the clinical features, classification, and management of talus fractures.
+## Paper I - Basic Sciences Applied to Orthopaedics & Traumatology
 
-5. **Explain the anatomy of the brachial plexus.**  
-   Classify and discuss the management of brachial plexus injury.
-   
-6. **Discuss the pathogenesis, clinical features, and management of tuberculosis of the spine with paraplegia.**
+### Essays
+1. Describe the anatomy of the ilio-tibial tract. Discuss disorders associated with it.
+2. Discuss synovial fluid analysis. Describe the changes in synovial fluid in various pathological conditions of the knee.
+3. Discuss the microscopic structure of articular cartilage and the changes seen in osteoarthroses of a weight-bearing joint.
+4. Describe systemic response to trauma. Discuss classification and management of shock due to trauma.
+5. Discuss the pathogenesis of non-traumatic avascular necrosis of the femoral head in adults. Discuss the role of non-surgical management.
+6. Describe the anatomy of the intervertebral disc. Explain the pathogenesis, clinical features, and management of prolapsed intervertebral disc between L4 and L5 vertebra in a young adult.
+7. Define osteoporosis. Discuss clinical features, causes, and management of generalized osteoporosis (*).
+8. Describe the blood supply of the talus. Discuss the clinical features, classification, and management of talus fractures.
+9. Describe the extensor mechanism of the knee joint. Discuss the etiology, diagnosis, and management of recurrent dislocation of the patella.
+10. Explain the biomechanics of the thoraco-lumbar spine. Classify and discuss the management of thoraco-lumbar spine injuries.
 
-7. **Describe the etiology, modern diagnostic methods, prevention, and various management methods for osteoporosis.**
+### Short Essays
+1. Mechanism of tumour spread local and distant.
+2. Patho-mechanism of compartment syndrome.
+3. Anatomical factors contributing to knee stability.
+4. Pain management in orthopaedics.
+5. Imaging features of osteo-articular tuberculosis.
+6. Normal calcium metabolism.
+7. Safe surgical practice in orthopaedics.
+8. Hyperparathyroidism.
+9. Articular cartilage.
+10. Ortolani test.
+11. Giant cell variants.
+12. NCV (nerve conduction velocity).
+13. Bracing in Ponseti technique of clubfoot management.
+14. Madelung deformity.
+15. Charcot's joint.
+16. HIV in orthopaedics.
+17. CPPD (Calcium pyrophosphate dihydrate) arthropathy.
+18. Anatomy of brachial plexus (*).
+19. Congenital radio-ulnar synostosis.
+20. Blood supply of femoral head (*).
+21. TENS (Transcutaneous electrical nerve stimulation).
+22. Floor reaction orthosis (*).
+23. Myositis ossificans (*).
+24. Tension band principle.
+25. Vitamin D resistant rickets.
+26. Hyaline cartilage.
+27. Joint lubrication.
+28. DVT prophylaxis.
+29. Duchenne muscular dystrophy.
+30. Discoid meniscus.
+31. Hamilton Russell traction.
+32. Glasgow coma scale.
+33. Methotrexate.
+34. Adult respiratory distress syndrome.
+35. Transfusion reactions.
+36. Types of biopsy.
 
-8. **Describe the extensor mechanism of the knee joint.**  
-   Discuss the etiology, diagnosis, and management of recurrent dislocation of the patella.
-   
-9. **Explain the biomechanics of the thoraco-lumbar spine.**  
-   Classify and discuss the management of thoraco-lumbar spine injuries.
+---
 
-## Short Essays
+## Paper II - Traumatology and Fractures
 
+### Essays
+1. Classify the dislocation of the elbow joint. Discuss the management of different types of posterior dislocation of the elbow and enumerate complications.
+2. Classify calcaneal fractures and discuss the management of different types of calcaneal fractures.
+3. Describe carpal instability in detail. Discuss the management of a patient aged 30 years with a 2-month-old untreated perilunate dislocation.
+4. Describe aetiopathology and clinical features of traumatic knee dislocation. Discuss its management.
+5. Discuss the role of the anterior cruciate ligament (ACL) in stabilizing the knee. Describe the clinical features of an ACL-deficient knee. Discuss the surgical management. How does treatment differ in paediatric ACL injuries?
+6. Classify tibial plateau fractures and discuss its management.
+7. Explain the anatomy of the brachial plexus. Classify and discuss the management of brachial plexus injury (*).
+
+### Short Essays
+1. Dupuytren’s contracture.
+2. Bennett’s fracture (*).
+3. Crush syndrome (*).
+4. Essex Lopresti fracture.
+5. Bankart lesion.
+6. Phantom limb.
+7. Pedicular screw fixation.
+8. Stove-in chest.
+9. Hoffa’s fracture.
+10. Gamekeeper’s thumb.
+11. Stress shielding in compression fixation.
+12. Tillaux fracture (*).
+13. Treatment of DVT.
+14. MIPPO technique.
+15. Management of infected non-union tibia.
+16. Flail chest.
+17. Jefferson’s fracture.
+18. JESS.
+19. Lag screw principle.
+20. Fish tail deformity of distal humerus.
+21. Fracture disease.
+22. Lisfranc fractures (*).
+23. Scapular fracture (*).
+24. PCL-deficient knee (*).
+25. Damage control in orthopaedics (*).
+26. Chance's fracture (*).
+27. Automatic bladder (*).
+28. Jumper's knee (*).
+29. Malgaigne fracture (*).
+
+---
+
+## Paper III - Orthopaedic Diseases
+
+### Essays
+1. Discuss the clinical features and management of tuberculosis of the spine at the dorso-lumbar junction with neurological deficit (*).
+2. Discuss the pathogenesis, clinical features, and management of tuberculosis of the spine with paraplegia (*).
+3. Classify cerebral palsy. Discuss biomechanics of crouch gait. Outline the management of crouch gait.
+4. Classify bone tumours based on cell of origin. Discuss management of osteosarcoma in a 10-year-old. Add a note on limb salvage surgery.
+5. Discuss the pathophysiology, diagnosis, complications, and management of osteoporosis (*).
+6. Discuss the pathophysiology, clinical features, and diagnostic evaluation of lumbar canal stenosis. Discuss surgical management.
+
+### Short Essays
+1. Chordoma.
+2. Arthrogryposis multiplex congenita.
+3. Congenital pseudoarthrosis of tibia.
+4. Hallux valgus (*).
+5. DOTS regime for tuberculosis.
+6. Solid ankle cushion heel foot.
+7. Vertebra plana.
+8. Ulnar claw hand.
+9. Radiological features of Perthes disease.
+10. Spina ventosa.
+11. Foot drop.
+12. Chondrocalcinosis.
+13. Meniscal cyst.
+14. Multiple myeloma.
+15. Sever's disease.
+16. Myositis ossificans progressiva.
+17. Guided growth.
+
+---
+
+## Paper IV - Recent Advances in Orthopaedics and Traumatology
+
+### Essays
+1. What is osteosynthesis? Describe ways to achieve osteosynthesis in fracture treatment with recent advances.
+2. Discuss the management of painful total hip replacement. Discuss revision surgery and acetabular bone loss.
+3. Discuss the recent advances in the diagnosis and management of skeletal tuberculosis.
+4. Describe the etiology, modern diagnostic methods, prevention, and management of osteoporosis (*).
+
+### Short Essays
 1. Bearing surfaces in total hip replacement.
 2. Zolandronic acid.
-3. Tumor markers.
-4. Femoro-acetabular impingement.
+3. Tumour markers.
+4. Femoro-acetabular impingement (*).
 5. Bone cement.
 6. DEXA scan.
-7. Proximal femoral nail.
-8. Postoperative DVT: prevention, clinical features, and management.
-9. Chordoma.
-10. Arthrogryposis multiplex congenita.
-11. Congenital pseudoarthrosis of tibia.
-12. Hallux valgus.
-13. DOTS regime for tuberculosis.
-14. Solid ankle cushion heel foot.
-15. Vertebra plana.
-16. Ulnar claw hand.
-17. Simple bone cyst.
-18. Stem cells in orthopedics.
-19. Poller screw.
-20. Recent advances in internal fixation of distal tibial fractures.
-21. Fresh frozen allograft.
-22. Multidirectional instability of the shoulder.
-23. Advances in anterior cruciate ligament reconstruction.
-24. Vitamin D resistant rickets.
-25. Hyaline cartilage.
-26. Joint lubrication.
-27. DVT prophylaxis.
-28. Duchenne muscular dystrophy.
-29. Discoid meniscus.
-30. Hamilton Russell traction.
-31. Myositis ossificans.
-32. Scapular fracture.
-33. PCL deficient knee.
-34. Scaphoid nonunion.
-35. Damage control in orthopedics.
-36. Chance's fracture.
-37. Automatic bladder.
-38. Jumper's knee.
-39. Malgaigne fracture.
-40. Radiological features of Perthes disease.
-41. Spina ventosa.
-42. Foot drop.
-43. Chondrocalcinosis.
-44. Meniscal cyst.
-45. Multiple myeloma.
-46. Sever's disease.
-47. Myositis ossificans progressiva.
-48. Positron emission tomography.
-49. Bone banking.
-50. Methicillin-resistant Staphylococcus aureus.
-51. Floor reaction orthosis.
-52. Endoscopic disc surgery.
-53. Immunomodulators in rheumatoid arthritis.
-54. Bioabsorbable implants.
-55. Chemotherapy for osteosarcoma.
-56. Growth plate anatomy and its functions.
-57. Differentiate between osteopenia and osteoporosis.
-58. Glasgow coma scale.
-59. Methotrexate.
-60. Adult respiratory distress syndrome.
-61. Transfusion reactions.
-62. Types of biopsy.
-63. Recurrent dislocation of the shoulder.
-64. Pubic diastasis.
-65. Dunlop traction.
-66. McMurray’s osteotomy.
-67. Locked compression plate.
-68. Neglected tendocalcaneus injury.
-69. Odontoid fracture.
-70. Crutch gait.
+7. Stem cell therapy.
+8. Poller screw.
+9. Fresh frozen allograft.
+10. Recent advances in internal fixation of distal tibial fractures.
+11. Positron emission tomography.
+12. Bone banking.
+13. Methicillin-resistant Staphylococcus aureus.
+14. Platelet-rich plasma in orthopaedics.
+
+# 2015-18
+# Orthopaedic Question Bank
+
+## Paper I - Basic Sciences Applied to Orthopaedics & Traumatology
+
+### Essays
+1. Describe anatomy of ilio-tibial tract. Discuss disorders associated with it.
+2. Discuss synovial fluid analysis. Also describe the changes that occur (synovial fluid) in various pathological conditions of the knee.
+3. Discuss the microscopic structure of articular cartilage and the changes seen in osteoarthroses of a weight-bearing joint.
+4. Describe systemic response to trauma. Discuss classification and management of shock due to trauma.
+5. Discuss the pathogenesis of non-traumatic avascular necrosis of the femoral head in adults. Discuss the role of non-surgical management in avascular necrosis.
+6. Describe the anatomy of the intervertebral disc. Explain the pathogenesis, clinical features, and management of prolapsed intervertebral disc between L4 and L5 vertebra in a young adult.
+
+### Short Essays
+1. Mechanism of tumour spread local and distant.
+2. Patho-mechanism of compartment syndrome.
+3. Anatomical factors contributing to knee stability.
+4. Pain management in orthopaedics.
+5. Imaging features of osteo-articular tuberculosis.
+6. Normal calcium metabolism.
+7. Safe surgical practice in orthopaedics.
+8. Hyperparathyroidism.
+9. Articular cartilage.
+10. Ortolani test.
+11. Giant cell variants.
+12. NCV (nerve conduction velocity).
+13. Bracing in Ponseti technique of clubfoot management.
+14. Madelung deformity.
+15. Charcot's joint.
+16. HIV in orthopaedics.
+17. CPPD (Calcium pyrophosphate dihydrate) arthropathy.
+18. Anatomy of brachial plexus.
+19. Congenital radio-ulnar synostosis.
+20. Blood supply of femoral head.
+21. TENS (Transcutaneous electrical nerve stimulation).
+22. Floor reaction orthosis.
+23. Myositis ossificans.
+24. Tension band principle.
+25. Histopathology of osteosarcoma.
+26. Muscle spasticity and its medical management.
+27. Anatomical factors contributing to shoulder stability.
+28. Bisphosphonates (*).
+29. Informed consent for orthopaedic surgery.
+30. Bone mineralisation.
+31. Surgical site infection.
+32. Renal tubular acidosis.
+33. Gas gangrene (*).
+34. Bone remodelling.
+35. Drugs for gout.
+36. Compartments of leg.
+37. Nerve conduction study.
+38. Auto transfusion.
+39. Prevention of deep vein thrombosis (*).
+
+---
+
+## Paper II - Traumatology and Fractures
+
+### Essays
+1. Classify the dislocation of the elbow joint. Discuss the management of different types of posterior dislocation of the elbow and enumerate the complications.
+2. Classify calcaneal fractures and discuss the management of different types of calcaneal fractures.
+3. Describe carpal instability in detail and discuss the management of a patient aged 30 years with 2 months old untreated perilunate dislocation.
+4. Describe aetiopathology and clinical features of traumatic knee dislocation. Discuss its management.
+5. Discuss the role of the anterior cruciate ligament (ACL) in stabilizing the knee. Describe the clinical features of an ACL-deficient knee. Discuss the surgical management of this condition. How does treatment differ in paediatric ACL injuries?
+6. Classify tibial plateau fractures and discuss its management.
+
+### Short Essays
+1. Dupuytren’s contracture.
+2. Bennett’s fracture (*).
+3. Crush syndrome (*).
+4. Essex Lopresti fracture.
+5. Bankart lesion.
+6. Phantom limb.
+7. Pedicular screw fixation.
+8. Stove-in chest.
+9. Hoffa’s fracture.
+10. Gamekeeper’s thumb.
+11. Stress shielding in compression fixation.
+12. Tillaux fracture (*).
+13. Treatment of DVT.
+14. MIPPO technique.
+15. Management of infected non-union tibia.
+16. Flail chest.
+17. Jefferson’s fracture.
+18. JESS.
+19. Lag screw principle.
+20. Fish tail deformity of distal humerus.
+21. Fracture disease.
+22. Lisfranc fractures.
+23. Comparison of techniques of internal fixation of femoral trochanteric fractures.
+24. Pre-hospital care in polytrauma.
+25. Injury severity score.
+26. Radial neck fractures in children.
+27. Wound debridement in open fractures.
+28. Damage control surgery.
+29. Skeletal trauma in child abuse.
+30. Principles of locking plate.
+31. Scapulo-thoracic dissociation.
+32. Atlanto-axial rotary subluxation.
+33. Lateral condyle humerus fracture in a child.
+34. Traumatic upper brachial plexus injuries.
+35. Meniscal repair.
+
+---
+
+## Paper III - Orthopaedic Diseases
+
+### Essays
+1. Discuss the clinical features and management of tuberculosis of the spine at the dorso-lumbar junction with neurological deficit.
+2. Discuss in detail characteristics of synovial fluid and its role in diagnosis of common joint disorders.
+3. Classify cerebral palsy. Discuss biomechanics of crouch gait in cerebral palsy. Outline the management of crouch gait.
+4. Classify bone tumours based on cell of origin. Discuss management of osteosarcoma in a 10-year-old. Add a note on limb salvage surgery.
+5. Discuss the pathophysiology, diagnosis, complications, and management of osteoporosis (*).
+6. Discuss the pathophysiology, clinical features, and diagnostic evaluation of lumbar canal stenosis. Discuss the surgical management of lumbar canal stenosis.
+
+### Short Essays
+1. Factors influencing bone graft incorporation.
+2. Accessory navicular.
+3. Knee in cerebral palsy.
+4. Aneurysmal bone cyst.
+5. Radial club hand.
+6. Management of metastatic disease of bone.
+7. Crystal-induced arthropathy.
+8. Fungal osteomyelitis.
+9. Osteogenesis imperfecta.
+10. Hallux valgus (*).
+11. Management of infected total knee replacement.
+12. Bone grafting.
+13. Congenital vertical talus.
+14. Trendelenberg’s test.
+15. Cold abscess.
+16. Metatarsus adductus.
+17. Flat foot.
+18. Syndactyly.
+19. Skew foot.
+20. Dysplasia epiphysialis hemimelica.
+
+---
+
+## Paper IV - Recent Advances in Orthopaedics and Traumatology
+
+### Essays
+1. Classify meniscal injuries of the knee. Discuss the etiology, assessment, and management of this injury in a young sportsman. Enumerate the recent advances in management.
+2. Discuss the current status of articular cartilage transplantation and autologous chondrocyte implantation.
+3. Discuss the radioisotopes and their role in orthopaedics.
+4. Discuss the management of painful total hip replacement. What are the issues involved in revision surgery of total hip arthroplasty? Discuss management of acetabular bone loss.
+5. Describe the recent advances in the diagnosis and management of skeletal tuberculosis. What are the latest guidelines in the medical management of tuberculosis? Discuss newer anti-tuberculosis drugs.
+6. With regard to total hip replacement, discuss:
+   - Classification of periprosthetic fractures and its management.
+   - Diagnosis of periprosthetic infection and its management.
+
+### Short Essays
+1. Stem cell therapy.
+2. Vertebroplasty.
+3. Drug-resistant tuberculosis.
+4. Femero-acetabular impingement (*).
+5. Role of botulinum toxin in orthopaedics.
+6. Trabecular metal.
+7. Locked plates (*).
+8. Extra-corporeal irradiation for bone tumors.
+9. Reverse shoulder arthroplasty.
+10. Elastic nailing.
+11. Bone morphogenetic protein.
+12. Platelet-rich plasma in orthopaedics.
+13. Double bundle ACL reconstruction.
+14. Modern cementing technique.
+15. Uni-compartmental knee replacement.
+
