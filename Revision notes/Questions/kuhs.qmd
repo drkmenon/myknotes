@@ -390,7 +390,7 @@ editor: visual
 
 ### Basic Science
 
-### Essay
+#### Essay
 
 1.  Describe the biomechanics of hip joint and discuss about different gait patterns in diseases affecting the hip joint. (October 2018)
 2.  Describe the pathogenesis of fat embolism. Discuss the diagnosis and management of a patient with fat embolism. (April 2019)
@@ -399,7 +399,7 @@ editor: visual
 5.  Surgical anatomy of a synovial joint. Describe the etiopathology, clinical features and management of osteoarthritis knee. (June 2020)
 6.  Discuss the factors that influence bone healing after a fracture. What are the causes of non-union. Describe the radiological features. (May 2021)
 
-### Short Notes
+#### Short Notes
 
 1.  Carpal tunnel (October 2018)\*
 2.  Ilio-tibial tract (October 2018)\*
@@ -452,7 +452,7 @@ editor: visual
 
 ### Orthopaedic Disease
 
-### Essay
+#### Essay
 
 1.  Discuss the differential diagnosis for painful limp in an 8 years old child. Describe the management of Perthe’s disease. (October 2018)
 2.  Classify spondylolisthesis and discuss its management. (April 2019)
@@ -461,7 +461,7 @@ editor: visual
 5.  What do you mean by ‘gout’ & ‘pseudo gout’. Discuss the clinical features and management of gouty arthritis. (June 2020)
 6.  Discuss the static and dynamic stabilisers of shoulder joint. Describe the current concepts in management of recurrent shoulder dislocation with and without glenoid bone loss. (May 2021)
 
-### Short Notes
+#### Short Notes
 
 1.  Vitamin D resistant rickets (October 2018)
 2.  Staging of avascular necrosis of head of femur and outline its management (October 2018)
@@ -514,7 +514,7 @@ editor: visual
 
 ### Trauma
 
-### Essay
+#### Essay
 
 1.  Classify ankle fractures. Describe the mechanism of injury and discuss about the principles of management. (October 2018)
 2.  Classify the fractures of spine based on mechanism of injury. Enumerate complications in a patient with quadriplegia. Discuss the management of pressure sores. (April 2019)
@@ -523,7 +523,7 @@ editor: visual
 5.  Write on the classification, clinical features, management and complications of proximal humerus fracture in a young adult male. (June 2020)
 6.  Discuss the classification, mechanism of injury and clinical features of hip dislocations. Write on the management and complications of posterior dislocation of hip joint in a young adult male. (May 2021)
 
-### Short Notes
+#### Short Notes
 
 1.  Locking compression plate (October 2018)
 2.  Bennett's fracture (October 2018)\*
@@ -576,7 +576,7 @@ editor: visual
 
 ### Recent Advances
 
-### Essay
+#### Essay
 
 1.  Discuss the uses of isotopes in orthopaedics. Explain the management of multiple bone secondaries including recent advances. (October 2018)
 2.  Describe the various types of total hip replacement prostheses based on surfaces. Discuss their limitations. (April 2019)
@@ -584,7 +584,7 @@ editor: visual
 4.  Discuss the diagnosis, clinical scoring and management of CTEV. (June 2020)
 5.  Discuss the bearing surfaces in total hip arthroplasty with notes on the current concepts. (May 2021)
 
-### Short Notes
+#### Short Notes
 
 1.  Biodegradable implant (October 2018)
 2.  Bone substitute (October 2018)
@@ -631,7 +631,7 @@ editor: visual
 
 ### Basic Science
 
-### Essay
+#### Essay
 
 1.  Describe the physiological response after poly trauma and discuss in detail about damage control orthopaedics. (2021)
 2.  Describe anatomy and function of articular cartilage. Discuss the management and complications of a 28-year male Football player with Grade III isolated 3 x 3 cm osteochondral lesion of medial femoral condyle. (2022)
@@ -640,7 +640,7 @@ editor: visual
 5.  Describe the blood supply to femoral head in all age groups. Discuss the clinical implications in young child. (2024)
 6.  Write a note on patho-anatomy of tuberculosis knee joint in adult, clinical features, complications and management. (2024)
 
-### Short Note
+#### Short Note
 
 1.  Anatomy of median nerve. (2021)\*
 2.  Stabilisers of knee joint. (2021)
@@ -690,7 +690,7 @@ editor: visual
 
 ### Orthopaedic Disease
 
-### Essay
+#### Essay
 
 1.  50-year-old female with right Genu varum presents with pain & reduced activity of daily living for over 1 year. This has worsened following recent trauma. However, she has good Range of movement of knee. Discuss the management of such a case in detail. (2021)
 2.  25-year-old male sustained a twisting injury of his right knee. He could not continue the game as he developed immediate pain & knee swelling. He comes to your Emergency Medicine. Describe how will you proceed to manage such a case. (2022)
@@ -699,7 +699,7 @@ editor: visual
 5.  Describe the management of multiple lytic lesion of bone in a 65-year-old male. (2024)
 6.  Write on Enneking and Dunham classification and discuss in detail pelvic bone malignant tumours. (2024)
 
-### Short Note
+#### Short Note
 
 1.  Rickets. (2021)
 2.  Radioulnar synostosis. (2021)
@@ -752,7 +752,7 @@ editor: visual
 
 ### Trauma
 
-### Essay
+#### Essay
 
 1.  Describe the aetiopathology, classification and management of fractures of proximal femur in children. Add a note on its complications. (2021)
 2.  Classification, mechanism of injury, clinical features of traumatic elbow dislocation. Describe management and complications of Postero lateral dislocation of elbow. (2022)
@@ -761,7 +761,7 @@ editor: visual
 5.  Classify thoraco lumbar spine injuries and discuss its management. (2024)
 6.  Classify talus fracture and its clinical features, complications and discuss management. (2024)
 
-### Short Note
+#### Short Note
 
 1.  Monteggia equivalents. (2021)
 2.  Intra-compartment pressure monitoring. (2021)
@@ -813,7 +813,7 @@ editor: visual
 
 ### Recent Advances
 
-### Essay
+#### Essay
 
 1.  What are musculoskeletal symptoms in Covid infection. Describe post Covid consequences in musculoskeletal system and management, with a note on trends and challenges in post Covid orthopaedic trauma management in India. (2021)
 2.  Haemophilic arthropathy of knee. Discuss the plan and management strategies for total joint replacement of knee in such a case. (2022)
@@ -821,7 +821,7 @@ editor: visual
 4.  Recent advances in evaluation and management of infection following total knee replacement. (2024)
 5.  Discuss the management of painful total knee replacement. What are the issues involved in revision knee. What are the recent developments in total knee replacement. (2021)
 
-## Short Note
+#### Short Note
 
 1.  High tibial osteotomy. (2021)
 2.  Lumbar and cervical visco elastic disc replacement. (2021)
