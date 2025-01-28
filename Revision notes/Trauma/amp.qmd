@@ -1,0 +1,340 @@
+---
+title: "Amputations"
+format: html
+editor: visual
+---
+
+## Metabolic Cost of Amputation
+- Increases the more proximal the amputation
+- Inversely proportional to length of stump or number of functional joints
+
+## Soft Tissue Envelope
+- Provides cover for the bony stump
+- Ideally should have:
+  - A mobile muscle mass
+  - Full thickness skin
+  - Mobility reduces shear stress on the prosthesis
+    - Reduces skin ulceration or breakdown
+
+## Load Transfer
+- Refers to how the body's load is transferred to the prosthetic socket
+
+### Direct or Indirect
+- **Direct**:
+  - For end-bearing stumps – symes or through knee
+  - Prosthetic socket fit allows suspension
+- **Indirect**:
+  - Load is not transferred directly to the socket from the stump
+  - Load transferred by the total contact method
+  - Refers to amputations through long bones
+  - To work, the indirect method needs:
+    - 10 degrees flexion in knee for a trans-tibial
+    - 10 degrees adduction & flexion in hip for a transfemoral
+
+## Pre-requisites for Stump Healing
+1. Nutrition
+2. Vascularity
+3. Stumps heal by collateral flow
+4. Blood Oxygenation
+5. Stable well-oxygenated patient with Hb >10
+
+## Ischaemic Index
+- Ratio of Systolic BP at surgical level to the Brachial BP
+- Minimum required is 0.5 for wound healing
+- Ischaemia may occur if <0.8
+
+## Transcutaneous Oxygen Partial Pressure
+- Gold standard for measurement of vascular inflow to the skin
+- >40 mmHg indicates good perfusion
+- <20 mmHg indicates wound healing will be poor
+
+## Paediatric Amputations
+- Main issue is bony overgrowth within a stump due to open physes
+- If occurs, needs stump revision
+- Most commonly occurs in the humerus and fibula
+
+## Amputation after Trauma
+- Amputation may provide better outcomes than salvage
+- See MESS score
+
+### Upper Limb
+- Sensation more important than lower limb
+- Prehensile function important also
+- Insensate upper limb may be better amputated
+- If prehensile function is possible and sensation intact, use salvage
+- Leave as much length as possible
+
+### Lower Limb
+- Plantar sensation loss is a relative indication to amputate
+- But – be very careful
+  - The sensation could return if it is a neuropraxia
+  - Therefore preserve if possible
+
+## Technical Considerations
+- Full thickness skin flaps
+- Do not dissect between tissue planes
+- Strip periosteum at amputation level – minimizes heterotopic bone
+- Perform a Myodesis rather than a myoplasty
+- Secure muscles to bone at resting length rather than to their antagonist
+- Nerves should be pulled and cut clean with a knife
+- All patients develop neuromas
+- Aim is to allow neuroma to sit away from skin, well covered and deep
+- Crushing nerve increases incidence of phantom pain
+
+## Complications
+1. Wound breakdown/infection
+2. Poor limb fitting of stump
+3. Phantom pain
+4. CRPS (Complex Regional Pain Syndrome)
+5. Localized stump pain
+6. Mechanical usually related to bone end
+7. May be from a neuroma
+
+## Amputation Level | % Energy Above Baseline | Speed (m/min) | O2 Cost (mL/kg/m)
+- **Long transtibial**: 10 | 70 | 0.17
+- **Average transtibial**: 25 | 60 | 0.20
+- **Short transtibial**: 40 | 50 | 0.20
+- **Bilateral transtibial**: 41 | 50 | 0.20
+- **Transfemoral**: 65 | 40 | 0.28
+- **Wheelchair**: 0-8 | 70 | 0.16
+
+## Soft Tissue Coverage & Microsurgery
+
+### Reconstructive Ladder
+1. Primary closure
+2. Secondary intention
+3. STSG (Split Thickness Skin Graft)
+4. FTSG (Full Thickness Skin Graft)
+5. Local Flap coverage
+6. Free Flap coverage
+
+### Healing by Secondary Intention
+- Granulation tissue, epithelization, contracture of skin
+- Not advised if tendon, nerve, or bone is exposed in wound bed
+
+### Skin Grafting
+- Skin grafts receive their blood supply by diffusion from the wound bed
+- Failure of graft to take is due to:
+  - Shear stress and hematoma formation
+
+#### Split Thickness Skin Graft
+- Preferred for dorsal hand wounds
+- Meshing increases surface area and prevents hematoma accumulation
+- Typical donor site: anterolateral thigh
+- Thickness: 0.005-0.03 inches – 0.015 common
+- Thicker grafts contain hair follicles and sweat glands (may or may not be preferred)
+
+#### Full Thickness Skin Graft
+- Higher chance of viability
+- Better re-innervation
+- Better cosmetic appearance; less scar contraction
+- Preferred for palmar defects
+- Typical donor site: volar wrist or forearm
+
+### Flaps
+- Tissue unit containing a blood supply taken from a donor site and re-implanted into the wound bed
+- Donor site where flap is taken from can be closed primarily or skin grafted
+- Flaps may be classified by:
+  - Tissue type
+  - Blood supply
+  - Donor site location
+
+#### Classification by Tissue Type
+- **Cutaneous**: contain skin and subcutaneous tissue
+- **Fasciocutaneous**: contain skin, SC tissue, and fascia
+- **Musculocutaneous**: skin, SC tissue, fascia, and muscle
+- **Osteocutaneous**: skin, SC tissue, fascia, muscle, and bone
+
+#### Classification by Pattern of Blood Supply
+- **Axial Pattern Supply Flap**:
+  - Blood supply is based on a named artery and its draining vein
+  - Allows larger flaps to be grafted
+  - More likely to take
+  - Lower infection rate
+- **Random Pattern Flap**:
+  - Vessels within the flap are allowed to micro-anastomose with those in the wound bed
+
+#### Classification by Donor Location
+
+##### Local Flaps
+- **Transposition Flap**:
+  - Geometric in design and designed to close or lengthen a wound without having to actually free raise any tissue
+  - Classic example: Z-plasty – used for:
+    - Lengthening a scar (e.g., a scar within a flexion contracture)
+    - Preventing formation of contracture (crossing creases)
+    - Re-orientating a cosmetically bad scar (soft indication)
+    - All limbs must be equal length
+    - Full thickness skin flap raised
+    - Tissues undermined enough to allow mobilization of limbs
+    - Triangular flaps transposed around each other
+    - 30-degree angle gives a 25% lengthening
+    - 45-degree angle gives a 50% lengthening
+    - 60-degree angle gives 75% lengthening
+
+- **Rotation Flaps**:
+  - Random pattern with regard to blood supply
+  - Length of flap should not exceed width of base
+
+- **Advancement Flaps**:
+  - VY plasty and Moberg flaps
+  - Proceed in a straight line to fill the defect
+
+- **Axial Flag Flaps**:
+  - Based on the dorsal digital artery
+  - Can be homodigital (used to fill defect on same digit) or heterodigital (transferred to an adjacent digit)
+
+- **Fillet Flap**:
+  - Tissue taken from an amputated digit not for replantation
+
+##### Distant Flaps
+- When there is inadequate local tissue for coverage
+- Example: placement of hand into a groin or abdominal pouch
+
+##### Free Flaps
+- Distant axial pattern flap based on a named AV blood supply
+- Transferred and re-anastomosed to the local vasculature
+- Lat Dorsi Flap (Thoracodorsal artery) typical
+- Serratus Anterior (subscapular artery branch)
+
+### Flap Selection in the Hand
+
+- **Finger Tip – Volar**:
+  - VY Advancement
+
+- **Finger Tip – Volar oblique or Dorsal**:
+  - Cross Finger Flap (older patients)
+  - Thenar Flap (young patients)
+
+- **Volar Proximal Finger**:
+  - Cross Finger Flap
+
+- **Dorsal Proximal Finger**:
+  - Reverse Cross Finger
+
+- **Volar Thumb**:
+  - Moberg Advancement if <2cm defect
+  - FDMA if 2-4cm
+  - Neurovascular Island Flap if >4cm
+
+- **Dorsal Thumb**:
+  - FDMA (First Dorsal Metacarpal Artery Flap)
+
+- **1st Web Space**:
+  - Z Plasty
+
+- **Dorsal Hand**:
+  - Groin Flap
+
+## Traumatic Amputations
+
+### Indications for Replantation
+- **Multiple Digits**:
+  - Will allow early ROM and rehab = good predictable result
+- **Thumb**
+- **Any digit in child**
+- **Mid-Palmar amputation**
+- **Any proximal amputation**:
+  - Results with reimplantation better than prosthetic
+  - Sensibility and coordinated function
+- **Single digit distal to FDS insertion (within flexor zone 1)**:
+  - Relative indication
+  - Will be able to rehab better than proximal amputation
+
+### Contraindications
+- **Single digit proximal to FDS (flexor zone 2)**
+- **Crush injury**
+- **Segmental amputation**
+- **Prolonged ischaemic time**
+
+### Care of the Amputated Part
+- Place in saline-soaked gauze within a plastic bag in an ice bath
+- Transport at 4 degrees is ideal
+
+### Viable Ischaemic Time
+- Viable time is less for body parts containing muscle
+- Muscle very sensitive to ischaemia
+- Results in increased infection risk and necrosis
+- **For Hand**:
+  - 12 hours warm ischemia and 24 hours cold ischemia time
+- **Proximal to carpus**:
+  - 6 hours warm ischemia and 12 hours cold ischemia time
+
+### Order of Replantation for Hand and Digits
+1. Digit
+2. Thumb (provides 40% hand function)
+3. Middle
+4. Ring
+5. Little
+6. Index
+7. Structure:
+  - Bone
+  - Extensor Tendon
+  - Flexor Tendon
+  - Artery
+  - Nerve
+  - Vein
+  - Skin
+
+### Technique
+- **For multiple digital amputation** use:
+  - **Structure by structure**:
+    - Faster
+    - Higher viability rate
+  - **Digit by digit**:
+    - Slower
+  - **Transpositional Replantation**:
+    - Most viable digit re-planted to most important finger
+    - Not as good as anatomic replantation if possible
+
+### Other Technical Points
+- Sympathetic block in axilla
+- Abx and tetanus cover
+- Dedicated replant team with practice in the lab gives best results
+- Use longitudinal mid-lateral incisions
+- Shorten bones before fixing – reduces tension on soft tissues
+- 10 nylon adventitial repair to artery
+- 10 epineureal repair for nerves – graft if irreparable (MCNF)
+
+## Post-operative Management
+- Hydrate patient
+- Keep warm
+- Anticoagulation:
+  - Careful not to overdose – may cause hematoma
+- Avoid vasopressors (nicotine, caffeine etc.)
+- Monitor O2 sats and skin temperature:
+  - Drop in temperature by 2 degrees in 1 hour or absolute temperature of 30 degrees indicates unsatisfactory perfusion
+
+## Complications
+- **Failure**:
+  - **Early**:
+    - Arterial thrombosis due to persistent vasospasm
+    - Administer heparin, warm finger, stellate ganglion blockade
+  - **Late (>12 hours)**:
+    - Venous thrombosis/congestion
+    - Can be treated with leeches or heparin-soaked gauze
+- **Re-perfusion injury**:
+  - Ischaemia induces hypoxanthine conversion to xanthine
+  - Allopurinol given to prevent this
+- **Myonecrosis and renal failure**
+- **Infection**
+- **Hypersensitivity**
+- **Cold intolerance**
+
+## Results of Replantation
+- Best predictor of survival is:
+  - Mechanism of injury (sharp better than blunt)
+- Following this:
+  - Ischaemic time is main factor (<8 hours = optimal results)
+- **Function**:
+  - Digital replantation can expect 50% ROM and 10mm 2PD
+
+## Forearm and Arm Replantation
+- Establish arterial flow first if possible
+- Minimizes warm ischaemia time
+- Prophylactic fasciotomies for all patients
+
+## Ring Avulsion Injuries
+- Avulsion of soft tissues and NV structures from finger
+- **Type 1**: NV viable – treat as soft tissue injury
+- **Type 2**: Vascular insufficiency – replant if bone/tendon intact
+- **Type 3**: Complete avulsion with bone exposed – amputated

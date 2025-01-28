@@ -1,0 +1,55 @@
+---
+title: "Hemiarthroplasty for Proximal Humerus Fracture"
+format: html
+editor: visual
+---
+
+## Patient Selection
+
+### Patient Factors
+- Low demand
+- Over 75 years unless very fit
+- Females > Males (osteoporotic bone)
+
+### Fracture Factors
+- Head split fractures
+- Delayed fracture dislocations
+- >20 degrees of initial varus malalignment and if anatomical reduction of the medial hinge cannot be achieved intra-operatively
+
+### Salvage
+- For failed ORIF, AVN, non-union, or malunion
+
+## Factors that Result in a Good Hemiarthroplasty
+
+### Tuberosity Reduction and Healing
+- GT should be 10 – 15 mm from the top of the prosthesis
+- Reduce tuberosities to where they sit comfortably, then adjust head height
+- Use humeral head bone graft under and around tuberosities
+- Suture tuberosities to each other, around stem and around shaft
+- Consider XR to confirm position
+
+### Humeral Head Height
+- Do not leave the humeral head too proud – results in tuberosity detachment
+- Do not leave it too short – alters mechanics of cuff and renders it useless
+- Top of pec major tendon should be 5.6 cm below top of head
+- Tuberosity should be 10-15 mm below top of head
+
+### Humeral Head Version
+- Normal version is between 15 – 30 degrees
+- Common mistake is excessive retroversion resulting in posterior instability
+- Reference of transepicondylar axis
+- Aim for 20-30 degrees
+- Can use bicipital groove as reference point – lateral fin of a 3-fin prosthesis will generally lie 30 degrees posterior to the posterior margin of the biceps groove
+
+## Complications
+- Dislocation
+- Glenoid erosion
+- Iatrogenic fracture
+- Tuberosity non-union or malunion
+- Poor cuff function (pre-existing cuff disease)
+
+## Outcomes
+- Best results if done early (<2 weeks)
+- If done as the primary procedure (i.e., not salvage)
+- If tuberosities heal in anatomic position
+- Expect 90 degrees abduction, 30 degrees ER, and 100 degrees FF

@@ -1,0 +1,50 @@
+---
+title: "Trauma Severity Scores"
+format: html
+editor: visual
+---
+
+## Abbreviated Injury Scale (AIS)
+- Introduced in 1969
+- Injuries ranked 1-6 (1 minor and 7 unsurvivable)
+
+### AIS Score | Injury
+- **1**: Minor
+- **2**: Moderate
+- **3**: Serious
+- **4**: Severe
+- **5**: Critical
+- **6**: Unsurvivable
+
+- AIS ranking system is used to create an ISS score
+
+## Injury Severity Score (ISS)
+- An anatomic scoring system that grades the severity of an injury as a whole
+- 6 body regions each given its own AIS score
+- Top 3 AIS scores squared and added together to give final ISS score
+- ISS is automatically 75 if any AIS is 6 (unsurvivable)
+- Rising ISS score does correlate with mortality
+- ISS >25 indicates a severe injury
+  - Should be considered for transfer to a trauma centre
+- ISS >40 indicates a life-threatening injury
+
+### Disadvantages of ISS
+1. Any error in AIS increases the ISS
+2. Does not weight body areas independently
+3. Many different injury patterns give the same ISS score
+4. Only one score per body area is allowed – excludes multiple injuries within one area
+
+### Body Region | Injury Description | AIS | Square of Top 3
+- **Head & Neck**: Cerebral contusion | 3 | 9
+- **Face**: No injury |   |   
+- **Chest**: Flail chest | 4 | 16
+- **Abdomen**: Liver laceration | 4 | 16
+- **Extremity**: Femur fracture | 3 |   
+- **External**: No injury | 0 |   
+- **Total ISS score** |   |   | 41
+
+## NISS
+- Modification to the ISS
+- Allows top AIS scores to come from the same body segment
+  - E.g., Splenic, pancreatic, and liver injuries are scored separately and can be used individually to generate the NISS score disregarding lesser injuries elsewhere
+- This is more realistic in determining the patient's survival

@@ -1,0 +1,106 @@
+---
+title: "Humeral Shaft Fractures"
+format: html
+editor: visual
+---
+
+## Anatomy
+
+### Spiral Groove
+- Radial nerve crosses humerus midpoint 14cm proximal to lateral epicondyle
+
+### Lateral Intermuscular Septum
+- 7-10 cm above lateral epicondyle
+
+### Anterolateral Approach
+- Best for proximal 2/3 fractures
+
+### Posterior Approach
+- Best for distal 1/2 humerus
+
+## Non-Surgical Management
+- Most common deformity is varus
+- Acceptable deformity:
+  - 30 degrees in coronal plane - varus is worse as it reduces shoulder abduction
+  - 20 degrees in sagittal plane
+  - cm shortening
+
+### Treatment
+- Coaptation splinting in a U slab for comfort
+- Or collar and cuff initially
+- Application of functional brace at 1 week
+- Serial brace tightening to prevent slipping
+
+### Results
+- 2% (closed) and 6% (open) non-union rate - Sarmiento JBJSam 2000
+- Mild deformity does not affect functional outcome
+- Bracing worked as well for all types and location of fracture
+
+## Operative Treatment
+
+### Indications (All Relative)
+- Even open fractures have been managed non-operatively
+
+### Indications for Surgery
+- Inability to maintain closed reduction within acceptable parameters, especially varus
+- Open fracture
+- Simple fracture patterns, especially transverse and short oblique
+- Polytrauma
+- Floating elbow
+
+### Overall Results
+- Surgery has a lower malunion and non-union rate
+
+## Method of Fixation
+
+### Ex Fix
+- Indicated for polytrauma or gross contamination
+
+### Safe Zones
+- **Proximal 1/3**: 
+  - Through the anterolateral fibers of deltoid – avoid axial nerve and LHB
+- **No safe zone in middle 1/3**
+- **Distal 1/3**: 
+  - Posterior, posteromedial, or posterolateral above olecranon fossa
+
+### Plate
+- Large fragment plate
+- 8 cortices either side of fracture traditionally
+- 6 cortices if good lag screw
+- If bridge plating, consider working length rather than the absolute number of screws
+
+### IM Nailing
+- Problem: shoulder pain and cuff damage
+- Risk of nerve and vascular injury during locking
+
+### Plate vs. Nail
+- Meta-analysis Mo Bandhari Acta Orthopedica 2010:
+  - Complication rate with IM nailing is higher:
+    - Shoulder pain
+    - Re-operation
+    - Delayed but not non-union
+
+## Radial Nerve Palsy
+
+- Systematic review of 4000 patients Gianoudis JBJSBr 2005:
+  - 11% risk of radial nerve palsy
+  - 24% for distal 1/3 fractures
+  - Higher in spiral and transverse fractures
+  - Spontaneous recovery in 70% at a mean of 7 weeks (longest 6 months)
+  - EMG at 6 weeks if no recovery at all:
+    - Look for fibrillations and sharp waves
+    - Repeat at 3 months
+    - If no activity at 3 months, refer to specialist unit
+  - Exploration should not be delayed beyond 6 months in the presence of no activity
+
+### Indications for Exploration
+- Open penetrating or high energy injury with palsy (higher incidence of laceration)
+- Nerve deficit after reduction and a Holstein-Lewis fracture is a soft indication (not proven beneficial in the literature)
+
+## Non-Union
+
+- Work up patient to identify cause:
+  - Smoking
+  - Infection
+- Requires ORIF, bone grafting, and compression plating
+- Compression plating alone suffices if it is a hypertrophic non-union

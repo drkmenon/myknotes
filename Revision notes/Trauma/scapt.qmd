@@ -1,0 +1,43 @@
+---
+title: "Scapulothoracic Dissociation"
+format: html
+editor: visual
+---
+
+## Incidence
+- Rare but severe injury
+
+## Mechanism
+- High energy MVA 90%
+- Traction injury of arm
+
+## Pathoanatomy
+- Scapulothoracic articulation is avulsed
+- Clavicle fracture or ACJ disruption occurs
+- Effectively a traumatic, internal forequarter amputation
+
+## Associated Injuries
+- 10% incidence of death
+- 80% complete plexus injury
+- 80% vascular injury
+- 15% partial plexus injury
+- Chest
+- Spine
+- May be no fractures
+
+## Diagnosis
+- Non-rotated AP XR shows increased distance from midline
+- Associated clavicle fracture
+
+## Management
+- Reduction
+- Angiography as standard
+- Scapulothoracic fusion
+- Primary amputation
+- Decision making determined by:
+  - Degree of plexus injury
+  - Degree of vascular injury
+
+## Outcome
+- Poor
+- Best determined by presence of complete plexus injury

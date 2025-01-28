@@ -1,0 +1,87 @@
+---
+title: "Management of bone defects"
+format: html
+editor: visual
+---
+
+## OSTEOBIOLOGICS
+
+### DBM (Demineralized Bone Matrix)
+- Acid extraction of mineralized extracellular matrix allograft leaving proteins, including bone morphogenic proteins
+- **Problems**:
+  - Variable composition & quality depending on manufacturing and donor
+  - Highly osteoconductive but not very inductive
+- **Good reports** when used with autologous cancellous graft & titanium cages for very large defects, but all anecdotal with low quality evidence
+
+### Bone Marrow Aspirations
+- Theory: eliminates graft site morbidity and has a high level of osteoprogenitor cells, providing osteoinductive properties
+- Used in combination with cancellous allograft, has had good results but very poor quality evidence
+
+### Bone Morphogenic Proteins (BMPs)
+- Extensive research into these - multiple potential applications
+- **Benefit**: Highly osteogenetic and inductive
+- When used with a structural allograft, shown to be at least equal to cancellous autograft for tibial non-union (Level 1 RCT)
+- **Potential issues**: Cost implications & availability
+
+## LARGE DIAPHYSEAL DEFECTS
+- Options include some of the above or:
+  - Free fibula transfer
+  - Bone transport
+  - Amputation
+
+### Free Fibula Transfer (FFT)
+- Extensive resources and time required
+- Relatively high failure rate (of vascular anastomoses)
+- Graft site morbidity
+- Recent comparative study favored bone transport over FFT
+
+### Bone Transport (BT)
+- Probably the gold standard for limb salvage of large post-traumatic defects
+- Dock and distract together or shorten then transport separately
+- Requires patient compliance due to long treatment time
+- Complications include pin site infection, re-fracture, and non-union
+
+### Amputation
+- Must be considered a viable option, but no comparative evidence supports it over salvage
+- Include the patient in the decision-making process
+- Cheap, least complications, and lower monetary cost
+
+## Principles of Ilizarov and Distraction Osteogenesis
+- Powerful means of correcting deformity, lengthening a limb, or stabilizing a fracture
+
+### Principles of Distraction
+- Corticotomy (low energy) with a drill and osteotome
+- Solid stabilization in a frame
+- Latent period of 7-10 days
+- Distraction at 1mm per day maximum in 3 divided increments
+- Monitoring by serial X-rays to look at regenerate
+- Static phase to allow regenerate to consolidate:
+  - Should be at least as long as distraction phase
+- **Regenerate** comprises a central radiolucent fibrous zone of type 1 collagen:
+  - Consolidation of the initially radiolucent zone occurs by trabecular formation spanning the bone ends
+  - Trabecular columns are oriented parallel to the direction of distraction
+  - Columns are surrounded by blood vessels
+- 10% lengthening at a time is tolerated by muscle; histologic changes after 30%
+- Nerve and vascular changes occur but tend to be temporary
+
+### Mechanical Properties of Ilizarov Fixators
+- Stability determined by the ring and connecting bars
+- Complete rings are more rigid
+- Reducing ring size by 2cm increases rigidity by 70%
+- Use the smallest possible ring
+- Leave 2cm between skin and frame
+- Partial rings are useful around joints
+- **2 rings (near-far) per bone segment**
+  - Intervening free rings if distances are very long
+- **Wires**:
+  - Minimum of 2 wires per ring – more if possible
+  - 90 degrees crossing angle (minimum 60 degrees – allows bone to slide)
+  - Thicker wires are stiffer
+  - Olive tip wires are better
+  - Tensioning the wires increases stiffness (aim for 130Nm)
+- **HA Coated Half Pins**:
+  - Better resistance against loosening
+  - Good in deformity correction where frames are on for long durations
+- **Taylor Spatial Frame**:
+  - Easier for deformity correction but can also be done with Ilizarov
+  - Utilizes frames with strategically placed hinges

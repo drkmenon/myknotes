@@ -1,0 +1,363 @@
+---
+title: "Limb Deformity"
+format: html
+editor: visual
+---
+
+# Evaluation & Management
+
+## History
+
+-   General questions about how the deformity came about, timings, etc.
+-   Specifically:
+    -   Is there pain?
+    -   What are the functional limitations?
+    -   Are there signs of sepsis?
+
+## Examination
+
+-   Manual stressing of the malunion site:
+    -   Is it painful or does it move?
+    -   Solid malunion should be immobile and pain-free
+-   Soft tissues:
+    -   Amenable to further surgery
+    -   Signs of infection
+-   ROM of joint below and above:
+    -   Is there a compensatory deformity at the joint?
+    -   If so, is this fixed – will it need correction concurrently?
+-   Functional problems:
+    -   Gait
+    -   Simple upper limb functions
+-   Leg lengths – true and apparent
+-   Neurovascular status
+
+## X-Ray Evaluation
+
+-   Full-length weight-bearing views where possible:
+    -   Taken on a 51-inch cassette
+-   True AP and lateral films of the affected segments
+-   Overall Limb Alignment:
+    -   Mechanical axis
+    -   Anatomic axis
+    -   Deformity plane
+    -   Joint deformity
+    -   Centre of Rotation of Angulation (CORA)
+
+### Anatomic Axis
+
+-   A through the center of the diaphysis of a bone at at least 3 points
+-   In a deformity, each segment of bone may have a different anatomic axis
+
+### Mechanical Axis
+
+-   A line between the centre of the joints above and below a bone
+
+### Joint Orientation Lines
+
+-   Lines representing the orientation of a joint to the respective mechanical and anatomic axes of a bone
+-   Can tell you if there is deformity near the joint or in the diaphysis alone
+
+### Angles to Assess in Lower Limb:
+
+-   **LPFA**: Lateral Proximal Femoral Angle
+-   **mLDFA**: Mechanical Lateral Distal Femoral Angle
+-   **aLDFA**: Anatomic Lateral Distal Femoral Angle
+-   **JLCA**: Joint Line Congruence Angle
+-   **MPTA**: Medial Proximal Tibia Angle
+-   **LDTA**: Lateral Distal Tibia Angle
+-   **MNSA**: Medial Neck Shaft Angle
+
+### MAD (Mechanical Axis Deviation)
+
+-   Shows how far the mechanical axis of the limb has deviated from the centre of the knee
+-   Used for calculating the degree of varus/valgus at the knee
+
+### CORA – Centre of Rotation and Angulation
+
+-   Deformities are rarely just angular in one plane
+-   Usually are multiplanar with translational and rotational elements
+-   CORA plotting shows the COR of the deformity for correction
+-   CORA does not account for rotation as it is based on 2D X-rays
+-   CORA represents a point in space between the mechanical axes of the deformity
+-   CORA illustrates the necessary site of osteotomy to correct the deformity - this may be outside the bone!
+-   In a uniplanar angular deformity only, the CORA is at the site of apparent angulatory deformity
+-   When deformity is due to angulation and translation, the CORA will not be at the site of apparent angulation
+
+### Bissector
+
+-   The Bissector is a line that bisects the CORA and the angle formed by the two mechanical axes that create the deformity
+-   Any point along the bisector is effectively a CORA because correction along the bisector will correct the deformity
+-   The further along the bisector, away from the CORA the osteotomy is made, the larger the opening required to correct the deformity
+
+### Saggital Plane Deformity
+
+-   Better tolerated therefore more priority is given to AP deformity
+-   All the same angles can be plotted in the saggital plane
+
+### Rotatory Deformity
+
+-   Measurement is difficult
+-   Best way is probably clinically using rotational profiles
+-   Axial CT or MRI is another alternative
+-   Is rotation causing a functional problem?
+    -   \<10 degrees usually poorly tolerated
+
+### Clinical Assessment of Rotation
+
+#### Tibial Malrotation
+
+-   Use the line of the foot (2nd toe to centre of calcaneus) compared to either the tibia or femur of both legs
+-   If using femur, patient prone or sat with knees flexed at 90 degrees
+    -   Look at deviation of foot away from the femoral axis
+    -   Foot axis, tibia axis, and femoral mechanical axis should all be in one line
+-   If using the tibia, patient stands with patellae pointing forwards
+    -   Assess the deviation of the foot away from the axis of the tibia
+
+#### Femoral Malrotation
+
+-   Patient prone, knees at 90 degrees and femoral condyles parallel to couch
+-   Passively internally & externally rotate hips
+    -   Observe the degree of excursion of the tibiae between the two legs
+-   Beware of a concurrent tibial angulatory deformity, which can cause an apparent femoral angulatory deformity
+
+## Upper Limb Deformity
+
+-   Same principles but in general deformities are better tolerated
+
+## General Principles of Treatment
+
+### Order of Correction
+
+-   Angulation \> Translation \> Length \> Rotation \> +/- Translation again
+-   Correction of rotation may cause another translatory deformity, which will need correcting again
+
+### Soft Tissues
+
+-   Are the soft tissues amenable to the various corrective options?
+-   Where are the NV bundles in relation to the deformity?
+    -   If on the concave side, they will be stretched in the correction
+
+### Osteotomies
+
+-   Opening or closing wedge
+-   Dome
+-   Ideally perform osteotomy at the CORA or along the bisector
+-   The further along the bisector away from the CORA the osteotomy is made, the larger the opening required to correct the angulation
+-   Osteotomy may not be able to be performed at the CORA
+-   Osteotomies away from the CORA can also correct the angulation but will result in lengthening, shortening, or translation, which will then need correction
+    -   This is often the case in periarticular, multiplanar deformity
+
+### Methods of Correction
+
+-   Simple osteotomies with plate or IM nail fixation are good for uniplanar deformity where the CORA is at the deformity
+-   Ilizarov or Taylor Spatial Frame are better for multiplanar deformities and where length needs to be adjusted
+    -   This avoids multiple osteotomies and soft tissue violation
+-   Principles of defining the deformity, CORA, and Bisector are the same though
+
+# Management of Segmental Bone Defects
+
+## Causes of SBDs
+
+-   Acute high energy trauma with bone loss
+-   Chronic infection requiring bone debridement
+-   Non-union with osteolysis
+
+## Management
+
+-   Depends on:
+    -   Defect size
+    -   Location
+    -   Patient & surgeon factors
+-   Critical size defect in general terms is 2cm or more or is 50% loss of the circumference of the bone
+
+### Management Options
+
+-   Amputation
+-   Acute Shortening
+-   Massive Cancellous Autograft
+-   Local Fibula Graft (in tibial PTSBD)
+-   Masqulet Technique
+-   Distraction Osteogenesis
+-   Free Vascularized Bone Transfer
+
+## Acute Shortening
+
+-   Better tolerated in upper limb and single bone segments (humerus/femur) – up to 5cm well tolerated
+-   \< 3cm can be tolerated in tibia if fibula comminuted
+
+### Advantages
+
+-   Provides immediate stability
+-   Allows healing to begin
+-   Relaxes soft tissues and allows for closure/grafting of soft tissue defects
+-   Low complication rate
+
+### Problems
+
+-   Results in limb length inequality that may require future correction (not necessarily a disadvantage)
+-   May leave redundant skin if excessive shortening
+-   Excessive shortening can compromise vasculature
+
+## Autologous Cancellous Graft
+
+-   Good osteoinduction, osteoconduction & osteogenesis.
+-   Still the GOLD STANDARD
+-   Generally felt max defect treatable is 5-7 cm
+-   Best graft is from iliac crest with some evidence it has biologically better properties than graft from elsewhere
+-   Posterior crest better because of volume but anterior preferred due to ease
+
+### RIA (Reamed Irrigation Aspirator)
+
+-   Some evidence that this produces even better quality graft than iliac crest & superior volumes (up to 68 ml)
+-   Eliminates graft site morbidity of crest but concerns regarding iatrogenic fractures
+
+### Advantages
+
+-   Cancellous graft still best osteoinductivity and conductivity available
+-   Reasonable option for smaller defects (\<4cm)
+-   Cheap and no expertise required
+
+### Problems
+
+-   Unpredictable union
+
+-   Long time to union
+
+-   Graft site morbidity
+
+-   Should not be done primarily – always wait 6/52 \> allows wounds to heal and soft tissues to revascularize after initial high energy injury \> earlier grafting may contribute to infection
+
+-   Combine with freshening up bone ends by drilling medulla/burring cortical bone/excising scar tissue
+
+-   Technique in Tibia \> Traditionally posterolateral with patient prone and graft from posterior iliac crest
+
+-   Lay graft around defect and on interosseous membrane to encourage a synostosis
+
+-   Be mindful of any vascularized flaps and avoid approaches that may compromise them
+
+-   Alternative approaches can be used especially in proximal tibia where PL approach endangers NV bundle
+
+-   Make sure graft overlaps by 1cm either end of defect
+
+## Masqulet Technique (Induced Membranes)
+
+-   Mainly for defects with concurrent severe soft tissue injury
+-   **Stage 1**:
+    -   Debride bone ends as required and insert a cement spacer
+    -   Soft tissue reconstruction in the meantime
+    -   The theory is that a synovial-like membrane, rich in blood supply and growth factors, forms around the cement block
+-   **Stage 2**:
+    -   Remove spacer and insert autologous cancellous graft into membrane which augments healing of the bone
+    -   No good quality evidence to back this
+    -   ? When to remove cement block
+    -   ? Doesn’t removal disrupt the membrane
+    -   Application seems to be in gaining soft tissue control prior to grafting
+
+## Distraction Osteogenesis (Bone Transport)
+
+### Advantages
+
+-   Can manage intermediate or large defects (up to 30cm reported)
+-   Use of frames allows soft tissue management
+-   Malalignment can be prevented/corrected
+
+### Problems
+
+-   Requires patient compliance
+-   Long process
+-   Pin-site infections can cause chronic infection
+
+### Techniques
+
+-   **Ilizarov Frame**:
+    -   Most commonly used
+    -   Allows correction of malalignment
+    -   Pins can cause soft tissue problems when distracted
+    -   Chronic infection
+-   **Unilateral Rail Frame**:
+    -   Less technically demanding to apply
+    -   ? Better tolerated by patient
+    -   Less control on alignment
+-   **Lengthening Over a Nail**:
+    -   Maintains alignment
+    -   Nail may interfere with regenerate and delay union
+-   Performing corticotomy and distracting & docking simultaneously (docking site usually grafted)
+-   Acutely shortening, then performing corticotomy later and distracting \> tends to reduce complications
+-   Corticotomy should be metaphyseal (better union/regenerate rate)
+-   Allow a 5-day latent period for inflammatory phase of healing to begin
+-   Distraction should not be \>1mm per day
+-   For each 1mm of lengthening, 2-3 days of consolidation are required
+-   Around 6 weeks per 1cm of defect required for healing plus normal time of bone healing
+-   Overall recommendation - distract using an ilizarov if expertise available, otherwise rail frame. Shorten first, then distract.
+
+## Free Vascularized Bone Transfer
+
+-   Can be rib, iliac crest or fibula but is most often Fibula
+-   5cm distal and 7cm proximal must be left when harvesting to prevent ankle, knee and peroneal nerve problems
+-   Bury ends of fibula into bone at either end of defect and fix with screws
+
+### Advantages
+
+-   Can be used for very large defects
+-   High success rate in post-traumatic defects
+
+### Problems
+
+-   Graft site morbidity – chronic pain/neurogenic pain/ankle or knee instability
+-   Fracture if graft does not hypertrophy
+-   Limb must have an available artery that is not the sole supply of the limb for anastomosis
+-   Requires considerable expertise, cost, and time
+
+## Local Fibula Graft
+
+-   Either osteotomize fibula and fix to lateral aspect tibia or within tibia
+
+### Advantages
+
+-   Allows acute spanning of defect
+-   Easy to perform
+
+### Problems
+
+-   Poor muscle function
+-   Not always possible
+-   Weak and high fracture risk if does not hypertrophy
+
+## Soft Tissue Management
+
+-   All large soft tissue defects need to be managed emergently
+-   Ideally with free flap transfer
+-   Within 1 week ideal (before wound colonization)
+-   All bone reconstructive procedures have higher success in setting of a healed soft tissue envelope
+
+## Subchondral Defects:
+
+-   Properties required of the graft are to have high initial compressive strength and osteoconductivity
+-   Osteogenesis & Osteoinductivity are not as important because metaphyseal defects are known to spontaneously heal if left alone
+-   Therefore graft required to provide a stable articular reduction and prevent complications associated with steps/gaps
+-   **Calcium Phosphate cement** currently best graft for this purpose
+    -   Level 1 RCT vs autologous cancellous graft
+    -   Meta-analysis showed it was associated with better functional outcomes
+
+## Future Possible Methods
+
+-   Use of Bone Morphogenic Proteins and local scaffolds surgically placed
+-   Gene therapy
+
+## Length of Defect (cm) \| Primary Treatment Option
+
+-   **0.5-3**: Cancellous bone grafting
+-   **2-10**: Bone transport
+-   **5-12**: Free vascularized bone grafting
+-   **10-30**: Amputation
+
+## Benefits and Drawbacks of Management Methods for Post-Traumatic Segmental Bone Defects
+
+| Treatment | Major Benefits | Major Drawbacks |
+|----|----|----|
+| **Amputation** | Shortest treatment time | Total loss of limb function |
+| **Limb shortening** | Short treatment time; fewest complications | Some loss of limb function |
+| **Autologous nonvascularized cancellous bone graft** | Generally applicable; reasonable results | Slow, unreliable consolidation; donor site morbidity; less applicable to large defects |
+| **Bone transport distraction osteogenesis** | Ultimately, the best quality of bone; applicable to large defects | Frequent complications; long time to heal |
+| **Free vascularized graft** | Acute fill of defect with living bone; microvascular capability; applicable to large defects | Donor site morbidity; fracture; lack of hypertrophy |
+| **Local fibula** | Acute spanning of defect; donor morbidity limited; no special equipment required | Not always possible; not very strong; poor muscle function |

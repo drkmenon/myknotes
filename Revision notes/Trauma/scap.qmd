@@ -1,0 +1,100 @@
+---
+title: "Scapula Fractures"
+format: html
+editor: visual
+---
+
+## Embryology 
+- Scapula has 8 ossification centres which appear in the 8th week gestation:
+  - Acromion x3
+  - Coracoid x2
+  - Body x1
+  - Vertebral border x1
+  - Inferior angle x1
+
+### At Birth:
+- Only the blade, body, and spine are ossified at birth.
+
+### Failure of fusion results in:
+- Os Acromium
+- Mistaking coracoid for a fracture
+
+## Incidence
+- 50% involve scapula body
+- 25% involve neck (10% displaced)
+- 10% involve Glenoid (10% displaced)
+
+## Mechanism
+- Scapula is covered in muscle and splinted by the thoracic cage.
+- Fractures tend to be high energy.
+- Fall onto the hand causes scapula spine, glenoid & intra-articular fractures.
+- Direct high energy trauma causes scapula body fractures.
+- Associated with other injuries in 80%:
+  - Rib
+  - Clavicle
+  - Lung contusion
+  - Spine (75% Thoracic spine)
+
+## Classification
+- Anatomic location:
+  - Body
+  - Spine
+  - Neck
+  - Glenoid
+  - Coracoid
+  - Acromium
+  
+# Glenoid Fractures (Ideberg – modified by Goss)
+
+## Type | Description
+- **1A**: Anterior rim
+- **1B**: Posterior rim
+- **2**: Transverse fracture exiting inferiorly
+- **3**: Transverse fracture exiting medial to coracoid
+- **4**: Transverse exiting at medial border scapula
+- **5**: Combination of 2 and 4
+- **6**: Comminuted glenoid
+
+## Diagnosis
+- **XR**: 
+  - Axillary, AP, Scapula Y, and Stryker notch views (Coracoid)
+- **Fine cut CT**
+- **CXR**
+
+## Management
+- **ABC**
+- **Rule out and treat other injuries**
+- **Support chest injuries**
+- **Check for spinal injury**
+- **Compartment syndrome**:
+  - Rare but can occur
+  - **Comolli sign** – haematoma over scapula (triangle-shaped)
+
+### Non-Operative Treatment
+- Most can be treated with a broad arm sling
+- Early mobilization of shoulder
+
+### Operative Indications
+- **Glenoid**:
+  - Displaced glenoid rim fracture >25% size
+  - Incongruent/unstable shoulder joint
+  - Articular incongruity >5mm
+- **Neck**:
+  - Medial displacement >1cm
+    - Leads to premature OA due to increased contact stresses
+    - Main indicator of a poor outcome with extra-articular fractures
+  - Angulation >40 degrees
+  - **Floating Shoulder**:
+    - Stabilized by fixing clavicle only if scapula parameters are ok
+
+#### Floating Shoulder
+- Middle 3rd clavicle and scapula neck is the usual pattern
+- Any double disruption of the Superior Shoulder Suspensory Complex
+
+## Surgical Tactics
+- **Anterior rim fractures**:
+  - Extensive DP approach
+- **Posterior glenoid or neck/spine fractures**:
+  - Extended Judet approach
+  - In-plane between Infraspinatus and Teres minor (SSn & Axillary)
+
