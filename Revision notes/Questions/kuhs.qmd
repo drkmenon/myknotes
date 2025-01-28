@@ -385,3 +385,480 @@ editor: visual
 46. Sleeve fracture of the patella (Nov 2015)
 47. Fragment-specific fixation of distal radius fracture (Nov 2015)
 48. Spinal stabilization (Nov 2015)
+
+## 2018-21
+
+### Basic Science
+
+### Essay
+
+1.  Describe the biomechanics of hip joint and discuss about different gait patterns in diseases affecting the hip joint. (October 2018)
+2.  Describe the pathogenesis of fat embolism. Discuss the diagnosis and management of a patient with fat embolism. (April 2019)
+3.  Vitamin D metabolism. Clinical features and investigations in rickets. (October 2019)
+4.  What do you mean by ante-version of the femoral neck. How do you determine clinically and radiologically the degree of ante-version of the femoral neck. Discuss its importance in management of developmental dysplasia of the hip in a child aged 5 years. (December 2020)
+5.  Surgical anatomy of a synovial joint. Describe the etiopathology, clinical features and management of osteoarthritis knee. (June 2020)
+6.  Discuss the factors that influence bone healing after a fracture. What are the causes of non-union. Describe the radiological features. (May 2021)
+
+### Short Notes
+
+1.  Carpal tunnel (October 2018)\*
+2.  Ilio-tibial tract (October 2018)\*
+3.  Fracture healing (October 2018)\*
+4.  Nutritional rickets (October 2018)\*
+5.  Tissue biopsy (October 2018)\*
+6.  Thoracic outlet (October 2018)\*
+7.  Teriparatide (October 2018)\*
+8.  Thrombo prophylaxis (October 2018)\*
+9.  Anterolateral ligament of the knee (April 2019)
+10. Bone scan (April 2019)
+11. Markers of bone formation (April 2019)
+12. Biomechanics of anterior cruciate deficient knee (April 2019)
+13. Denosumab (April 2019)\*
+14. Local adjuvant therapy for benign aggressive tumors (April 2019)
+15. Methicillin resistant staphylococcus aureus (April 2019)
+16. Informed consent (April 2019)
+17. Bone grafting (October 2019)
+18. Prospective versus retrospective cohort studies (October 2019)
+19. Pathophysiology and diagnosis of compartment syndrome (October 2019)
+20. Ibandronic acid (October 2019)
+21. Guidelines for prevention of surgical site infection (October 2019)
+22. Rheumatoid factor (October 2019)
+23. Illofemoral ligament (October 2019)
+24. Nerve conduction study (October 2019)
+25. Autonomic bladder (December 2020)
+26. Arches of the foot (December 2020)
+27. Microscopic structure of articular cartilage (December 2020)
+28. Second line drugs used rheumatoid arthritis and their mechanism of action (December 2020)
+29. Pathology and differential diagnosis of frozen shoulder (December 2020)
+30. Calcium balance in the body (December 2020)
+31. Anatomy of the lumbar intervertebral disc (December 2020)
+32. Normal gait cycle (December 2020)
+33. Electromyography (June 2020)
+34. Principles of a Randomised Control Trial (June 2020)
+35. Fat embolism (June 2020)\*
+36. Rifampicin (June 2020)
+37. Pre-operative antibiotic prophylaxis (June 2020)
+38. Anti CCP Elisa test (June 2020)
+39. Lateral collateral ligament of ankle (June 2020)
+40. Allograft in orthopaedics (June 2020)
+41. Blood supply of talus (May 2021)
+42. Structure of growth plate (May 2021)
+43. Anatomy of flexor tendons and their sheaths in the index finger (May 2021)
+44. Anatomy of the brachial plexus (May 2021)
+45. Role of radiograph in diagnosis of causes of backache (May 2021)
+46. Vitamin D metabolism (May 2021)\*
+47. Fat embolism syndrome (May 2021)\*
+48. Pathophysiology of acute Volkmann’s ischemia of the forearm (May 2021)
+
+### Orthopaedic Disease
+
+### Essay
+
+1.  Discuss the differential diagnosis for painful limp in an 8 years old child. Describe the management of Perthe’s disease. (October 2018)
+2.  Classify spondylolisthesis and discuss its management. (April 2019)
+3.  Clinical features, management and complications of chronic osteomyelitis of tibia in a 10-year-old child. (October 2019)
+4.  Define cervical rib. What are the different types of cervical ribs. Discuss their pathology in relation to the clinical features. How would you treat a case of symptomatic cervical rib. (December 2020)
+5.  What do you mean by ‘gout’ & ‘pseudo gout’. Discuss the clinical features and management of gouty arthritis. (June 2020)
+6.  Discuss the static and dynamic stabilisers of shoulder joint. Describe the current concepts in management of recurrent shoulder dislocation with and without glenoid bone loss. (May 2021)
+
+### Short Notes
+
+1.  Vitamin D resistant rickets (October 2018)
+2.  Staging of avascular necrosis of head of femur and outline its management (October 2018)
+3.  Management of GCT of distal radius (October 2018)
+4.  Diagnosis and management of septic arthritis of knee (October 2018)
+5.  Madelung deformity (October 2018)
+6.  Aneurysmal bone cyst (October 2018)
+7.  Crouch gait (October 2018)
+8.  Principles of tendon transfer and describe a method for high ulnar nerve palsy (October 2018)
+9.  Radio ulnar synostosis (April 2019)
+10. Osteomalacia (April 2019)
+11. Osteogenesis imperfecta (April 2019)
+12. Congenital postero-medial bowing of tibia (April 2019)
+13. Rheumatoid hand (April 2019)\*
+14. Diagnosis of developmental dysplasia of hip and discuss the management in less than 1-year-old child (April 2019)
+15. Chondrosarcoma (April 2019)
+16. Kienbock’s disease (April 2019)
+17. Foot drop (October 2019)
+18. Morrant Baker’s cyst (October 2019)
+19. Chondroblastoma (October 2019)
+20. Pseudo gout (October 2019)\*
+21. Clinical feature and management of unilateral CTEV in a 10 months old child (October 2019)
+22. Maffucci syndrome (October 2019)
+23. Subacromial impingement syndrome (October 2019)
+24. Charcot joint (October 2019)
+25. Investigative modalities to assess the severity of osteoporosis (December 2020)
+26. Management of relapsed clubfoot (December 2020)
+27. Below knee prosthesis (December 2020)
+28. Baker’s cyst (December 2020)\*
+29. Deformities due to liiotibial band contracture (December 2020)
+30. Carpal tunnel syndrome (December 2020)\*
+31. Rheumatoid hand (December 2020)\*
+32. Wind-swipe deformity (December 2020)
+33. Nutritional rickets (June 2020)\*
+34. Milwaukee brace (June 2020)
+35. Management of spastic diplegia in cerebral palsy (June 2020)
+36. Classification of bone tumours (June 2020)
+37. Diagnosis of ankylosing spondylitis (June 2020)
+38. Stulberg's classification (June 2020)
+39. Ankle foot orthosis (June 2020)
+40. Differential diagnosis of painful arc syndrome (June 2020)
+41. Tarsal coalition (May 2021)
+42. Skew foot (May 2021)
+43. Flat foot (May 2021)
+44. Painful arc syndrome (May 2021)\*
+45. Radial club hand (May 2021)
+46. Intrinsic plus hand (May 2021)
+47. Metatarsus adductus (May 2021)
+48. Meralgia paraesthetica (May 2021)
+
+### Trauma
+
+### Essay
+
+1.  Classify ankle fractures. Describe the mechanism of injury and discuss about the principles of management. (October 2018)
+2.  Classify the fractures of spine based on mechanism of injury. Enumerate complications in a patient with quadriplegia. Discuss the management of pressure sores. (April 2019)
+3.  Discuss the mechanism of injury, clinical features, imaging, management and complications of fracture neck of femur in a 75-year-old man. (October 2019)
+4.  What are the stabilizers of the acromioclavicular joint. Discuss acute acromioclavicular dislocations. What are the management options in an old neglected acromioclavicular joint dislocation. (December 2020)
+5.  Write on the classification, clinical features, management and complications of proximal humerus fracture in a young adult male. (June 2020)
+6.  Discuss the classification, mechanism of injury and clinical features of hip dislocations. Write on the management and complications of posterior dislocation of hip joint in a young adult male. (May 2021)
+
+### Short Notes
+
+1.  Locking compression plate (October 2018)
+2.  Bennett's fracture (October 2018)\*
+3.  Pulseless limb following supracondylar fracture humerus in a child (October 2018)
+4.  Sacral fracture (October 2018)
+5.  Terrible triad of Hotchkiss (October 2018)
+6.  Lisfranc fracture (October 2018)\*
+7.  Management of infected interlocking nail (October 2018)
+8.  Management of neglected Monteggia fracture (October 2018)
+9.  Complications of supracondylar fracture of the humerus (April 2019)
+10. Greenstick fracture (April 2019)
+11. Sudeck's osteodystrophy (April 2019)
+12. Management of meniscal injuries (April 2019)
+13. Fracture of patella (April 2019)
+14. Dupuytren's fracture (April 2019)
+15. Monteggia variants (April 2019)
+16. Principles of management of closed fracture of a long bone (April 2019)
+17. Classification of proximal tibial fractures (October 2019)
+18. Clinical tests to diagnose cruciate ligament injuries in the knee (October 2019)
+19. Types of physeal injuries with examples (October 2019)
+20. Care of the paralysed limb in acute spinal cord injury (October 2019)
+21. Hoffa’s fracture (October 2019)
+22. Principles of management of an open fracture (October 2019)\*
+23. Complications of Colle’s fracture (October 2019)
+24. Anterior dislocation of shoulder joint (October 2019)
+25. Classification systems for open fractures (December 2020)\*
+26. Pink pulseless hand (December 2020)
+27. Differences between spinal shock and neurogenic shock (December 2020)
+28. Far cortical locking (December 2020)
+29. Soft tissue injury (December 2020)
+30. Atypical femoral fractures (December 2020)
+31. Pilon fractures (December 2020)
+32. Triangular fibrocartilage injury (December 2020)
+33. External fixation (June 2020)
+34. Monteggia fracture (June 2020)\*
+35. Principles of management of an osteoporotic fracture (June 2020)
+36. Hangman's fracture (June 2020)
+37. Calcaneal fracture (June 2020)
+38. Classification and complications of pelvic fracture (June 2020)
+39. Management of post traumatic nerve palsy (June 2020)
+40. Zone 2 flexor tendon injury (June 2020)
+41. Bennett’s fracture (May 2021)\*
+42. Galeazzi’s fracture (May 2021)
+43. Principles of management of an intra articular fracture (May 2021)
+44. Lisfranc fracture (May 2021)\*
+45. Write on the mechanism, clinical features, management and complications of terrible triad injury of elbow in a young adult (May 2021)
+46. Classification and complications of an open fracture (May 2021)\*
+47. Management of thoracolumbar burst fractures (May 2021)
+48. Epiphyseal injury (May 2021)
+
+### Recent Advances
+
+### Essay
+
+1.  Discuss the uses of isotopes in orthopaedics. Explain the management of multiple bone secondaries including recent advances. (October 2018)
+2.  Describe the various types of total hip replacement prostheses based on surfaces. Discuss their limitations. (April 2019)
+3.  Describe early onset scoliosis. How do you manage a 5-year-old girl with idiopathic early onset scoliosis. (December 2020)
+4.  Discuss the diagnosis, clinical scoring and management of CTEV. (June 2020)
+5.  Discuss the bearing surfaces in total hip arthroplasty with notes on the current concepts. (May 2021)
+
+### Short Notes
+
+1.  Biodegradable implant (October 2018)
+2.  Bone substitute (October 2018)
+3.  Gamma camera (October 2018)
+4.  Bone Morphogenetic Proteins (October 2018)
+5.  Autologus blood transfusion (October 2018)
+6.  PET scan (October 2018)
+7.  Ceramic in orthopaedics (October 2018)\*
+8.  Resurfacing arthroplasty of hip (October 2018)
+9.  Spontaneous osteonecrosis of knee (April 2019)
+10. Rivaroxaban (April 2019)
+11. Teriparatide (April 2019)\*
+12. 3D printing in orthopaedics (April 2019)
+13. Hexapod (April 2019)
+14. Endoscopic discectomy (April 2019)
+15. Role of denosumab in Orthopaedics (April 2019)\*
+16. GenExpert test (April 2019)
+17. Open magnetic resonance imaging (December 2020)
+18. Teriparatide (December 2020)\*
+19. Stem cells in spinal cord injury (December 2020)
+20. Autologous chondrocyte transplantation (December 2020)
+21. Gene therapy in fracture healing (December 2020)
+22. Safe surgical dislocation (December 2020)
+23. Reverse shoulder arthroplasty (December 2020)
+24. Role of arthroscopy in disorders of wrist (December 2020)
+25. Titanium elastic nailing (TENS) (June 2020)
+26. Ceramics in orthopaedics (June 2020)\*
+27. Navigation in arthroplasty (June 2020)
+28. Femoro-acetabular impingement (June 2020)
+29. Percutaneous fixation in pelvi-acetabular fractures (June 2020)
+30. Bed sore (June 2020)
+31. Meniscal repair (June 2020)\*
+32. Peri prosthetic fractures (June 2020)
+33. Articular cartilage restoration techniques (May 2021)
+34. Growing rod (May 2021)
+35. Kyphoplasty (May 2021)
+36. Platelet rich plasma in orthopaedics (May 2021)
+37. Meniscal repair (May 2021)\*
+38. Direct anterior approach in total hip replacement arthroplasty (May 2021)
+39. Tranexamic acid (May 2021)
+40. Recent advances in the treatment of unstable extracapsular fractures of the proximal femur (May 2021)
+
+## 2021-24
+
+### Basic Science
+
+### Essay
+
+1.  Describe the physiological response after poly trauma and discuss in detail about damage control orthopaedics. (2021)
+2.  Describe anatomy and function of articular cartilage. Discuss the management and complications of a 28-year male Football player with Grade III isolated 3 x 3 cm osteochondral lesion of medial femoral condyle. (2022)
+3.  Infected nonunion of the distal third of tibia in 45-year-old chronic smoker and diabetic. Discuss the plan, management and its complications. (2022)
+4.  Aetiology, pathogenesis, diagnosis and management of myositis ossificans. (2023)
+5.  Describe the blood supply to femoral head in all age groups. Discuss the clinical implications in young child. (2024)
+6.  Write a note on patho-anatomy of tuberculosis knee joint in adult, clinical features, complications and management. (2024)
+
+### Short Note
+
+1.  Anatomy of median nerve. (2021)\*
+2.  Stabilisers of knee joint. (2021)
+3.  Uric acid. (2021)
+4.  Physiology of micturition. (2021)
+5.  Isolation of organism after an infected arthroplasty. (2021)
+6.  Disease Modifying Anti-Rheumatoid Drugs (DMARDS). (2021)
+7.  Parathormone. (2021)\*
+8.  Anatomy of atlanto-axial joint. (2021)
+9.  Vitamin D. (2022)\*
+10. Long head of biceps. (2022)
+11. Complete claw hand. (2022)
+12. Genu valgum. (2022)
+13. Bohler Braun frame. (2022)
+14. Blood thinners & orthopaedic surgery. (2022)
+15. Trendelenberg gait. (2022)
+16. Clinical tests for DDH. (2022)
+17. Bone transport and regenerate. (2022)\*
+18. Lattismus dorsi. (2022)
+19. Wrist drop. (2022)
+20. Gun stock deformity. (2022)
+21. SACH foot. (2022)
+22. Indomethacin. (2022)
+23. Dial test. (2022)
+24. Carpal tunnel syndrome. (2023)
+25. Functional cast bracing. (2023)\*
+26. Ultrasound in orthopaedics. (2023)
+27. Ganz safe surgical dislocation of hip. (2023)
+28. Tourniquet. (2023)
+29. Synovial fluid analysis. (2023)
+30. Tranexamic acid. (2023)
+31. Foot drop. (2024)
+32. Teriparatide. (2024)
+33. Quadriceps. (2024)
+34. Anatomy of extensor compartment of wrist. (2024)
+35. Masquelet technique. (2024)\*
+36. Koch’s postulates. (2024)
+37. Cubitus valgus deformity. (2024)
+38. Arches of the foot. (2024)
+39. Madura foot. (2024)
+40. Denosumab. (2024)
+41. Gluteus medius. (2024)
+42. Anatomy of flexor compartment of wrist. (2024)
+43. Papineau technique. (2024)
+44. Minimal inhibitory concentration. (2024)
+45. Manus valgus deformity. (2024)
+
+### Orthopaedic Disease
+
+### Essay
+
+1.  50-year-old female with right Genu varum presents with pain & reduced activity of daily living for over 1 year. This has worsened following recent trauma. However, she has good Range of movement of knee. Discuss the management of such a case in detail. (2021)
+2.  25-year-old male sustained a twisting injury of his right knee. He could not continue the game as he developed immediate pain & knee swelling. He comes to your Emergency Medicine. Describe how will you proceed to manage such a case. (2022)
+3.  Clinical features and management of osteosarcoma of distal femur in a 14-year-old male. (2022)
+4.  How will you evaluate 8-year-old boy with painless limp. Enumerate differential diagnosis. Discuss management of developmental Dysplasia of Hip. (2023)
+5.  Describe the management of multiple lytic lesion of bone in a 65-year-old male. (2024)
+6.  Write on Enneking and Dunham classification and discuss in detail pelvic bone malignant tumours. (2024)
+
+### Short Note
+
+1.  Rickets. (2021)
+2.  Radioulnar synostosis. (2021)
+3.  Hallux valgus. (2021)
+4.  Pseudoarthrosis of tibia. (2021)
+5.  Osteopetrosis. (2021)
+6.  Giant Cell Tumor. (2021)
+7.  Frozen shoulder. (2021)
+8.  Suction socket prosthesis. (2021)
+9.  Scurvy. (2022)
+10. Sprengel shoulder. (2022)
+11. Coxa vara. (2022)
+12. Congenital vertical talus. (2022)
+13. Haemophilic arthritis. (2022)
+14. Ewings sarcoma. (2022)
+15. Vertebra plana. (2022)
+16. Legg calve perthes disease. (2022)
+17. Erb’s palsy. (2022)
+18. Ganglion cyst. (2022)
+19. PTB (Patellar Tendon Bearing) prosthesis. (2022)
+20. Gout. (2022)\*
+21. Congenital pseudarthrosis of tibia. (2022)\*
+22. Brodie’s abscess. (2022)
+23. Femoroacetabular impingement syndrome. (2022)
+24. Clinical features, management and complications of L4/L5 Intervertebral disc prolapse. (2022)
+25. Limb salvage surgery in malignant tumours around the knee. (2023)
+26. Middle path regime in management of Pott’s spine. (2023)
+27. Femoro-acetabular impingement. (2023)\*
+28. Gouty Arthritis. (2023)\*
+29. Halo Vest. (2023)
+30. Dupuytren’s contracture. (2023)
+31. Mid-flexion instability of knee in Total Knee Replacement. (2023)
+32. Cold abscess in spine. (2023)
+33. Boutonniere deformity. (2024)
+34. Cervical rib. (2024)
+35. SCFE. (2024)
+36. Kienbock’s disease. (2024)
+37. Floor reaction orthosis. (2024)
+38. Adolescent idiopathic scoliosis. (2024)
+39. Autonomous bladder. (2024)\*
+40. Crystal induced arthritis. (2024)
+41. HLA antigen. (2024)
+42. XDR tuberculosis. (2024)
+43. Haemophilic arthropathy. (2024)\*
+44. Myoelectric prosthesis. (2024)\*
+45. Fibrous dysplasia. (2024)
+46. Spondyloptosis. (2024)
+47. Management of ulnar claw hand. (2024)
+48. Brucellosis. (2024)
+
+### Trauma
+
+### Essay
+
+1.  Describe the aetiopathology, classification and management of fractures of proximal femur in children. Add a note on its complications. (2021)
+2.  Classification, mechanism of injury, clinical features of traumatic elbow dislocation. Describe management and complications of Postero lateral dislocation of elbow. (2022)
+3.  Classification, mechanism of injury, clinical features of traumatic knee dislocation. Describe the management & complication of Postero lateral dislocation of knee. (2022)
+4.  Rotator cuff tear – Mechanism of injury, Classification, Diagnosis & Treatment. (2023)
+5.  Classify thoraco lumbar spine injuries and discuss its management. (2024)
+6.  Classify talus fracture and its clinical features, complications and discuss management. (2024)
+
+### Short Note
+
+1.  Monteggia equivalents. (2021)
+2.  Intra-compartment pressure monitoring. (2021)
+3.  Pronation-external rotation injury of ankle. (2021)
+4.  Triage. (2021)
+5.  Osteochondral fractures of talus. (2021)
+6.  Radiographic evaluation of upper cervical spine. (2021)
+7.  Fat embolism. (2021)
+8.  Radiological findings in Perthe’s disease. (2021)
+9.  Scaphoid fracture. (2022)
+10. Proximal humerus fracture. (2022)
+11. Masquelet technique. (2022)\*
+12. High ankle sprain. (2022)
+13. Schatzker type V and VI fractures. (2022)
+14. Flail chest. (2022)
+15. Tibial spine avulsions. (2022)
+16. Hamstring injury. (2022)
+17. Kaplan’s lesion. (2022)
+18. Volar Barton’s fracture. (2022)
+19. Acromio clavicular joint dislocation Grade III. (2022)
+20. Burst fracture L1. (2022)
+21. Trimalleolar fracture ankle. (2022)
+22. Hoffas fracture. (2022)
+23. O’ Donoghue triad. (2022)
+24. Neglected Tendoachillis tear. (2022)
+25. Holstein Lewis fracture. (2023)
+26. Syndesmotic injury. (2023)
+27. Autonomous bladder. (2023)\*
+28. Monteggia variants. (2023)
+29. Flexor tendon injuries. (2023)
+30. Vancouver classification of Periprosthetic fractures of hip-Elaborate on management. (2023)
+31. Floating Knee. (2023)
+32. Perilunar dislocations. (2023)
+33. Flexor tendon injury of hand. (2024)
+34. Functional cast bracing. (2024)\*
+35. Calcaneal fracture. (2024)\*
+36. Neglected Monteggia fracture. (2024)
+37. AC joint dislocation. (2024)\*
+38. MPFL tear. (2024)
+39. Non-union fracture scaphoid. (2024)
+40. Periprosthetic fracture of THR. (2024)
+41. Kaplan lesion. (2024)\*
+42. Pink pulseless hand. (2024)
+43. Kyphoplasty. (2024)
+44. Hangman fracture. (2024)
+45. Posterolateral instability of knee joint. (2024)
+46. Floating knee injury. (2024)\*
+47. Fracture lower end of radius. (2024)
+
+### Recent Advances
+
+### Essay
+
+1.  What are musculoskeletal symptoms in Covid infection. Describe post Covid consequences in musculoskeletal system and management, with a note on trends and challenges in post Covid orthopaedic trauma management in India. (2021)
+2.  Haemophilic arthropathy of knee. Discuss the plan and management strategies for total joint replacement of knee in such a case. (2022)
+3.  Navigation assisted orthopaedic surgery. Add note on artificial intelligence and its future in orthopaedic surgery. (2023)
+4.  Recent advances in evaluation and management of infection following total knee replacement. (2024)
+5.  Discuss the management of painful total knee replacement. What are the issues involved in revision knee. What are the recent developments in total knee replacement. (2021)
+
+## Short Note
+
+1.  High tibial osteotomy. (2021)
+2.  Lumbar and cervical visco elastic disc replacement. (2021)
+3.  Floor reaction orthosis. (2021)\*
+4.  Mobile bearing knee. (2021)
+5.  All suture anchor. (2021)
+6.  Antibiotic delivery system in periprosthetic joint infection. (2021)
+7.  Scaffold in rotator cuff surgery. (2021)
+8.  Fiber tape. (2021)
+9.  Blood flow restrictions in post-operative rehabilitation after Anterior cruciate ligament surgery. (2022)
+10. 3 D printing. (2022)\*
+11. Rheumatoid arthritis: new concepts and medications. (2022)
+12. Visco supplementation in Osteoarthritis of knee. (2022)
+13. Reverse shoulder arthroplasty. (2022)
+14. Bone bank. (2022)\*
+15. Advances in management of trochanteric fractures. (2022)
+16. Ponseti Techniques. (2022)
+17. 3D Printing in orthopaedics. (2023)\*
+18. Dual mobility Total Hip Replacement. (2023)
+19. Local antibiotic drug delivery systems in chronic osteomyelitis. (2023)
+20. Osteogenesis Imperfecta-Recent trends in management. (2023)
+21. Autologous chondrocyte transplantation. (2023)
+22. Platelet Rich Plasma and its use in orthopaedics. (2023)
+23. Anterolateral plating in distal tibia. (2023)
+24. Total Ankle Arthroplasty. (2024)
+25. Gene therapy in orthopaedics. (2024)
+26. Myoelectric prosthesis. (2024)\*
+27. Biplane double support screw fixation in management of neck of femur fractures. (2024)
+28. Autologous blood transfusion in polytrauma. (2024)
+29. Transforminal Endoscopic spine surgery. (2024)
+30. Vacuum assisted closure in orthopaedic surgery. (2024)
+31. Radio frequency ablation in orthopaedics. (2024)\*
+32. Stem cells in orthopaedics. (2021)
+33. Safe surgical dislocation of hip. (2021)\*
+34. Continuous passive motion (CPM). (2021)
+35. Causes for aseptic loosening in arthroplasty and discuss about how to reduce it. (2021)
+36. Bone graft substitutes. (2021)
+37. Gait lab. (2021)
+38. Myo-electric arm. (2021)
+39. Radio frequency ablation. (2021)\*
