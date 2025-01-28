@@ -6,628 +6,382 @@ editor: visual
 
 # MS ortho
 
-## (2012-15)
+## 2012-15
 
-## Paper I - Basic Sciences Applied to Orthopaedics & Traumatology
+### **Basic Science**
 
-### Essays
+#### **Essay Questions**
 
-1.  Describe the anatomy of the ilio-tibial tract. Discuss disorders associated with it.
-2.  Discuss synovial fluid analysis. Describe the changes in synovial fluid in various pathological conditions of the knee.
-3.  Discuss the microscopic structure of articular cartilage and the changes seen in osteoarthroses of a weight-bearing joint.
-4.  Describe systemic response to trauma. Discuss classification and management of shock due to trauma.
-5.  Discuss the pathogenesis of non-traumatic avascular necrosis of the femoral head in adults. Discuss the role of non-surgical management.
-6.  Describe the anatomy of the intervertebral disc. Explain the pathogenesis, clinical features, and management of prolapsed intervertebral disc between L4 and L5 vertebra in a young adult.
-7.  Define osteoporosis. Discuss clinical features, causes, and management of generalized osteoporosis (\*).
-8.  Describe the blood supply of the talus. Discuss the clinical features, classification, and management of talus fractures.
-9.  Describe the extensor mechanism of the knee joint. Discuss the etiology, diagnosis, and management of recurrent dislocation of the patella.
-10. Explain the biomechanics of the thoraco-lumbar spine. Classify and discuss the management of thoraco-lumbar spine injuries.
+1.  Describe the extensor mechanism of the knee joint. Discuss the aetiology, diagnosis, and management of recurrent dislocation of the patella. (June 2012)
+2.  Discuss briefly the blood supply of the talus. Describe in detail the clinical features, classification, and management of talus fracture. (May 2013)
 
-### Short Essays
+#### **Short Notes**
 
-1.  Mechanism of tumour spread local and distant.
-2.  Patho-mechanism of compartment syndrome.
-3.  Anatomical factors contributing to knee stability.
-4.  Pain management in orthopaedics.
-5.  Imaging features of osteo-articular tuberculosis.
-6.  Normal calcium metabolism.
-7.  Safe surgical practice in orthopaedics.
-8.  Hyperparathyroidism.
-9.  Articular cartilage.
-10. Ortolani test.
-11. Giant cell variants.
-12. NCV (nerve conduction velocity).
-13. Bracing in Ponseti technique of clubfoot management.
-14. Madelung deformity.
-15. Charcot's joint.
-16. HIV in orthopaedics.
-17. CPPD (Calcium pyrophosphate dihydrate) arthropathy.
-18. Anatomy of brachial plexus (\*).
-19. Congenital radio-ulnar synostosis.
-20. Blood supply of femoral head (\*).
-21. TENS (Transcutaneous electrical nerve stimulation).
-22. Floor reaction orthosis (\*).
-23. Myositis ossificans (\*).
-24. Tension band principle.
-25. Vitamin D resistant rickets.
-26. Hyaline cartilage.
-27. Joint lubrication.
-28. DVT prophylaxis.
-29. Duchenne muscular dystrophy.
-30. Discoid meniscus.
-31. Hamilton Russell traction.
-32. Glasgow coma scale.
-33. Methotrexate.
-34. Adult respiratory distress syndrome.
-35. Transfusion reactions.
-36. Types of biopsy.
+1.  Growth plate anatomy and its functions (June 2012)
+2.  Differentiate between osteopenia and osteoporosis (June 2012)
+3.  Glasgow coma scale (June 2012)
+4.  Methotrexate (June 2012)
+5.  Adult respiratory distress syndrome (June 2012)
+6.  Transfusion reactions (June 2012)
+7.  Types of biopsy (June 2012)
+8.  Vitamin D resistant rickets (May 2013)
+9.  Hyaline cartilage (May 2013)
+10. Joint lubrication (May 2013)
+11. DVT prophylaxis (May 2013)
+12. Duchenne muscular dystrophy (May 2013)
+13. Discoid meniscus (May 2013)
+14. Hamilton Russel traction (May 2013)
+15. Myositis ossificans (May 2013)
 
 ------------------------------------------------------------------------
 
-## Paper II - Traumatology and Fractures
+### **Orthopaedic Disease**
 
-### Essays
+#### **Essay Questions**
 
-1.  Classify the dislocation of the elbow joint. Discuss the management of different types of posterior dislocation of the elbow and enumerate complications.
-2.  Classify calcaneal fractures and discuss the management of different types of calcaneal fractures.
-3.  Describe carpal instability in detail. Discuss the management of a patient aged 30 years with a 2-month-old untreated perilunate dislocation.
-4.  Describe aetiopathology and clinical features of traumatic knee dislocation. Discuss its management.
-5.  Discuss the role of the anterior cruciate ligament (ACL) in stabilizing the knee. Describe the clinical features of an ACL-deficient knee. Discuss the surgical management. How does treatment differ in paediatric ACL injuries?
-6.  Classify tibial plateau fractures and discuss its management.
-7.  Explain the anatomy of the brachial plexus. Classify and discuss the management of brachial plexus injury (\*).
+1.  Define osteoporosis, discuss the clinical features, causes, and management of generalized osteoporosis. (June 2012)
+2.  Discuss the pathogenesis, clinical features, and management of tuberculosis of the spine with paraplegia. (May 2013)
+3.  Describe the etiology, modern diagnostic methods, prevention, and the various management methods for osteoporosis. (May 2013)
 
-### Short Essays
+#### **Short Notes**
 
-1.  Dupuytren’s contracture.
-2.  Bennett’s fracture (\*).
-3.  Crush syndrome (\*).
-4.  Essex Lopresti fracture.
-5.  Bankart lesion.
-6.  Phantom limb.
-7.  Pedicular screw fixation.
-8.  Stove-in chest.
-9.  Hoffa’s fracture.
-10. Gamekeeper’s thumb.
-11. Stress shielding in compression fixation.
-12. Tillaux fracture (\*).
-13. Treatment of DVT.
-14. MIPPO technique.
-15. Management of infected non-union tibia.
-16. Flail chest.
-17. Jefferson’s fracture.
-18. JESS.
-19. Lag screw principle.
-20. Fish tail deformity of distal humerus.
-21. Fracture disease.
-22. Lisfranc fractures (\*).
-23. Scapular fracture (\*).
-24. PCL-deficient knee (\*).
-25. Damage control in orthopaedics (\*).
-26. Chance's fracture (\*).
-27. Automatic bladder (\*).
-28. Jumper's knee (\*).
-29. Malgaigne fracture (\*).
+1.  Chordoma (June 2012)
+2.  Arthrogryposis multiplex congenita (June 2012)
+3.  Congenital pseudoarthrosis of the tibia (June 2012)
+4.  Hallux valgus (June 2012)
+5.  DOTS regime for tuberculosis (June 2012)
+6.  Solid ankle cushion heel foot (June 2012)
+7.  Vertebra plana (June 2012)
+8.  Ulnar claw hand (June 2012)
+9.  Radiological features of Perthes disease (May 2013)
+10. Spina ventosa (May 2013)
+11. Foot drop (May 2013)
+12. Chondrocalcinosis (May 2013)
+13. Meniscal cyst (May 2013)
+14. Multiple myeloma (May 2013)
+15. Sever’s disease (May 2013)
+16. Myositis ossificans progressiva (May 2013)
+17. Positron emission tomography (May 2013)
+18. Methicillin-resistant Staphylococcus aureus (May 2013)
+19. Floor reaction orthosis (May 2013)
+20. Endoscopic disc surgery (May 2013)
+21. Immunomodulators in rheumatoid arthritis (May 2013)
+22. Bioabsorbable implants (May 2013)
+23. Chemotherapy for osteosarcoma (May 2013)
 
 ------------------------------------------------------------------------
 
-## Paper III - Orthopaedic Diseases
+### **Trauma**
 
-### Essays
+#### **Essay Questions**
 
-1.  Discuss the clinical features and management of tuberculosis of the spine at the dorso-lumbar junction with neurological deficit (\*).
-2.  Discuss the pathogenesis, clinical features, and management of tuberculosis of the spine with paraplegia (\*).
-3.  Classify cerebral palsy. Discuss biomechanics of crouch gait. Outline the management of crouch gait.
-4.  Classify bone tumours based on cell of origin. Discuss management of osteosarcoma in a 10-year-old. Add a note on limb salvage surgery.
-5.  Discuss the pathophysiology, diagnosis, complications, and management of osteoporosis (\*).
-6.  Discuss the pathophysiology, clinical features, and diagnostic evaluation of lumbar canal stenosis. Discuss surgical management.
+1.  Explain the biomechanics of the thoracolumbar spine. Classify and discuss the management of thoracolumbar spine injuries. (June 2012)
+2.  Explain the anatomy of the brachial plexus. Classify and discuss in detail the management of brachial plexus injury. (May 2013)
 
-### Short Essays
+#### **Short Notes**
 
-1.  Chordoma.
-2.  Arthrogryposis multiplex congenita.
-3.  Congenital pseudoarthrosis of tibia.
-4.  Hallux valgus (\*).
-5.  DOTS regime for tuberculosis.
-6.  Solid ankle cushion heel foot.
-7.  Vertebra plana.
-8.  Ulnar claw hand.
-9.  Radiological features of Perthes disease.
-10. Spina ventosa.
-11. Foot drop.
-12. Chondrocalcinosis.
-13. Meniscal cyst.
-14. Multiple myeloma.
-15. Sever's disease.
-16. Myositis ossificans progressiva.
-17. Guided growth.
+1.  Recurrent dislocation of the shoulder (June 2012)
+2.  Pubic diastasis (June 2012)
+3.  Dunlop traction (June 2012)
+4.  McMurray’s osteotomy (June 2012)
+5.  Locked compression plate (June 2012)
+6.  Neglected tendoachilles injury (June 2012)
+7.  Odontoid fracture (June 2012)
+8.  Crutch gait (June 2012)
+9.  Scapular fracture (May 2013)
+10. PCL deficient knee (May 2013)
+11. Scaphoid non-union (May 2013)
+12. Damage control in orthopaedics (May 2013)
+13. Chance’s fracture (May 2013)
+14. Automatic bladder (May 2013)
+15. Jumper’s knee (May 2013)
+16. Malgaigne fracture (May 2013)
 
 ------------------------------------------------------------------------
 
-## Paper IV - Recent Advances in Orthopaedics and Traumatology
+### **Recent Advances**
 
-### Essays
+#### **Essay Questions**
 
-1.  What is osteosynthesis? Describe ways to achieve osteosynthesis in fracture treatment with recent advances.
-2.  Discuss the management of painful total hip replacement. Discuss revision surgery and acetabular bone loss.
-3.  Discuss the recent advances in the diagnosis and management of skeletal tuberculosis.
-4.  Describe the etiology, modern diagnostic methods, prevention, and management of osteoporosis (\*).
+1.  What is osteosynthesis? Describe ways to achieve osteosynthesis in the treatment of fractures with recent advances. (June 2012)
+2.  With regard to slipped capital femoral epiphysis, discuss:
+    -   Prediction of contralateral slip
+    -   Treatment updates
+    -   Femoro-acetabular impingement associated with it. (June 2015)
 
-### Short Essays
+#### **Short Notes**
 
-1.  Bearing surfaces in total hip replacement.
-2.  Zolandronic acid.
-3.  Tumour markers.
-4.  Femoro-acetabular impingement (\*).
-5.  Bone cement.
-6.  DEXA scan.
-7.  Stem cell therapy.
-8.  Poller screw.
-9.  Fresh frozen allograft.
-10. Recent advances in internal fixation of distal tibial fractures.
-11. Positron emission tomography.
-12. Bone banking.
-13. Methicillin-resistant Staphylococcus aureus.
-14. Platelet-rich plasma in orthopaedics.
+1.  Bearing surfaces in total hip replacement (June 2012)
+2.  Zoledronic acid (June 2012)
+3.  Tumour markers (June 2012)
+4.  Femoro-acetabular impingement (June 2012)
+5.  Bone cement (June 2012)
+6.  DEXA scan (June 2012)
+7.  Proximal femoral nail (June 2012)
+8.  Postoperative DVT - prevention, clinical features, and management (June 2012)
+9.  Simple bone cyst (June 2015)
+10. Stem cells in orthopaedics (June 2015)
+11. Poller screw (June 2015)
+12. Recent advances in internal fixation of distal tibial fractures (June 2015)
+13. Bearing surface in total hip arthroplasty (June 2015)
+14. Fresh frozen allograft (June 2015)
+15. Multidirectional instability of the shoulder (June 2015)
+16. Advances in anterior cruciate ligament reconstruction (June 2015)
 
-## 2015-18
+# 2015-18
 
-# PG Degree Examinations in Orthopaedics (MS)
+### **Basic Science**
 
-## November 2015 - Paper I: Basic Sciences Applied to Orthopaedics & Traumatology
+#### **Essay Questions**
 
-### Essays (20 Marks Each)
+1.  Describe the anatomy of the iliotibial tract. Discuss disorders associated with it. (Nov 2015)
+2.  Discuss synovial fluid analysis. Also describe the changes that occur (synovial fluid) in various pathological conditions of the knee. (June 2016)
+3.  Discuss the microscopic structure of articular cartilage and the changes seen in osteoarthrosis of a weight-bearing joint. (Nov 2016)
+4.  Describe systemic response to trauma. Discuss classification and management of shock due to trauma. (May 2017)
+5.  Discuss the pathogenesis of non-traumatic avascular necrosis of the head of the femur in the adult. Discuss the role of non-surgical management in avascular necrosis. (Nov 2017)
+6.  Describe the anatomy of the intervertebral disc. Explain the pathogenesis, clinical features, and management of a prolapsed intervertebral disc between L4 and L5 vertebrae in a young adult. (April 2018)
 
-1.  Describe anatomy of ilio-tibial tract. Discuss disorders associated with it.
+#### **Short Notes**
 
-### Short Essays (8x10=80 Marks)
-
-2.  Mechanism of tumour spread local and distant\
-3.  Patho-mechanism of compartment syndrome\
-4.  Anatomical factors contributing to knee stability\
-5.  Pain management in orthopaedics\
-6.  Imaging features of osteo-articular tuberculosis\
-7.  Normal calcium metabolism\
-8.  Safe surgical practice in orthopaedics\
-9.  Hyperparathyroidism
-
-------------------------------------------------------------------------
-
-## June 2016 - Paper I: Basic Sciences Applied to Orthopaedics & Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Discuss synovial fluid analysis. Also describe the changes that occur (synovial fluid) in various pathological conditions of the knee.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Articular cartilage\
-3.  Ortolani test\
-4.  Giant cell variants\
-5.  NCV (nerve conduction velocity)\
-6.  Bracing in Ponseti technique of club foot management\
-7.  Madelung deformity\
-8.  Charcot's joint\
-9.  HIV in orthopaedics
-
-------------------------------------------------------------------------
-
-## November 2016 - Paper I: Basic Sciences Applied to Orthopaedics & Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Discuss the microscopic structure of articular cartilage and the changes seen in osteoarthroses of a weight-bearing joint.
-
-### Short Essays (8x10=80 Marks)
-
-2.  CPPD (Calcium pyro phosphate dihydrate) arthropathy\
-3.  Anatomy of brachial plexus\
-4.  Congenital radio ulnar synostosis\
-5.  Blood supply of femoral head\
-6.  TENS (Transcutaneous electrical nerve stimulation)\
-7.  Floor reaction orthosis\
-8.  Myositis ossificans\
-9.  Tension band principle
-
-------------------------------------------------------------------------
-
-## May 2017 - Paper I: Basic Sciences Applied to Orthopaedics & Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Describe systemic response to trauma. Discuss classification and management of shock due to trauma.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Histopathology of osteosarcoma\
-3.  Muscle spasticity and its medical management\
-4.  Anatomical factors contributing to shoulder stability\
-5.  Bisphosphonates\
-6.  Informed consent for orthopaedic surgery\
-7.  Bone mineralisation\
-8.  Surgical site infection\
-9.  Renal tubular acidosis
+1.  Mechanism of tumour spread (local and distant) (Nov 2015)
+2.  Patho-mechanism of compartment syndrome (Nov 2015)
+3.  Anatomical factors contributing to knee stability (Nov 2015)
+4.  Pain management in orthopaedics (Nov 2015)
+5.  Imaging features of osteo-articular tuberculosis (Nov 2015)
+6.  Normal calcium metabolism (Nov 2015)
+7.  Safe surgical practice in orthopaedics (Nov 2015)
+8.  Hyperparathyroidism (Nov 2015)
+9.  Articular cartilage (June 2016)
+10. Ortolani test (June 2016)
+11. Giant cell variants (June 2016)
+12. NCV (nerve conduction velocity) (June 2016)
+13. Bracing in Ponseti technique of clubfoot management (June 2016)
+14. Madelung deformity (June 2016)
+15. Charcot’s joint (June 2016)
+16. HIV in orthopaedics (June 2016)
+17. CPPD (Calcium pyrophosphate dihydrate) arthropathy (Nov 2016)
+18. Anatomy of the brachial plexus (Nov 2016)
+19. Congenital radio-ulnar synostosis (Nov 2016)
+20. Blood supply of the femoral head (Nov 2016)
+21. TENS (Transcutaneous electrical nerve stimulation) (Nov 2016)
+22. Floor reaction orthosis (Nov 2016)
+23. Myositis ossificans (Nov 2016)
+24. Tension band principle (Nov 2016)
+25. Histopathology of osteosarcoma (May 2017)
+26. Muscle spasticity and its medical management (May 2017)
+27. Anatomical factors contributing to shoulder stability (May 2017)
+28. Bisphosphonates (May 2017)
+29. Informed consent for orthopaedic surgery (May 2017)
+30. Bone mineralisation (May 2017)
+31. Surgical site infection (May 2017)
+32. Renal tubular acidosis (May 2017)
+33. Anatomy of the growth plate (Nov 2017)
+34. Tumour markers in orthopaedics (Nov 2017)
+35. Uric acid metabolism in gout (Nov 2017)
+36. Hyponatremia in orthopaedic patients (Nov 2017)
+37. Level of evidence in clinical research (Nov 2017)
+38. Anatomy of the fibrous flexor sheath of the finger (Nov 2017)
+39. Lubrication of synovial joints (Nov 2017)
+40. Neurogenic bladder (Nov 2017)
+41. Gas gangrene (April 2018)\*
+42. Bone remodelling (April 2018)
+43. Drugs for gout (April 2018)\*
+44. Compartments of the leg (April 2018)
+45. Nerve conduction study (April 2018)\*
+46. Bisphosphonates (April 2018)\*
+47. Auto transfusion (April 2018)
+48. Prevention of deep vein thrombosis (April 2018)
 
 ------------------------------------------------------------------------
 
-## November 2017 - Paper I: Basic Sciences Applied to Orthopaedics & Traumatology
+### **Orthopaedic Disease**
 
-### Essays (20 Marks Each)
+#### **Essay Questions**
 
-1.  Discuss the pathogenesis of non-traumatic avascular necrosis head of femur in the adult. Discuss the role of non-surgical management in avascular necrosis.
+1.  Discuss the clinical features and management of tuberculosis of the spine at the dorso-lumbar junction with neurological deficit. (Nov 2015)
+2.  Discuss in detail the characteristics of synovial fluid and its role in the diagnosis of common joint disorders. (June 2016)
+3.  Classify cerebral palsy. Discuss the biomechanics of crouch gait in cerebral palsy. Outline the management of crouch gait. (Nov 2016)
+4.  Classify bone tumours based on the cell of origin. Discuss the management of osteosarcoma in a 10-year-old. Add a note on limb salvage surgery. (May 2017)
+5.  Discuss the pathophysiology, diagnosis, complications, and management of osteoporosis. (Nov 2017)
+6.  Discuss the pathophysiology, clinical features, and diagnostic evaluation of lumbar canal stenosis. Discuss the surgical management of lumbar canal stenosis. (April 2018)
 
-### Short Essays (8x10=80 Marks)
+#### **Short Notes**
 
-2.  Anatomy of growth plate\
-3.  Tumour markers in orthopaedics\
-4.  Uric acid metabolism in gout\
-5.  Hyponatremia in orthopaedic patients\
-6.  Level of evidence in clinical research\
-7.  Anatomy of fibrous flexor sheath of finger\
-8.  Lubrication of synovial joints\
-9.  Neurogenic bladder
-
-------------------------------------------------------------------------
-
-## April 2018 - Paper I: Basic Sciences Applied to Orthopaedics & Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Describe the anatomy of intervertebral disc. Explain the pathogenesis, clinical features and management of prolapsed intervertebral disc between L4 and L5 vertebra in a young adult.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Gas gangrene\
-3.  Bone remodelling\
-4.  Drugs for gout\
-5.  Compartments of leg\
-6.  Nerve conduction study\
-7.  Bisphosphonates\
-8.  Auto transfusion\
-9.  Prevention of deep vein thrombosis
-
-------------------------------------------------------------------------
-
-## November 2015 - Paper II: Traumatology and Fractures
-
-### Essays (20 Marks Each)
-
-1.  Classify the dislocation of elbow joint. Discuss the management of different types of posterior dislocation of the elbow and enumerate the complications.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Dupuytren’s contracture\
-3.  Bennett’s fracture\
-4.  Crush syndrome\
-5.  Essex Lopresti fracture\
-6.  Bankart lesion\
-7.  Phantom limb\
-8.  Pedicular screw fixation\
-9.  Stove in chest
-
-------------------------------------------------------------------------
-
-# June 2016 - Paper II: Traumatology and Fractures
-
-### Essays (20 Marks Each)
-
-1.  Classify calcaneal fractures and discuss the management of different types of calcaneal fractures.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Hoffa’s fracture\
-3.  Gamekeeper’s thumb\
-4.  Stress shielding in compression fixation\
-5.  Tillaux fracture 
-6.  Treatment of DVT\
-7.  MIPPO technique\
-8.  Management of infected non-union tibia\
-9.  Flail chest
-
-## November 2016 - Paper II: Traumatology and Fractures
-
-### Essays (20 Marks Each)
-
-1.  Describe carpal instability in detail and discuss the management of a patient aged 30 years with 2 months old untreated perilunate dislocation.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Jefferson’s fracture\
-3.  Bennett’s fracture\
-4.  JESS\
-5.  Lag screw principle\
-6.  Fish tail deformity of distal humerus\
-7.  Crush syndrome\
-8.  Fracture disease\
-9.  Lisfranc fractures
+1.  Factors influencing bone graft incorporation (Nov 2015)
+2.  Accessory navicular (Nov 2015)
+3.  Knee in cerebral palsy (Nov 2015)
+4.  Aneurysmal bone cyst (Nov 2015)
+5.  Radial club hand (Nov 2015)
+6.  Management of metastatic disease of bone (Nov 2015)
+7.  Crystal-induced arthropathy (Nov 2015)
+8.  Fungal osteomyelitis (Nov 2015)
+9.  Osteogenesis imperfecta (June 2016)
+10. Hallux valgus (June 2016)
+11. Management of infected total knee replacement (June 2016)
+12. Bone grafting (June 2016)
+13. Congenital vertical talus (June 2016)
+14. Hyperparathyroidism (June 2016)\*
+15. Osteochondroma (June 2016)
+16. Trendelenburg’s test (June 2016)
+17. Cold abscess (Nov 2016)
+18. Metatarsus adductus (Nov 2016)
+19. Flat foot (Nov 2016)
+20. Syndactyly (Nov 2016)
+21. Gas gangrene (Nov 2016)\*
+22. Radial club hand (Nov 2016)\*
+23. Giant cell variants (Nov 2016)\*
+24. Fibular hemimelia (Nov 2016)
+25. Systemic diseases predisposing to bone infection (May 2017)
+26. Skew foot (May 2017)
+27. Dysplasia epiphysialis hemimelica (May 2017)
+28. Degenerative lumbar intervertebral disc disease (May 2017)
+29. Surgical management of chronic osteomyelitis (May 2017)
+30. Hemophilic knee (May 2017)
+31. Ivory vertebra (May 2017)
+32. Sprengel deformity (May 2017)
+33. Treatment guidelines for adolescent idiopathic scoliosis (Nov 2017)
+34. Fibrous dysplasia (Nov 2017)
+35. Spina ventosa (Nov 2017)
+36. Management of metastatic bone disease (Nov 2017)\*
+37. Jump gait in cerebral palsy (Nov 2017)
+38. Tendon transfer in ulnar claw hand (Nov 2017)
+39. Coxa saltans (Nov 2017)
+40. Management of relapsed CTEV (Nov 2017)
+41. Bone biopsy (April 2018)
+42. Myositis ossificans (April 2018)\*
+43. Proximal focal femoral deficiency (April 2018)
+44. Differential diagnosis of heel pain (April 2018)
+45. Lambrinudi’s arthrodesis (April 2018)
+46. Blount’s disease (April 2018)
+47. Neuropathic joint (April 2018)
+48. Guided growth (April 2018)
 
 ------------------------------------------------------------------------
 
-## May 2017 - Paper II: Traumatology and Fractures
+### **Trauma**
 
-### Essays (20 Marks Each)
+#### **Essay Questions**
 
-1.  Describe aetiopathology and clinical features of traumatic knee dislocation. Discuss its management.
+1.  Classify the dislocation of the elbow joint. Discuss the management of different types of posterior dislocation of the elbow and enumerate the complications. (Nov 2015)
+2.  Classify calcaneal fractures and discuss the management of different types of calcaneal fractures. (June 2016)
+3.  Describe carpal instability in detail and discuss the management of a 30-year-old patient with a 2-month-old untreated perilunate dislocation. (Nov 2016)
+4.  Describe the aetiopathology and clinical features of traumatic knee dislocation. Discuss its management. (May 2017)
+5.  Discuss the role of the anterior cruciate ligament (ACL) in stabilizing the knee. Describe the clinical features of an ACL-deficient knee. Discuss the surgical management of this condition. How does treatment differ in paediatric ACL injuries? (Nov 2017)
+6.  Classify tibial plateau fractures and discuss their management. (April 2018)
 
-### Short Essays (8x10=80 Marks)
+#### **Short Notes**
 
-2.  Comparison of techniques of internal fixation of femoral trochanteric fractures\
-3.  Pre-hospital care in polytrauma\
-4.  Injury severity score\
-5.  Radial neck fractures in children\
-6.  Wound debridement in open fractures\
-7.  Damage control surgery\
-8.  Tillaux fracture\
-9.  Skeletal trauma in child abuse
-
-------------------------------------------------------------------------
-
-## November 2017 - Paper II: Traumatology and Fractures
-
-### Essays (20 Marks Each)
-
-1.  Discuss the role of the anterior cruciate ligament (ACL) in stabilizing the knee. Describe the clinical features of an ACL deficient knee. Discuss the surgical management of this condition. How does treatment differ in paediatric ACL injuries?
-
-### Short Essays (8x10=80 Marks)
-
-2.  Lisfranc injuries\
-3.  Principles of locking plate\
-4.  Carpal instability\
-5.  Scapulothoracic dissociation\
-6.  Atlanto-axial rotary subluxation\
-7.  Lateral condyle humerus fracture in a child\
-8.  Traumatic upper brachial plexus injuries\
-9.  Meniscal repair
-
-------------------------------------------------------------------------
-
-## April 2018 - Paper II: Traumatology and Fractures
-
-### Essays (20 Marks Each)
-
-1.  Classify tibial plateau fractures and discuss its management.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Fracture clavicle\
-3.  Classify lateral condyle fracture of humerus and discuss the management of non-union of lateral condyle\
-4.  Scaphoid fracture\
-5.  Odontoid fracture\
-6.  Management of transcervical fracture neck of femur in a 45-year-old individual\
-7.  Management of fracture talus\
-8.  Conservative management of fracture midshaft tibia and discuss the management of compartment syndrome\
-9.  Principles of surgical management of recurrent dislocation of shoulder
-
-------------------------------------------------------------------------
-
-## November 2015 - Paper III: Orthopaedic Diseases
-
-### Essays (20 Marks Each)
-
-1.  Discuss the clinical features and management of tuberculosis spine at dorso-lumbar junction with neurological deficit.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Factors influencing bone graft incorporation\
-3.  Accessory navicular\
-4.  Knee in cerebral palsy\
-5.  Aneurysmal bone cyst\
-6.  Radial club hand\
-7.  Management of metastatic disease of bone\
-8.  Crystal induced arthropathy\
-9.  Fungal osteomyelitis
+1.  Dupuytren’s contracture (Nov 2015)
+2.  Bennett’s fracture (Nov 2015)
+3.  Crush syndrome (Nov 2015)
+4.  Essex-Lopresti fracture (Nov 2015)
+5.  Bankart lesion (Nov 2015)
+6.  Phantom limb (Nov 2015)
+7.  Pedicular screw fixation (Nov 2015)
+8.  Stove-in chest (Nov 2015)
+9.  Hoffa’s fracture (June 2016)
+10. Gamekeeper’s thumb (June 2016)
+11. Stress shielding in compression fixation (June 2016)
+12. Tillaux fracture (June 2016)
+13. Treatment of DVT (June 2016)
+14. MIPPO technique (June 2016)
+15. Management of infected non-union of the tibia (June 2016)
+16. Flail chest (June 2016)
+17. Jefferson’s fracture (Nov 2016)
+18. Bennett’s fracture (Nov 2016)\*
+19. JESS (Nov 2016)
+20. Lag screw principle (Nov 2016)
+21. Fish tail deformity of the distal humerus (Nov 2016)
+22. Crush syndrome (Nov 2016)\*
+23. Fracture disease (Nov 2016)
+24. Lisfranc fractures (Nov 2016)
+25. Comparison of techniques of internal fixation of femoral trochanteric fractures (May 2017)
+26. Pre-hospital care in polytrauma (May 2017)
+27. Injury severity score (May 2017)
+28. Radial neck fractures in children (May 2017)
+29. Wound debridement in open fractures (May 2017)
+30. Damage control surgery (May 2017)
+31. Tillaux fracture (May 2017)\*
+32. Skeletal trauma in child abuse (May 2017)
+33. Lisfranc injuries (Nov 2017)\*
+34. Principles of locking plate (Nov 2017)
+35. Carpal instability (Nov 2017)\*
+36. Scapulo-thoracic dissociation (Nov 2017)
+37. Atlanto-axial rotary subluxation (Nov 2017)
+38. Lateral condyle humerus fracture in a child (Nov 2017)
+39. Traumatic upper brachial plexus injuries (Nov 2017)
+40. Meniscal repair (Nov 2017)
+41. Fracture clavicle (April 2018)
+42. Classify lateral condyle fracture of the humerus and discuss the management of non-union of the lateral condyle (April 2018)
+43. Scaphoid fracture (April 2018)
+44. Odontoid fracture (April 2018)
+45. Management of transcervical fracture neck of femur in a 45-year-old individual (April 2018)
+46. Management of fracture talus (April 2018)
+47. Conservative management of fracture midshaft tibia and discuss the management of compartment syndrome (April 2018)
+48. Principles of surgical management of recurrent dislocation of the shoulder (April 2018)
 
 ------------------------------------------------------------------------
 
-## June 2016 - Paper III: Orthopaedic Diseases
-
-### Essays (20 Marks Each)
-
-1.  Discuss in detail characteristics of synovial fluid and its role in the diagnosis of common joint disorders.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Osteogenesis imperfecta\
-3.  Hallux valgus\
-4.  Management of infected total knee replacement\
-5.  Bone grafting\
-6.  Congenital vertical talus\
-7.  Hyperparathyroidism\
-8.  Osteochondroma\
-9.  Trendelenberg’s test
-
-------------------------------------------------------------------------
-
-## November 2016 - Paper III: Orthopaedic Diseases
-
-### Essays (20 Marks Each)
-
-1.  Classify cerebral palsy. Discuss biomechanics of crouch gait in cerebral palsy. Outline the management of crouch gait.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Cold abscess\
-3.  Metatarsus adductus\
-4.  Flat foot\
-5.  Syndactyly\
-6.  Gas gangrene\
-7.  Radial club hand\
-8.  Giant cell variants\
-9.  Fibular hemimelia
-
-------------------------------------------------------------------------
-
-## May 2017 - Paper III: Orthopaedic Diseases
-
-### Essays (20 Marks Each)
-
-1.  Classify bone tumours on the basis of cell of origin. Discuss management of osteosarcoma in a 10-year-old. Add a note on limb salvage surgery.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Systemic diseases predisposing to bone infection\
-3.  Skew foot\
-4.  Dysplasia epiphysialis hemimelica\
-5.  Degenerative lumbar intervertebral disc disease\
-6.  Surgical management of chronic osteomyelitis\
-7.  Hemophilic knee\
-8.  Ivory vertebra\
-9.  Sprengel deformity
-
-------------------------------------------------------------------------
-
-## November 2017 - Paper III: Orthopaedic Diseases
-
-### Essays (20 Marks Each)
-
-1.  Discuss the pathophysiology, diagnosis, complications, and management of osteoporosis.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Treatment guidelines for adolescent idiopathic scoliosis\
-3.  Fibrous dysplasia\
-4.  Spina ventosa\
-5.  Management of metastatic bone disease\
-6.  Jump gait in cerebral palsy\
-7.  Tendon transfer in ulnar claw hand\
-8.  Coxa saltans\
-9.  Management of relapsed CTEV
-
-------------------------------------------------------------------------
-
-## April 2018 - Paper III: Orthopaedic Diseases
-
-### Essays (20 Marks Each)
-
-1.  Discuss the pathophysiology, clinical features, and diagnostic evaluation of lumbar canal stenosis. Discuss the surgical management of lumbar canal stenosis.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Bone biopsy\
-3.  Myositis ossificans\
-4.  Proximal focal femoral deficiency\
-5.  Differential diagnosis of heel pain\
-6.  Lambrinudi’s arthrodesis\
-7.  Blount’s disease\
-8.  Neuropathic joint\
-9.  Guided growth
-
-------------------------------------------------------------------------
-
-## June 2016 - Paper IV: Recent Advances in Orthopaedics and Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Classify meniscal injuries of the knee. Discuss the etiology, assessment, and management of this injury in a young sportsman. Enumerate the recent advances in the management.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Stem cell therapy\
-3.  Vertebroplasty\
-4.  Drug-resistant tuberculosis\
-5.  Femoro-acetabular impingement\
-6.  Role of botulinum toxin in orthopaedics\
-7.  Computer-aided orthopaedic surgery\
-8.  Trabecular metal\
-9.  Locked plates
-
-------------------------------------------------------------------------
-
-## November 2016 - Paper IV: Recent Advances in Orthopaedics and Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Discuss the current status of articular cartilage transplantation and autologous chondrocyte implantation.
-
-### Short Essays (8x10=80 Marks)
-
-2.  CPM (Continuous Passive Motion)\
-
-3.  Thrombo-prophylaxis in joint replacement\
-
-4.  Bone cement\
-
-5.  Isotope bone scan\
-
-6.  Telescoping rod\
-
-7.  Microdiscectomy\
-
-8.  Hip arthroscopy\
-
-9.  Porous coated implants
-
-## May 2017 - Paper IV: Recent Advances in Orthopaedics and Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Discuss the radioisotopes and their role in orthopaedics.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Balloon kyphoplasty\
-3.  Chinese flap\
-4.  Newer techniques of nerve repair\
-5.  HKAFO\
-6.  Role of stem cells in orthopaedics\
-7.  Neoadjuvant chemotherapy\
-8.  Bone bank\
-9.  Vascularized pedicle bone graft
-
-------------------------------------------------------------------------
-
-## November 2017 - Paper IV: Recent Advances in Orthopaedics and Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Discuss the management of painful total hip replacement. What are the issues involved in revision surgery of total hip arthroplasty? Discuss the management of acetabular bone loss.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Extra-corporeal irradiation for bone tumors\
-3.  Reverse shoulder arthroplasty\
-4.  Elastic nailing\
-5.  Bone morphogenetic protein\
-6.  Platelet-rich plasma in orthopaedics\
-7.  Double bundle ACL reconstruction\
-8.  Modern cementing technique\
-9.  Uni-compartmental knee replacement
-
-------------------------------------------------------------------------
-
-## April 2018 - Paper IV: Recent Advances in Orthopaedics and Traumatology
-
-### Essays (20 Marks Each)
-
-1.  Describe the recent advances in the diagnosis and management of skeletal tuberculosis. What are the latest guidelines in the medical management of tuberculosis? Discuss newer anti-tuberculosis drugs.
-
-### Short Essays (8x10=80 Marks)
-
-2.  Bearing surfaces in total hip replacement\
-3.  Lumbar disc replacement\
-4.  Bone marrow oedema syndrome of the hip\
-5.  Tertiary survey in trauma\
-6.  Negative pressure wound therapy\
-7.  Dynamic stabilization of the spine\
-8.  Prosthetic management of below elbow amputee of the dominant side\
-9.  Visco-supplementation
-
-------------------------------------------------------------------------
-
-## November 2015 - Paper IV: Recent Advances in Orthopaedics and Traumatology
-
-### Essays (20 Marks Each)
-
-1.  With regard to total hip replacement, discuss:
-    -   Classification of periprosthetic fractures and its management\
-    -   Diagnosis of periprosthetic infection and its management
-
-### Short Essays (8x10=80 Marks)
-
-2.  Floating shoulder\
-3.  Techniques of extension of margin in intralesional curettage\
-4.  Tennis elbow\
-5.  Advances in management of large open wounds\
-6.  Locking compression plate\
-7.  Sleeve fracture of patella\
-8.  Fragment-specific fixation of distal radius fracture\
-9.  Spinal stabilization
+### **Recent Advances**
+
+#### **Essay Questions**
+
+1.  Classify meniscal injuries of the knee. Discuss the aetiology, assessment, and management of this injury in a young sportsman. Enumerate the recent advances in the management. (June 2016)
+2.  Discuss the current status of articular cartilage transplantation and autologous chondrocyte implantation. (Nov 2016)
+3.  Discuss the radioisotopes and their role in orthopaedics. (May 2017)
+4.  Discuss the management of painful total hip replacement. What are the issues involved in revision surgery of total hip arthroplasty? Discuss the management of acetabular bone loss. (Nov 2017)
+5.  Describe the recent advances in the diagnosis and management of skeletal tuberculosis. What are the latest guidelines in the medical management of tuberculosis? Discuss newer anti-tuberculosis drugs. (April 2018)
+6.  With regard to total hip replacement, discuss:
+    -   Classification of periprosthetic fractures and their management
+    -   Diagnosis of periprosthetic infection and its management (Nov 2015)
+
+#### **Short Notes**
+
+1.  Stem cell therapy (June 2016)
+2.  Vertebroplasty (June 2016)
+3.  Drug-resistant tuberculosis (June 2016)
+4.  Femoro-acetabular impingement (June 2016)
+5.  Role of botulinum toxin in orthopaedics (June 2016)
+6.  Computer-aided orthopaedic surgery (June 2016)
+7.  Trabecular metal (June 2016)
+8.  Locked plates (June 2016)
+9.  CPM (continuous passive motion) (Nov 2016)
+10. Thrombo-prophylaxis in joint replacement (Nov 2016)
+11. Bone cement (Nov 2016)
+12. Isotope bone scan (Nov 2016)
+13. Telescoping rod (Nov 2016)
+14. Microdiscectomy (Nov 2016)
+15. Hip arthroscopy (Nov 2016)
+16. Porous-coated implants (Nov 2016)
+17. Balloon kyphoplasty (May 2017)
+18. Chinese flap (May 2017)
+19. Newer techniques of nerve repair (May 2017)
+20. HKAFO (May 2017)
+21. Role of stem cells in orthopaedics (May 2017)\*
+22. Neoadjuvant chemotherapy (May 2017)
+23. Bone bank (May 2017)
+24. Vascularised pedicle bone graft (May 2017)
+25. Extra-corporeal irradiation for bone tumors (Nov 2017)
+26. Reverse shoulder arthroplasty (Nov 2017)
+27. Elastic nailing (Nov 2017)
+28. Bone morphogenetic protein (Nov 2017)
+29. Platelet-rich plasma in orthopaedics (Nov 2017)
+30. Double bundle ACL reconstruction (Nov 2017)
+31. Modern cementing technique (Nov 2017)
+32. Uni-compartmental knee replacement (Nov 2017)
+33. Bearing surfaces in total hip replacement (April 2018)
+34. Lumbar disc replacement (April 2018)
+35. Bone marrow oedema syndrome of the hip (April 2018)
+36. Tertiary survey in trauma (April 2018)
+37. Negative pressure wound therapy (April 2018)
+38. Dynamic stabilization of the spine (April 2018)
+39. Prosthetic management of below-elbow amputee of the dominant side (April 2018)
+40. Viscosupplementation (April 2018)
+41. Floating shoulder (Nov 2015)
+42. Techniques of extension of margin in intralesional curettage (Nov 2015)
+43. Tennis elbow (Nov 2015)
+44. Advances in the management of large open wounds (Nov 2015)
+45. Locking compression plate (Nov 2015)
+46. Sleeve fracture of the patella (Nov 2015)
+47. Fragment-specific fixation of distal radius fracture (Nov 2015)
+48. Spinal stabilization (Nov 2015)
