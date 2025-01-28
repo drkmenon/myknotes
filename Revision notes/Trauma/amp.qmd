@@ -45,7 +45,7 @@ editor: visual
 
 ## Transcutaneous Oxygen Partial Pressure
 - Gold standard for measurement of vascular inflow to the skin
-- >40 mmHg indicates good perfusion
+- mare than 40 mmHg indicates good perfusion
 - <20 mmHg indicates wound healing will be poor
 
 ## Paediatric Amputations
@@ -90,13 +90,15 @@ editor: visual
 6. Mechanical usually related to bone end
 7. May be from a neuroma
 
-## Amputation Level | % Energy Above Baseline | Speed (m/min) | O2 Cost (mL/kg/m)
-- **Long transtibial**: 10 | 70 | 0.17
-- **Average transtibial**: 25 | 60 | 0.20
-- **Short transtibial**: 40 | 50 | 0.20
-- **Bilateral transtibial**: 41 | 50 | 0.20
-- **Transfemoral**: 65 | 40 | 0.28
-- **Wheelchair**: 0-8 | 70 | 0.16
+| Amputation Level       | % Energy Above Baseline | Speed (m/min) | O2 Cost (mL/kg/m) |
+|------------------------|-------------------------|---------------|-------------------|
+| **Long transtibial**    | 10                      | 70            | 0.17              |
+| **Average transtibial** | 25                      | 60            | 0.20              |
+| **Short transtibial**   | 40                      | 50            | 0.20              |
+| **Bilateral transtibial**| 41                      | 50            | 0.20              |
+| **Transfemoral**        | 65                      | 40            | 0.28              |
+| **Wheelchair**          | 0-8                     | 70            | 0.16              |
+
 
 ## Soft Tissue Coverage & Microsurgery
 
