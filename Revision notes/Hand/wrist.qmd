@@ -1,0 +1,55 @@
+---
+title: "Biomechanics wrist"
+format: html
+editor: visual
+---
+
+## Bones of the Carpus
+- The carpus is suspended by the ulna, not the radius
+- The bones of the distal carpal row are rigidly fixed to one another and the MC bases by interosseous and extrinsic ligaments
+- The proximal row has no tendinous attachments and weak interosseous ligaments
+- The proximal row therefore relies on the bony geometry of the bones and the extrinsic ligaments between them for static stability
+- It functions as an intercalated segment between the radius/ulna and distal row
+- At mid carpal level, the main load is through the capitate/lunate/scaphoid articulation
+- At the radiocarpal joint, the main load is through the radiolunate and radioscaphoid articulations
+- The wedge-shaped lunate is the key to proximal row motion
+
+## Ligaments of the Carpus
+- **Extrinsic and intrinsic** ligaments
+- Extrinsic ligaments are in a V arrangement on both sides
+  - Volar extrinsics are stronger, and dorsal extrinsics run ulnar distally to prevent carpal slide down the radial slope
+- The intrinsic ligaments are those directly between the carpal bones
+  - e.g., scapholunate, lunotriquetral ligaments, etc.
+  - They are stronger in the distal row, and in the proximal row, the dorsal SLIL is stronger but LTIL volar aspect is stronger
+
+## Carpal Kinematics
+- Scaphoid extends with ulnar deviation to fill the void left by the trapezium
+- Scaphoid flexes in radial deviation to accommodate the trapezium
+- Thus, X-rays taken in radial or ulnar deviation give differing but normal positions of the scaphoid and lunate
+- Scaphoid has an inherent flexion moment
+- Triquetrum has an inherent extension moment
+- Lunate acts as a torque lever neutralizing the two opposing moments
+- If the link between the lunate and either bone is disrupted, the lunate will adopt the position of the bone it remains attached to, while the unlinked bone will adopt the position it would normally favor
+- Carpal motion contributes to all wrist movements together with the radiocarpal joint
+
+## Carpal Instability
+- Can be divided as follows:
+  - **Within same row**: Dissociative (Intrinsic ligaments failure)
+  - **Between rows**: Non-Dissociative (Extrinsic ligaments failure)
+  - **Within and between rows**: Complex (Multi-ligament failure)
+  - **Lesser or Greater arc injury** (including fracture or not)
+
+### DISI & VISI
+- Refers to the posture of the lunate in dissociative instability
+
+### Midcarpal Instability
+- Is the same as non-dissociative disability (i.e., between rows)
+- Is more uncommon
+
+## Normal Radiographic Measurements
+- **Gulila’s lines**: One along the base of the proximal row, one along the top of the proximal row, and one along the base of the distal row. Should be no disruption.
+- **Radiocarpal height**: Ratio between height of carpus and height of 3rd MC 0.54 ± 0.03
+- **Scapholunate angle**: 30-60 degrees
+- **Capitolunate angle**: -20 – 10 degrees
+- **Radiolunate angle**: -20 – 10 degrees
+

@@ -1,0 +1,108 @@
+---
+title: "Biomechanics hand"
+format: html
+editor: visual
+---
+
+## IP Joints
+- Single axis hinge joints. COR just anterior to collateral origin.
+- Static stability from:
+  - Bony architecture (akin to the knee)
+  - Collateral ligaments
+  - Volar plate
+
+## MP Joints
+- Axes of movement: F/E & Abd/Add
+  - Abduction/adduction only occurs if P1 is flexed 30 degrees
+  - This results clinically in circumduction of the finger around the MC head
+- Static stability same as IPJ
+
+## CMC Joints of Fingers
+- Movement is progressively more restricted as we move ulnarward
+- 4th and 5th CMCJ very rigid and transmit forces from hand to wrist
+- 3rd MC is a cantilever supporting the flexor sheaths via a fibrous framework encompassing the collateral ligaments and transverse metacarpal ligaments
+
+## Thumb CMCJ
+- Saddle joint
+  - Axes of movement like the MCPJs of fingers
+  - Circumduction occurs as a consequence of the two movement axes with thumb MC flexed slightly
+  - Trapezium and MC base have differing radii
+  - This allows pronation of the thumb and increased ROM but is less stable
+- Stability is from volar oblique (beak) ligament and capsule
+- Loading of the thumb CMCJ is up to 120kg and mainly through the volar half
+  - Therefore, the volar oblique ligament is prone to attenuation/rupture, which leads to joint instability – repair if possible or reconstruct with trapeziectomy
+- CMCJ and MCP of thumb work in unison as their motor tendons cross both
+
+## Motors Powering Movement
+- Flexors, extensors, and intrinsics
+- Tendon excursion is 30-50-70 mm
+- Wrist flexors and extensors 30mm
+
+## Extensor Mechanism
+- Long extensors (extrinsics) and intrinsics
+- Extensor hood made up of long extensor, lumbrical (radial side), and interossei
+- Lateral bands control distal phalanx and central slip controls middle phalanx
+
+## Flexor Mechanism
+- FDP is a mass action muscle, although index FDP has some independent action
+- **Quadrigia effect**: shortening or tethering of one FDP tendon results in slight flexion of the other DIPJs
+- Tension within FDP is constant when a contraction occurs, but torque is greater proximally as the moment arm between the COR of the MPJ is longer than that of the DIPJ
+- Therefore, proximally quite a high torque is generated even for a small load
+- The pulleys prevent the tendons from bowstringing and thus maintain their proximity to the COR of each joint in the hand, maximizing power
+- Annular pulleys are: A1-4 (2 and 4 most important)
+- Cruciate pulleys are C1-3 and lie between the annular pulleys supporting the tendon sheaths
+- Flexor retinaculum can also be considered to be a pulley
+
+## Intrinsic Muscles
+- **Lumbricals**:
+  - Unique – arise from one tendon (FDP) and insert into another (extensor hood)
+  - Fine-tune tension between the flexor and extensor systems as they connect them
+- **Interossei**:
+  - Palmar adduct and dorsal abduct the fingers
+  - Both arise from the MC shafts and contribute to the extensor hood
+  - Together the intrinsics cause flexion at the MCPJ and extension at the PIPJ
+  - This is mainly due to the lumbricals as they are further from the MCPJ COR (longer moment arm)
+  - Intrinsics allow finger flexion without curling
+  - This is vital to allow grasp of large objects
+  - In intrinsic paralysis, the intrinsic minus hand occurs:
+    - Hyperextension of the MCPJ due to long extensors and a flexed posture of the DIPJ, PIPJ due to long flexor tension
+    - Grasping is not possible as the fingers curl to make a fist from distal (FDP) to more proximal (FDS)
+
+### Intrinsic Plus
+- The opposite – i.e., due to intrinsic tightness
+  - The MCPJs are flexed and the PIPJs extended
+  - Because the lumbricals bridge between the long flexors and extensors, paradoxical PIPJ extension may occur on attempted flexion
+
+### Lumbrical Plus Finger
+- An extreme example of this phenomenon
+  - Occurs when FDS is sectioned distal to the lumbrical origin
+  - All FDS muscle power is transmitted via the lumbrical to the long extensors causing PIPJ hyperextension when FDS fires
+
+## Oblique Retinacular Ligament of Landsmeer (ORL)
+- Arises from the proximal phalanx and A2 pulley
+- Runs diagonally in front of the PIPJ COR to attach to the lateral bands of the extensor tendon on the DIPJ
+- Thus, it causes passive extension of the DIPJ when the PIPJ is extended, allowing controlled extension of the whole finger rather than reliance on the long powerful extensors only
+
+## Thenar Muscles
+- Thumb intrinsics are:
+  - ADP (ulna)
+  - APB (median)
+  - FPB, OP (variable)
+- The latter 3 arise from the carpal bones
+- **APB palsy** causes significant disability as it is required to abduct the thumb to allow opposition (e.g., severe CTS)
+- **ADP palsy** causes reduced pinch strength as ADP provides a stable post for strong pinch to occur – this occurs in intrinsic palsy (ulna nerve)
+- **FPB palsy** not too significant as can still pinch against an extended IP joint
+- Extrinsic thumb muscles are:
+  - EPV, EPL, FPL, APL
+  - Best individual test for EPL is lifting thumb off a flat surface (retropulsion)
+  - EPL also acts as an extrinsic adductor when FPL flexes – tensions EPL
+- In intrinsic palsy, adduction of the thumb can be maintained by EPL despite loss of ADP
+  - In this situation, the thumb posture is classic – IP and MP flexion due to long flexor moment arm and CMC extension due to favorable EPL moment arm
+- **APL and EPV** abduct and extend the thumb but together with ADP are important for stabilizing the thumb MC for strong pinch grip
+  - The three muscles pull against each other, therefore stabilizing the thumb MC
+
+## Hypothenar Muscles
+- Mirror the thenar muscles (ABDm, FDM, ODM)
+- Functions are to:
+  - Stabilize the little finger MC for opposition, cupping, and power grip
+  - Provide a cushion mass which aids grip

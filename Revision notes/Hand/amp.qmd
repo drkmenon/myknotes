@@ -1,0 +1,354 @@
+---
+title: "Traumatic Amputations"
+format: html
+editor: visual
+---
+
+## Indications for Replantation
+1. **Multiple Digits**
+   - Will allow early ROM and rehab = good predictable result
+2. **Thumb**
+3. **Any digit in child**
+4. **Mid-Palmar amputation**
+5. **Any proximal amputation**
+   - Results with reimplantation better than prosthetic
+   - Sensibility and coordinated function
+6. **Single digit distal to FDS insertion (within flexor zone 1)**
+   - Relative indication
+   - Will be able to rehab better than proximal amputation
+
+## Contraindications
+1. Single digit proximal to FDS (flexor zone 2)
+2. Crush injury
+3. Segmental amputation
+4. Prolonged ischaemic time
+
+## Care of the Amputated Part
+- Place in saline-soaked gauze within a plastic bag in an ice bath
+- Transport at 4 degrees is ideal
+
+### Viable Ischaemic Time
+- Viable time is less for body parts containing muscle
+- Muscle very sensitive to ischaemia
+  - Results in increased infection risk and necrosis
+- **For Hand**:
+  - 12 hours warm ischemia and 24 hours cold ischemia time
+- **Proximal to carpus**:
+  - 6 hours warm ischemia and 12 hours cold ischemia time
+
+## Order of Replantation for Hand and Digits
+1. **Digit**
+   - Thumb: Provides 40% hand function
+   - Middle
+   - Ring
+   - Little
+   - Index
+2. **Structure**
+   - Bone
+   - Extensor Tendon
+   - Flexor Tendon
+   - Artery
+   - Nerve
+   - Vein
+   - Skin
+
+## Technique
+- **For multiple digital amputation** use:
+  - **Structure by structure**:
+    - Faster
+    - Higher viability rate
+  - **Digit by digit**:
+    - Slower
+  - **Transpositional Replantation**:
+    - Most viable digit re-planted to most important finger
+    - Not as good as anatomic replantation if possible
+
+### Other Technical Points
+- Sympathetic block in axilla
+- Abx and tetanus cover
+- Dedicated replant team with practice in the lab gives best results
+- Use longitudinal mid-lateral incisions
+- Shorten bones before fixing – reduces tension on soft tissues
+- 10-0 nylon adventitial repair to artery
+- 10-0 epineureal repair for nerves – graft if irreparable (MCNF)
+
+## Post-operative Management
+- Hydrate patient
+- Keep warm
+- **Anticoagulation**:
+  - Careful not to overdose – may cause haematoma
+- Avoid vasopressors (nicotine, caffeine, etc.)
+- Monitor O2 sats and skin temperature:
+  - Drop in temperature by 2 degrees in 1 hour or absolute temperature of 30 degrees indicates unsatisfactory perfusion
+
+## Complications
+- **Failure**:
+  - **Early**:
+    - Arterial thrombosis due to persistent vasospasm
+    - Administer heparin, warm finger, stellate ganglion blockade
+  - **Late (>12 hours)**:
+    - Venous thrombosis/congestion
+    - Can be treated with leeches or heparin-soaked gauze
+- **Re-perfusion injury**:
+  - Ischaemia induces hypoxanthine conversion to xanthine
+  - Allopurinol given to prevent this
+- Myonecrosis and renal failure
+- Infection
+- Hypersensitivity
+- Cold intolerance
+
+## Results of Replantation
+- **Best predictor of survival**:
+  - Mechanism of injury (sharp better than blunt)
+- **Following this**:
+  - Ischaemic time is the main factor (<8 hours = optimal results)
+- **Function**:
+  - Digital replantation can expect 50% ROM and 10mm 2PD
+
+## Forearm and Arm Replantation
+- Establish arterial flow first if possible
+- Minimizes warm ischaemia time
+- Prophylactic fasciotomies for all patients
+
+## Ring Avulsion Injuries
+- Avulsion of soft tissues and NV structures from finger
+
+### Urbaniak Classification
+
+#### Type 1
+- Circumferential laceration
+- NV viable
+- Treat as soft tissue injury
+
+#### Type 2
+- Vascular insufficiency
+- Replant if bone/tendon intact (i.e., no other injuries)
+- If vascular injury in addition to bony injury - amputate
+
+#### Type 3
+- Complete avulsion with bone exposed – amputate
+
+# Nail and Finger Tip Injuries
+
+## Epidemiology
+- Very common injuries
+- Long finger most common
+
+## Mechanism
+- **Crush**:
+  - May include tuft fracture
+  - Nail matrix avulsions
+  - Nail plate avulsions
+- **Sharp**:
+  - Usually soft tissue loss
+  - May expose bone or amputate bone
+
+## Nail Structure
+### Nail Plate
+- Composed of keratin
+- Arises from Germinal matrix proximal to nail fold
+
+### Germinal Matrix
+- Contributes 90% of nail thickness
+
+### Sterile Matrix
+- Adherent to nail plate
+- Contributes 10% of thickness by producing keratin
+
+### Paronychium
+- Skin on lateral edges of nail
+
+### Hyponichium
+- Finger tip tough skin just below distal nail plate edge
+- Barrier to micro-organisms
+
+### Eponychium (cuticle)
+- Skin at proximal nail plate
+
+### Lunula
+- Demarcation between germinal and sterile matrix seen through plate
+
+## Goals of Treatment in Finger Tip Injuries
+1. Maintain length where possible
+2. Sensate finger pulp
+3. Prevent contracture
+4. Restore full function
+
+## Management of Nail Bed Injury Without Soft Tissue Loss
+- **Subungal haematomas** can be drained with a needle if <50% nail plate
+- If large haematoma:
+  - Remove nail plate
+  - Inspect, debride and repair underlying sterile or germinal matrix
+  - Early surgical treatment of nail bed injuries gives best results
+  - Replace nail plate below eponychium to guide new nail growth
+- If significant matrix loss, consider:
+  - Matrix transfer from 2nd toe or adjacent finger
+- Nail re-growth takes 3-6 months
+
+### Complications
+- Hook nail
+- Nail ridging
+- Cold hypersensitivity – 50%
+
+## Management of Finger Tip Injury with Soft Tissue Loss
+### Classification
+- Important as it guides coverage choice
+- **Descriptive** – refers to orientation of residual stump:
+  - Transverse
+  - Volar oblique
+  - Dorsal oblique
+  - Lateral Oblique
+- Bone exposed or not
+
+### **No Exposed Bone, Pulp <1cm Loss**
+- **Secondary intention healing**
+- **Full thickness skin graft**:
+  - Better sensibility, appearance, and durability
+
+### **Exposed Bone**
+- **Volar Oblique Injury**:
+  - Cross finger flap
+  - Thenar flap (for index or long finger only)
+- **Transverse or Dorsal Oblique Injury**:
+  - Atasoy VY advancement
+  - Kutler VY advancement (smaller – two flaps meet in the middle)
+  - Reverse cross finger flap
+- **Transverse or Volar Oblique Thumb Injury**:
+  - Moberg advancement – for defects <2cm
+- **Dorsal Thumb**:
+  - Kite flap
+  - Reverse cross finger flap
+
+### Flap Types
+- **Cross finger**; **Atasoy VY**; **Kutler VY**; and **Thenar flaps**
+
+# Soft Tissue Coverage & Microsurgery
+
+## Reconstructive Ladder
+1. Primary closure
+2. Secondary intention
+3. STSG (Split Thickness Skin Graft)
+4. FTSG (Full Thickness Skin Graft)
+5. Local Flap coverage
+6. Free Flap coverage
+
+## Healing by Secondary Intention
+- Granulation tissue, epithelization, contracture of skin
+- Not advised if tendon, nerve, or bone is exposed in the wound bed
+
+## Skin Grafting
+- Skin grafts receive their blood supply by diffusion from the wound bed
+- **Failure of graft to take** is due to:
+  - Shear stress and hematoma formation
+
+### Split Thickness Skin Graft
+- Preferred for dorsal hand wounds
+- Meshing increases surface area and prevents hematoma accumulation
+- Typical donor site: anterolateral thigh
+- **Thickness**:
+  - 0.005-0.03 inches – 0.015 common
+- Thicker grafts contain hair follicles and sweat glands
+  - May or may not be preferred
+
+### Full Thickness Skin Graft
+- Higher chance of viability
+- Better re-innervation
+- Better cosmetic appearance
+- Less scar contraction
+- Preferred for palmar defects
+- Typical donor site: volar wrist or forearm
+
+## Flaps
+- Tissue unit containing a blood supply taken from a donor site and re-implanted into the wound bed
+- The donor site from which the flap is taken can be closed primarily or skin grafted
+- **Flaps may be classified by**:
+  - Tissue type
+  - Blood supply
+  - Donor site location
+
+### Classification by Tissue Type
+- **Cutaneous**: contains skin and subcutaneous tissue
+- **Fasciocutaneous**: contains skin, SC tissue, and fascia
+- **Musculocutaneous**: skin, SC tissue, fascia, and muscle
+- **Osteocutaneous**: skin, SC tissue, fascia, muscle, and bone
+
+### Classification by Pattern of Blood Supply
+- **Axial Pattern Supply Flap**:
+  - Blood supply is based on a named artery and its draining vein
+  - Allows larger flaps to be grafted
+  - More likely to take
+  - Lower infection rate
+- **Random Pattern Flap**:
+  - Vessels within the flap are allowed to micro-anastomose with those in the wound bed
+
+### Classification by Donor Location
+
+#### Local Flaps
+- **Transposition Flap**:
+  - Geometric in design and designed to close or lengthen a wound without having to actually free-raise any tissue
+  - Classic example: **Z-plasty** – used for:
+    - Lengthening a scar (e.g., a scar within a flexion contracture)
+    - Preventing formation of contracture (crossing creases)
+    - Re-orientating a cosmetically bad scar (soft indication)
+    - All limbs must be equal length
+    - Full thickness skin flap raised
+    - Tissues undermined enough to allow mobilization of limbs
+    - Triangular flaps transposed around each other
+    - 30-degree angle gives a 25% lengthening
+    - 45-degree angle gives a 50% lengthening
+    - 60-degree angle gives 75% lengthening
+
+- **Rotation Flaps**:
+  - Random pattern with regard to blood supply
+  - Length of flap should not exceed width of base
+
+- **Advancement Flaps**:
+  - VY plasty and Moberg flaps
+  - Proceed in a straight line to fill the defect
+
+- **Axial Flag Flaps**:
+  - Based on the dorsal digital artery
+  - Can be homodigital (used to fill defect on same digit) or heterodigital (transferred to an adjacent digit)
+
+- **Fillet Flap**:
+  - Tissue taken from an amputated digit not for replantation
+
+#### Distant Flaps
+- When there is inadequate local tissue for coverage
+- Example: placement of hand into a groin or abdominal pouch
+
+#### Free Flaps
+- Distant axial pattern flap based on a named AV blood supply
+- Transferred and re-anastomosed to the local vasculature
+- **Lat Dorsi Flap** (Thoracodorsal artery) typical
+- **Serratus Anterior** (subscapular artery branch)
+
+## Flap Selection in the Hand
+
+### Finger Tip – Volar
+- VY Advancement
+
+### Finger Tip – Volar Oblique or Dorsal
+- Cross Finger Flap (older patients)
+- Thenar flap (young patients)
+
+### Volar Proximal Finger
+- Cross Finger Flap
+
+### Dorsal Proximal Finger
+- Reverse Cross Finger
+
+### Volar Thumb
+- Moberg Advancement if <2cm defect
+- FDMA if 2-4cm
+- Neurovascular Island Flap if >4cm
+
+### Dorsal Thumb
+- FDMA (First dorsal metacarpal artery flap)
+
+### 1st Web Space
+- Z Plasty
+
+### Dorsal Hand
+- Groin Flap
+

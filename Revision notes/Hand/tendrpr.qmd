@@ -1,0 +1,147 @@
+---
+title: "Principles of Tendon Repair"
+format: html
+editor: visual
+---
+
+## Injury Retraction
+
+-   Determined by posture of hand at time of injury
+-   **Flexed** → retraction of distal tendon
+-   **Extended** → retraction of proximal tendon
+
+## Healing Stages
+
+1.  **Inflammation**
+    -   0-5 days
+    -   Cellular inflammatory cascade
+2.  **Proliferation**
+    -   5-28 days
+    -   Collagen formed by fibroblasts
+3.  **Remodeling**
+    -   
+
+        > 28 days
+
+    -   New collagen fibers cross-link and remodel
+
+### Mobilization & Healing
+
+-   Mobilization of the tendons improves the healing response
+-   At 3 weeks, a mobilized tendon is twice as strong as an immobile tendon
+
+## Goals of Tendon Repair
+
+-   Restore function of the tendon by minimizing adhesions, maximizing strength and glide, and preventing complications
+-   Achieved by:
+    -   Strong sutures
+    -   Gap-resistant techniques
+    -   Early mobilization (especially flexors)
+    -   No-touch technique
+
+## Sutures
+
+-   **Non-Absorbable** on an atraumatic, non-cutting needle (Size 3-0)
+-   **Unbraided:** Slides easily through tendon
+-   **Braided:** Prevents late gapping as it has less elasticity
+
+### Core Suture
+
+-   **Modified Kessler x2**
+-   **Four-strand core suture**: 2x stronger than a two-strand technique
+-   **Six-strand suture**: 3x stronger but difficult to perform
+
+### Epitendinous Suture
+
+-   **Silverskold (running suture) or horizontal mattress**
+-   Epitendinous repair adds **20-40% strength** to core repair
+
+## Technical Tips
+
+-   Plan **skin incisions**
+-   Use **Brunner’s incision** preserving A2 & A4 pulleys
+-   Retrieve tendon **down sheath using an umbilical catheter trick**
+-   Transfix tendons with needles during suturing (**tension-free repair**)
+-   Place **posterior epitendinous sutures before core stitch**
+-   Avoid bunching up of the tendon – **ensure good gliding**
+
+## Flexor Tendon Rehabilitation
+
+-   **Children & non-compliant patients** → immobilized for 4 weeks
+-   **All others** → early motion initiated
+    -   Stronger tendon within **3 weeks**
+    -   Fewer adhesions
+
+### Early Active Motion
+
+-   **E.g., Belfast Protocol** (newer vogue)
+-   Requires a **strong repair**
+-   **Moderate force**
+-   Potential to **increase excursion & reduce adhesions**
+-   **Extension blocking splint** (wrist and MCPJ flexed)
+-   Marginally **higher re-rupture** but **less adhesions**
+
+### Passive Motion Protocols
+
+-   **Traditional approach** (\~6 weeks)
+
+#### Kleinhert Protocol
+
+-   **Low force & low excursion**
+-   Active **extension** and passive **flexion**
+-   Flexion via **dynamic splint** (not patient-controlled)
+-   **Marginally lower re-rupture rate**
+-   **More adhesions**
+-   **Difficult setup** (elastic bands required)
+
+#### Duran Protocol
+
+-   **Low force & low excursion**
+-   Active **extension** and passive **flexion**
+-   **Patient performed**
+-   **Requires good patient compliance**
+
+## Complications
+
+-   **Infection**
+-   **Re-rupture (5-10%)**
+-   **Stiffness (most common in Zone 2)**
+-   **CRPS**
+-   **NV injury**
+
+## Principles of Delayed Repair (\>3 Weeks)
+
+-   Primary repair unlikely to succeed due to:
+    -   Retracted tendon
+    -   Avascularity (due to tenuous vincular supply)
+    -   Scarred sheath
+-   **Tendon reconstruction is the best option**
+
+### Tendon Grafting
+
+#### Prerequisites
+
+-   **Full passive motion** must be present
+-   **Neurovascularly intact fingers**
+
+#### Single vs. Two-Stage Repair
+
+-   **Single-stage**
+    -   Faster recovery
+    -   Higher risk of **adhesions & failure**
+    -   Possible in **early delayed period**
+-   **Two-stage**
+    -   **1st Stage**:
+        -   Restore **passive ROM** (physio, MUA)
+        -   **Tenolysis & contracture release**
+        -   Repair **vessels & nerves** if needed
+        -   **Recannulate sheath & pulleys with a silastic rod**
+    -   **2nd Stage**:
+        -   Remove **rod & use tendon graft (2-3 months later)**
+
+#### Graft Options
+
+-   **Palmaris longus**
+-   **Plantaris**
+-   **Toe Extensors**
+-   **Extensor Indicis Proprius (EIP)**

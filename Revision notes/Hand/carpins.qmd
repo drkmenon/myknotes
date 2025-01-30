@@ -1,0 +1,133 @@
+---
+title: "Carpal Instability"
+format: html
+editor: visual
+---
+
+## Biomechanics & Anatomy
+- The carpus is comprised of 2 rows:
+  - Distal row is virtually fixed
+  - Proximal row is an intercalated segment
+- No muscle attachments
+- Movements are dependent on the action of the wrist joint, the connections between the bones, and movements of the distal row
+- The scaphoid spans both rows
+
+## Carpal Stability
+### Intrinsic Ligaments
+- Short, stout ligaments between the bones of the same row
+- **SLL** strongest dorsally
+- **LTL** strongest volarly but less discrepancy between volar & dorsal
+
+### Extrinsic Ligaments
+- Volar are the strongest ligaments in the wrist
+- Especially Radio-scapho-capitate ligament
+- **Space of Poirier** is a deficient area in volar capsulo-ligamentous tissue
+  - Allows dislocation of the lunate
+
+## Kinematics
+- 2/3 flexion occurs at the midcarpal joint
+- 2/3 extension occurs at the radiocarpal joint
+- Radial deviation causes scaphoid flexion
+- Ulnar deviation causes scaphoid extension
+
+### 3 Theories Regarding Kinematics
+- **Row Theory**:
+  - Distal row fixed, proximal is an intercalated segment
+- **Column Theory** – Carpus is 3 columns:
+  - Radial (scaphoid) – mobile column as scaphoid spans both rows
+  - Central (capitate & lunate) – flexion & extension
+  - Ulna Column (triquetrum & hamate) – responsible for rotation
+- **Oval Theory**:
+  - Compromise of the two theories
+
+## Instability Patterns
+- All injury patterns may be lesser or greater arc:
+  - **Greater arc** = through bones
+  - **Lesser arc** = through soft tissues
+- **Gillula’s lines** (below) used to assess XRs to look for instability patterns
+
+### Carpal Instability Dissociative (CID)
+- Between bones of the same row – bony or soft tissue
+- Intercalated instability refers to CID of the proximal row
+- **DISI & VISI patterns**
+
+### Carpal Instability Non-Dissociative
+- Instability is between rows
+- Less common and difficult to diagnose
+- Mid-carpal instability is the most common pattern
+
+### Carpal Instability Complex (CIC)
+- Involves a combination of CID & CIND
+- May be fractures or ligamentous instability
+
+### Carpal Instability Adaptive (CIA)
+- Compensatory instability pattern seen because of extra-carpal problems
+  - Most commonly a dorsal malunited distal radius fracture leads to DISI
+
+## Mayfield Classification of Peri-lunate Dislocation
+- This is the most common pattern of Complex carpal instability
+
+### Stages:
+1. **Stage 1**: Uncoupling of scaphoid and lunate
+2. **Stage 2**: Stage 1 plus uncoupling of Capitate and lunate
+3. **Stage 3**: Stage 1 & 2 plus uncoupling of Lunate and Triquetrum
+4. **Stage 4**: Lunate dislocation (volar usually)
+
+- There is debate on whether lunate and perilunate dislocations are the same
+  - In terms of management, they are the same thing
+
+## Management of Specific Carpal Instability Patterns
+
+### Scapholunate Instability (DISI)
+
+#### Acute SLL Injury (< 4 weeks)
+- Primary repair with suture anchors and K-wires
+- Open repair is reported up to 6 months after injury
+- Results likely to deteriorate
+
+#### Chronic SLL Injury
+- **Brunelli & Modified Brunelli Reconstruction**:
+  - Involves split FCR tunneling through scaphoid and lunate
+  - Good results in terms of pain relief and radiographic correction
+  - At the expense of wrist stiffness
+  - No proven reduction in late arthritis
+- **Blatt Capsulodesis**:
+  - Less commonly done
+  - Involves suture of dorsal capsule to scaphoid to stop it from flexing
+- **Partial Wrist Fusion**:
+  - Corrective STT fusion, for instance
+  - Less commonly performed
+  - Technical difficulty and loss of motion
+
+### Lunotriquetral Injury
+- Rare in isolation
+- Often picked up late
+
+#### Acute
+- Direct repair of LT ligament with anchors and wires
+
+#### Chronic (more often)
+- Lunotriquetral fusion
+- FCU tenodesis – stops triquetrum extending relative to lunate
+
+### Perilunate Injuries
+- **Emergent Closed Reduction** usually possible:
+  - Hyperdorsiflexion and thumbing lunate back in
+  - Hyperdorsiflexion and pushing carpus volar to hinge on capitate
+
+#### Definitive Treatment
+- Always required
+- **Dorsal Approach**
+  - Anchors to repair ligaments
+  - K-wires in Christmas tree pattern to maintain carpal bone alignment
+  - Wires out at 8 weeks
+  - Plaster for 12 weeks
+  - Concurrent carpal tunnel decompression
+  - Volar or dorsal approach to fix distal radius/styloid fractures
+
+### Complications
+- Median nerve injury
+- Wrist stiffness
+- Wrist arthrosis
+- CRPS
+- Proximal pole scaphoid AVN if trans-scaphoid fracture present

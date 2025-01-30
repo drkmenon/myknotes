@@ -1,0 +1,127 @@
+---
+title: "Flexor Tendon"
+format: html
+editor: visual
+---
+
+## Finger Zones
+
+### Zone 1
+
+-   Contains only FDP
+
+### Zone 2
+
+-   From origin of sheath (MCPJ – distal palmar crease) to middle phalanx
+-   Contains both FDS and FDP within a tight non-distensible sheath
+-   Often both tendons are lacerated
+-   Worst prognosis
+
+### Zone 3
+
+-   Between carpal tunnel and origin of synovial sheath (distal palm crease)
+-   Contain the origin of the lumbricals from FDP
+-   Lumbrical muscle tends to be injured
+
+### Zone 4
+
+-   Carpal tunnel – contains 9 tendons and median nerve
+
+### Zone 5
+
+-   Proximal to carpal tunnel
+-   Best prognosis for repair
+
+## Thumb Zones
+
+-   Only one tendon \> FPL - zones are similar in pattern
+
+| Zone       | Location                       |
+|------------|--------------------------------|
+| Zone 1     | Distal insertion of FPL        |
+| Zone 2     | Over proximal phalanx and MCPJ |
+| Zone 3     | Over thenar muscles            |
+| Zone 4 & 5 | Same as for fingers            |
+
+## Flexor Tendons
+
+-   Flexors are all long, extrinsic tendons – 6 in total
+    -   No contribution from intrinsics
+-   **Wrist Flexors:** FCR, PL, FCU
+-   **Digital Flexors:** FDP, FDS, FPL
+    -   Little finger FDS absent in 20% of people
+    -   Long to little fingers FDP have common muscle belly
+    -   Index finger has its own FDP belly
+-   **Testing FDS**
+    -   To test FDS to fingers, flex PIPJ with other fingers extended (neutralizes FDP)
+    -   To test FDS in the index separately, ask for a pincer grip with DIPJ hyperextended
+    -   If FDS is absent, only an "OK" sign is possible
+
+## Tendon Nutrition
+
+-   Flexors are mainly **intrasynovial** tendons
+-   Lie within a fibro-osseous sheath with a **double-layer synovium**
+-   No **paratenon** (unlike extensors)
+-   **Sheath Entry Points:**
+    -   Index, middle, ring fingers enter at **MC neck level**
+    -   Thumb and little finger have **synovial sheath in whole palm**
+-   **2 Modes of Nutrition:**
+    1.  **Longitudinal vessels** from phalanges enter via **vinculae system**
+        -   Vincula longus and brevis per tendon
+        -   Tendon relatively avascular on palmar surface
+    2.  **Passive diffusion from synovial fluid (imbibition)**
+        -   Relies on motion
+
+## Structure
+
+-   **FDS initially volar to FDP** in forearm and palm
+-   **FDS splits and encircles FDP** over P1 (Camper's chiasm)
+-   **FDS reforms dorsal to FDP and attaches to P2**
+-   In **Zone 2**, FDS and FDP glide over each other → **high adhesion risk**
+-   **Blood Supply via Vinculae:**
+    -   VBP (Vinculum Brevis Profundus)
+    -   VBS (Vinculum Brevis Superficialis)
+    -   VLP (Vinculum Longus Profundus)
+    -   VLS (Vinculum Longus Superficialis)
+
+## Lumbricals
+
+-   **4 Lumbricals in total**
+-   Arise from **FDP** proximal to MCPJ in Zone 3
+-   **Radial lumbricals**: single-headed
+-   **Ulnar lumbricals**: two-headed
+-   **Insertion:**
+    -   Radial aspect of extensor mechanism
+    -   Pass dorsally and insert distal to PIPJ
+    -   Contribute to **extensor hood & lateral bands**
+    -   **Function:** Extend PIPJ & Flex MCPJ
+
+## Pulley System
+
+-   **Fibro-osseous tendon sheath anchored dorsally to bone**
+-   **Pulley Types:**
+    -   **Annular (A1-5):** Thick and fibrous (prevent bowstringing)
+    -   **Cruciate (C1-3):** Flimsy, allow flexibility
+-   **Odd-numbered pulleys arise from volar plate**
+-   **Even-numbered pulleys arise from periosteum**
+    -   **A2 and A4 are most important** for function
+-   **Thumb Pulleys:**
+    -   **2 Annular (A1 & A2) and 1 Oblique**
+    -   **Oblique Pulley:** Runs **ulnar-proximal to radial-distal** on P1
+    -   **Oblique pulley is critical for stability**
+
+## Prognosis for Flexor Tendon Repair
+
+-   **Order from best to worst:** Zone 5 \> Zone 4 \> Zone 3 \> Zone 1 \> Zone 2
+-   **Prognosis Factors:**
+    -   Ease of access for repair
+    -   Room for tendons to glide
+    -   Less room = **higher adhesion risk** → Worse prognosis
+-   **Zone 2 has worst prognosis:**
+    -   Tight sheath with FDS & FDP close together
+    -   High adhesion risk
+-   **Zone 3 Complications:**
+    -   Lumbrical repair or scarring → **Intrinsic plus hand deformity**
+    -   Leads to **MCP flexion contracture and restricted IPJ flexion**
+-   **Zone 5 has best prognosis:**
+    -   No enclosing sheath → **free-moving tendons**

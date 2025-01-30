@@ -1,0 +1,196 @@
+---
+title: "Acute Scaphoid Fractures"
+format: html
+editor: visual
+---
+
+**JBJS AAOS Instructional Lecture 2008, AAOS 2000 (Jupiter), JBJS Br 2011 (Dias)**
+
+## Anatomy
+- Mostly covered in articular cartilage
+- Spans both carpal rows
+- Has a tubercle distally
+- **Blood supply** (radial artery) enters from:
+  - Distal tubercle
+  - Dorsal ridge (non-articular) – main blood supply
+    - Enters just distal to the waist
+    - Blood supply is therefore retrograde
+- Scapholunate interosseous ligament attaches to the proximal pole
+  - Fracture of waist may result in extension of the proximal pole:
+    - Due to lunate extension
+  - Relative flexion of the distal pole (humpback)
+
+## Epidemiology
+- Young men, participating in sports
+
+## Mechanism
+- Sudden dorsiflexion or fall onto hand
+
+## Classification
+
+### Fracture Pattern - Russe
+- Horizontal oblique
+- Transverse
+- Vertical oblique (most unstable due to shear)
+
+### Stability – Herbert
+1. **Stable**:
+   - Incomplete fractures
+   - Tuberosity fractures
+   - <1mm displacement/gap in any plane
+2. **Unstable**:
+   - All complete fractures
+   - more than 1mm displacement/gap
+   - more than degrees SL angle
+   - more than degrees radiolunate angulation
+   - more than degrees CL angle
+   - Angular deformity of scaphoid – difficult to assess on XR
+   - Comminution
+3. **Delayed Union**
+4. **Non-Union**
+
+### Location
+- Tubercle
+- Distal pole
+- Waist
+- Proximal pole
+
+## Diagnosis
+
+### Examination
+- Snuff box pain; pain on volar aspect (better); pain on axial compression
+
+### Imaging
+- **XR and delayed XR** (30% non-diagnostic):
+  - PA, Lateral, Oblique & scaphoid view
+  - **Scaphoid view**:
+    - 30-degree tube angulation with wrist in 20-degree ulnar deviation
+    - Effectively elongates and extends the scaphoid into view
+- **CT Scan** – fine cut (1mm slices) in the long axis of the scaphoid:
+  - Useful to diagnose fracture; assess union and quantify deformity
+  - Highly sensitive but specificity 75%
+- **MRI** – useful for undisplaced fractures:
+  - MRI is the gold standard investigation for diagnosis
+  - High signal representing bone edema on T2
+  - Highly sensitive & specific
+
+## Management
+
+### Why Operate?
+1. Correct deformity (severe deformity is uncommon)
+   - Deformity leads to carpal instability patterns (DISI usually)
+2. Prevent non-union & malunion
+3. Prevent SNAC development
+4. Expedite return to function (soft indication)
+
+### Non-union Risk Factors
+- Smoking
+- Delayed presentation and treatment >4 weeks after injury (45%)
+- more than 1mm displacement at waist
+- Angular deformity
+- Proximal pole (AVN) (up to 80% non-union rate)
+- Vertical oblique fractures:
+  - Almost all distal pole and tubercle fractures heal without deformity
+  - No indication for surgery
+
+### Waist Fractures
+- more than 90% union rate if undisplaced
+- Rarely indicated to treat surgically
+- 10% non-union rate
+
+#### In an Undisplaced Waist Fracture:
+- **Surgery** (JBJS AM 2010 meta-analysis – Dutch study including David Ring):
+  - Reduced time to union
+  - Quicker return to sports and work
+  - Higher early satisfaction
+  - Better early functional scores
+  - Better early grip strength
+  - Higher complication rate
+- **BUT, No difference in**:
+  - Union rate
+  - Malunion rate
+  - Cost
+  - Pain
+  - Long-term functional scores or grip strength
+
+### Complications
+- Non-union
+- Malunion
+- Scaphotrapezial OA
+- Infection
+- Impingement of screw
+
+Therefore, reasonable to offer percutaneous surgery but at risk of complications
+
+### In Displaced Waist Fractures (Dias JBJS BR Review 2011)
+- Higher chance of non-union, but only 14%
+- Main issue is malunion:
+  - Carpal instability
+  - Premature arthritis
+  - Reduced wrist extension
+  - More complex surgery to revise
+
+### Proximal Pole
+- Higher risk of AVN
+- Non-union (up to 80%)
+- SNAC
+  - These risks have not actually been well quantified
+- Generally accepted that we should fix all proximal pole fractures
+
+## Treatment Options for All Fractures
+
+### Cast Immobilization
+- Above elbow not shown to be better than below
+- No difference with thumb spica or not
+- Neutral position
+- Maintain plaster for a minimum of 8/52
+  - Can take up to 12/52 for proximal pole to heal
+  - Therefore, back into plaster if pain at 8 weeks
+  - Remove plaster regardless at 12 weeks
+
+### Surgery
+
+#### Percutaneous
+- II guidance
+- Extend over rolled crepe and ulnar-deviate wrist to reduce fracture
+- Only proceed if fracture can be reduced
+- Can use wide-bore cannula to move trapezium
+- Aim down center of scaphoid on AP & Lateral
+- On lateral, should be aiming for the center of the lunate
+- Take XR dynamic screening & obliques to ensure central placement
+- Measure then pass wire distal to prevent backout
+- Take 4mm off measurement for screw length
+
+#### Volar Approach
+- Workhorse approach for waist fractures
+- Preserves dorsal blood supply; allows correction of deformity and grafting
+- **Technique**:
+  - Landmarks are tubercle and FCR
+  - Hand is extended over a crepe roll
+  - Longitudinal incision just radial to FCR
+  - FCR retracted ulnarward
+  - Curve incision radially in distal part over tubercle
+  - Longitudinal incision made in the volar wrist capsule
+  - Care taken to preserve radioscaphocapitate ligament
+  - The non-articular portion of the proximal part of the trapezium may need to be resected
+  - Capsule may be incised horizontally to gain access to the scaphotrapezial joint
+  - The fracture is reduced with use of a dental pick or Kirschner wire ("joysticks")
+  - Anatomic reduction should be achieved prior to fixation
+  - Screw should be as long and central as possible
+  - Subtract 2-4mm to allow for compression
+
+#### Dorsal Approach
+- Better for proximal pole fractures
+- **Technique**:
+  - Flex wrist over crepe roll to deliver proximal pole
+  - Longitudinal incision centered over Lister's tubercle
+  - The extensor retinaculum is longitudinally incised
+  - Retract the tendons of the second & third dorsal compartments
+    - May be between 3rd & 4th compartments
+  - XR to confirm position
+  - The wrist capsule is incised transversely over proximal pole
+    - Without injuring the deeper scapholunate ligament
+  - Care must be taken not to disturb the dorsal ridge:
+    - Main blood supply to the scaphoid is found
+  - Excellent visualization of the proximal portion of the scaphoid, especially with the wrist in maximum flexion
+  - Entry point of guide wire is just radial to the scapholunate ligament origin
