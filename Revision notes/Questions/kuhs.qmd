@@ -862,3 +862,27 @@ editor: visual
 37. Gait lab. (2021)
 38. Myo-electric arm. (2021)
 39. Radio frequency ablation. (2021)\*
+
+## 2025
+
+### Essay (20 marks)
+
+1.  Discuss in detail the anatomy and biomechanics of the knee joint.
+
+### Short Essays (8x10=80 marks)
+
+2.  Management of shock in Polytrauma.\
+
+3.  Blood Supply of femoral head over various age groups.\
+
+4.  Tereparatide.\
+
+5.  Hand Space Infections.\
+
+6.  Hugh Owen Thomas - Contributions to Orthopaedics.\
+
+7.  Nerve Conduction Studies.\
+
+8.  Reflex Sympathetic Osteodystrophy.\
+
+9.  Epiphyseal injuries.
