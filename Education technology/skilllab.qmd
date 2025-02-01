@@ -1,0 +1,65 @@
+---
+title: "Guidelines for Development of Skills Lab"
+format: html
+editor: visual
+---
+
+## 1. General Principles
+- Every medical institution should establish a skills laboratory to provide students with hands-on training on essential clinical skills.
+- The skills lab offers a controlled, simulated environment where students can practice and refine their techniques before direct patient interaction.
+- The lab aims to replicate real-world clinical scenarios, ensuring students develop competencies in clinical, psychomotor, communication, and teamwork skills.
+
+## 2. Minimum Infrastructure Requirements
+- The skills lab should cover at least **2000 sq. ft** for every **100 students**.
+- There should be **at least 4 rooms** (preferably 8) for patient or standardized/simulated patient examinations.
+- **Video recording and review facilities** are essential for teaching communication skills.
+- Additional spaces should include:
+  - A **demonstration room** for skill training in small groups.
+  - A **debriefing area** for feedback sessions.
+  - **Storage facilities** for mannequins and other equipment.
+  - A **room for faculty coordinators** and support staff.
+  - **Dedicated technical and support staff** for maintenance and operations.
+
+## 3. Suggested Equipment and Training Modules
+For **100 students**, the skills lab should include part-time task trainers, models, and mannequins for:
+
+1. First aid, bandaging, and splinting (n=4)
+2. Basic Life Support (BLS) and CPR mannequins (n=4)
+3. Injection techniques (Subcutaneous, Intramuscular, Intravenous) (n=5)
+4. Urinary catheter insertion (male & female adaptable) (n=4)
+5. Skin & fascia suturing (n=5)
+6. Breast examination model
+7. Gynecological examination model (including IUCD training model)
+8. Obstetric mannequins for examinations, vaginal delivery management
+9. Neonatal & pediatric resuscitation mannequins
+10. Whole-body mannequins and trauma mannequins (optional)
+
+- Each training module should include clear **objectives, methods, and assessment criteria**.
+- Hybrid models may be incorporated, utilizing standardized patients, real patients, or computer simulations.
+
+## 4. Faculty and Administration
+- A **Skills Lab Training Unit (STU)** should be formed, headed by the Principal and comprising faculty from different departments.
+- The STU should include at least **8 faculty members**, with representation from General Surgery, General Medicine, Obstetrics & Gynecology, Pediatrics, Anesthesiology, and Orthopedics.
+- At least **50% of the faculty** should hold the rank of Associate Professor or higher.
+- A **Coordinator and Co-coordinator** (Professors) should be appointed from surgical and medical specialties.
+
+## 5. Duties and Responsibilities of the STU
+1. Ensure **proper logistics and functionality** of the skills lab.
+2. Oversee the **utilization of the skills lab** for training and assessments based on predefined modules.
+3. Organize **skill lab management workshops** for faculty and annual orientation programs.
+4. Conduct **regular review meetings** and audits to assess lab utilization.
+5. Submit **monitoring and utilization reports** as required.
+6. Supervise and support **technical and support staff**.
+
+## 6. Financial Considerations
+The institution should allocate funds for:
+
+- **Infrastructure development** of the skills lab.
+- **Procurement and maintenance** of mannequins and skill stations.
+- **Faculty training programs**.
+- **Salaries for support staff**.
+
+## 7. Training Modules and Assessments
+- The skills lab should implement structured training modules that define the **preparation, procedures, and assessment** criteria.
+- Standardized assessment methods should be followed to ensure uniform competency development among medical students.
+
