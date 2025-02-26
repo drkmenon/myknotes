@@ -1,0 +1,93 @@
+---
+title: "Compression of the Median Nerve:Forearm"
+format: html
+editor: visual
+---
+
+The two types of compressive neuropathy are:  
+1. **Pronator Syndrome**  
+2. **Anterior Interosseous Syndrome (AIS)**  
+
+## Median Nerve Anatomy
+- Derived from **Medial & Lateral Cords** of the Brachial Plexus  
+- Runs **lateral** to the **Brachial Artery** until proximal to the **cubital fossa**  
+  - Crosses to lie **medial** to the artery  
+- Passes under **Lacertus Fibrosus** (aponeurosis of biceps)  
+- Gives off **AIN** 4 cm distal to the **medial epicondyle**  
+- Passes through the **two heads of Pronator Teres**  
+- Then under the **proximal arch of FDS**  
+- Lies **between FDS and FDP** in the forearm  
+- **AIN** lies on the **interosseous membrane** between **FDP (index finger) and FPL**  
+- **Anterior Interosseous Nerve (AIN)** supplies the muscles it is in contact with:  
+  - **FDP (index), FPL, PQ**  
+- **Median nerve** supplies all other **flexors** and **thenar muscles**  
+
+---
+
+## **Pronator Syndrome**
+- Compression of the **median nerve**  
+- **Not necessarily** between heads of **Pronator Teres**  
+- **Pain & Paresthesia** – often confused with **CTS**  
+
+### **Possible Compressive Structures**
+1. **Ligament of Struthers**  
+   - Fibrous tissue between a **supracondylar process** and **medial epicondyle**  
+2. **Lacertus Fibrosus**  
+3. **Pronator Teres Heads**  
+4. **FDS Arch**  
+5. **Space-occupying lesions** anywhere on the nerve’s route (*e.g., ganglia*)  
+
+### **Clinical Findings**
+- Weakness of **long flexors** and **thenar muscles**  
+- More **proximal pain**/**shoulder pain**/**recent viral infection** (*brachial neuritis*)  
+- **Thenar paresthesia** due to **palmar cutaneous branch** (*preserved in CTS*)  
+- **Phalen's test** negative but history similar to CTS  
+- **Tinel’s sign** positive proximally  
+- Often co-exists with **Golfer’s elbow**  
+
+### **Investigations**
+- **NCS** – May be inconclusive but may rule out CTS  
+- **MRI** – Detects **space-occupying lesions**  
+- **X-ray** – Detects **supracondylar process**  
+
+### **Management**
+#### **Non-Operative**
+- **Activity modification**, **splinting**, **rest**  
+
+#### **Operative**
+- For **failed non-operative treatment**, when **diagnosis confirmed**, or **motor dysfunction present**  
+- Release **proximal to distal** and address all compressive areas  
+- **Treating Golfer’s elbow** may resolve the problem  
+
+---
+
+## **Anterior Interosseous Syndrome (AIS)**
+- **Main difference:** **Weakness but no pain**  
+
+### **Compressive Structures**
+- **Same as Pronator Syndrome** plus:  
+  - **Gantzer’s muscle** – accessory head of FPL  
+  - **Bicipital Bursa**  
+
+### **Other Causes**
+- **Parsonage-Turner Syndrome** (*Brachial Neuritis*)  
+- **Supracondylar Fracture** in children  
+- **Compartment Syndrome**  
+- **Space-occupying lesions**  
+
+### **Clinical Features**
+- **Weak pinch**  
+- **Pain-free**  
+- **PQ weakness**  
+  - Resisted pronation in **maximal flexion**  
+
+### **Investigations**
+- **NCS** – Rarely conclusive  
+- **MRI** – For detecting **space-occupying lesions**  
+
+### **Management**
+- Often **recovers spontaneously**  
+  - **Splint in elbow flexion** to relax **AIN**  
+- **Decompression of AIN** if non-operative management fails  
+- **Treat underlying cause**  
+- **Brachial Neuritis** is generally **self-limiting**  

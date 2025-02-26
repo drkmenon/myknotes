@@ -1,0 +1,93 @@
+---
+title: "Neurophysiology Tests"
+format: html
+editor: visual
+---
+
+## Electromyography (EMG)
+- Direct measurement of the electrical activity in a given muscle  
+  - Insertion of an electrode into a specific muscle  
+  - Used to establish if a particular muscle is innervated  
+
+## Nerve Conduction Studies (NCS)
+- Used to measure electrical activity along a sensory, motor, or mixed nerve  
+  - **Motor nerves** – antegrade  
+  - **Sensory or Mixed nerves** – retrograde  
+
+## Definitions
+
+### Latency  
+- The time in ms for conduction between two points along a nerve  
+
+### Amplitude  
+- The extent of the conducted signal (millivolts)  
+- Indicates how many of the nerve fibers are working  
+
+### Velocity  
+- The speed/distance between two points  
+- **Latency and velocity** measure the quality of nerve conduction  
+- **Amplitude** measures the quantity of nerve conduction  
+
+## Factors Affecting Nerve Conduction
+- **Age of person**  
+  - Correlates with the degree of myelination  
+  - Slower in very young or elderly  
+- **Temperature**  
+  - Slows with decreasing temperature (optimum 30°C)  
+- **Limb**  
+  - Upper limb conduction is faster than lower limb  
+- **Location in the nerve**  
+  - Proximal conduction is faster within a given nerve  
+- **The nerve itself**  
+  - Different nerves conduct at different velocities  
+
+## Motor Nerve Conduction
+- Measured by supramaximal stimulation of a motor nerve  
+- Recording of the generated waveform with a needle in a muscle  
+  - *e.g.*, APB for CTS  
+- Measurement is called:  
+  - **CMAP**, **MUAP**, or **M wave**  
+  - Compound motor action potential / Motor unit action potential  
+  - All mean the same thing  
+- Latency, amplitude, and velocity of the CMAP are all calculated  
+- **Motor conduction velocity (MCV)** is calculated separately  
+  - By measuring latencies at different sites and the distance between the two sites  
+
+## Sensory Nerve Conduction
+- Measured by supramaximal stimulation of a sensory nerve  
+- Usually in a **retrograde** fashion  
+- Provides the **Sensory Nerve Action Potential (SNAP)**  
+- Latency, amplitude, and velocity are all calculated  
+- **Sensory Conduction Velocity (SCV)** is calculated separately  
+  - Same method as MCV  
+
+## Measures of Proximal Conduction
+
+### F Wave Response
+- When a motor nerve is supramaximally stimulated to measure the CMAP, a **retrograde (antidromic) conduction** also occurs  
+- Since this does not cross synapses, it behaves like an echo  
+- Represents stimulation of anterior horn cells at the root level  
+- **Characteristics:**  
+  - Longer latency and smaller amplitude than CMAP  
+  - Called the **F wave**  
+- **Clinical significance:**  
+  - Absence or reduction may indicate a root level problem  
+  - Especially if **distal conduction (CMAP) is normal**  
+  - Muscles are innervated by multiple roots, so a single root injury may not significantly affect it  
+  - More useful for diagnosing **multi-root problems**  
+    - *e.g.*, Plexopathies, Guillain-Barré Syndrome  
+
+### H Reflex
+- Effectively an **electrical deep tendon reflex**  
+- Elicited by submaximal stimulation of muscle stretch receptors, which return  
+  (afferent) to the anterior horn cells  
+- Results in a **motor response via a monosynaptic reflex**, which is recorded  
+- **Difficult to measure**, so not widely used  
+- **Absence is noted in:**  
+  - Radiculopathy  
+  - Polyneuropathy  
+  - Elderly  
+
+## Somatosensory Evoked Potentials (SSEP)
+- Used for **spinal cord monitoring** and investigation of **proximal lesions**  
+- **Evoked potentials** from the central nervous system recorded at a **peripheral site**  

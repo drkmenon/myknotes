@@ -8495,6 +8495,90 @@
     ]
   },
   {
+    "objectID": "Revision notes/Hand/rncom.html",
+    "href": "Revision notes/Hand/rncom.html",
+    "title": "Radial Nerve Compression Syndromes",
+    "section": "",
+    "text": "Upper Arm – Humeral fracture, Saturday night palsy\n\nAround Elbow – Posterior Interosseous Nerve (PIN) palsy, Radial Tunnel Syndrome (RTS)\n\nForearm – Wartenberg’s Syndrome (Cheiralgia Parasthetica)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Radial Nerve Compression Syndromes"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rncom.html#sites-of-compression",
+    "href": "Revision notes/Hand/rncom.html#sites-of-compression",
+    "title": "Radial Nerve Compression Syndromes",
+    "section": "",
+    "text": "Upper Arm – Humeral fracture, Saturday night palsy\n\nAround Elbow – Posterior Interosseous Nerve (PIN) palsy, Radial Tunnel Syndrome (RTS)\n\nForearm – Wartenberg’s Syndrome (Cheiralgia Parasthetica)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Radial Nerve Compression Syndromes"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rncom.html#pin-compression",
+    "href": "Revision notes/Hand/rncom.html#pin-compression",
+    "title": "Radial Nerve Compression Syndromes",
+    "section": "PIN Compression",
+    "text": "PIN Compression\n\nAnatomic Causes (FREAS Mnemonic)\n\nF – Fibrous bands between Brachioradialis (BR) & capsule at radial head\n\nR – Recurrent vessels from Radial artery (Leash of Henry) crossing PIN\n\nE – ECRB tendinous edge\n\nA – Arcade of Frosche (most common, vessels proximal to supinator)\n\nS – Supinator belly or distal edge\n\n\nRadial Tunnel – Region extending up to the supinator\n\n\n\nNon-Anatomic Causes\n\nLipomas\n\nGanglions\n\nSynovitis in RA\n\nMonteggia fracture\n\nChronic radial head dislocation\n\nParsonage Turner Syndrome (more common in AIN)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Radial Nerve Compression Syndromes"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rncom.html#clinical-features",
+    "href": "Revision notes/Hand/rncom.html#clinical-features",
+    "title": "Radial Nerve Compression Syndromes",
+    "section": "Clinical Features",
+    "text": "Clinical Features\n\nPresentation\n\nRapid-onset weakness\n\nOccasional lateral forearm ache\n\nWrist radially deviates on extension (ECRL function intact)\n\nECRL & Brachioradialis preserved (suggests Radial nerve involvement)\n\n\n\nHistory\n\nRecent viral infection, shoulder pain? → Consider Parsonage Turner Syndrome",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Radial Nerve Compression Syndromes"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rncom.html#investigations",
+    "href": "Revision notes/Hand/rncom.html#investigations",
+    "title": "Radial Nerve Compression Syndromes",
+    "section": "Investigations",
+    "text": "Investigations\n\nEMG/NCS\n\nEMG is very accurate for PIN compression\n\n\nMRI\n\nTo rule out space-occupying lesions",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Radial Nerve Compression Syndromes"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rncom.html#management",
+    "href": "Revision notes/Hand/rncom.html#management",
+    "title": "Radial Nerve Compression Syndromes",
+    "section": "Management",
+    "text": "Management\n\nUsually requires decompression due to motor deficit\n\nDecompress distal to proximal by identifying supinator distally\n\nSurgical Approaches:\n\nAnterior approach – Good access to all structures up to supinator\n\nPosterior (Thompson) approach – Better visualization of the whole nerve",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Radial Nerve Compression Syndromes"
+    ]
+  },
+  {
     "objectID": "Revision notes/Hand/wrist.html",
     "href": "Revision notes/Hand/wrist.html",
     "title": "Biomechanics wrist",
@@ -8579,227 +8663,633 @@
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html",
-    "href": "Revision notes/Hand/tendrpr.html",
-    "title": "Principles of Tendon Repair",
+    "objectID": "Revision notes/Hand/ncs.html",
+    "href": "Revision notes/Hand/ncs.html",
+    "title": "Neurophysiology Tests",
     "section": "",
-    "text": "Determined by posture of hand at time of injury\nFlexed → retraction of distal tendon\nExtended → retraction of proximal tendon",
+    "text": "Direct measurement of the electrical activity in a given muscle\n\nInsertion of an electrode into a specific muscle\n\nUsed to establish if a particular muscle is innervated",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#injury-retraction",
-    "href": "Revision notes/Hand/tendrpr.html#injury-retraction",
-    "title": "Principles of Tendon Repair",
+    "objectID": "Revision notes/Hand/ncs.html#electromyography-emg",
+    "href": "Revision notes/Hand/ncs.html#electromyography-emg",
+    "title": "Neurophysiology Tests",
     "section": "",
-    "text": "Determined by posture of hand at time of injury\nFlexed → retraction of distal tendon\nExtended → retraction of proximal tendon",
+    "text": "Direct measurement of the electrical activity in a given muscle\n\nInsertion of an electrode into a specific muscle\n\nUsed to establish if a particular muscle is innervated",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#healing-stages",
-    "href": "Revision notes/Hand/tendrpr.html#healing-stages",
-    "title": "Principles of Tendon Repair",
-    "section": "Healing Stages",
-    "text": "Healing Stages\n\nInflammation\n\n0-5 days\nCellular inflammatory cascade\n\nProliferation\n\n5-28 days\nCollagen formed by fibroblasts\n\nRemodeling\n&gt; 28 days\n\nNew collagen fibers cross-link and remodel\n\n\n\nMobilization & Healing\n\nMobilization of the tendons improves the healing response\nAt 3 weeks, a mobilized tendon is twice as strong as an immobile tendon",
+    "objectID": "Revision notes/Hand/ncs.html#nerve-conduction-studies-ncs",
+    "href": "Revision notes/Hand/ncs.html#nerve-conduction-studies-ncs",
+    "title": "Neurophysiology Tests",
+    "section": "Nerve Conduction Studies (NCS)",
+    "text": "Nerve Conduction Studies (NCS)\n\nUsed to measure electrical activity along a sensory, motor, or mixed nerve\n\nMotor nerves – antegrade\n\nSensory or Mixed nerves – retrograde",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#goals-of-tendon-repair",
-    "href": "Revision notes/Hand/tendrpr.html#goals-of-tendon-repair",
-    "title": "Principles of Tendon Repair",
-    "section": "Goals of Tendon Repair",
-    "text": "Goals of Tendon Repair\n\nRestore function of the tendon by minimizing adhesions, maximizing strength and glide, and preventing complications\nAchieved by:\n\nStrong sutures\nGap-resistant techniques\nEarly mobilization (especially flexors)\nNo-touch technique",
+    "objectID": "Revision notes/Hand/ncs.html#definitions",
+    "href": "Revision notes/Hand/ncs.html#definitions",
+    "title": "Neurophysiology Tests",
+    "section": "Definitions",
+    "text": "Definitions\n\nLatency\n\nThe time in ms for conduction between two points along a nerve\n\n\n\nAmplitude\n\nThe extent of the conducted signal (millivolts)\n\nIndicates how many of the nerve fibers are working\n\n\n\nVelocity\n\nThe speed/distance between two points\n\nLatency and velocity measure the quality of nerve conduction\n\nAmplitude measures the quantity of nerve conduction",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#sutures",
-    "href": "Revision notes/Hand/tendrpr.html#sutures",
-    "title": "Principles of Tendon Repair",
-    "section": "Sutures",
-    "text": "Sutures\n\nNon-Absorbable on an atraumatic, non-cutting needle (Size 3-0)\nUnbraided: Slides easily through tendon\nBraided: Prevents late gapping as it has less elasticity\n\n\nCore Suture\n\nModified Kessler x2\nFour-strand core suture: 2x stronger than a two-strand technique\nSix-strand suture: 3x stronger but difficult to perform\n\n\n\nEpitendinous Suture\n\nSilverskold (running suture) or horizontal mattress\nEpitendinous repair adds 20-40% strength to core repair",
+    "objectID": "Revision notes/Hand/ncs.html#factors-affecting-nerve-conduction",
+    "href": "Revision notes/Hand/ncs.html#factors-affecting-nerve-conduction",
+    "title": "Neurophysiology Tests",
+    "section": "Factors Affecting Nerve Conduction",
+    "text": "Factors Affecting Nerve Conduction\n\nAge of person\n\nCorrelates with the degree of myelination\n\nSlower in very young or elderly\n\n\nTemperature\n\nSlows with decreasing temperature (optimum 30°C)\n\n\nLimb\n\nUpper limb conduction is faster than lower limb\n\n\nLocation in the nerve\n\nProximal conduction is faster within a given nerve\n\n\nThe nerve itself\n\nDifferent nerves conduct at different velocities",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#technical-tips",
-    "href": "Revision notes/Hand/tendrpr.html#technical-tips",
-    "title": "Principles of Tendon Repair",
-    "section": "Technical Tips",
-    "text": "Technical Tips\n\nPlan skin incisions\nUse Brunner’s incision preserving A2 & A4 pulleys\nRetrieve tendon down sheath using an umbilical catheter trick\nTransfix tendons with needles during suturing (tension-free repair)\nPlace posterior epitendinous sutures before core stitch\nAvoid bunching up of the tendon – ensure good gliding",
+    "objectID": "Revision notes/Hand/ncs.html#motor-nerve-conduction",
+    "href": "Revision notes/Hand/ncs.html#motor-nerve-conduction",
+    "title": "Neurophysiology Tests",
+    "section": "Motor Nerve Conduction",
+    "text": "Motor Nerve Conduction\n\nMeasured by supramaximal stimulation of a motor nerve\n\nRecording of the generated waveform with a needle in a muscle\n\ne.g., APB for CTS\n\n\nMeasurement is called:\n\nCMAP, MUAP, or M wave\n\nCompound motor action potential / Motor unit action potential\n\nAll mean the same thing\n\n\nLatency, amplitude, and velocity of the CMAP are all calculated\n\nMotor conduction velocity (MCV) is calculated separately\n\nBy measuring latencies at different sites and the distance between the two sites",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#flexor-tendon-rehabilitation",
-    "href": "Revision notes/Hand/tendrpr.html#flexor-tendon-rehabilitation",
-    "title": "Principles of Tendon Repair",
-    "section": "Flexor Tendon Rehabilitation",
-    "text": "Flexor Tendon Rehabilitation\n\nChildren & non-compliant patients → immobilized for 4 weeks\nAll others → early motion initiated\n\nStronger tendon within 3 weeks\nFewer adhesions\n\n\n\nEarly Active Motion\n\nE.g., Belfast Protocol (newer vogue)\nRequires a strong repair\nModerate force\nPotential to increase excursion & reduce adhesions\nExtension blocking splint (wrist and MCPJ flexed)\nMarginally higher re-rupture but less adhesions\n\n\n\nPassive Motion Protocols\n\nTraditional approach (~6 weeks)\n\n\nKleinhert Protocol\n\nLow force & low excursion\nActive extension and passive flexion\nFlexion via dynamic splint (not patient-controlled)\nMarginally lower re-rupture rate\nMore adhesions\nDifficult setup (elastic bands required)\n\n\n\nDuran Protocol\n\nLow force & low excursion\nActive extension and passive flexion\nPatient performed\nRequires good patient compliance",
+    "objectID": "Revision notes/Hand/ncs.html#sensory-nerve-conduction",
+    "href": "Revision notes/Hand/ncs.html#sensory-nerve-conduction",
+    "title": "Neurophysiology Tests",
+    "section": "Sensory Nerve Conduction",
+    "text": "Sensory Nerve Conduction\n\nMeasured by supramaximal stimulation of a sensory nerve\n\nUsually in a retrograde fashion\n\nProvides the Sensory Nerve Action Potential (SNAP)\n\nLatency, amplitude, and velocity are all calculated\n\nSensory Conduction Velocity (SCV) is calculated separately\n\nSame method as MCV",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#complications",
-    "href": "Revision notes/Hand/tendrpr.html#complications",
-    "title": "Principles of Tendon Repair",
-    "section": "Complications",
-    "text": "Complications\n\nInfection\nRe-rupture (5-10%)\nStiffness (most common in Zone 2)\nCRPS\nNV injury",
+    "objectID": "Revision notes/Hand/ncs.html#measures-of-proximal-conduction",
+    "href": "Revision notes/Hand/ncs.html#measures-of-proximal-conduction",
+    "title": "Neurophysiology Tests",
+    "section": "Measures of Proximal Conduction",
+    "text": "Measures of Proximal Conduction\n\nF Wave Response\n\nWhen a motor nerve is supramaximally stimulated to measure the CMAP, a retrograde (antidromic) conduction also occurs\n\nSince this does not cross synapses, it behaves like an echo\n\nRepresents stimulation of anterior horn cells at the root level\n\nCharacteristics:\n\nLonger latency and smaller amplitude than CMAP\n\nCalled the F wave\n\n\nClinical significance:\n\nAbsence or reduction may indicate a root level problem\n\nEspecially if distal conduction (CMAP) is normal\n\nMuscles are innervated by multiple roots, so a single root injury may not significantly affect it\n\nMore useful for diagnosing multi-root problems\n\ne.g., Plexopathies, Guillain-Barré Syndrome\n\n\n\n\n\nH Reflex\n\nEffectively an electrical deep tendon reflex\n\nElicited by submaximal stimulation of muscle stretch receptors, which return\n(afferent) to the anterior horn cells\n\nResults in a motor response via a monosynaptic reflex, which is recorded\n\nDifficult to measure, so not widely used\n\nAbsence is noted in:\n\nRadiculopathy\n\nPolyneuropathy\n\nElderly",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/tendrpr.html#principles-of-delayed-repair-3-weeks",
-    "href": "Revision notes/Hand/tendrpr.html#principles-of-delayed-repair-3-weeks",
-    "title": "Principles of Tendon Repair",
-    "section": "Principles of Delayed Repair (>3 Weeks)",
-    "text": "Principles of Delayed Repair (&gt;3 Weeks)\n\nPrimary repair unlikely to succeed due to:\n\nRetracted tendon\nAvascularity (due to tenuous vincular supply)\nScarred sheath\n\nTendon reconstruction is the best option\n\n\nTendon Grafting\n\nPrerequisites\n\nFull passive motion must be present\nNeurovascularly intact fingers\n\n\n\nSingle vs. Two-Stage Repair\n\nSingle-stage\n\nFaster recovery\nHigher risk of adhesions & failure\nPossible in early delayed period\n\nTwo-stage\n\n1st Stage:\n\nRestore passive ROM (physio, MUA)\nTenolysis & contracture release\nRepair vessels & nerves if needed\nRecannulate sheath & pulleys with a silastic rod\n\n2nd Stage:\n\nRemove rod & use tendon graft (2-3 months later)\n\n\n\n\n\nGraft Options\n\nPalmaris longus\nPlantaris\nToe Extensors\nExtensor Indicis Proprius (EIP)",
+    "objectID": "Revision notes/Hand/ncs.html#somatosensory-evoked-potentials-ssep",
+    "href": "Revision notes/Hand/ncs.html#somatosensory-evoked-potentials-ssep",
+    "title": "Neurophysiology Tests",
+    "section": "Somatosensory Evoked Potentials (SSEP)",
+    "text": "Somatosensory Evoked Potentials (SSEP)\n\nUsed for spinal cord monitoring and investigation of proximal lesions\n\nEvoked potentials from the central nervous system recorded at a peripheral site",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Principles of Tendon Repair"
+      "Neurophysiology Tests"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/carpins.html",
-    "href": "Revision notes/Hand/carpins.html",
-    "title": "Carpal Instability",
+    "objectID": "Revision notes/Hand/rhh.html",
+    "href": "Revision notes/Hand/rhh.html",
+    "title": "Rheumatoid Hand & Wrist",
     "section": "",
-    "text": "The carpus is comprised of 2 rows:\n\nDistal row is virtually fixed\nProximal row is an intercalated segment\n\nNo muscle attachments\nMovements are dependent on the action of the wrist joint, the connections between the bones, and movements of the distal row\nThe scaphoid spans both rows",
+    "text": "An autoimmune systemic disease causing an inflammatory symmetric polyarthropathy primarily affecting synovial lined structures\nIn hand typically spares DIPJ",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Carpal Instability"
+      "Rheumatoid Hand & Wrist"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/carpins.html#biomechanics-anatomy",
-    "href": "Revision notes/Hand/carpins.html#biomechanics-anatomy",
-    "title": "Carpal Instability",
+    "objectID": "Revision notes/Hand/rhh.html#radiocarpal-arthritis",
+    "href": "Revision notes/Hand/rhh.html#radiocarpal-arthritis",
+    "title": "Rheumatoid Hand & Wrist",
+    "section": "Radiocarpal Arthritis",
+    "text": "Radiocarpal Arthritis\n\nFusion or Arthroplasty\n\nFusions: Limited or Total\nRadiocarpal Fusion (Chamay) (Radius to Lunate and Scaphoid)\n\nProphylactic to prevent ulna subluxation of carpus\nHalts natural progression outlined above\nContraindicated in presence of midcarpal OA\n\nTotal Wrist Fusion\n\nPredictably good results with dorsal fusion plates/pins\nSome prefer not using dorsal plates because of poor bone\nAO locking wrist fusion plate is better though\nPain relief good and function satisfactory\nComplication rate is low\nPseudoarthroses tend to be pain free\n\nSurgical Steps\n\nLongitudinal dorsal approach\nDorsal half carpal bones and distal radius fragmented and used as graft\nIM pins, Steiman pins, or AO fusion plate\nFor bilateral cases try and avoid bilateral fusion\nConsider arthroplasty of one wrist\n\n\n\n\nWrist Arthroplasty\n\nBetter results but still evolving\nRheumatoid arthritis is a possible indication\nImproved results with the Universal 2 wrist replacement\n\nShould have:\n\nMinimal deformity\nGood bone stock\nIntact extensors",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Rheumatoid Hand & Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rhh.html#mcp-joints",
+    "href": "Revision notes/Hand/rhh.html#mcp-joints",
+    "title": "Rheumatoid Hand & Wrist",
+    "section": "MCP Joints",
+    "text": "MCP Joints\n\nTypical Deformities\n\nVolar joint subluxation due to synovitis\nUlna drift caused by tendon subluxation\n\n\n\nFunctional Problems\n\nDifficult to pinch if index drifted ulnar ward\nDifficulty cupping objects\nAesthetically displeasing\n\n\n\nSurgical Options\nSoft Tissue or Bony Procedures\nSynovectomy & Cross Intrinsic Transfer of Lateral Bands\n\nEarly disease only\nPrevents subluxation\n\nRelocation of Tendon\n\nTightening of radial and release of ulna soft tissues\nContraindicated if joint affected\n\nFusion\n\nNot usually good option as finger motion is initiated at MCPJ\nFusion is functionally poor at MCPJ\nLast resort\n\nArthroplasty\n\nUsually the best solution\nShortens digit &gt; reduces soft tissue tension and deforming forces\nMust be combined with tendon relocation and soft tissue balance\nConcurrent wrist re-alignment to prevent chronic instability\nBetter deformity correction in radial joints\nSilicone spacers most common\n\nTraditionally the Swanson\nCurrently Neuflex is most common\nScar tissue formed stabilises joints despite loosening\n\nPyrocarbon unconstrained joints not good for RA but good in OA\n\nSurgical Principles\n\nCorrect proximal wrist deformities and tendons first\nMultiple or single transverse or longitudinal incisions\nRelease capsule and intrinsics\nExcise MCPJ head distal to collaterals\nImbricate lax radial capsule and sagittal band in closure\n\n\n\nVolar Plate Arthroplasty\n\nInterposition of volar plate in joint - pain relieving\nUnreliable correction of deformity\nBest reserved if bone too small for arthroplasty",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Rheumatoid Hand & Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rhh.html#tendon-rupture-1",
+    "href": "Revision notes/Hand/rhh.html#tendon-rupture-1",
+    "title": "Rheumatoid Hand & Wrist",
+    "section": "Tendon Rupture",
+    "text": "Tendon Rupture\n\nSequentially occurs from EDM then each EDC\nAll procedures should address the tendon deficiency and the cause\n\n\nTendon Transfer Options\n\nOnly EDM ruptured\n\nEnd-to-side transfer (stitch end of EDM to EDC of ring finger)\n\nIf ulna 2 tendons ruptured\n\nEIP transfer to power ring & little or,\nEIP to EDM and buddy ring to middle EDC\n\nIf ulna 3 tendons ruptured\n\nEIP to ring and little\nMiddle finger end to side with Ext Indicis Communis\nWeak extension as all fingers powered by index extensors\nAlternative is to combine FDS into transfer\n\nIf all 4 tendons gone:\n\nFDS tendons transferred through interosseous membrane\nFDS is not synergistic &gt; function difficult to get used to\nFDS has excellent excursion so is very useful",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Rheumatoid Hand & Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rhh.html#boutonniere-deformity",
+    "href": "Revision notes/Hand/rhh.html#boutonniere-deformity",
+    "title": "Rheumatoid Hand & Wrist",
+    "section": "Boutonniere Deformity",
+    "text": "Boutonniere Deformity\n\nPrimary Cause\n\nSynovitis, attenuation, and rupture of central slip\nVolar subluxation of lateral bands and hyperextension of DIPJ\nOften not functionally too limiting but,\n\nPatients don’t like appearance\n\nCorrection to an extended position of PIPJ can actually impair function\n\nTherefore avoid for aesthetics\n\n\n\n\nClassification (Nalebuff)\n\nMild: Mobile PIPJ, PIPJ extensor lag &lt;15 degrees\nModerate: Mobile PIPJ, PIPJ extensor lag 15-40 degrees\nSevere: Fixed PIPJ with loss of extension and arthritis\n\n\n\nManagement\nFlexible Deformity:\n\nIf acute: Capener splint – allows active DIPJ motion\nIf chronic:\n\nExtensor tendon tenotomy – at distal phalanx\nLeaves ORL intact so no mallet finger develops\nTendon reconstruction\nPassive motion must be restored\nRe-location of lateral bands or,\nTransfer of ulna lateral band to central slip\n\n\nFixed Deformity:\n\nArthrodesis\n\nGold standard – reliable and durable\n\nArthroplasty\n\nDescribed but deformity often recurs – more difficult to salvage",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Rheumatoid Hand & Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rhh.html#swan-neck-deformity",
+    "href": "Revision notes/Hand/rhh.html#swan-neck-deformity",
+    "title": "Rheumatoid Hand & Wrist",
+    "section": "Swan Neck Deformity",
+    "text": "Swan Neck Deformity\n\nMore functionally limiting than Boutonniere\nPatient unable to flex finger and grip properly\n\n\nCauses\n\nDIPJ: Mallet finger caused by DIPJ disease or trauma\nPIPJ:\n\nSynovitis causes volar plate attenuation or FDS rupture\nDorsal subluxation of lateral bands\nTransverse and oblique ligaments incompetent\n\nMCPJ: Joint or tendon subluxation causes intrinsic tightness\n\n\n\nClassification (Nalebuff)\n\nType 1: Fully flexible PIPJ with mild hyperextension\nType 2: Intrinsic tightness, PIPJ tight with MCPJ extension only\nType 3: PIPJ tight regardless of MCPJ position, No arthritis\nType 4: Stiff, arthritic PIPJ\n\n\n\nManagement\n\nTreatment based on cause of deformity and functional deficit\nREMEMBER: Doing nothing may be the best option\nOptimization of medical treatment prior to surgery\n\n\nStage-wise Treatment\n\nStage 1:\n\nExtension restricting splint if PIPJ is problem\nDIPJ fusion if DIPJ problem\n\nStage 2:\n\nIntrinsic release\nFDS tenodesis or volar plate advancement to prevent hyperextension\n\nStage 3:\n\nArthrodesis of PIPJ + intrinsic release\nCan MUA PIPJ to restore motion then do as for stage 2\n\nStage 4: Arthrodesis\nArthroplasty: PIPJ results are poor in RA",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Rheumatoid Hand & Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/rhh.html#thumb-deformities",
+    "href": "Revision notes/Hand/rhh.html#thumb-deformities",
+    "title": "Rheumatoid Hand & Wrist",
+    "section": "Thumb Deformities",
+    "text": "Thumb Deformities\n\nThumb Boutonniere (MCPJ problem)\nThumb Swan Neck (CMCJ problem)\nMainstay are fusion procedures to provide a strong post for grip\n\nInstability rather than loss of motion causes the most symptoms\nFuse the appropriate joint\nIf both CMCJ and MCPJ unstable can fuse both but limits function badly\nConsider CMCJ arthroplasty and MCPJ fusion or just fuse MCPJ\n\n\n\nClassification of Rheumatoid Thumb (Nalebuff)\n\nType 1: Boutonniere (MCPJ flexion) – most common\nType 2: Boutonniere with CMCJ dislocation or arthritis (rare)\nType 3: Swan Neck (CMCJ adduction and flexion)\nType 4: Ulna collateral ligament laxity\nType 5: Swan Neck with no adduction of metacarpal (rare)\nType 6: Mutilating disease – gross joint destruction",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Rheumatoid Hand & Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/extt.html",
+    "href": "Revision notes/Hand/extt.html",
+    "title": "Flexor Tendon",
     "section": "",
-    "text": "The carpus is comprised of 2 rows:\n\nDistal row is virtually fixed\nProximal row is an intercalated segment\n\nNo muscle attachments\nMovements are dependent on the action of the wrist joint, the connections between the bones, and movements of the distal row\nThe scaphoid spans both rows",
+    "text": "Contains only FDP\n\n\n\n\n\nFrom origin of sheath (MCPJ – distal palmar crease) to middle phalanx\nContains both FDS and FDP within a tight non-distensible sheath\nOften both tendons are lacerated\nWorst prognosis\n\n\n\n\n\nBetween carpal tunnel and origin of synovial sheath (distal palm crease)\nContain the origin of the lumbricals from FDP\nLumbrical muscle tends to be injured\n\n\n\n\n\nCarpal tunnel – contains 9 tendons and median nerve\n\n\n\n\n\nProximal to carpal tunnel\nBest prognosis for repair",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Carpal Instability"
+      "Flexor Tendon"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/carpins.html#carpal-stability",
-    "href": "Revision notes/Hand/carpins.html#carpal-stability",
-    "title": "Carpal Instability",
-    "section": "Carpal Stability",
-    "text": "Carpal Stability\n\nIntrinsic Ligaments\n\nShort, stout ligaments between the bones of the same row\nSLL strongest dorsally\nLTL strongest volarly but less discrepancy between volar & dorsal\n\n\n\nExtrinsic Ligaments\n\nVolar are the strongest ligaments in the wrist\nEspecially Radio-scapho-capitate ligament\nSpace of Poirier is a deficient area in volar capsulo-ligamentous tissue\n\nAllows dislocation of the lunate",
+    "objectID": "Revision notes/Hand/extt.html#finger-zones",
+    "href": "Revision notes/Hand/extt.html#finger-zones",
+    "title": "Flexor Tendon",
+    "section": "",
+    "text": "Contains only FDP\n\n\n\n\n\nFrom origin of sheath (MCPJ – distal palmar crease) to middle phalanx\nContains both FDS and FDP within a tight non-distensible sheath\nOften both tendons are lacerated\nWorst prognosis\n\n\n\n\n\nBetween carpal tunnel and origin of synovial sheath (distal palm crease)\nContain the origin of the lumbricals from FDP\nLumbrical muscle tends to be injured\n\n\n\n\n\nCarpal tunnel – contains 9 tendons and median nerve\n\n\n\n\n\nProximal to carpal tunnel\nBest prognosis for repair",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Carpal Instability"
+      "Flexor Tendon"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/carpins.html#kinematics",
-    "href": "Revision notes/Hand/carpins.html#kinematics",
-    "title": "Carpal Instability",
-    "section": "Kinematics",
-    "text": "Kinematics\n\n2/3 flexion occurs at the midcarpal joint\n2/3 extension occurs at the radiocarpal joint\nRadial deviation causes scaphoid flexion\nUlnar deviation causes scaphoid extension\n\n\n3 Theories Regarding Kinematics\n\nRow Theory:\n\nDistal row fixed, proximal is an intercalated segment\n\nColumn Theory – Carpus is 3 columns:\n\nRadial (scaphoid) – mobile column as scaphoid spans both rows\nCentral (capitate & lunate) – flexion & extension\nUlna Column (triquetrum & hamate) – responsible for rotation\n\nOval Theory:\n\nCompromise of the two theories",
+    "objectID": "Revision notes/Hand/extt.html#thumb-zones",
+    "href": "Revision notes/Hand/extt.html#thumb-zones",
+    "title": "Flexor Tendon",
+    "section": "Thumb Zones",
+    "text": "Thumb Zones\n\nOnly one tendon &gt; FPL - zones are similar in pattern\n\n\n\n\nZone\nLocation\n\n\n\n\nZone 1\nDistal insertion of FPL\n\n\nZone 2\nOver proximal phalanx and MCPJ\n\n\nZone 3\nOver thenar muscles\n\n\nZone 4 & 5\nSame as for fingers",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Carpal Instability"
+      "Flexor Tendon"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/carpins.html#instability-patterns",
-    "href": "Revision notes/Hand/carpins.html#instability-patterns",
-    "title": "Carpal Instability",
-    "section": "Instability Patterns",
-    "text": "Instability Patterns\n\nAll injury patterns may be lesser or greater arc:\n\nGreater arc = through bones\nLesser arc = through soft tissues\n\nGillula’s lines (below) used to assess XRs to look for instability patterns\n\n\nCarpal Instability Dissociative (CID)\n\nBetween bones of the same row – bony or soft tissue\nIntercalated instability refers to CID of the proximal row\nDISI & VISI patterns\n\n\n\nCarpal Instability Non-Dissociative\n\nInstability is between rows\nLess common and difficult to diagnose\nMid-carpal instability is the most common pattern\n\n\n\nCarpal Instability Complex (CIC)\n\nInvolves a combination of CID & CIND\nMay be fractures or ligamentous instability\n\n\n\nCarpal Instability Adaptive (CIA)\n\nCompensatory instability pattern seen because of extra-carpal problems\n\nMost commonly a dorsal malunited distal radius fracture leads to DISI",
+    "objectID": "Revision notes/Hand/extt.html#flexor-tendons",
+    "href": "Revision notes/Hand/extt.html#flexor-tendons",
+    "title": "Flexor Tendon",
+    "section": "Flexor Tendons",
+    "text": "Flexor Tendons\n\nFlexors are all long, extrinsic tendons – 6 in total\n\nNo contribution from intrinsics\n\nWrist Flexors: FCR, PL, FCU\nDigital Flexors: FDP, FDS, FPL\n\nLittle finger FDS absent in 20% of people\nLong to little fingers FDP have common muscle belly\nIndex finger has its own FDP belly\n\nTesting FDS\n\nTo test FDS to fingers, flex PIPJ with other fingers extended (neutralizes FDP)\nTo test FDS in the index separately, ask for a pincer grip with DIPJ hyperextended\nIf FDS is absent, only an “OK” sign is possible",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Carpal Instability"
+      "Flexor Tendon"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/carpins.html#mayfield-classification-of-peri-lunate-dislocation",
-    "href": "Revision notes/Hand/carpins.html#mayfield-classification-of-peri-lunate-dislocation",
-    "title": "Carpal Instability",
-    "section": "Mayfield Classification of Peri-lunate Dislocation",
-    "text": "Mayfield Classification of Peri-lunate Dislocation\n\nThis is the most common pattern of Complex carpal instability\n\n\nStages:\n\nStage 1: Uncoupling of scaphoid and lunate\nStage 2: Stage 1 plus uncoupling of Capitate and lunate\nStage 3: Stage 1 & 2 plus uncoupling of Lunate and Triquetrum\nStage 4: Lunate dislocation (volar usually)\n\n\nThere is debate on whether lunate and perilunate dislocations are the same\n\nIn terms of management, they are the same thing",
+    "objectID": "Revision notes/Hand/extt.html#tendon-nutrition",
+    "href": "Revision notes/Hand/extt.html#tendon-nutrition",
+    "title": "Flexor Tendon",
+    "section": "Tendon Nutrition",
+    "text": "Tendon Nutrition\n\nFlexors are mainly intrasynovial tendons\nLie within a fibro-osseous sheath with a double-layer synovium\nNo paratenon (unlike extensors)\nSheath Entry Points:\n\nIndex, middle, ring fingers enter at MC neck level\nThumb and little finger have synovial sheath in whole palm\n\n2 Modes of Nutrition:\n\nLongitudinal vessels from phalanges enter via vinculae system\n\nVincula longus and brevis per tendon\nTendon relatively avascular on palmar surface\n\nPassive diffusion from synovial fluid (imbibition)\n\nRelies on motion",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Carpal Instability"
+      "Flexor Tendon"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/carpins.html#management-of-specific-carpal-instability-patterns",
-    "href": "Revision notes/Hand/carpins.html#management-of-specific-carpal-instability-patterns",
-    "title": "Carpal Instability",
-    "section": "Management of Specific Carpal Instability Patterns",
-    "text": "Management of Specific Carpal Instability Patterns\n\nScapholunate Instability (DISI)\n\nAcute SLL Injury (&lt; 4 weeks)\n\nPrimary repair with suture anchors and K-wires\nOpen repair is reported up to 6 months after injury\nResults likely to deteriorate\n\n\n\nChronic SLL Injury\n\nBrunelli & Modified Brunelli Reconstruction:\n\nInvolves split FCR tunneling through scaphoid and lunate\nGood results in terms of pain relief and radiographic correction\nAt the expense of wrist stiffness\nNo proven reduction in late arthritis\n\nBlatt Capsulodesis:\n\nLess commonly done\nInvolves suture of dorsal capsule to scaphoid to stop it from flexing\n\nPartial Wrist Fusion:\n\nCorrective STT fusion, for instance\nLess commonly performed\nTechnical difficulty and loss of motion\n\n\n\n\n\nLunotriquetral Injury\n\nRare in isolation\nOften picked up late\n\n\nAcute\n\nDirect repair of LT ligament with anchors and wires\n\n\n\nChronic (more often)\n\nLunotriquetral fusion\nFCU tenodesis – stops triquetrum extending relative to lunate\n\n\n\n\nPerilunate Injuries\n\nEmergent Closed Reduction usually possible:\n\nHyperdorsiflexion and thumbing lunate back in\nHyperdorsiflexion and pushing carpus volar to hinge on capitate\n\n\n\nDefinitive Treatment\n\nAlways required\nDorsal Approach\n\nAnchors to repair ligaments\nK-wires in Christmas tree pattern to maintain carpal bone alignment\nWires out at 8 weeks\nPlaster for 12 weeks\nConcurrent carpal tunnel decompression\nVolar or dorsal approach to fix distal radius/styloid fractures\n\n\n\n\n\nComplications\n\nMedian nerve injury\nWrist stiffness\nWrist arthrosis\nCRPS\nProximal pole scaphoid AVN if trans-scaphoid fracture present",
+    "objectID": "Revision notes/Hand/extt.html#structure",
+    "href": "Revision notes/Hand/extt.html#structure",
+    "title": "Flexor Tendon",
+    "section": "Structure",
+    "text": "Structure\n\nFDS initially volar to FDP in forearm and palm\nFDS splits and encircles FDP over P1 (Camper’s chiasm)\nFDS reforms dorsal to FDP and attaches to P2\nIn Zone 2, FDS and FDP glide over each other → high adhesion risk\nBlood Supply via Vinculae:\n\nVBP (Vinculum Brevis Profundus)\nVBS (Vinculum Brevis Superficialis)\nVLP (Vinculum Longus Profundus)\nVLS (Vinculum Longus Superficialis)",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Carpal Instability"
+      "Flexor Tendon"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/extt.html#lumbricals",
+    "href": "Revision notes/Hand/extt.html#lumbricals",
+    "title": "Flexor Tendon",
+    "section": "Lumbricals",
+    "text": "Lumbricals\n\n4 Lumbricals in total\nArise from FDP proximal to MCPJ in Zone 3\nRadial lumbricals: single-headed\nUlnar lumbricals: two-headed\nInsertion:\n\nRadial aspect of extensor mechanism\nPass dorsally and insert distal to PIPJ\nContribute to extensor hood & lateral bands\nFunction: Extend PIPJ & Flex MCPJ",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Flexor Tendon"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/extt.html#pulley-system",
+    "href": "Revision notes/Hand/extt.html#pulley-system",
+    "title": "Flexor Tendon",
+    "section": "Pulley System",
+    "text": "Pulley System\n\nFibro-osseous tendon sheath anchored dorsally to bone\nPulley Types:\n\nAnnular (A1-5): Thick and fibrous (prevent bowstringing)\nCruciate (C1-3): Flimsy, allow flexibility\n\nOdd-numbered pulleys arise from volar plate\nEven-numbered pulleys arise from periosteum\n\nA2 and A4 are most important for function\n\nThumb Pulleys:\n\n2 Annular (A1 & A2) and 1 Oblique\nOblique Pulley: Runs ulnar-proximal to radial-distal on P1\nOblique pulley is critical for stability",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Flexor Tendon"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/extt.html#prognosis-for-flexor-tendon-repair",
+    "href": "Revision notes/Hand/extt.html#prognosis-for-flexor-tendon-repair",
+    "title": "Flexor Tendon",
+    "section": "Prognosis for Flexor Tendon Repair",
+    "text": "Prognosis for Flexor Tendon Repair\n\nOrder from best to worst: Zone 5 &gt; Zone 4 &gt; Zone 3 &gt; Zone 1 &gt; Zone 2\nPrognosis Factors:\n\nEase of access for repair\nRoom for tendons to glide\nLess room = higher adhesion risk → Worse prognosis\n\nZone 2 has worst prognosis:\n\nTight sheath with FDS & FDP close together\nHigh adhesion risk\n\nZone 3 Complications:\n\nLumbrical repair or scarring → Intrinsic plus hand deformity\nLeads to MCP flexion contracture and restricted IPJ flexion\n\nZone 5 has best prognosis:\n\nNo enclosing sheath → free-moving tendons",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Flexor Tendon"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html",
+    "href": "Revision notes/Hand/infn.html",
+    "title": "Hand Infections",
+    "section": "",
+    "text": "Superficial\n\nFinger tip (Paronychia)\nPulp space (Felon)\nWeb Space (Collar stud abscess)\nSubdermal\n\nDeep\n\nFlexor sheaths → Radial & Ulnar bursae\nParona’s space\nMid palmar space\nThenar space\nHypothenar space\nJoint Spaces\n\nMost common pathogen: Staphylococcus aureus",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#areas-that-may-become-infected",
+    "href": "Revision notes/Hand/infn.html#areas-that-may-become-infected",
+    "title": "Hand Infections",
+    "section": "",
+    "text": "Superficial\n\nFinger tip (Paronychia)\nPulp space (Felon)\nWeb Space (Collar stud abscess)\nSubdermal\n\nDeep\n\nFlexor sheaths → Radial & Ulnar bursae\nParona’s space\nMid palmar space\nThenar space\nHypothenar space\nJoint Spaces\n\nMost common pathogen: Staphylococcus aureus",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#paronychia",
+    "href": "Revision notes/Hand/infn.html#paronychia",
+    "title": "Hand Infections",
+    "section": "Paronychia",
+    "text": "Paronychia\n\nNail fold infection\nTreatment: Incision & drainage (I&D) with incision at edge of nail\nMay require partial or complete nail removal\nResistant cases: Consider Candida albicans",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#felon",
+    "href": "Revision notes/Hand/infn.html#felon",
+    "title": "Hand Infections",
+    "section": "Felon",
+    "text": "Felon\n\nInfection of pulp space\nTreatment: I&D with mid-lateral incision in pulp space\n\nUlnar side except for thumb and little finger\n\nMain concern: Multiple loculations requiring breakdown\n\nPeel off volar aspect of distal phalanx",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#collar-stud-abscess",
+    "href": "Revision notes/Hand/infn.html#collar-stud-abscess",
+    "title": "Hand Infections",
+    "section": "Collar Stud Abscess",
+    "text": "Collar Stud Abscess\n\nCharacteristics: Two separate abscesses in web space\n\nHourglass-shaped appearance\nLarger on dorsal surface, can extend proximally\nFingers appear slightly spread apart\n\nTreatment:\n\nAvoid incision through web space (prevents bad scarring)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#flexor-sheath-infections",
+    "href": "Revision notes/Hand/infn.html#flexor-sheath-infections",
+    "title": "Hand Infections",
+    "section": "Flexor Sheath Infections",
+    "text": "Flexor Sheath Infections\n\nKanavel’s Signs:\n\nFlexed posture\nPain along flexor sheath\nFusiform swelling\nPain on passive stretch\n\n\n\nManagement:\n\nEarly cases: Antibiotics if short-duration presentation\nUnclear diagnosis: Consider further evaluation\nIncision & Drainage (I&D) in case of soft tissue infection:\n\nTwo transverse incisions over A1 and A5 pulleys\nDissect flexor sheath proximal & distal to pulley\nLongitudinal incision & pus culture\nInsert umbilical catheter to irrigate sheath proximally to distally (prevents infection spread)\nConsider leaving catheter for irrigation or relook at 48 hours\nSevere infections: May require full sheath exploration via mid-lateral incisions (avoids exposing flexor tendons)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#radial-ulnar-bursae",
+    "href": "Revision notes/Hand/infn.html#radial-ulnar-bursae",
+    "title": "Hand Infections",
+    "section": "Radial & Ulnar Bursae",
+    "text": "Radial & Ulnar Bursae\n\nAnatomy:\n\nContinuations of flexor sheaths of little and thumb digits\nMeet just proximal to flexor retinaculum\n\nHorseshoe Abscess: Infection tracking down from thumb/little finger",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#palmar-spaces",
+    "href": "Revision notes/Hand/infn.html#palmar-spaces",
+    "title": "Hand Infections",
+    "section": "Palmar Spaces",
+    "text": "Palmar Spaces\n\nLie deep to flexor tendons but superficial to metacarpals\nRare but difficult to diagnose\nThree spaces:\n\nMid-palmar space (Over middle and ring MC, contains 2nd–4th lumbricals)\nThenar space (Overlies 2nd MC, contains 1st lumbrical)\nHypothenar space (Overlies little finger MC, contains hypothenar muscles)\n\nMid-palmar & thenar spaces separated by a fibrous septum from 3rd MC\nSigns of infection:\n\nSevere pain\nHigh fever\nAbsence of fusiform swelling (unlike flexor sheath infections)\nDoes not involve fingers",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#paronas-space",
+    "href": "Revision notes/Hand/infn.html#paronas-space",
+    "title": "Hand Infections",
+    "section": "Parona’s Space",
+    "text": "Parona’s Space\n\nPotential space at wrist level (deep to radial & ulnar bursa confluence)\nBound by: FCU, PQ, FPL, flexor tendons\nConcern: Pus can compromise median nerve",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#common-organisms-by-bite-type",
+    "href": "Revision notes/Hand/infn.html#common-organisms-by-bite-type",
+    "title": "Hand Infections",
+    "section": "Common Organisms by Bite Type:",
+    "text": "Common Organisms by Bite Type:\n\nCat: Pasteurella multocida\nDog: Streptococcus viridans, Pasteurella multocida\nHuman: Eikenella corrodens\nOther anaerobes possible but above are most common\n\n\nDog & Cat Bites (Order of Frequency):\n\nStreptococcus viridans\nPasteurella multocida\nStaphylococcus aureus\n\n\n\nFight Bites (Clenched Fist Injuries)\n\nExploration of underlying joint is essential, even if not obviously involved\nPuncture wound in joint capsule is distal to skin wound (due to flexion at time of injury)\nCommon organisms:\n\nGroup A Streptococcus\nStaphylococcus aureus\nEikenella corrodens\nOther anaerobes",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#herpetic-whitlow",
+    "href": "Revision notes/Hand/infn.html#herpetic-whitlow",
+    "title": "Hand Infections",
+    "section": "Herpetic Whitlow",
+    "text": "Herpetic Whitlow\n\nHerpes simplex virus\nVesicular lesions on children’s fingers\nHistory of herpes\nTreatment: Acyclovir",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#necrotizing-fasciitis",
+    "href": "Revision notes/Hand/infn.html#necrotizing-fasciitis",
+    "title": "Hand Infections",
+    "section": "Necrotizing Fasciitis",
+    "text": "Necrotizing Fasciitis\n\nRare but high mortality\nMixed aggressive pathogens:\n\nGroup A Streptococcus ± Staphylococcus\nAnaerobes ± Staphylococcus\n\nIntra-operative findings:\n\nDishwater pus\nFat liquefaction\nMuscle necrosis",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#fungal-infections",
+    "href": "Revision notes/Hand/infn.html#fungal-infections",
+    "title": "Hand Infections",
+    "section": "Fungal Infections",
+    "text": "Fungal Infections\n\nConsider fungal causes (Candida albicans) in chronic, non-responsive cases\n\n\nOnychomycosis\n\nFungal nail bed infection\nCommon, chronic\nSigns:\n\nYellow/brown discoloration\nPurulent discharge in severe cases\n\nOrganism: Trichophyton rubrum\n\n\n\nSubcutaneous Fungal Infections\n\nTypical Organism: Sporothrix schenckii\nSource: Inoculation from soil/plants (e.g., rose thorn)\nPresentation: Starts as papule at inoculation site\nTreatment: Topical potassium iodine solution",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#mycobacterial-infections",
+    "href": "Revision notes/Hand/infn.html#mycobacterial-infections",
+    "title": "Hand Infections",
+    "section": "Mycobacterial Infections",
+    "text": "Mycobacterial Infections\n\nMost common chronic infection of the hand\nTend to attack synovium → Can mimic inflammatory arthropathy\nDiagnosis:\n\nCulture on Lownstein-Jensen medium (for mycobacteria)\nZiehl-Neelsen stain (for acid-fast bacilli)\nCXR (to rule out hematogenous spread)\n\n\n\nTypical Mycobacterial Organisms:\n\nMycobacterium marinum → Fresh/saltwater exposure\nMycobacterium kansasii → Soil exposure\nM. avium-intracellulare → Soil, poultry (most common in HIV)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#leprosy",
+    "href": "Revision notes/Hand/infn.html#leprosy",
+    "title": "Hand Infections",
+    "section": "Leprosy",
+    "text": "Leprosy\n\nMycobacterium leprae\nPrimarily a nerve disease, skin lesions on hands are secondary",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/infn.html#syphilis",
+    "href": "Revision notes/Hand/infn.html#syphilis",
+    "title": "Hand Infections",
+    "section": "Syphilis",
+    "text": "Syphilis\n\nTreponema pallidum\nSigns: Ulcers on fingers (chancre)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Hand Infections"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/mncomp.html",
+    "href": "Revision notes/Hand/mncomp.html",
+    "title": "Compression of the Median Nerve:Forearm",
+    "section": "",
+    "text": "The two types of compressive neuropathy are:\n1. Pronator Syndrome\n2. Anterior Interosseous Syndrome (AIS)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Compression of the Median Nerve:Forearm"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/mncomp.html#median-nerve-anatomy",
+    "href": "Revision notes/Hand/mncomp.html#median-nerve-anatomy",
+    "title": "Compression of the Median Nerve:Forearm",
+    "section": "Median Nerve Anatomy",
+    "text": "Median Nerve Anatomy\n\nDerived from Medial & Lateral Cords of the Brachial Plexus\n\nRuns lateral to the Brachial Artery until proximal to the cubital fossa\n\nCrosses to lie medial to the artery\n\n\nPasses under Lacertus Fibrosus (aponeurosis of biceps)\n\nGives off AIN 4 cm distal to the medial epicondyle\n\nPasses through the two heads of Pronator Teres\n\nThen under the proximal arch of FDS\n\nLies between FDS and FDP in the forearm\n\nAIN lies on the interosseous membrane between FDP (index finger) and FPL\n\nAnterior Interosseous Nerve (AIN) supplies the muscles it is in contact with:\n\nFDP (index), FPL, PQ\n\n\nMedian nerve supplies all other flexors and thenar muscles",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Compression of the Median Nerve:Forearm"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/mncomp.html#pronator-syndrome",
+    "href": "Revision notes/Hand/mncomp.html#pronator-syndrome",
+    "title": "Compression of the Median Nerve:Forearm",
+    "section": "Pronator Syndrome",
+    "text": "Pronator Syndrome\n\nCompression of the median nerve\n\nNot necessarily between heads of Pronator Teres\n\nPain & Paresthesia – often confused with CTS\n\n\nPossible Compressive Structures\n\nLigament of Struthers\n\nFibrous tissue between a supracondylar process and medial epicondyle\n\n\nLacertus Fibrosus\n\nPronator Teres Heads\n\nFDS Arch\n\nSpace-occupying lesions anywhere on the nerve’s route (e.g., ganglia)\n\n\n\nClinical Findings\n\nWeakness of long flexors and thenar muscles\n\nMore proximal pain/shoulder pain/recent viral infection (brachial neuritis)\n\nThenar paresthesia due to palmar cutaneous branch (preserved in CTS)\n\nPhalen’s test negative but history similar to CTS\n\nTinel’s sign positive proximally\n\nOften co-exists with Golfer’s elbow\n\n\n\nInvestigations\n\nNCS – May be inconclusive but may rule out CTS\n\nMRI – Detects space-occupying lesions\n\nX-ray – Detects supracondylar process\n\n\n\nManagement\n\nNon-Operative\n\nActivity modification, splinting, rest\n\n\n\nOperative\n\nFor failed non-operative treatment, when diagnosis confirmed, or motor dysfunction present\n\nRelease proximal to distal and address all compressive areas\n\nTreating Golfer’s elbow may resolve the problem",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Compression of the Median Nerve:Forearm"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/mncomp.html#anterior-interosseous-syndrome-ais",
+    "href": "Revision notes/Hand/mncomp.html#anterior-interosseous-syndrome-ais",
+    "title": "Compression of the Median Nerve:Forearm",
+    "section": "Anterior Interosseous Syndrome (AIS)",
+    "text": "Anterior Interosseous Syndrome (AIS)\n\nMain difference: Weakness but no pain\n\n\nCompressive Structures\n\nSame as Pronator Syndrome plus:\n\nGantzer’s muscle – accessory head of FPL\n\nBicipital Bursa\n\n\n\n\nOther Causes\n\nParsonage-Turner Syndrome (Brachial Neuritis)\n\nSupracondylar Fracture in children\n\nCompartment Syndrome\n\nSpace-occupying lesions\n\n\n\nClinical Features\n\nWeak pinch\n\nPain-free\n\nPQ weakness\n\nResisted pronation in maximal flexion\n\n\n\n\nInvestigations\n\nNCS – Rarely conclusive\n\nMRI – For detecting space-occupying lesions\n\n\n\nManagement\n\nOften recovers spontaneously\n\nSplint in elbow flexion to relax AIN\n\n\nDecompression of AIN if non-operative management fails\n\nTreat underlying cause\n\nBrachial Neuritis is generally self-limiting",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Compression of the Median Nerve:Forearm"
     ]
   },
   {
@@ -11997,353 +12487,689 @@
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html",
-    "href": "Revision notes/Hand/infn.html",
-    "title": "Hand Infections",
+    "objectID": "Revision notes/Hand/tendontr.html",
+    "href": "Revision notes/Hand/tendontr.html",
+    "title": "Upper Limb Tendon Transfers",
     "section": "",
-    "text": "Superficial\n\nFinger tip (Paronychia)\nPulp space (Felon)\nWeb Space (Collar stud abscess)\nSubdermal\n\nDeep\n\nFlexor sheaths → Radial & Ulnar bursae\nParona’s space\nMid palmar space\nThenar space\nHypothenar space\nJoint Spaces\n\nMost common pathogen: Staphylococcus aureus",
+    "text": "Transfer of a functional muscle tendon unit to a non-functional unit in order to restore or improve function",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#areas-that-may-become-infected",
-    "href": "Revision notes/Hand/infn.html#areas-that-may-become-infected",
-    "title": "Hand Infections",
+    "objectID": "Revision notes/Hand/tendontr.html#definition",
+    "href": "Revision notes/Hand/tendontr.html#definition",
+    "title": "Upper Limb Tendon Transfers",
     "section": "",
-    "text": "Superficial\n\nFinger tip (Paronychia)\nPulp space (Felon)\nWeb Space (Collar stud abscess)\nSubdermal\n\nDeep\n\nFlexor sheaths → Radial & Ulnar bursae\nParona’s space\nMid palmar space\nThenar space\nHypothenar space\nJoint Spaces\n\nMost common pathogen: Staphylococcus aureus",
+    "text": "Transfer of a functional muscle tendon unit to a non-functional unit in order to restore or improve function",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#paronychia",
-    "href": "Revision notes/Hand/infn.html#paronychia",
-    "title": "Hand Infections",
-    "section": "Paronychia",
-    "text": "Paronychia\n\nNail fold infection\nTreatment: Incision & drainage (I&D) with incision at edge of nail\nMay require partial or complete nail removal\nResistant cases: Consider Candida albicans",
+    "objectID": "Revision notes/Hand/tendontr.html#muscle-tendon-unit-mechanics",
+    "href": "Revision notes/Hand/tendontr.html#muscle-tendon-unit-mechanics",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Muscle-Tendon Unit Mechanics",
+    "text": "Muscle-Tendon Unit Mechanics\n\nForce exerted is proportional to the cross-sectional area of the muscle\n\nForce of contraction is greatest at a muscle’s resting length\n\nTendon Excursion (amplitude) is proportional to the length of the muscle\n\nSufficient excursion of transferred tendon is required to restore full function\n\nSmith’s 3-5-7 rule estimates the excursion of:\n\nWrist Flexors & Extensors - 3cm\n\nFinger Extensors - 5cm\n\nFinger Flexors – 7cm\n\n\n\nWork Capacity is force times length\n\nPower is Work per unit time",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#felon",
-    "href": "Revision notes/Hand/infn.html#felon",
-    "title": "Hand Infections",
-    "section": "Felon",
-    "text": "Felon\n\nInfection of pulp space\nTreatment: I&D with mid-lateral incision in pulp space\n\nUlnar side except for thumb and little finger\n\nMain concern: Multiple loculations requiring breakdown\n\nPeel off volar aspect of distal phalanx",
+    "objectID": "Revision notes/Hand/tendontr.html#principles-of-tendon-transfer",
+    "href": "Revision notes/Hand/tendontr.html#principles-of-tendon-transfer",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Principles of Tendon Transfer",
+    "text": "Principles of Tendon Transfer\n\nRule of 13 S’s\n\nCovers patient, tendon, surgical and joint factors\n\n\nPatient\n\nSensible & motivated\n\n\n\nTendon\n\nStrong\n\nSacrificable\n\nSynergistic\n\nSufficient excursion\n\n\n\nSurgery\n\nStraight\n\nScarless skin\n\nStable wound bed\n\nSubcutaneously transferred\n\nSecure fixation distally\n\nSingle function\n\n\n\nJoint\n\nSupple\n\nSensate\n\n\n“In a Sensible patient, I will transfer a Strong, Sacrificable, Synergistic tendon with sufficient excursion, straight through a scarless, stable, subcutaneous bed over a supple, sensate joint to achieve a single function by secure fixation distally.”",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#collar-stud-abscess",
-    "href": "Revision notes/Hand/infn.html#collar-stud-abscess",
-    "title": "Hand Infections",
-    "section": "Collar Stud Abscess",
-    "text": "Collar Stud Abscess\n\nCharacteristics: Two separate abscesses in web space\n\nHourglass-shaped appearance\nLarger on dorsal surface, can extend proximally\nFingers appear slightly spread apart\n\nTreatment:\n\nAvoid incision through web space (prevents bad scarring)",
+    "objectID": "Revision notes/Hand/tendontr.html#indications-for-tendon-transfer",
+    "href": "Revision notes/Hand/tendontr.html#indications-for-tendon-transfer",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Indications for Tendon Transfer",
+    "text": "Indications for Tendon Transfer\n\nThe 3 R’s – Restore, Replace, Rebalance\n\nRestore Function (nerve injury)\n\nReplace ruptured or avulsed tendons\n\nRebalance a deformity",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#flexor-sheath-infections",
-    "href": "Revision notes/Hand/infn.html#flexor-sheath-infections",
-    "title": "Hand Infections",
-    "section": "Flexor Sheath Infections",
-    "text": "Flexor Sheath Infections\n\nKanavel’s Signs:\n\nFlexed posture\nPain along flexor sheath\nFusiform swelling\nPain on passive stretch\n\n\n\nManagement:\n\nEarly cases: Antibiotics if short-duration presentation\nUnclear diagnosis: Consider further evaluation\nIncision & Drainage (I&D) in case of soft tissue infection:\n\nTwo transverse incisions over A1 and A5 pulleys\nDissect flexor sheath proximal & distal to pulley\nLongitudinal incision & pus culture\nInsert umbilical catheter to irrigate sheath proximally to distally (prevents infection spread)\nConsider leaving catheter for irrigation or relook at 48 hours\nSevere infections: May require full sheath exploration via mid-lateral incisions (avoids exposing flexor tendons)",
+    "objectID": "Revision notes/Hand/tendontr.html#timing-of-transfers",
+    "href": "Revision notes/Hand/tendontr.html#timing-of-transfers",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Timing of Transfers",
+    "text": "Timing of Transfers\n\nUsually worth waiting to see what equilibrium has been achieved\n\nDo not wait too long\n\nMotor end plate undergoes degradation at 12-18 months\n\nEarly transfers are &lt;1 month, late are &gt;6 months",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#radial-ulnar-bursae",
-    "href": "Revision notes/Hand/infn.html#radial-ulnar-bursae",
-    "title": "Hand Infections",
-    "section": "Radial & Ulnar Bursae",
-    "text": "Radial & Ulnar Bursae\n\nAnatomy:\n\nContinuations of flexor sheaths of little and thumb digits\nMeet just proximal to flexor retinaculum\n\nHorseshoe Abscess: Infection tracking down from thumb/little finger",
+    "objectID": "Revision notes/Hand/tendontr.html#choice-of-tendon",
+    "href": "Revision notes/Hand/tendontr.html#choice-of-tendon",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Choice of Tendon",
+    "text": "Choice of Tendon\n\nThink about what needs restoration\n\nWhat tendons are available?\n\nWhich fits the above criteria?",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#palmar-spaces",
-    "href": "Revision notes/Hand/infn.html#palmar-spaces",
-    "title": "Hand Infections",
-    "section": "Palmar Spaces",
-    "text": "Palmar Spaces\n\nLie deep to flexor tendons but superficial to metacarpals\nRare but difficult to diagnose\nThree spaces:\n\nMid-palmar space (Over middle and ring MC, contains 2nd–4th lumbricals)\nThenar space (Overlies 2nd MC, contains 1st lumbrical)\nHypothenar space (Overlies little finger MC, contains hypothenar muscles)\n\nMid-palmar & thenar spaces separated by a fibrous septum from 3rd MC\nSigns of infection:\n\nSevere pain\nHigh fever\nAbsence of fusiform swelling (unlike flexor sheath infections)\nDoes not involve fingers",
+    "objectID": "Revision notes/Hand/tendontr.html#clinical-features",
+    "href": "Revision notes/Hand/tendontr.html#clinical-features",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Clinical Features",
+    "text": "Clinical Features\n\nHigh Lesion (Axilla or proximal)\n\nAll muscles lost including triceps\n\nSensory deficit over:\n\nAnatomic snuffbox\n\nPosterior arm (posterior cutaneous nerve of forearm)\n\n\n\n\nLow Lesion – Mid-arm and elbow findings\n\nTriceps intact, all other muscles lost\n\nAnconeus, Brachioradialis, and ECRL innervated above elbow\n\nSupinator",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#paronas-space",
-    "href": "Revision notes/Hand/infn.html#paronas-space",
-    "title": "Hand Infections",
-    "section": "Parona’s Space",
-    "text": "Parona’s Space\n\nPotential space at wrist level (deep to radial & ulnar bursa confluence)\nBound by: FCU, PQ, FPL, flexor tendons\nConcern: Pus can compromise median nerve",
+    "objectID": "Revision notes/Hand/tendontr.html#management",
+    "href": "Revision notes/Hand/tendontr.html#management",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Management",
+    "text": "Management\n\nSplinting\n\nStatic extension splint with passive ROM\n\nRadial Splint (Lively splint)\n\nOutrigger with elastic bands to replace ECRB, EPL, and EDC",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#common-organisms-by-bite-type",
-    "href": "Revision notes/Hand/infn.html#common-organisms-by-bite-type",
-    "title": "Hand Infections",
-    "section": "Common Organisms by Bite Type:",
-    "text": "Common Organisms by Bite Type:\n\nCat: Pasteurella multocida\nDog: Streptococcus viridans, Pasteurella multocida\nHuman: Eikenella corrodens\nOther anaerobes possible but above are most common\n\n\nDog & Cat Bites (Order of Frequency):\n\nStreptococcus viridans\nPasteurella multocida\nStaphylococcus aureus\n\n\n\nFight Bites (Clenched Fist Injuries)\n\nExploration of underlying joint is essential, even if not obviously involved\nPuncture wound in joint capsule is distal to skin wound (due to flexion at time of injury)\nCommon organisms:\n\nGroup A Streptococcus\nStaphylococcus aureus\nEikenella corrodens\nOther anaerobes",
+    "objectID": "Revision notes/Hand/tendontr.html#transfers",
+    "href": "Revision notes/Hand/tendontr.html#transfers",
+    "title": "Upper Limb Tendon Transfers",
+    "section": "Transfers",
+    "text": "Transfers\n\nIndications for Transfer\n\nNo recovery by 6 months\n\nECRL should be recovering by 6 months\n\nConsider early restoration of wrist extension to place fingers at an advantage\n\n\n\nTransfer Priorities\n\nWrist Extension\n\nFinger Extension\n\nThumb Extension\n\n\n\nTypical Radial Nerve Transfers\n\nPT to ECRB\n\nFCR to EDC\n\nPL to EPL\n\nIf no PL (20%) use FDS (ring finger) to EPL\n\n\n\nOther Points\n\nFCR preferred to FCU\n\nBalances wrist especially if ECRL intact\n\nPT to ECRB not always needed in low injury as ECRL functional\n\nOften done anyway as ECRB is a more central, stronger wrist extensor\n\nRestoration of wrist extension places thumb flexors at advantage\n\nImproves pincer grip\n\n\nJones Transfer – classic transfer\n\nPT to ECRB\n\nFCU to EDC\n\nFCR to EPL\n\nAn option when PL not available\n\nProblem: Wrist becomes unbalanced – radial deviation",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Hand Infections"
+      "Upper Limb Tendon Transfers"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/infn.html#herpetic-whitlow",
-    "href": "Revision notes/Hand/infn.html#herpetic-whitlow",
-    "title": "Hand Infections",
-    "section": "Herpetic Whitlow",
-    "text": "Herpetic Whitlow\n\nHerpes simplex virus\nVesicular lesions on children’s fingers\nHistory of herpes\nTreatment: Acyclovir",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Hand",
-      "Hand Infections"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Hand/infn.html#necrotizing-fasciitis",
-    "href": "Revision notes/Hand/infn.html#necrotizing-fasciitis",
-    "title": "Hand Infections",
-    "section": "Necrotizing Fasciitis",
-    "text": "Necrotizing Fasciitis\n\nRare but high mortality\nMixed aggressive pathogens:\n\nGroup A Streptococcus ± Staphylococcus\nAnaerobes ± Staphylococcus\n\nIntra-operative findings:\n\nDishwater pus\nFat liquefaction\nMuscle necrosis",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Hand",
-      "Hand Infections"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Hand/infn.html#fungal-infections",
-    "href": "Revision notes/Hand/infn.html#fungal-infections",
-    "title": "Hand Infections",
-    "section": "Fungal Infections",
-    "text": "Fungal Infections\n\nConsider fungal causes (Candida albicans) in chronic, non-responsive cases\n\n\nOnychomycosis\n\nFungal nail bed infection\nCommon, chronic\nSigns:\n\nYellow/brown discoloration\nPurulent discharge in severe cases\n\nOrganism: Trichophyton rubrum\n\n\n\nSubcutaneous Fungal Infections\n\nTypical Organism: Sporothrix schenckii\nSource: Inoculation from soil/plants (e.g., rose thorn)\nPresentation: Starts as papule at inoculation site\nTreatment: Topical potassium iodine solution",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Hand",
-      "Hand Infections"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Hand/infn.html#mycobacterial-infections",
-    "href": "Revision notes/Hand/infn.html#mycobacterial-infections",
-    "title": "Hand Infections",
-    "section": "Mycobacterial Infections",
-    "text": "Mycobacterial Infections\n\nMost common chronic infection of the hand\nTend to attack synovium → Can mimic inflammatory arthropathy\nDiagnosis:\n\nCulture on Lownstein-Jensen medium (for mycobacteria)\nZiehl-Neelsen stain (for acid-fast bacilli)\nCXR (to rule out hematogenous spread)\n\n\n\nTypical Mycobacterial Organisms:\n\nMycobacterium marinum → Fresh/saltwater exposure\nMycobacterium kansasii → Soil exposure\nM. avium-intracellulare → Soil, poultry (most common in HIV)",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Hand",
-      "Hand Infections"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Hand/infn.html#leprosy",
-    "href": "Revision notes/Hand/infn.html#leprosy",
-    "title": "Hand Infections",
-    "section": "Leprosy",
-    "text": "Leprosy\n\nMycobacterium leprae\nPrimarily a nerve disease, skin lesions on hands are secondary",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Hand",
-      "Hand Infections"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Hand/infn.html#syphilis",
-    "href": "Revision notes/Hand/infn.html#syphilis",
-    "title": "Hand Infections",
-    "section": "Syphilis",
-    "text": "Syphilis\n\nTreponema pallidum\nSigns: Ulcers on fingers (chancre)",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Hand",
-      "Hand Infections"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Hand/extt.html",
-    "href": "Revision notes/Hand/extt.html",
-    "title": "Flexor Tendon",
+    "objectID": "Revision notes/Hand/uncom.html",
+    "href": "Revision notes/Hand/uncom.html",
+    "title": "Ulnar Nerve Compression",
     "section": "",
-    "text": "Contains only FDP\n\n\n\n\n\nFrom origin of sheath (MCPJ – distal palmar crease) to middle phalanx\nContains both FDS and FDP within a tight non-distensible sheath\nOften both tendons are lacerated\nWorst prognosis\n\n\n\n\n\nBetween carpal tunnel and origin of synovial sheath (distal palm crease)\nContain the origin of the lumbricals from FDP\nLumbrical muscle tends to be injured\n\n\n\n\n\nCarpal tunnel – contains 9 tendons and median nerve\n\n\n\n\n\nProximal to carpal tunnel\nBest prognosis for repair",
+    "text": "Medial Intermuscular Septum\n\nArcade of Struthers (80% of people, 8 cm above medial epicondyle)\n\nMedial Head of Triceps\n\nMedial Epicondyle\n\nOsborne’s Ligament (roof of cubital tunnel)\n\nAnconeus Epitrochlearis (anomalous muscle)\n\nHeads of FCU\n\nFlexor Pronator Aponeurosis\n\n\n\n\n\nSubluxating Ulnar nerve\n\nCubitus valgus\n\nRheumatoid arthritis\n\nGanglions\n\nTumors\n\nDirect pressure",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#finger-zones",
-    "href": "Revision notes/Hand/extt.html#finger-zones",
-    "title": "Flexor Tendon",
+    "objectID": "Revision notes/Hand/uncom.html#elbow-cubital-tunnel-syndrome",
+    "href": "Revision notes/Hand/uncom.html#elbow-cubital-tunnel-syndrome",
+    "title": "Ulnar Nerve Compression",
     "section": "",
-    "text": "Contains only FDP\n\n\n\n\n\nFrom origin of sheath (MCPJ – distal palmar crease) to middle phalanx\nContains both FDS and FDP within a tight non-distensible sheath\nOften both tendons are lacerated\nWorst prognosis\n\n\n\n\n\nBetween carpal tunnel and origin of synovial sheath (distal palm crease)\nContain the origin of the lumbricals from FDP\nLumbrical muscle tends to be injured\n\n\n\n\n\nCarpal tunnel – contains 9 tendons and median nerve\n\n\n\n\n\nProximal to carpal tunnel\nBest prognosis for repair",
+    "text": "Medial Intermuscular Septum\n\nArcade of Struthers (80% of people, 8 cm above medial epicondyle)\n\nMedial Head of Triceps\n\nMedial Epicondyle\n\nOsborne’s Ligament (roof of cubital tunnel)\n\nAnconeus Epitrochlearis (anomalous muscle)\n\nHeads of FCU\n\nFlexor Pronator Aponeurosis\n\n\n\n\n\nSubluxating Ulnar nerve\n\nCubitus valgus\n\nRheumatoid arthritis\n\nGanglions\n\nTumors\n\nDirect pressure",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#thumb-zones",
-    "href": "Revision notes/Hand/extt.html#thumb-zones",
-    "title": "Flexor Tendon",
-    "section": "Thumb Zones",
-    "text": "Thumb Zones\n\nOnly one tendon &gt; FPL - zones are similar in pattern\n\n\n\n\nZone\nLocation\n\n\n\n\nZone 1\nDistal insertion of FPL\n\n\nZone 2\nOver proximal phalanx and MCPJ\n\n\nZone 3\nOver thenar muscles\n\n\nZone 4 & 5\nSame as for fingers",
+    "objectID": "Revision notes/Hand/uncom.html#diagnosis",
+    "href": "Revision notes/Hand/uncom.html#diagnosis",
+    "title": "Ulnar Nerve Compression",
+    "section": "Diagnosis",
+    "text": "Diagnosis\n\nHistory\n\nDuration of symptoms\n\nWeakness\n\nHistory of trauma/exacerbating factors\n\nAssociated pain\n\n\n\nExamination\n\nNeck\n\nDeformity\n\nScars\n\nWasting\n\nClawing\n\nUlnar paradox – Less clawing with proximal lesion\n\n\n\nSensory Deficit\n\nVolar aspect of the palm\n\nUlnar border of forearm\n\nDorsum of hand (ulnar aspect)\n\n\n\nMotor Tests\n\nFroment’s sign – Weak thumb adduction\n\nECU function\n\nFDP to little and ring fingers\n\n\n\n\nSpecial Tests\n\nTinel’s sign\n\nWartenberg’s sign\n\nPersistent abduction of little finger on attempted adduction\n\nDue to unopposed EDM pull\n\n\nElbow flexion provocation test\n\nSensation over dorsum of hand (dorsal cutaneous branch)",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#flexor-tendons",
-    "href": "Revision notes/Hand/extt.html#flexor-tendons",
-    "title": "Flexor Tendon",
-    "section": "Flexor Tendons",
-    "text": "Flexor Tendons\n\nFlexors are all long, extrinsic tendons – 6 in total\n\nNo contribution from intrinsics\n\nWrist Flexors: FCR, PL, FCU\nDigital Flexors: FDP, FDS, FPL\n\nLittle finger FDS absent in 20% of people\nLong to little fingers FDP have common muscle belly\nIndex finger has its own FDP belly\n\nTesting FDS\n\nTo test FDS to fingers, flex PIPJ with other fingers extended (neutralizes FDP)\nTo test FDS in the index separately, ask for a pincer grip with DIPJ hyperextended\nIf FDS is absent, only an “OK” sign is possible",
+    "objectID": "Revision notes/Hand/uncom.html#differential-diagnosis",
+    "href": "Revision notes/Hand/uncom.html#differential-diagnosis",
+    "title": "Ulnar Nerve Compression",
+    "section": "Differential Diagnosis",
+    "text": "Differential Diagnosis\n\nThoracic Outlet Syndrome (TOS)\n\nPain in the entire hand, proximal symptoms\n\nX-ray may show cervical rib\n\n\nPancoast Tumor\n\nSimilar to TOS but CXR shows tumor\n\n\nC8/T1 Radiculopathy\n\nPain is a feature, neck symptoms present\n\nSpurling’s sign positive, MRI for confirmation",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#tendon-nutrition",
-    "href": "Revision notes/Hand/extt.html#tendon-nutrition",
-    "title": "Flexor Tendon",
-    "section": "Tendon Nutrition",
-    "text": "Tendon Nutrition\n\nFlexors are mainly intrasynovial tendons\nLie within a fibro-osseous sheath with a double-layer synovium\nNo paratenon (unlike extensors)\nSheath Entry Points:\n\nIndex, middle, ring fingers enter at MC neck level\nThumb and little finger have synovial sheath in whole palm\n\n2 Modes of Nutrition:\n\nLongitudinal vessels from phalanges enter via vinculae system\n\nVincula longus and brevis per tendon\nTendon relatively avascular on palmar surface\n\nPassive diffusion from synovial fluid (imbibition)\n\nRelies on motion",
+    "objectID": "Revision notes/Hand/uncom.html#investigations",
+    "href": "Revision notes/Hand/uncom.html#investigations",
+    "title": "Ulnar Nerve Compression",
+    "section": "Investigations",
+    "text": "Investigations\n\nNCS – Quantifies denervation and rules out proximal cause\n\nMRI – Of spine to rule out radiculopathy\n\nX-ray – If deformity or OA, check for mechanical compression",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#structure",
-    "href": "Revision notes/Hand/extt.html#structure",
-    "title": "Flexor Tendon",
-    "section": "Structure",
-    "text": "Structure\n\nFDS initially volar to FDP in forearm and palm\nFDS splits and encircles FDP over P1 (Camper’s chiasm)\nFDS reforms dorsal to FDP and attaches to P2\nIn Zone 2, FDS and FDP glide over each other → high adhesion risk\nBlood Supply via Vinculae:\n\nVBP (Vinculum Brevis Profundus)\nVBS (Vinculum Brevis Superficialis)\nVLP (Vinculum Longus Profundus)\nVLS (Vinculum Longus Superficialis)",
+    "objectID": "Revision notes/Hand/uncom.html#management",
+    "href": "Revision notes/Hand/uncom.html#management",
+    "title": "Ulnar Nerve Compression",
+    "section": "Management",
+    "text": "Management\n\nGeneral Points\n\nTry non-operative management first if sensory symptoms only\n\nAddress non-anatomical causes if necessary\n\nExplain that recovery may not be complete, especially if motor deficit present\n\nClawing may increase during recovery, as FDP recovers first\n\nBest results occur before motor neuropathy develops\n\n\n\nNon-Operative\n\nActivity modification, splinting, padding\n\nSplint with elbow at 45° flexion\n\n\nAlways attempt for sensory-only cases for 6-8 weeks\n\n\n\nOperative\n\nDecompression – For sensory-only cases\n\nTransposition – If motor involvement or another compressive cause\n\nCombine with medial epicondylectomy if OA evidence\n\n\nSubcutaneous vs. Submuscular Transposition\n\nNo definitive evidence favoring one over the other\n\nTransposition is better than none for motor involvement\n\n\n\nProblems with Transposition\n\nDevascularization of the ulnar nerve can occur\n\nNot a blanket procedure for all patients\n\nFull release needed to avoid kinking\n\nSubmuscular transposition may aid vascularity but has longer recovery",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#lumbricals",
-    "href": "Revision notes/Hand/extt.html#lumbricals",
-    "title": "Flexor Tendon",
-    "section": "Lumbricals",
-    "text": "Lumbricals\n\n4 Lumbricals in total\nArise from FDP proximal to MCPJ in Zone 3\nRadial lumbricals: single-headed\nUlnar lumbricals: two-headed\nInsertion:\n\nRadial aspect of extensor mechanism\nPass dorsally and insert distal to PIPJ\nContribute to extensor hood & lateral bands\nFunction: Extend PIPJ & Flex MCPJ",
+    "objectID": "Revision notes/Hand/uncom.html#compression-at-the-wrist-guyons-canal-syndrome",
+    "href": "Revision notes/Hand/uncom.html#compression-at-the-wrist-guyons-canal-syndrome",
+    "title": "Ulnar Nerve Compression",
+    "section": "Compression at the Wrist – Guyon’s Canal Syndrome",
+    "text": "Compression at the Wrist – Guyon’s Canal Syndrome\n\nGuyon’s Canal Boundaries\n\nFloor – Transverse carpal ligament\n\nRoof – Forearm fascia and piso-hamate ligament\n\nRadial Border – Hook of hamate\n\nUlnar Border – Pisiform\n\n\n\nContents\n\nUlnar nerve (superficial and ulnar to median nerve at wrist level)\n\nUlnar artery (medial to the nerve)\n\nNo branches within Guyon’s canal",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#pulley-system",
-    "href": "Revision notes/Hand/extt.html#pulley-system",
-    "title": "Flexor Tendon",
-    "section": "Pulley System",
-    "text": "Pulley System\n\nFibro-osseous tendon sheath anchored dorsally to bone\nPulley Types:\n\nAnnular (A1-5): Thick and fibrous (prevent bowstringing)\nCruciate (C1-3): Flimsy, allow flexibility\n\nOdd-numbered pulleys arise from volar plate\nEven-numbered pulleys arise from periosteum\n\nA2 and A4 are most important for function\n\nThumb Pulleys:\n\n2 Annular (A1 & A2) and 1 Oblique\nOblique Pulley: Runs ulnar-proximal to radial-distal on P1\nOblique pulley is critical for stability",
+    "objectID": "Revision notes/Hand/uncom.html#ulnar-nerve-anatomy-around-the-wrist",
+    "href": "Revision notes/Hand/uncom.html#ulnar-nerve-anatomy-around-the-wrist",
+    "title": "Ulnar Nerve Compression",
+    "section": "Ulnar Nerve Anatomy Around the Wrist",
+    "text": "Ulnar Nerve Anatomy Around the Wrist\nFour branches:\n1. Dorsal Cutaneous Branch – Proximal to Guyon’s, crosses distal ulna\n2. Palmar Cutaneous Branch – Just distal to Guyon’s, medial palm\n3. Deep Motor Branch – Hypothenar muscles, interossei, adductor pollicis\n4. Superficial Sensory Branch – Little and ring fingers’ digital nerves",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
     ]
   },
   {
-    "objectID": "Revision notes/Hand/extt.html#prognosis-for-flexor-tendon-repair",
-    "href": "Revision notes/Hand/extt.html#prognosis-for-flexor-tendon-repair",
-    "title": "Flexor Tendon",
-    "section": "Prognosis for Flexor Tendon Repair",
-    "text": "Prognosis for Flexor Tendon Repair\n\nOrder from best to worst: Zone 5 &gt; Zone 4 &gt; Zone 3 &gt; Zone 1 &gt; Zone 2\nPrognosis Factors:\n\nEase of access for repair\nRoom for tendons to glide\nLess room = higher adhesion risk → Worse prognosis\n\nZone 2 has worst prognosis:\n\nTight sheath with FDS & FDP close together\nHigh adhesion risk\n\nZone 3 Complications:\n\nLumbrical repair or scarring → Intrinsic plus hand deformity\nLeads to MCP flexion contracture and restricted IPJ flexion\n\nZone 5 has best prognosis:\n\nNo enclosing sheath → free-moving tendons",
+    "objectID": "Revision notes/Hand/uncom.html#sites-of-compression-divided-into-zones",
+    "href": "Revision notes/Hand/uncom.html#sites-of-compression-divided-into-zones",
+    "title": "Ulnar Nerve Compression",
+    "section": "Sites of Compression (Divided into Zones)",
+    "text": "Sites of Compression (Divided into Zones)\n\nZone 1 – Proximal to bifurcation (within or before Guyon’s)\n\nMixed motor & sensory involvement\n\n\nZone 2 – Around Deep Motor Branch\n\nPure motor involvement\n\n\nZone 3 – Around Superficial Sensory Branch\n\nPure sensory involvement",
     "crumbs": [
       "Home",
       "Orthopaedics",
       "Revision notes",
       "Hand",
-      "Flexor Tendon"
+      "Ulnar Nerve Compression"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/uncom.html#typical-causes",
+    "href": "Revision notes/Hand/uncom.html#typical-causes",
+    "title": "Ulnar Nerve Compression",
+    "section": "Typical Causes",
+    "text": "Typical Causes\n\nPisotriquetral OA\n\nHook of Hamate Fracture\n\nPisotriquetral Ganglion\n\nUlnar Artery Aneurysm/Thrombosis\n\nDirect Pressure (e.g., cyclists)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Ulnar Nerve Compression"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/uncom.html#diagnosis-1",
+    "href": "Revision notes/Hand/uncom.html#diagnosis-1",
+    "title": "Ulnar Nerve Compression",
+    "section": "Diagnosis",
+    "text": "Diagnosis\n\nHistory and examination as for elbow compression\n\nDefine level and likely cause\n\nRule out proximal lesion (neck, thorax, brachial plexus)\n\n\nKey Features of Wrist Compression\n\nPreservation of dorsal hand nerve and forearm innervation\n\nIncreased Clawing (ulnar paradox)\n\nPreservation of FDP power in ring and little fingers\n\nMotor or sensory-only involvement defines the zone of compression",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Ulnar Nerve Compression"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/uncom.html#investigations-1",
+    "href": "Revision notes/Hand/uncom.html#investigations-1",
+    "title": "Ulnar Nerve Compression",
+    "section": "Investigations",
+    "text": "Investigations\n\nNCS\n\nMRI – Especially useful if ganglion suspected\n\nX-ray – Rule out OA",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Ulnar Nerve Compression"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/uncom.html#management-1",
+    "href": "Revision notes/Hand/uncom.html#management-1",
+    "title": "Ulnar Nerve Compression",
+    "section": "Management",
+    "text": "Management\n\nNon-Operative\n\nActivity modification, splinting, etc.\n\n\n\nOperative\n\nExplore and decompress Guyon’s canal\n\nAddress any mechanical compressive lesions\n\nDivide piso-hamate ligament if needed",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Ulnar Nerve Compression"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/carpins.html",
+    "href": "Revision notes/Hand/carpins.html",
+    "title": "Carpal Instability",
+    "section": "",
+    "text": "The carpus is comprised of 2 rows:\n\nDistal row is virtually fixed\nProximal row is an intercalated segment\n\nNo muscle attachments\nMovements are dependent on the action of the wrist joint, the connections between the bones, and movements of the distal row\nThe scaphoid spans both rows",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Carpal Instability"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/carpins.html#biomechanics-anatomy",
+    "href": "Revision notes/Hand/carpins.html#biomechanics-anatomy",
+    "title": "Carpal Instability",
+    "section": "",
+    "text": "The carpus is comprised of 2 rows:\n\nDistal row is virtually fixed\nProximal row is an intercalated segment\n\nNo muscle attachments\nMovements are dependent on the action of the wrist joint, the connections between the bones, and movements of the distal row\nThe scaphoid spans both rows",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Carpal Instability"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/carpins.html#carpal-stability",
+    "href": "Revision notes/Hand/carpins.html#carpal-stability",
+    "title": "Carpal Instability",
+    "section": "Carpal Stability",
+    "text": "Carpal Stability\n\nIntrinsic Ligaments\n\nShort, stout ligaments between the bones of the same row\nSLL strongest dorsally\nLTL strongest volarly but less discrepancy between volar & dorsal\n\n\n\nExtrinsic Ligaments\n\nVolar are the strongest ligaments in the wrist\nEspecially Radio-scapho-capitate ligament\nSpace of Poirier is a deficient area in volar capsulo-ligamentous tissue\n\nAllows dislocation of the lunate",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Carpal Instability"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/carpins.html#kinematics",
+    "href": "Revision notes/Hand/carpins.html#kinematics",
+    "title": "Carpal Instability",
+    "section": "Kinematics",
+    "text": "Kinematics\n\n2/3 flexion occurs at the midcarpal joint\n2/3 extension occurs at the radiocarpal joint\nRadial deviation causes scaphoid flexion\nUlnar deviation causes scaphoid extension\n\n\n3 Theories Regarding Kinematics\n\nRow Theory:\n\nDistal row fixed, proximal is an intercalated segment\n\nColumn Theory – Carpus is 3 columns:\n\nRadial (scaphoid) – mobile column as scaphoid spans both rows\nCentral (capitate & lunate) – flexion & extension\nUlna Column (triquetrum & hamate) – responsible for rotation\n\nOval Theory:\n\nCompromise of the two theories",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Carpal Instability"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/carpins.html#instability-patterns",
+    "href": "Revision notes/Hand/carpins.html#instability-patterns",
+    "title": "Carpal Instability",
+    "section": "Instability Patterns",
+    "text": "Instability Patterns\n\nAll injury patterns may be lesser or greater arc:\n\nGreater arc = through bones\nLesser arc = through soft tissues\n\nGillula’s lines (below) used to assess XRs to look for instability patterns\n\n\nCarpal Instability Dissociative (CID)\n\nBetween bones of the same row – bony or soft tissue\nIntercalated instability refers to CID of the proximal row\nDISI & VISI patterns\n\n\n\nCarpal Instability Non-Dissociative\n\nInstability is between rows\nLess common and difficult to diagnose\nMid-carpal instability is the most common pattern\n\n\n\nCarpal Instability Complex (CIC)\n\nInvolves a combination of CID & CIND\nMay be fractures or ligamentous instability\n\n\n\nCarpal Instability Adaptive (CIA)\n\nCompensatory instability pattern seen because of extra-carpal problems\n\nMost commonly a dorsal malunited distal radius fracture leads to DISI",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Carpal Instability"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/carpins.html#mayfield-classification-of-peri-lunate-dislocation",
+    "href": "Revision notes/Hand/carpins.html#mayfield-classification-of-peri-lunate-dislocation",
+    "title": "Carpal Instability",
+    "section": "Mayfield Classification of Peri-lunate Dislocation",
+    "text": "Mayfield Classification of Peri-lunate Dislocation\n\nThis is the most common pattern of Complex carpal instability\n\n\nStages:\n\nStage 1: Uncoupling of scaphoid and lunate\nStage 2: Stage 1 plus uncoupling of Capitate and lunate\nStage 3: Stage 1 & 2 plus uncoupling of Lunate and Triquetrum\nStage 4: Lunate dislocation (volar usually)\n\n\nThere is debate on whether lunate and perilunate dislocations are the same\n\nIn terms of management, they are the same thing",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Carpal Instability"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/carpins.html#management-of-specific-carpal-instability-patterns",
+    "href": "Revision notes/Hand/carpins.html#management-of-specific-carpal-instability-patterns",
+    "title": "Carpal Instability",
+    "section": "Management of Specific Carpal Instability Patterns",
+    "text": "Management of Specific Carpal Instability Patterns\n\nScapholunate Instability (DISI)\n\nAcute SLL Injury (&lt; 4 weeks)\n\nPrimary repair with suture anchors and K-wires\nOpen repair is reported up to 6 months after injury\nResults likely to deteriorate\n\n\n\nChronic SLL Injury\n\nBrunelli & Modified Brunelli Reconstruction:\n\nInvolves split FCR tunneling through scaphoid and lunate\nGood results in terms of pain relief and radiographic correction\nAt the expense of wrist stiffness\nNo proven reduction in late arthritis\n\nBlatt Capsulodesis:\n\nLess commonly done\nInvolves suture of dorsal capsule to scaphoid to stop it from flexing\n\nPartial Wrist Fusion:\n\nCorrective STT fusion, for instance\nLess commonly performed\nTechnical difficulty and loss of motion\n\n\n\n\n\nLunotriquetral Injury\n\nRare in isolation\nOften picked up late\n\n\nAcute\n\nDirect repair of LT ligament with anchors and wires\n\n\n\nChronic (more often)\n\nLunotriquetral fusion\nFCU tenodesis – stops triquetrum extending relative to lunate\n\n\n\n\nPerilunate Injuries\n\nEmergent Closed Reduction usually possible:\n\nHyperdorsiflexion and thumbing lunate back in\nHyperdorsiflexion and pushing carpus volar to hinge on capitate\n\n\n\nDefinitive Treatment\n\nAlways required\nDorsal Approach\n\nAnchors to repair ligaments\nK-wires in Christmas tree pattern to maintain carpal bone alignment\nWires out at 8 weeks\nPlaster for 12 weeks\nConcurrent carpal tunnel decompression\nVolar or dorsal approach to fix distal radius/styloid fractures\n\n\n\n\n\nComplications\n\nMedian nerve injury\nWrist stiffness\nWrist arthrosis\nCRPS\nProximal pole scaphoid AVN if trans-scaphoid fracture present",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Carpal Instability"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html",
+    "href": "Revision notes/Hand/tendrpr.html",
+    "title": "Principles of Tendon Repair",
+    "section": "",
+    "text": "Determined by posture of hand at time of injury\nFlexed → retraction of distal tendon\nExtended → retraction of proximal tendon",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#injury-retraction",
+    "href": "Revision notes/Hand/tendrpr.html#injury-retraction",
+    "title": "Principles of Tendon Repair",
+    "section": "",
+    "text": "Determined by posture of hand at time of injury\nFlexed → retraction of distal tendon\nExtended → retraction of proximal tendon",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#healing-stages",
+    "href": "Revision notes/Hand/tendrpr.html#healing-stages",
+    "title": "Principles of Tendon Repair",
+    "section": "Healing Stages",
+    "text": "Healing Stages\n\nInflammation\n\n0-5 days\nCellular inflammatory cascade\n\nProliferation\n\n5-28 days\nCollagen formed by fibroblasts\n\nRemodeling\n&gt; 28 days\n\nNew collagen fibers cross-link and remodel\n\n\n\nMobilization & Healing\n\nMobilization of the tendons improves the healing response\nAt 3 weeks, a mobilized tendon is twice as strong as an immobile tendon",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#goals-of-tendon-repair",
+    "href": "Revision notes/Hand/tendrpr.html#goals-of-tendon-repair",
+    "title": "Principles of Tendon Repair",
+    "section": "Goals of Tendon Repair",
+    "text": "Goals of Tendon Repair\n\nRestore function of the tendon by minimizing adhesions, maximizing strength and glide, and preventing complications\nAchieved by:\n\nStrong sutures\nGap-resistant techniques\nEarly mobilization (especially flexors)\nNo-touch technique",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#sutures",
+    "href": "Revision notes/Hand/tendrpr.html#sutures",
+    "title": "Principles of Tendon Repair",
+    "section": "Sutures",
+    "text": "Sutures\n\nNon-Absorbable on an atraumatic, non-cutting needle (Size 3-0)\nUnbraided: Slides easily through tendon\nBraided: Prevents late gapping as it has less elasticity\n\n\nCore Suture\n\nModified Kessler x2\nFour-strand core suture: 2x stronger than a two-strand technique\nSix-strand suture: 3x stronger but difficult to perform\n\n\n\nEpitendinous Suture\n\nSilverskold (running suture) or horizontal mattress\nEpitendinous repair adds 20-40% strength to core repair",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#technical-tips",
+    "href": "Revision notes/Hand/tendrpr.html#technical-tips",
+    "title": "Principles of Tendon Repair",
+    "section": "Technical Tips",
+    "text": "Technical Tips\n\nPlan skin incisions\nUse Brunner’s incision preserving A2 & A4 pulleys\nRetrieve tendon down sheath using an umbilical catheter trick\nTransfix tendons with needles during suturing (tension-free repair)\nPlace posterior epitendinous sutures before core stitch\nAvoid bunching up of the tendon – ensure good gliding",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#flexor-tendon-rehabilitation",
+    "href": "Revision notes/Hand/tendrpr.html#flexor-tendon-rehabilitation",
+    "title": "Principles of Tendon Repair",
+    "section": "Flexor Tendon Rehabilitation",
+    "text": "Flexor Tendon Rehabilitation\n\nChildren & non-compliant patients → immobilized for 4 weeks\nAll others → early motion initiated\n\nStronger tendon within 3 weeks\nFewer adhesions\n\n\n\nEarly Active Motion\n\nE.g., Belfast Protocol (newer vogue)\nRequires a strong repair\nModerate force\nPotential to increase excursion & reduce adhesions\nExtension blocking splint (wrist and MCPJ flexed)\nMarginally higher re-rupture but less adhesions\n\n\n\nPassive Motion Protocols\n\nTraditional approach (~6 weeks)\n\n\nKleinhert Protocol\n\nLow force & low excursion\nActive extension and passive flexion\nFlexion via dynamic splint (not patient-controlled)\nMarginally lower re-rupture rate\nMore adhesions\nDifficult setup (elastic bands required)\n\n\n\nDuran Protocol\n\nLow force & low excursion\nActive extension and passive flexion\nPatient performed\nRequires good patient compliance",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#complications",
+    "href": "Revision notes/Hand/tendrpr.html#complications",
+    "title": "Principles of Tendon Repair",
+    "section": "Complications",
+    "text": "Complications\n\nInfection\nRe-rupture (5-10%)\nStiffness (most common in Zone 2)\nCRPS\nNV injury",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/tendrpr.html#principles-of-delayed-repair-3-weeks",
+    "href": "Revision notes/Hand/tendrpr.html#principles-of-delayed-repair-3-weeks",
+    "title": "Principles of Tendon Repair",
+    "section": "Principles of Delayed Repair (>3 Weeks)",
+    "text": "Principles of Delayed Repair (&gt;3 Weeks)\n\nPrimary repair unlikely to succeed due to:\n\nRetracted tendon\nAvascularity (due to tenuous vincular supply)\nScarred sheath\n\nTendon reconstruction is the best option\n\n\nTendon Grafting\n\nPrerequisites\n\nFull passive motion must be present\nNeurovascularly intact fingers\n\n\n\nSingle vs. Two-Stage Repair\n\nSingle-stage\n\nFaster recovery\nHigher risk of adhesions & failure\nPossible in early delayed period\n\nTwo-stage\n\n1st Stage:\n\nRestore passive ROM (physio, MUA)\nTenolysis & contracture release\nRepair vessels & nerves if needed\nRecannulate sheath & pulleys with a silastic rod\n\n2nd Stage:\n\nRemove rod & use tendon graft (2-3 months later)\n\n\n\n\n\nGraft Options\n\nPalmaris longus\nPlantaris\nToe Extensors\nExtensor Indicis Proprius (EIP)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Principles of Tendon Repair"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html",
+    "href": "Revision notes/Hand/thumbar.html",
+    "title": "Thumb Base Arthritis",
+    "section": "",
+    "text": "80% of postmenopausal women have XR changes\n\nXR doesn’t always correlate with symptoms",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#epidemiology",
+    "href": "Revision notes/Hand/thumbar.html#epidemiology",
+    "title": "Thumb Base Arthritis",
+    "section": "",
+    "text": "80% of postmenopausal women have XR changes\n\nXR doesn’t always correlate with symptoms",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#anatomy-of-cmcj",
+    "href": "Revision notes/Hand/thumbar.html#anatomy-of-cmcj",
+    "title": "Thumb Base Arthritis",
+    "section": "Anatomy of CMCJ",
+    "text": "Anatomy of CMCJ\n\nSaddle shaped\n\nAllows polyaxial motion\n\n\n3 Ligaments\n\nDorsal\n\nLateral\n\nVolar Ulnar - Beak (most important)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#aetiology",
+    "href": "Revision notes/Hand/thumbar.html#aetiology",
+    "title": "Thumb Base Arthritis",
+    "section": "Aetiology",
+    "text": "Aetiology\n\nBeak ligament attenuation and rupture leads to instability of CMCJ\n\nInstability leads to arthritis",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#presenting-features",
+    "href": "Revision notes/Hand/thumbar.html#presenting-features",
+    "title": "Thumb Base Arthritis",
+    "section": "Presenting Features",
+    "text": "Presenting Features\n\nActivity-related pain\n\nWeak grip\n\nPain and weakness opening jars\n\nNight pain\n\nSuperimposed carpal tunnel syndrome common (40%)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#examination",
+    "href": "Revision notes/Hand/thumbar.html#examination",
+    "title": "Thumb Base Arthritis",
+    "section": "Examination",
+    "text": "Examination\n\nWasted thenar eminence – disuse\n\nSquaring of thumb base\n\nAdducted 1st metacarpal\n\nCompensatory MCPJ hyperextension – increases hand span\n\n\nGrind Test\n\nAxial compression and grind\n\nLess pain on distraction and grinding\n\n\n\nCrank Test\n\nAxial compression and flexion, extension pain",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#investigations",
+    "href": "Revision notes/Hand/thumbar.html#investigations",
+    "title": "Thumb Base Arthritis",
+    "section": "Investigations",
+    "text": "Investigations\n\nAP hand\n\nRoberts view (true AP of thumb)\n\nThumb maximally abducted & forearm maximally pronated",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#classification-eaton-littler",
+    "href": "Revision notes/Hand/thumbar.html#classification-eaton-littler",
+    "title": "Thumb Base Arthritis",
+    "section": "Classification (Eaton & Littler)",
+    "text": "Classification (Eaton & Littler)\n\nStage 1\n\nJoint space widening\n\nSynovitis and effusion\n\nNo OA changes\n\n\n\nStage 2\n\nOsteophytes &lt;2mm in size\n\nMild subluxation\n\nJoint space narrowing\n\n\n\nStage 3\n\nOsteophytes &gt;2mm in size\n\nSignificant subluxation\n\nJoint more significantly narrowed\n\n\n\nStage 4\n\nWidespread arthritis – especially of STT joint",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#management",
+    "href": "Revision notes/Hand/thumbar.html#management",
+    "title": "Thumb Base Arthritis",
+    "section": "Management",
+    "text": "Management\n\nTreat symptoms and functional impairment – not XR\n\n\nNon-Operative\n\nSplinting\n\nPhysio (thenar muscle strengthening)\n\nActivity modification\n\nAnalgesia\n\nCorticosteroid injection – in clinic or theatre\n\n\n\nOperative Management\n\nDecision making based on:\n\nPain\n\nFunctional expectations\n\nDegree of arthritis\n\n\n\nTrapezium Preservation\n\nNo arthritis\n\nInstability-related pain\n\n\nThumb Metacarpal Stabilisation with Split FCR\n\nReconstructs the Beak ligament\n\n\n\nExtension Osteotomy\n\nUnload CMCJ\n\n\n\n\nTrapezium Sacrificing Procedures\n\nMuch more common\n\n\nTrapeziectomy\n\nGold standard for patients overall\n\n80-90% good results\n\nProblems:\n\nThumb will be weaker\n\nInstability of Metacarpal\n\n\n\n\nTrapeziectomy plus Ligament Reconstruction and Interposition\n\nPostulated to have better results\n\nNot proven in any study\n\n\n\nArthrodesis\n\nFor young manual workers only\n\nPreserves power\n\nClenched fist position:\n\n30° abduction\n\n20° flexion\n\n\nTechnically difficult and prone to complications\n\n\n\nOsteotomy – Abduction, Extension\n\nGood results described for Stage 1-3\n\n\n\nArthroplasty\n\nBall and socket constrained design\n\nPrevious failures\n\nStill some good series\n\nLacks follow-up &gt; 3 years\n\nHigher complication rate",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/thumbar.html#outcomes",
+    "href": "Revision notes/Hand/thumbar.html#outcomes",
+    "title": "Thumb Base Arthritis",
+    "section": "Outcomes",
+    "text": "Outcomes\n\nIn general, all procedures have an 80-90% success with good selection\n\nWarn regarding long rehab time and time to see full benefit – 3-6 months\n\nNeed for splinting for 3-6 months",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "Thumb Base Arthritis"
     ]
   },
   {
@@ -12456,6 +13282,118 @@
       "Revision notes",
       "Hand",
       "Acute Scaphoid Fractures"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html",
+    "href": "Revision notes/Hand/Slnk.html",
+    "title": "SLAC & SNAC Wrist",
+    "section": "",
+    "text": "Stage 1: Radial styloid - scaphoid OA\n\nStage 2: Whole Scaphoid fossa OA\n\nStage 3: Mid carpal OA (Lunocapitate & Scaphocapitate OA)\n\nCapitate drives into scapholunate interval\n\n\nStage 4: Pan Carpal Arthritis",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html#slac-wrist",
+    "href": "Revision notes/Hand/Slnk.html#slac-wrist",
+    "title": "SLAC & SNAC Wrist",
+    "section": "",
+    "text": "Stage 1: Radial styloid - scaphoid OA\n\nStage 2: Whole Scaphoid fossa OA\n\nStage 3: Mid carpal OA (Lunocapitate & Scaphocapitate OA)\n\nCapitate drives into scapholunate interval\n\n\nStage 4: Pan Carpal Arthritis",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html#snac-wrist",
+    "href": "Revision notes/Hand/Slnk.html#snac-wrist",
+    "title": "SLAC & SNAC Wrist",
+    "section": "SNAC Wrist",
+    "text": "SNAC Wrist\n\nSame stages except Stage 4 is not usually part of it\n\nKey Difference:\n\nIn SNAC, proximal scaphoid pole remains attached to lunate by SL ligament\n\nThis spares the area from OA\n\nIn SLAC, SL ligament incompetence allows OA to develop between scaphoid and lunate\n\nCapitate drives into this area",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html#common-features-in-both",
+    "href": "Revision notes/Hand/Slnk.html#common-features-in-both",
+    "title": "SLAC & SNAC Wrist",
+    "section": "Common Features in Both",
+    "text": "Common Features in Both\n\nDissociative carpal instability (proximal row)\n\nDISI (Dorsal Intercalated Segment Instability) caused by:\n\nBony uncoupling in SNAC (flexed at fracture)\n\nSoft tissue disruption in SLAC (whole scaphoid flexed)\n\n\nSL Angle &gt;60° (normal is 40-60°)\n\nLunate fossa of radius only affected in most severe cases\n\nUsually spared but more likely affected in SLAC\n\nDue to capitate driving into the gap, displacing lunate ulnarly",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html#aetiology",
+    "href": "Revision notes/Hand/Slnk.html#aetiology",
+    "title": "SLAC & SNAC Wrist",
+    "section": "Aetiology",
+    "text": "Aetiology\n\nSNAC\n\nTraumatic non-union +/- AVN\n\n\n\nSLAC\n\nUsually SL ligament trauma\n\nMay be caused by pseudogout (pyrophosphate deposition disease)\n\nOften bilateral if pseudogout\n\n\nNo evidence that SL repair prevents SLAC\n\nEven without SLAC, SL rupture may cause persistent pain",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html#management",
+    "href": "Revision notes/Hand/Slnk.html#management",
+    "title": "SLAC & SNAC Wrist",
+    "section": "Management",
+    "text": "Management\n\nNon-Surgical Management\n\nNo long-term studies on non-operative treatment\n\nNatural history not fully understood\n\nSplinting, activity modification, and analgesia may suffice for some\n\n\n\nSurgical Treatment\n\nGoals:\n\nRelieve pain\n\nMaintain motion (in early stages)\n\nRestore function\n\n\n\nBroad Surgical Options:\n\nWrist denervation\n\nRadial Styloidectomy (+/- distal scaphoid excision in SNAC)\n\nLimited Lunocapitate fusion (+/- excision of triquetrum)\n\n4-corner fusion (+ excision of un-united proximal scaphoid)\n\nProximal Row Carpectomy (PRC)\n\nTotal Wrist Fusion\n\n\n\n\nSurgical Procedures\n\nWrist Denervation\n\nAIN & PIN denervation to eliminate articular branches\n\nUnpredictable results\n\nNo change to long-term mechanics\n\nSafe option as it does not burn surgical bridges\n\n\n\nRadial Styloidectomy +/- Distal Scaphoid Excision (SNAC)\n\nUseful in early stages (esp. Stage 1)\n\nSNAC: Un-united distal pole excised to reduce pain\n\nProblem: Pain may continue, and collapse may progress\n\nMay be a good temporizing measure\n\n\n\nIsolated Lunocapitate Fusion\n\nScaphoid & triquetrum excision may improve union rates\n\nIncreases Radiolunate contact pressure\n\nOutcomes equivalent to 4CF\n\n\n\n4-Corner Fusion (4CF)\n\nLunate, capitate, triquetrum, and hamate fusion\n\n+/- Scaphoid excision\n\nFixation: K-wires or plates\n\n\nProblems with 4CF\n\nNon-union risk\n\nBroken metalware\n\nTendon irritation\n\nContinued pain & restricted motion\n\n\n\nKey Surgical Tips for 4CF Success\n\nUse bone graft (from distal radius)\n\nIf using spider plate, use 2 screws per bone\n\nAvoid burrs/power instruments\n\nLunate position at fusion does not affect motion\n\n\n\n\nProximal Row Carpectomy (PRC)\n\nContraindicated if proximal capitate pole is severely arthritic\n\nWill cause continued pain\n\n\nAdvantages:\n\nNo metalware\n\nNo need for fusion\n\nFaster rehab\n\n\nDisadvantages:\n\nSlightly diminished grip strength\n\n\n\n\nChoosing Between 4CF and PRC\n\n4CF preferred in younger, high-demand patients\n\nPRC better for older or lower-demand patients\n\nSurgeon preference plays a large role as both have good reported outcomes\n\n\n\nTotal Wrist Fusion\n\nMost predictable results\n\nTreatment of choice for Stage 4 disease (or Stage 3 if preferred)\n\nDisadvantages:\n\nStiff wrist\n\nHardware complications\n\nNon-union (especially of 3rd CMCJ)",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html#treatment-algorithm",
+    "href": "Revision notes/Hand/Slnk.html#treatment-algorithm",
+    "title": "SLAC & SNAC Wrist",
+    "section": "Treatment Algorithm",
+    "text": "Treatment Algorithm\n\nStage 1\n\nNeurectomy\n\nRadial styloidectomy\n\n\n\nStage 2\n\nLunocapitate fusion + scaphoid excision\n\nPRC\n\n4-corner fusion + scaphoid excision\n\n\n\nStage 3\n\n4-corner fusion + scaphoid excision\n\n\n\nStage 4\n\nTotal wrist fusion",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Hand/Slnk.html#summary",
+    "href": "Revision notes/Hand/Slnk.html#summary",
+    "title": "SLAC & SNAC Wrist",
+    "section": "Summary",
+    "text": "Summary\n\nNo clear evidence on natural history of SLAC/SNAC symptoms\n\nTreatment is focused on symptom relief\n\nGoal is to preserve motion if possible",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Hand",
+      "SLAC & SNAC Wrist"
     ]
   },
   {

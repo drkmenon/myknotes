@@ -1,0 +1,399 @@
+---
+title: "Rheumatoid Hand & Wrist"
+format: html
+editor: visual
+---
+
+### Definition
+- An autoimmune systemic disease causing an inflammatory symmetric polyarthropathy primarily affecting synovial lined structures
+- In hand typically spares DIPJ
+
+### Classic X-Ray Features
+- Peri-articular erosions
+- Osteopenia
+- Joint subluxation and deformity
+
+### Medical Treatment
+#### 3 Groups of Drugs
+1. NSAIDS
+2. Corticosteroids
+3. Disease modifying drugs
+   - Only DMARDs can prevent joint destructions
+
+#### DMARDs
+- Split into Non-biologic and Biologic
+
+**Non-Biologic:**
+
+- Methotrexate
+  - Traditionally the only DMARD
+  - Best used as an anchor drug in combination with biologic agent
+
+**Biologic DMARDs:**
+
+- Further split into two categories:
+  - TNF-alpha inhibitors
+    - Etanercept
+  - Interleukin-1 antagonists
+    - Anakinara (shown to improve radiographic outcomes)
+
+### Classification of RA Joint Disease: Larsen Staging
+1. Normal joint
+2. Periarticular osteopenia, minimal narrowing
+3. Joint erosions, mild narrowing
+4. Moderate destructive narrowing
+5. End-stage joint destruction but preservation of joint surfaces
+6. Mutilating disease, complete articular destruction
+
+### Surgical Concepts
+- Many patients have adapted to severe deformities
+- Be specific in what the functional deficit you are trying to improve is
+- Not all deformities need correcting simultaneously
+- Patients often happy enough after one procedure
+
+### Wrist
+#### Natural History
+- Soft tissue attenuation, synovitis, and rupture lead to bony deformities
+- **Carpus:**
+  - Synovitis around wrist & extensor tendons
+  - Scapholunate ligament degeneration
+  - Extrinsic volar ligament attenuation and rupture
+  - Scaphoid flexion
+  - Radial column collapse
+- **DRUJ:**
+  - Caput ulna syndrome
+  - ECU subsheath rupture
+  - Allows carpus to supinate
+  - Stretches dorsal DRUJ restraints
+  - Ulna head prominence – piano key sign
+  - Eventually:
+    - Midcarpal instability and collapse
+    - Pan-carpal arthritis
+
+#### Causes of DRUJ Instability
+
+- High vascularity in pre-styloid recess leads to rapid synovitis
+- Attenuates ulna-sided ligament supports – ECU subsheath
+- ECU tendon infiltration - instability
+- Arthritic destruction of DRUJ articular surfaces
+
+#### Extensor Tendon Problems
+
+- Synovial infiltration of tendon sheaths – tenosynovitis
+- Tendon rupture – especially at wrist level
+- Tendon subluxation at MCP level
+
+#### Wrist Synovitis
+
+- 'Hourglass swelling' on dorsum of wrist
+- Indicates impending tendon rupture
+- Synovium proximal and distal to extensor retinaculum
+
+#### Tendon Rupture at Wrist
+
+- Infiltration of the tendons themselves
+- Attrition at bony prominences – DRUJ, Lister’s tubercle
+  - DRUJ typical because of Caput Ulna prominence
+- Palmar subluxated carpus
+- Dorsal subluxated Ulna head
+- Rupture occurs sequentially from ulna to radial
+  - EDM then EDC and so on
+
+#### Vaughan Jackson Syndrome
+
+- EDM rupture due to caput ulna
+- Test by holding other fingers flexed-inability to extend little finger
+  - Eliminates any juncturae or an EDC to little finger
+
+### MCPJ Tendon Problems
+
+- **Loss of extension at MCPJ may be caused by:**
+  1. Subluxation
+  2. Tendon rupture
+  3. Joint dislocation
+  4. PIN palsy
+- **On examination they can be differentiated by:**
+  - **Subluxation:** tendon palpable and relocates with extension
+  - **Rupture:** No palpable tendon or power in any position
+  - **Dislocation:** XR and palpable + visible deformity
+  - **PIN Palsy:** Other muscles affected - Tenodesis retained
+    - (slight extension of fingers with maximal passive flexion at wrist)
+
+### Flexor Tendon Problems
+#### Tenosynovitis
+
+- Painful thickened volar aspect fingers
+- Unable to pinch skin on examination
+- Crepitus and pain
+- Inject with steroid
+- Oral drugs
+- Splintage
+- Surgical synovectomy if no improvement to prevent rupture
+- Be fairly aggressive at preventing tendon rupture
+
+#### Tendon Rupture
+
+- FDS, FDP, or both at any level
+- Primary repair or grafting has poor results
+- Consider DIPJ fusion if FDP alone
+- Buddy to adjacent flexor if at wrist level
+- Tendon grafting may be needed if both ruptured in finger – unpredictable
+- All tendon procedures should have a synovectomy concurrently
+
+#### Mannerfelt Syndrome
+
+- Isolated rupture of FPL or sometimes index FDP
+- Attrition on volar STT joint osteophyte
+- May be confused with AIN palsy
+- Treat with thumb IPJ fusion
+  - FDS transfer or tendon grafting has poor results
+
+#### Triggering
+- Usually due to tenosynovitis rather than A1 pulley thickening
+- Preserve pulleys if possible (maintain stability of tendon)
+- Excise synovitis
+
+### Carpal Tunnel Syndrome
+
+- Either concurrent or due to synovitis in tunnel
+- Explore carpal tunnel fully if RA present
+- Excise synovitis and decompress nerve
+
+### Surgery for Wrist RA
+**Goals:**
+
+- Prophylactic or corrective
+- Pain relief
+- Prevention of tendon rupture
+- Correct deformities contributing to functional impairment
+- Restore function
+
+#### DRUJ Procedures
+
+- **Darrach’s:** Distal ulna resection - often leave styloid tip
+  - Possible in older low demand patients
+  - Comparable pain relief but grip strength poor
+  - Complications:
+    - Ulna translation of the carpus into defect
+    - Can do concurrent RL fusion to prevent
+
+- **Suave Kapanji:** DRUJ fusion with Ulna osteotomy to maintain rotation
+  - Main complication: Stump pain - abutment against radius
+  - Lower complication rate than Darrach
+  - Better for younger patients
+
+- **DRUJ Arthroplasty:**
+  - No long-term results and loosening/pain are problems
+
+## Radiocarpal Arthritis
+
+### Fusion or Arthroplasty
+
+#### Fusions: Limited or Total
+
+**Radiocarpal Fusion (Chamay) (Radius to Lunate and Scaphoid)**
+
+- Prophylactic to prevent ulna subluxation of carpus
+- Halts natural progression outlined above
+- Contraindicated in presence of midcarpal OA
+
+**Total Wrist Fusion**
+
+- Predictably good results with dorsal fusion plates/pins
+- Some prefer not using dorsal plates because of poor bone
+- AO locking wrist fusion plate is better though
+- Pain relief good and function satisfactory
+- Complication rate is low
+- Pseudoarthroses tend to be pain free
+
+**Surgical Steps**
+
+- Longitudinal dorsal approach
+- Dorsal half carpal bones and distal radius fragmented and used as graft
+- IM pins, Steiman pins, or AO fusion plate
+- For bilateral cases try and avoid bilateral fusion
+- Consider arthroplasty of one wrist
+
+### Wrist Arthroplasty
+- Better results but still evolving
+- Rheumatoid arthritis is a possible indication
+- Improved results with the Universal 2 wrist replacement
+  - Should have:
+    - Minimal deformity
+    - Good bone stock
+    - Intact extensors
+
+## MCP Joints
+
+### Typical Deformities
+- Volar joint subluxation due to synovitis
+- Ulna drift caused by tendon subluxation
+
+### Functional Problems
+- Difficult to pinch if index drifted ulnar ward
+- Difficulty cupping objects
+- Aesthetically displeasing
+
+### Surgical Options
+**Soft Tissue or Bony Procedures**
+
+**Synovectomy & Cross Intrinsic Transfer of Lateral Bands**
+
+- Early disease only
+- Prevents subluxation
+
+**Relocation of Tendon**
+
+- Tightening of radial and release of ulna soft tissues
+- Contraindicated if joint affected
+
+**Fusion**
+
+- Not usually good option as finger motion is initiated at MCPJ
+- Fusion is functionally poor at MCPJ
+- Last resort
+
+**Arthroplasty**
+
+- Usually the best solution
+- Shortens digit > reduces soft tissue tension and deforming forces
+- Must be combined with tendon relocation and soft tissue balance
+- Concurrent wrist re-alignment to prevent chronic instability
+- Better deformity correction in radial joints
+- Silicone spacers most common
+  - Traditionally the Swanson
+  - Currently Neuflex is most common
+  - Scar tissue formed stabilises joints despite loosening
+- Pyrocarbon unconstrained joints not good for RA but good in OA
+
+**Surgical Principles**
+
+- Correct proximal wrist deformities and tendons first
+- Multiple or single transverse or longitudinal incisions
+- Release capsule and intrinsics
+- Excise MCPJ head distal to collaterals
+- Imbricate lax radial capsule and sagittal band in closure
+
+### Volar Plate Arthroplasty
+
+- Interposition of volar plate in joint - pain relieving
+- Unreliable correction of deformity
+- Best reserved if bone too small for arthroplasty
+
+## Tendon Rupture
+
+- Sequentially occurs from EDM then each EDC
+- All procedures should address the tendon deficiency and the cause
+
+### Tendon Transfer Options
+
+- **Only EDM ruptured**
+  - End-to-side transfer (stitch end of EDM to EDC of ring finger)
+- **If ulna 2 tendons ruptured**
+  - EIP transfer to power ring & little or,
+  - EIP to EDM and buddy ring to middle EDC
+- **If ulna 3 tendons ruptured**
+  - EIP to ring and little
+  - Middle finger end to side with Ext Indicis Communis
+  - Weak extension as all fingers powered by index extensors
+  - Alternative is to combine FDS into transfer
+- **If all 4 tendons gone:**
+  - FDS tendons transferred through interosseous membrane
+  - FDS is not synergistic > function difficult to get used to
+  - FDS has excellent excursion so is very useful
+
+## Boutonniere Deformity
+
+### Primary Cause
+
+- Synovitis, attenuation, and rupture of central slip
+- Volar subluxation of lateral bands and hyperextension of DIPJ
+- Often not functionally too limiting but,
+  - Patients don't like appearance
+- Correction to an extended position of PIPJ can actually impair function
+  - Therefore avoid for aesthetics
+
+### Classification (Nalebuff)
+
+- **Mild:** Mobile PIPJ, PIPJ extensor lag <15 degrees
+- **Moderate:** Mobile PIPJ, PIPJ extensor lag 15-40 degrees
+- **Severe:** Fixed PIPJ with loss of extension and arthritis
+
+### Management
+**Flexible Deformity:**
+
+- **If acute:** Capener splint – allows active DIPJ motion
+- **If chronic:**
+  - Extensor tendon tenotomy – at distal phalanx
+  - Leaves ORL intact so no mallet finger develops
+  - Tendon reconstruction
+  - Passive motion must be restored
+  - Re-location of lateral bands or,
+  - Transfer of ulna lateral band to central slip
+
+**Fixed Deformity:**
+
+- **Arthrodesis**
+  - Gold standard – reliable and durable
+- **Arthroplasty**
+  - Described but deformity often recurs – more difficult to salvage
+
+## Swan Neck Deformity
+
+- More functionally limiting than Boutonniere
+- Patient unable to flex finger and grip properly
+
+### Causes
+
+- **DIPJ:** Mallet finger caused by DIPJ disease or trauma
+- **PIPJ:**
+  - Synovitis causes volar plate attenuation or FDS rupture
+  - Dorsal subluxation of lateral bands
+  - Transverse and oblique ligaments incompetent
+- **MCPJ:** Joint or tendon subluxation causes intrinsic tightness
+
+### Classification (Nalebuff)
+
+- **Type 1:** Fully flexible PIPJ with mild hyperextension
+- **Type 2:** Intrinsic tightness, PIPJ tight with MCPJ extension only
+- **Type 3:** PIPJ tight regardless of MCPJ position, No arthritis
+- **Type 4:** Stiff, arthritic PIPJ
+
+### Management
+
+- Treatment based on cause of deformity and functional deficit
+- **REMEMBER:** Doing nothing may be the best option
+- Optimization of medical treatment prior to surgery
+
+#### Stage-wise Treatment
+
+- **Stage 1:**
+  - Extension restricting splint if PIPJ is problem
+  - DIPJ fusion if DIPJ problem
+- **Stage 2:**
+  - Intrinsic release
+  - FDS tenodesis or volar plate advancement to prevent hyperextension
+- **Stage 3:**
+  - Arthrodesis of PIPJ + intrinsic release
+  - Can MUA PIPJ to restore motion then do as for stage 2
+- **Stage 4:** Arthrodesis
+- **Arthroplasty:** PIPJ results are poor in RA
+
+## Thumb Deformities
+
+- **Thumb Boutonniere (MCPJ problem)**
+- **Thumb Swan Neck (CMCJ problem)**
+- Mainstay are fusion procedures to provide a strong post for grip
+  - Instability rather than loss of motion causes the most symptoms
+  - Fuse the appropriate joint
+  - If both CMCJ and MCPJ unstable can fuse both but limits function badly
+  - Consider CMCJ arthroplasty and MCPJ fusion or just fuse MCPJ
+
+### Classification of Rheumatoid Thumb (Nalebuff)
+
+1. Type 1: Boutonniere (MCPJ flexion) – most common
+2. Type 2: Boutonniere with CMCJ dislocation or arthritis (rare)
+3. Type 3: Swan Neck (CMCJ adduction and flexion)
+4. Type 4: Ulna collateral ligament laxity
+5. Type 5: Swan Neck with no adduction of metacarpal (rare)
+6. Type 6: Mutilating disease – gross joint destruction

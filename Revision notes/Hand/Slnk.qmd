@@ -1,0 +1,144 @@
+---
+title: "SLAC & SNAC Wrist"
+format: html
+editor: visual
+---
+
+## SLAC Wrist  
+### Stages:  
+- **Stage 1**: Radial styloid - scaphoid OA  
+- **Stage 2**: Whole Scaphoid fossa OA  
+- **Stage 3**: Mid carpal OA (Lunocapitate & Scaphocapitate OA)  
+  - Capitate drives into scapholunate interval  
+- **Stage 4**: Pan Carpal Arthritis  
+
+## SNAC Wrist  
+- Same stages except **Stage 4 is not usually part of it**  
+- **Key Difference**:  
+  - In SNAC, **proximal scaphoid pole remains attached to lunate** by SL ligament  
+  - This spares the area from OA  
+  - In SLAC, **SL ligament incompetence** allows OA to develop between scaphoid and lunate  
+  - **Capitate drives into this area**  
+
+## Common Features in Both  
+- **Dissociative carpal instability (proximal row)**  
+- **DISI (Dorsal Intercalated Segment Instability)** caused by:  
+  - **Bony uncoupling in SNAC** (flexed at fracture)  
+  - **Soft tissue disruption in SLAC** (whole scaphoid flexed)  
+- **SL Angle >60°** (normal is 40-60°)  
+- **Lunate fossa of radius only affected in most severe cases**  
+  - **Usually spared but more likely affected in SLAC**  
+  - **Due to capitate driving into the gap, displacing lunate ulnarly**  
+
+## Aetiology  
+### SNAC  
+- Traumatic non-union +/- AVN  
+
+### SLAC  
+- **Usually SL ligament trauma**  
+- May be caused by **pseudogout (pyrophosphate deposition disease)**  
+  - Often **bilateral** if pseudogout  
+- **No evidence that SL repair prevents SLAC**  
+- **Even without SLAC, SL rupture may cause persistent pain**  
+
+## Management  
+
+### Non-Surgical Management  
+- No long-term studies on **non-operative treatment**  
+- **Natural history not fully understood**  
+- **Splinting, activity modification, and analgesia** may suffice for some  
+
+### Surgical Treatment  
+#### **Goals:**  
+- Relieve pain  
+- Maintain motion (in early stages)  
+- Restore function  
+
+#### **Broad Surgical Options:**  
+1. **Wrist denervation**  
+2. **Radial Styloidectomy** (+/- distal scaphoid excision in SNAC)  
+3. **Limited Lunocapitate fusion** (+/- excision of triquetrum)  
+4. **4-corner fusion** (+ excision of un-united proximal scaphoid)  
+5. **Proximal Row Carpectomy (PRC)**  
+6. **Total Wrist Fusion**  
+
+### **Surgical Procedures**  
+
+#### **Wrist Denervation**  
+- **AIN & PIN denervation** to eliminate articular branches  
+- **Unpredictable results**  
+- **No change to long-term mechanics**  
+- **Safe option as it does not burn surgical bridges**  
+
+#### **Radial Styloidectomy +/- Distal Scaphoid Excision (SNAC)**  
+- Useful in **early stages (esp. Stage 1)**  
+- **SNAC:** Un-united distal pole excised to reduce pain  
+- **Problem**: Pain may continue, and collapse may progress  
+- **May be a good temporizing measure**  
+
+#### **Isolated Lunocapitate Fusion**  
+- **Scaphoid & triquetrum excision may improve union rates**  
+- **Increases Radiolunate contact pressure**  
+- **Outcomes equivalent to 4CF**  
+
+#### **4-Corner Fusion (4CF)**  
+- **Lunate, capitate, triquetrum, and hamate fusion**  
+- **+/- Scaphoid excision**  
+- **Fixation: K-wires or plates**  
+
+##### **Problems with 4CF**  
+- **Non-union risk**  
+- **Broken metalware**  
+- **Tendon irritation**  
+- **Continued pain & restricted motion**  
+
+##### **Key Surgical Tips for 4CF Success**  
+- Use **bone graft (from distal radius)**  
+- If using **spider plate**, use **2 screws per bone**  
+- Avoid **burrs/power instruments**  
+- **Lunate position at fusion does not affect motion**  
+
+#### **Proximal Row Carpectomy (PRC)**  
+- **Contraindicated if proximal capitate pole is severely arthritic**  
+  - Will cause continued pain  
+- **Advantages:**  
+  - No metalware  
+  - No need for fusion  
+  - Faster rehab  
+- **Disadvantages:**  
+  - Slightly diminished grip strength  
+
+#### **Choosing Between 4CF and PRC**  
+- **4CF** preferred in **younger, high-demand patients**  
+- **PRC** better for **older or lower-demand patients**  
+- **Surgeon preference plays a large role** as both have good reported outcomes  
+
+#### **Total Wrist Fusion**  
+- **Most predictable results**  
+- **Treatment of choice for Stage 4 disease** (or Stage 3 if preferred)  
+- **Disadvantages:**  
+  - **Stiff wrist**  
+  - **Hardware complications**  
+  - **Non-union (especially of 3rd CMCJ)**  
+
+## **Treatment Algorithm**  
+
+### **Stage 1**  
+- **Neurectomy**  
+- **Radial styloidectomy**  
+
+### **Stage 2**  
+- **Lunocapitate fusion + scaphoid excision**  
+- **PRC**  
+- **4-corner fusion + scaphoid excision**  
+
+### **Stage 3**  
+- **4-corner fusion + scaphoid excision**  
+
+### **Stage 4**  
+- **Total wrist fusion**  
+
+## **Summary**  
+- **No clear evidence on natural history of SLAC/SNAC symptoms**  
+- **Treatment is focused on symptom relief**  
+- **Goal is to preserve motion if possible**  

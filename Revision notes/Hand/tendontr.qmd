@@ -1,0 +1,175 @@
+---
+title: "Upper Limb Tendon Transfers"
+format: html
+editor: visual
+---
+
+## Definition  
+- Transfer of a functional muscle tendon unit to a non-functional unit in order to restore or improve function  
+
+## Muscle-Tendon Unit Mechanics  
+- Force exerted is proportional to the cross-sectional area of the muscle  
+- Force of contraction is greatest at a muscle's resting length  
+- Tendon Excursion (amplitude) is proportional to the length of the muscle  
+- Sufficient excursion of transferred tendon is required to restore full function  
+  - Smith's 3-5-7 rule estimates the excursion of:  
+    - Wrist Flexors & Extensors - 3cm  
+    - Finger Extensors - 5cm  
+    - Finger Flexors – 7cm  
+- Work Capacity is force times length  
+- Power is Work per unit time  
+
+## Principles of Tendon Transfer  
+### Rule of 13 S’s  
+- Covers patient, tendon, surgical and joint factors  
+
+#### Patient  
+- Sensible & motivated  
+
+#### Tendon  
+- Strong  
+- Sacrificable  
+- Synergistic  
+- Sufficient excursion  
+
+#### Surgery  
+- Straight  
+- Scarless skin  
+- Stable wound bed  
+- Subcutaneously transferred  
+- Secure fixation distally  
+- Single function  
+
+#### Joint  
+- Supple  
+- Sensate  
+
+> "In a Sensible patient, I will transfer a Strong, Sacrificable, Synergistic tendon with sufficient excursion, straight through a scarless, stable, subcutaneous bed over a supple, sensate joint to achieve a single function by secure fixation distally."  
+
+## Indications for Tendon Transfer  
+### The 3 R’s – Restore, Replace, Rebalance  
+1. Restore Function (nerve injury)  
+2. Replace ruptured or avulsed tendons  
+3. Rebalance a deformity  
+
+## Timing of Transfers  
+- Usually worth waiting to see what equilibrium has been achieved  
+- Do not wait too long  
+- Motor end plate undergoes degradation at 12-18 months  
+- Early transfers are <1 month, late are >6 months  
+
+## Choice of Tendon  
+- Think about what needs restoration  
+- What tendons are available?  
+- Which fits the above criteria?  
+
+---  
+
+# Radial Nerve Lesions  
+## Clinical Features  
+### High Lesion (Axilla or proximal)  
+- All muscles lost including triceps  
+- Sensory deficit over:  
+  - Anatomic snuffbox  
+  - Posterior arm (posterior cutaneous nerve of forearm)  
+
+### Low Lesion – Mid-arm and elbow findings  
+- Triceps intact, all other muscles lost  
+- Anconeus, Brachioradialis, and ECRL innervated above elbow  
+- Supinator  
+
+## Management  
+### Splinting  
+- Static extension splint with passive ROM  
+- Radial Splint (Lively splint)  
+  - Outrigger with elastic bands to replace ECRB, EPL, and EDC  
+
+## Transfers  
+### Indications for Transfer  
+- No recovery by 6 months  
+- ECRL should be recovering by 6 months  
+- Consider early restoration of wrist extension to place fingers at an advantage  
+
+### Transfer Priorities  
+1. Wrist Extension  
+2. Finger Extension  
+3. Thumb Extension  
+
+### Typical Radial Nerve Transfers  
+- PT to ECRB  
+- FCR to EDC  
+- PL to EPL  
+  - If no PL (20%) use FDS (ring finger) to EPL  
+
+#### Other Points  
+- FCR preferred to FCU  
+- Balances wrist especially if ECRL intact  
+- PT to ECRB not always needed in low injury as ECRL functional  
+- Often done anyway as ECRB is a more central, stronger wrist extensor  
+- Restoration of wrist extension places thumb flexors at advantage  
+  - Improves pincer grip  
+- **Jones Transfer** – classic transfer  
+  - PT to ECRB  
+  - FCU to EDC  
+  - FCR to EPL  
+    - An option when PL not available  
+    - Problem: Wrist becomes unbalanced – radial deviation  
+
+---  
+
+# Median Nerve Lesions  
+### 1st muscle supplied: Pronator Teres  
+### Last muscles supplied: Thenar muscles (OP, APB, FPB)  
+
+### High Lesion - Above Distal Forearm  
+- PT, PQ, FDS, half FDP, FCR, FPL, APB, half FPB, OP  
+- AIN palsy if at elbow level – PQ, FPL, lateral two FDP  
+- Sensory loss over lateral 3 ½ digits  
+
+### Low Lesion  
+- Only thenar muscles lost - OP, APB always  
+  - FPB is half innervated by Ulnar nerve  
+  - APB is key to opposition function  
+- Sensory loss over lateral 3 ½ digits  
+
+### Goals of Restoration in Order of Importance  
+1. Thumb opposition (APB more important for this than OP)  
+2. Thumb flexion (FPL)  
+3. Index/Middle finger flexion (FDP)  
+4. Forearm pronation (PT)  
+
+### Available Tendons  
+- FDS (in low palsy); Ulna half FDP; EPL; BR; EID; PL  
+- **Only Opposition needs restoration in a low palsy**  
+
+### Common Median Nerve Transfers  
+#### Opposition (APB)  
+- EIP to APB  
+- In a low median nerve – use PL to APB (Camitz transfer)  
+
+#### Thumb Flexion  
+- BR to FPL  
+
+#### Index/Middle Finger Flexion  
+- Ulna FDP buddy to Radial FDP  
+- Fuse DIPJs  
+
+#### Forearm Pronation  
+- Biceps re-routed to radial aspect radius – pronates rather than supinates  
+
+---  
+
+# Ulnar Nerve Lesions  
+### High Lesion  
+- 1st muscle supplied: FCU  
+- FDP (ulnar half)  
+
+### Low Lesion  
+- FDM, ODM, ABD DM, 2 Lumbricals, 3 Palmar IOS, 4 Dorsal IOS, ADP, FPB ½  
+
+### Priorities of Treatment  
+1. Restore ADP – provides post for pincer grip  
+2. Correct clawing – FDP and Lumbricals  
+3. 1st Dorsal IOS – Index abduction improves pincer grip  
+
+---  

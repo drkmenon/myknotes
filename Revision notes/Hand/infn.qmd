@@ -5,163 +5,186 @@ editor: visual
 ---
 
 ## Areas that may become infected:
-- **Superficial**
-  - Finger tip (*Paronychia*)
-  - Pulp space (*Felon*)
-  - Web Space (*Collar stud abscess*)
-  - Subdermal
-- **Deep**
-  - Flexor sheaths → Radial & Ulnar bursae
-  - Parona’s space
-  - Mid palmar space
-  - Thenar space
-  - Hypothenar space
-  - Joint Spaces
 
-- **Most common pathogen:** *Staphylococcus aureus*
+-   **Superficial**
+    -   Finger tip (*Paronychia*)
+    -   Pulp space (*Felon*)
+    -   Web Space (*Collar stud abscess*)
+    -   Subdermal
+-   **Deep**
+    -   Flexor sheaths → Radial & Ulnar bursae
+    -   Parona’s space
+    -   Mid palmar space
+    -   Thenar space
+    -   Hypothenar space
+    -   Joint Spaces
+-   **Most common pathogen:** *Staphylococcus aureus*
 
 ## Paronychia
-- Nail fold infection
-- **Treatment:** Incision & drainage (I&D) with incision at edge of nail
-- May require partial or complete nail removal
-- **Resistant cases:** Consider *Candida albicans*
+
+-   Nail fold infection
+-   **Treatment:** Incision & drainage (I&D) with incision at edge of nail
+-   May require partial or complete nail removal
+-   **Resistant cases:** Consider *Candida albicans*
 
 ## Felon
-- **Infection of pulp space**
-- **Treatment:** I&D with mid-lateral incision in pulp space
-  - Ulnar side except for thumb and little finger
-- **Main concern:** Multiple loculations requiring breakdown
-  - Peel off volar aspect of distal phalanx
+
+-   **Infection of pulp space**
+-   **Treatment:** I&D with mid-lateral incision in pulp space
+    -   Ulnar side except for thumb and little finger
+-   **Main concern:** Multiple loculations requiring breakdown
+    -   Peel off volar aspect of distal phalanx
 
 ## Collar Stud Abscess
-- **Characteristics:** Two separate abscesses in web space
-  - Hourglass-shaped appearance
-  - Larger on dorsal surface, can extend proximally
-  - Fingers appear slightly spread apart
-- **Treatment:**
-  - Avoid incision through web space (prevents bad scarring)
+
+-   **Characteristics:** Two separate abscesses in web space
+    -   Hourglass-shaped appearance
+    -   Larger on dorsal surface, can extend proximally
+    -   Fingers appear slightly spread apart
+-   **Treatment:**
+    -   Avoid incision through web space (prevents bad scarring)
 
 ## Flexor Sheath Infections
+
 ### Kanavel’s Signs:
-1. Flexed posture
-2. Pain along flexor sheath
-3. Fusiform swelling
-4. Pain on passive stretch
+
+1.  Flexed posture
+2.  Pain along flexor sheath
+3.  Fusiform swelling
+4.  Pain on passive stretch
 
 ### Management:
-- **Early cases:** Antibiotics if short-duration presentation
-- **Unclear diagnosis:** Consider further evaluation
-- **Incision & Drainage (I&D) in case of soft tissue infection:**
-  - Two transverse incisions over *A1* and *A5* pulleys
-  - Dissect flexor sheath proximal & distal to pulley
-  - Longitudinal incision & pus culture
-  - Insert **umbilical catheter** to irrigate sheath proximally to distally (prevents infection spread)
-  - Consider leaving catheter for irrigation or relook at 48 hours
-  - **Severe infections:** May require full sheath exploration via mid-lateral incisions (avoids exposing flexor tendons)
+
+-   **Early cases:** Antibiotics if short-duration presentation
+-   **Unclear diagnosis:** Consider further evaluation
+-   **Incision & Drainage (I&D) in case of soft tissue infection:**
+    -   Two transverse incisions over *A1* and *A5* pulleys
+    -   Dissect flexor sheath proximal & distal to pulley
+    -   Longitudinal incision & pus culture
+    -   Insert **umbilical catheter** to irrigate sheath proximally to distally (prevents infection spread)
+    -   Consider leaving catheter for irrigation or relook at 48 hours
+    -   **Severe infections:** May require full sheath exploration via mid-lateral incisions (avoids exposing flexor tendons)
 
 ## Radial & Ulnar Bursae
-- **Anatomy:**
-  - Continuations of flexor sheaths of little and thumb digits
-  - Meet just proximal to flexor retinaculum
-- **Horseshoe Abscess:** Infection tracking down from thumb/little finger
+
+-   **Anatomy:**
+    -   Continuations of flexor sheaths of little and thumb digits
+    -   Meet just proximal to flexor retinaculum
+-   **Horseshoe Abscess:** Infection tracking down from thumb/little finger
 
 ## Palmar Spaces
-- **Lie deep to flexor tendons but superficial to metacarpals**
-- **Rare but difficult to diagnose**
-- **Three spaces:**
-  1. **Mid-palmar space** (Over middle and ring MC, contains 2nd–4th lumbricals)
-  2. **Thenar space** (Overlies 2nd MC, contains 1st lumbrical)
-  3. **Hypothenar space** (Overlies little finger MC, contains hypothenar muscles)
-- **Mid-palmar & thenar spaces separated by a fibrous septum from 3rd MC**
-- **Signs of infection:**
-  - Severe pain
-  - High fever
-  - Absence of fusiform swelling (unlike flexor sheath infections)
-  - Does not involve fingers
+
+-   **Lie deep to flexor tendons but superficial to metacarpals**
+-   **Rare but difficult to diagnose**
+-   **Three spaces:**
+    1.  **Mid-palmar space** (Over middle and ring MC, contains 2nd–4th lumbricals)
+    2.  **Thenar space** (Overlies 2nd MC, contains 1st lumbrical)
+    3.  **Hypothenar space** (Overlies little finger MC, contains hypothenar muscles)
+-   **Mid-palmar & thenar spaces separated by a fibrous septum from 3rd MC**
+-   **Signs of infection:**
+    -   Severe pain
+    -   High fever
+    -   Absence of fusiform swelling (unlike flexor sheath infections)
+    -   Does not involve fingers
 
 ## Parona’s Space
-- **Potential space at wrist level** (deep to radial & ulnar bursa confluence)
-- **Bound by:** FCU, PQ, FPL, flexor tendons
-- **Concern:** Pus can compromise median nerve
 
----
+-   **Potential space at wrist level** (deep to radial & ulnar bursa confluence)
+-   **Bound by:** FCU, PQ, FPL, flexor tendons
+-   **Concern:** Pus can compromise median nerve
+
+------------------------------------------------------------------------
 
 # Bites & Infections
+
 ## Common Organisms by Bite Type:
-- **Cat:** *Pasteurella multocida*
-- **Dog:** *Streptococcus viridans, Pasteurella multocida*
-- **Human:** *Eikenella corrodens*
-- **Other anaerobes possible but above are most common**
+
+-   **Cat:** *Pasteurella multocida*
+-   **Dog:** *Streptococcus viridans, Pasteurella multocida*
+-   **Human:** *Eikenella corrodens*
+-   **Other anaerobes possible but above are most common**
 
 ### Dog & Cat Bites (Order of Frequency):
-1. *Streptococcus viridans*
-2. *Pasteurella multocida*
-3. *Staphylococcus aureus*
+
+1.  *Streptococcus viridans*
+2.  *Pasteurella multocida*
+3.  *Staphylococcus aureus*
 
 ### Fight Bites (Clenched Fist Injuries)
-- **Exploration of underlying joint is essential**, even if not obviously involved
-- **Puncture wound in joint capsule is distal to skin wound** (due to flexion at time of injury)
-- **Common organisms:**
-  1. *Group A Streptococcus*
-  2. *Staphylococcus aureus*
-  3. *Eikenella corrodens*
-  4. Other anaerobes
 
----
+-   **Exploration of underlying joint is essential**, even if not obviously involved
+-   **Puncture wound in joint capsule is distal to skin wound** (due to flexion at time of injury)
+-   **Common organisms:**
+    1.  *Group A Streptococcus*
+    2.  *Staphylococcus aureus*
+    3.  *Eikenella corrodens*
+    4.  Other anaerobes
+
+------------------------------------------------------------------------
 
 # Other Infections
+
 ## Herpetic Whitlow
-- *Herpes simplex virus*
-- Vesicular lesions on children's fingers
-- **History of herpes**
-- **Treatment:** Acyclovir
+
+-   *Herpes simplex virus*
+-   Vesicular lesions on children's fingers
+-   **History of herpes**
+-   **Treatment:** Acyclovir
 
 ## Necrotizing Fasciitis
-- **Rare but high mortality**
-- **Mixed aggressive pathogens:**
-  - *Group A Streptococcus ± Staphylococcus*
-  - *Anaerobes ± Staphylococcus*
-- **Intra-operative findings:**
-  - *Dishwater pus*
-  - *Fat liquefaction*
-  - *Muscle necrosis*
+
+-   **Rare but high mortality**
+-   **Mixed aggressive pathogens:**
+    -   *Group A Streptococcus ± Staphylococcus*
+    -   *Anaerobes ± Staphylococcus*
+-   **Intra-operative findings:**
+    -   *Dishwater pus*
+    -   *Fat liquefaction*
+    -   *Muscle necrosis*
 
 ## Fungal Infections
-- **Consider fungal causes (Candida albicans) in chronic, non-responsive cases**
+
+-   **Consider fungal causes (Candida albicans) in chronic, non-responsive cases**
 
 ### Onychomycosis
-- **Fungal nail bed infection**
-- **Common, chronic**
-- **Signs:**
-  - Yellow/brown discoloration
-  - Purulent discharge in severe cases
-- **Organism:** *Trichophyton rubrum*
+
+-   **Fungal nail bed infection**
+-   **Common, chronic**
+-   **Signs:**
+    -   Yellow/brown discoloration
+    -   Purulent discharge in severe cases
+-   **Organism:** *Trichophyton rubrum*
 
 ### Subcutaneous Fungal Infections
-- **Typical Organism:** *Sporothrix schenckii*
-- **Source:** Inoculation from soil/plants (e.g., rose thorn)
-- **Presentation:** Starts as papule at inoculation site
-- **Treatment:** Topical potassium iodine solution
 
----
+-   **Typical Organism:** *Sporothrix schenckii*
+-   **Source:** Inoculation from soil/plants (e.g., rose thorn)
+-   **Presentation:** Starts as papule at inoculation site
+-   **Treatment:** Topical potassium iodine solution
+
+------------------------------------------------------------------------
 
 ## Mycobacterial Infections
-- **Most common chronic infection of the hand**
-- **Tend to attack synovium → Can mimic inflammatory arthropathy**
-- **Diagnosis:**
-  - **Culture on Lownstein-Jensen medium** (for mycobacteria)
-  - **Ziehl-Neelsen stain** (for acid-fast bacilli)
-  - **CXR** (to rule out hematogenous spread)
+
+-   **Most common chronic infection of the hand**
+-   **Tend to attack synovium → Can mimic inflammatory arthropathy**
+-   **Diagnosis:**
+    -   **Culture on Lownstein-Jensen medium** (for mycobacteria)
+    -   **Ziehl-Neelsen stain** (for acid-fast bacilli)
+    -   **CXR** (to rule out hematogenous spread)
 
 ### Typical Mycobacterial Organisms:
-- *Mycobacterium marinum* → Fresh/saltwater exposure
-- *Mycobacterium kansasii* → Soil exposure
-- *M. avium-intracellulare* → Soil, poultry (**most common in HIV**)
+
+-   *Mycobacterium marinum* → Fresh/saltwater exposure
+-   *Mycobacterium kansasii* → Soil exposure
+-   *M. avium-intracellulare* → Soil, poultry (**most common in HIV**)
 
 ## Leprosy
-- *Mycobacterium leprae*
-- **Primarily a nerve disease**, skin lesions on hands are secondary
+
+-   *Mycobacterium leprae*
+-   **Primarily a nerve disease**, skin lesions on hands are secondary
 
 ## Syphilis
-- *Treponema pallidum*
-- **Signs:** Ulcers on fingers (*chancre*)
+
+-   *Treponema pallidum*
+-   **Signs:** Ulcers on fingers (*chancre*)

@@ -13,15 +13,22 @@ editor: visual
 ## Healing Stages
 
 1.  **Inflammation**
+
     -   0-5 days
     -   Cellular inflammatory cascade
+
 2.  **Proliferation**
+
     -   5-28 days
     -   Collagen formed by fibroblasts
-3.  **Remodeling**
-    -   
 
-        > 28 days
+3.  
+
+    ## **Remodeling**
+
+    ```         
+    > 28 days
+    ```
 
     -   New collagen fibers cross-link and remodel
 

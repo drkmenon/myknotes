@@ -1,0 +1,185 @@
+---
+title: "Ulnar Nerve Compression"
+format: html
+editor: visual
+---
+
+## **Elbow – Cubital Tunnel Syndrome**  
+
+### **Anatomical Sites of Compression**  
+1. **Medial Intermuscular Septum**  
+2. **Arcade of Struthers** (*80% of people, 8 cm above medial epicondyle*)  
+3. **Medial Head of Triceps**  
+4. **Medial Epicondyle**  
+5. **Osborne’s Ligament** (*roof of cubital tunnel*)  
+6. **Anconeus Epitrochlearis** (*anomalous muscle*)  
+7. **Heads of FCU**  
+8. **Flexor Pronator Aponeurosis**  
+
+### **Non-Anatomical Causes**  
+1. **Subluxating Ulnar nerve**  
+2. **Cubitus valgus**  
+3. **Rheumatoid arthritis**  
+4. **Ganglions**  
+5. **Tumors**  
+6. **Direct pressure**  
+
+---
+
+## **Diagnosis**  
+
+### **History**  
+- Duration of symptoms  
+- Weakness  
+- History of trauma/exacerbating factors  
+- Associated pain  
+
+### **Examination**  
+- **Neck**  
+- **Deformity**  
+- **Scars**  
+- **Wasting**  
+- **Clawing**  
+  - **Ulnar paradox** – Less clawing with **proximal lesion**  
+
+#### **Sensory Deficit**  
+- **Volar aspect of the palm**  
+- **Ulnar border of forearm**  
+- **Dorsum of hand (ulnar aspect)**  
+
+#### **Motor Tests**  
+- **Froment’s sign** – Weak **thumb adduction**  
+- **ECU** function  
+- **FDP to little and ring fingers**  
+
+### **Special Tests**  
+- **Tinel’s sign**  
+- **Wartenberg’s sign**  
+  - Persistent abduction of **little finger** on attempted adduction  
+  - Due to **unopposed EDM pull**  
+- **Elbow flexion provocation test**  
+- **Sensation over dorsum of hand** (*dorsal cutaneous branch*)  
+
+---
+
+## **Differential Diagnosis**  
+- **Thoracic Outlet Syndrome (TOS)**  
+  - **Pain in the entire hand, proximal symptoms**  
+  - **X-ray** may show **cervical rib**  
+- **Pancoast Tumor**  
+  - Similar to TOS but **CXR shows tumor**  
+- **C8/T1 Radiculopathy**  
+  - **Pain is a feature, neck symptoms present**  
+  - **Spurling’s sign positive, MRI for confirmation**  
+
+---
+
+## **Investigations**  
+- **NCS** – Quantifies **denervation** and rules out **proximal cause**  
+- **MRI** – Of **spine** to rule out **radiculopathy**  
+- **X-ray** – If **deformity or OA**, check for **mechanical compression**  
+
+---
+
+## **Management**  
+
+### **General Points**  
+- **Try non-operative management first** if **sensory symptoms only**  
+- Address **non-anatomical causes** if necessary  
+- **Explain that recovery may not be complete**, especially if **motor deficit** present  
+- **Clawing may increase during recovery**, as **FDP recovers first**  
+- **Best results occur before motor neuropathy develops**  
+
+### **Non-Operative**  
+- **Activity modification, splinting, padding**  
+  - **Splint with elbow at 45° flexion**  
+- **Always attempt for sensory-only cases** for **6-8 weeks**  
+
+### **Operative**  
+- **Decompression** – For **sensory-only cases**  
+- **Transposition** – If **motor involvement** or another **compressive cause**  
+  - Combine with **medial epicondylectomy** if **OA evidence**  
+- **Subcutaneous vs. Submuscular Transposition**  
+  - **No definitive evidence** favoring one over the other  
+  - **Transposition is better than none for motor involvement**  
+
+#### **Problems with Transposition**  
+- **Devascularization of the ulnar nerve** can occur  
+- **Not a blanket procedure for all patients**  
+- **Full release needed to avoid kinking**  
+- **Submuscular transposition** may aid **vascularity** but has **longer recovery**  
+
+---
+
+## **Compression at the Wrist – Guyon’s Canal Syndrome**  
+
+### **Guyon’s Canal Boundaries**  
+- **Floor** – **Transverse carpal ligament**  
+- **Roof** – **Forearm fascia and piso-hamate ligament**  
+- **Radial Border** – **Hook of hamate**  
+- **Ulnar Border** – **Pisiform**  
+
+### **Contents**  
+- **Ulnar nerve** (*superficial and ulnar to median nerve at wrist level*)  
+- **Ulnar artery** (*medial to the nerve*)  
+- **No branches within Guyon’s canal**  
+
+---
+
+## **Ulnar Nerve Anatomy Around the Wrist**  
+Four branches:  
+1. **Dorsal Cutaneous Branch** – **Proximal to Guyon’s, crosses distal ulna**  
+2. **Palmar Cutaneous Branch** – **Just distal to Guyon’s, medial palm**  
+3. **Deep Motor Branch** – **Hypothenar muscles, interossei, adductor pollicis**  
+4. **Superficial Sensory Branch** – **Little and ring fingers’ digital nerves**  
+
+---
+
+## **Sites of Compression (Divided into Zones)**  
+- **Zone 1** – Proximal to bifurcation (*within or before Guyon’s*)  
+  - **Mixed motor & sensory involvement**  
+- **Zone 2** – Around **Deep Motor Branch**  
+  - **Pure motor involvement**  
+- **Zone 3** – Around **Superficial Sensory Branch**  
+  - **Pure sensory involvement**  
+
+---
+
+## **Typical Causes**  
+1. **Pisotriquetral OA**  
+2. **Hook of Hamate Fracture**  
+3. **Pisotriquetral Ganglion**  
+4. **Ulnar Artery Aneurysm/Thrombosis**  
+5. **Direct Pressure (e.g., cyclists)**  
+
+---
+
+## **Diagnosis**  
+- **History and examination** as for **elbow compression**  
+- **Define level and likely cause**  
+- **Rule out proximal lesion** (*neck, thorax, brachial plexus*)  
+
+### **Key Features of Wrist Compression**  
+- **Preservation of dorsal hand nerve and forearm innervation**  
+- **Increased Clawing** (*ulnar paradox*)  
+- **Preservation of FDP power** in **ring and little fingers**  
+- **Motor or sensory-only involvement** defines the **zone of compression**  
+
+---
+
+## **Investigations**  
+- **NCS**  
+- **MRI** – Especially useful if **ganglion suspected**  
+- **X-ray** – Rule out **OA**  
+
+---
+
+## **Management**  
+
+### **Non-Operative**  
+- **Activity modification, splinting, etc.**  
+
+### **Operative**  
+- **Explore and decompress Guyon’s canal**  
+- **Address any mechanical compressive lesions**  
+- **Divide piso-hamate ligament if needed**  

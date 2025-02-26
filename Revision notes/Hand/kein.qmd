@@ -1,0 +1,133 @@
+---
+title: "Kienbock's Disease"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- Male > Female (2:1)
+- 20-40 year olds
+- Dominant hand
+
+## Aetiology
+- Unknown but likely multifactorial
+- Mix of anatomical and mechanical factors leading to a susceptible lunate:
+
+1. **Ulna –ve variance** = increased shear forces across lunate  
+   - Seen in 75% of Kienbock’s cases  
+   - Normal wrist loading: **80% radius, 20% ulna**  
+   - With -ve ulna variance: **95% radius, 5% ulna**  
+
+2. **20% of lunates have a single nutrient artery**
+
+3. **Traumatic past event** that alters blood supply
+
+4. **Repetitive microtrauma**
+
+## Natural History
+- Ischaemia → Necrosis → Sclerosis → Structural failure (Collapse) → Wrist instability → Secondary arthritis  
+
+## Investigation
+
+### X-Ray  
+- Only positive in later stages  
+- **Assessing ulna variance**  
+  - Done on a **PA view with neutral rotation**  
+  - Shoulder & Elbow at **90 degrees**  
+  - Ulna fossa to radius – normal = **1mm (range 2-4mm)**  
+- **Evaluating extent of degenerative disease**  
+- **Good for quantifying degree of carpal height/collapse**  
+  - Carpal height ratio **<0.5** is abnormal  
+
+### MRI  
+- Most sensitive and specific – shows features of **AVN isolated to lunate**  
+  - **Low signal on T1 and T2** diffusely throughout lunate  
+  - Initially **mixed signal** may be present  
+
+### Bone Scan  
+- Replaced by MRI  
+
+### CT  
+- No additional info compared to plain XR  
+
+## Classification - Lichtmann  
+
+### **Stage 1**  
+- No XR features  
+- MRI shows altered signal  
+
+### **Stage 2**  
+- Sclerotic Lunate but normal shape  
+
+### **Stage 3**  
+- Lunate collapse and fragmentation (decreased carpal height ratio)  
+  - **3A**: No instability – scaphoid not in fixed rotation  
+  - **3B**: Instability – scaphoid rotated and fixed  
+
+### **Stage 4**  
+- Pancarpal arthritis  
+
+*Source: Lieberman J (2009), AAOS Comprehensive Review, American Academy of Orthopaedic Surgeons*
+
+## Presentation
+- May be asymptomatic incidental finding or triggered by new trauma  
+- Young adult  
+- **Non-specific pain, decreased ROM, grip strength**  
+
+## Management Principles
+- **Goals depend on stage of disease and symptoms**  
+
+### **Stage 1**  
+- **Splint, NSAIDs, activity modification, and monitor**  
+- May or may not work  
+
+### **Stage 2 to Stage 3A**  
+- **Aim: Prevent carpal collapse and instability**  
+- **Core decompression of radius**  
+  - Stimulates increased blood flow to lunate  
+  - Does not alter loading or prevent collapse  
+
+#### **If patient has negative ulna variance**  
+- **Joint Levelling Procedures**  
+  - **Radial shortening, ulna lengthening**  
+- **Radial Shortening Osteotomy**  
+  - **4mm shortening** decreases radio-lunate load **40%**  
+  - Aim for **neutral or 1mm +ve variance**  
+
+#### **If patient has neutral or positive ulna variance**  
+- **Consider radial core decompression if Stage 2**  
+- **Capitate Shortening or Capito-Hamate Fusion**  
+  - Better for **Stage 3A**  
+  - Unloads lunate  
+- **STT Fusion or 4 Corner Fusion** are also options  
+
+#### **Vascularised Bone Grafting of Lunate**  
+- Used successfully in **Grade 2-3A**  
+- **Best results in Grade 2** – pre-collapse  
+  - Controversial in Grade 3A  
+- **4-5 intercompartmental supraretinacular artery** is preferred  
+
+### **Stage 3B**  
+- **Prevent onset of pancarpal arthritis**  
+- **Limited fusion**  
+
+#### **STT Fusion**  
+- Corrects **DISI** and allows loading through scaphoid  
+- Offloads lunate and limits development of arthritis  
+
+#### **4 Corner Fusion**  
+- Offloads carpus but includes diseased lunate in fusion  
+
+#### **PRC and Wrist Fusion**  
+- Also reasonable options  
+
+### **Stage 4**  
+- **Salvage Procedures**  
+
+#### **PRC (Proximal Row Carpectomy)**  
+- Better for **older, lower-demand patients**  
+- **Not possible if capitate arthritic or collapsed**  
+  - Arthritis will persist after PRC  
+
+#### **Total Wrist Fusion**  
+- Better for **young, heavy wrist users**  

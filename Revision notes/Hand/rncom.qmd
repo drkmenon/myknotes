@@ -1,0 +1,127 @@
+---
+title: "Radial Nerve Compression Syndromes"
+format: html
+editor: visual
+---
+
+## **Sites of Compression**  
+- **Upper Arm** – **Humeral fracture**, **Saturday night palsy**  
+- **Around Elbow** – **Posterior Interosseous Nerve (PIN) palsy**, **Radial Tunnel Syndrome (RTS)**  
+- **Forearm** – **Wartenberg’s Syndrome (Cheiralgia Parasthetica)**  
+
+---
+
+## **PIN Compression**  
+
+### **Anatomic Causes (FREAS Mnemonic)**  
+1. **F** – **Fibrous bands** between **Brachioradialis (BR)** & **capsule at radial head**  
+2. **R** – **Recurrent vessels from Radial artery** (*Leash of Henry*) crossing PIN  
+3. **E** – **ECRB tendinous edge**  
+4. **A** – **Arcade of Frosche** (*most common*, vessels proximal to supinator)  
+5. **S** – **Supinator belly or distal edge**  
+
+> **Radial Tunnel** – Region extending up to the **supinator**  
+
+### **Non-Anatomic Causes**  
+1. **Lipomas**  
+2. **Ganglions**  
+3. **Synovitis in RA**  
+4. **Monteggia fracture**  
+5. **Chronic radial head dislocation**  
+6. **Parsonage Turner Syndrome** (*more common in AIN*)  
+
+---
+
+## **Clinical Features**  
+
+### **Presentation**  
+- **Rapid-onset weakness**  
+- **Occasional lateral forearm ache**  
+- **Wrist radially deviates on extension** (*ECRL function intact*)  
+- **ECRL & Brachioradialis preserved** (suggests **Radial nerve involvement**)  
+
+### **History**  
+- **Recent viral infection, shoulder pain?** → Consider **Parsonage Turner Syndrome**  
+
+---
+
+## **Investigations**  
+- **EMG/NCS**  
+  - **EMG** is very accurate for **PIN compression**  
+- **MRI**  
+  - To rule out **space-occupying lesions**  
+
+---
+
+## **Management**  
+- **Usually requires decompression** due to **motor deficit**  
+- **Decompress distal to proximal by identifying supinator distally**  
+- **Surgical Approaches:**  
+  - **Anterior approach** – Good access to all structures up to **supinator**  
+  - **Posterior (Thompson) approach** – Better visualization of the **whole nerve**  
+
+---
+
+# **Radial Tunnel Syndrome (RTS)**  
+
+- **Rare condition**  
+- **Compression of sensory part of Radial Nerve**  
+
+### **Radial Tunnel Anatomy**  
+- **Located between:**  
+  - **Fibrous bands of Brachioradialis**  
+  - **Proximal edge of Supinator**  
+- **PIN dives into Supinator**  
+- **Superficial Radial Nerve (SRN) runs on top of Supinator**  
+- **Causes are the same as for PIN Palsy** (*except for Supinator compression*)  
+
+### **Clinical Presentation**  
+- **Pain, but no weakness**  
+- **Pain over mobile wad, radiating distally**  
+
+### **Diagnosis**  
+- **Difficult to diagnose clinically**  
+- **EMG is normal**  
+- **Maximal pain is 1.5 cm anterior & distal to lateral epicondyle**  
+- **Middle Finger Extension Test**  
+  - **Resisted extension = mobile wad pain**  
+  - **Pathognomonic but can mimic Tennis Elbow**  
+
+### **Differential Diagnosis**  
+- **Tennis Elbow**  
+- **Compression of Lateral Cutaneous Nerve of the Forearm**  
+
+### **Key Statistics**  
+- **>50% of RTS cases have concurrent Tennis Elbow**  
+- **Only 1% of Tennis Elbow cases have RTS**  
+- **Best differentiator:** **Targeted local anesthetic (LA) injection**  
+
+### **Management**  
+- **Rule out Tennis Elbow**  
+- **Decompress as for PIN, but results are often unpredictable**  
+
+---
+
+# **Wartenberg’s Syndrome (Cheiralgia Parasthetica)**  
+
+### **Definition**  
+- **Compression of the Superficial Radial Nerve (SRN) in the forearm beyond the Radial Tunnel**  
+- **Caused by scissoring between ECRL & Brachioradialis during pronation**  
+
+### **Etiology**  
+- **Extrinsic Compression** (watches, bracelets, tight bands)  
+- **Spontaneous**  
+
+### **Clinical Features**  
+- **Pain & numbness** (No weakness)  
+
+### **Diagnosis**  
+- **NCS** – Delayed conduction  
+- **Examination:**  
+  - **Forced pronation provokes symptoms**  
+  - **Tinel’s sign over nerve**  
+
+### **Management**  
+- **Non-operative first**  
+- **If fails & other causes ruled out → Surgical decompression**  
+- **Ensure decompression beneath Brachioradialis** (usual site of compression)  

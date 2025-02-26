@@ -1,0 +1,129 @@
+---
+title: "Thumb Base Arthritis "
+format: html
+editor: visual
+---
+
+## Epidemiology  
+- 80% of postmenopausal women have XR changes  
+- XR doesn’t always correlate with symptoms  
+
+## Anatomy of CMCJ  
+- Saddle shaped  
+  - Allows polyaxial motion  
+- **3 Ligaments**  
+  1. Dorsal  
+  2. Lateral  
+  3. Volar Ulnar - Beak (most important)  
+
+## Aetiology  
+- Beak ligament attenuation and rupture leads to instability of CMCJ  
+- Instability leads to arthritis  
+
+## Presenting Features  
+- Activity-related pain  
+- Weak grip  
+- Pain and weakness opening jars  
+- Night pain  
+- Superimposed carpal tunnel syndrome common (40%)  
+
+## Examination  
+- Wasted thenar eminence – disuse  
+- Squaring of thumb base  
+- Adducted 1st metacarpal  
+- Compensatory MCPJ hyperextension – increases hand span  
+
+### Grind Test  
+- Axial compression and grind  
+- Less pain on distraction and grinding  
+
+### Crank Test  
+- Axial compression and flexion, extension pain  
+
+## Investigations  
+- AP hand  
+- **Roberts view** (true AP of thumb)  
+  - Thumb maximally abducted & forearm maximally pronated  
+
+## Classification (Eaton & Littler)  
+### Stage 1  
+- Joint space widening  
+- Synovitis and effusion  
+- No OA changes  
+
+### Stage 2  
+- Osteophytes <2mm in size  
+- Mild subluxation  
+- Joint space narrowing  
+
+### Stage 3  
+- Osteophytes >2mm in size  
+- Significant subluxation  
+- Joint more significantly narrowed  
+
+### Stage 4  
+- Widespread arthritis – especially of STT joint  
+
+## Management  
+- Treat symptoms and functional impairment – not XR  
+
+### Non-Operative  
+- Splinting  
+- Physio (thenar muscle strengthening)  
+- Activity modification  
+- Analgesia  
+- Corticosteroid injection – in clinic or theatre  
+
+### Operative Management  
+- **Decision making based on:**  
+  - Pain  
+  - Functional expectations  
+  - Degree of arthritis  
+
+#### **Trapezium Preservation**  
+- No arthritis  
+- Instability-related pain  
+
+##### Thumb Metacarpal Stabilisation with Split FCR  
+- Reconstructs the Beak ligament  
+
+##### Extension Osteotomy  
+- Unload CMCJ  
+
+#### **Trapezium Sacrificing Procedures**  
+- Much more common  
+
+##### Trapeziectomy  
+- **Gold standard for patients overall**  
+- 80-90% good results  
+- **Problems:**  
+  - Thumb will be weaker  
+  - Instability of Metacarpal  
+
+##### Trapeziectomy plus Ligament Reconstruction and Interposition  
+- Postulated to have better results  
+- Not proven in any study  
+
+##### Arthrodesis  
+- For young manual workers only  
+- Preserves power  
+- **Clenched fist position:**  
+  - 30° abduction  
+  - 20° flexion  
+- Technically difficult and prone to complications  
+
+##### Osteotomy – Abduction, Extension  
+- Good results described for Stage 1-3  
+
+##### Arthroplasty  
+- Ball and socket constrained design  
+- Previous failures  
+- Still some good series  
+- Lacks follow-up > 3 years  
+- Higher complication rate  
+
+## Outcomes  
+- In general, all procedures have an **80-90% success** with good selection  
+- **Warn regarding long rehab time** and time to see full benefit – **3-6 months**  
+- **Need for splinting for 3-6 months**  
+
