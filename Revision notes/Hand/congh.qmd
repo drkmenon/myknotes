@@ -1,0 +1,334 @@
+---
+title: "congh"
+format: html
+editor: visual
+---
+
+## Congenital Deformities of the Hand & Upper Limb
+
+### Classification - Swanson
+1. **Failure of formation** - A part doesn’t form properly
+2. **Failure of differentiation** - Part forms but does not differentiate
+3. **Duplication**
+4. **Overgrowth**
+5. **Undergrowth**
+6. **Other** - e.g., Constriction ring syndrome
+
+### Failure of Formation
+1. Symbrachydactyly
+2. Radial, central, or Ulna club hand
+
+### Embryonic Development
+- Occurs along 3 axes:
+  1. **Proximal to Distal** – longitudinal growth
+     - Controlled by Apical Epidermal Ridge (AER)
+  2. **Radial to Ulna**
+     - Zone of Polarized Activity (ZPA)
+     - Sonic Hedgehog gene
+  3. **Dorsal to Volar**
+     - Less important in anomaly development
+
+- Failure of formation may be:
+  - **Transverse Arrest**
+  - **Longitudinal arrest** (radial, central, or ulna)
+
+#### Transverse Arrest
+- Can occur at any level – Proximal 1/3 forearm most common
+- Less common than longitudinal arrest syndromes
+- **Symbrachydactyly**
+  - Absence of part or all fingers – does not affect metacarpals
+  - When associated with ipsilateral chest wall deformity → **Poland Syndrome**
+
+#### Longitudinal Arrest – Radial, Central, or Ulna Deficiency
+
+##### Radial Deficiency (Radial Club Hand/Radial Hemimelia)
+- Right > Left arm
+- Male > Female
+- 50% bilateral
+- **Typical Deformity:**
+  - Short upper limb with marked radial deviation of wrist
+  - Bowed thickened ulna
+  - Thumb always affected (except in TAR syndrome)
+  - Thumb/Radius/radial carpal bones may be hypoplastic or absent
+  - Humerus, glenoid, scapula may also be abnormal if severe
+- **Associated Conditions:**
+  - **VATER Syndrome** (Vertebral anomaly, anus imperforate, tracheo-esophageal fistula, renal and radial dysplasia)
+  - **TAR Syndrome** (Thrombocytopenia Absent Radius) – **Thumbs normal!**
+- **Classification (Heikel):**
+  1. Short Radius
+  2. Hypoplastic Radius
+  3. Partial Absence of Radius
+  4. Absent Radius
+- **Management Principles:**
+  - Educate patients
+  - Genetic screening
+  - Screen for other systemic anomalies
+  - Centralize carpus on ulna
+  - Pollicize a digit – allows pincer grip
+  - Maintain motion
+
+##### Central Deficiency (Cleft Hand)
+- Never affects proximal to carpus
+- Metacarpals absent (distinguishes it from Symbrachydactyly)
+- Carpus may be affected
+- 50% bilateral
+- Autosomal dominant inheritance
+- Often other associated abnormalities
+- **Two Components:**
+  1. Central Cleft (associated syndactyly or polydactyly)
+  2. Hypoplastic Thumb
+- **Management:**
+  - Dysfunction mainly due to thumb hypoplasia – treatment primarily aimed at thumb reconstruction
+  - Closing the cleft is primarily aesthetic
+
+##### Ulna Deficiency (Ulna Club Hand)
+- Less common than radial or central deficiency
+- Radius always present but never normal
+- Ulna digits or ulna itself is hypoplastic or absent
+- Polydactyly, syndactyly, absent digits on ulna side of hand
+- Elbow often unstable/stiff – deficient ulnohumeral articulation
+- **Management:**
+  - Address elbow contracture/instability, release syndactyly
+
+### Failure of Differentiation
+- Bony or soft tissue contractures & deformities:
+  1. Syndactyly
+  2. Arthrogryposis
+  3. Camptodactyly
+  4. Clinodactyly
+
+#### Syndactyly
+- Fusion of digits
+- Male > Female
+- 50% bilateral
+- Autosomal Dominant inheritance
+- Most common in 3rd web space (50%)
+- **Classification:**
+  1. **Simple** – Soft tissue only (web space webbing)
+  2. **Complex** – Bone and soft tissue involvement
+  3. **Complicated** – Part of a syndrome
+- **Associated Syndromes:**
+  - **Apert's Syndrome** – Midface hypoplasia, complicated syndactyly, visceral abnormalities
+- **Management Principles:**
+  - Generally treat after 1 year old
+  - Often require skin grafts due to inadequate skin after separation
+  - Avoid concurrent release of adjacent syndactylies – risk of devascularization
+
+#### Arthrogryposis
+- A spectrum of presentations
+- May be part of a wider condition (**Arthrogryposis multiplex congenital**)
+- Due to lack of fetal movement (myogenic or neuromuscular cause?)
+- Intellectually normal or advanced
+- **Typical Hand Appearance:**
+  - Thumb adducted (thumb-in-palm)
+  - Ulna deviated wrist
+  - Flexed fingers
+- **Management Principles:**
+  - Improve ROM
+  - Provide function
+  - Hand therapy (passive stretching, splinting)
+  - Surgery: Soft tissue release, fusion, corrective osteotomy, tendon transfer
+
+#### Camptodactyly
+- **Flexion deformity of PIPJ** – resembles a boutonniere deformity
+- **Aetiology:**
+  - Flexor-extensor imbalance
+  - Abnormal lumbrical insertion
+- Usually affects little finger (can be multiple)
+- **Management:**
+  - Reassure & encourage non-operative treatment
+  - Surgery for severe symptomatic deformities (soft tissue release or fusion)
+
+#### Clinodactyly
+- Angular deformity of the finger at PIPJ
+- Usually affects the little finger
+- Due to abnormal shaped middle phalanx (**Delta phalanx**)
+- **Associated with Down’s Syndrome (25%)**
+- **Management:**
+  - Usually none required
+  - Osteotomy +/- fusion if severe
+
+## Duplication - Polydactyly
+
+1. Pre Axial - radial  
+2. Central  
+3. Post Axial – ulna  
+4. Mirror Hand & Multiple Hand  
+
+### Pre-Axial Polydactyly – Thumb duplication  
+- Most common type  
+- More in Europeans  
+- Refers to various forms of thumb duplication  
+- Mostly spontaneous and isolated but can be associated with syndromes  
+  - Holt-Oram  
+  - Fanconi Anaemia  
+  - Blackfan-diamond anaemia  
+
+#### Classification - Wassel  
+1. Bifid Distal Phalanx - Rarest  
+2. Duplicated Distal Phalanx  
+3. Bifid Proximal Phalanx  
+4. Duplicated proximal phalanx - Most common (45%)  
+5. Bifid Metacarpal  
+6. Duplicated Metacarpal  
+7. Triphalangia  
+
+**Remember by:**  
+- Odd numbers are bifid from distal to proximal (type 1 bifid P3)  
+- Even numbers are duplications of the previous phalanx (type 2 duplicated P3)  
+
+#### Management  
+- Educate family  
+- Genetic counseling  
+- Screen for other anomalies  
+- Preservation of the skeleton of one thumb, excising the other but using its soft tissues to augment preserved thumb  
+  - Remove the smaller thumb - usually radial  
+  - Maintains UCL  
+  - Rebalance soft tissues  
+- **Bilhaut-Cloquet**  
+  - Remove central components of both thumbs  
+  - Combine the two to make a new thumb  
+  - Stiffness and deformities are problematic – rarely performed  
+
+### Post Axial (Ulna) Polydactyly  
+- 2nd most common  
+- Much more common in Africans  
+  - Isolated usually  
+  - Autosomal dominant  
+- In Caucasians  
+  - Likely to be part of a complex genetic abnormality  
+- Refers to duplication of ulna digits  
+  - From skin tags to true duplication of digit  
+
+#### Management Principles  
+- Same principles as pre-axial polydactyly  
+  - Remove the outer (ulna) digit; balance the soft tissues  
+
+### Central Polydactyly  
+- Very rare  
+- Duplication of central digits  
+- Often associated with a complicated syndactyly  
+
+#### Management  
+- Amputation is better for single digit affliction  
+- Reconstruction for multiple or thumb  
+
+### Mirror Hand & Multiple Hand  
+- Exceedingly rare form of duplication  
+- Mirror hand and ulna digits are duplicated around a common central digit  
+  - Radius is absent.  
+- Multiple hand is presence of a duplicate hand  
+
+### Overgrowth - Macrodactyly  
+- Enlargement of a digit or multiple digits  
+- Very rare  
+- Spontaneous or secondary to another condition  
+  - Maffuci syndrome; proteus syndrome; neurofibromatosis  
+- Treatment is very difficult – a normal digit cannot be restored  
+
+### Undergrowth  
+1. Hypoplasia  
+2. Brachydactly  
+
+#### Hypoplasia/Aplasia  
+- Uncommon  
+- Most common type is thumb Hypoplasia or Aplasia  
+- Spontaneous or part of a syndrome  
+- Often associated or cross over with failure of formation  
+  - Especially radial club hand  
+- **Classification (Blauth)**  
+  - 5 Types from short to absent thumb  
+
+#### Goal of treatment  
+- Maintain or create a thumb to act as a post  
+- Key to decision making is stability of CMCJ  
+- Pollicisation if CMCJ incompetent  
+
+### Brachydactyly  
+- Short fingers – normal structure but small bones  
+
+### Other Conditions  
+#### Congenital amniotic band syndrome  
+- In utero amniotic bands cause constriction or amputation of digits/limb  
+- Proximal to constriction, the limb is normal  
+- Not properly understood  
+- Streeter’s dysplasia  
+
+#### Kirner’s Deformity  
+- Bowed distal phalanx  
+- Often mistaken for Clinodactyly  
+- No functional deficit  
+- Surgery is cosmetic  
+
+#### Madelung Deformity  
+- More common in females  
+- Usually presents as minimally symptomatic deformity as an adolescent  
+
+#### Aetiology  
+- Premature fusion of the volar-ulnar part of the distal radial epiphysis  
+- Results in:  
+  - Prominent Ulna head  
+  - Volar-ulnar subluxation of the carpus  
+
+#### Management  
+- Restore distal radius anatomy, reduce DRUJ and improve ROM  
+- Techniques  
+  - Distal radius osteotomy, ulna-shortening osteotomy etc.  
+
+### Trigger Thumb  
+- Not clear if congenital or acquired.  
+- May be hereditary  
+- Often bilateral  
+- Presents with fixed flexed IPJ  
+
+#### Aetiology  
+- Due to a nodule (Notta’s nodule) in FPL just beyond A1 pulley  
+- Prevents tendon passage  
+
+#### Management  
+- Splint before 1 year old  
+- Surgery to release A1 pulley  
+  - After 2 years (may spontaneously resolve)  
+  - Before 4 years (contracture & stiffness will hinder results)  
+
+### Trigger Finger  
+- Rare  
+- Different pathology to adult trigger finger or pediatric trigger thumb  
+- Usually due to anatomical abnormality between FDP and FDS  
+- A1 pulley release is unlikely to be curative alone  
+
+### Congenital Clasped Thumb  
+- Weakness of EPL and/or EPB causes decreased active extension  
+- Flexors overpower thumb  
+- Treated with tendon transfers  
+- May need contracture release or osteotomy if stiff deformity  
+
+### Congenital Dislocation of the Radial Head  
+- Often bilateral  
+- 60% have another skeletal abnormality  
+
+#### X Ray features  
+- Hypoplastic capitellum  
+- Rounded Radial head  
+- Long radius and short ulna  
+
+#### Management  
+- None if function good  
+- Excision of radial head if painful – uncommon  
+
+### Symphalangism  
+- Congenital stiffness of the digits at PIPJ  
+- Usually ulna digits  
+- Manifests as the child starts using hands  
+- Loss of skin creases  
+- XR shows small irregular joints  
+
+#### Associations  
+- Alperts  
+- Radial club hand  
+- Hearing loss  
+
+#### Management  
+- Non-operative in children  
+- In adults if functionally limiting, bony osteotomies can be performed
+

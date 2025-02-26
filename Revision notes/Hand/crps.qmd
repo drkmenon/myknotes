@@ -1,0 +1,98 @@
+---
+title: "Complex Regional Pain Syndrome"
+format: html
+editor: visual
+---
+
+## Definitions
+### CRPS Type 1
+- Diffuse abnormal reaction to a noxious event or immobilization leading to pain, vasomotor changes, and joint stiffness
+- More relevant to Orthopaedic Surgery
+
+### CRPS Type 2
+- Causalgia – initiated by injury or affliction of a particular nerve
+
+## Risk Factors
+- Females
+- Wrist fractures
+- 40-50 years
+
+## Pathophysiology
+- Tissue trauma stimulates mast cells to release tryptase
+- Immobilization causes release and accumulation of free radicals
+- Constrictive bandages exacerbate edema formation
+- Genetic predisposition
+
+## Clinical Features - **STAMPP**
+- **Sensory**: Hyperesthesia, Hyperalgesia, Allodynia  
+- **Trophic**: Hair thinning, sweating, brittle nails, osteopenia  
+- **Autonomic**: Edema, temperature asymmetry, mottled appearance  
+- **Motor**: Poor ROM, weakness  
+- **Pain**: Disproportionate, constant, burning, poorly defined  
+- **Psyche**: Associated depression – cause or effect?  
+
+## Biphasic Condition
+- Initially characterized by **hot, edematous skin**
+- Later progresses to **mottled, cool skin with trophic changes**
+
+## Natural History
+- May resolve with treatment
+- If left untreated, can worsen and lead to **permanent disability**
+
+## Diagnosis
+### Clinical
+- Primarily a **clinical diagnosis**
+- High index of suspicion required
+- Rule out **underlying nerve injury (CRPS Type 2)**
+- CRPS will almost always show **some radiographic changes**
+
+### Investigations
+- **X-ray**: Diffuse osteopenia (late feature)
+- **Bone scan**:  
+  - Early stages: **Hot uptake**  
+  - Late stages: **May be normal**
+
+## Management
+### **Multidisciplinary Approach**
+#### **Prevention**
+- Awareness of the condition
+- **Vitamin C** (Zollinger et al JBJS 2010 RCT)
+- Early **ROM exercises**
+- **Elevation**
+- Early recognition
+
+#### **Remove Perpetuating Stimuli**
+- Casts, splints, or immobilization
+
+#### **Referral to Specialists**
+- **Hand Therapy** (Most important part of treatment)
+  - Desensitization
+  - Mirror therapy
+  - TENS
+  - Acupuncture
+  - Splinting
+  - ROM exercises
+  - Counseling & Support
+  - Massage
+  - Hot-cold therapy
+  - Functional restoration
+
+- **Pain Clinic**
+  - TENS
+  - Acupuncture
+  - Pharmacologic sympathetic blockades
+  - Spinal cord stimulation
+
+#### **Medications**
+- **Tricyclics** (e.g., Amitriptyline – beware side effects)
+- **Anti-convulsants** (e.g., Gabapentin)
+- **Vitamin C** (Prophylactic action by reducing free radicals)
+
+### **Surgical Management**
+- Only if a **clear inciting issue** exists (e.g., nerve compression, neuroma)
+- **Sympathectomy is unreliable**
+- **Surgery generally worsens CRPS** and should be avoided
+
+## **Overall Approach**
+- **Multidisciplinary**: Therapy, counseling, pharmacology
+- **Multimodal treatment** for best outcomes

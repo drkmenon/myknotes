@@ -1,0 +1,209 @@
+---
+title: "Vascular Disorders of the Hand"
+format: html
+editor: visual
+---
+
+## Anatomy
+- Blood supply is from the **radial** and **ulna** arteries.
+- Some people have a residual **median artery** as well.
+- Split into:
+  - **Deep Palmar Arch** (Radial)
+  - **Superficial Palmar Arch** (Ulna)
+- **Flow distribution**:
+  - Radial artery & deep arch: **50%**
+  - Ulna artery: **25%**
+  - Equal contribution: **25%**
+
+### Radial Artery and Deep Palmar Arch
+- Before **snuffbox**, radial artery gives:
+  - **Superficial palmar vessel** → completes the superficial palmar arch.
+- After snuffbox, **Terminal Radial artery** splits into:
+  - **Princeps Pollicis** → digital vessels to thumb.
+  - **Radialis Indicis** → radial digital artery to index finger.
+- Then radial artery **dives between**:
+  - Two heads of **1st dorsal interosseous** and **adductor pollicis**.
+- **Deep palmar arch** formation:
+  - **80% contribution from radial artery**.
+  - Located **1 cm proximal to superficial arch**.
+  - Three **palmar metacarpal branches** → contribute to **common digital arteries** (2nd – 4th web spaces).
+
+### Ulna Artery and Superficial Palmar Arch
+- **Terminal ulna artery** is the **chief contributor** to the **Superficial Palmar Arch**.
+- Lies at **level of 1st web space** (thumb extended).
+- **5 Main branches**:
+  - **Deep palmar branch** → completes deep arch.
+  - **Ulna digital artery** → little finger.
+  - **3 common palmar digital arteries** → split to form **digital arteries**.
+
+### Dorsal Blood Supply
+- Less dominant than **palmar blood supply**.
+- Derived mainly from **radial artery**.
+- Forms **dorsal carpal arch** at the wrist.
+- Gives off **dorsal metacarpal branches**.
+
+---
+
+## Diagnosis
+### Allen’s Test
+- **Screening tool** for vascular sufficiency.
+
+### Cold Stimulation Testing
+- Measures **time for hand to return to normal** after **ice bath submergence**.
+  - **10 min** → normal.
+  - **20 min** → abnormal.
+
+### Imaging Techniques
+- **Doppler**
+- **Arteriography**
+- **Colour Duplex** (as effective as arteriography).
+- **Triple Phase Bone Scan**:
+  - **1st phase** → Maps arterial tree.
+  - **2nd phase** → Shows perfusion.
+  - **3rd phase** → Not useful for vascular disease.
+
+---
+
+## Occlusive Arterial Conditions
+
+### Embolic Disease
+- **Originates from the heart** → affects **major vessels** or **microvessels**.
+- **Treatment**: Embolectomy ± streptokinase.
+
+### Small Vessel Disease
+- Associated with **connective tissue diseases**:
+  - **Sjogren syndrome**
+  - **SLE**
+  - **Scleroderma**
+  - **RA**
+- **Buerger’s Disease** → **male smokers**.
+
+### Hypothenar Hammer Syndrome
+- **Post-traumatic thrombosis** or **aneurysm** of **ulna artery**.
+- Caused by **blunt injury** to **hypothenar eminence**.
+- Symptoms:
+  - Cold insensitivity.
+  - Nerve compression.
+- **Management**:
+  - Thrombectomy.
+  - **Vein grafting**.
+
+---
+
+## Vasospastic Diseases
+
+### Colour Changes
+1. **White** → Flow cessation.
+2. **Blue** → Cyanosis.
+3. **Red** → Reperfusion (**painful and tingling**).
+
+### Raynaud’s Phenomenon
+- **Underlying vascular cause**.
+- **Asymmetrical**.
+- **Treatment**: Target underlying condition.
+
+### Raynaud’s Disease
+- **Idiopathic** (no known cause).
+- **Bilateral**.
+- **Young to middle-aged women**.
+- **Management**:
+  - **Calcium channel blockers**.
+  - **Sympathectomy** (if severe).
+
+---
+
+## Frostbite
+- **Extracellular fluid freezes** → **ice crystal formation**.
+- Causes **intracellular dehydration** and **cell necrosis**.
+- **Management**:
+  - **Rapid rewarming** in **40°C water**.
+  - **Address core temperature**.
+  - **Debridement/amputation** if gangrene occurs.
+
+---
+
+## Thoracic Outlet Syndrome (TOS)
+
+### Anatomy
+- **Subclavian artery and brachial plexus roots** exit between:
+  - **Anterior & middle scalene**.
+- **Nerves** → Superior to artery.
+- **Subclavian vein** → Anterior to anterior scalene.
+- **Costoclavicular ligament** → Lies anterior to **subclavian vein**.
+- All structures **between clavicle and 1st rib**.
+
+### Causes of Obstruction
+- **Cervical rib** (may be **cartilaginous**, seen on **MRI**).
+- **Anomalous scalene insertion**.
+- **Clavicle or 1st rib fractures/malunion**.
+- **Apical lung tumour**.
+- **Postural causes**.
+
+### Types of TOS
+1. **Neurologic** (most common in orthopaedics).
+2. **Arterial**.
+3. **Venous**.
+
+---
+
+## Neurologic TOS
+- **Young women** most affected.
+- **T1 and C7 involvement** → Pain along **inside of arm**.
+- **May cause intrinsic hand weakness**.
+- **Clawing of all fingers** (unlike isolated **ulnar nerve compression**).
+
+### Provocative Tests
+- **Adson’s Test**:
+  - Extend neck, turn towards affected side, deep breath.
+  - **Positive** → **Reduced radial pulse**.
+- **Wright’s Test**:
+  - Arm **abducted & externally rotated**.
+- **Roo’s Test**:
+  - **Arms above head**, open & close fingers **rapidly**.
+  - Look for **neurologic symptoms** or **pulse change**.
+
+### Investigations
+- **CXR** → Detects **cervical rib** or **long C7**.
+- **MRI**.
+- **NCS/EMG** → Often **not useful**.
+
+### Differential Diagnoses
+- **Ulnar nerve compression**.
+- **Tumour**.
+- **Cervical degenerative disease**.
+
+### Management
+- **Operative exploration** if non-operative treatment fails.
+- **Supraclavicular approach**.
+
+---
+
+## Venous Compression (TOS)
+- **Pain & swelling of arm** on **overhead use**.
+- Common in **bodybuilders**.
+- **May present with venous thrombosis**.
+
+### Diagnosis
+- **Duplex scan**.
+- **Venography**.
+
+### Management
+- **Surgical release** if non-operative treatment fails.
+- **Anticoagulation** for thrombosis.
+
+---
+
+## Arterial Compression (TOS)
+- **Rarest form of TOS**.
+- **Unilateral Raynaud’s** as presenting feature.
+- Usually due to **tumour or aneurysm**.
+
+### Diagnosis
+- **MRA**.
+- **Duplex ultrasound**.
+- **Bruits** over affected area.
+
+### Management
+- **Surgical intervention** if:
+  - **Non-operative measures fail**.
+  - **Aneurysm/tumour present**.

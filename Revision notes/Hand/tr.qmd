@@ -1,0 +1,257 @@
+---
+title: "Tumours of the Hand"
+format: html
+editor: visual
+---
+
+## Classification
+- **Benign Bony**
+- **Benign Soft Tissue**
+- **Malignant Bony**
+- **Malignant Soft Tissue**
+- **Neural Origin**
+- **Skin Malignancy**
+
+---
+
+## Benign Bony Tumours
+
+### Enchondroma
+- Usually solitary incidental finding
+- Cartilage tumour
+
+#### X-Ray Features
+- Expansile lytic lesion with cortical scalloping and calcified matrix
+- Usually in MC – less common as move distally in finger
+- Never undergoes malignant change if isolated
+
+#### Management
+- Leave alone; usually heal after fracture
+- Curettage and grafting if not or re-fracture and symptomatic
+
+### Olliers Disease
+- Multiple enchondromatosis all over hand
+  - 20% undergo malignant change to osteo- or chondrosarcoma
+
+### Maffuci Syndrome
+- Osteochondromatosis with associated haemangiomas
+  - **100% malignant transformation**
+
+---
+
+### Osteochondroma (Exostosis)
+- Benign – grows away from joint – has a cartilage cap
+- Histology similar to growth plate – stops growing with maturity usually
+- May be associated with **Hereditary Multiple Osteochondromatosis (HME)**
+  - **1% risk of malignant change in HME**
+
+---
+
+### Osteoid Osteoma
+- **10-30 years old**
+- Proximal phalanx or carpal bones
+- Night pain – dull, diffuse, and achy
+- Natural history is to resolve after **18 months**
+
+#### X-Ray Features
+- Osteolytic nidus with surrounding sclerosis – round and small **(<1cm)**
+
+#### Management
+- **NSAIDs and reassurance**
+- Otherwise excise
+  - **Pre-op CT/MRI** to accurately define location
+  - Otherwise **recurrence high** with incomplete excision
+  - **CT-guided RF ablation**
+
+---
+
+### Giant Cell Tumour of Bone
+- **2nd most common location is distal radius**
+- May be incidental, cause ache, or present after fracture
+
+#### X-Ray Features
+- Eccentric metaphyseal lesion which is locally aggressive
+- Heterogeneous matrix and expansile with cortical thinning
+- **Campannaci classification**
+- Can metastasize to lung in **2%**
+
+#### Management
+- **Curettage and grafting/cementing/allografts** etc.
+  - **En bloc excision and endoprosthesis**
+  - **Arthrodesis with grafting**
+  - **Recurrence rate up to 30%** (worsened by radiotherapy)
+
+---
+
+### Turret Exostosis
+- Traumatic sub-periosteal new bone formation
+- Symptomatic if forms under nail or within extensor expansion of digit
+- Causes mechanical symptoms
+
+#### Management
+- **Excision once mature** (to minimize recurrence)
+
+---
+
+### CMC Boss
+- Juxtaarticular Osteochondroma usually from **3rd CMCJ**
+- **Excision if symptomatic** – consider **CMCJ fusion if degenerate**
+
+---
+
+## Malignant Tumours of Bone & Cartilage
+- **Very rare**
+- Most common: **Chondrosarcoma > Osteosarcoma**
+
+### Chondrosarcoma
+- **Only 1%** of all chondrosarcomas occur in the hand
+- Usually transformation in **enchondromatosis**
+- **MC or proximal phalanx** usually
+- **Chondroid matrix**
+
+#### Management
+- **Radio/Chemo not effective**
+- **Surgical excision/Amputation**
+
+---
+
+## Benign Soft Tissue Tumours
+
+### Giant Cell Tumour of Tendon Sheath
+**AKA - PVNS/localized nodular tenosynovitis**
+- Benign but locally aggressive with **high recurrence**
+- Slow-growing mass over years – may cause discomfort
+- Unknown etiology
+
+#### X-Ray Features
+- Soft tissue mass sometimes with bony erosions  
+
+#### Histology
+- **Haemosiderin**, multinucleated cells (**not giant cells**)
+
+#### Macroscopic Appearance
+- Lobulated, orange/brown lesion often encircling other structures
+
+#### Management
+- **Marginal excision** – **high recurrence if incomplete**
+
+---
+
+### Glomus Tumour
+- Arises from **glomus bodies** in fingertips (modulate heat)
+
+#### Presentation
+- **Intense pain**
+- **Temperature sensitivity**
+- **Fingertip reddish mass**
+- **Nail beds obliterated**
+
+#### X-Ray Features
+- **Bone scalloping**
+- **MRI to confirm**
+
+#### Management
+- **Marginal excision** – recurrence high if incomplete
+
+---
+
+### Pyogenic Granuloma
+- **Neither pyogenic nor granulomatous!**
+- Disorder of **angiogenesis**
+- **Post-traumatic**, pedunculated, friable red lump
+
+#### Management
+- **Silver nitrate if small**
+- **Surgical marginal excision**
+
+---
+
+### Epidermal Inclusion Cyst (Dermoid Cyst)
+- **Traumatic implantation** of keratinizing epithelium into dermis
+- **Anywhere on hand**, often between fingers
+
+#### Management
+- **Marginal excision**
+- **Can mimic other diagnoses**
+
+---
+
+### Dermatofibroma
+- **Locally invasive, recurrent lesions**
+- **Excise but biopsy** to differentiate from malignancy
+
+---
+
+### Ganglions
+- **See separate notes**
+
+---
+
+## Tumours of Neural Origin
+
+### Schwannoma
+- **Most common peripheral nerve tumour of the upper limb**
+- **Painless mass with positive Tinel’s sign**
+- **Eccentric on nerve fibre**
+  - Can be **shelled out while preserving the nerve**
+
+#### Histology
+- **Cell of origin:** Schwann cell
+- **Composed of Antoni A (cells) and Antoni B (matrix) regions**
+
+---
+
+### Neurofibroma
+- May be **isolated** or part of **NF1**
+- **Slow-growing painless mass**
+- **Arise centrally** from nerve fascicles
+  - **Can’t be shelled out** without sacrificing nerve – may need graft
+
+---
+
+### Dejerine-Sottas Disease
+- **Type 3 HSMN**
+- **Localized swelling of peripheral nerve**
+  - Due to **hypertrophic interstitial neuropathy**
+  - **Usually seen in median nerve** – may require **CTR**
+  - **Can occur in foot** → cavovarus foot
+
+#### Management
+- **Cannot be shelled out without sacrificing axons**
+
+---
+
+## Soft Tissue Malignant Tumours
+- **Rare**
+- Most common:
+
+### Squamous Cell Carcinoma (SCC)
+- **Most common malignant hand tumour**
+- Arises from **skin or subungual areas**
+
+### Other Malignant Tumours
+- **Synovial Sarcoma**
+- **Epithelioid Sarcoma**
+- **Melanoma** (can also occur subungual – more common in foot)
+
+---
+
+### Soft Tissue Sarcomas
+- Usually **>5cm** in size
+- **Young adults**
+- **Irregular, painful, fast-growing, and invasive**
+
+#### **Epithelioid Sarcoma**
+- **Most common tumour of the hand**
+- **Young adults**
+- **Spreads to lymph nodes**
+- **Wide or radical excision**
+- **Chemo/radiotherapy not fully proven to be useful**
+
+#### **Synovial Sarcoma**
+- **Poor prognosis**
+- **Epithelial and spindle cells**
+- **Young adults**
+- **More common in the foot**
+- **Wide or radical excision is treatment of choice**
+- **Adjuvant chemotherapy is useful**
