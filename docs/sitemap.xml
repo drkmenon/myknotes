@@ -413,12 +413,20 @@
     <lastmod>2025-01-28T11:47:39.022Z</lastmod>
   </url>
   <url>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/bio.html</loc>
+    <lastmod>2025-01-28T11:07:50.606Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.knotes.co.in/Revision notes/Hand/rncom.html</loc>
     <lastmod>2025-02-26T05:14:47.529Z</lastmod>
   </url>
   <url>
     <loc>https://www.knotes.co.in/Revision notes/Hand/wrist.html</loc>
     <lastmod>2025-01-28T11:09:05.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/gang.html</loc>
+    <lastmod>2025-02-26T06:07:02.647Z</lastmod>
   </url>
   <url>
     <loc>https://www.knotes.co.in/Revision notes/Hand/saphoid.html</loc>
@@ -437,12 +445,16 @@
     <lastmod>2025-01-28T11:13:19.413Z</lastmod>
   </url>
   <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/uncom.html</loc>
-    <lastmod>2025-02-26T05:13:22.002Z</lastmod>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/infn.html</loc>
+    <lastmod>2025-02-26T05:09:22.458Z</lastmod>
   </url>
   <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/drutf.html</loc>
-    <lastmod>2025-02-26T05:45:09.057Z</lastmod>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/mncomp.html</loc>
+    <lastmod>2025-02-26T05:10:58.702Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/tr.html</loc>
+    <lastmod>2025-02-26T06:16:19.889Z</lastmod>
   </url>
   <url>
     <loc>https://www.knotes.co.in/Revision notes/Hand/kein.html</loc>
@@ -689,12 +701,16 @@
     <lastmod>2025-02-26T05:18:52.795Z</lastmod>
   </url>
   <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/mncomp.html</loc>
-    <lastmod>2025-02-26T05:10:58.702Z</lastmod>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/drutf.html</loc>
+    <lastmod>2025-02-26T05:45:09.057Z</lastmod>
   </url>
   <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/infn.html</loc>
-    <lastmod>2025-02-26T05:09:22.458Z</lastmod>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/uncom.html</loc>
+    <lastmod>2025-02-26T05:13:22.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/crps.html</loc>
+    <lastmod>2025-02-26T06:19:55.379Z</lastmod>
   </url>
   <url>
     <loc>https://www.knotes.co.in/Revision notes/Hand/extt.html</loc>
@@ -709,6 +725,10 @@
     <lastmod>2025-02-26T05:08:38.146Z</lastmod>
   </url>
   <url>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/congh.html</loc>
+    <lastmod>2025-02-26T06:13:41.812Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.knotes.co.in/Revision notes/Hand/dup.html</loc>
     <lastmod>2025-02-26T05:48:58.527Z</lastmod>
   </url>
@@ -717,8 +737,12 @@
     <lastmod>2025-02-26T05:22:17.521Z</lastmod>
   </url>
   <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/bio.html</loc>
-    <lastmod>2025-01-28T11:07:50.606Z</lastmod>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/vasc.html</loc>
+    <lastmod>2025-02-26T06:18:07.140Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.knotes.co.in/Revision notes/Hand/trig.html</loc>
+    <lastmod>2025-02-26T06:05:26.102Z</lastmod>
   </url>
   <url>
     <loc>https://www.knotes.co.in/Revision notes/Basic science/Orthopaedic Materials/ceramic.html</loc>
@@ -1127,17 +1151,5 @@
   <url>
     <loc>https://www.knotes.co.in/Revision notes/Questions/Basic Science.html</loc>
     <lastmod>2024-10-19T12:30:09.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/congh.html</loc>
-    <lastmod>2025-02-26T06:13:41.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/trig.html</loc>
-    <lastmod>2025-02-26T06:05:26.102Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.knotes.co.in/Revision notes/Hand/gang.html</loc>
-    <lastmod>2025-02-26T06:07:02.647Z</lastmod>
   </url>
 </urlset>
