@@ -1,0 +1,86 @@
+---
+title: "Ganglions"
+format: html
+editor: visual
+---
+
+## Aetiology
+- A fibrous cystic swelling arising from a tendon sheath or joint filled with mucoid-rich material but with no true epithelial lining
+- Bimodal > young patients with no underlying OA or older with OA
+- Rarely there is a traumatic event
+
+## Pathology
+- Wall is made of collagen > no epithelial or synovial lining
+- Histology > mucin-filled ducts and lakes within the stalk that coalesce to form the cyst
+- Mucin is made up of glucosamine, hyaluronic acid, and proteins
+
+## Wrist Ganglia
+
+### Dorsal
+- 70% of ganglia
+- Scapholunate joint & ligament
+
+### Volar
+- 20%
+- STT or radioscaphoid joint
+- Closely associated with radial artery or FCR – beware in dissection
+- Recurrence rate higher
+
+## Differential Diagnosis
+- **Tenosynovitis** – from extensor tendons
+- **Synovitis** – from underlying OA or RA – diffuse, boggy, tender swelling
+- **Extensor tendon ganglia** – will move with tendon
+- **Tumor, AV malformation, Infection** – all rare
+
+## Diagnosis
+- **Clinical**
+- **MRI** – if it is occult and not visualized on examination
+
+## Management
+
+### No Treatment Required
+- Reassure patient
+
+### Non-Surgical
+- **Aspiration**
+  - >50% recurrence but usually enough to reassure patients
+
+### Surgery
+
+#### Indications
+1. Pain
+2. Neurologic compression
+3. Functional limitation
+4. Aesthetic
+
+- **Arthroscopic or open**
+- **Pre-operative Allen’s test mandatory for volar ganglions**
+- **Principle** is to excise stalk > take a cuff of capsule and then suture defect
+- **Transverse incisions**
+- **5% recurrence rate**
+
+## Other Ganglions
+
+### Flexor Sheath (Seed Ganglions)
+- From a weak spot in the A1 or rarely A2 pulley
+- Aspiration helps in 50% but surgery is the treatment of choice
+- Remove a cuff of the A1 pulley
+- Differentiated from Trigger Finger as they don’t move with the tendon
+
+### PIPJ/Extensor Tendon Ganglion
+- Remove according to normal principles
+
+### Guyon Canal Ganglion
+- Arises from Piso-triquetral joint
+- Presents as a **low ulnar nerve palsy**
+- Confirm by **USS or MRI**
+- Surgically excise, taking care not to harm ulnar nerve branches
+
+### Mucoid Cyst
+- Related to **DIPJ arthritis**
+- Underlying **osteophyte**
+- May cause **nail ridging or recurrent infection**
+- May be a **horseshoe ganglion** on either side of the terminal extensor tendon
+- **Excision with removal of the osteophyte** is the management of choice
+- **Skin healing and loss** can be a problem
+- Consider **local rotational flap or FT skin graft**

@@ -1,0 +1,78 @@
+---
+title: "Trigger Digits"
+format: html
+editor: visual
+---
+
+## **Order of Incidence**  
+- **Ring > Thumb > Middle > Index > Little**
+
+## **Classification**  
+- **Nodular or Diffuse**  
+- Nodular type responds better to injections than diffuse type  
+
+## **Pathological Process**  
+### **Adults:**  
+- The flexor tendons enter the pulley system at an acute angle  
+- Causes friction at the **A1 pulley**  
+- Results in **thickening of tendon sheath** and inflammation → **tenosynovitis**  
+- A **nodule** from tendon fraying forms just distal to the pulley or  
+- **Diffuse inflammation** of the sheath occurs distal to A1  
+- The **pulley secondarily thickens** in response, exacerbating the problem  
+  - Undergoes **fibrocartilaginous metaplasia**  
+- In the thumb, the **FPL enters at an acute angle** to put it at a mechanical advantage, but this predisposes to triggering  
+
+### **Children:**  
+- Primarily affects the **thumb**  
+- Associated with **nodule formation** but **not A1 pulley thickening**  
+- **Don’t respond well to non-operative treatment** as they are usually longstanding  
+
+## **Associations**  
+- **Females**  
+- **Dupuytren’s contracture**  
+- **Diabetes**  
+- **De Quervain’s tenosynovitis**  
+- **Rheumatoid arthritis**  
+- **Gout**  
+- **Hypertension**  
+
+## **Diagnosis**  
+- **Pain, catching, locking** of the finger  
+- Worse in **morning** if **nodular type**  
+
+## **Treatment**  
+### **Determining Factors:**  
+1. Is it **nodular or diffuse**?  
+2. What is the **duration of symptoms**?  
+3. Is there an **underlying treatable pathology**?  
+4. Duration **over 6 months** decreases likelihood of non-operative treatment success  
+5. **Diffuse disease** decreases likelihood of non-operative treatment success  
+6. But – even in these situations, **injection will cure half**  
+
+### **Non-Operative Treatment**  
+- **NSAIDs, ice, activity modification**  
+- **Splinting (MCPJ only)**  
+- **Steroid Injection:**  
+  - Effective in **up to 90%** with **nodular type** (with up to **3 injections**)  
+  - **Complications:**  
+    - **Damage to NV bundle**  
+    - **Intratendinous injection**  
+    - **Skin pigmentation changes**  
+    - **Recurrence**  
+    - **Transient hyperglycemia**  
+
+### **Operative Treatment**  
+- **Open procedure** under **local anesthesia** with tourniquet  
+- **Incision Types:**  
+  - **Oblique, transverse, or longitudinal incision**  
+- **Landmarks:**  
+  - **Proximal phalanx crease distance** for **A1 pulley landmark** over MCPJ  
+  - **Thumb:** Skin crease at the base of the thumb (**beware of radial digital nerve**)  
+  - **Release thumb A1 on radial aspect** – away from **oblique pulley**  
+- **If diffuse**, a **more extensive release** and **debridement of inflamed synovium**  
+- **Utmost care when approaching A2 pulley** (can be windowed in worst cases)  
+
+### **Complications:**  
+- **NV damage** (especially in thumb)  
+- **A2 pulley release**  
+- **Recurrence** (rare)

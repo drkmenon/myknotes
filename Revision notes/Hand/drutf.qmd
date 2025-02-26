@@ -1,0 +1,159 @@
+---
+title: "DRUJ & TFCC Pathology"
+format: html
+editor: visual
+---
+
+## Problems involving the DRUJ may include  
+- **Instability alone**  
+- **Arthrosis alone**  
+- **Instability and arthrosis**  
+
+## Anatomy - Stabilisers of the DRUJ  
+
+### **Intrinsic Stabilisers**  
+- **TFCC superficial and deep fibres** (esp. ligamentum subcruentum)  
+  - Transmits **20% load** in **neutral ulna variance**  
+  - **5% if negative** and **40% if positive**  
+- **Ulna collateral ligament**  
+- **Dorsal and Volar Radio-Ulnar ligaments**  
+- **Joint capsule**  
+- **Congruency of DRUJ**  
+  - **Poor due to different radii of curvature**  
+  - Many people have a **very shallow sigmoid notch**  
+
+### **Extrinsic Stabilisers**  
+- **ECU subsheath**  
+- **Pronator Quadratus**  
+- **Long flexors and extensors** (dynamic stability)  
+
+## Examination of the DRUJ  
+- **Examine stability and associated structures** → TFCC, ECU, etc.  
+- **Examine stability by translation** → arm in **neutral, supination, and pronation**  
+- **Assess for proximal pain** → Essex Lopresti lesion  
+- **Press test** → is there ulna pain when pushing up from a seated position?  
+
+## Acute Injuries  
+
+### **Isolated DRUJ Dislocation**  
+- **Uncommon** and virtually always **dorsal**  
+- Occurs with **hyper-pronation**  
+- May be **irreducible** due to **ECU or TFC interposition**  
+
+### **Injury with Associated Fracture**  
+- **More common**  
+- **Distal Radius, Essex Lopresti lesion, Galeazzi, or Ulna Styloid base fracture**  
+- **Distal Radius - Shortening** causes **ulna-sided impaction and pain**  
+- **Loss of volar tilt >20°** causes **rotational problems**  
+- **Styloid base fractures** can represent **TFCC avulsion fractures**  
+
+## Treatment Principles – Acute Instability  
+- **Reduce any isolated dislocations closed**  
+- **If stable** → plaster in supination  
+- **If unstable** → **2 x K-wires**  
+- **Anatomically reduce any distal radius fracture**  
+  - **Ensure length and volar tilt corrected**  
+  - **Re-test stability**  
+  - **If still unstable and no ulna styloid fracture**  
+    - **K-wires to hold reduction**  
+    - **TFCC likely avulsed**  
+    - **Explore TFCC arthroscopically or open for stabilisation**  
+    - **If stable** → above elbow plaster for **4 weeks**  
+  - **If associated large styloid fracture and unstable despite distal radius fixation**  
+    - **Consider ORIF of ulna styloid** with **small screw or TBW**  
+
+## Treatment Principles - Chronic Instability  
+
+### **Patient Symptoms**  
+- **Clunking**  
+- **Ulna-sided pain** (not always)  
+- **Reduced rotation, especially supination**  
+
+### **Address Distal Radius Malunion**  
+- Consider **extra-articular or intra-articular osteotomy** as needed and plating  
+- **Ring et al.** showed this reliably stabilised DRUJ and restored supination  
+- If malunion is **not a factor**, consider:  
+
+### **Ulna Shortening Osteotomy**  
+- **Does not address the cause**  
+- May provide **pain relief** and **tighten capsule** around DRUJ  
+
+### **Reconstruction of DRUJ**  
+- **Chronic TFCC tears are not repairable**  
+- Use **tendon graft** with drill holes in **radius and fovea** to replicate TFCC  
+
+### **Deepen Sigmoid Notch (Sigmoid Osteoplasty)**  
+- Useful if **shallow notch** (common in many people)  
+- **Better for functional rather than frank instability**  
+
+## Management of Instability - Salvage Options  
+- **If all else fails and patient remains symptomatic:**  
+
+### **Ulna Head Replacement**  
+- Good option but lacks **long-term data**  
+
+### **Ulna Head Deletion – Darrach or Suave-Kapandji**  
+- **Last resort** procedures for **low-demand patients**  
+- **Do not restore good function** and may cause **chronic pain**  
+- **Darrach Procedure**  
+  - More complications but easier to perform  
+  - Better for **elderly, low-demand** patients  
+
+### **Distal Radio-Ulnar Fusion**  
+- **Extreme procedure** – reserved for **select cases**  
+- **Creates a one-bone forearm**  
+
+## Management of DRUJ Arthrosis (With or Without Instability)  
+- **Rotation is limited and painful**  
+- **DRUJ may be prominent with osteophytes**  
+- May be a **Vaughn-Jackson lesion** → attrition of **EDM or EDC**  
+
+### **Treatment Options**  
+- **Soft tissue procedures fail due to arthrosis**  
+- **Similar options to instability, except soft tissue procedures**  
+  - **Osteophyte excision**  
+  - **Darrach or Suave-Kapandji procedures**  
+  - **Ulna head replacement**  
+  - **DRUJ replacement** (very new and unproven)  
+  
+## TFCC Anatomy  
+
+### **Main Components of TFCC**  
+1. **Dorsal & Volar Radio-Ulnar Ligaments**  
+2. **Ligamentum Subcruentum**  
+3. **Articular Disk**  
+4. **Meniscal Homologue**  
+5. **ECU Subsheath**  
+6. **UCL (Ulnar Collateral Ligament) of the Wrist**  
+7. **Ulno-Lunate and Luno-Triquetral Ligaments**  
+
+### **Vascularity**  
+- **Periphery is vascular**  
+- **Central part is avascular**  
+
+### **Palmar Classification of TFCC Tears**  
+
+#### **Type 1 – Traumatic**  
+- **Associated with distal radius fractures**  
+
+##### **Subtypes**  
+- **1a**: Central perforation → **Debride and leave 2mm stable rim**  
+- **1b**: Ulna detachment → **Fix to ulna styloid**  
+- **1c**: Distal detachment → **Fix to triquetrum (rare)**  
+- **1d**: Radial detachment → **Fix to radius** (often with distal radius fracture)  
+  - May do well with **Distal Radius ORIF only**  
+
+#### **Type 2 – Degenerative**  
+- **Associated with positive ulna variance and ulna impaction**  
+
+##### **Subtypes**  
+- **2a**: TFCC thinning  
+- **2b – 2e**: Varying degrees of **arthrosis** affecting **lunate, triquetrum, and DRUJ**  
+
+### **Management**  
+- **Relieve the impaction** → **Ulna shortening osteotomy**  
+- **Debride TFCC arthroscopically**  
+- **Treat arthrosis with salvage procedures**  
+  - **Darrach Procedure**  
+  - **Suave-Kapanji Procedure**  
+

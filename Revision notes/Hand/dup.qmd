@@ -1,0 +1,209 @@
+---
+title: "Dupuytren’s Contracture"
+format: html
+editor: visual
+---
+
+## **Overview**  
+- Benign fibroproliferative disease affecting the palmar fascia  
+
+## **Risk Factors**  
+1. Male (up to 10:1)  
+2. Northern European (Viking) origin  
+3. Alcohol  
+4. Smoking  
+5. Family history  
+6. Manual work  
+7. Diabetes  
+8. Anti-Epileptic drugs  
+
+## **Aetiology**  
+- Overriding genetic predisposition  
+- Autosomal dominant with variable penetrance  
+
+### **Contributory Theories**  
+1. **Intrinsic**  
+   - Metaplasia of native fascia  
+2. **Extrinsic**  
+   - Subdermal origin which attaches to and involves fascia  
+3. **Free Radical Theory (more in vogue)**  
+   - Free radicals present in hypoxic tissues (diabetics, smokers, alcoholics, manual laborers)  
+   - Cause cytokine release (PDGF, TNF-b, etc.)  
+   - Cytokines induce transformation of fibroblasts to myofibroblasts  
+
+## **Histopathology**  
+- Type 3 collagen  
+- Myofibroblasts  
+- Cytokine mediated (TNF; Fibroblast growth factor)  
+
+## **Pathologic Stages**  
+1. **Proliferative Stage**  
+   - Nodule & pit formation  
+   - Large myofibroblasts dominate  
+2. **Involutional Stage**  
+   - Cells align in the line of digits  
+   - Ratio of type 3 to type 1 collagen increases  
+3. **Residual Stage**  
+   - Resultant scar-like cords  
+   - Myofibroblast numbers decrease, leaving fibrocytes  
+
+## **Dupuytren’s Diathesis**  
+- Severe Dupuytren’s characterized by:  
+  1. Strong family history  
+  2. Affliction of radial digits (thumb and index)  
+  3. Ectopic disease (penis - Peyronie’s, feet - Ledderhose)  
+  4. Garrod’s pads  
+  5. Bilateral disease  
+  6. Young presentation  
+
+## **Order of Digits Affected**  
+- **Ring > Little > Middle > Thumb > Index**  
+
+## **Normal Anatomical Structures**  
+- **Bands are normal, cords are abnormal**  
+
+### **Palmar Fascia**  
+- Continuation of forearm fascia and Palmaris longus  
+- Function: Anchor skin and improve grip  
+
+### **Key Ligaments & Bands**  
+- **Pre-tendinous Band**: Ends at distal palmar crease, in line with digits  
+- **Spiral Bands**: Bifurcation of pre-tendinous bands, lateral to digits  
+- **Lateral Digital Sheet**: Lies lateral to NV bundles in digits  
+- **Grayson’s Ligament (Ground)**: Lies volar (towards ground) to NV bundle  
+- **Cleland’s Ligament**: Lies dorsal to NV bundle  
+- **Vertical Fibres**: Between palmar fascia and skin  
+- **Natatory Ligament**: Located in web spaces  
+- **Scoog’s Fibres**: Transverse fibres between NV bundles and palmar fascia  
+  - Up to distal crease level  
+  - Important in revision surgery (superficial dissection is always safe)  
+
+## **Pathologic Anatomy**  
+
+### **Pits/Nodules**  
+- Precursors of cord formation  
+- Lie over pre-tendinous bands  
+- Related to vertical fibres that anchor the skin  
+
+### **Cords & Contractures**  
+1. **Pre-tendinous Cord**  
+   - Most commonly involved band causing MCPJ contracture  
+   - Responsible for MCPJ contracture along with natatory cord  
+2. **Central Cord**  
+   - Extension of the pre-tendinous cord into the digit  
+   - No NV displacement  
+3. **Spiral Cord**  
+   - NV bundle spirals around it and is displaced  
+4. **Lateral Cord**  
+   - From lateral digital sheet  
+   - Displaces NV bundle medially (uncommon)  
+5. **Natatory Cord**  
+   - From natatory ligament  
+   - Must be excised to complete correction at MCPJ level  
+6. **Retrovascular Cord**  
+   - Rare dorsal cord extending to DIPJ causing hyperextension  
+7. **Abductor Digiti Minimi Cord**  
+   - Only in little finger, displaces NV bundle medially  
+8. **Commissural Cord**  
+   - 1st web space cord  
+
+## **Diagnosis**  
+
+### **History**  
+- Risk factors  
+- Degree of disability  
+- Previous surgery  
+- Features of Dupuytren’s diathesis  
+- Presence of pain (pain is unusual, beware if present)  
+
+### **Examination**  
+- Quantify deformity  
+  - Measure PIPJ with MCPJ flexed (cord crosses both joints)  
+  - Measure MCPJ with PIPJ flexed  
+- Define cords  
+- Skin quality  
+- Previous scars  
+- **Must do Digital Allen’s test in severe deformities pre-operatively**  
+
+### **Differential Diagnosis**  
+- **Epithelioid Sarcoma**: Rare, aggressive, not confined to fascia  
+- **Subcutaneous Lesions**: GCT, dermoid cysts, trigger finger, etc.  
+- **Primary Joint Contracture**  
+
+## **Surgical Planning**  
+- **Considerations**  
+  - Deformity correction feasibility  
+  - Skin problems  
+  - NV structure displacement  
+  - Functional aims of the patient  
+
+## **Management**  
+
+### **Non-Operative**  
+- **Splinting & Steroid injections not effective**  
+- Mild disease should be managed non-operatively as recurrence is inevitable  
+
+### **Collagenase Injection (Xiaflex)**  
+- Injection into the cord  
+- MUA the following day if no spontaneous rupture occurs  
+- Selectively attacks type 3 collagen  
+- **Approved by NICE**  
+- **CORD 1 Trial (NEJM RCT)**: Beneficial for MCPJ  
+- **CORD 2 Trial**: Examined PIPJ (data pending)  
+- **Limitations**: Expensive, long-term results unknown (>3 years)  
+
+### **Operative Indications**  
+- MCPJ deformity >30°  
+- PIPJ deformity >15°  
+- Symptomatic patient  
+
+### **Markers of Poor Outcome/Recurrence**  
+- Significant PIPJ deformity (collateral ligament & volar plate contracture)  
+- Young patient (more aggressive disease, longer recurrence window)  
+- Dupuytren’s diathesis  
+- Revision surgery  
+
+### **Operative Options**  
+
+#### **Percutaneous Needle Fasciotomy**  
+- Good for pre-tendinous cords  
+- Risk of NV bundle displacement in spiral/lateral cords  
+- Higher recurrence, but minimal invasiveness  
+
+#### **Skin Incisions**  
+- **Brunner’s Incision** (>60° angles)  
+- **Straight with Z-plasties** (60° angle = 75% more length)  
+- **Open Palm (McCash)**: Leaves large skin defects open  
+
+#### **Fasciectomy**  
+1. **Partial/Regional Fasciectomy**  
+   - Workhorse procedure, good correction but eventual recurrence  
+   - May require open wound management or grafting  
+2. **Segmental Fasciectomy**  
+   - Cords divided at multiple levels  
+   - Lower morbidity, higher recurrence  
+   - Reserved for elderly with low correction aims  
+3. **Radical Fasciectomy**  
+   - Rarely used, aims for total fascia excision  
+   - Recurrence still occurs  
+
+#### **Dermofasciectomy**  
+- **For revision cases or severe primary disease**  
+- Excision of diseased tissue with midlateral incisions  
+- **Full-thickness skin graft from cubital fossa**  
+- **Recurrence rate 10% (low)**  
+
+## **Post-Op Protocol**  
+- **Plaster splinting with fingers straight**  
+- **Follow-up in 1 week**: Wound check & splinting  
+- **Splinting for 6 weeks**  
+  - Flexion exercises to prevent stiffness  
+  - Night splinting up to 6 months  
+
+## **Salvage Surgery**  
+- **Amputation**: Severe recurrent disease, low-demand patient  
+- **Corrective Arthrodesis**: Recurrent disease, poor soft tissues  
+
+## **Complications**  
+- **Intraoperative**: NV damage, vascular spasm  
+- **Postoperative**: CRPS, haematoma, wound breakdown, infection, recurrence, loss of flexion  
