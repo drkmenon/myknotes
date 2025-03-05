@@ -1,0 +1,210 @@
+---
+title: "Shoulder Arthritis"
+format: html
+editor: visual
+---
+
+## Glenohumeral Osteoarthritis
+
+### Aetiology
+
+-   Primary or secondary to:
+    -   Trauma
+    -   Instability
+    -   Infection
+    -   AVN
+    -   Previous surgery – chondral damage, bioabsorbable anchors, LA pumps
+
+### Pathoanatomy
+
+#### Bone
+
+-   Typical pattern is posterior glenoid erosion
+    -   Results in retroverted glenoid
+    -   3 Types of glenoid:
+        1.  Concentric erosion of glenoid & no subluxation
+        2.  Posterior glenoid erosion, retroversion & subluxation
+        3.  Primarily Retroverted glenoid – posterior subluxations
+-   Humeral head flattening
+-   Humeral head posterior subluxation
+
+#### Soft tissues
+
+-   Contracted anterior structures:
+    -   Anterior capsule
+    -   Subscapularis
+-   Lax posterior capsule from posterior subluxation
+-   Rotator cuff deficiency is rare in OA (5%)
+
+## Rheumatoid Arthritis
+
+### Aetiology
+
+-   Erosive Pannus & inflammatory cytokines cause bone & soft tissue disease
+-   90% patients with RA have shoulder symptoms
+
+### Pathoanatomy
+
+#### Bone
+
+-   Erosion is medial and concentric
+-   Humeral head retains its shape until very late stages
+-   Concentric joint space reduction
+-   Osteopenia, marginal erosions, and subchondral cysts
+
+#### Soft Tissues
+
+-   Rotator cuff tears are more common:
+    -   75% will develop cuff pathology at some stage
+    -   25% full thickness tears at time of surgery
+-   Synovitis involving capsule, LHB
+
+### Classification
+
+#### Neer – based on XR features
+
+1.  Dry - Osteopenia, cyst formation, joint space narrowing
+2.  Wet - Pointed appearance of humeral head, marginal erosions
+3.  Resorptive - Severe medial erosion to level of coracoid
+
+## Avascular Necrosis
+
+### Aetiology
+
+-   Humeral head second most commonly affected after femoral head
+-   **Primary**: Idiopathic – unknown cause
+-   **Secondary**:
+    -   Trauma
+    -   Steroids
+    -   Alcohol
+    -   Sickle cell
+    -   Gaucher’s, Caissons, SLE
+
+### Pathoanatomy
+
+-   AVN of humeral head affects superior middle region first
+
+### Blood Supply
+
+-   Primarily the **Arcuate Artery** as it enters bone
+    -   Branch of Ascending branch of Anterior Circumflex Humeral
+    -   Lies in lateral aspect LHB groove
+-   Secondarily from the **Posterior Humeral Circumflex**
+    -   Runs over posteromedial aspect of humeral head
+-   Decreased blood flow causes ischemia \> bone resorption \> microfracture \> subchondral collapse \> secondary OA
+-   AVN may or may not have concurrent cuff pathology
+
+### Classification
+
+#### Creuss
+
+1.  No XR features
+2.  Head Sclerosis
+3.  Subchondral collapse (crescent sign)
+4.  Humeral head collapse but no glenoid changes
+5.  Humeral head & Glenoid OA changes
+
+## Crystal Arthropathy
+
+-   **Gout**:
+    -   Deposition of Sodium Urate crystals
+    -   Negative birefringence
+-   **Pseudogout**:
+    -   Calcium Pyrophosphate crystals
+    -   Positive birefringence
+-   **Milwaukee shoulder**:
+    -   Calcium Hydroxyapatite crystal deposition
+    -   Aspiration is blood-stained with debris
+    -   Inflammatory cells and monocytes
+    -   Positive staining with Alizarin red
+
+## Clinical Assessment of Shoulder Arthritis
+
+### History
+
+-   Pain, decreased mobility
+-   Weakness may be present if there is concurrent cuff tear
+-   History of other joint diseases
+-   Medications – DMARDs, Steroids
+-   Alcohol use
+-   PMH
+
+### Examination
+
+-   ROM
+-   Classically reduced/absent ER with GHJ OA
+-   Cuff assessment
+-   Deltoid function
+-   Concurrent upper limb arthritis (elbow in RA)
+
+### Imaging
+
+-   **True AP of GHJ**:
+    -   Type of arthrosis, evidence of AVN, features of cuff tear
+-   **Axillary lateral**:
+    -   Glenoid version, humeral head shape, subluxation
+-   **CT scan**:
+    -   Pre-requisite pre-operatively
+    -   Head shape
+    -   Glenoid erosion pattern
+    -   Degree of subluxation
+-   **MRI Scan**:
+    -   If AVN suspected is essential
+    -   If cuff tear suspected – especially for RA
+
+## Management Options for Shoulder Arthritis
+
+### Non-Operative
+
+-   Analgesia
+-   DMARDs
+-   GHJ steroid injections – long-term benefit limited – diagnostic value
+-   Activity Modifications
+-   Physiotherapy – little proven benefit
+
+### Surgical
+
+#### Joint Sparing Procedures – more appropriate for young patients
+
+-   **Arthroscopic debridement**: Possible for very early arthritis
+-   **Synovectomy**: For RA arthroscopic – in early disease with minimal bone changes
+-   **Soft tissue arthroplasty**:
+    -   Interposition of meniscus, fascia lata, etc., into glenoid for pain relief
+    -   Some good results reported in young patients
+    -   Unlikely to have any long-term benefit
+-   **Cartilage Procedures**:
+    -   ACI, OATS have been reported for focal cartilage defects with some good results
+    -   Limited studies in the shoulder
+    -   Unlikely to work due to greater shear forces in shoulder from large ROM
+-   **Procedures for AVN**:
+    -   Core decompression, vascularised grafting
+    -   Core decompression does work in early AVN
+    -   Limited literature for shoulder and even less for vascularised grafts
+-   **Arthrodesis**:
+    -   An option for those with non-functional cuff or deltoid
+    -   30 degrees abduction, IR, and flexion is position of choice
+
+### Arthroplasty
+
+-   **Humeral Head Resurfacing**:
+    -   Advantages for young patients – bone preservation
+    -   Easier revision
+    -   Less morbidity
+    -   Feasible for AVN up to 50% involvement of head but safer up to 30%
+-   **Hemiarthroplasty**:
+    -   An option for young patients
+    -   Can be used if there is an irreparable cuff tear
+    -   Problems: glenoid erosion and continued pain
+-   **Total Shoulder Arthroplasty**:
+    -   Gold Standard treatment
+    -   Glenoid Resurfacing contraindications:
+        -   Inadequate bone stock
+        -   Severe posterior erosion
+        -   Severe medial erosion
+        -   Rotator cuff deficient
+    -   Outcomes:
+        -   Superior long-term results to hemiarthroplasty
+        -   Improved ROM
+        -   Pain relief
+    -   Complications:
+        -   Glenoid loosening, wear, infection, instability, subscapularis failure

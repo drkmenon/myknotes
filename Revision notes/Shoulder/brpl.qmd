@@ -1,0 +1,155 @@
+---
+title: "Brachial Plexus Injuries"
+format: html
+editor: visual
+---
+
+#### Epidemiology
+
+-   **Rule of 7, 70's**
+    1.  70% caused by RTA\
+    2.  70% RTA's involve bike or motorcycle\
+    3.  70% of these have multiple injuries\
+    4.  70% supraclavicular\
+    5.  70% of these have at least one root avulsion\
+    6.  70% with root avulsion have avulsion of lower roots (C7-T1)\
+    7.  70% with lower root injuries have persistent pain
+
+#### Anatomy & Injury Classification
+
+-   Plexus formed from the C5-T1 roots\
+-   30% have contribution from C4 - Prefixed Plexus\
+-   30% have contribution from T2 - Post fixed plexus
+
+**Roots**\
+- Lie between scaleneus anterior and medius\
+- Roots are formed by the Dorsal (sensory) roots and Ventral (motor) roots\
+- Dorsal root ganglion contains only sensory rootlet cell bodies\
+- Motor cell bodies are within the cord
+
+**Pre-ganglionic Injuries**\
+- Proximal to the dorsal root ganglion\
+- Central Root avulsions (avulsion directly from the cord)\
+- Intra-dural root avulsions (outside cord but before DRG)\
+- Poor prognosis for recovery
+
+**Postganglionic injuries**\
+- Distal to the dorsal root ganglion\
+- Better prognosis
+
+**Trunks**\
+- Within the posterior triangle of the neck\
+- C5 & 6 merge \> Upper trunk\
+- Point at which they merge is called ERB's point\
+- ERB's point is where the Suprascapular nerve forms\
+- C7 \> middle trunk\
+- C8 & T1 \> Lower trunk
+
+**Divisions**\
+- Trunks divide into Anterior & Posterior divisions below the clavicle\
+- Posterior divisions form the Posterior cord\
+- Anterior divisions of the upper and middle trunks form Lateral Cord\
+- Anterior division of the Lower trunk forms the medial cord
+
+**Cords**\
+- Lateral cord ends in the MCN nerve and part of median nerve\
+- Posterior cord ends as the Axiliary and Radial nerves\
+- Medial cord ends as the Ulna nerve and the median nerve contribution\
+- Hence the median nerve is formed by the Lateral and Medial cords
+
+**Smaller Branches**\
+- **C5 Root**\
+- Phrenic nerve branch\
+- Long thoracic\
+- Dorsal Scapular nerve\
+- Nerve to subclavius\
+- **C6 Root**\
+- Long Thoracic nerve\
+- **C7 Root**\
+- Long Thoracic nerve\
+- Upper Trunk\
+- Suprascapular\
+- **Lateral Cord**\
+- Lateral Pectoral nerve (Clavicular head of Pec major)\
+- **Posterior Cord**\
+- Upper Subscapular\
+- Thoracodorsal\
+- Lower Subscapular\
+- **Medial Cord**\
+- Medial Pectoral (Sternal head of Pec Major)\
+- Medial Antibrachial cutaneous\
+- Medial Brachial cutaneous
+
+#### Lower Cervical Sympathetic Ganglion
+
+-   Very close to the T1 root \> avulsion can cause a Horner's syndrome
+    -   Partial Ptosis, Meiosis (Small pupil), Enopthalmos, Anhydrosis
+
+#### Examination
+
+-   Important to establish if pre or post ganglionic injury for prognosis\
+-   Which roots (preganglionic)/Trunks affected\
+-   Individual Muscle Groups\
+-   Are other important structures involved?
+    -   Brachial artery\
+    -   Spinal accessory nerve (trapezius) - often needed for nerve grafting\
+    -   Eyes? Horner's Syndrome
+
+#### Radiography
+
+-   **XR**
+    -   C spine, shoulder, and chest\
+    -   C spine transverse fracture indicates possible root avulsion\
+    -   Clavicle and 1st or 2nd rib fractures may result in plexus injury\
+    -   Diaphragm elevation indicates C5 root injury (phrenic nerve)
+-   **CT Myelogram**
+    -   Used to diagnose root avulsion - is gold standard for this purpose\
+    -   Best done at 3 weeks onwards
+-   **MRI**
+    -   Can be done early\
+    -   Identifies mass lesions in non-traumatic plexopathy
+-   **NCS/EMG**
+    -   Useful for:
+        -   Localizing injury\
+        -   Assessing recovery\
+    -   Pre vs post ganglionic assessed by testing root level muscles
+
+#### Management Concepts
+
+-   Always ATLS approach\
+-   Treat life-threatening injuries first
+
+**Surgical Treatment Methods**\
+- Neurolysis\
+- Nerve repair\
+- Nerve grafting\
+- Nerve transfer\
+- Tendon transfer\
+- Joint Fusion
+
+**Prioritization of Functional Restoration**\
+1. Elbow flexion\
+2. Shoulder abduction\
+3. Shoulder stability\
+4. Hand sensibility\
+5. Wrist Extension & Finger flexion\
+6. Wrist Flexion & Finger Extension\
+7. Intrinsic function
+
+**Primary Immediate or Early Surgery**\
+- Direct repair\
+- Neurolysis\
+- Nerve Grafting\
+- Nerve Transfer (Neurotization)
+
+**Secondary (Salvage) Procedures – Late Surgery**\
+- Tendon transfer\
+- Free muscle transfer\
+- Fusion/Osteotomy\
+- Amputation (for flail arm)
+
+**A Typical Salvage Regime Might Include:**\
+- Fuse Shoulder\
+- Transfer Pec Major or Lat Dorsi to biceps for elbow flexion\
+- Transfer medial epicondyle to anterior humerus – restores flexion\
+- Transfer Lat Dorsi to Infraspinatus (L’Esposito)

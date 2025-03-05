@@ -1,0 +1,116 @@
+---
+title: "Nerve Disorders"
+format: html
+editor: visual
+---
+
+## Thoracic Outlet Syndrome
+
+### Aetiology
+- Vascular (subclavian artery) or neurologic compression
+- Neurogenic less common  
+  - Females > males  
+  - <30 years old  
+  - BP lower trunk most often  
+
+### Sites of Compression (c, s, c, s, c, s, p)
+1. Cervical rib  
+2. Scalene muscle  
+3. Clavicle malunion  
+4. SCM  
+5. Congenital fibrous bands  
+6. Scapula ptosis  
+7. Pancoast’s tumour  
+
+### Clinical Features
+- Paresthesias from shoulder to fingers  
+- Affects C8/T1 distribution normally  
+- Intrinsic wasting or weakness  
+- Vascular symptoms  
+- Symptoms positional or activity-related  
+  - Overhead tasks  
+  - Night symptoms  
+
+### Diagnosis
+#### Clinical
+- NCS & EMG – useful to rule out peripheral lesions  
+- **Adson’s Test**  
+  - Extend neck, turn head towards affected side & take deep breaths  
+- **Wright’s Test**  
+  - Abduction, ER & extension of arm with head turned away  
+
+#### CXR/CT/MRI
+- Cervical rib  
+- Tumour  
+- Anomalous muscle  
+- MR directly visualizes plexus  
+- CT/MR arterial and venous studies  
+
+### Management
+#### Physio
+- Relaxation techniques, posture control  
+
+#### Operative
+- If neurologic deficit  
+- Identifiable cause  
+- **Transaxillary 1st rib resection**  
+  - 90% improvement but high complication rate  
+
+---
+
+## Suprascapular Nerve Compression
+
+### Causes
+1. Spinoglenoid notch cyst  
+2. Ganglion  
+3. Entrapment under suprascapular notch ligament  
+4. Fracture callus  
+5. Late cocking phase – SS & IS tendon compresses nerve  
+
+### Clinical Features
+- Depend on where nerve is trapped  
+  - Prior to spinoglenoid notch → SS & IS weakness & atrophy  
+  - At spinoglenoid notch or after → only IS problem  
+- Dull, non-specific ache over dorsum shoulder common to both  
+
+### Investigations
+- NCS & EMG – confirm where lesion is and which muscle affected  
+- MRI – screen for associated SLAP tear, ganglion, or cyst  
+
+### Management
+- Repair SLAP and decompress cyst  
+- Decompress nerve as necessary depending on offending structure  
+
+---
+
+## Long Thoracic Nerve Palsy
+
+- Results in weakness of serratus anterior  
+- Causes medial scapular winging – trapezius still active  
+
+### Causes
+- Compression (e.g., backpackers)  
+- Traction (e.g., weightlifters)  
+
+### Management
+- Observe as most improve spontaneously  
+- May take as long as 18 months  
+- Pectoralis major transfer for those that don’t  
+
+---
+
+## Quadrilateral Space Syndrome
+
+- Caused by compression of axillary nerve in quadrilateral space  
+- Pain and paresthesia around shoulder – vague  
+- Typical in throwing athletes  
+  - ER, ABD, EXT causes compression of axillary nerve  
+  - Late cocking phase  
+
+### Diagnosis
+- **EMG, NCS** – may be negative as symptoms are dynamic  
+- **Arteriogram**  
+  - Compression of posterior humeral circumflex in quadrilateral space  
+
+### Management
+- Decompression if no improvement with activity modification  

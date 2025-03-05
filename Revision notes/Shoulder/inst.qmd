@@ -1,0 +1,456 @@
+---
+title: "Shoulder Instability"
+format: html
+editor: visual
+---
+## Anterior Shoulder Instability
+
+### Epidemiology
+- 95% of shoulder dislocations anterior
+- Men > Women
+
+### Aetiology
+- Traumatic – most common
+- Attritional – repetitive trauma
+- Atraumatic
+
+### Pathoanatomy
+
+#### Static Stabilisers
+1. Labrum – deepens glenoid by 50%
+2. Negative intra-articular pressure
+3. Capsuloligamentous structures
+   - Primarily IGHL
+   - MGHL & SGHL also
+4. Suction effect of glenoid on humeral head
+5. Coracohumeral Ligament
+6. Posterior superior capsule
+7. Bony anatomy
+   - Poor inherent stability
+   - Made worse by glenoid retroversion
+   - Glenoid dysplasia
+   - Humeral retroversion
+
+#### Dynamic Stabilisers
+1. Rotator cuff
+2. Proprioception
+3. LHB
+- Most likely injury in acute traumatic
+  - Anterio-inferior labrum with capsular ligamentous stretching (anterior IGHL) – Bankart lesion
+
+### Classification
+- TUBs vs AMBRI
+- Stanmore
+  - Accounts for overlap between traumatic and atraumatic dislocation
+  - Type 1: Traumatic structural problem
+  - Type 2: Atraumatic structural Problem
+  - Type 3: Non structural – muscle patterning issue
+  - Significant overlap especially between type 2 and 3
+  - Patients categorised based on history, examination & arthroscopic evaluation
+    - History
+      - Uni or bilaterality, details of 1st dislocation, symptoms
+    - Examination
+      - Direction of instability/laxity, presence of widespread laxity, abnormal muscle patterning
+    - Arthroscopic evaluation
+      - Articular cartilage damage, labral damage, capsular laxity
+
+### Clinical Assessment
+
+#### Examination
+- Tests
+  - For Laxity
+    - Anterior & Posterior Drawer
+    - Sulcus Sign – hallmark of multidirectional instability
+    - Load and shift test (Abd, ER & axial compression + forward translation)
+      - May cause frank dislocation - not in clinic
+      - Grade 1 – translates to glenoid edge
+      - Grade 2 – Subluxates but reduces easily
+      - Grade 3 – frank dislocation
+  - For Instability
+    - Apprehension and relocation test
+  - Beighton Score for global hypermobility assessment
+    - Thumbs
+    - Little Fingers
+    - Elbows
+    - Knees
+    - Spine
+      - Scored out of 9.
+      - Hypermobility positive if 4 or more
+    - Soft criteria are
+      - Beighton score 2/3
+      - Dislocation of 1 or more joints more than once
+      - Marfanoid features
+  - Core Stability
+  - Abnormal Muscle Patterning & Scapula dysrhythmia
+
+### Investigation
+- XR
+  - AP, Axilliary Lateral, Stryker Notch view (Hill Sach)
+  - Look for bony defects but may be missed
+- MRA
+  - 90% sensitivity
+  - Better than MRI for intra-articular pathology
+  - Extra-articular pathology – cuff tear characteristics
+  - Good at showing bone deficiency (not as good as CT)
+- Arthroscopy
+  - Gold standard for diagnosis of intra-articular pathology
+
+### Natural History of Anterior Instability
+- Recurrence highly correlated with patient age
+  - Up to 100% in adolescents with open proximal humeral physis
+  - <20 years around 90%
+  - 20-30 – 60%
+  - >40 years 10%
+- No evidence that recurrent dislocation is correlated with earlier onset OA
+- May be the case though
+
+### Concurrent Injuries
+- Cuff tear
+  - 30% if >40 years
+  - 80% if >60 years
+- GT Fracture
+  - More likely in patients >40 years
+- Hill Sachs lesion (Posterior superior impression fracture)
+  - 80% of anterior dislocations
+  - Not commonly the cause of recurrence
+- Glenoid
+  - Glenoid bone loss in up to 50%
+  - Glenoid deficiency is more important in terms of recurrent instability (>20%)
+  - See notes on glenoid deficiency
+  - Combined Hill Sachs and Glenoid is more likely to cause recurrent instability
+- Nerve Injury (5%)
+  - Most commonly Axilliary then Musculocutaneous nerves
+
+### Management
+
+#### Non-Operative
+- Reasonable for most patients initially
+- Sling for comfort up to 4 weeks in neutral position
+- ROM, proprioceptive, deltoid, cuff and peri-scapular muscle programme
+- ER sling
+  - Shown to be beneficial in study by Itoi
+  - Requires high compliance & regular checking
+
+#### Operative
+- Indications for stabilisation after 1st time dislocation:
+  - Young male involved in throwing or contact sports
+  - Significant Hill Sachs (engaging)
+  - Significant Glenoid deficiency
+  - Full thickness rotator cuff tear
+- Techniques
+  - Open
+    - Bankart repair & capsuloraphy (shift) to re-tension IGHL
+    - Primary Bristow/Latarjet – equally good results
+  - Arthroscopic
+    - Same procedure effectively
+  - Outcomes equal
+  - Rehab quicker with arthroscopic
+
+### Complications
+- Stiffness, anchor pull out, failure
+- Subscapularis failure is specific to open repair
+- Over-tightening
+  - Can cause pre-mature arthritis – posterior glenoid erosion
+    - Increased Joint reaction force and contact pressure
+    - E.g. with Putti Platt or capsuloraphy
+
+### Bone Deficiencies
+- Hill Sachs
+  - If needs repair, options are
+    - Punching up fracture and bone graft
+    - Allograft
+    - Remplissage
+    - Arthroplasty
+- Glenoid
+  - Primary ORIF if amenable
+  - Autograft augmentation
+  - Bristow/Laterjet coracoid transfer
+
+## Posterior Instability
+
+### Epidemiology
+- 2-5% of shoulder instability
+- Trauma is the primary cause
+- Association with epilepsy and electrocution
+
+### Aetiology
+- Invariably traumatic
+- Rarely may be due to xs retroversion of glenoid or humeral head
+- Glenoid dysplasia
+
+### Pathoanatomy
+- Primary stabilisers to posterior translation are:
+  - Posterior part of IGHL
+  - SGHL
+  - Coracohumeral ligament
+  - Labrum (50% deepening of glenoid)
+  - Negative Intra-articular pressure
+
+### Concurrent Injury
+- Reverse Hill Sachs – McGlaughlin lesion
+- Glenoid defect – rare
+- Nerve injury
+
+### Clinical Evaluation
+- In general as for Anterior
+- Specific tests
+  - Scapula winging – compensatory in posterior instability
+  - Posterior Stress test
+  - Jerk test
+
+### Management
+
+#### Non-operative
+- Recurrent posterior instability is less common
+- Therefore non-operative reasonable for most initially
+- Sling, ROM, Cuff and periscapular muscle plus proprioceptive program
+
+#### Operative
+- Open or arthroscopic labral repair with capsular reefing equivalent
+- Arthroscopic may be easier to access shoulder
+- Treatment of reverse engaging hill sachs
+  - McLaughlin procedure is an option – transfer of LT into defect
+
+### Rehab
+- Consider having elbow posterior to shoulder – less stress on repair
+- Neutral rotation
+- Contact sports at 6 months
+
+### Outcomes
+- Slightly higher recurrence than for anterior (marginal)
+- Stiffness especially if posterior capsule over tightened can be a problem
+
+## Multi-directional Instability
+
+### Epidemiology
+- Presentation is in 2nd or 3rd decade
+
+### Aetiology
+- MDI is a symptom – not a diagnosis
+- Differentiate between:
+  - Functional problem because of instability
+  - Secondary traumatic damage due to MDI
+  - Habitual dislocater with muscle patterning problem
+
+### Pathoanatomy
+- Cardinal features are:
+  - Clinical instability in multiple planes
+  - Patulous inferior capsule with stretching of IGHL
+  - Lax rotator interval
+  - Usually no labral or bony pathology but:
+    - With chronic recurrent instability there may be secondary pathology
+
+### Clinical Assessment
+- History differentiates from primary traumatic dislocation
+- May have features of impingement and thoracic outlet type symptoms
+
+#### Examination
+- ROM
+- Beighton score (4 or higher = hypermobility)
+- Sulcus Sign – a feature of MDI due to Rotator interval insufficiency
+- Abnormal muscle patterning and scapula dyskinesia
+- Secondary features
+  - Scapula dyskinesia
+  - Impingement due to abnormal Range of motion
+  - Biceps pathology for same reason
+
+### Management
+- Always non-operative first
+- Neuromuscular physiotherapy – proprioception, scapula training etc.
+- This needs to be continued long term to prevent recurrence
+
+#### Surgical
+- Only if non-operative treatment diligently tried and failed
+- Ensure patient is not a habitual dislocator
+- Functional problems because of instability
+  - Arthroscopic
+    - Pancapsular plication
+    - Repair of any labral tears
+  - Open
+    - Anteriorinferior capsular shift
+
+### Rehab
+- Longer than for a bankart repair
+- Physio is a big part of good outcome
+
+### Complications
+- Recurrence is main issue
+- Stiffness is uncommon
+
+## Chronic Dislocations
+
+### Clinical features
+- Complete loss of external rotation
+- May be pain free or painful
+- ROM severely restricted
+- Often in an elderly patient secondary to a full thickness cuff tear and loss of dynamic stability
+
+### Management
+- Depends on patient aims
+- Closed reduction can be attempted up to 3 weeks maximum
+- Open reduction for those that are irreducible in an appropriate patient
+- Options are:
+  - Supervised neglect
+  - Open reduction
+  - Allograft/autograft reconstruction of bone defects
+  - Arthroplasty
+  - Fusion
+# Humeral Head Bone Defects
+
+## Definitions
+- **Hill Sachs Lesion**: Impression fracture of the posterior superior head caused by impaction on the harder cortical bone of the anterior glenoid rim in an anterior dislocation.
+- **Reverse HS**: The opposite but less common.
+
+## Incidence
+- Reported in up to 70% of 1st time dislocations and 100% of recurrent dislocators.
+- High association with Anterior glenoid fractures (i.e., the two frequently coexist).
+
+## Imaging
+- **XR**: Radio-dense line along the border of the lesion seen on AP view.
+  - Best views are internal rotation AP/Stryker notch view and ITO technique.
+- **CT**: Gold standard for assessing lesion - quantifies depth, size, location.
+- **MRI**: Frequently also performed as this identifies soft tissue lesions that may require treatment.
+
+## Classification
+- **Mild**: <2x0.3cm (<25% of head).
+- **Moderate**: <4x0.5cm (<50% of head).
+- **Severe**: <4x1cm (>50% of head).
+
+## Indications for Surgery
+- Many feel addressing humeral head to restore stability is rarely necessary.
+- Most important is soft tissue and glenoid defect reconstruction.
+- Factors to consider are:
+  - **Lesion**: Size, location, and orientation.
+  - **Does the lesion actually engage the glenoid and result in dislocation?**
+  - **Associated defects** (glenoid/labral).
+  - **Presence of Glenohumeral arthritis**.
+  - **Patient**: Age (bone quality), activity level (sports etc.), number of dislocations/subluxations (is it functionally a problem?).
+
+## Surgical Options
+1. **Disimpaction of impacted fracture**.
+2. **Interposition of soft tissue or Allograft into defect**.
+3. **Rotational Osteotomy**.
+4. **Partial or complete replacement**.
+
+### Disimpaction (Humeroplasty)
+- Performed retrograde through a cortical window - tamps used to punch up bone and defect filled with graft.
+- **Advantages**: Minimally invasive; no metalware; anatomical reconstruction may be achieved.
+- **Disadvantages**: Collapse can occur; beyond 3 weeks not possible; only in good bone.
+
+### Interposition (Remplissage - means filling in French)
+- Can be done arthroscopically along with reconstruction of other lesions.
+- Involves bringing part of infraspinatus and posterior capsule into the defect - these are secured by anchors placed percutaneously within the defect, through the infra and capsule, and the sutures tied in the subdeltoid space to hold the soft tissue down into the defect.
+- Effect is to make it impossible for the defect to engage the glenoid by making it extracapsular.
+- **Advantages**: Minimal metalware, can be done in poor quality bone, acute or chronic, arthroscopic.
+- **Disadvantages**: Non-anatomic - can affect ROM and may cause instability in a different direction; long-term results not known.
+
+### Allograft Reconstruction
+- Usually using allograft humeral head shaped to fit the defect and secured with internal fixation (usually retrograde compression screws).
+- Not appropriate if arthritis is present.
+- **Advantages**: Good for large defects; gives anatomical reconstruction.
+- **Disadvantages**: Need good bone; metalware; foreign material; may collapse.
+
+### Osteotomy
+- Humeral head is rotated medially to minimise external rotation of the joint but allow external rotation of the arm through the osteotomy site, thus preventing engagement of the lesion.
+- **Advantages**: Good for young high-demand individuals.
+- **Disadvantages**: May restrict motion/alter kinematics; not routinely done in the UK - little experience or data to support.
+
+### Prosthetic Replacement
+- **Partial (Hemi cap)**:
+  - **Advantages**: Anatomic restoration; no risk of collapse.
+  - **Disadvantages**: May need to remove normal bone/cartilage to seat implant; loosening - long-term results unknown.
+- **Total Replacement**:
+  - **Hemiarthroplasty**:
+    - Good option in severe un-reconstructable defects; pre-existing arthritis and older patients with poor bone quality.
+
+## Summary
+- Usually, no treatment is needed - reconstruct glenoid and soft tissues first.
+- Little solid evidence to support any technique.
+- **Moderate defects**:
+  - Young: Humeroplasty/remplissage/osteotomy.
+  - Old: Remplissage/partial replacement.
+- **Severe defects**:
+  - Young: Allograft.
+  - Old: Hemiarthroplasty.
+- **Problem**: The young patient with arthritis, a severe defect, and instability.
+
+---
+
+# Management of Glenoid Bone Deficiency in Anterior Shoulder Instability
+
+## Aetiology
+- **2 causes**:
+  1. Acute glenoid fracture due to dislocation/avulsion.
+  2. Attritional destruction of anterior glenoid due to recurrent dislocation.
+
+## Clinical Findings
+- May be associated with a dislocation with axial loading mechanism.
+- Mid-abduction instability (20-60 degrees) may be suggestive.
+- Progressively frequent dislocations may indicate attritional wear.
+- May be present with a Hill Sachs or cuff tear (more commonly isolated glenoid fracture).
+
+## Diagnosis
+- **Plain XR**: AP, internally rotated AP view (Hill Sachs), Westpoint view (in plane of glenoid face).
+- **CT Scan**: Gold standard, especially 3D recon with digital subtraction of the humerus.
+- **MRI**: Not useful unless cuff tear suspected.
+
+## Quantifying Degree of Bone Loss
+- Best done as a % of the glenoid face.
+- This is done on sagittal CT looking at the glenoid face or arthroscopy.
+  - Inferior 2/3 of glenoid forms a circle.
+  - Centre of this is consistently a bare spot.
+  - Calculate length of bone left anterior to bare spot. This can be used to give a % loss of glenoid bone and also a length of bone.
+  - Bare spot can be identified arthroscopically, and a calibrated probe used to measure bone loss.
+
+## Threshold Values for Instability
+- **1-15%** (>9mm bone left anterior to bare spot): No significance in most.
+- **15-30%** (4-9mm bone left anterior to bare spot): Significant in some.
+- **>30%** (>4mm bone left anterior to bare spot): Significant in most.
+
+## Management
+- Main determinants of management are:
+  - Degree of Bone Loss.
+  - Patient functional level.
+  - Is there another lesion (e.g., Hill Sachs)? (If there is an engaging Hill Sachs, have a lower threshold for fixation).
+
+### Non-Surgical
+- Low demand (no overhead sports or work).
+- <20% bone loss.
+- Treatment plan:
+  - Immobilisation in a sling.
+  - ROM & cuff/periscapular muscle strengthening programme.
+  - Active assisted > active exercises.
+
+### Surgical Options
+- **Aims of surgery**:
+  - Stabilise shoulder.
+  - Prevent non-union, malunion & arthritis.
+
+#### <15% Defects
+- Consider surgery if young, active, and recurrently unstable.
+- Best treatment is a standard Bankart soft tissue repair with incorporation of the bony fragment as much as possible.
+
+#### 15-30% Defects
+- Most of these need addressing.
+- Depends on patient variables and degree of recurrent instability.
+- If bone fragment is reasonable - ORIF.
+- If not:
+  - Soft tissue repair - poor outcomes with larger fragments.
+  - **Bristow-Laterjet**:
+    - Coracoid osteotomy and transfer into glenoid defect through the mid-portion of subscapularis, leaving some soft tissue on the coracoid.
+    - In Laterjet, coracoid is attached parallel to the glenoid.
+    - In Bristow, coracoid is attached perpendicular to the glenoid.
+    - Capsular-ligamentous tissues are then attached to the native glenoid, making the graft extra-articular.
+    - Some people have attached soft tissue to the edge of the graft, making it intra-articular with good results.
+  - **Iliac Crest Bone graft**:
+    - Alternative to Bristow-Laterjet with good results.
+    - Iliac crest inner table contour matches glenoid well.
+    - Not as common as Laterjet but is an alternative or an option in revision situations.
+
+#### >30% Defects
+- Almost all need management.
+- Principle is the same as for 15-30% defects.
+
+## Overall Results
+- 10% rate of recurrent instability.
+- Usual reason for failure is not appreciating true defect size > pre-op planning imperative.

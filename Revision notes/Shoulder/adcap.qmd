@@ -1,0 +1,169 @@
+---
+title: "Frozen Shoulder"
+format: html
+editor: visual
+---
+
+## Aetiology
+- Primary idiopathic – best prognosis
+- Diabetic frozen shoulder – worse prognosis, protracted course
+- Secondary – worse prognosis
+- Neuromuscular – secondary to CVA, poor prognosis  
+- Diabetes  
+  - 75% with FS have diabetes or undiagnosed insulin resistance  
+  - Diabetics have 10% lifetime risk of FS  
+- Genetic  
+  - Increased risk in twins, some genetic link  
+
+---
+
+## Epidemiology
+- Women > men
+- Unusual <40 years and >70 years
+- Secondary FS can occur at any age
+- Unusual in manual workers
+- 85% unilateral
+- 20% develop subsequent contralateral FS
+- Recurrence in same shoulder uncommon
+- 15% bilateral simultaneous  
+  - Of these, 80% have recurrence within 5 years  
+
+---
+
+## Pathoanatomy
+1. First, the anterior superior capsule is affected  
+   - Corresponds to rotator interval  
+   - Capsule, CHL & SGHL involved  
+   - Restricted ER in adduction  
+2. Anterior inferior capsular contracture follows  
+   - Capsule & IGHL involved  
+   - Restricted ER in abduction  
+3. Posterior capsule contracture in severe cases  
+   - Restricted internal rotation  
+4. Secondary FS  
+   - Extra-articular structures may also be contracted  
+   - Rotator cuff, especially subscapularis  
+   - More global stiffness  
+
+---
+
+## Histology
+- Inflammatory and fibrous tissue
+- Akin to Dupuytren's when fibrotic
+- Type 3 collagen, fibroblasts, myofibroblasts & angiogenesis predominate
+- Type 3 collagen deposition causes stiffness  
+
+---
+
+## Natural History
+- Resolution occurs over 18-24 months
+- Three stages  
+  1. Freezing – very painful  
+  2. Frozen – pain subsides, stiffness predominates  
+  3. Thawing – stiffness improves  
+  (Significant overlap between stages)
+- 40% have persistent symptoms or signs at 5 years
+- Around 20% will have some functional deficit at 5 years  
+
+---
+
+## Clinical Features
+### History
+- Insidious onset or secondary to other pathology
+- Severe pain
+- Night pain
+- Burning
+- Diffuse in nature
+- CRPS-type character  
+
+### Examination
+- ROM assessment  
+  - ER in adduction = rotator interval mainly  
+  - ER in abduction = anterior-inferior capsule  
+  - IR = posterior capsule  
+  - Global restriction = severe primary FS or secondary FS  
+- Cuff power usually intact  
+
+---
+
+## Imaging
+### Plain X-ray
+- Exclude causes of secondary FS (e.g., calcific tendonitis)
+- Identify other causes of stiffness (e.g., dislocation, GHJ arthritis)
+
+### Other
+- MRI – if suspect cuff pathology
+- Blood glucose levels – screen for diabetes  
+
+---
+
+## Management
+### Goals
+- Relieve pain
+- Restore ROM
+- Restore function  
+
+### Analgesia & Activity Modification
+- Useful in the acute painful period
+- Physiotherapy painful initially  
+
+### Physiotherapy
+- Cochrane review – no significant benefit over doing nothing
+- Likely beneficial in  
+  - Limiting progression  
+  - Aiding recovery once it starts  
+  - Motivational & supervisory support  
+
+### Steroids – Oral or Intra-Articular
+- Cochrane review – no long-term difference
+- Helpful for short-term pain & ROM but effects not sustained
+- Can cause rebound stiffness
+- Side effects limit use  
+
+### Distension Arthrography
+- Reasonable evidence for medium-term benefit in primary FS
+- Less effective in secondary FS due to extra-articular contractures
+- Technique  
+  1. Arthrogram to confirm no cuff tear  
+  2. Insufflate joint until pressure decreases (capsular rupture)  
+  3. Steroid injection  
+  4. Aggressive physiotherapy  
+
+### Manipulation Under Anaesthetic (MUA)
+- Good relief & ROM improvement
+- Limited high-level studies
+- More useful for anterior & anterior-inferior capsule tightness
+- Technique  
+  1. Interscalene block  
+  2. Short lever arm  
+  3. Order of Manipulation – FF, ER in ADD, ER in ABD, IR  
+  4. Steroid injection  
+  5. Physiotherapy  
+
+### Arthroscopic Release
+- Better pain relief & functional improvement than MUA alone
+- Combine with MUA  
+  - Perform MUA first – increases space for arthroscopy  
+- Treats anterior capsular contracture
+- Release technique  
+  - Interscalene block for post-op pain relief  
+  - Focus on releasing rotator interval structures  
+    - CHL, SGHL, MGHL, capsule  
+  - 360-degree release if persistent stiffness  
+  - More release = higher nerve injury risk  
+- Combine with ASAD if extra-articular contracture present  
+
+### Open Release
+- Rarely done
+- For failed arthroscopic release
+- If metalware needs removal or bony lesions need excision
+- More painful  
+
+---
+
+## Treatment Algorithm
+1. Try physio, analgesia & activity modification first  
+2. If no improvement & patient wants treatment → proceed to MUA  
+3. Treat concurrent pathology if secondary FS  
+4. If MUA unsatisfactory → proceed to arthroscopic release  
+5. Use a steroid injection after any procedure & liberal use of IS blocks  

@@ -1,0 +1,269 @@
+---
+title: "Sports Conditions"
+format: html
+editor: visual
+---
+
+## SLAP Tears  
+
+### Aetiology  
+- Overhead sports, especially throwing  
+- Repetitive or chronic  
+- Often in association with other conditions  
+
+### Clinical Diagnosis  
+
+#### History  
+- Pain with overhead activity  
+- Deep anterior pain  
+- Clicking  
+
+#### Clinical Tests  
+- **Crank test**  
+- **O’Brien’s test**  
+  - More pain with arm internally rotated than externally rotated  
+  - Replicates compression of humeral head against SLAP lesion  
+  - False positive with ACJ arthritis  
+  - High sensitivity, low specificity  
+
+#### MRI Arthrogram  
+- Usually diagnostic  
+
+#### Diagnostic Arthroscopy  
+- Gold standard  
+
+### Outcomes  
+- Good with appropriate diagnosis, treatment, and rehab  
+- Fixation prone to causing stiffness; only perform if history, examination, and arthroscopic findings fit  
+- Stiffness is especially problematic with concurrent cuff repair  
+
+### Classification  
+
+| Type  | Description | Management |
+|-------|------------|------------|
+| Type 1 | Fraying of superior labrum, intact anchor | Debride |
+| Type 2 | Unstable Biceps Anchor | Re-attach |
+| Type 3 | Bucket handle detachment of superior labrum from intact biceps anchor | Debride |
+| Type 4 | Bucket handle detachment of whole biceps anchor with propagation into LHB tendon | Re-attach +/- LHB tenotomy |
+
+**Additional Types:**  
+- **Type 5** – SLAP with Labral tear – reattach both  
+- **Type 6** – Superior flap tear – debride  
+- **Type 7** – SLAP with capsular tear – fix and reattach  
+
+---
+
+## Spinoglenoid Notch Cyst  
+
+### Aetiology  
+- In association with a SLAP tear  
+- Synovial fluid leaks out via SLAP to form a cyst in the spinoglenoid notch  
+- Causes compression of suprascapular nerve at spinoglenoid notch  
+- Suprascapular nerve has already given off branch to supraspinatus, **only infraspinatus is affected**  
+
+### Clinical Features  
+- Weakness out of proportion to pain  
+- Infraspinatus fossa wasting  
+- External rotation lag sign positive  
+
+### Imaging  
+- **MRI**  
+  - High signal on T2  
+  - SLAP lesion  
+
+### Management  
+- **Surgical if:**  
+  - Nerve compression  
+  - Symptomatic SLAP lesion  
+
+- **Surgery:**  
+  - Decompress cyst  
+  - Repair SLAP (often repair alone suffices as cyst will resorb)  
+
+### Complications  
+- Recurrence – rare if SLAP repaired  
+- Suprascapular nerve injury  
+
+---
+
+## Internal Impingement  
+
+### Aetiology  
+- Posterior RTC is impinged against posterior superior aspect of glenoid  
+- Due to:  
+  1. Throwing sports – stretch anterior & tighten posterior capsule  
+  2. Micro anterior instability  
+  3. Posterior capsular tightness  
+
+### Clinical Findings  
+- Pain during the activity at the late cock back phase  
+- Pain on abduction & external rotation of the arm  
+
+### XR Features  
+- May see extra-articular calcification behind posterior superior glenoid (**Bennett Lesion**)  
+
+### MR Features  
+- Articular surface RCT fraying  
+
+### Arthroscopy  
+1. Hypertrophy of posterior labrum  
+2. Peel back of labrum  
+3. Chondral damage  
+4. Articular side cuff tear  
+
+### Management  
+- **Mainstay is non-operative**  
+  - Sleeper stretches for posterior capsule  
+  - RTC strengthening to minimize anterior stability  
+
+- **Surgical – if non-operative fails**  
+  - Debride and repair any structures at posterior-superior glenoid  
+  - Address cuff tear:  
+    - Debride if <50% thickness  
+    - >50% perform transtendinous in situ repair without takedown  
+
+---
+
+## Biceps Tendon Pathology  
+
+### Tendinitis/Tendinosis  
+- Almost never in isolation  
+- Usually in association with RTC tear or bicipital groove stenosis  
+  - Subscapularis  
+  - Leading edge supraspinatus  
+- Likely degenerative pathology  
+
+### Diagnosis  
+- Pain over anterior shoulder  
+- Activity related  
+- **Tests:**  
+  - Speed’s  
+  - Yergason’s  
+
+- **MRI:**  
+  - Fluid in bicipital groove  
+
+### Management  
+
+#### Non-Operative  
+- Activity modification, analgesia, physiotherapy  
+- Injection into LHB sheath  
+
+#### Operative  
+- Debridement of tendon and tendon sheath  
+- Surgical decompression of stenotic sheath  
+- **Tenodesis**  
+
+---
+
+## Proximal Biceps Rupture  
+- Usually preceded by shoulder symptoms  
+- Snap/pop  
+- Extensive bruising  
+- Popeye sign  
+- Rarely needs any treatment at all  
+
+---
+
+## Biceps Tendon Subluxation  
+
+### Aetiology  
+- Strongly associated with subscapularis tear  
+- May also be due to CHL tear or transverse humeral ligament tear  
+- Subluxates into intra-articular space normally  
+- May occur secondary to GT or LT fracture  
+
+### Clinical Features  
+- Popping sound & sensation on external rotation, abduction of arm  
+- Patient points to area and can relocate tendon with rotation  
+- Painful – tendon inflammation  
+- Weakness of subscapularis  
+
+### Imaging  
+- **MRI or Dynamic USS**  
+  - Demonstrate LHB outside its groove  
+  - Subscapularis tear  
+  - Fluid in sheath  
+
+### Management  
+
+#### Non-Operative  
+- If possible  
+
+#### Operative  
+- Subscapularis repair  
+- Relocation of tendon  
+- Debridement of tendinotic portion and sheath  
+- **Tenodesis**  
+  - Detach from glenoid and fold back and sew to soft tissues or proximal humerus  
+
+---
+
+## Acromioclavicular Joint Arthritis  
+
+### Aetiology  
+- Common in middle-aged and older people  
+- Associated with:  
+  - Heavy labor, pneumatic tools  
+  - Post-traumatic ACJ injury  
+  - Idiopathic  
+
+### Clinical Features  
+- Specific pain over ACJ  
+- Impingement secondary to bone spurs  
+- **Tests:**  
+  - Cross arm abduction test  
+  - Paxino’s compression test (AP compression of ACJ)  
+
+### Diagnostic/Therapeutic LA/Steroid Injection  
+- 2ml syringe & blue needle into ACJ following plane of joint from XR  
+
+### Imaging  
+- **XR**  
+  - Often shows ACJ pathology (not always symptomatic, beware of other shoulder conditions)  
+- **MRI**  
+  - If doubt over diagnosis  
+  - Screens rest of shoulder for other pathology  
+  - Shows high signal in ACJ – more likely to be a pain source  
+
+### Management  
+
+#### Non-Operative  
+- Activity modification, analgesia  
+- Injection – diagnostic and therapeutic  
+
+#### Surgical  
+- **Arthroscopic:**  
+  - Anterior working portal opposite ACJ  
+  - Lateral viewing portal  
+  - Excise bone on either side of joint (more from clavicle than acromion)  
+  - Leave superior capsule intact – main stabilizer  
+  - Ensure removal of all impinging bone posteriorly (main cause of procedure failure)  
+
+- **Open:**  
+  - Useful if angle of ACJ difficult to resect arthroscopically  
+  - Results equal if not better than arthroscopic  
+  - Slightly longer recovery  
+  - Can be painful for several weeks  
+  - Raise full-thickness capsular flaps to allow good repair  
+  - Excise distal clavicle mainly  
+  - Ensure posterior impinging bone all removed  
+
+---
+
+## Distal Clavicle Osteolysis  
+
+### Aetiology  
+- Weight lifters  
+- Overhead throwers  
+- Post-traumatic distal clavicle fracture or ACJ injury  
+
+### Clinical Presentation  
+- Pain with overhead activities  
+- Positive signs as for ACJ OA  
+
+### Management  
+- **Distal clavicle resection**  
+- **Stabilize distal clavicle if elevated:**  
+  - Weaver Dunn  
+  - Surgilig fixation  

@@ -1,0 +1,238 @@
+---
+title: "Miscellaneous Conditions"
+format: html
+editor: visual
+---
+
+## Os Acromiale
+
+### Definition
+- Non-union of one of the acromion ossification centres  
+
+### Aetiology
+- Acromion arises from 4 separate ossification centres  
+  - From anterior to posterior can be remembered as **PASTA**  
+  - Normally fuse between 18 & 25 years old  
+1. Preacromium  
+2. Mesoacromium  
+3. MetaAcromium  
+4. Basiacromium (at base)  
+
+- **Type of Os Acromiale**  
+  - Described by ossification centre anterior to non-union  
+  - **Mesoacromium** is the most common  
+    - Failure of fusion between meso & metaacromium  
+
+### Clinical Features
+- Most asymptomatic – incidental findings  
+- May cause:  
+  - Impingement  
+  - Cuff weakness  
+  - Pain  
+
+### Diagnosis
+#### History
+- Usually insidious and atraumatic  
+
+#### Examination
+- Pain over acromion  
+
+#### XR
+- Axillary lateral view  
+- Screen other side – 60% incidence of bilaterality  
+
+#### MRI
+- Is non-union ‘active’ – high signal, effusion/fluid etc.  
+- Other pathology  
+
+### Management
+#### Non-surgical
+- Pain relief  
+- Injection – diagnostic +/- therapeutic  
+
+#### Surgical
+**Fragment excision**  
+- Poor results unless for small irreparable os acromiale  
+
+**ORIF of Fragment & Bone Grafting**  
+- With cannulated screws or tension band wire  
+- Bone grafting of non-union site  
+
+**Arthroscopic treatment**  
+- ASAD  
+- Treat other pathology  
+- Excision – for small unstable fragments  
+
+### Outcomes
+- Best if proven to be symptomatic and treated with ORIF & bone grafting  
+
+---
+
+## Scapula Winging
+
+### Definition
+- Abnormal posture and motion of the scapula  
+- Causes pain and dysfunction due to altered kinematics & power  
+
+### Aetiology
+#### Primary
+- Neurologic deficit of one of the three primary scapula stabilisers  
+  - **(SA, Trapezius, RMa & RMi)**  
+- Uncommon  
+
+#### Secondary
+- Due to other shoulder pathology  
+  - GHJ, Bursal, Cuff, osteochondroma, etc.  
+- More common  
+
+### Pathoanatomy
+
+#### Scapula
+- Largest bone of shoulder girdle  
+- Covers **2nd – 7th ribs**  
+- Inferior, lateral, and superior angles  
+- Lies **30° anteriorly rotated** & **10° flexed** at rest  
+- Gives attachment to **17 muscles**  
+  - Scapulothoracic, Scapulohumeral, Rotator cuff muscles  
+
+#### Scapulothoracic Stability
+- Muscle attachments  
+- ACJ & Coracoclavicular ligaments  
+- Allows huge range of movement with little constraint  
+- Movements of scapula  
+- GHJ: ST motion **2:1** during shoulder abduction  
+  - Scapula moves glenoid & acromion to prevent impingement  
+  - Facilitates large ROM  
+- **Elevation:** Trapezius, Levator Scapulae  
+- **Protraction:** Serratus Anterior, Pec Major & Minor  
+- **Retraction:** Rhomboids  
+
+### Serratus Anterior
+- Large flat muscle  
+- Origin **first 9 ribs**  
+- 3 separate groups of fibres – upper, middle, lower  
+- Inserts on **medial border scapula**  
+- **Contraction = protraction of scapula**  
+
+#### Nerve Supply
+- **Long Thoracic Nerve**  
+  - C5 & C6 contribution early → supplies **upper fibres**  
+  - C7 contribution below middle scalene → supplies **middle & lower fibres**  
+  - Courses under clavicle & 1st rib; then on chest wall in mid axillary line  
+  - Length of course is **20 cm** and superficial throughout  
+  - **Vulnerable to injury**  
+  - Usually **blunt or stretch injury**  
+  - May be from **C5-7 root problem**  
+  - **Chest drain insertion**  
+  - **Palsy = Medial Winging**  
+  - **Most common cause of primary winging**  
+
+---
+
+### Trapezius
+- Superficial muscle  
+- Origin: **Occipital protuberance, Ligamentum nuchae & spinous processes of all cervical & thoracic vertebrae**  
+- Attaches to **superior and medial border scapula**  
+- **Elevates and tilts scapula medially**  
+
+#### Nerve Supply
+- **Spinal Accessory Nerve (Cranial Nerve XI)**  
+  - Only cranial nerve to exit and re-enter skull  
+  - Enters **Posterior triangle** under SCM upper 1/3 & mid 1/3 border  
+  - **Superficial and vulnerable to injury**  
+  - Usually **penetrating iatrogenic injury**  
+  - **Palsy = Lateral Winging**  
+
+---
+
+### Rhomboids
+- **Minor** is superior to **major**  
+
+#### **Minor**
+- Origin: **C7 & T1 spinous processes**  
+- Inserts on **medial border at level of scapula spine**  
+
+#### **Major**
+- Origin: **T2-T5 spinous processes**  
+- Inserts on **medial border down to inferior angle**  
+
+#### **Innervation**
+- **Dorsal Scapular Nerve**  
+  - Pre-clavicular branch from **C5 nerve root**  
+  - **Most commonly a neuropraxia**  
+  - Entrapment under **hypertrophic middle scalene muscle**  
+
+---
+
+### Causes
+#### Primary Neurologic
+- Entrapment, stretch, sharp trauma as above  
+- **Brachial Neuritis (Parsonage-Turner Syndrome)**  
+- **Guillain-Barré Syndrome**  
+
+#### Facioscapulohumeral Dystrophy
+- **Autosomal Dominant**  
+- Abnormal **face**  
+- Weak **periscapular muscles**  
+- **Relatively normal cuff and deltoid**  
+- Causes **severe bilateral winging**  
+- Treatment: **Non-operative or scapulothoracic fusion**  
+
+#### Secondary Causes
+- **GHJ, Cuff, Bursa impingement**  
+- **Osteochondroma – snapping scapula**  
+- **Scapulothoracic bursitis**  
+  - Due to **periscapular muscle fatigue** caused by abnormal compensatory scapula motion for other shoulder pathology  
+  - **Deranged muscle firing patterns**  
+
+---
+
+### Diagnosis
+#### History
+- Pain, dysfunction, ache, recent virus, trauma, other problems  
+- Pain in **back when sitting against chair**  
+- Winging causes **shoulder weakness and dysfunction**  
+
+#### Examination
+- **Test muscles**  
+- **Serratus Anterior**  
+  - **Press-ups against wall** – can’t do or fatigues quickly  
+  - **Medial winging**  
+- **Trapezius**  
+  - **Shrug shoulders**  
+  - **Lateral Winging**  
+- **Rhomboids**  
+  - **Hands on hips – squeeze elbows behind back**  
+  - **Lateral winging - milder**  
+- Look for **secondary causes**  
+- Rule out **Facioscapulohumeral dystrophy**  
+
+#### Investigation
+- **NCS & EMG** if neurologic problem suspected  
+- **Plain XR**  
+- **MRI**  
+  - Screening for other pathology  
+
+---
+
+### Management
+#### Non-operative
+- **Primary usually resolves over 18 months**  
+- **Appropriate treatment for secondary causes**  
+- **Physio**  
+- **Periscapular muscle strengthening**  
+
+#### Surgical
+- If **winging is symptomatic and interfering with ADLs or sport**  
+- **Serratus Anterior Palsy**  
+  - **Pec Major Sternal Head Transfer**  
+- **Trapezius Palsy**  
+  - **Eden-Lange Procedure**  
+  - **Move Levator Scapulae & Rhomboids to where Trapezius inserts**  
+- **Rhomboid Palsy**  
+  - Winging **mild & doesn’t usually need treatment**  
+
+#### Scapulothoracic Fusion
+- For **failed surgical transfer**  
+- **Facioscapulohumeral Dystrophy**  
+- **Medial & Lateral Scapula Winging**  

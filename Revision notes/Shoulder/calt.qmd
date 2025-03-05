@@ -1,0 +1,80 @@
+---
+title: "Calcific Tendonitis"
+format: html
+editor: visual
+---
+
+- Multifocal cell-mediated calcification of the rotator cuff followed by spontaneous phagocytic resorption
+
+## Epidemiology
+- Common
+- Men around 40 years typically
+
+## Aetiology
+- Unknown for sure
+- Reactive (favoured) or degenerative pathologies suggested
+- **3 Phases**  
+  1. **Pre-Calcific**
+  2. **Calcific**
+     - Formative
+     - Resorptive
+  3. **Post-Calcific**
+- Almost always in **Supraspinatus tendon**
+- **1.5 cm from cuff insertion**
+- Calcium **never in contact with bone**
+- May cause impingement if large
+
+---
+
+## **Pre-Calcific Phase**
+- Site of calcification in tendon undergoes fibrocartilaginous metaplasia
+- **Pain-free**
+- **No XR features**
+
+---
+
+## **Calcific Phase**
+### **Formative**
+- **Calcium deposition occurs within the tendon**
+- Hard & Chalk-like at this stage
+- **Mild or no pain**
+- **Homogeneous on X-ray**
+
+### **Resorptive**
+- **Phagocytic resorption spontaneously begins**
+- **Very painful**
+- **Toothpaste-like consistency**
+- **Heterogeneous or fragmented on X-ray**
+
+---
+
+## **Post-Calcific Phase**
+- Type 3 collagen slowly replaced by normal Type 1 collagen
+- **Pain subsides**
+- **Function returns**
+- **X-ray calcification becomes difficult to see**
+
+---
+
+## **Diagnosis**
+- History and X-ray typical
+- Cuff power intact but difficult to assess due to pain
+
+---
+
+## **Management**
+### **Non-Operative** *(preferred as it will resolve)*
+- **Injection for impingement**, NSAIDs, Physiotherapy
+
+### **Operative**
+- **Indications**
+  - Debilitating pain
+  - Prolonged course
+  - Impingement
+
+- **Techniques**
+  - **USS-guided needling**
+  - **ECSWT** *(some evidence but not high quality)*
+  - **Arthroscopic needling**
+  - **Cuff repair is almost never required after needling and lavage**
+  - **Open excision**

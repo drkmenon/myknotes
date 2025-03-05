@@ -1,0 +1,130 @@
+---
+title: "Rotator Cuff Tear Arthropathy"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- Mean age 69 years
+- Female’s 3:1 males
+- Associated with Rheumatoid
+
+## Aetiology
+- Massive rotator cuff tear results in loss of fulcrum
+  - Massive tear is generally 3-tendon involvement
+- Usually SS, IS, TM with SSc sparing
+- Humeral head migrates superiorly because of more vertical deltoid vector
+- Coracoacromial arch forms a new more supero-anterior fulcrum
+- CAL is generally last restraint to antero-superior escape
+- Pain results from:
+  - LHB inflammation and impingement
+  - Acromial erosion
+  - Superior glenoid erosion
+- Not all patients with massive cuff tears develop symptomatic CTA
+  - Estimated 5% with symptomatic massive cuff tear develop CTA
+  - Therefore majority do not develop this problem
+
+## Clinical Diagnosis
+
+### History
+- Pain
+- Pseudoparalysis – pain & inability to elevate arm at all
+- Swelling
+  - Fluid formation and large effusion is a common feature
+
+### Examination
+- Cuff weakness
+- Hornblower sign (TM)
+- External Rotation lag sign (IS)
+- Must assess deltoid function
+- Muscle wasting
+
+## Imaging
+
+### XR Features
+- Reduced Acromio-humeral distance (<7mm usually pathologic)
+- Acetabularisation of acromium
+- Femoralisation of humeral head – rounding off of GT
+- Sclerosis of acromium – snow cap sign
+- Glenohumeral degeneration – especially posterior superior
+
+### MRI Scan
+- Not usually necessary to make diagnosis
+
+### CT Scan
+- If there is a doubt regarding glenoid bone stock
+- Medial erosion to coracoid is not usually a feature of CTA
+
+## Management
+
+### Non-Operative
+- Analgesia
+- Activity limitation
+- Physiotherapy
+  - Concentrate on what cuff is intact
+  - Subscapularis for rotational control of humeral head
+  - Anterior deltoid strengthening
+  - Anterior deltoid centres humeral head and helps with forward elevation
+- Only has a role in the very low demand poor surgical candidate
+
+### Operative
+
+#### Arthroscopic Debridement
+- May provide some pain relief
+- Use of electrocautery may denervate soft tissues in subacromial space
+- LHB tenotomy
+- Tuberoplasty of GT – rounding it off
+- No acromioplasty should be performed
+- Strictly avoid elevating or debriding CAL
+  - Last restraint to anterior-Superior escape
+- Will not improve function
+- Improves but does not solves pain
+
+#### Hemiarthroplasty
+- Either stemmed or resurfacing with an extended head
+- Principle is to remove pain generators by creating bone on metal articulation
+- Using a large head creates some articulation with the glenoid
+- A viable option if forward elevation is retained (>60 degrees)
+  - i.e. no pseudoparalysis
+- Problems
+  - Pain
+  - Acromial erosion continues
+  - Glenoid erosion continues
+  - Poor function
+  - Continued superior migration
+  - No fulcrum restored
+  - Anterior-superior escape once CAL becomes deficient
+
+#### Reverse Geometry Shoulder Arthroplasty (RSA)
+- Indications
+  - Pseudoparalysis (<60 degrees forward elevation)
+  - Elderly Patient
+  - Low demand patient
+  - Failed cuff repair
+  - Failed previous arthroplasty
+  - Unreconstructable fracture with cuff deficit
+- Design Principles
+  - Moves centre of rotation medially and inferiorly
+  - Restores fulcrum
+  - Tensions deltoid
+  - Better results with intact Subscapularis – rotational control
+    - Can be combined with Lat Dorsi Transfer if SSc deficient
+- Prerequisites
+  - Functional Deltoid
+  - Adequate glenoid bone stock for Glenosphere implantation
+  - Older Patient
+  - Lower demand patient
+- Complications
+  - In general are higher than other forms of shoulder arthroplasty
+  - Likely due to learning curve
+    - Infection
+    - Inferior Scapula Notching
+    - Glenoid Loosening – main cause of revision
+    - Fracture – acromial or humeral
+    - Nerve Injury – extensive inferior exposure required
+- Outcomes
+  - Better pain relief and function than any other operation for CTA
+  - But,
+  - Higher complication rate
+  - Bigger surgery
+  - No good bail out operation

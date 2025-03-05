@@ -1,0 +1,49 @@
+---
+title: "Shoulder Imaging"
+format: html
+editor: visual
+---
+
+## True AP View
+- Beam in plane of scapula – 45° to normal AP view
+- Good for GH arthritis early changes
+
+## Axillary Lateral
+- Arm abducted to 90°, beam in cranial direction through axilla
+- Best for AP subluxation/dislocation
+
+## Trauma Axillary Lateral
+- Same view but with arm 20° abducted
+- Almost as good quality
+
+## Velpeau Axillary
+- Axillary lateral with arm in sling
+- Patient leans back onto XR table
+- Beam directed from superior to inferior – slightly less quality
+
+## Transscapular Lateral / Scapular Y View
+- Beam in plane of scapula spine
+
+## Supraspinatus Outlet View
+- Similar to transscapular
+- Beam directed in line with scapula spine with a 5-10° caudal tilt
+- Shows acromial morphology best
+
+## West Point View
+- Patient prone with arm abducted 90°, hanging over edge of bed
+- Beam 25° caudal and medial
+- Best for glenoid rim fractures
+
+## Stryker Notch View
+- Patient supine with hand on head
+- AP X-ray with beam 10° cephalad
+- Images posterior superior aspect of humeral head best – Hill Sachs
+
+## Zanca View
+- Routine AP with caudal tilt of 10°
+- For ACJ and distal clavicle pathology
+
+## Serendipity View
+- Patient supine
+- Beam 45° cephalad
+- Best for SCJ displacement
