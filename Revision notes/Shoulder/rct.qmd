@@ -1,0 +1,213 @@
+---
+title: "Rotator Cuff Tears"
+format: html
+editor: visual
+---
+
+## Rotator Cuff Mechanics
+
+### Supraspinatus
+- Lies in plane of scapula
+- Initiator of abduction but also fires throughout abduction
+
+### Infraspinatus & Teres Minor
+- External rotators
+- Infra acts mainly when arm in neutral
+- Teres when arm in ER and Abduction
+
+### Subscapularis
+- 50% of cuffs total power
+- Superior 60% tendinous, inferior 40% muscular
+- Passive restraint in neutral but not when arm abducted
+
+### Deltoid
+- Elevates shoulder in FF and Abd
+- Anterior, middle and posterior parts separated by raphe
+
+## Force Couples
+- SS & deltoid create a medial force vector to press head against glenoid
+- IF/TM & SSc are 2nd force couple keeping head centred in AP plane
+- Disruption of these couples results in altered cuff mechanics
+
+## Pathoanatomy
+
+### Cuff Ultrastructure
+- 5 Layer structure
+  - Layer 2 is the main cuff tendinous portion
+  - Layer 4 is the rotator cable
+    - Thick bands of collagen running perpendicular to the line of the cuff tendons
+    - The cable distributes the forces the cuff tendons exert unifying them
+    - This is why despite a tear the shoulder can still be functional
+  - Layer 5 is the deepest layer analogous with the capsule
+
+### Collagen content
+- Musculotendinous part - type 1 collagen
+- At the footprint - type 2 collagen – fibrocartilaginous cuff
+- When tears occur type 3 collagen increases (reparative type collagen)
+
+### Vascularity
+- Cuff blood supply
+  - Ascending branch anterior circumflex
+  - Posterior circumflex humeral
+  - Acromial branch of thoracohumeral
+  - Suprascapular artery
+- Critical zone of the SS is 8-10mm from the insertion
+  - It is the area where most tears occur
+  - Previously thought to be a hypovascular zone
+  - Actually may be hypervascular (neo-vascularisation)
+
+## Cuff Tear Aetiology
+
+### Intrinsic
+- Related to critical zone vascularity
+- Age related degeneration:
+  - Decreased proteoglycan & water content & altered collagen type
+
+### Extrinsic
+- Mechanical problems contributing to cuff attrition:
+  - Acromial Morphology (type 2/3 acromium – Bigliani)
+  - Traction spurs in CAL/ACJ
+  - Internal Impingement (PS cuff against PS glenoid)
+  - Varus malunion – change in resting length of cuff
+  - Trapezius Palsy – greater GH ROM required to compensate for scapula weakness
+
+## Epidemiology
+- 50% 80 year olds have an asymptomatic cuff tear
+- Partial tears 50% more common
+- Cuff tears progress over time in 50%
+
+## Mechanism of Cuff Tear
+- Traumatic if <40 years
+- Likely atraumatic if >60 years
+- Likely to be overlap – some trauma in a susceptible tendon
+
+## Clinical Features
+- Night pain – loss of gravity allows cuff impingement
+- Functional deficit – overhead activities – reaching
+
+### Examination
+- Impingement
+- Restricted ROM
+- Pain
+- Passive vs active ROM
+
+### Cuff Power
+- Internal Rotation lag test
+  - Maximally ER arm
+  - If slowly moves back into IR passively indicates Infra weakness
+- Hornblower’s sign
+  - Maximally ER and Abduct to 90 deg
+  - If unable to hold ER indicates mainly Teres minor weakness
+- Belly press – tests lower fibres sub scap more
+- Lift off or pull of shoulder test upper fibres more
+
+## Imaging
+
+### XR
+- GHJ degeneration
+- Superior migration (narrowed acromiohumeral disance – normal = >7mm)
+- Cystic, sclerotic and flattening of GT footbrint area
+
+### Ultrasound
+- Non-invasive
+- Very accurate
+- Allows dynamic screening of cuff
+- Operator dependent
+
+### MRI – preferably with arthogram
+- Identifies partial tears
+- Bursal or Articular side
+- Cuff retraction (past glenoid edge is bad sign)
+- Fatty infiltration
+- Muscle bulk – look at how much SS fills SS fossa (<50% bad sign)
+
+## Classification of Cuff Tears
+
+### Time
+- Acute = < 3months old, Chronic = >3months old
+- Acute on chronic = progression in size or symptoms of a previous tear
+
+### Mechanistic
+- Traumatic or insidious
+
+### Size
+- According to Neer <1cm = small tear, >5cm = massive tear
+- Massive tears tend to include at least 3 of the tendons: usually SS, IS, TM
+
+### Partial or Full Thickness
+- Location (for partial thickness)
+- Articular or bursal (3:1)
+
+## Management
+- Need to treat the patient not the tear
+- Patient demands and current functional state
+
+### Non-operative
+- PT for Anterior deltoid and periscapular strengthening
+
+### Corticosteroid Injection
+- No proven long term benefit
+- May reduce acute inflammation and allow restoration of ROM
+- Risk is further tendon degeneration & infection
+
+### Operative
+- Acute repair
+  - Acute traumatic FT tear
+  - Young active person with FT tear
+  - Sudden weakness or loss of function with a cuff tear at any age
+- Pre-requisites for cuff repair
+  - Repairable tendon
+  - Tear not too big
+  - Tear mobile and not retracted
+  - Biology amenable to healing – no fatty infiltration, non-smoker
+
+## Repair Techniques
+- Open, mini open or arthroscopic
+- Arthroscopic has faster recovery and less pain but more failures
+  - Especially in larger tears. Equal in smaller tears.
+  - Open allows repair of any tear size
+- Gold standard results
+  - Risk of deltoid pull off & more painful – longer rehab
+- Mini-open
+  - Allows most tears to be addressed
+  - Deltoid split – best of both?
+
+## Partial Thickness Tears
+- Guidelines are to repair tears >50% thickness
+- Either trans tendinous repair in situ or
+- Complete tear and repair as for FT tear
+- Controvertial and no evidence either way
+- Main thing to consider on PT tears is if the cuff is balanced & functional
+- Clinical judgement allows one to decide if it can be treated non-operatively
+- Surgical treatment may be advocated in order to pre-empt progression
+
+## Double Row Repairs
+- Coming into vogue
+- Mechanically stronger in the lab
+- Dissipate tension of repair across wider area – create larger footprint
+- May cause ischaemia to tendon
+
+## Management of Massive Irreparable Tears
+
+### Elderly Low Demand
+- Tuberoplasty, cuff debridement and ASAD
+- Inferior results but reasonable pain relief and patient satisfaction at 5 years
+
+### Elderly Active Patient
+- Reverse Geometry replacement
+- No real bail out option if complications
+
+### Young Active Patient
+- Tendon Transfer
+- Latissmus Dorsi for Posterior Superior tears (needs intact Subscap)
+- Can also use Teres Major transfer instead
+- Pec Major for Subscap tears that are irreparable or Anterior-inferior tear
+
+## Complications
+- Infection
+  - Rare
+  - Typical bacteria is Propionibactrium acnes
+- Recurrent tear or failure of repair to heal (ore often)
+- Anchor pull out
+- Stiffness
+- Deltoid failure (open technique)
