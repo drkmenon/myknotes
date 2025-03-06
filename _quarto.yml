@@ -111,6 +111,7 @@ format:
     toc: true
     responsive: true
     freeze: true
+    include-in-header: _metadata.html
     grid:
       sidebar-width: 250px
       body-width: 900px
