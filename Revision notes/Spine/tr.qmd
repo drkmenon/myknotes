@@ -1,0 +1,180 @@
+---
+title: "Tumours of the Spine"
+format: html
+editor: visual
+---
+
+### Osteoid Osteoma
+- Common in spine posterior elements
+- May cause scoliosis (lesion lies at apex of convexity of curve)
+- Children often affected
+- If no scoliosis, treat with NSAIDs
+- If scoliosis present, resect early – curve resolves over 18 months
+- RF ablation under CT or XR guidance – risk of neural injury in spine
+
+### Osteoblastoma
+- Older patients - Posterior elements
+- Painful
+- 50% have neurologic involvement
+- Treatment: Nothing or Resection & posterior fusion
+
+### Aneurysmal Bone Cyst
+- 2nd decade
+- Posterior elements but can spread to anterior elements
+- Beware, may be present within a more sinister lesion
+- Treatment: Excision or radiotherapy
+- Fusion if extensive excision required
+- Risks: Bleeding & recurrence
+
+### Haemangioma
+- Usually asymptomatic
+- Causes pain if fractured
+- 'Jailhouse' vertebrae appearance
+- Rarely causes neurologic compromise
+- Radiotherapy can control pain after fracture
+- Anterior excision & fusion if chronic pain or neurology
+- Risk: Severe bleeding
+
+### Eosinophilic Granuloma
+- Aka Langerhans cell histiocytosis
+- Hallmark is vertebra plana
+- Children < 10 years
+- Biopsy to confirm diagnosis (EG is ‘great masquerader’)
+- Most are self-limiting
+- Expect 50% reconstitution of vertebral height
+- Radiotherapy if chronic pain
+
+### Giant Cell Tumour
+- Adults >40 years usually
+- Destroys the vertebra in an expansile fashion
+- Needs resection & grafting +/- stabilization of spine
+- Radiotherapy not recommended
+- High recurrence rate
+
+### Multiple Myeloma
+- Osteopenic, lytic vertebrae
+- Multiple lesions possible
+- Can cause fracture and pain
+- Treatment: Radiotherapy and chemotherapy
+- Surgery uncommonly needed, only for neurologic compromise & instability
+
+### Chordoma
+- Axial spine from occipitocervical junction to sacrum
+- Sacrum most common
+- Large mass and intra-abdominal compression effect
+- Treatment: Resection of tumour with Radiotherapy
+- Radiosensitive but difficult to achieve good margins
+- High recurrence rate and nerve sacrifice during resection
+
+### Osteochondroma
+- Usually cervical spine posterior elements
+- Can cause pressure effects
+- Snapping scapula syndrome
+- Treatment: Resection if symptomatic or features of malignant change
+
+### Neurofibroma
+- Present as enlarged intervertebral foramina on lateral imaging
+
+### Ewing’s, Osteosarcoma & Chondrosarcoma
+- Rare in spine
+- If present, prognosis is poor
+- May be metastases from a long bone primary
+- Treatment: Chemotherapy & Radiotherapy
+- Surgical excision may be needed – radical surgery
+
+### Lymphoma
+- Ivory vertebra appearance
+- Needs radiotherapy and chemotherapy
+
+### Fibrous Dysplasia
+- 60% with polyostotic FD will have a spinal lesion
+- Posterior elements
+- Often causes scoliosis
+
+## Metastatic Spinal Disease
+
+### Epidemiology
+- 97% of all spinal tumours are metastatic
+- 3rd most common site of metastases after lung & liver
+- Even more common over 40 years
+
+### Common Sources
+- Lung, Breast, Thyroid, Kidney, Prostate
+- Colon & GI Cancers occur but less common
+
+### Location
+- Thoracic (70%), Lumbar (20%), Cervical (10%)
+
+### Aetiology
+- Spine is highly vascular & has a large surface area
+- Batson’s plexus – valveless system
+- Slow flow through endplates
+
+### Classification
+- **Intradural – arise from the neural elements**
+  - Intramedullary – from the cord
+  - Extra-medullary – from the nerve roots
+- **Extra-Dural – From the bony elements**
+
+### Scoring Systems – Tokuhashi Score (Revised)
+- Estimates patient life expectancy and guides surgical decision-making
+- 86% accuracy in prospective studies
+- High score is better (max 17)
+- 6 criteria:
+  1. General Status
+  2. Neurologic deficit (Frankel – complete, incomplete, normal)
+  3. Visceral metastases
+  4. Extra-spinal bone metastases
+  5. Number of vertebral metastases
+  6. Primary site of tumour
+
+### Diagnosis
+#### History
+- Systemic symptoms
+- Back pain, neurologic deficit
+
+#### Examination
+- Pain on palpation over spine
+- Neurologic deficit
+- Screen for myelopathy & cauda equina
+
+#### Imaging
+**X-ray:**
+- Malignant disease tends to spare the discs (very avascular)
+- Originates in vertebral body then spreads to pedicles
+- 30% involvement till apparent on X-ray
+- Pedicles often first abnormality seen
+
+**MRI:**
+- Malignant tumours dark on T1 & high signal on T2
+- Sensitivity & specificity high
+- Improved further with contrast – differentiates from infection
+- To differentiate from compression fracture:
+  - Look for soft tissue mass
+  - Pedicle involvement – only in tumour
+
+### Management
+**Problems encountered:**
+- Pain
+- Neurologic compromise
+- Instability
+- Disease control
+
+**Options:**
+- Radiotherapy for pain relief & mild neurologic dysfunction
+- Disease control locally
+
+**Radiosensitive metastases:**
+- **Sensitive:** Prostate, Lymphoma, Breast (70%)
+- **Resistant:** Renal, Thyroid, Lung, Melanoma, GI tumours
+
+**Surgical Decompression:**
+- Goals of surgery need to be clear (Curative vs. Palliative)
+- Metastatic disease is usually an anterior process
+  - Anterior wide excision, decompression & stabilization preferred
+  - Add posterior stabilization if multiple levels treated or lesion is in the posterior elements (rare)
+
+**Vertebroplasty:**
+- Good pain relief in metastases
+- Common in breast cancer & myeloma
+- Not advised if instability or neurologic compromise present

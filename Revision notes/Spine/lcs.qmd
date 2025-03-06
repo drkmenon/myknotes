@@ -1,0 +1,113 @@
+---
+title: "Lumbar Spinal Stenosis"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **Most common cause of spine surgery >60 years**
+- **Men > Women**
+- **Narrower canal between L3-L5**
+
+## Aetiology
+- **Acquired – common**:
+  - **Degenerative** – most common
+  - **Paget’s disease**
+  - **Post-traumatic**
+- **Congenital – uncommon**:
+  - **Acromegaly**
+  - **Achondroplasia**
+
+## Pathophysiology
+- **Mechanical compression** of neural elements within spine
+- **Intraneural oedema**
+- **Release of pain mediators** e.g., substance P
+
+## Anatomic Factors
+- **Contributing structures**:
+  - **Trefoil-shaped canal**
+  - **Congenitally narrow canal**
+  - **Bony changes**:
+    - Facet joint hypertrophy
+    - Osteophyte formation
+    - Subluxation/degenerative deformity
+  - **Soft tissue**:
+    - Ligamentum flavum hypertrophy
+    - Disc herniation
+    - Facet capsule hypertrophy
+
+## Location of Stenosis
+- **Central or lateral** (lateral recess, foraminal, extra-foraminal)
+
+### Central (common)
+- Within canal – anterior to flavum, posterior to PLL & medial to facet joint
+- **Ligamentum flavum** is main offender
+
+### Lateral Recess (less common)
+- Just before the foramina – medial to pedicle but lateral to thecal sac
+
+### Foraminal (less common)
+- Within the exit foramina – between pedicles & in front of facet joint
+- **Facet joint hypertrophy** is main offender
+- **Normal foraminal height** = 25 x 9 mm
+
+### Extra-foraminal (rare)
+- Impingement of L5 root between sacral ala and L5 TP
+- Related to scoliosis/spondylolisthesis
+- Diagnosed using 25-degree caudal CT/MRI (Ferguson view)
+
+---
+
+## Diagnosis
+
+### History – Typical
+- **Pain** in buttocks and thighs radiating distally
+- **Non-dermatomal**
+- **Proximal to distal** in onset
+- **Numbness**
+- **Rarely, weakness or bladder disturbance** (late)
+- **Related to standing or walking**
+- **Relieved by sitting or lying down**
+- **Easier with spine flexed**:
+  - In extension, ligamentum flavum buckles into canal
+  - Shopping trolley, uphill & up stairs easier
+
+### Examination
+- **Usually normal** including neurology & neural tension tests
+- **Extension test positive**
+- **Treadmill test** 90% sensitive
+- **Bicycle test**
+- **Always rule out other causes**:
+  - PVD, malignancy, disc herniation
+
+### Imaging
+- **XR** as baseline
+- **MRI/CT myelogram**:
+  - Gold standard
+  - Look carefully for foraminal & lateral recess stenosis
+
+---
+
+## Management
+- **Natural history** is to improve in 30% with time
+- **Steroids, NSAIDs & physio** do not alter natural history
+
+### Surgery
+- **Commonly performed**
+- **Laminectomy with decompression** of flavum and medial aspect facets
+  - Undercutting of facets to decompress lateral recess & foramina
+- **Fusion only needed if**:
+  - Wide decompression over multiple levels
+  - Segmental instability
+  - **Degenerative scoliosis** – in a younger patient
+    - Degenerative scoliosis/spondylolisthesis in elderly tends not to be progressive even after surgery
+
+### Results
+- **Surgery has better short & medium-term results** than non-operative
+- **Good for pain relief** – may leave numbness
+- **Results decline** as degeneration continues
+
+### Poor Indicators of Outcome
+- Multiple co-morbidities
+- Single-level surgery
+- Long operative time

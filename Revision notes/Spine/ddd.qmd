@@ -1,0 +1,218 @@
+---
+title: "Thoraco-lumbar Disc Disease"
+format: html
+editor: visual
+---
+
+## Disc Herniation
+
+### Epidemiology
+- **Thoracic**:
+  - Rare <1%
+  - Usually caudal levels (T11-12 most common)
+  - Scheuermann’s kyphosis is a risk factor
+  - More likely to cause myelopathy
+  - Men = Women
+- **Lumbar**:
+  - Common
+  - 90% >60 years have MRI disc changes
+  - 40% <40 years have MRI changes
+  - 5% actually become symptomatic
+  - Men 3:1 Women
+  - L4/5 most common, then L5/S1
+  - Risk factors: Smoking; manual work; genetic
+
+### Aetiology
+- **With ageing, disc changes are**:
+  - Increased Keratin Sulphate: Chondroitin Sulphate ratio
+  - Decreased water content
+  - Decreased proteoglycan concentration
+- **MRI features**:
+  - Hypointense on T1 & T2 – dehydrated
+  - Loss of disc height
+- **Types of herniation**:
+  - **Protrusion**: Disc still contained within annulus
+  - **Extrusion**: Disc outside annulus but not free
+  - **Sequestration**: Free disc fragments in canal
+
+### Anatomy of Herniation
+- **Thoracic**:
+  - Tend to be paracentral – rarely far lateral
+- **Lumbar**:
+  - 95% paracentral/posterolateral
+    - Through weakest part of PLL
+    - Affect traversing root
+  - 5% far lateral/foraminal
+    - Affect exiting root
+  - **Axillary herniation**:
+    - May affect both traversing & exiting root
+
+### Diagnosis
+- **Sciatica** is hallmark – usually to below knee
+- Differentiate from referred pain to thigh/buttock (same mesodermal lineage)
+- May be preceded by low back pain (annular tear)
+- History of bending/lifting but not always
+- Pain worse on flexion
+
+### Imaging
+- **XR**:
+  - May show degenerative disease, spondylolisthesis etc.
+- **MRI**:
+  - Gold standard for assessing disc herniation – high false positive rate
+  - Findings must correlate to clinical features
+  - **Contrast (gadolinium MRI)**:
+    - Useful for recurrent disc herniation or post-surgery herniation
+    - Scar tissue is vascular – high signal
+    - Disc is dehydrated & avascular - hypointense on all sequences
+
+### Examination
+- **Nerve root irritation tests**:
+  - SLR, Bowstring, Lhermitte’s
+  - **Lesague sign**: Contralateral SLR is most specific test
+- **Rule out cauda equina**
+- **Screen for red flags** to rule out tumour/infection
+
+### Management
+- **Non-operative**:
+  - Natural history is good
+  - 90% resolve within 3/12 – disc is resorbed
+- **Physio**:
+  - Stay mobile; extension exercises; aerobic exercise; reassurance & support
+- **Epidural Steroid Injection**:
+  - Foraminal root injection
+  - Caudal
+  - Good sustained relief when they work
+  - Enables earlier return to function
+  - Only effective in 60% though
+
+### Surgery
+- **Best results before 6/12** – do not leave indefinitely
+- **Indicated for**:
+  - Failure of non-operative Rx
+  - Intractable pain
+  - Progressive motor weakness – urgent
+  - Cauda Equina – emergency
+
+#### Technique
+- **Thoracic Disc**:
+  - Posterior surgery relatively contraindicated – high rate neurologic injury
+  - Options:
+    - Anterior transthoracic approach
+    - Anterior via costotransversectomy - easier
+- **Lumbar Disc**:
+  - Open partial laminectomy & discectomy is gold standard
+  - Foraminal discs may be easier via an intertransverse approach (Wiltse)
+  - Microdiscectomy & endoscopic no proven long-term benefit
+
+#### Complications – rare but potentially devastating
+- **Recurrent or continued symptoms**:
+  - Most commonly because foraminal root impingement underappreciated
+- **Nerve Root injury (<1% in lumbar spine)**
+- **Epidural Haematoma**
+- **Epidural abscess**
+- **Dural Tear**
+- **CSF leak/fistula**
+- **Haemorrhage**:
+  - Anterior perforation through disc into great vessels
+  - Pack, close, turn over & stop bleeding via transabdominal approach
+  - 50% mortality
+
+---
+
+## Degenerative Disc Disease & Discogenic Back Pain
+
+### Epidemiology
+- **80% will have back pain during their lives**
+- **30-50 year olds** most common for acute back pain
+
+### Pain Generators
+1. Disc
+2. Facet joints
+3. Muscular pain
+4. Instability
+5. Spondylolysis & Spondylolisthesis
+6. Nerve root impingement
+7. Stenosis
+
+### Disc Generated Pain
+- **Normal Ageing Degeneration**:
+  - Proteoglycan content decreases
+  - Water content decreases
+  - Keratin Sulphate increases compared to chondroitin sulphate
+  - Disc height reduction
+- **End plate microfractures**
+- **Disc Herniation**
+- **Altered mechanics & spinal loading**:
+  - Osteophyte formation
+  - Facet joint arthrosis
+  - Segmental Instability
+
+### Modic Changes
+- Represent MRI features seen in the vertebral body & endplates with DDD
+
+| **Type** | **T1** | **T2** | **Relevance** |
+|----------|--------|--------|---------------|
+| Modic 1  | Dark   | Bright | Associated with pain and inflammation; End plate fissuring; Histology – vascular granulation (25%) |
+| Modic 2  | Bright | Bright | Trabecular fissuring; Fatty infiltration of vertebra; Correlates with chronic stable back pain; Most common type (70%) |
+| Modic 3  | Dark   | Dark   | Rare to see; Sclerotic vertebra and end plates |
+
+### Lumbar Segmental Instability
+- **Caused by** degenerative disc disease, facet arthrosis & subluxation
+- **Classic symptom**: Catch & pain going into extension from a flexed posture
+- **Imaging shows** >4mm translation on flexion, extension views
+- **Can be difficult to correlate with symptoms**
+- **Treatment**: Surgical fusion if thought to be cause of pain
+
+### Diagnosis of DDD
+- **Rule out red flag lesions**
+- **Rule out treatable radiculopathy & stenosis**
+- **XR only if pain persists >6 weeks with no red flags**
+
+### Waddell’s Non-organic Signs
+1. No pain on distraction
+2. Vague symptoms & history
+3. Simulation pain – e.g., Axial pressure causes low back pain
+4. Pain on light touch
+5. Non-dermatomal pain
+6. Numbness & pain simultaneously
+7. Hysteria
+
+### MRI
+- Disc height deterioration
+- Loss of signal in disc
+- Facet hypertrophy
+- Subluxation
+- Modic changes
+
+### Management
+- **Non-operative is mainstay**:
+  - **Physiotherapy**:
+    - Aerobic exercise program
+    - Core stability training
+    - Support & education
+    - Multimodal analgesia
+  - **Chiropractic treatment**:
+    - Some evidence this works
+- **Surgery**:
+  - Results are unpredictable
+  - Rule out other diagnoses first
+  - Diagnostic injections pre-surgery are useful
+  - **Best results are in**:
+    - None of Waddell’s signs
+    - Modic type 1 changes
+    - Single level disc disease
+    - Other treatments failed
+
+#### Technique
+- **Arthrodesis – gold standard**:
+  - PLIF, TLIF, Posterior fusion, Anterior fusion
+  - Instrumentation improves fusion rate which improves outcome
+  - No technique shown to be superior
+- **Non-Fusion options**:
+  - **Interspinous distraction devices** – more for stenosis
+  - **Dynamic Stabilisation systems**:
+    - Not validated in literature for chronic low back pain
+  - **Total Disk Arthroplasty**:
+    - Good results for single level disease
+    - Not for multilevel disease or instability
+    - Long-term results and revision issues not known

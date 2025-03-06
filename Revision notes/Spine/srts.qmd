@@ -1,0 +1,40 @@
+---
+title: "Sports-Related Spinal Problems"
+format: html
+editor: visual
+---
+
+## Burner/Stingers
+- **Mechanism**: Head forced away from the stretched shoulder
+- **Pathology**: Transient brachial plexus neuropraxia
+- **Associated with**:
+  - Cervical stenosis
+  - Foraminal stenosis
+  - OPLL (Ossification of the Posterior Longitudinal Ligament)
+
+### Symptoms
+- Electric shock-like intense burning pain in arm & neck
+- Intense
+- Weakness
+- Usually unilateral
+
+### Management
+- Monitor for recovery
+- If recovery is swift, no further investigation is needed
+- Rule out other pathology if persistent with **MRI**
+
+---
+
+## Transient Quadriplegia
+- **Mechanism**: Axial loading or hyperextension injury
+- **Presentation**: May present as paraplegia but often quadriplegia
+- **Recovery**: Recovers over 48 hours
+
+### Associated with
+- **Cervical stenosis** (Torg <0.8; SAC <14mm)
+- Congenital C-spine fusions
+- **C3/4 & C4/5** most commonly affected
+
+### Management
+- Monitor for improvement
+- Investigate with **MRI** if no improvement or worsening of symptoms

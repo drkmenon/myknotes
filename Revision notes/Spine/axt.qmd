@@ -1,0 +1,168 @@
+---
+title: "Axial Cervical Spine Trauma"
+format: html
+editor: visual
+---
+
+## Atlanto-Occipital Dissociation
+
+- **High-energy injury** – RTA
+- **High mortality rate** & incidence of neurologic injury
+
+### Stability of the AO joint
+- Reliant virtually only on ligamentous structures
+  1. Anterior Atlanto-occipital membrane - continuation of ALL
+  2. Posterior Atlanto-occipital membrane – continuation of flavum
+  3. Tectorial membrane - continuation of PLL
+  4. Alar and Apical ligaments from Dens to foramen magnum
+  5. Bony congruity of Occipital condyles & C1 Lateral masses (poor)
+
+### Classification
+- **Type 1**
+  - Anterior displacement of the occipital condyles (most common)
+- **Type 2**
+  - Superior migration of the Occipital condyles
+- **Type 3**
+  - Posterior displacement of occipital condyles (least common)
+
+### Radiographic Assessment
+- Can be very subtle
+- **Powers Ratio**
+  - Basion to Anterior arch : Opisthion to anterior arch
+  - BC:OA
+  - Normal = <1 (higher indicates dissociation)
+- **Harris intervals**
+  - Most sensitive measurement
+  - Basion Dens & Basion Axis Intervals (BDI & BAI)
+  - Both should be <12mm
+
+### Management
+- Definitive treatment is C2-Occipital posterior instrumented fusion
+- HALO can be temporising but not definitive
+- Because instability is due to loss of ligamentous support
+
+## Fractures of the Atlas (C1)
+- Axial loading injury with an element of bending depending on pattern
+- Neurologic injury is rare
+- Problem is late instability with burst fractures involving transverse ligament
+- Fracture fragments move away from cord
+  - **Steels rule of 1/3’s** – at C1 level space available is occupied by:
+    - Odontoid
+    - Cord
+    - CSF (free space) – provides buffer zone for cord displacement in trauma
+
+### Levine Classification
+- A-E (order different in each book!)
+  - **A** Transverse process fracture
+  - **B** Posterior Arch Fracture
+  - **C** Anterior Arch Fracture
+  - **D** Lateral mass fracture
+  - **E** Burst Fracture (Jefferson)
+    - Transverse Ligament intact
+    - Transverse ligament disrupted (very unstable)
+
+### Radiology
+- What is the fracture pattern?
+- Is the transverse ligament disrupted (primary C1/2 stabiliser)
+  - Open mouth combined lateral mass widening of 7mm = TL rupture
+
+### Management
+- Almost all treated in HALO for 8-12 weeks
+- If an associated odontoid fracture – manage - unstablement based on PEG fracture
+- If TL ruptured (widening of 7mm) surgery should be considered:
+  - Lateral mass screws (motion sparing)
+  - C1/2 or C2-Occiput fusion – more reliable
+
+## Isolated Transverse Ligament Disruption
+- Rare usually fatal injury
+- Occurs in >50 year old patients
+- Mechanism is high energy forced flexion
+
+### Radiology
+- Look for bony avulsions around dens
+- Lateral mass widening >7mm combined
+- AD1 >4mm
+
+### Management
+- Bony avulsions can be treated in HALO till union occurs
+- Fusion for pure ligamentous avulsions
+
+## Fractures of the Axis – C2
+- **Traumatic C2-3 Spondylolisthesis (Hangman’s fracture)**
+  - Most are stable
+  - Low rate of neurologic compromise in type 1 & 2, higher in type 3
+  - Risk of vertebral artery injury
+
+### Mechanism
+- Hyperextension & rebound flexion causing some variants
+- Causes a traumatic pars defect
+
+### Hangmans Fracture (Traumatic C2 Spondylolisthesis)
+
+#### Classification (Levine & Edwards)
+- **Type 1**
+  - <3mm displacement, minimal angulation, disc intact
+- **Type 2**
+  - >3mm displacement, minimal angulation, disc intact
+  - Most common type
+- **Type 2a**
+  - Angulation rather than displacement – may look like type 1
+  - Flexion distraction mechanism
+  - Disc may be extruded
+- **Type 3**
+  - Spondylolisthesis with associated facet dislocation
+  - Rare
+  - Hyperextension with rebound flexion
+  - Bilateral facet dislocation occurs first, then hyperextension causes SL
+  - Highest rate of Neurologic compromise
+
+### Management
+- HALO immobilisation enough for types 1 & 2
+- Do not apply traction to type 2a – will risk cord injury & increase displacement
+- Disc may be extruded; Flexion-Distraction injury
+- Reduction & fusion advised for type 3
+
+## Odontoid Fractures
+- Most common injury of the axial spine
+- High correlation with other C-spine injuries
+- Odontoid is an important C1/2 stabiliser
+- Therefore PEG displacement can compromise C1/2 stability
+
+### Mechanism
+- Flexion after a blow to the occiput – fall or RTA
+
+### Classification (Anderson)
+- **Type 1**
+  - Avulsion fractures of the tip – oblique or superior
+  - Apical/alar ligament avulsions
+  - Benign usually but rule out features of AO dissociation
+- **Type 2**
+  - Fracture of the waist – junction between PEG & C2 body
+  - Most common type
+- **Type 2a**
+  - Waist fracture but comminuted
+- **Type 3**
+  - Fracture of PEG extending into bone of C2 +/- into facets
+
+### Management
+- Goal of management in all odontoid fractures is to reduce and maintain anatomic alignment
+- This minimises risk of C1/2 instability and neurologic compromise
+- **Type 1 & 3**
+  - Non-operative in HALO or collar
+  - Fix if irreducible, neurologic compromise or unstable - rare
+- **Type 2 & 2a**
+  - High rate of non-union & late displacement
+  - Blood supply enters from tip & C2 body with watershed area at waist
+  - Risk factors for non-union
+    1. Displaced or angulated fracture (especially posterior angulation)
+    2. Late presentation of fracture
+    3. Elderly patient
+    4. Comminution of fracture
+  - If fracture is reduced or reducible and stable treat in a HALO
+  - Consider treating all elderly patients operatively – HALO problems
+  - Any displaced, irreducible fracture in a young patient treat surgically
+  - Options
+    - Anterior screw placement
+      - Favoured if possible (fx pattern, patient habitus)
+    - Transarticular C3-C2 screws
+    - Posterior fusion

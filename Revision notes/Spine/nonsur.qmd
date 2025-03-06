@@ -1,0 +1,60 @@
+---
+title: "Non-Surgical Diagnostics and Therapy"
+format: html
+editor: visual
+---
+
+## Physiotherapy
+- Programs concentrate on:
+  - **Aerobic exercise** - weight reduction & core strengthening
+  - **Core stability** – transversus abdominis, multifidus, lumbar muscles
+  - **Flexion exercises** – for those with stenotic symptoms
+  - **Extension exercises** – for those with flexion/sitting pain (disc generated)
+  - **Spinal mobilisation** – stretching of joints – release of contracture & synovium
+
+## Chiropractic Care
+- Stretches joints beyond their physiologic range – hear pop
+- Not in those with stenosis or radiculopathy
+
+## Evidence
+- Both have reasonable evidence for acute pain
+- Not of significant benefit in chronic back pain
+
+## Epidural Steroids
+- **Types**:
+  - Translaminar
+  - Transforaminal
+  - Caudal
+- Aim is to decrease inflammation around nerve roots – not for myelopathy
+- May help in stenosis – temporary
+- Diagnostic & therapeutic value
+- Transforaminal shown to be most effective (nerve root injection)
+
+## Facet Joint Injection & Denervation
+- For lumbar back pain where facets are main pain generator
+- No good way of diagnosing this for sure
+- Usually have pain on rotation & extension
+- Rule out other causes of back pain
+- MRI may show facet joint high signal or degeneration
+- Injection with dye to confirm – **dumbbell-shaped contrast** confirmatory
+- RF ablation if injections work
+- Denervates nerve supplying facet (middle branch of dorsal rami)
+
+## Sacroiliac Injections
+- Same principle as facet injections
+- Rule out other spinal pathologies
+- **Faber test** suggests SIJ pain
+
+## Spinal Cord Monitoring
+- Can be useful intra-operatively for high-risk procedures
+
+### Somatosensory Evoked Potentials (SSEPs)
+- Monitor peripheral nerves during surgery (median, ulnar, tibial, peroneal)
+
+### Transcranial Motor Evoked Potentials
+- Monitor corticospinal tracts for motor tract changes
+
+### EMG
+- Dynamic, continuous EMG is the most common method
+- Continuous reading created
+- Can be monitored during key phases e.g. **pedicle screw insertion**

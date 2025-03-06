@@ -1,0 +1,216 @@
+---
+title: "Spondylolysis & Spondylolisthesis"
+format: html
+editor: visual
+---
+
+## Spondylolysis
+- **Traumatic Pars defect** - unilateral
+- **Common cause of pain in children & adolescents**
+- **Fatigue fracture** from repeated hyperextension
+
+### Associated with
+- Ballet dancers
+- Tight hamstrings
+- Boys
+
+### Diagnosis
+- **Lateral XR** picks up 85%
+- **Oblique** picks up 10% more
+- **5% require CT, bone scan, or SPECT** (best)
+
+### Management
+- **Symptomatic relief & activity modification**
+- **Bracing**
+- **Non-union common but asymptomatic**
+- **Surgery rarely indicated**
+
+---
+
+## Spondylolisthesis
+
+### Classification
+#### Type (Wiltse) – **D**ad **I**s **D**own **T**he **P**ub & **I**atrogenic
+- **Type 1**: Dysplastic
+- **Type 2**: Isthmic
+  - **2a**: Pars stress fracture
+  - **2b**: Elongated pars
+  - **2c**: Acute pars fracture
+- **Type 3**: Degenerative
+- **Type 4**: Traumatic
+- **Type 5**: Pathologic
+- **Type 6**: Iatrogenic
+
+#### Grade (Myerding)
+- **Grade 1**: 0-25% slip
+- **Grade 2**: 25-50% slip
+- **Grade 3**: 50-75% slip
+- **Grade 4**: 75-100% slip
+- **Grade 5**: >100% slip (spondyloptosis)
+
+### Radiographic Assessment of SL
+- **Slip angle** – normal = <0
+- **Sacral inclination** – normal = >30°
+  - Alteration in both indicates kyphosis – poor prognostic factor
+- **Pelvic incidence** – increase is related to increased progression
+
+### General Presenting Features
+- Pelvic waddle
+- Heart-shaped bottom
+- Palpable step
+- Mechanical pain
+- Neurologic symptoms
+
+---
+
+## Dysplastic Spondylolisthesis
+- **Not strictly congenital** – develops by age 5
+- **Girls > Boys**
+- **Eskimos**
+
+### Radiographic Features
+- **L5/S1 level**
+- **No pars defect** – intact neural arch
+- **Dome-shaped S1**
+- **Incompetent facet joint**
+  - L5 inferior facet poorly formed, S1 superior facet absent
+- **Trapezoidal L5**
+- **>30% slip is uncommon**
+
+### Clinical Features
+- Patient presents during growth spurt most commonly
+- **Slip usually <30%**
+- **High rate of neurologic compromise** (cauda equina) with >30% slip
+  - Intact neural arch
+
+---
+
+## Isthmic Spondylolisthesis
+- **Most common type** (type 2a is most common, then 2b, then 2c)
+
+### Pathology
+- **Pars interarticularis stress fracture** – repeated hyperextension
+- **Boys > Girls**
+- **Eskimos**
+- **Hyperextension sports**
+
+### Associations
+- Spina bifida
+- Scheuermann’s
+
+### Radiographic Presentation
+- **L5/S1**
+- **Sagittally orientated facets** but not dysplastic
+- **Pars defect**
+- **Usually <25% slip**
+
+### Clinical Features
+- **Uncommon for slip to progress** especially after skeletal maturity
+- **Mechanical back pain**
+- **Tight hamstrings**
+- **Rare to get neurologic deficit**
+  - High-grade slips
+- **L5 exiting root** rather than traversing S1 is affected
+
+### Risk Factors for Progression
+- Girls
+- Younger age at presentation
+- High-grade slip
+- **L4/5 or L3/4 slip**
+  - Iliolumbar ligament stabilises L5/S1
+
+---
+
+## Adult Isthmic Spondylolisthesis
+- **Present in 30’s usually**
+- When an adolescent isthmic SL becomes symptomatic
+- Due to degenerative process beginning with ageing
+- **Mechanical pain** usually
+- Sometimes **radicular or stenotic pain**
+- **Pars defect** apparent on imaging
+
+---
+
+## Degenerative Spondylolisthesis
+- **Older adults**
+- **L4/5 most common level**
+
+### Risk Factors
+- Diabetes
+- Blacks
+- **Women > Men**
+- Sacralised (transitional) L5
+
+### Pathology
+- **DDD with segmental instability**
+- **Facet arthrosis**
+- **Abnormal loading and mechanics**
+
+---
+
+## Management of Spondylolisthesis
+
+### Low Grade (<50%)
+- **Try non-operative treatment** whatever the case
+  - Activity modification
+  - Analgesia
+  - Flexion exercises
+  - Bracing in adolescents/children
+- **Indication for surgery**:
+  - Intractable pain
+  - Neurologic deficit
+  - Progression of slip
+
+### High Grade (>50%)
+- **In adolescents/children**:
+  - **Prophylactic surgery** in children – high risk of progression
+  - High risk of neurologic compromise, especially dysplastic
+- **Adults with high-grade slips** tend to be symptomatic
+  - Surgery is warranted as chance of progression higher
+  - Results of surgery better than non-operative for high grade
+
+---
+
+## Surgical Treatment
+- **Gold standard in all groups**:
+  - **In situ posterolateral instrumented fusion**
+    - Through a midline approach or Wiltse para-transverse approach
+    - Favoured – less disruption to posterior structures
+    - Low risk of neurologic compromise
+    - Instrumentation increases fusion rate
+      - Solid fusion associated with better outcome
+
+### Controversies
+
+#### Slip Reduction
+- **Not for low-grade slips** – risk outweighs benefit
+- **Indications**:
+  - Significant L5/S1 kyphosis with hyperlordosis above
+  - High slip angle (>45°)
+  - Badly altered sagittal balance
+- **Increases chance of neurologic injury** – 10% (most transient)
+- **May decrease long-term chance of stenosis**
+- **Reduction opens up and re-orientates foramina**
+
+#### Anterior Supplementation
+- **Should be considered for high-grade slips**
+- Less stress on posterior instrumentation
+- Higher chance of fusion
+- **Anterior fusion alone does not work as well**
+
+#### ORIF of Pars Defect
+- **Tension band wiring or compression screw**
+- **90% rate of union and good outcome**
+- **Best results in**:
+  - No DDD
+  - Single-level slip
+  - Low-grade slip
+  - No neurologic deficit
+
+---
+
+## Management of Spondyloptosis
+- **Extremely challenging surgery**
+- **Usually done in a 2-stage procedure**:
+  - **1st stage**: Removes L5
+  - **2nd stage**: Fuses L4 to sacrum circumferentially

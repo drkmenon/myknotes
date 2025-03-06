@@ -1,0 +1,204 @@
+---
+title: "Adult Spinal Deformity"
+format: html
+editor: visual
+---
+
+## Adult Scoliosis
+
+### Definition
+- **Scoliosis (>10-degree curve)** diagnosed after skeletal maturity
+- **Mean age**: 60 years
+- **Men = Women**
+
+### Aetiology
+1. **Idiopathic**: Remnant of undiagnosed AIS (Adolescent Idiopathic Scoliosis)
+2. **De Novo**:
+   - **Degenerative** (most common)
+   - **Pathologic**
+   - **Traumatic**
+   - **Iatrogenic**
+   - **Neuromuscular**
+
+### Classification
+#### Idiopathic Adult Scoliosis
+- Based on location of curve & degree of sagittal & coronal imbalance
+
+#### Degenerative Scoliosis
+- **Type 1**: No rotational element
+- **Type 2**: Rotational element
+- **Type 3**: Sagittal or coronal plane imbalance (plumb line)
+  - Each has a subtype +/- neurologic symptoms
+
+### Clinical Presentation
+- **Back pain** is more common in adults with scoliosis
+  - Not usually severe
+- **Neurologic symptoms** not common but can occur:
+  - Stenosis (concavity of curve)
+  - Radiculopathy
+- **Cosmetic deformity**
+- **Cardiopulmonary problems** (thoracic curves >70 degrees)
+  - Mortality possible with curves >90 degrees
+
+### Curve Patterns
+- **Idiopathic** – remnant of AIS:
+  - **Right Thoracic** most common
+- **De-Novo (degenerative)**:
+  - **Lumbar/Thoracolumbar curves**:
+    - Lower magnitude
+    - Fewer levels involved
+    - No real pattern
+
+### Progression of Curve
+- **1 degree per year** for thoracic curves >50 degrees
+- **0.5 degrees per year** for thoracolumbar curves
+- **0.25 degrees per year** for lumbar curves
+
+#### Risk Factors for Progression
+- Curves >30 degrees
+- Younger patients
+- Right thoracic curves
+
+### Diagnosis
+#### History
+- **Pain** – does it correlate to scoliosis?
+- **Neurologic symptoms**
+- **Curve progression**
+- **Functional impairment**
+
+#### Examination
+- **Neurology**
+- **Forward & side bending** – do curves correct?
+- **Which are structural/compensatory?**
+
+#### X-Rays
+- **36-inch cassette XR AP & lateral**
+- **Plumb line** to assess sagittal & coronal balance:
+  - Should pass just anterior to sacrum from C7
+- **Forward and Side bending views**
+- **Structural and compensatory curves** (primary & secondary)
+- **Are curves flexible?** i.e., do they need release before correction?
+
+#### Lieberman J (2009) AAOS Comprehensive Review
+- **Sagittal plane plumb line** should be 1-2cm anterior to anterior sacrum:
+  - Increase = positive balance, decrease = negative balance
+- **Coronal plane balance** should be within 2cm of centre of sacrum
+
+#### MRI
+- Assess neural structures
+
+### Management
+- **Mainstay is non-surgical**:
+  - Physiotherapy, education, analgesia & activity modification
+
+#### Surgical
+- **Indications**:
+  - Intractable pain
+  - Neurologic deficit
+  - Cardiopulmonary compromise
+  - Significant gait disturbance
+  - Cosmesis (relative)
+  - Curve >50 degrees in younger patients – more time to progress
+  - Curve >70 degrees in older patients
+
+#### Goals
+- Pain relief
+- Solid fusion
+- Spinal balance
+
+#### Techniques
+- **Posterior instrumented fusion** between normal vertebrae
+  - In thoracic curves, better to sacrifice proximal levels and spare distal levels
+  - Don’t stop fusion at thoracolumbar junction – leads to kyphosis
+- **Consider 2-stage surgery** if curves rigid
+- **Consider anterior supplementation** for large curves (>70 degrees)
+
+##### 2-Stage Surgery +/- Supplementary Anterior Fusion
+- **For large curves (>70 degrees)**
+- **Rigid curves** as demonstrated by side bending X-rays
+- **Lumbar curves**
+- **Anterior fusion only** is possible for milder thoracolumbar curves:
+  - Reduces the number of levels to fuse – stop at neutral rather than horizontal vertebra
+
+##### Fusion to Sacrum
+- **Necessary in large lumbar deformities**
+- **Associated spondylolisthesis at L5/S1**
+- **Rigid curve requiring anterior lumbar release**
+- **Problems**:
+  - Higher pseudoarthrosis rate
+  - Pain
+  - Instrumentation failure
+  - Loss of lordosis
+
+##### Sacropelvic Fusion
+- **With iliac screws**
+- **Consider if sacrum included in a long fusion**
+- **Stabilises sacrum further**
+
+##### Osteotomy
+- **For rigid kyphotic deformity**
+- **Pedicle subtraction or Smith-Peterson anterior opening wedge**
+- **Higher complication rate**
+
+### Overall Complications
+- **Higher in older patients**, patients where sacrum included & larger curves
+- **Pseudoarthrosis** (most common: 5-20%):
+  - Occurs most at junctional levels (T12/L1 & L5/S1)
+- **Infection**
+- **Bleeding**
+- **UTI**
+- **Metalware failure**
+- **Neurologic compromise** (1-5%)
+
+---
+
+## Kyphosis
+
+### Aetiology
+- **Most often thoracic spine** but may occur anywhere, especially at junctional levels
+- **Idiopathic, Post-traumatic, Osteoporotic**
+
+#### Idiopathic
+- **Residual Scheuermann’s or congenital kyphosis**
+- **Management**:
+  - Surgical if non-operative treatment fails & symptoms severe
+  - **Posterior instrumented fusion** of whole kyphotic segment
+  - **Anterior release and fusion** if stiff curve:
+    - Does not correct to at least 55 degrees on extension XR
+
+#### Post-Traumatic
+- **Post-fracture Rx non-operatively**
+- **Post-instrumentation with failed fusion**
+- **Post-laminectomy without fusion**:
+  - Can cause pain & instability
+  - Progressive kyphosis may occur
+  - **Posterior corrective fusion with instrumentation**
+  - **Add anterior decompression** if neurologic compromise
+
+#### Osteoporotic
+- **Single or multiple wedge compression fractures**
+- Can be treated in the same way as above if very symptomatic
+- **But due to osteoporosis, failure is much higher**
+- **Complications all higher**
+- **Kyphoplasty & Vertebroplasty**:
+  - Good and equal short-term pain relief
+  - Kyphoplasty meant to correct deformity as well
+  - Long-term results not proven
+
+### Corrective Osteotomy
+- **An option for rigid & severe deformities (>70 degrees)**
+
+#### Pedicle Subtraction Osteotomy
+- **3-column osteotomy**
+- **Up to 30-degree correction per level**
+- **More neurologic risk**
+- **Therefore preferred below conus where cord has ended**
+
+#### Anterior Opening Wedge Smith-Peterson Osteotomy
+- **Osteotomy through posterior column only** – more traditional method
+- **Up to 10-degree correction per level**
+- **Complications with all osteotomies are higher**, especially in:
+  - Older patients
+  - Multiple co-morbidities
+  - Poor nutrition
+  - Osteoporosis

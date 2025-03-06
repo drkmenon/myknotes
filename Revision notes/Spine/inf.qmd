@@ -1,0 +1,174 @@
+---
+title: "Inflammatory Conditions"
+format: html
+editor: visual
+---
+
+### Seropositive
+- **RA (in 85%)**
+
+### Seronegative – HLA B27 association
+- **Ankylosing Spondylitis**
+- **Psoriatic arthritis**
+- **Reiter’s syndrome**
+- **DISH**
+
+## Rheumatoid Arthritis
+- **60% RA patients develop C-Spine disease**
+- **RA affects C-spine invariably**
+
+### Risk factors
+- Multiple Joint Disease
+- Long Standing Disease
+- Males
+- Positive rheumatoid factor
+- Steroid use
+
+### Pathophysiology
+- RA affects synovial joints – in spine: C1/2; facet & Uncovertebral joints
+- RF is immunoglobulin directed toward synovial cell antigens
+- This antibody-antigen complex causes an autoimmune response:
+  - Proteolytic enzymes released
+  - These destroy the joint
+
+### Patterns of RA C-Spine Disease
+1. **Atlanto-Axial Instability (C1/2)** (60%)
+2. **Basilar Invagination of C2** (40%)
+3. **Sub-axial instability** (20%)
+4. **Mixed** (50%)
+
+### Clinical Presentation
+- Usually slowly progressing Symptoms of weakness
+- Axial neck pain
+- Cord compression & myelopathy
+- Brainstem compression with basilar invagination can occur
+- Often missed due to slow progress
+- All RA patients should have pre-op C-spine XRs and liaison with anesthetist prior to consideration of GA
+
+### Classification (Ranawat)
+- Provides prognostic value to surgery
+- Ranawat 3b do poorly with treatment
+- Therefore goal is to identify and operate early
+
+| Stage  | Features |
+|--------|----------|
+| 1      | No neurologic findings – pain only |
+| 2      | Subjective neurology |
+| 3a     | Objective neurology & UMN signs – patient ambulatory |
+| 3b     | Objective neurology & UMN signs – patient not ambulatory |
+
+## Atlanto-Axial Instability
+- **C1/2 is a diarthrodial synovial lined joint – allows large ROM**
+- **Therefore susceptible to RA**
+- **Synovitis destroys transverse, apical & alar ligaments**
+- **This allows subluxation**
+- **Bone erosion of odontoid and C1 ring slowly occurs**
+- **Pannus behind odontoid compresses cord**
+- **Natural history is to slowly progress**
+- **Not all develop neurology though**
+
+### Assessment is by XR
+- **PADI (posterior atlanto dens interval) (same as SAC)**
+  - Most prognostic value for the development of neurologic dysfunction
+  - <14mm is poor prognostic sign
+  - Warrants surgery to prevent progression
+- **ADI (Atlanto Dens Interval)**
+  - >4 abnormal
+  - >10mm warrants treatment (not as good prognostic value as PADI)
+- **Flexion Extension Views**
+  - >3.5mm instability is poor prognostic sign for developing neurology
+
+### Management
+- **C1/2 Fusion with transarticular screws (Magrl)**
+  - Negates need for HALO
+  - Pre-op CT needed
+  - May not be possible if Vertebral artery position too risky
+  - Pannus resolves with fusion & doesn’t need excision
+- **Occiput-C2 Fusion**
+  - If not able to place transarticular screws
+  - Proximity of vertebral artery on pre-op CT
+  - If concurrent basilar invagination exists
+- **Odontoidectomy & C1 arch excision**
+  - If subluxation is irreversible or if brainstem severely threatened
+  - Revision surgery
+  - Not 1st choice option
+
+## Basilar Invagination (Cranial Settling)
+- **Cranial migration of Dens**
+- **Due to C1 and Occipital condyle erosion**
+- **Associated with Atlanto-Axial subluxation – often irreducible**
+- **Not all patients symptomatic**
+
+### Assessed by XR MRI or CT (hard to clearly evaluate on XR)
+- **McRae’s line easiest**
+  - Clivus to posterior aspect foramen magnum
+  - Does Dens cross into foramen magnum
+- **Ranawat measurement**
+  - Vertical distance between C1 ring and C2 pedicle
+  - <14mm = basilar invagination
+
+### Indications for surgery
+- Neurologic symptoms
+- Progression of invagination by >5mm
+
+### Surgery
+- **Occiput to C2 Fusion – high rate of union**
+- **Add odontoidectomy if brainstem threatened & C1/2 is irreducible**
+
+## Sub-Axial Instability
+- Less common
+- Due to destruction of Facet and Uncovertebral joints
+- More common in lower C spine
+- Causes subluxation & listhesis
+- Occurs in association with axial instability – rarely alone
+
+### Indications for surgery
+- Intractable pain
+- Neurologic symptoms/signs
+- >4mm or >40% translation
+- Vertebral body/width ratio <2
+
+### Surgery
+- Posterior fusion with lateral mass screws
+
+## Ankylosing Spondylitis
+### Epidemiology
+- Males 3:1
+- 3rd decade
+- Caucasians more common
+- 95% are HLA B27 +ve
+- HLA B27 (Human Leucocyte Antigen) is a surface antigen
+
+### Aetiology
+- Seronegative inflammatory arthropathy
+- Strong genetic link but unknown inheritance pattern
+- HLA B27 strongly implicated but mechanism unknown
+
+### Clinical Characteristics
+- Affects entheses rather than synovium
+- Affects whole spine symmetrically
+- Hallmark is symmetric sacroiliitis
+- Enthesiopathy causes bony erosion
+- Reactive bone forms in response and causes osteophytes
+- In spine these are bridging & called syndesmophytes
+- Eventual ankylosis
+
+### Management
+- **Physio:** Maintain motion and strength
+- **Drugs:** NSAIDs, Anti-TNF alpha drugs
+- **Surgery:** High complication rate, osteotomies for deformity
+- **Fractures:** Posterior instrumented fusion
+
+## Psoriatic Spondylitis
+- HLA B27 +ve in 70%
+- 10% with psoriatic arthritis develop spinal disease
+- Features: Asymetric, non-contiguous, marginal and non-marginal syndesmophytes
+- Management: Medical Rx as for RA, surgery as per deformity
+
+## Reiter’s Disease
+- Post-infective arthritis
+- Onset within 1 month of urethritis or enteritis
+- Asymmetric sacroiliitis
+- Management: Symptomatic – rarely surgical
+
+**Osteophytes in DDD; AS (marginal) & DISH (non-marginal)**

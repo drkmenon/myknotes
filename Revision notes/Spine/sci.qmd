@@ -1,0 +1,237 @@
+---
+title: "Spinal Cord Injury"
+format: html
+editor: visual
+---
+
+## Location & Type
+- **50% in C-spine**
+- **Mean age**: 19 years old
+- **Men > Women**
+- **Incomplete quadriplegia** most common
+- **Incomplete paraplegia** least common
+- Only **1% of SCIs** have complete recovery in hospital
+
+## Emergency Management
+- **Above C5** – likely to need intubation
+
+### Neurogenic Shock
+- Loss of sympathetic – vasodilation; decreased SVR; bradycardia
+- Need accurate fluid monitoring – Swan-Ganz on ICU
+
+### Spinal Shock
+- Flaccid areflexia
+- Occurs with cord injury – not cauda equina injury
+- Resolves within 48 hours usually
+- No assessment regarding injury can be made till spinal shock resolves
+- Heralded by return of **Bulbocavernosus reflex** (spinal reflex arc S1, 2, 3)
+  - Absence occurs in spinal shock but not complete cord injury
+  - May be absent in cauda equina, conus, or sacral injury
+
+## Classification of SCI
+- **Incomplete or Complete**
+- Any sensation or motor power below the affected level = incomplete
+- Sacral sparing often present in absence of motor power
+- Level of injury described as the lowest normally functioning level
+- **ASIA scoring system** classifies SCI (below)
+
+### ASIA Classification
+| **Injury** | **Features** |
+|------------|--------------|
+| **A**      | Complete – No sensory or motor function below level |
+| **B**      | Incomplete – Sensory but no motor function below level |
+| **C**      | Incomplete – Motor and sensory function below level; At least 50% key muscles below level have grade 2 or less power |
+| **D**      | Incomplete – At least 50% key muscles below level have grade 3 or more power |
+| **E**      | Normal Motor and Sensory function |
+
+## Spinal Cord Injury Syndromes – Incomplete Patterns
+
+### Central Cord Syndrome
+- **Most common (10%)**
+- Good prognosis for recovery
+- Associated with hyperextension of a stenotic C-spine
+- Predominantly upper limb motor weakness
+  - Distal limb affected more than proximal (hands)
+- Because upper limb neurons more central in corticospinal tracts
+- Sensory involvement variable but usually minimal
+
+### Brown-Sequard Syndrome
+- **4% incidence**
+- Best prognosis – 75% ambulate independently
+- Penetrating injury
+- Effectively a cord hemisection
+- **Ipsilateral motor loss** (corticospinal tracts)
+- **Ipsilateral proprioception, deep sensation & vibration loss** (dorsal column)
+- **Contralateral pain, temperature, and light touch loss** (spinothalamic tracts)
+
+### Anterior Cord Syndrome
+- **2% of SCI**
+- Due to injury of anterior spinal artery:
+  - Traumatic – flexion axial load: artery pinched by bone/disc
+  - Ischaemic – vascular occlusion in arteriopath
+- Affects anterior 2/3 of cord
+- Quadra or paraplegic with loss of pain & temperature sensation
+  - Dorsal columns (proprioception, vibration, deep sensation) spared
+- Appears very similar to a complete injury
+- Poor prognosis – 10% are able to ambulate independently
+
+### Posterior Cord Syndrome
+- **Rare – 1% of SCI**
+- Hyperextension injury
+- Dorsal columns only (proprioception, vibration, deep sensation)
+
+### Conus Medullaris Syndrome
+- Conus is the termination of the cord
+- Variable – T12-L2 (usually L1)
+- Conus contains all the cell bodies of the lumbar & sacral roots
+- Injury causes a mixed picture of upper and lower motor neuron symptoms
+- Unusual pattern of motor and sensory loss is seen
+- Affects all lumbar & sacral roots to some degree
+- Bulbocavernosus reflex is absent
+
+### Cauda Equina Syndrome
+- Injury to the nerve roots outside the cord
+- Lower motor neuron injury
+- Bladder, bowel, and sexual dysfunction are typical
+- Sacral/saddle anaesthesia
+- Bilateral symptoms
+
+## Acute Management of SCI
+- **Prevent secondary injury to cord**
+  - Immobilise spine
+  - Maintain oxygenation
+  - Maintain normovolaemia
+    - Aim for MAP 85mmHg
+- Intubate and use invasive monitoring if necessary
+- Diagnose & treat neurogenic shock
+
+## Treatment of SCI
+
+### Surgical Decompression & Stabilisation
+- Traditional evidence says no difference in clinical results if decompression within 72 hours or within 5 days
+- Non-clinical studies suggest decompression before 24 hours will give favourable outcome
+- More recent RCT early results suggest decompression within 24 hours gives best results
+- (Surgical Treatment for Acute Spinal Cord Injury Study – STASCIS)
+
+### Hypothermia
+- Managing patient at 33 degrees reduces secondary cord injury
+- Retrospective studies only – weak evidence
+- No prospective or randomized trials
+
+### Methylprednisolone
+- Evidence stems from National Acute Spinal Cord Injury Study (NASCIS)
+- Initially no difference with use of MP in terms of motor/sensory scores
+- Post-hoc analysis showed:
+  - MP (30mg/kg) within 8 hours of injury for 48 hours gave better neurologic function at 6 weeks and 6 months
+  - No difference at 1 year
+  - Also showed that rate of pneumonia, death, and sepsis higher in those given MP for 48 rather than 24 hours
+- **Current Guidelines in US**
+  - Recommends use of MP for 23 hours if given at under 8hrs from injury, as a possible treatment as long as care giver aware that evidence for complications is greater than evidence for its benefit
+
+### Other Medical Therapies
+- Several are in trial but results of high-quality studies are pending
+- EPO; Anti-Nogo antibodies; Rho Antagonists etc.
+
+## Spinal Cord Injury Rehabilitation
+
+- **85% who survive first 24 hrs after SCI are alive at 10 years**
+- **Leading causes of mid to long-term death**
+  1. Sepsis – usually pulmonary
+  2. Non-ischaemic heart disease
+  3. Suicide
+
+### Classification & Definitions of SCI
+- **ASIA System** is universally accepted
+- Most reliable 72 hours after injury when spinal shock should have resolved
+- **A is worst and E is best**
+
+| **ASIA A** | Complete SCI – no sensory or motor function & no sacral sparing |
+| **ASIA B** | Incomplete – Complete motor loss but sensory sparing at some level |
+| **ASIA C** | Incomplete - <50% muscles below the injury level have MRC power <3 |
+| **ASIA D** | Incomplete - >50% muscles below level have MRC power >3 |
+| **ASIA E** | Normal |
+
+- **Sensory level**: Defined as the most cephalad level with normal pin prick and light touch
+- **Motor level**: The most caudal level with MRC power 3 bilaterally as long as level immediately proximal is grade 5
+- **Skeletal level**: Level at which the major bony injury exists
+- **Neurologic level**: Most cephalic level with normal neurology bilaterally
+
+## Acute Management of SCI
+- **Prevent secondary injury**
+- Maintain MAP 80
+- Good Oxygenation
+- Steroids – may be of benefit if within first 8 hours
+- C-spine Protection
+
+## Medical Complications in SCI
+
+### Pulmonary
+- Problems occur because of:
+  - Shallow breathing
+  - Inability to clear secretions
+  - Atelectasis
+
+### Cardiac
+- Loss of sympathetic tone
+- Bradycardia, flushing, sweating
+
+### Thromboembolism
+- 15-80% DVT
+- PE 2-12%
+- Usually before 3 weeks
+- Prophylaxis required
+
+### Bladder
+- UMN causes spastic bladder – increased tone with retention or frequent emptying
+- LMN causes loss of tone and retention with obstructive hydronephrosis
+- Can cause recurrent UTI, pyelonephritis, renal stones, and kidney failure
+- Intermittent or permanent catheterisation
+
+### Bowel
+- LMN causes incontinence – difficult to control
+- UMN causes high tone bowel – need regular manual evacuations etc.
+
+### Depression
+- Frequent problem
+- High suicide rate
+
+### Skin
+- Pressure sores are a constant problem
+- Special mattresses and high vigilance required
+
+### Musculoskeletal
+- **Osteoporosis** from disuse
+  - Fracture risk is high – difficult to fix – poor bone, deforming forces
+  - Conservative management often appropriate
+- **Heterotopic Ossification**
+  - Most common around hip
+  - Some degree in 50%, ankylosis in 5%
+
+## Functional Outcomes in SCI
+- Some motor recovery documented up to 2 years after injury
+- Prognosis determined by degree of initial neurologic injury
+- Best prognosis in <30 year olds (most patients <30yrs)
+- Worst prognosis is with cord haemorrhage seen on MRI
+- **90% of tetraplegics** will recover one root level of function
+- **Complete paraplegics** generally do not recover function
+- **80% of incomplete SCI** regain to MRC 3 or more in hip flexion & knee extension by 1 year
+- Quicker recovery (<3 months) indicates better outcome
+- Upper limbs tend to recover better than lower
+
+### Outcome by Level of Injury
+- **C6** is the level where function and independence vastly improves
+
+| **C1-3** | If survive require respiratory assistance |
+| **C4**   | Respiratory support early but may not require in long term; Need help with transfers & mobility; Need wheelchair with chin and head support |
+| **C5 Quad** | Shoulder function intact; Can feed with special instruments; Need a powered wheelchair (can’t ambulate or transfer independently) |
+| **C6 Quad** | Can transfer and dress independently; Can use a manual wheelchair; Can feed independently |
+| **C7-8 Quad** | Manual Wheelchair; Independent feeding, dressing, manual wheelchair; Personal bowel and bladder care; Can drive a specialised van |
+
+### Ambulation after SCI
+- **90% with ASIA B** will be able to ambulate at time of discharge
+- Motor incomplete better prognosis than sensory complete
+
+## Tendon Transfer Surgery & Arthrodesis
+- Priorities are to restore elbow flexion and wrist extension
+- Allows hand to mouth and transfers plus self-propulsion of wheelchair
+- **Wrist Fusion**

@@ -1,0 +1,215 @@
+---
+title: "Spinal Infections"
+format: html
+editor: visual
+---
+
+### Discitis
+#### Epidemiology
+- All age groups but most common in children (mean age 7 years)
+
+#### Location
+- Lumbar spine 50%
+- Thoracic 40%
+- Cervical 10%
+
+#### Pathology
+- Haematogenous usually but may be by direct spread
+- Two theories of spread:
+  - **Batson’s Plexus** – valvueless veins (older theory)
+  - **End-plate origin** (more in vogue)
+    - Endplates are highly vascular with low-flow vessels
+    - Provide an ideal region for bacteria to proliferate
+    - Spread occurs into the avascular disc directly
+    - Low blood supply means bacteria are relatively protected
+
+#### Organism
+- **Staph Aureus** most common
+- Gram-negative rods
+- Others
+
+#### Risk Factors
+- Paediatric group
+- Diabetes, renal failure, HIV
+- Immunocompromise (suspect fungal organism)
+
+#### Diagnosis
+##### History
+- Back pain
+- Pain on weight-bearing
+- Fever – uncommon until later
+
+##### Radiology
+###### XR
+- Under 10-14 days are usually normal
+- Later changes include:
+  - End plate erosion
+  - Disc space narrowing
+
+###### MRI
+- **Diagnostic**
+- Fluid within the disc in acute infection – bright on T2
+- Disc dark on T1
+- Abscess formation
+- Neural compromise
+
+##### Blood Cultures
+- Isolate the organism in 60% of cases
+- Better chance before antibiotics and while temperature is raised
+
+#### Management
+- Some advocate biopsy of the disc in all cases to isolate the correct organism
+- Most can be managed with antibiotics for 6-8 weeks
+
+##### Indications for Surgery
+- Abscess formation
+- Poor response to antibiotics
+- Doubt over organism – biopsy required
+
+---
+
+### Vertebral Osteomyelitis
+#### Epidemiology
+- More common in older patients with systemic disease (diabetes, HIV, etc.)
+
+#### Pathology
+- Same mode of spread as in discitis – haematogenous
+- Often associated with pneumonia or UTI
+- Originates in endplates
+- Spreads to vertebral bodies & disc – destroys both
+
+#### Organism
+- **Staph Aureus** (75%)
+- Gram-negative bacteria
+- Beware fungal infections in HIV patients
+
+#### Presentation
+- Unremitting spinal pain
+- Neurologic Symptoms – risk factors:
+  - Disease in more cephalic levels
+  - Older patients
+  - Associated systemic disease
+
+#### Diagnosis
+- Blood cultures
+- History
+
+##### XR
+- Disc destruction – key differentiator from tumor
+- End-plate erosion
+- Vertebral collapse – kyphosis
+- Anterior disc & vertebra are affected first
+- Late changes but presentation often delayed so XR features may be seen
+
+##### MRI
+- Disc & vertebral destruction
+- Abscess formation
+- Neural compression
+- Skip lesions
+
+#### Management
+- Isolate the organism
+- Antibiotic therapy (6-8 weeks)
+
+##### Indications for Surgery
+- Abscess
+- Spinal instability
+- Neurologic compromise
+- Failure to respond to antibiotics
+
+##### Technique
+- Usually **anterior approach**, decompression, debridement, and fusion
+- Pathology is mainly anterior
+- Difficult to address adequately from the back
+- Use **autograft struts**
+- Supplementary posterior stabilization if multiple levels affected
+
+---
+
+### Spinal Tuberculosis
+- Spine is the most affected area by TB after the lungs
+
+#### Risk Factors
+- Immunocompromise
+- SE Asian origin or travel
+- Pulmonary TB
+
+#### Specific Features
+- Discs tend to be spared
+- Focus starts in the metaphysis of the vertebral body
+- Infection spreads under **ALL**
+- Contiguous vertebrae affected
+- Skip lesions in 15%
+- Propensity for abscess formation
+- Sinus formation
+- Severe kyphotic collapse
+- Paraplegia (Pott’s disease)
+
+#### Spinal Cord Injury in TB
+- Occurs due to:
+  - Direct pressure from abscess (**good prognosis**)
+  - Bony sequestration (**good prognosis**)
+  - Meningomyelitis (**poor prognosis**)
+
+#### Diagnosis
+- Classic XR & MRI features
+- Suspect if infection is not responsive to normal antibiotics
+
+##### Biopsy
+- Tissue positive to **Ziehl-Neelsen staining** for **Acid-Fast Bacilli**
+- 80% of acute TB cases are positive to **PPD skin test**
+  - 20% are negative, and some patients are anergic (don’t develop antigens)
+  - **Polymerase Chain Reaction (PCR) is best**
+
+#### Management
+- **Multimodal drug therapy for up to 18 months**
+- Isoniazid, Rifampicin, Pyrazinamide & Ethambutol/Streptomycin
+
+##### Indications for Surgery
+- Severe kyphosis & spinal instability
+- Neurologic involvement
+- Abscess drainage
+- Biopsy for diagnosis
+- Non-responsive to medical therapy
+  - May occur in avascular chronic TB
+
+##### Surgical Techniques
+- **Hong Kong Procedure**
+  - Anterior debridement & **strut grafting (autogenous)** without instrumentation
+- **Combined anterior & posterior debridement & stabilization**
+  - For severe deformity & neurologic impairment
+
+---
+
+### Epidural Abscess
+#### Aetiology
+1. **Secondary to discitis/vertebral infection**
+2. **Secondary to surgery** – direct inoculation
+
+- Abscess is within the spinal canal and contained there
+- High risk of **neurologic compression**
+
+#### Location
+- **Thoracic > Lumbar > Cervical**
+- Thoracolumbar abscesses are posterior, cervical abscesses tend to be anterior to the cord
+- Often involves 3 or more levels
+
+#### Diagnosis
+- Patients tend to be sicker than with discitis
+- Neurologic signs may be present
+
+##### MRI
+- T2 may show abscess
+- T1 post-contrast shows **ring enhancement**
+- Differentiates from other lesions within the canal
+
+#### Management
+- **Little place for non-operative treatment**
+- Antibiotics alone are **unable to penetrate abscess**
+- **Surgical drainage followed by 6-8 weeks of antibiotics** for the underlying cause
+
+##### Surgical Technique
+- **Posterior approach via laminectomy** to access the abscess
+- If anterior, use an **anterior approach**
+- If secondary to osteomyelitis/discitis, debride these areas while there
+- Stabilize spine **if wide debridement performed**, otherwise not necessary

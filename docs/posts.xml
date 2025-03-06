@@ -10,7 +10,7 @@
 <atom:link href="https://www.knotes.co.in/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Kishore Puthezhath&#39;s digital garden</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 04 Mar 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Mar 2025 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Income distribution</title>
   <link>https://www.knotes.co.in/posts/montecarlo.html</link>
@@ -386,7 +386,7 @@ font-style: inherit;">"Median income"</span>)</span></code></pre></div>
   <category>Monte Carlo simulation</category>
   <category>economics</category>
   <guid>https://www.knotes.co.in/posts/montecarlo.html</guid>
-  <pubDate>Tue, 04 Mar 2025 18:30:00 GMT</pubDate>
+  <pubDate>Wed, 05 Mar 2025 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Just stuck</title>
@@ -1277,7 +1277,7 @@ Woese, Carl R. 2004. <span>“A New Biology for a New Century.”</span> <em>Mic
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://www.knotes.co.in/posts/prospect.html</guid>
-  <pubDate>Wed, 05 Mar 2025 09:53:14 GMT</pubDate>
+  <pubDate>Thu, 06 Mar 2025 02:11:01 GMT</pubDate>
 </item>
 </channel>
 </rss>

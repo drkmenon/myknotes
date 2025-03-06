@@ -1,0 +1,84 @@
+---
+title: "Kyphoplasty & Vertebroplasty"
+format: html
+editor: visual
+---
+
+## Osteoporosis
+- **Quantitative loss of bone mass**
+- Mineralisation & fracture healing normal
+- **WHO definition** is T score <-2.5
+- **Senile or Post-menopausal**
+  - **Senile**: age-related reduction in bone mass
+  - **Post-menopausal**: due to loss of oestrogen
+    - Worst in first 5 years
+    - Total bone mass loss of 3% per year
+
+## Vertebral Compression Fractures
+- Increased incidence in proportion to age
+- For each SD below 2.5, risk of vertebral fracture increases by 2x
+- **5-year mortality after VCF** higher than after hip fracture
+- Each thoracic VCF causes 9% decrease in lung FVC
+- **Wedge** – thoracic spine
+- **Biconcave** – lumbar spine
+- **Mild, moderate, or severe** (>40% height reduction)
+
+### Differential Diagnosis
+- **Metastatic disease**
+  - More likely with fracture above T5
+- **Lymphoma/leukaemia**
+- **Infection**
+- **Haemangioma**
+- **Myeloma**
+
+### Management
+- **Non-operative** – supportive treatment is mainstay
+- **Medical therapy** for pain relief and future fracture prevention
+
+#### Surgical
+- **Failed non-operative Rx (6 weeks)** – consider biopsy to rule out tumour
+- **Open surgery**
+  - For neurologic compromise & instability (rare)
+- **Kyphoplasty & Vertebroplasty**
+  - **Contraindications**
+    - Posterior cortex disruption – cement extrusion (VP > KP)
+    - Retropulsed bone fragments
+    - Neurologic Injury
+    - Instability
+    - Healed, sclerotic vertebra that is painful
+  - **Indications**
+    - Intractable pain
+    - Failure of non-operative management
+    - Fracture < 3 months old
+
+## Kyphoplasty
+- **Aim**: Pain relief and correction of deformity
+- **Technique**
+  - **Transpedicular** – any level where pedicles are >4mm size
+  - **Extrapedicular** – in upper T-spine – uses rib & pedicle as a complex
+  - **Posterolateral** – For L2-4, which have small pedicles
+- **Procedure**
+  - Balloon is inflated within vertebra to check it works
+  - Balloon deflated
+  - Cement passed into balloon
+- **Complications**
+  - Transient fever
+  - Cement extrusion – rarely of clinical significance if it occurs
+  - Epidural haematoma
+  - Cord injury
+
+## Vertebroplasty
+- **For Pain relief** – no kyphosis correction
+- **Same approaches** but transpedicular preferred
+  - Posterolateral has higher rate of cement leakage
+- **Procedure**
+  - Cement injected at low viscosity under low pressure
+  - Fills fracture lines – spider-like
+  - Once reaches posterior cortex, injection is stopped
+- **Complications** as for KP
+
+## Outcomes
+- Equivalent outcomes at 6 months in terms of pain relief
+- Kyphoplasty does improve radiographic appearance
+- Not proven to correlate to better clinical outcome
+- No long-term data

@@ -1,0 +1,136 @@
+---
+title: "Subaxial Cervical Spine Trauma"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **Males > Females**
+- **Bimodal**: young (mean age 19 years) and older patients
+- **C2** most commonly injured bone in axial spine
+- **C5-6** most common level involved in subaxial (greater ROM)
+- **C7/T1** fractures common also
+- Transition between mobile & rigid spine
+
+## 6 Mechanistic Types – Allen & Ferguson
+### Most common
+1. Flexion Distraction
+2. Flexion Compression
+3. Extension Compression
+
+### Less common
+1. Extension Distraction
+2. Lateral Flexion
+3. Pure Axial Compression
+
+- **Flexion injuries** have a degree of axial loading as well
+- All injuries occur in stages with early stages looking mild & later stages severe
+
+## Treatment Guided By
+- **Stability of the injury**
+- **Spinal Stability** was defined by Panjabi as:
+  - *‘The ability of the spine under physiologic loads to limit patterns of displacement so as not to damage or irritate the spinal cord or nerve roots and to prevent incapacitating deformity or pain due to structural changes’*
+- He created a points scoring system to define instability in trauma
+  - **5 points or more** indicates instability
+  - Problems with number of points and subjectivity of some criteria
+
+### Criteria and Point Value
+| **Criteria** | **Point Value** |
+|--------------|-----------------|
+| Anterior elements destroyed or unable to function | 2 |
+| Posterior elements destroyed or unable to function | 2 |
+| Positive stretch test | 2 |
+| Sagittal plane translation >3.5 mm or 20% on flexion-extension radiographs | 2 |
+| Sagittal plane rotation >20° on flexion-extension radiographs | 2 |
+| Sagittal plane displacement >3.5 mm or 20% on neutral resting radiographs | 2 |
+| Relative sagittal plane angulation >11° on neutral resting radiographs | 2 |
+| Developmentally narrow spinal canal, quantified as <13 mm, or Pavlov ratio <0.8 | 1 |
+| Abnormal disk narrowing | 1 |
+| Neurologic injury consistent with spinal cord injury | 2 |
+| Neurologic injury consistent with nerve root damage | 1 |
+| Dangerous loading anticipated | 1 |
+
+## In Summary
+- **Instability** is not easy to define – think of it as a concept
+- **Features contributing to instability** are:
+  - Multiple level fractures
+  - Wide displacement
+  - At least 2 if not 3 columns involved
+  - Posterior soft tissue or bony elements compromised
+  - Progressive deformity (kyphosis)
+  - Neurologic dysfunction
+  - Cobb angle >11 degrees
+  - Vertebral height <25%
+
+## Specific Fracture Types
+
+### Flexion Compression Injury (Flexion Teardrop Fractures)
+- **Extension teardrop fracture** is a minor injury (extension distraction injury)
+  - Flake avulsion of the anterior endplate by its annular attachment
+  - Cervical orthosis treatment at most
+- **Flexion teardrop** is much more severe
+  - Size of fragment is usually bigger
+  - Flexion and compression results in a triangular fracture of the anterior-inferior vertebral body
+  - As the force continues, the main VB is pushed backwards into the canal
+  - Eventually the facets dislocate as well
+  - Indicates an injury to all 3 columns
+  - High rate of neurologic injury
+
+#### Management
+- Anterior decompression, plating +/- strut grafting
+- Supplementary posterior instrumentation if very severe with facet dislocation
+
+### Flexion Distraction Injury (Facet Dislocations)
+- Primary pathology is tension failure of the posterior elements
+- As force continues the facets dislocate sequentially
+- Injury to posterior & middle columns with anterior column acting as a hinge
+- **Unilateral Facet** is identified by:
+  - <50% dislocation
+  - Perched Vertebral body
+  - Bow tie sign – VB rotated around enlocated facet
+- **Bilateral Facet**
+  - All 3 columns now disrupted
+  - >50% anterolisthesis indicates a bilateral facet dislocation
+  - Very high rate of neurologic injury
+  - Can result in a concurrent large disc prolapse
+
+#### Management
+- Should undergo reduction urgently
+- **Closed reduction with traction**
+  - Appropriate for awake, co-operative patient regardless of neurologic deficit
+    - Can tell you if their neurology changes
+  - Technique:
+    - Incremental in-line traction through halo ring under ii guidance – max 50lb depending on fracture level (10lb for head & 5lb for each disc space above fracture)
+- **MRI after reduction** achieved for all patients pre-operatively to assess disc
+- **MRI if reduction fails**
+- **MRI prior to reduction** for obtunded or poorly compliant patients
+  - They can’t tell you if traction is making symptoms worse
+- **Surgery**
+  - Preferred for all bilateral and most unilateral facets
+  - Anterior allows removal of disc fragments if present
+  - Posterior is biomechanically more sound – restores tension band failure
+  - Anterior approach is essential if disc extruded
+  - Combined approaches will address both issues
+
+### Extension Compression Injury
+- 3rd most common type
+- Recognisable by isolated fractures of laminae, pedicles & facets
+- Severe injuries include fractures to all
+- Canal diameter actually increases so cord is rarely injured
+- These fractures are still highly unstable and require surgical management
+- **Posterior fixation** reduces spine by ligamentotaxis
+
+### Burst Fractures
+- Predominantly axial compression
+- Retropulsion results in neurologic compromise
+- Surgery is by anterior decompression, plating & strut grafting
+- Posterior surgery also possible to reduce by ligamentotaxis
+
+## Associated Injuries
+- **Brachial plexus stretch injury**
+  - Associated with lateral flexion spinal injury
+- **Vertebral Artery Injury**
+  - High risk in facet dislocations at all levels and any fracture at C1-3
+  - Look for fracture propagation into ligamentum transversarium
+  - MRA advisable if suspected
+  - May influence surgical approach to prevent damage to other artery

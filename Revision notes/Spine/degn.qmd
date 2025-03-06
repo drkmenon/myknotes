@@ -1,0 +1,235 @@
+---
+title: "Degenerative Disease"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **Men > Women**
+- **40-50 years onset**
+- **Risk factors**:
+  - Smoking
+  - Manual labour
+  - Driving
+
+## Pathoanatomy
+- **Ageing**:
+  - Keratin Sulphate to Chondroitin Sulphate ratio of disc increases
+  - Water content decreases
+- **Leads to a cascade of**:
+  - Loss of disc height – causes kyphosis
+  - Disc herniation
+  - Facet arthrosis
+  - Subluxation (listhesis)
+  - Ligament calcification (ALL/PLL) and hypertrophy (flavum)
+  - Compensatory osteophyte formation:
+    - Uncovertebral joints
+    - Foramina
+    - Anterior and posterior aspect of end plates
+
+## Clinical Presentation
+
+### History
+- **Gradual onset**
+- **Occipital headache**
+- **Activity/position related pain** – extension & rotation
+  - Flexion opens up canal & relieves symptoms
+- **Radiculopathy**:
+  - Unilateral dermatomal pain or weakness
+  - Trapezius, upper back pain
+- **Myelopathy**:
+  - Clumsiness of hands – buttons, writing, eating
+  - Gait disturbance – ataxic, broad-based
+  - Burning/shooting pain up & down neck (Lhermitte’s sign)
+- **Late & uncommon symptoms of myelopathy**:
+  - Bladder/bowel dysfunction
+  - Subjective weakness
+  - Significant motor weakness – if in legs is late & worrying sign
+- **Constant achy pain rare**
+- **Radicular pain**
+
+### Examination
+- **Spurling’s Sign**:
+  - For radiculopathy
+  - Maximal extension & rotation towards side of symptoms replicates symptoms
+    - Narrows exit foramina and impinges root further
+- **Signs of Myelopathy**:
+  - **Hoffman Reflex**: Flicking tip of middle finger = thumb IPJ flexion
+    - May be present in people with normally brisk reflexes
+  - **Babinski Sign**: Big toe elevation when sole stroked
+    - False positive in infants
+  - **Inverted Radial Reflex**: BR reflex causes finger flexion
+  - **Gait**: Ataxia & broad-based stance
+  - **Upper motor neuron signs**: Hyper-reflexia, clonus, spasticity
+    - May have mixed picture with predominantly UMN in legs & LMN in arms
+
+## Imaging
+
+### X-Ray
+- **70% of 70-year-olds** have asymptomatic XR changes
+- **AP**:
+  - Uncovertebral osteophytes, alignment
+- **Lateral**:
+  - Canal diameter - <14mm is relative stenosis; <10mm absolute
+  - Torg Ratio (vertebral body/canal ratio) <0.8 = stenosis
+  - Alignment – is spine kyphotic (limits treatment options)
+- **Oblique**:
+  - Foraminal stenosis
+- **Flexion/Extension views**:
+  - If instability suspected – usually stiff rather than unstable
+
+### MRI
+- Signal change in cord
+- Neural compression
+- **CT Myelogram** – for those who can’t have MRI – delineates OPLL better
+
+## Management
+
+### Axial Neck Pain
+- **Non-operative where at all possible**:
+  - Physio
+  - Aerobic exercise
+  - Weight loss
+  - Isometric C-spine strengthening – decreases the neutral zone
+  - Moist heat
+- **Results of surgery unpredictable**
+
+### Radiculopathy
+- **Natural history of radiculopathy is good with non-operative treatment**
+- **Indications for surgery**:
+  - Progressive weakness
+  - Intractable pain
+  - Failure of non-operative treatment
+
+### Myelopathy
+- **No real place for non-surgical treatment**
+- **Natural history shows stepwise deterioration with time**
+- **Best results are while myelopathy is mild and present for short time**:
+  - Aim is to halt progression, not restore neurology
+  - Gait changes frequently do not resolve
+
+## Surgical Options
+- **Current evidence shows 3% yearly rate of adjacent level disease** whatever the index surgery
+- **Decision-making should be based on which will give best symptomatic relief with lowest complications**
+
+### Motion Sparing
+- **Disc replacement**
+- **Foraminotomy**
+- **Laminoplasty**
+
+### Motion Sacrificing
+- **ACDF (Anterior Cervical Discectomy & Fusion)**
+- **Corpectomy & Fusion**
+- **Laminoplasty & Fusion**
+
+---
+
+### Anterior Cervical Discectomy & Fusion (ACDF) / Anterior Corpectomy & Fusion
+- **Gold standard** – first choice answer almost always
+- **Allows direct decompression of all pathologic lesions**:
+  - Disc
+  - Uncovertebral osteophytes
+  - Vertebra (corpectomy)
+  - OPLL
+- **Indirect decompression of foramina** by using allograft to restore lordosis
+- **Results**: 90% symptom relief
+
+#### Principles
+- **Anterior approach**
+- Remove disc and osteophytes
+- Use allograft to restore lordosis (equal to autograft) & less morbidity
+- Fusion improved with plating
+- Use strut graft/cages if corpectomy done
+- If >2 level surgery, consider supplementary posterior instrumentation
+  - Modern systems may be ok up to 3 levels
+
+#### Complications
+- Recurrent & superior laryngeal nerves
+- Oesophageal damage
+- Pseudoarthrosis – often asymptomatic: leave alone
+- Haematoma
+- Neurologic complications <1% - rare
+
+---
+
+### Posterior Foraminotomy
+- **Low morbidity**
+- **For isolated radiculopathy** affecting one root due to foraminal stenosis
+- **Foraminal osteophytes removed** to open up space for root
+- **Not for myelopathy**
+- **Not to be done if patient is kyphotic** – does not change alignment
+
+---
+
+### Disc Replacement
+- **Same as ACDF approach and indications**
+- **Preserves motion** by placing prosthesis
+- **Unproven yet to alter course of adjacent level disease**
+  - Comparable results to ACDF for symptom relief
+
+---
+
+### Laminectomy with or without Fusion
+- **If a laminectomy is done, perform a fusion**
+  - Avoids post-laminectomy kyphosis
+  - Swan neck deformity (without fusion)
+- **Easier surgery**
+- **Less favourable results** as compared to other procedures
+- **Not to be done if patient is kyphotic** – does not change alignment
+
+---
+
+### Laminoplasty
+- **Lower morbidity and easier surgery** – C3 to C7 usually performed
+- **Can be secured with laminoplasty plates**
+- **Increases room for cord** – relieves symptoms
+- **Maintains stability**
+- **Not indicated if axial pain present** as no fusion is performed
+
+#### Complications
+- Recurrent myelopathy
+- Stiffness – autofusion occurs
+- C5 root damage
+- **Not to be done if patient is kyphotic** – does not change alignment
+
+---
+
+### Combined Anterior & Posterior Approaches
+- **If multilevel surgery is performed**
+- **Consider if >2 and certainly >3 levels**
+  - Especially if multilevel corpectomy
+- **Supplements anterior instrumentation** while graft consolidates
+- **HALO does not adequately immobilise sub-axial spine**
+
+---
+
+## OPLL (Ossification of the Posterior Longitudinal Ligament)
+- **Potential cause of myelopathy**
+- **More common in Oriental Asians**
+- **Unknown aetiology** but:
+  - Genetic, occupational, dietary (high salt intake), diabetes, obesity implicated
+- **Narrows space for cord**
+- **Predisposes to myelopathy after extension injuries**
+- **XR shows ossification posterior to the vertebral body only**
+- **Mainly affects C Spine**
+
+### Surgery for OPLL
+- **Anterior or posterior**
+- **Posterior may be safer** than trying to excise OPLL tethered to cord
+
+---
+
+## Diffuse Idiopathic Skeletal Hyperostosis (DISH)
+- **Ossification of the Anterior Longitudinal Ligament**
+- **Forrestier’s disease** is isolated ALL ossification
+- **DISH includes ALL ossification as well as other skeletal hyperostoses**
+- **Typically affects lower thoracic spine** but may be in cervical or lumbar
+- **Ossification is actually along anterolateral aspect of bodies on axial CT**
+  - Looks similar to ankylosing spondylitis
+
+### Differentiated by:
+- **Sparing of Facet joints**
+- **Sparing of SI joints**
+
+### Diagnostic Criteria for DISH
+- **Bridging syndesmophytes across 4 contiguous vertebrae (3 disc spaces)**
