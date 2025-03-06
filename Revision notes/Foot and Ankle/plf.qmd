@@ -1,0 +1,76 @@
+---
+title: "Plantar Fasciitis"
+format: html
+editor: visual
+---
+
+## Epidemiology
+
+-   Common\
+-   Affects adults
+
+## Aetiology
+
+-   Repetitive impact activity\
+-   May be related to **spondyloarthropathy (enthesiopathy)**\
+-   **Obesity**
+
+## Pathoanatomy
+
+-   Pain at **plantar fascia origin** on medial calcaneal tubercle\
+-   **Degenerative microtears** of plantar fascia\
+-   **Reactive enthesiopathy** with spur formation\
+-   **Spurs are related but not causative**
+    -   Many people with spurs are asymptomatic
+
+## Differential Diagnosis
+
+### Entrapment of Baxter’s Nerve
+
+-   **1st branch of lateral plantar nerve**, just beyond the tarsal tunnel\
+-   Runs beneath **Abductor Hallucis**, supplies **Quadratus Plantae**\
+-   Causes **medial heel pain with rest** or shooting pains
+
+### Calcaneal Stress Fracture
+
+-   Due to **repetitive high-impact activity** (e.g., military recruits)\
+-   **Bone scan or MRI diagnostic**\
+-   Suspect if history fits & does not settle with non-operative measures
+
+## Clinical Features
+
+-   **Pain with first few steps in the morning**\
+-   **Activity-related** pain\
+-   **Settles at rest**\
+-   **Neurologic symptoms** → suspect other causes\
+-   **Tight Achilles tendon** is common\
+-   **Windlass Test**
+    -   Dorsiflexion of toes **causes pain**\
+-   **Often overweight patients**\
+-   **Tibialis Posterior (TP) insufficiency** may co-exist
+
+## Management
+
+### Non-Surgical
+
+-   **Almost always effective enough to avoid surgery**\
+-   **Weight loss**\
+-   **Activity modification**\
+-   **Shoewear modification**
+    -   **Heel pads with cut-outs, silicone insoles, etc.**\
+-   **Plantar fascia stretching programme**
+    -   Similar to Achilles stretches\
+-   **Steroid injections**
+    -   May be useful but beware of **plantar fascia rupture**
+
+### Surgical Management
+
+-   **Only if non-surgical methods fail**\
+-   **Release of medial 1/3 plantar fascia origin** + Abductor Hallucis fascia release
+    -   **+/- Excision of prominent spurs if indicated**\
+-   **Avoid complete release** to prevent:
+    -   **Arch collapse**\
+    -   **Lateral column overload**\
+-   **Baxter’s nerve compression is uncommon** but may explain failure of non-surgical treatment
+    -   **May as well release during surgery**\
+-   **Surgical outcomes are unpredictable**

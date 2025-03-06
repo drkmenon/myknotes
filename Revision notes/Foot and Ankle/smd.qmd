@@ -1,0 +1,83 @@
+---
+title: "Sesamoid Problems"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **Tibial sesamoid** is **10x more commonly bipartite**
+- **Tibial sesamoid** is most commonly affected in all pathologies
+- **Athletes** are the most commonly affected group
+
+## Anatomy
+- Lie within **Flexor Hallucis Brevis (FHB) tendon**
+- Stabilized by **intersesamoid** and **sesamoidometatarsal ligaments**
+- **Function:**
+  - Increase lever arm of **FHB**
+  - Protect **Flexor Hallucis Longus (FHL)**
+  - Distribute load
+
+## Common Pathologies
+
+### Stress Fracture
+- **Most common**
+- **Avascular necrosis (AVN) & sesamoiditis** are likely stress fractures
+- **Non-union** of the fracture is the main cause of symptoms
+
+### Symptomatic Bipartite Sesamoid
+- **Usually exacerbated by exercise**
+- Can be due to a **single traumatic dorsiflexion event** – **turf toe**
+
+### Osteoarthritis
+- **Sesamoid/MT OA** can be isolated or part of **Hallux Rigidus**
+
+### Overload
+- If there is **another mechanical foot problem** – **cavus is typical**
+- **Plantarflexed 1st ray** overloads the sesamoids
+
+### Diabetic Feet
+- **Ulceration** can occur and expose the sesamoids
+
+## Clinical Evaluation
+
+### History & Examination
+- **History of dorsiflexion injury**
+- **Point tenderness** under big toe
+- **Exacerbating activities** – dorsiflexion (e.g., running)
+- **Other foot or systemic problems** – cavus?
+
+### Imaging
+- **Sesamoid view X-rays**
+- **Standing AP**
+- **Bone Scan/MRI**
+- **Bone scan shows high uptake**, which is usually enough
+  - **MRI provides no further relevant information**
+
+## Management Options
+
+### Non-Operative
+- **Cut-out padding**
+- **Rocker bottom shoe**
+- **Activity modification**
+
+### Surgical Options
+
+#### Therapeutic/Diagnostic Injection
+- **Probably worthwhile before considering surgery**
+
+#### Sesamoidectomy
+- **No significant reduction of FHB power** unless **both sesamoids resected**
+- **Complications:**
+  - **Medial plantar digital nerve injury** – right over tibial sesamoid
+  - **Cock-up toe** – if both excised
+  - **Hallux Valgus** – medial sesamoidectomy
+  - **Hallux Varus** – lateral sesamoidectomy
+
+#### Sesamoid Shaving
+- **Alternative to sesamoidectomy**, partial removal of sesamoid
+
+#### Bone Grafting
+- **Has been successful for non-unions**
+
+#### ORIF
+- **ORIF with micro Ackutrak or Barouk screws** has **good results**

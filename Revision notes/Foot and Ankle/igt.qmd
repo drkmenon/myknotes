@@ -1,0 +1,52 @@
+---
+title: "Ingrowing Toenail"
+format: html
+editor: visual
+---
+
+## Epidemiology  
+- **Almost always affects the great toe**  
+- **Male > Female**  
+- Typically occurs in **adolescents or young adults**  
+- Can also occur in **older patients**, often **diabetics**  
+
+## Aetiology  
+- **Poor nail cutting technique** – too short with sharp edges  
+- **Tight-fitting footwear**  
+- **Thick socks & sweating**  
+- **Supinated big toe**  
+- **Other foot deformities** putting pressure on the big toe edge  
+- **Medications & systemic diseases**  
+  - e.g., **HIV, cyclosporin**  
+
+## Clinical Features  
+- **Red, purulent, painful nail edge**  
+- Can be **medial or lateral**  
+- **Hypergranulation tissue**  
+- Often **bilateral**  
+
+## Classification  
+- **Grade 1** – Redness, no discharge  
+- **Grade 2** – Discharge and infection  
+- **Grade 3** – Hypergranulation tissue, infection, and discharge  
+
+## Management  
+
+### Non-Operative  
+- **Grade 1**  
+  - **Sterile soaks**  
+  - **Education** on proper nail cutting technique  
+  - **Podiatry care**  
+  - **Antibiotics** if acute infection  
+
+### Surgical  
+- **Recalcitrant Grade 2 or Grade 3 cases**  
+- **Technique**  
+  - **Cochrane review (2005)** indicates the best treatment is:  
+    - **Wedge or whole nail resection** with **phenol ablation of the matrix**  
+    - Minimizes **recurrence rates**  
+
+## Complications  
+- **Soft tissue burns** from phenol  
+- **Abnormally shaped nail** in the future  
+- **Recurrence**  

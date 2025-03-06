@@ -1,0 +1,101 @@
+---
+title: "Gout"
+format: html
+editor: visual
+---
+
+## Epidemiology  
+- Men > Women  
+- More common in British Caucasians  
+- Genetic link  
+
+## Aetiology  
+- Disease of abnormal purine metabolism  
+- Results in deposition of monosodium urate crystals within synovial joints  
+- Crystals are needle-shaped and cause florid synovitis  
+
+### Inciting Factors  
+- Alcohol  
+- Purine-rich foods (e.g., oily fish)  
+- Trauma  
+- Post-surgical state  
+- Certain medications  
+  - Chemotherapy agents  
+  - Certain anti-hypertensives  
+  - Certain diuretics  
+
+## Clinical Features  
+- Acute severe pain  
+- 1st MTPJ most commonly affected (75% of first attacks)  
+- 90% of chronic gout sufferers have MTPJ involvement at some stage  
+- Ankle commonly affected  
+- Lesser MTPJs, midtarsal, and subtalar joints usually spared  
+
+### Chronic Gout  
+- Large soft tissue deposition of monosodium urate (gouty tophi)  
+- Severe joint destruction possible  
+
+## Investigations  
+### Blood Tests  
+- May or may not show elevated uric acid levels  
+
+### Joint Aspiration  
+- Needle-shaped monosodium urate crystals  
+- Strongly negatively birefringent under polarised light microscopy  
+
+### X-Ray Findings  
+- Erosions on both sides of the joint  
+- Large soft tissue swelling around the joint  
+- Erosions away from the joint  
+
+## Management  
+### Medical  
+- NSAIDs for acute flare-ups  
+- Allopurinol for prevention  
+  - Can precipitate gout if dose is too high  
+
+### Surgical  
+- Arthrodesis if MTPJ is destroyed and symptomatic  
+
+---
+
+# Pseudogout  
+
+## Location  
+- Knee most common  
+- Any joint in the foot & ankle can be affected, unlike gout  
+
+## X-Ray Findings  
+- Chondrocalcinosis  
+- Rare to get erosive joint destruction  
+
+## Joint Aspiration  
+- Calcium pyrophosphate crystals of varied shape  
+- Weakly positive birefringence under polarised light microscopy  
+
+## Management  
+- Symptomatic treatment with NSAIDs, rest, and activity modification  
+
+---
+
+# Seronegative Spondyloarthropathies  
+
+## General Features  
+- Hallmark: Lack of rheumatoid factor  
+- Affect enthuses more than articular joints  
+
+## Main Presenting Symptoms  
+- Achilles tendinopathy  
+- Tibialis posterior tendinopathy  
+- Plantar fasciitis  
+
+## Psoriatic Arthritis  
+- Can cause joint destruction  
+- In foot, it typically affects lesser toe DIPJs  
+  - Pencil-in-cup erosions on X-ray  
+  - Nail pitting  
+  - Dactylitis (sausage digits)  
+
+## Management  
+- Symptomatic treatment  
+- Joint fusion or excision if necessary  

@@ -1,0 +1,71 @@
+---
+title: "Morton’s Neuroma"
+format: html
+editor: visual
+---
+
+## Definition  
+- Compressive neuropathy of the interdigital nerve  
+
+## Epidemiology  
+- Women > Men – likely shoewear related  
+
+## Aetiology  
+- Shoewear – narrow toe box and high heels (squeezes spaces together)  
+- Bursal Hypertrophy causes compression  
+- **Position:**  
+  - Most common in **3rd space** (between 3rd and 4th toes)  
+  - Then **2nd space**, followed by **4th space**  
+  - **4th space uncommon, 1st space virtually unheard of**  
+    - Think again if these areas are affected  
+
+## Symptoms  
+- Pain – well-localised to area  
+- Worse on weight-bearing, especially in high heels  
+- Burning or numb sensation around toes  
+
+## Signs  
+- Pain on palpation between plantar MT spaces  
+- **Mulder’s Click**  
+  - Click felt while palpating on volar aspect and squeezing MTs  
+  - Painful click felt  
+
+## Imaging  
+
+### XR  
+- Screening for other causes of metatarsalgia-type pain  
+
+### USS & MRI  
+- Both potentially useful, but diagnosis is clinical  
+- MRI has a high false-positive rate  
+- USS is user-dependent – may not change management  
+
+## Management  
+
+### Non-Operative  
+- Works for the majority  
+- Activity modification  
+- Shoewear alteration – avoid heels or narrow toe boxes  
+- Metatarsal bar to offload forefoot  
+- **Steroid Injection**  
+  - Can work permanently  
+  - Probably most accurate under USS guidance  
+  - Diagnostic and therapeutic value  
+
+### Surgical  
+- Commonly through a longitudinal incision in IM space  
+- **Nerve lies deep to Transverse Metatarsal Ligament (TMTL)**  
+- **Surgical Steps:**  
+  - Divide TMTL  
+  - Dissect nerve  
+  - **Key:** Excise nerve and all its fibres just proximal to the bifurcation and a few centimetres proximal to web space  
+  - Send for histology to confirm you have excised the original neuroma  
+  - Minimises risk of neuroma formation  
+
+## Results  
+- **80-85% cure rate**  
+- Improved by correct patient selection  
+
+## Complications  
+- **Primary complication is recurrence – neuroma formation**  
+- Usually due to insufficiently proximal nerve resection  

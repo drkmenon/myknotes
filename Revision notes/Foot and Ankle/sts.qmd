@@ -1,0 +1,58 @@
+---
+title: "Sinus Tarsi Syndrome"
+format: html
+editor: visual
+---
+
+## Anatomy
+- **Funnel-shaped sinus**
+- Laterally based, leading into **narrower tarsal canal**
+
+### Boundaries
+- **Anterior:** Talocalcaneonavicular joint
+- **Posterior:** Posterior facet subtalar joint
+- **Inferior:** Calcaneus and Extensor Digitorum Brevis (EDB)
+- **Superior:** Talus
+
+### Contents
+- **Blood vessels** supplying the talus
+- **Intraosseous talocalcaneal ligament**
+- **Origin of inferior extensor retinaculum**
+- **Nerve branches**
+
+## Aetiology
+- **Nerve irritation, vascular engorgement** resulting in pain
+- Possible causes:
+  - **Fibrous talocalcaneal coalition**
+  - **Subtalar instability**
+  - **Subtalar arthritis**
+  - **Intraosseous ligament tear**
+
+## Clinical Presentation
+- Usually a history of **ankle injury**
+- **Pain over the lateral aspect** of the hindfoot
+- **Pain on varus tilt**
+- **Pain on uneven ground**
+- **50% have ankle instability or pain**
+
+## Imaging
+
+### X-ray (XR)
+- **Broden’s view, Stress views & Lateral**
+- **Subtalar degenerative disease**
+- **Laxity on stress testing**
+
+### MRI
+- **Inflammation in the sinus tarsi**
+- **Intraosseous talocalcaneal ligament rupture**
+
+## Management
+- **Activity modification, NSAIDs, and rest**
+- **Steroid Injection**
+  - Usually **effective for most patients**
+  - If ineffective, has **diagnostic value**
+- **Surgical excision of tarsal sinus contents and debridement**
+- **Correction of underlying pathology**, including:
+  - Fibrous coalition
+  - Instability
+  - Subtalar arthritis

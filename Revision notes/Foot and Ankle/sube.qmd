@@ -1,0 +1,31 @@
+---
+title: "Subungual Exostosis"
+format: html
+editor: visual
+---
+
+## Aetiology
+- **Fibrocartilaginous exostosis** occurring from **distal phalanx of the big toe**
+- May also occur in **hand or lesser toes** – rare
+- Many are actually **osteochondromas** with a **hyaline cartilage cap**
+
+## Clinical Features
+- **Pain and breach of the nail**
+- **Inflammation and elevation** around the **medial nail fold** (more common)
+- Often previously **misdiagnosed as an ingrown toenail** due to similar appearance
+
+## Differential Diagnosis
+- **Ingrown toenail**
+- **Subungual melanoma or Squamous Cell Carcinoma (SCC)**
+- **Glomus tumor**
+
+## Imaging
+
+### X-ray (XR)
+- **Clearly shows exostosis**
+
+## Management
+- **Excision**
+- **Try to preserve nail fold and bed**, but usually **not possible**
+- Often leads to an **abnormally shaped nail**
+- **Recurrence rate: 10%** despite complete excision

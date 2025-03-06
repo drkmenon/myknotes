@@ -1,0 +1,145 @@
+---
+title: "Inflammatory Arthritis of the Foot"
+format: html
+editor: visual
+---
+
+## Rheumatoid Arthritis  
+
+### Epidemiology  
+- Presents in **middle age**  
+- More common in **women**  
+
+### Aetiology  
+- **Symmetric inflammatory polyarthropathy**  
+- Affects **smaller joints** more → **forefoot > hindfoot**  
+
+### Pathoanatomy  
+- **Synovitis** is the hallmark and is caused by:  
+  - Infiltration with **Macrophages, B Lymphocytes & Monocytes**  
+  - Inflammatory cytokines released – **TNF-α, IL-6, IL-7**  
+- **RANKL** activates **osteoclasts** → biologic bone erosions  
+- **Pannus (fibrotic granulation tissue)** causes mechanical erosions  
+- **Rheumatoid factor positive** in **2/3 of patients**  
+
+### Markers of Severity  
+- **Presence of Rheumatoid factor**  
+- **Extraarticular manifestations**  
+  - Most common are **Rheumatoid nodules**  
+
+## Foot and Ankle Problems  
+
+### Forefoot  
+- **Most affected** in RA  
+- Common pathologies:  
+  - **Hindfoot arthritis**  
+  - **Posterior Tibial Tendon arthritis**  
+  - **Ankle arthritis**  
+- Disease primarily affects **lesser toe MTPJs**  
+- **Synovitis** causes **capsular and collateral ligament destruction**  
+- **Hyperextension** → **MTPJ subluxation & dislocation**  
+- **Valgus deviation** at MTPJs  
+- **Plantar plates pulled distally** → atrophy of plantar fat pad  
+- Exposure of metatarsal heads causes **metatarsalgia**  
+- **Clawing of the toes** → overpowering by **FDL and intrinsic muscles**  
+- **Hallux Valgus** (HV) is common  
+  - HV is severe due to **deviation of lesser toes**  
+  - **Splayfoot** with **bunionette deformity** may also occur  
+
+### Hindfoot and TP Tendinopathy  
+- Occurs in about **25% of RA patients** (usually **after forefoot deformities**)  
+- **Typical deformity**: **Pes Planovalgus**  
+- Caused by:  
+  - **Subtalar erosions and eversion**  
+  - **Unlocked and synovitic Mid-Tarsal Joints**  
+  - **Synovitic Spring ligament**  
+  - **Arch collapse** → Talar head plantar, navicular subluxates laterally  
+  - **Tibialis Posterior Tendon prone to synovitis, attenuation, and rupture**  
+
+### Ankle  
+- **Severe erosions occur**, though ankle **is not usually unstable**  
+- When deformity occurs, it is **valgus**  
+  - Due to **subtalar joint valgus** and **pes planus deformity**  
+
+## Medical Management  
+
+### Disease-Modifying Anti-Rheumatic Drugs (DMARDs)  
+- **Methotrexate**  
+  - Most commonly used as the **‘anchor’ drug**  
+- **Prednisolone**  
+- **Hydroxychloroquine**  
+- **Cyclosporin**  
+
+### TNF-α Antagonists (Biologic DMARDs)  
+- **Etanercept** – Best tolerated  
+- **Infliximab**  
+- **Adalimumab** – Best disease suppression  
+
+### DMARDs and Surgery  
+- **DMARDs reduce joint disease** → less surgical intervention required  
+- **Perioperative DMARD Use**:  
+  - **Stopping DMARDs** increases **risk of RA exacerbation**  
+  - **Continuing DMARDs** increases **risk of infection & delayed healing**  
+  - General recommendation: **Stop TNF-α antagonists for 1-5 half-lives (5-15 days) before surgery**  
+
+## Surgical Management  
+
+### Forefoot  
+
+#### 1st MTPJ Options  
+- **Fusion** – **Gold standard for HV in RA**  
+- **Keller procedure** (excision arthroplasty & soft tissue repair)  
+  - **Option for older patients** (quicker results, lower morbidity)  
+- **Arthroplasty**  
+- **Joint-preserving osteotomy likely to fail** due to **soft tissue incompetence**  
+
+#### Lesser Toes Options  
+- **MT head excision arthroplasty**  
+  - **Plantar or dorsal transverse incision** or **multiple longitudinal dorsal incisions**  
+- **PIPJ fusion or excision arthroplasty with temporary wire stabilization**  
+- **Stainsby procedure**  
+  - **Unstable toes, unsightly appearance**  
+
+### Hindfoot  
+- **Triple fusion** – **Gold standard treatment**  
+- **Higher rate of non-union and malunion** than OA  
+- **Good symptom relief**  
+- Some surgeons **treat pes planovalgus like non-rheumatoids** using **isolated fusions, soft tissue reconstruction, or osteotomy**  
+- **Risk**: Progressive arthritis in other joints → **deformity recurrence**  
+
+### Ankle  
+
+#### Synovectomy  
+- **80% 10-year success rate** across all joints  
+- **Good option** for **young patients, early disease, no deformity**  
+- **Less common now due to DMARDs**  
+
+#### Ankle Fusion  
+- **Gold standard treatment** with **long-term success**  
+- **Arthroscopic fusion with percutaneous screws preferred**  
+  - **Shorter surgery time**  
+  - **Quicker fusion**  
+  - **Fewer soft tissue complications**  
+- **Traditionally, deformity & equinus were contraindications** for arthroscopic fusion  
+- **Current thinking**:  
+  - **Mild deformity & non-plantigrade foot may still be suitable**  
+  - **Bone resection required arthroscopically – technically difficult**  
+
+##### Open Fusion  
+- **Very effective operation with good results**  
+- **Approaches**: **Anterior, posterior, lateral, or combined**  
+- **Screw Configuration**  
+  - **3 screws more stable** than 2  
+  - **Cross screws more stable in lab studies**  
+
+#### Ankle Replacement  
+- **Newer-generation replacements have longer survivorship**  
+- **Survival rates**:  
+  - **Swedish Registry**: **70% at 10 years**  
+  - **Wrightington**: **93% at 5 years, 80% at 10 years**  
+- **Good option for older, low-demand RA patients**  
+  - **Improved ROM**  
+  - **More normal gait pattern**  
+  - **Possible reduced adjacent joint arthritis** (not proven)  
+- **Best option for pantalar arthritis** – **triple fusion + ankle replacement**  
+- **Much better than pantalar fusion** for patients  

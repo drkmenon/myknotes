@@ -1,0 +1,124 @@
+---
+title: "Tarsal Tunnel Syndrome"
+format: html
+editor: visual
+---
+
+## Epidemiology  
+- **Uncommon**  
+- More common in **diabetics**  
+- **Twice as common** in those with carpal tunnel syndrome  
+
+## Aetiology  
+- **Compression of the tibial nerve** or its branches within the tarsal tunnel  
+- Often an underlying cause  
+
+### Traumatic  
+- **Sustentaculum fracture**  
+- **Medial process calcaneus fracture**  
+- **Direct blow**  
+
+### Space-Occupying Lesion  
+- **Lipoma**  
+- **Varicosities**  
+- **Ganglion**  
+- **Synovitis of tendons in Rheumatoid Arthritis (RA)**  
+
+### Deformity-Related  
+- **Pes planus & Tibialis Posterior Insufficiency** (most common)  
+- **Cavus foot** (less common)  
+- **Talocalcaneal Tarsal Coalition**  
+
+### Idiopathic  
+- Likely related to **diabetes**  
+
+## Pathoanatomy  
+
+### Tarsal Tunnel Boundaries  
+- **Medial Malleolus**  
+- **Medial aspect of talus and calcaneus**  
+- **Flexor Retinaculum**  
+- **Abductor Hallucis**  
+
+### Tarsal Tunnel Contents  
+- **Tibialis Posterior (TP)**  
+- **Flexor Digitorum Longus (FDL)**  
+- **Posterior Tibial Artery**  
+- **Venae Comitantes**  
+- **Tibial Nerve**  
+- **Flexor Hallucis Longus (FHL)**  
+
+### Histology  
+- **Nerve narrowing and perineural fibrosis**  
+- **Same histologic changes as any compression neuropathy**  
+- These findings may be present in **asymptomatic individuals**  
+
+## Clinical Features  
+- Often **vague symptoms**  
+- **Pain and paresthesias** in the whole **sole of the foot**  
+- May be isolated to **medial or lateral plantar nerve** distribution  
+- Can be confused with **Plantar Fasciitis** or **Baxter’s Nerve Compression**  
+  - **Baxter's Nerve:** 1st branch of **lateral plantar nerve** to abductor digiti quinti  
+
+## Diagnosis  
+- **Clinical Diagnosis** – requires:  
+  - **Typical pain and paresthesia** in correct distribution  
+  - **Positive Tinel’s test**  
+  - **Positive provocation test** – dorsiflexion and eversion  
+- Must **rule out pes planus** or other contributory deformities  
+
+### Supplementary Investigations  
+- **Nerve Conduction Studies (NCS)** – **sensory more sensitive** than motor  
+- **MRI** – useful if **space-occupying lesion** is suspected  
+
+## Management  
+
+### Non-Operative  
+- **Identify and correct deformity first**  
+- **Insoles** to correct foot posture if present  
+
+### Surgical  
+- **Correct deformity** if likely contributory  
+- Otherwise, **decompression** of:  
+  - **Flexor Retinaculum** (*risk of bowstringing*)  
+  - **Abductor Hallucis**  
+  - **Excision of space-occupying lesions**  
+
+## Results  
+- **80% success rate** in best-selected patients – **warn patients**  
+
+## Complications  
+- **Damage to other tarsal tunnel structures**  
+- **Recurrence** – due to **incomplete release**  
+- **Bowstringing** – over-zealous **flexor retinaculum release**  
+- **Poor revision success rate** – some surgeons do not attempt revision  
+
+---
+
+# Anterior Tarsal Tunnel Syndrome  
+
+## Definition  
+- **Compression of Deep Peroneal (DP) nerve** beneath inferior part of the **extensor retinaculum**  
+
+## Causes  
+- **Osteophytes** from ankle or talonavicular joint (TNJ)  
+- **Tightly laced shoes**  
+- **Synovitis of tendons**  
+- **Space-occupying lesion** (e.g., ganglion, lipoma)  
+
+## Symptoms & Signs  
+- **Pain and paresthesias** over the **1st web space**  
+- **Positive Tinel’s sign**  
+- **Provoked by plantarflexion** (worse at night)  
+
+## Management  
+
+### Non-Operative  
+- **First-line treatment**  
+
+### Surgical  
+- **Decompression** by release of **inferior extensor retinaculum**  
+- **Care** to avoid damage to **dorsalis pedis artery**  
+
+## Results  
+- **Unpredictable outcomes**

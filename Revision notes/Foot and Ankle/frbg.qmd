@@ -1,0 +1,57 @@
+---
+title: "Freiberg’s Infraction"
+format: html
+editor: visual
+---
+
+## Aetiology  
+- Idiopathic  
+- Infraction means an incomplete fracture without displacement  
+- Freiberg’s is an infraction of the dorsal part of a lesser toe MT head  
+- The lower part of the head is preserved  
+
+## Location  
+- Descending from 2nd (most common) to 5th (least common)  
+
+## Associations  
+- Young adults  
+- Freiberg’s is idiopathic but has been associated with:  
+  - Trauma  
+  - Repeated Stress e.g. high heels  
+  - Long metatarsal  
+
+## Stages of Disease  
+1. Subchondral Fracture  
+2. Osteonecrosis of fractured fragment  
+3. Deformation of necrotic area  
+4. Arthrosis  
+
+## Clinical Presentation  
+
+### Symptoms  
+- Well-localised pain  
+- Non-progressive i.e. does not exponentially get worse  
+- Pain is from arthrosis – osteophyte formation and synovitis  
+- Mechanical in nature  
+
+### XR  
+- Typical features – widened deformed MT head  
+- Lateral view shows sparring of inferior part of head  
+
+## Management  
+
+### Non-Operative  
+- Problem will not get worse; therefore, no intervention for sake of prevention  
+- Metatarsal bar insoles  
+- Activity modification, NSAID and rest  
+- Steroid Injection  
+
+### Surgical Management  
+- If intractable or functionally limiting pain  
+- Options:  
+  - Debride Joint  
+  - Shorten MT +/- debride joint  
+  - Dorsiflexion osteotomy of MT head – most common procedure  
+    - Re-orientates MT head so necrotic part is extra-articularised  
+    - Fixed as a Weil’s osteotomy  
+    - Good results  

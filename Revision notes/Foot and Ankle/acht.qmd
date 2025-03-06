@@ -1,0 +1,82 @@
+---
+title: "Achilles Tendinopathy"
+format: html
+editor: visual
+---
+
+## Epidemiology  
+- Usually middle-aged individuals involved in sports  
+
+## Aetiology  
+- **Non-Insertional (2-6cm from insertion)** – most common  
+- **Insertional (<2cm from insertion)** – often associated with **Haglund’s deformity**  
+- **Retrocalcaneal Bursitis** – may co-exist with insertional tendinopathy  
+- **Peritendinitis** – inflammation of the paratenon only  
+  - Hard to differentiate from non-insertional clinically  
+
+## Pathoanatomy  
+- An **enthesiopathy** similar to other areas in the body  
+- **Fibrocartilaginous metaplasia** with collagen fiber disorganization, hypercellularity, and neovascularization  
+- **Attritional tears** and **intra-tendinous calcification** may be found  
+- **Non-insertional tendinopathy** occurs in a **watershed area of blood supply**  
+  - Located **2-6 cm** from insertion on the **posterior calcaneal tuberosity**  
+
+## Incidence of Rupture  
+- No proven evidence that **tendinosis** is a **prelude to rupture**  
+- However, they can **occur together**  
+- Ruptured tendons in **asymptomatic individuals** show the **same histopathology** as tendinosis  
+
+## Achilles Biomechanics  
+- **Achilles transfers ~10x body weight** during terminal stance and pre-swing (**3rd rocker**)  
+
+## Clinical Features  
+- **Activity-related pain**  
+- **Swelling** can be very prominent  
+- **Shoe wear** can be uncomfortable  
+
+### Examination  
+- **Location of swelling and pain** is the main differentiator  
+- **Retrocalcaneal bursitis** has swelling that **doesn’t move with the tendon**  
+  - Located **adjacent to either side of the tendon** proximal to insertion  
+- **Symmonds test** to check for tendon continuity  
+
+## Investigations  
+
+### X-ray  
+- May show **Haglund’s deformity** associated with **insertional tendinopathy**  
+- **Calcaneal cystic changes** consistent with insertional tendinopathy  
+
+### MRI  
+- **Not usually necessary**  
+- May show:  
+  - **Longitudinal intratendinous splits**  
+  - **Intratendinous calcification and hypovascularity**  
+  - **Retrocalcaneal bursal or insertional high signal**  
+
+## Non-Surgical Management  
+- **Activity modification**  
+- **Heel raise**  
+- **Padding around the heel**  
+- **Eccentric exercise programme** – especially for **non-insertional tendinopathy**  
+- **Steroid injections**  
+  - Avoid **into tendon or paratenon**  
+  - Consider for **retrocalcaneal bursitis**  
+- **Platelet injections** – unproven but may be tried in **non-insertional tendinopathy**  
+
+## Surgical Management  
+
+### Non-Insertional  
+- **Debridement** of **tendon and paratenon**  
+- **Excision of calcifications**  
+- If **>50% debridement** required → **FHL/plantaris tendon transfer**  
+
+### Insertional  
+- **Debride tendon**  
+- **Excise Haglund’s deformity** if present  
+- **Re-attach tendon** using **anchors or drill holes**  
+
+### Dealing with Tendon Deficiency  
+- **VY plasty**  
+- **Achilles turndown**  
+- **Allograft**  
+- **FHL transfer**  

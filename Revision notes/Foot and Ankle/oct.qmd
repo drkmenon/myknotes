@@ -1,0 +1,59 @@
+---
+title: "Osteochondral Lesions of the Talus"
+format: html
+editor: visual
+---
+
+## Epidemiology and Characteristics  
+- Most occur from an injury – may be minor  
+- Some may be secondary to localized AVN or metabolic problems  
+
+## Location  
+- **70% medial and 30% lateral**  
+- Usually are **posteromedial and anterolateral**  
+- **Lateral** are almost always **traumatic**  
+- **Lateral** tend to be **unstable**  
+- **Medial** more **cystic** and more **stable**  
+- **10%** have a corresponding **kissing lesion on the tibial plafond**  
+
+## Classification  
+
+### Berndt & Hardy  
+1. **Stage 1** – Subchondral fracture  
+2. **Stage 2** – Partially detached fragment  
+3. **Stage 3** – Detached but stable fragment  
+4. **Stage 4** – Detached and unstable fragment – free floating  
+
+- This system is based on **XR** and **50% of OCDs are not seen on XR**  
+- **Newer MRI classifications** (e.g., Bristol) use **MRI**  
+  - Incorporate **bone oedema** into their classification  
+
+## Clinical Features  
+- Usually a **history of injury**, even if minor and some time ago  
+- **Pain** is the main feature  
+- **Does not settle** with non-operative modalities  
+- **Synovitis** can cause secondary **impingement**  
+
+## Investigation  
+- **Visible in 50%** on plain X-rays  
+
+### MRI  
+- **Gold standard** for quantifying lesion, degree of oedema, and other pathology  
+
+## Management  
+
+### Non-Operative  
+- May help – **injection, physio, and activity modification**  
+- **Natural history** of OCD is **not yet known**  
+- No current correlation with **symptomatic OA**  
+- **RCT in 2000 (Tol et al.)**  
+  - Showed **improvement in 50%** with non-operative and **80% with debridement**  
+- **Therefore, have a low threshold for arthroscopic debridement**  
+
+### Surgical Treatment  
+- **Treatment of choice** is **arthroscopic debridement**  
+- **Chondral flaps and loose bodies**  
+- **Microfracture or curettage** to bleeding bone for chondral defects  
+- **Cartilage grafting** (ACI, MACI, Plugs, Mosaicplasty, etc.)  
+  - Not proven in the ankle  
+  - Can be considered for **larger areas of cartilage loss**  

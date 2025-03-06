@@ -1,0 +1,217 @@
+---
+title: "Diabetic Foot"
+format: html
+editor: visual
+---
+
+## Two Main Problems  
+1. Ulceration & Infection  
+2. Charcot Arthropathy  
+
+## Pathophysiology  
+- Diabetes causes polyneuropathy, affecting sensory, autonomic, and motor nerves  
+- Sensory neuropathy predominates  
+  - Glove and stocking distribution, progressing from distal to proximal  
+  - Hyperglycemia and micro-vessel disease alter axoplasmic blood flow  
+  - Abnormal collagen cross-linking leads to stiffer tendons  
+    - Contributes to Achilles contracture  
+- Autonomic neuropathy reduces sympathetic activity  
+  - Warm, pink, and dry skin due to altered sweating  
+- Motor neuropathy is less dominant  
+  - Primarily affects tibialis anterior and intrinsics  
+  - Leads to equinus contracture and claw toes  
+    - Deformity increases cutaneous foot pressures  
+
+## Susceptibility to Infection  
+- Main issue is decreased ability to combat infection  
+- Infections are invariably contiguous through skin breaks, rarely haematogenous  
+
+### Risk Factors for Skin Breaks  
+- Dry skin susceptible to cracking  
+- Areas of high pressure – MT heads & equinus contracture  
+- Ulcers form due to impaired healing of fissures  
+  - Neutrophil function impaired  
+  - Microvascular blood flow decreased  
+- Osteomyelitis results from contiguous deep spread of infection  
+  - 67% (2/3) of ulcers probed to bone will have osteomyelitis  
+
+## Pathophysiology of Charcot  
+- Exact cause unknown, but related to neuropathy  
+- Three theories:  
+  - **Neurotraumatic theory**  
+    - Loss of protective sensation and proprioception  
+    - Repetitive microtrauma leads to uncontrolled deformity  
+  - **Neurovascular theory**  
+    - Autonomic neuropathy causes hyperaemia  
+    - Hyperdynamic circulation alters bone resorption and synthesis balance  
+  - **Inflammatory theory (favored)**  
+    - Injury triggers an inflammatory cascade in susceptible patients  
+    - Osteoclast activation leads to abnormal bone resorption and remodeling  
+    - Loss of protective sensation allows deformity to progress  
+- Most commonly seen in diabetics but also found in:  
+  - Syphilis (historically, more common in knee)  
+  - Alcoholic neuropathy  
+  - CVA  
+  - Spina bifida  
+- Trauma is often the inciting event  
+  - May be remembered or subclinical  
+- Overactivity of osteoclasts and fracture healing cascade activation  
+- Deformity and arthrosis progress unchecked due to loss of neurologic protection  
+  - Predominantly affects midfoot but can occur anywhere  
+
+## Classification  
+
+### Wagner Classification of Diabetic Foot Ulcers  
+- **Grade 0**: No ulcer but foot deformity at risk of ulceration  
+- **Grade 1**: Superficial ulcer  
+- **Grade 2**: Deep ulcer with visible bone or tendon  
+- **Grade 3**: Deep ulcer with abscess or osteomyelitis  
+- **Grade 4**: Ulcer with gangrene limited to the forefoot  
+- **Grade 5**: Ulcer with gangrene of the whole foot  
+
+**At each grade, management is influenced by:**  
+- Vascularity of the foot  
+- Presence of infection  
+
+### Eichenholz Classification of Charcot Foot  
+- **Stage 0 (Pre-fragmentation)**: Acutely inflamed, painful foot with regional bone demineralization  
+- **Stage 1 (Fragmentation)**: Painful, peri-articular fragmentation and joint dislocation, demineralization  
+- **Stage 2 (Coalescence)**: Less painful, sclerosis, and bone resorption  
+- **Stage 3 (Remodeling)**: Pain-free, malunited, ankylosed joints  
+
+## Clinical Evaluation  
+
+### History  
+- **Ulcer-related factors**: Pain, discharge, chronicity, treatments, previous ulcers  
+- **Foot-related factors**: Pain, swelling, functional impairment  
+- **Diabetes-related factors**: Type, control, complications (renal, eye, CV)  
+- **PMH**: Especially vascular disease  
+
+### Examination  
+
+#### General Foot Appearance  
+- Charcot foot: dry, warm, swollen, bounding pulses  
+  - May resemble infection  
+- General motor exam for large muscle groups  
+
+#### Deformities  
+- Claw toes – fixed or flexible  
+- Plantar callus formation  
+- **Silverskiöld test** for Achilles contracture  
+  - Increases plantar forefoot pressures  
+  - May require release for treatment  
+- Other deformities – hallux valgus, etc.  
+
+#### Establishing Peripheral Neuropathy  
+- **Semmes-Weinstein testing**  
+  - Monofilament testing at multiple locations  
+  - 10g filament commonly used  
+  - Absence of response to 5.07 filament indicates neuropathy  
+- **Two-point discrimination & vibration testing**  
+- **Light and sharp touch testing**  
+
+#### Ulcer Examination  
+- Clear surrounding callus to expose ulcer  
+- Assess discharge – pus, blood, etc.  
+- Probe with sterile instrument – if down to bone, 67% chance of osteomyelitis  
+
+#### Vascular Examination  
+- **Pulses**  
+  - May be bounding due to calcified arteries & sympathetic neuropathy  
+  - Absence is a poor indicator – use Doppler  
+- **ABPI**  
+  - >0.8 is normal  
+  - >0.45 required for wound healing  
+- **Transcutaneous oxygen saturation**  
+  - 40 is normal, <25 indicates high breakdown risk  
+
+## Investigations  
+
+### Blood Tests  
+- **FBC, CRP, U&E, HbA1c**  
+  - CRP, ESR, and WCC may be elevated in infection or Charcot  
+  - Poor differentiators individually  
+  - Trends useful in established infection  
+- **HbA1c**  
+  - Indicates glucose control over past 3 months  
+  - Normal upper limit ~6.5%  
+
+### Imaging  
+- **X-rays (standing AP, lateral, oblique)**  
+  - Established osteomyelitis visible  
+  - Charcot stages 1-3 clearly apparent  
+- **MRI**  
+  - Useful for early osteomyelitis but high false positive rate  
+  - Good for abscess detection  
+- **Bone scan**  
+  - Increased uptake in early Charcot before X-ray findings  
+  - Poor specificity for infection vs. Charcot vs. osteomyelitis  
+- **WBC-labeled scan**  
+  - More specific for osteomyelitis  
+- **PET scan**  
+  - Sensitive but expensive and not widely available  
+
+## Diagnosing Infection  
+- Exposed bone through an ulcer is likely osteomyelitis until proven otherwise  
+- Superficial cultures are unreliable due to polymicrobial contamination  
+- **Bone biopsy is the gold standard**  
+
+## Differentiating Between Infection and Charcot  
+- **Main differentiator: presence of an ulcer**  
+- If no ulcer, infection is highly unlikely  
+- Infection in diabetics is contiguous, not haematogenous  
+- PET, MRI, or WBC-labeled scan may help  
+- **Bone biopsy is the gold standard**  
+
+## Management  
+
+### Prevention  
+- Education, accommodative footwear, padding for high-risk feet, good diabetic control  
+
+### Simple Non-Infected Ulcers  
+- Optimize **diabetic control**  
+- Optimize **vascular perfusion**  
+- **Offload the ulcer**  
+- **Reduce mechanical risk factors**  
+- **Total Contact Cast (TCC)** is ideal for offloading  
+- Consider Achilles lengthening or claw toe correction if contributing  
+
+**Risk Factors for Treatment Failure:**  
+- Large ulcers (>2 cm)  
+- Wagner Grade 3 ulcers (deep with abscess/osteomyelitis)  
+- Ulcer duration >2 months  
+- Mechanical risk factors (clawing, equinus contracture)  
+
+### Infected Ulcers  
+- **Optimize diabetic control & vascular flow before surgery**  
+- **Treatment ladder:**  
+  1. Broad-spectrum antibiotics  
+  2. Debridement and abscess drainage  
+  3. Debridement of osteomyelitis  
+  4. Ray amputations  
+  5. Lisfranc amputation  
+  6. Chopart amputation (if performed, dorsiflexors must be reattached)  
+  7. Below-knee amputation (BKA)  
+
+### Charcot Management  
+
+#### Early Disease  
+- Goal: minimize deformity progression  
+- **Diabetic control** slows progression  
+- **Total contact casting** to limit deformities  
+- **Consider surgical fusion** if early instability  
+- **Hindfoot nail fusion** for hindfoot and ankle involvement  
+
+#### Chronic Charcot  
+- Non-operative preferred  
+  - Good diabetic control, education, accommodative footwear  
+- Surgical indications:  
+  1. Recurrent ulceration  
+  2. Instability  
+  3. Pain  
+  4. Dysfunction due to deformity  
+- Surgical options:  
+  - Exostectomy  
+  - Corrective osteotomy  
+  - Fusion with osteotomy  
+  - Amputation proximal to Charcot disease  
