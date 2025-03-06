@@ -1,0 +1,37 @@
+---
+title: "Hallux Varus"
+format: html
+editor: visual
+---
+
+## Aetiology
+- **Usually due to over-correction of Hallux Valgus**
+  - **Excessive lateral release**
+  - **Excessive resection of medial eminence**
+  - **Lateral (fibular) sesamoidectomy** – as part of **McBride procedure**
+- If **not iatrogenic**, may be:
+  - **Congenital** – related to **metatarsus varus, skew foot**
+  - **Part of a neuromuscular condition**
+
+## Clinical Features
+- **Usually isolated**
+- **1st MTPJ may be stiff and painful**
+- Otherwise, the **deformity is well tolerated**
+
+## Management
+- **Reassurance** if **asymptomatic**
+- **Shoe wear modifications**
+
+### Surgical Indications
+- **Painful MTPJ**
+- **Skin problems** against shoe wear
+- **Tread carefully**
+  - **Correction may further stiffen MTPJ** and make patient **more symptomatic**
+
+## Surgical Options
+### Soft Tissue Correction – if flexible and pain-free
+- **Release of Abductor tendon** and **Split EHL transfer to lateral aspect**
+
+### PP
+- **MTPJ arthrodesis**
+  - If **painful and stiff**

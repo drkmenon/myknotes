@@ -1,0 +1,40 @@
+---
+title: "Bunionette Deformity"
+format: html
+editor: visual
+---
+
+## Associations
+- **RA**
+- **Hallux Valgus & primus metatarsus varus** – ‘splayfoot’
+- **Women**
+
+## Classification
+- **Coughlin** – based on description of reason for deformity:
+  - **Type 1** – Large **5th MT head**
+  - **Type 2** – Bowed **5th MT shaft**
+  - **Type 3** – Increased **4th-5th IM Angle >8 degrees**
+
+## Symptoms
+- **Often less symptomatic** than Hallux Valgus
+- May just be **aesthetic dissatisfaction**
+- **Painful callus** – lateral or plantar
+
+## Examination
+- **Screen for underlying inflammatory pathology**
+- **General foot examination** – HV, hammer toes, etc.
+- **Shoewear**
+
+## Management
+- **Non-operative where possible**
+- **Advice, shoewear modification, padding, callus management**
+
+## Surgical
+- If **non-operative fails**
+- **Traditional thinking** is that:
+  - **Type 1** – Bunionette **excision**
+  - **Type 2** – **Diaphyseal osteotomy**
+  - **Type 3** – **Basal osteotomy**
+- **No clear-cut consensus**
+- **Options are similar to HV** – distal **chevron or scarfette** are mainstays
+- **Beware proximal osteotomies and risk of non-union**

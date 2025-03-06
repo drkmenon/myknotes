@@ -1,0 +1,197 @@
+---
+title: "Pes Cavus & Charcot Marie Tooth Disease"
+format: html
+editor: visual
+---
+
+## Epidemiology
+
+-   **Charcot-Marie-Tooth (CMT)** is the most common inherited neuropathy.
+-   **Men \> Women**, but women have more severe symptoms.
+-   Patients typically present in the **2nd or 3rd decade**.
+
+## Inheritance Pattern
+
+-   **Autosomal Dominant (most common)** – defect on **chromosome 17** affecting **peripheral myelin protein 22 (PMP22)**.
+-   **Sex-linked recessive & autosomal recessive forms** present earlier and are more severe.
+-   **Predictors of severity:**
+    -   Early presentation (\<10 years)
+    -   Autosomal or sex-linked recessive pattern
+    -   Female gender
+    -   Associated sensory deficit (**causes ulcers as in diabetes**)
+
+## Hereditary Motor Sensory Neuropathies (HMSN)
+
+### Aetiology
+
+-   **Autosomal Dominant disorder** causing predominantly **distal motor & sensory deficits**.
+-   **Family history** is crucial for diagnosis.
+
+### Types of HMSN (7 types; most common below)
+
+#### **HMSN 1 (CMT – Myelopathic/Hypertrophic)**
+
+-   **More common**
+-   **Onset:** 10-20 years
+-   **Demyelination of nerves**
+-   **Nerve conduction studies:** Prolonged latencies, reduced velocities
+-   **Absent reflexes**
+
+#### **HSMN 2 (CMT – Neuropathic)**
+
+-   **Less common**
+-   **Onset:** 20-30 years
+-   **Wallerian degeneration without demyelination**
+-   **EMG near normal**
+-   **Reflexes present**
+
+#### **Clinical Features of Both**
+
+-   **Motor \> Sensory** involvement
+-   **Most affected muscles:** Peronei & Tibialis Anterior
+-   **Foot deformities:** Cavus, Cavovarus, Hammer toes
+-   **Surgical goals:** Maintain flexibility via transfers/osteotomies
+-   **Avoid fusions** where possible (young patients)
+-   **Hip dislocation & scoliosis rare**
+-   **Intrinsic wasting of hands**
+
+#### **HMSN 3 (Dejerine-Stotta Disease)**
+
+-   **Autosomal Recessive (AR)**
+-   **Onset:** Infancy
+-   **Severe manifestations:**
+    -   Foot drop
+    -   Scoliosis
+    -   Difficulty ambulating
+
+## Aetiology of Pes Cavus
+
+-   **CMT is predominantly a motor neuropathy** causing **muscle imbalance**.
+-   **Pes Cavus can arise from any neurological condition causing imbalance**.
+-   **Often no identifiable neurological cause**.
+-   **Usually symmetrical**.
+-   **Weakness primarily in:**
+    -   **Peroneus Brevis, Tibialis Anterior, Intrinsics**
+
+### Deformities & Muscle Weakness
+
+#### **Cavus Deformity**
+
+-   **Plantar flexion of 1st ray** is the driving force.
+-   **Peroneus Longus overpowers Tibialis Anterior**.
+-   **Windlass mechanism exacerbates deformity**.
+
+#### **Varus Deformity**
+
+-   **Two causes:**
+    1.  **Plantar flexed 1st ray → Pronated forefoot**.
+    2.  **Tripod effect → Hindfoot varus to balance the foot**.
+-   **Weak Peroneus Brevis overpowered by TP → Net inversion**.
+
+#### **Equinus Deformity**
+
+-   **Weak Tibialis Anterior → Gastrosoleus dominance**.
+
+#### **Claw Toes**
+
+-   **EDL compensates for weak TA → Overuse causes clawing**.
+-   **Intrinsics weak, FDL relatively spared** → **MTPJ hyperextension, PIP/DIPJ flexion**.
+
+## Clinical Features
+
+### **History**
+
+-   **Chief complaints:** Deformity & stiffness \> Pain or paraesthesia.
+-   **Difficulty on uneven ground & sports**.
+-   **Family history common**.
+-   **Plantar pain (metatarsalgia)**.
+
+### **Examination**
+
+-   **Deformities:** Cavus foot, toe clawing, hindfoot varus.
+-   **Coleman block test** – Assess hindfoot flexibility.
+-   **Silverskold test** – Assess Equinus.
+-   **Painful joints?** – Indicates arthrosis.
+-   **Stork legs:** Thin calves, normal thigh girth.
+-   **Sensory changes:**
+    -   Mild proprioception & vibration deficits.
+    -   2-point discrimination may be affected.
+-   **Muscle Power:** Assess **PL, PB, TA, TP, etc.**
+-   **Screen for neurological issues:** Spine, skin, gait.
+-   **Advanced cases:** **Intrinsic minus hand deformity**.
+
+## Investigations
+
+### **X-Ray (Standing AP & Lateral)**
+
+-   **Lateral:** High arch, cuboid in profile.
+-   **Calcaneal pitch \>30° (abnormal)**.
+-   **Positive Meary’s angle (\>5° abnormal)**.
+-   **AP:** Posteriorly displaced fibula (external tibial rotation).
+
+### **MRI**
+
+-   **Selective use** – Asymmetric cases, other neurological symptoms.
+
+### **Genetic Testing**
+
+-   **For family screening**.
+
+### **Nerve Conduction Studies & EMG**
+
+-   **EMG useful as motor nerves primarily affected**.
+-   **Demyelination → Slowed conduction velocities**.
+
+## Management
+
+### **Non-Operative**
+
+-   **Footwear modifications & AFOs**.
+-   **Does not alter disease course**.
+-   **Delays surgery until symptomatic deformities arise**.
+
+### **Surgical Treatment**
+
+-   **Correct deformities based on flexibility & arthrosis**.
+
+#### **1st Ray Plantarflexion**
+
+-   **Dorsal closing wedge osteotomy**.
+-   **Peroneus Longus to Peroneus Brevis transfer**.
+
+#### **Cavus Deformity**
+
+-   **Plantar fascia release**.
+-   **TP transfer to dorsum via interosseous membrane (IOM)**.
+
+#### **Hindfoot Varus**
+
+-   **PL to PB transfer**.
+-   **Lateral closing wedge calcaneal osteotomy (Dwyer)**.
+-   **Lateral calcaneal slide osteotomy**.
+
+#### **Equinus Deformity**
+
+-   **Usually corrects after other deformities are addressed**.
+-   **TA lengthening reserved for last correction**.
+
+#### **Claw Toes**
+
+-   **Girdlestone-Taylor split FDL to EDL transfer**.
+-   **Weil osteotomy if correction is incomplete**.
+-   **MTPJ release, PIPJ excision arthroplasty**.
+
+#### **Big Toe Clawing**
+
+-   **Jones Procedure** – **IPJ fusion & EHL transfer to 1st MT dorsum**.
+
+#### **Arthrodesis (Last Resort)**
+
+-   **Triple arthrodesis** if fixed, painful deformities.
+-   **Avoid as long as possible** (young patients).
+
+### **In Reality**
+
+-   **Most cases require a combination of osteotomies & tendon transfers**.
+-   **Patients often still need orthoses post-surgery**.
+-   **TP IOM transfer helps but may not fully prevent drop foot**.

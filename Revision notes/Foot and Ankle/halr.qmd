@@ -1,0 +1,130 @@
+---
+title: "Hallux Rigidus"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **2x more common in women**
+- Often bilateral but not always symptomatic
+- Wide age range from teens to elderly
+
+## Aetiology
+- **Idiopathic**
+- **Inflammatory arthropathy**  
+  - RA, Gout
+- **Post Traumatic**
+- **Infective**
+
+## Natural History
+- Often do not get worse and may improve – **50% in RCT (Pon’s)**
+
+## Clinical Features
+
+### Symptoms
+- Pain over big toe – usually **dorsal**
+- Pain on **dorsiflexion**
+- Block to **dorsiflexion**
+- May have more pain on **plantarflexion** – capsule stretching over osteophyte
+- **Stiffness & painful locking** of MTPJ
+- **Dorsal prominence, soft tissue swelling, or ulceration**
+
+### Examination
+- General **foot and ankle exam**
+- **Tiptoeing pain**
+- **ROM** – blocks; pain; stiffness
+- **Concurrent Hallux Valgus present?**
+
+## Classification
+- **Based on XR changes**
+  - **Mild** osteophyte formation with preserved joint space
+  - **Moderate** osteophytes with diminished dorsal joint space
+  - **Marked** osteophytes with complete joint space degeneration
+- Can be **subclassified** depending on **ROM and pain**
+
+## Management
+
+### Non-Operative
+- **Good results** in a large number of patients
+- **NSAIDs**, activity modification, accommodative footwear
+
+### Injection & MUA
+- **Diagnostic & therapeutic**
+- **Long-lasting** in many patients with **minimal XR changes**
+
+### Surgical
+- **Motion Preserving or Motion Sacrificing**
+  - **Cheilectomy**
+  - **Osteotomy**
+  - **Arthroplasty**
+  - **Arthrodesis**
+
+## Dorsal Cheilectomy
+- **Motion preserving** – good for more active patients with **milder disease**
+- For **mild disease** or patients with only **dorsal symptoms from osteophyte**
+- **Dorsomedial incision**
+  - Take care to **avoid medial dorsal cutaneous nerve**
+  - **Capsulotomy**
+  - **Oblique resection of 30-50%** of joint
+  - Need to resect **30%** to improve ROM reliably
+  - Concurrent **PP cheilectomy or dorsal osteotomy** of PP possibly
+- **Results are good** in correct patients
+- Cheilectomy is **viable for more severe disease** if **pain is dorsal over osteophyte** and **some ROM is retained**
+  - **Clinical evaluation essential** in deciding treatment
+
+## Interposition Arthroplasty
+- **Limited PP resection** and **infolding of dorsal capsule**
+- **OK results** but there are **better motion-sparing operations**
+
+## Dorsiflexion Phalangeal Osteotomy
+- **Idea** is to **reduce pressure on dorsum of MTPJ**
+
+## Metatarsal Osteotomy
+- **Plantarflexing osteotomy** reduces **dorsal impingement**
+- No reports regarding **metatarsalgia** but is a **problem in theory**
+- For **early hallux rigidus**
+- **Outcomes no better than Cheilectomy**, which is **much easier**
+
+## Arthroplasty
+- **Silastic (Swanson) arthroplasty** had **many complications**
+- Currently **Hemi and Total joint arthroplasties** available
+- **No data proving better results than fusion**
+- **Specific Complications**:
+  - **Early wear** – main issue
+  - **Synovitis**
+  - **Dislocation**
+  - **Cock-up toe**
+  - **Loss of bone stock** – more difficult to salvage
+
+## Arthrodesis
+- **Gold Standard** – good for **grade 2-3 symptomatic cases**
+- **Multiple methods**
+- **Dorsomedial incision**
+- **Prepare articular surfaces** – key step
+- **Parallel cuts or ice cream cone reamers**
+- **Parallel cuts shown to be more stable**
+- Can address concurrent **Hallux Valgus** with the cuts
+- **Fixation** with **cross screws, pins, low-profile plates**
+- **Positioning**:
+  - **10° valgus, neutral rotation & pulp just off the floor with foot in a plantigrade position**
+  - **Use flat board intra-operatively**
+- **Disadvantages**:
+  - Relatively contraindicated if **DIPJ arthrosis**
+  - **Can’t wear high heels**
+  - **Gait pattern altered**
+  - **Pivoting sports more difficult**
+
+## Excision Arthroplasty
+- **Keller’s** – for **older low-demand patients**
+
+## Overall Procedure Choice
+
+### No significant or very mild XR findings
+- **Injection and MUA**
+
+### Mild – moderate dorsal osteophytes with retention of ROM and main symptoms dorsal
+- **Cheilectomy**
+
+### More significant degeneration with diffuse pain and stiffness
+- **Fusion**
+  - Also for **inflammatory arthritis**

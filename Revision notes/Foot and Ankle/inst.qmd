@@ -1,0 +1,187 @@
+---
+title: "Ankle Instability"
+format: html
+editor: visual
+---
+
+## Ligamentous Stabilisers of the Ankle  
+
+### **Lateral Ligaments**  
+- **ATFL** – Primary restraint to anterior translation, especially if foot not plantigrade  
+- **CFL** – Restraint to varus force – lies deep to peronei  
+- **PTFL** – Strongest and least ruptured of the three lateral ligaments  
+- **SPR** – At level of lateral malleolus – rupture = peroneal instability  
+- **IPR** – Continuation of IER, stabilises peronei distally  
+- **IER** – Y-shaped, vertical limb crosses ankle & STJ – weak stabiliser  
+- **AITFL** – Stabilises inferior tibiofibular joint – most commonly injured  
+- **PITFL** – Stronger than AITFL and less commonly injured  
+- **IOTFL** – Proximal extent is IOM  
+
+### **Talocalcaneal Ligaments**  
+- Lateral, interosseus, and cervical – stabilise talus in and around sinus tarsi  
+
+### **Deltoid Ligament**  
+- **Superficial** – Fan-shaped, attaching to navicular, calcaneus, and talus  
+- **Deep** – More important for stability, attaches only to talus  
+
+### **Spring Ligament**  
+- Runs under sustentaculum from calcaneus to navicular like a sling  
+- Has **superior & inferior** portions  
+- Supports **TNJ and medial arch**  
+
+### **Posterior Structures**  
+- **Intermalleolar Ligament** – Between malleoli at level of joint  
+- **PITFL** – Strongest stabiliser of the syndesmosis, least frequently torn  
+- **PTFL** – Lies on posterior aspect, rarely injured  
+- **Posterior Talar Tubercle** – If fails to ossify, forms an *Os Trigonum*, can impinge  
+
+---
+
+## Ankle Movements  
+- **Axis of motion** is between malleoli – oblique  
+- Ankle is most stable on **axial loading and plantigrade** – congruent bones  
+- **On dorsiflexion**:  
+  - Fibula **externally rotates 11 degrees** & moves slightly proximal  
+  - To accommodate wedge-shaped talus and oblique axis  
+
+---
+
+## Classification of Instability  
+- **Most useful classification**:  
+  - **Functional Instability** – Feeling of giving way or actual giving way but with no clinical laxity  
+  - **Mechanical Instability** – Clinically reproducible laxity – may or may not be symptomatic  
+
+---
+
+## Risk Factors for Instability  
+
+### **Hindfoot Varus**  
+- **Most important predisposing factor** for recurrent lateral instability  
+- **Main cause of surgical failure** is not recognising varus  
+
+### **Equinus**  
+- **Inability to get foot plantigrade** means ATFL is constantly working  
+- Can lead to **chronic rupture or incompetence**  
+
+### **Hindfoot Valgus**  
+- Less common than varus but can cause chronic **medial instability**  
+
+### **Other Risk Factors**  
+- **Pivoting Sports**  
+- **Obesity**  
+- **Hyperlaxity**  
+
+---
+
+## Clinical Features  
+
+### **History**  
+- Acute, chronic, or acute on chronic  
+- What actually happens on *giving way*?  
+- Number of episodes  
+- Are they painful?  
+- Treatment history  
+- **Symptoms**:  
+  - Locking, clicking, or giving way  
+  - Global hyperlaxity  
+
+### **Examination**  
+- **Beighton’s Score** – for hyperlaxity  
+- **Screen for deformity** – varus, valgus, or equinus  
+- **Passive ROM** – is there pain or stiffness?  
+- **Palpation** – lateral, medial & syndesmotic ligaments for pain  
+- **Joint line pain** – synovitis from chronic impingement  
+- **Evidence of peroneal subluxation**  
+
+### **Special Tests**  
+- **Anterior Draw** – Tests ATFL  
+  - 30° plantar flexion, fix tibia, and draw hindfoot forward  
+  - *Positive* if sulcus appears or more laxity than the other side  
+- **Tilt Test** – Primarily for lateral laxity  
+  - Ankle plantigrade, STJ locked, apply **varus stress**  
+  - *Valgus stress* will test medial structures  
+- **Syndesmosis Stability**  
+  - **Squeeze Test** – Useful in acute injuries, pain over AITFL  
+  - **External Rotation Test** – More useful in chronic injury  
+    - Foot plantigrade, hanging off couch, knee flexed  
+    - Fix tibia and externally rotate foot  
+    - *Positive* if increased rotation or pain → impingement  
+
+---
+
+## Imaging  
+
+### **X-Ray (XR)**  
+- **Standing AP and Lateral Views** – Show **mortise reduction**  
+- **Stress Views** – May be useful  
+- **Plain X-rays miss 50% of OCDs**  
+
+### **MRI**  
+- **Indicated in**:  
+  - Non-recovering ankle sprains at **4-8 weeks**  
+  - Chronic instability cases with pain → may have **OC lesion**  
+- **Arthrogram** – Probably better than plain MRI  
+
+---
+
+## Management  
+
+### **Acute Injuries & Instability**  
+- **No evidence** to support **acute ligament repair** over non-operative treatment  
+- **Evidence-based approach**:  
+
+#### **Minor Stable Sprains**  
+- **RICE**, early **weight-bearing (WB)**, and ROM  
+
+#### **Severe Stable Sprains**  
+- **Physiotherapy** – muscle rehab and proprioceptive training  
+
+#### **Severe Unstable Sprains**  
+- Diagnosed by a clinician  
+- **Supportive brace + early WB with physiotherapy**  
+- **MRI if no improvement after 4-6 weeks** to rule out OCD  
+
+---
+
+## Chronic Instability  
+
+- **Patients with functional instability** often improve with **arthroscopy**  
+  - Instability often due to **intra-articular pathology**  
+- **Patients with true mechanical instability** can be offered **stabilisation**  
+
+### **Good Practice Approach**  
+1. Perform **Examination Under Anaesthesia (EUA)**  
+2. **Arthroscopy** – improves many cases  
+3. If no improvement & mechanical instability → **Stabilisation Procedure**  
+
+---
+
+## Stabilisation Procedures  
+
+### **Brostrum (with Gould Modification)**  
+- **Direct repair of ATFL and CFL**  
+- **Techniques**:  
+  - **End-to-end repair** or **anchors** depending on ligament tear location  
+- **Gould Modification**:  
+  - Reinforces with part of the **inferior retinaculum**  
+- **Advantages**:  
+  - Very good, reproducible long-term result  
+  - Preferred as it is an **anatomic repair**  
+
+### **Non-Anatomic Repairs**  
+- **Examples**: Evans, Watson Jones, or Sammarco (*actually anatomic*)  
+- **Indications**:  
+  - **Insufficient ligamentous tissue** for Brostrum  
+  - **More robust repair required**:  
+    - **Varus hindfoot**  
+    - **Severe instability**  
+    - **High-demand patient** needing stability at the expense of flexibility  
+    - **Ligamentous laxity** (*try to avoid surgery in this group*)  
+- **Techniques**:  
+  - Splitting **Peroneus Brevis**  
+  - Re-rooting the tendon around **talus, fibula, and calcaneus**  
+  - Uses **anchors or drill holes**  
+- **Outcomes**:  
+  - Good results  
+  - Robust  
+  - **Not as anatomic** as Brostrum – may alter ankle kinematics and stiffen  

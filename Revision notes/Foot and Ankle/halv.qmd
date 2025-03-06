@@ -1,0 +1,321 @@
+---
+title: "Hallux Valgus"
+format: html
+editor: visual
+---
+
+## Epidemiology
+- **Women 8:1 men**
+  - May be more even – women present more due to shoewear
+- **Female predispositions**:
+  1. Joint laxity in females
+  2. Shoe wear causing pain
+  3. Hormonal influence in women
+- **Genetic component** in both men & women
+- **Hallux valgus** does occur in non-shoe-wearing populations
+  - Less symptomatic
+
+## Aetiology
+- **Genetic & Environmental**
+- **Muscle imbalance or 1st MTP & TMT joint instability**:
+  - Cerebral Palsy
+  - RA
+  - Down’s
+  - Marfan’s
+
+## Pathogenesis
+### 1st Theory
+- **Metatarsus Primus Varus** causative & MTPJ valgus secondary
+
+### 2nd Theory – Currently Favored
+- **Increased GRF on MTPJ medial aspect** pushes PP into valgus
+  - In people with pronated feet (common in women)
+- **Metatarsus primus varus** is actually the secondary deformity
+  - In most, the metatarsus varus is fixed and needs an osteotomy
+
+### 3rd Theory
+- **1st TMTJ hypermobility** is the driving force for the problem
+  - 1st TMTJ has been found to be hypermobile in many with HV
+  - But, this is likely to be a secondary finding in most people
+    1. Valgus means 1st ray moves outside control of the plantar fascia
+    2. Reduced plantar fascia tension on 1st ray
+    3. Destabilises TMTJ - hypermobile
+
+## Clinical Evaluation
+### History
+- **What is the main problem** – pain or aesthetics?
+- **Diabetes, RA, Neurologic disease (CVA), Trauma, Vascular disease**
+- **Previous interventions**
+
+### Examination
+- **Gait**
+- **Is valgus correctable passively?**
+- **MTPJ OA; contracture; congruent joint**
+- **Site of pain**: bunion, joint, lesser toes, plantar aspect
+- **Is there pain on MTPJ motion?**
+- **Plantar callosity distribution** – overloading of 2nd MT head
+- **Achilles tightness**
+- **1st TMTJ hypermobility or pain**
+- **Lesser toe deformities** – fixed or correctable
+- **Pulses and neurologic exam**
+- **ABPI if indicated**
+
+### Investigations
+- **X-Ray**:
+  - Standing AP (dorso-plantar) and lateral both feet
+- **Angles to measure**:
+  - **HVA**: Normal = <15°
+  - **IMA**: Normal = <7°
+  - **HVIA**: Normal = <10°
+  - **PAA**: Normal = <10°
+  - **DMAA**: Normal = <10°
+- **Other important features to look for**:
+  - Sesamoid position
+  - Joint congruency
+  - Joint degeneration
+  - Lesser toe subluxation
+  - Foot splaying
+  - Metatarsus adductus
+  - **1st TMT hypermobility**:
+    - Subluxation of joint
+    - Plantar gapping
+
+## Classification
+- **Mild, Moderate, or Severe**
+  - Done by HVA and IMA
+- **Mild**: HVA 15-25°, IMA 7-12°
+- **Moderate**: HVA 25-40°, IMA 12-25°
+- **Severe**: HVA >40°, IMA >25°
+- **Not that relevant** apart from appreciating a severe and a mild deformity
+- **Several other factors** contribute to ultimate surgical strategy
+
+### Relevance of Congruence & Incongruence
+- **DMAA** is the angle between the line perpendicular to the axis of the 1st MT & the line of the joint
+- **In a congruent HV**, the DMAA tends to be high and part of the deformity
+  - If osteotomy is used to correct the MT without concurrent DMAA procedure, MTPJ may end up incongruent
+  - Addition of medial closing wedge osteotomy or incorporation of DMAA correction into the chosen osteotomy is advisable
+- **Most HV are incongruent with normal DMAA**
+  - Therefore, correction with osteotomy makes the joint congruent
+
+### Sesamoids in Hallux Valgus
+- **Normally centered** under MT head over crista, within FHB tendon
+- **Medial deviation of 1st MT** leads to uncovering of sesamoids
+- **Sesamoids initially stay in position** - attached to 2nd MTPJ capsule by IML
+- **Further uncovering** allows GRF to rotate sesamoids laterally and upwards
+- **With time**, contracture of adductor tendon and lateral capsule occurs
+  - Prevents relocation of MT head over sesamoids
+- **Sesamoids are within FHB**, which attaches to the proximal phalanx base
+  - Therefore, rotation of sesamoids = rotation of PP – pronated toe
+  - This pulls the abductor plantarward – acts like a flexor
+  - Unopposed pull of adductor hallucis exacerbates valgus of PP
+  - Medial capsule attenuation occurs
+
+## Management
+### Non-Surgical
+- **Initial treatment for all patients if possible**
+  - High and wide toe-box flat shoes
+  - Custom shoes if necessary
+
+### Surgical
+- **Better results than non-surgical in symptomatic patients**
+- **No difference if surgery is early or later**, so always try non-surgical first
+
+#### Principles
+- **Realign PP with MT head**
+- **Restore MT head over sesamoids**
+- **Soft tissue-only procedures tend to fail** because of contracture
+- **The more proximal the procedure**, the more correction is achievable
+
+#### Soft Tissue Procedures
+- **Silver**:
+  - Simple bunionectomy & capsular reefing
+  - **Cause of failure**: Incomplete correction
+- **McBride**:
+  - Bunionectomy and transfer of adductor from PP to MT neck
+  - Can work in early cases of HV with no contracture
+  - **Cause of failure**: Incomplete correction, wrong patient selection, immobile TMTJ
+
+#### Distal Osteotomies
+- **Mitchell**:
+  - Step-cut lateralisation and shortening of 1st MT
+  - 1st osteotomy to employ lateralisation to correct deformity
+  - Good long-term results but being superseded by chevron nowadays
+- **Chevron Osteotomy**:
+  - **Gold standard** currently for mild to moderate HV correction
+  - Shouldn’t be done with high IMA (>12°)
+  - **Maximum translation of 50%** to avoid destabilisation
+  - Preserve plantar blood supply to MT head
+  - **V-shaped osteotomy** with each limb around 70°
+    - Inferior limb more horizontal – perpendicular to GRF
+    - Wedge out medially for concurrent DMAA correction
+  - **Concurrent lateral release** to aid correction
+  - Fixed with a single screw
+  - **Advantages**:
+    - Large surface area and very stable osteotomy
+    - GRF passes at the level of osteotomy, so no deforming lever arm
+    - Technically simple & reproducible
+  - **Main complication**: AVN of MT head – 2% risk but as high as 20% in one study
+
+#### Diaphyseal Osteotomies
+- **In general**, have a large surface area and are perpendicular to WB force
+  - Makes them very stable with a high union rate
+- **Wilson**:
+  - Causes shortening of the 1st ray
+  - Results in a low-tension correction but:
+    - Causes transfer metatarsalgia
+  - Out of favor currently
+- **Scarf Osteotomy**:
+  - Very flexible Z osteotomy allowing multiplanar, large-volume correction
+  - Combined with separate lateral release:
+    - Adductor of proximal phalanx
+    - Lateral sesamoid metatarsal ligament
+  - **Longitudinal incision** with an ellipse of capsule excised
+  - **Plantar blood supply preserved**
+  - **Medial eminence removed**
+  - **Longitudinal cut** is in line with the ground, not MT shaft & sloped towards the 5th MT
+    - Perpendicular to GRF – increases stability
+  - **Transverse cuts** are parallel to the articular surface
+  - **Dorsal fragment is translated laterally** to correct valgus
+  - **Rotation possible** to correct DMAA
+  - **Shortening possible** to make correction easier
+    - Remove some bone from the transverse cut
+  - **Transfer metatarsalgia not a problem**:
+    - Obliquity of cut means the head moves plantarward with shortening
+  - **Long-term comparative results are very good**
+  - **Complications**:
+    - **Troughing** is specific to Scarf
+      - Dorsal diaphysis rests in the plantar IM canal and rotates the osteotomy – dorsal malunion
+      - More common in narrow MT
+        - This may preclude reliably performing a Scarf
+
+#### Proximal Osteotomies
+- **Principles**:
+  - Allow a larger correction with the same degree of displacement
+  - Lever arm is longer
+  - This is the chief advantage; therefore, they are used for severe deformity
+  - **Problems**:
+    - GRF passes close to MTPJ, well away from the osteotomy
+    - Proximal osteotomies are vertical on the lateral view
+      - Both factors contribute to dorsal malunion
+      - May need to limit postoperative WB, unlike chevron/scarf
+  - **Wedge osteotomies** shorten or lengthen the 1st MT
+    - Result in transfer metatarsalgia or soft tissue tightness
+    - **Gold standard**: Crescenteric osteotomy – minimal length change
+- **Mann Crescenteric Osteotomy**:
+  - Remove medial eminence distally
+  - Make crescenteric proximal osteotomy and fix with a screw
+  - Probably the proximal osteotomy of choice
+- **Proximal Chevron**:
+  - Same principle as distal chevron – no shortening
+  - A good option but less correction than Mann
+- **Ludloff**:
+  - Long oblique osteotomy from dorsal proximal to plantar distal
+  - Osteotomy rotated around a screw, then locked with a second screw
+  - No shortening and potentially less dorsal malunion
+  - Good option as well
+
+#### Other Procedures
+- **Akin Osteotomy**:
+  - For residual HV or HV interphalangeus
+  - Medial closing wedge through the same incision as a Scarf
+  - Stabilised with a staple, wire, or screw
+- **Keller Osteotomy**:
+  - Excision arthroplasty of 1st MT base and medial capsular reefing
+  - Preserves some movement in an arthritic joint
+  - **Possible indications**:
+    - Salvage of other failed procedures
+    - OA of MTPJ
+    - Infection, precluding the use of metalwork
+    - Diabetics – stiffen up; therefore, Keller may stabilise
+  - **Main complication**: Cock-up toe deformity due to shortening of the phalanx
+    - Z-lengthening of EHL may help with this
+  - In general, Keller is not a good choice as a primary procedure
+  - **Salvage of a Keller**: MTPJ fusion with a bone block to restore length
+- **1st MTPJ Fusion**:
+  - **Indications**:
+    - Severe deformities
+    - RA
+    - Concurrent MTPJ arthritis
+    - Salvage for failed or infected surgery
+  - **Position**:
+    - 10° of valgus and slight dorsiflexion
+    - So that in a plantigrade position, toe pulp is just off the ground
+      - Use a flat board intra-operatively
+  - **Complications**:
+    - Non-union (5%)
+- **Lapidus**:
+  - Distal medial eminence excision, soft tissue release, and 1st TMTJ fusion
+  - Traditionally the choice for hypermobile 1st ray, e.g., in young patients
+  - **Current thinking**: Hypermobile 1st TMTJ is not a primary pathology
+    - Secondary to loss of plantar fascia control
+  - Therefore, Lapidus should probably be used less
+  - **High non-union rate**: 10-20%
+  - **Indications currently**:
+    - Very severe deformity
+    - Symptomatic concurrent TMTJ arthritis – rare
+    - Salvage for failed distal procedures
+    - As part of a flatfoot correction with hallux valgus
+
+### Choice of Surgery for the Exam
+- **Distal chevron** for IMA <12°
+- **Scarf** for almost all others
+  - **Advantages of both**:
+    - Allow early WB
+    - Are perpendicular to GRF
+    - Can be modified to correct DMAA
+- **Add an Akin** if HVIA is >10° or there is residual HV
+- **Use proximal osteotomies or Lapidus** for extreme deformities
+  - Beware of their limitations
+- **For arthritic 1st MTPJ**:
+  - If mild and asymptomatic, can continue as normal
+  - Otherwise, fuse or perform Keller
+  - RA should probably all have fusion
+
+## Complications
+### General
+- Infection, DVT, Nerve injury (dorsal cutaneous)
+
+### Specific
+1. **AVN**
+2. **Transfer metatarsalgia**
+3. **Troughing**
+4. **Hallux Varus**
+5. **Recurrence of deformity**
+6. **Dorsal Malunion**
+
+### Recurrence
+- **5-20% at 20 years FU**
+
+### Transfer Metatarsalgia
+- **High risk** with Wilson’s, Keller’s, or proximal closing wedge
+
+### Hallux Varus
+- **1-5%** - well tolerated if it does occur
+
+### AVN
+- **True rate around 1-2%**
+  - More with distal osteotomy
+  - Most asymptomatic
+
+### Troughing
+- **Specific to Scarf** - rotation and dorsal malunion of toe
+  - More common in narrow MT
+
+### Dorsal Malunion
+- **With most vertical proximal osteotomies**
+  - Causes transfer metatarsalgia – load transfer away from 1st MT head
+
+### MTPJ Stiffness
+- **From lengthening of 1st MT**
+  - Lateral release increases stiffness – soft tissue scarring
+
+## Juvenile/Adolescent Hallux Valgus
+### Differences:
+- **Family history common**
+- **Painful bunions often not present**
+- **Widening of IMA** is usually a prominent feature
+- **Increased DMAA & congruent Hallux Valgus** is more common
+- **Hallux Valgus Interphalangeus** often present
+- **Recurrence rate is higher**
+- **Soft tissue procedures tend to fail** – bony correction required
+- **1st TMTJ more commonly hypermobile** - debatable

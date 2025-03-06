@@ -1,0 +1,129 @@
+---
+title: "Peroneal Tendon Problems"
+format: html
+editor: visual
+---
+
+## Two Main Types of Problems  
+1. **Degenerate Tears**  
+   - Usually *Peroneus Brevis* just distal to fibula  
+   - *Peroneus Longus* tears occur as longus hooks under cuboid at the *Os Peroneum*  
+   
+2. **Instability due to tears of the Superior Peroneal Retinaculum (SPR)**  
+   - **Acute tears**  
+     - Rare occurrence  
+
+---
+
+## Pathoanatomy  
+- *PB* and *PL* originate from the posterior aspect of the fibula  
+- *PB* is always closest to bone  
+- Both pass over the **Calcaneofibular ligament (CFL)**  
+- Stabilized by the **superior and inferior peroneal retinaculum**  
+- Lie in a groove on the posterior aspect of fibula  
+- Inferior to SPR, they are separated by **peroneal tubercle** on calcaneus  
+- **Insertion Points**:  
+  - *PB* inserts on **5th MT base**  
+  - *PL* runs in **cuboid groove** to insert on **1st MT base**  
+- **Functions**:  
+  - Both *evert* the **subtalar joint (STJ)** and *dorsiflex* the ankle  
+  - *PB* has a **hypovascular zone** just distal to fibula, *PL* at the **inferior peroneal retinaculum (IPR)**  
+
+---
+
+## Tears  
+
+### **Peroneus Brevis (PB)**  
+- Occur at level of or just below **Superior Peroneal Retinaculum**  
+- **3 times more common** than PL tears  
+- **Highly associated** with lateral ankle sprains  
+- **Mechanism**:  
+  - Abrasion on fibula edge  
+  - Compression against fibula by PL  
+- Usually **longitudinal intrasubstance tears**  
+- **10% are complete tears**  
+
+### **Peroneus Longus (PL)**  
+- Occur between **IPR and cuboid base** on lateral aspect of calcaneus  
+- **Highly associated with Pes Cavus** (varus hindfoot position)  
+- **XR may show**:  
+  - Retracted *Os Peroneum*  
+  - Fractured *Os Peroneum*  
+- Usually **longitudinal tears**  
+- **10% are complete**  
+- **10% involve both tendons**  
+
+---
+
+## Instability  
+- **Tearing of the SPR** causes lateral instability of both tendons  
+- **Strongly associated with**:  
+  - Ankle instability  
+  - Shallow fibula groove predisposing to subluxation  
+
+---
+
+## Clinical Features  
+- **History of injury**  
+- **Popping or clicking** on lateral aspect  
+- **Pain well localized** normally  
+- **Visible subluxation if instability** – reproducible by patient  
+- **Test Power**:  
+  - *PB* – Resisted **eversion with ankle plantarflexed**  
+  - *PL* – Resisted **eversion and 1st ray dorsiflexion**  
+- **Screen for**:  
+  - Pes cavus (may need correction)  
+  - Ankle instability  
+
+---
+
+## Imaging  
+
+### **X-Ray (XR)**  
+- May show **fractured or displaced Os Peroneum**  
+- **SPR rupture** may avulse a small piece of fibula  
+
+### **MRI**  
+- Shows **longitudinal tears** as **high signal within tendon**  
+
+### **Arthrography of Ankle**  
+- **Dye seeping into peroneal tendons** indicates rupture of CFL  
+
+---
+
+## Management  
+
+### **Non-Operative**  
+- Symptomatic  
+- **Corrective insoles** if underlying flexible pes cavus  
+- **Bracing if concurrent ankle instability**  
+- **Physiotherapy**  
+
+---
+
+## Surgical Treatment of Tears  
+
+### **Peroneus Brevis (PB)**  
+- **>50% tendon remaining** → *Repair or tubularize*  
+- **<50% tendon remaining** → *Debride and attach to peroneus longus*  
+- **Complete Tears**:  
+  - Repair early or  
+  - Sewn to PL  
+  - Bridged with **Plantaris graft**  
+  - **FHL or FDL transfer**  
+
+### **Peroneus Longus (PL)**  
+- **If Os Peroneum fracture** → *Excise*  
+- **Treat longus tears** as per Brevis algorithm  
+
+### **Both Tendons Completely Torn**  
+- **Bridge graft (plantaris) or tendon transfer of FHL/FDL**  
+
+---
+
+## Surgical Treatment of Instability  
+- **Anatomic repair of SPR** with **suture anchors**  
+- **Concurrent deepening of peroneal groove** on posterior aspect fibula if shallow  
+- **If chronic and SPR irreparable**:  
+  - Use **plantaris graft** to replace retinaculum  
+- **Treat ankle instability through the same incision if necessary**  

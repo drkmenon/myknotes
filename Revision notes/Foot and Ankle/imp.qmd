@@ -1,0 +1,92 @@
+---
+title: "Ankle Impingement"
+format: html
+editor: visual
+---
+
+Ankle impingement can be classified as anterior, posterior, medial, or lateral.
+
+## Anterior Ankle Impingement
+
+### **Most Common Causes**
+1. **Soft tissue impingement** – Capsular synovitis blocking dorsiflexion.
+2. **Talar or tibial spurs** – Within the capsule (on tibia), impinging in dorsiflexion.
+3. **AITFL Inferior Tear** – Forms a meniscal-type loose fragment that impinges.
+
+### **Clinical Features**
+- Pain over **anterior joint line** and on dorsiflexion.
+- Usually a history of **injury or impact sports participation**.
+- **Molloy-Bendall impingement test**:
+  - Pain on dorsiflexion with **thumb pressure** over the anterior and anterolateral joint line.
+  - Worse pain than dorsiflexion alone.
+
+### **Investigation**
+#### **X-Ray (XR)**
+- Shows **spurs or deformity**.
+
+#### **MRI**
+- Not usually necessary as the **diagnosis is clinical**.
+- May confirm **synovitis, OCD, or AITFL meniscal-type tear**.
+
+### **Management**
+#### **Non-Operative** (First-line for all cases)
+- **Physiotherapy**.
+- **Steroid injection**.
+
+#### **Surgery** (For failed non-operative management with debilitating pain)
+- **Arthroscopic debridement** is the procedure of choice.
+- Includes:
+  - **Debridement of synovitis** (usually anterolateral).
+  - **Excision of impinging spurs**.
+  - Treatment of **OCDs if found incidentally**.
+
+### **Outcome**
+- Spurs often **reform**, but this is **not correlated to progressive OA**.
+- Good outcomes are typically achieved.
+
+---
+
+## Posterior Ankle Impingement
+
+### **Epidemiology**
+- **10 times less common** than anterior impingement.
+- More common in individuals performing **equinus activities** (e.g., ballet).
+
+### **Causes**
+- Impingement of **posterior structures**:
+  - **PITFL**.
+  - **PTFL**.
+  - **IML**.
+  - **Os Trigonum or hypertrophied posterior talar process**.
+  - **FHL tendon**.
+  - **Posterior synovitis**.
+  - **Subtalar arthritis or synovitis**.
+  - **POMI lesion (Posterior Medial Impingement Lesion)**:
+    - Caused by **posteromedial soft tissue impingement**.
+
+### **Clinical Features**
+- **Posterior pain** on equinus activity or ankle **plantarflexion**.
+- Pain **reproducible on examination**.
+- **Resisted dorsiflexion of the big toe** indicates **FHL impingement**.
+
+### **Investigation**
+#### **X-Ray (XR)**
+- **Lateral view in plantigrade position**.
+- May show **Os Trigonum or posterior process impingement**.
+
+#### **MRI**
+- Not usually necessary as **diagnosis is clinical**.
+
+### **Management**
+#### **Non-Operative** (Always attempted first)
+- **Activity modification**.
+- **Rest, NSAIDs, physiotherapy**.
+- **Steroid injection**.
+
+#### **Operative** (For persistent pain and failed non-operative management)
+- **Posterior ankle arthroscopy** (patient in prone position).
+- **Portals stay lateral to FHL**, either side of TA, to protect the **tibial neurovascular bundle**.
+- **Sural nerve also at risk**.
+- **Debridement of tissues & excision of Os Trigonum** can be performed.
+- **Open debridement** may be preferred as **posterior arthroscopy is technically challenging**.
+

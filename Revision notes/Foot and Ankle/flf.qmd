@@ -1,0 +1,200 @@
+---
+title: "Adult Acquired Flat Foot"
+format: html
+editor: visual
+---
+
+## Stabilisers of Medial Arch
+### Static
+- **Plantar Fascia**
+- **Spring Ligament**
+- **Interosseous Talocalcaneal ligament**
+- **Superficial Deltoid**
+
+### Dynamic
+- **Tibialis Posterior tendon**
+
+## Aetiology of Flat Foot
+- **Tibialis Posterior Tendinopathy or rupture** is the most common cause
+  - **Alone does not cause flat foot**
+  - Its deficiency **places the arch at risk** for developing flat foot
+  - Flat foot deformity occurs when **static restraints also fail**
+
+### Other Causes
+- **Inflammatory arthritis**
+- **Tarsal coalition**
+- **Neurologic imbalance**
+- **Trauma**
+- **Mid and hindfoot arthritis**
+
+## Biomechanics of Arch Stability
+### Function of the Medial Longitudinal Arch
+- **Provides a supple foot in early stance** for shock absorption
+- **Acts as a rigid stiff lever** for propulsion in terminal stance and pre-swing
+- **Not a rigid arch** and lacks a keystone
+- **Allows functional variation** throughout the gait cycle
+
+### Arch Mechanics During Gait
+#### First Contact
+- **TA holds ankle dorsiflexed**
+- **Subtalar joint inverted (supinated)**
+- **Midtarsal joints locked (divergent) and adducted**
+- **Arch stable**
+
+#### Loading
+- **Tibia internally rotates**
+- **Subtalar joint everts (pronates)**
+- **Midtarsal joints unlock and become abducted (convergent)**
+- **Talus plantar flexes**
+- **TNJ dorsiflexes and adducts**
+- **Metatarsals dorsiflex**
+- **Arch apex moves downward and medially**
+- **Plantar fascia, spring ligament, and intraosseous TC ligament** prevent further collapse
+
+#### Midstance
+- **Static stabilisers support the arch**
+- **Tibialis Posterior is inactive**
+
+#### Midstance to Preswing
+- **Tibia externally rotates**
+- **Subtalar joint inverts (supinates)**
+- **Arch stiffens for propulsion**
+- **Tibialis Posterior fires for power**
+
+### Summary of Gait Cycle
+- **TP insufficiency alone does not cause flat foot in midstance**
+- **TP insufficiency weakens propulsion**
+
+## Pathology of TP Insufficiency
+- **Loss of collagen alignment, myxoid degeneration, hypercellularity, neovascularisation**
+- **Most common in avascular zone** (14mm between medial malleolus and navicular)
+
+### Risk Factors
+- **Pre-existing flat foot deformity**
+- **Female gender**
+
+## Classification (Johnson & Hattrup + Myerson)
+- **Stage 0** – MRI changes, no symptoms
+- **Stage 1** – Painful but intact TP
+- **Stage 2** – Incompetent TP with flexible planovalgus foot
+- **Stage 3** – Incompetent TP with fixed planovalgus foot
+- **Stage 4** – Fixed planovalgus with talar tilt in ankle mortise
+- **Key Factor**: Whether the deformities are **fixed or flexible**, and whether the **ankle is affected**
+
+## Clinical Assessment
+### History
+- **Pain**
+  - **Posteromedial** – TP tendinopathy
+  - **Anteromedial** – Deltoid ligament involvement
+  - **Lateral (Sinus Tarsi)** – Impingement
+- **Neurologic symptoms** (Tarsal tunnel syndrome)
+- **Foot shape** – New or pre-existing flat foot?
+- **Functional deficit**
+- **Orthotic use**
+- **Other medical problems**
+
+### Examination
+#### Look & Feel
+- **Too many toes sign**
+- **Hindfoot valgus**
+- **Pain along TP tendon**
+- **Pain or osteophytes over TNJ**
+- **Lateral impingement pain**
+
+#### Move
+- **Heel valgus correction to varus on tiptoeing**
+- **Single foot heel lift test**
+  - **Not useful in advanced stiff planovalgus**
+- **Resisted foot inversion**
+  - **Test in plantarflexion to eliminate TA**
+- **Subtalar motion – flexible or stiff?**
+- **Ankle ROM – Achilles contracture?**
+- **Other foot problems (e.g., Hallux Valgus)**
+
+## Investigations
+### X-Ray (AP & Lateral Standing)
+- **Meary’s angle**
+- **Kite’s angle**
+- **Joint arthritis**
+- **Talar tilt in mortise (Severe disease)**
+
+### MRI
+- **Useful in mild cases without deformity**
+- **Differentiate between TP degeneration vs. inflammation**
+- **Guides between debridement vs. FDL transfer**
+
+## Management
+### Non-Operative
+- **Depends on patient’s main complaint (Pain, function, skin compromise)**
+- **Initial approach for most patients**
+- **Orthotics helpful in all cases**
+
+#### UCBL Insoles
+- **As effective as calcaneal osteotomy in flexible feet**
+- **Medial arch support + medial hindfoot posting**
+
+#### For Stiff Deformities
+- **Accommodative orthoses for pain relief**
+- **Custom shoes**
+- **Braces/AFOs**
+
+#### Severe Skin Compromise
+- **Padded total contact casting**
+
+## Surgical Treatment
+### Debridement of TP Tendon
+- **Only for pain, no deformity**
+- **Not advisable in deformity cases**
+- **Usually combined with FDL (or FHL) transfer**
+
+### FDL Transfer
+- **FDL crosses FHL at Knot of Henry**
+- **Harvesting proximal to Knot prevents loss of toe flexion**
+- **Diseased TP removed**
+- **FDL fixed into navicular with interference screw**
+- **Proximal TP sutured to FDL for power**
+- **Distal FDL sutured to FHL if needed**
+
+### Cobb Procedure (Alternative Transfer)
+- **Split TA passed through medial cuneiform & sutured to TP stump**
+- **Less popular than FDL transfer (not as synergistic)**
+
+### Medial Displacement Calcaneal Osteotomy (MDCO)
+- **Usually combined with tendon transfer**
+- **Realigns Achilles pull to varus**
+- **Reduces ankle joint contact pressures**
+- **Technique**:
+  - **Chevron osteotomy**
+  - **Medial shift by ~1cm**
+  - **Fixed with cannulated screws**
+
+### Lateral Column Lengthening (Evans Procedure)
+- **For severe planovalgus deformity**
+- **Either:**
+  - **Distraction osteotomy of calcaneus proximal to CCJ**
+  - **Intra-articular CCJ distraction**
+- **Fixed with tricortical graft & plate**
+- **Combined with FDL transfer**
+
+### Fusions
+- **For fixed deformities & obese patients**
+- **Depends on which joint is stiff**
+  - **Subtalar Fusion** – Lateral impingement pain
+  - **Talonavicular Fusion** – Corrects arch deformity
+  - **Double Fusion** – Midtarsal joints
+  - **Triple Fusion** – Severe stiff painful deformity (alters gait)
+  - **Pantalar Fusion or Ankle Replacement** – If combined with ankle arthritis
+
+### Achilles or Gastrocnemius Lengthening
+- **Indicated if contracture present**
+- **Common in established planovalgus**
+
+## Management Algorithm
+1. **Pain, No Deformity, Mild MRI Changes** → **Debridement**
+2. **Pain, No Deformity, Severe MRI Changes** → **Debridement + FDL Transfer**
+3. **Pain, Fully Flexible Mild-Moderate Deformity** → **Debridement + FDL Transfer + MDCO**
+4. **Pain, Fully Flexible Severe Deformity** → **Debridement + FDL Transfer + Lateral Column Lengthening**
+5. **Stiff Subtalar, Everything Else Flexible** → **Debridement + FDL Transfer + STJ Fusion**
+6. **Stiff Midtarsal, Everything Else Flexible** → **Debridement + FDL Transfer + MDCO + TNJ/Double Fusion**
+7. **Completely Stiff Deformity** → **Corrective Triple Fusion**
+8. **With Ankle Arthritis** → **Pantalar Fusion or Triple Fusion + Ankle Replacement**
