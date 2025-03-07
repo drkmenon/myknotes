@@ -25,10 +25,6 @@ Angiosperms first appeared in the Cretaceous period and proliferated. As they di
 
 Yet the productivity of gymnosperms often equals or exceeds potentially competing angiosperms and they live longer. In fact, they are among the oldest and largest living plants known to man. <!--# this comment will not show up -->
 
-```         
-code block
-```
-
 [General Sherman in fig @fig-sherman], a redwood (Gymnosperm) of the California forest is the largest tree in the world and is having an estimated age of 2300-2700 years.
 
 ![General Sherman, courtesy of Wikipedia page–](images/clipboard-4222656056.png){#fig-sherman}
