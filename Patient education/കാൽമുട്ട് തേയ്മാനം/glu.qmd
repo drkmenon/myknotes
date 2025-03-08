@@ -1,6 +1,8 @@
 ---
 title: "കാൽമുട്ട് തേയ്മാനം   തടയാൻ   ഗ്ലൂക്കോസാമിനും കോണ്ട്രോയിറ്റിൻ സൾഫേറ്റും"
 format: html
+categories: 
+   - Public education
 editor: visual
 ---
 
