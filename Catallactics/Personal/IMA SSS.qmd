@@ -1,10 +1,11 @@
 ---
 title: "IMA SSS"
-date: today
+subtitle: "Why I opt out"
+date: 25 May 2024
 order: 7
 ---
 
-## Scenario
+## Facts as on May 2024
 
 Current premium for term insurance for a person aged less than 25 years for a sum assurance of 1 Cr: 5500 rupees/year.
 
@@ -12,52 +13,67 @@ This year's total premium for SSS (all three): around 65500/year.
 
 Assume we pay the premium for roughly 23 years
 
-## Thought experiment:
+### **Which is the Better Choice? Term Insurance vs. SSS**
 
-### Doctor A:
+#### **Scenario:**
 
-Joins all three SSS today at age 25.
+A 25-year-old doctor is deciding between two options for financial security:
 
-Total premium for 23 years with 7% inflation (**`premium is not capped, so this is a conservative estimate.Premium was 12000/year 10 years back, and the inflation for last 10 years is 18%`**)
+1.  **Joining SSS plans, all three**
+2.  **Taking a term insurance policy and investing separately**
 
-::: callout-tip
-## Inflation
+------------------------------------------------------------------------
 
-Here what we are talking about is how much the premium paid has increased over a period of time, not the general consumer inflation
-:::
+### **Doctor A: Chooses SSS**
 
-Total Payment: 35,00,067 Rupees (35 Lakh rupees)
+-   Joins all three SSS schemes at age 25.
 
-Corpus on death: 1 Cr
+-   Pays a yearly premium that increases over time, starting today with 65000/year.
 
-### Doctor B
+-   **Total premium paid over 23 years:** around ₹35 lakh. ( Assuming a 7% annual increase (This is a conservative estimate since the premium is not capped).
 
-Joins in a term insurance for 5500 per year for 23 years
+    ::: callout-note
+    ## Most important point
 
-Total payment: 110000 rupees
+    For records, the premium was ₹12,000 per year 10 years ago, and the annual increase over the past decade has been 18%, well above 7%.)
+    :::
 
-SIPs 5000/month for next 23 years with 12% return in an ETF
+-   **On death, nominee gets ₹1 crore.**
 
-Corpus after 23 years: 72,92,362 rupees (73 Lakh rupees) + She will get 1Cr as death benefit between 25-47 years
+-   **If she lives till 75:** She still get nothing (of course!) and the nominee will get ₹1 crore (Equivalent to ₹3.5 lakhs of today's money).
 
-## Average Life expectancy: 75 years
+------------------------------------------------------------------------
 
-### Corpus for Doctor A:
+### **Doctor B: Chooses Term Insurance + Investment**
 
-She receives at 75 years on death: 1Cr (Capped)
+-   Takes a **term insurance** of ₹1 crore, paying just ₹5,500 per year.
+-   Invests ₹5,000/month in an ETF growing at **12% per year**.
+-   **Total premium paid for term insurance:** ₹1.1 lakh over 23 years.
+-   **If she dies between 25-47 years:** Her nominee gets more than ₹1 crore from term insurance + the investment returns.
+-   **Total corpus after 23 years (at age 48):** ₹73 lakh.
+-   **If she lives till 75:** Her investments grow to **₹15.5 crore.**
+-   In between age 48 and 75, she will get an amount between 73L and 15 crores **whether she dies or not**
+-   She may even opt out of term insurance at around 50 years of age and double the SIP to boost her retirement corpus, because she has got a ₹ 1 Cr corpus already available for contengencies.
 
-### Corpus for Doctor B:
+------------------------------------------------------------------------
 
-She receives (`WHETHER DIES OR NOT`) (at 12% CAGR): 155508750 (15.5 Cr).
+### **Which is the Better Choice?**
 
-In-between 47 and 75 years she will get an amount between 73 lakh and 15.5 crore `WHETHER DIES OR NOT`
+#### **Doctor A (SSS Plan) vs. Doctor B (Term Insurance + Investment)**
 
-::: callout-note
-## Important
+| **Factor** | **Doctor A (SSS)** | **Doctor B (Term + Investment)** |
+|------------------------|------------------------|------------------------|
+| **Total Amount Paid** | ₹35 lakh | ₹1.1 lakh (insurance) + ₹5,000/month investment |
+| **If she dies before 47** | ₹1 crore to nominee | more than ₹1 crore (insurance) + investment returns |
+| **If she lives till 75** | ₹1 crore (fixed) | ₹15.5 crore |
+| **Flexibility** | No flexibility | Can use investment returns anytime |
+| **Real value of ₹1 crore in 50 years** | ₹3.4 lakh | ₹53 lakh |
 
-Today's Value of 1Cr you receive after 50 years: 339477 (3.4 Lakh rupees).
+### **Key Takeaways:**
 
-Today's Value of 15.5 Cr you receive after 50 years: 5279173 (53 Lakh rupees).
+✔ **Doctor B has much more financial freedom and security, whether she dies or not.**\
+✔ **Investing smartly beats paying high premiums for limited benefits.**\
+✔ **₹1 crore in the future will be worth much less due to inflation.**\
+✔ **With investments, Doctor B can spend, donate, or leave behind a much larger legacy.**
 
-*`**She is also free to do charity for her fraternity and others at her will.`*
-:::
+👉 **Conclusion:** Term insurance + investing is the smarter choice!
