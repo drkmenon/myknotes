@@ -1,0 +1,829 @@
+---
+title: "Hip"
+subtitle: "The problem of passing MS Orthopaedics"
+order: 2
+format:
+  revealjs:
+    logo: images/tie-01.png
+    footer: "Kishore Puthezhath FRCS (Tr & Orth)(Eng)"
+    smaller: true
+    scrollable: true
+    auto-stretch: false
+    scroll-view: false
+    chalkboard: true
+    multiplex: true
+    touch: true
+    code-copy: true
+---
+
+## ...with a Rank
+
+![](images/clipboard-834092300.png)
+
+## Time, HOT and Effect horizon
+
+![](images/effect.png){width="699"}
+
+## Diagnosis?
+
+![](images/oa.png){width="650"}
+
+## Hip speaks for itself
+
+<!-- -->
+
+**What will be your long case?**
+
+. . .
+
+Hip (\>90% probability)
+
+. . .
+
+**What will be your diagnosis in your hip case?**
+
+. . .
+
+Osteoartritis (\>50% probability)
+
+. . .
+
+**Should you learn Osteoarthritis Hip?**
+
+. . .
+
+No-brainer
+
+## Why arthritis?
+
+### Two clinical signs that cling the diagnosis
+
+-   Painful restriction of all ranges of movements
+
+-   Joint line tenderness
+
+## Define Osteoarthritis
+
+It is a mechanically driven but biologically mediated complex degenerative disease of a synovial joint starting at the tangential zone of the articular cartilage.
+
+![](/Revision%20notes/Diagrams/images/artc.PNG)
+
+## X Ray findings-LOSS
+
+The classic radiographic features of OA are:
+
+• Loss of joint space.
+
+• Osteophyte formation.
+
+• Subchondral sclerosis.
+
+• Subchondral cysts.
+
+## What is osteophyte?
+
+Enlarging bony protrusion due to endochondral ossification of chondrocytes arising from periosteal cells.
+
+-   Attempt to stabilise the joint.
+
+<!-- -->
+
+-   Seen at margins of weight bearing areas.
+
+-   Grows in the path of least resistance, guided by synovium.
+
+-   TGF𝛽 and BMP2 are implicated in the pathogenesis
+
+## What are subchondral cysts?
+
+Subchondral bone cysts represent micro-fractures of the subchondral trabecular bone at various stages of healing and remodelling with gelatinous replacement of the marrow.
+
+**Formation Mechanism:**
+
+1.  **Bone Microfractures**
+
+2.  **Synovial Fluid Infiltration**
+
+3.  **Fibrous Tissue & Bone Remodeling** – The cysts may be surrounded by fibrous tissue or undergo sclerosis over time.
+
+## Any classification you know?
+
+The **Kellgren-Lawrence (KL) Classification** is a grading system used to assess the severity of **osteoarthritis**.
+
+### **Kellgren-Lawrence Grading System for Osteoarthritis**
+
+**Grade 1 (Doubtful OA)**\
+- **Doudtful osteophytosis**.
+
+**Grade 2 (Mild OA)**\
+- **Definite osteophytosis**.
+
+**Grade 3 (Moderate OA)**\
+- **Definite JSN**.
+
+**Grade 4 (Severe OA)**\
+**- Deformity**.
+
+## In OA, fluid dry up, right?
+
+### Changes to Articular Cartilage with Age and Osteoarthritis
+
+| Parameter | Ageing | Osteoarthritis (OA) |
+|------------------------|------------------|------------------------------|
+| **Water content** | Decreases | Increases |
+| **Synthetic activity** | Decreases | Increases |
+| **Collagen content** | Decreases | Decreases (concentration increases) |
+| **Proteoglycan content** | Decreases | Decreases |
+| **Chondrocyte Size** | Increases | \- |
+| **Chondrocyte number** | Decreases | \- |
+| **Chondroitin: Keratin ratio** | Decreases | Increases |
+| **Stiffness (Young’s modulus)** | Increases | Decreases (high water content) |
+
+## What is the bio-mechanical consequence?
+
+Single buzz word is: **Bulk Modulus**
+
+The resistance to compressive force is reduced, causing failure of load bearing function.
+
+## What can you do for him?
+
+Reduce the JRF through the hip
+
+-   Reduce weight
+
+-   Use walking stick on opposite side
+
+-   Carry weight if necessary on the same side
+
+## **Hip FBD**
+
+![](/Revision%20notes/Basic%20science/Biomechanics/images/6.png)
+
+## **Abductor moment = body moment in equilibrium**
+
+Fd = w x 5d
+
+F = 5w
+
+\*w is generally taken as 5/6 of the body weight as the person is standing on one leg. Weight of one leg is generally taken a 1/6 body weight.
+
+\*F is the abductor force of contraction.
+
+## JRF
+
+![](/Revision%20notes/Basic%20science/Biomechanics/images/7.png)
+
+## **How to reduce JRF in hip?**
+
+**Carry weight on same side!**
+
+![](https://www.knotes.co.in/revision%20notes/basic%20science/biomechanics/images/8.png){width="500"}
+
+**F x d + F’ x 2d = w x 5d**
+
+**F + F’ = 5w**
+
+**F = 5w - F’**
+
+So the abductor force of contraction required is reduced from F to F-2F’
+
+## **How to reduce JRF in hip?**
+
+**Carry stick on the opposite side!**
+
+![](/Revision%20notes/Basic%20science/Biomechanics/images/9.png){width="500"}
+
+Pressing the stick on to the ground will produce an equal and opposite ground reaction force, s.
+
+**F x d = w x 5d - s x 10d**
+
+**F = 5w - 10s**
+
+So the abductor force of contraction required is reduced from F to F-10s
+
+## Any regenerative treatment options?
+
+-   Hyaluronic acid injection
+
+-   Glucosamine
+
+-   chondroitin sulphate
+
+-   PRP
+
+-   Herbs
+
+## Tell me more about the first three
+
+### Aggrecan and PG Aggregate
+
+-   Proteoglycan is one of the largest macromolecule in our body: 2 x 10^18^ Dalton is the mw
+
+-   chondroitin sulphate proteoglycan is called Aggrecan
+
+### PG Aggregate
+
+Aggrecans self assemble on HA filament to form a supra molecular structure called PG aggregate.
+
+-   Repels water (Eletrostatic repulsion)
+
+### None (HA, CSO~4~ , Glucosamine) are clinically proven nor recommended by any of the treatment guidelines.
+
+## Glucosamine, C SO~4~, HA
+
+![](images/ortho+diagrams_6.png){width="507"}
+
+## Any other options?
+
+### My patient needs a painless, stable and mobile hip
+
+Suppose he want only painless and stable hip, what will you offer?
+
+## Arthrodesis
+
+------------------------------------------------------------------------
+
+## Indications
+
+-   Young unilateral osteoarthritis (OA) patients
+-   Heavy manual laborers
+-   Preserves bone stock
+-   Provides indefinite pain relief
+-   Allows an active lifestyle
+
+------------------------------------------------------------------------
+
+## Prerequisites
+
+-   Normal **contralateral hip (C/L)**
+-   Normal **ipsilateral knee (I/L)**
+-   Normal spine function
+
+------------------------------------------------------------------------
+
+## Disadvantages
+
+-   **Immobile joint**
+-   **Leg Length Discrepancy (LLD)**
+-   **Pain in adjacent joints** due to altered biomechanics
+
+------------------------------------------------------------------------
+
+## Techniques
+
+-   **Intra-articular (I/A)**
+-   **Extra-articular (E/A)**
+-   **Combined approach**
+
+------------------------------------------------------------------------
+
+## Fusion Position (FADER)
+
+-   **Flexion**: 30°
+-   **Adduction**: 5°
+-   **External Rotation**: 5°
+
+------------------------------------------------------------------------
+
+### Brittain’s Technique
+
+::::: columns
+::: {.column width="50%"}
+![](images/clipboard-1263189892.png){width="279"}
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2694052267.png){width="277"}
+:::
+:::::
+
+## Primary THA
+
+-   History
+-   Introduce
+-   Permission
+
+------------------------------------------------------------------------
+
+## Case History of Hip
+
+-   Pain
+-   SLID
+-   Allergy
+-   Medical
+-   Social
+-   Summary
+-   Expectation
+
+------------------------------------------------------------------------
+
+## Pain-ODP
+
+-   Where is the pain?
+-   Does it come down to the thigh or leg?
+-   How would you describe the pain?
+-   Mild, moderate, or severe?
+-   Do you limp while walking?
+-   How far can you walk before pain stops you?
+-   Do you have trouble walking upstairs?
+-   Do you have trouble washing and drying yourself?
+-   Do you have trouble putting on socks?
+-   Does it affect your work or hobbies?
+-   Any other pain?
+
+------------------------------------------------------------------------
+
+## SLID
+
+-   Has your hip become stiff?
+-   Limping since childhood?
+-   Symptoms of infection?
+-   Discharging wound or scars?
+
+------------------------------------------------------------------------
+
+## History Continued
+
+-   Allergy
+-   Past medical history: DM, hip surgeries, blood thinners, steroids
+-   Social: Work, limitations, smoking, alcohol
+-   Summary for the patient
+-   What are your expectations?
+
+------------------------------------------------------------------------
+
+## Examination
+
+-   Stand and inspect front, side, and back
+-   Walk
+-   Trendelenberg test
+-   Palpate ASIS, TR, Pulse
+-   Thomas test and ROM
+-   LLD measurement
+-   Special tests
+-   Spine/Pulse assessment
+
+------------------------------------------------------------------------
+
+## Indications
+
+-   Severe disabling pain unresponsive to conservative measures, affecting ADL
+-   Medically fit
+-   No active infection
+
+------------------------------------------------------------------------
+
+## Surgical Goals
+
+-   Relieve pain
+-   Improve function
+
+------------------------------------------------------------------------
+
+## Technical Goals
+
+-   Correct limb length
+-   Correct offset
+-   Restore hip CoR
+-   Correct positioning of implant
+-   Position primary arc range within the functional range required by the patient
+
+------------------------------------------------------------------------
+
+## Contraindications
+
+-   Infection
+-   Neuropathy
+-   Vasculopathy
+-   Psychiatric illness
+-   Obesity
+
+------------------------------------------------------------------------
+
+## Complications
+
+-   **Common (2-5%)**: DVT, Dislocation, Aseptic loosening
+-   **Less common (1-2%)**: Infection
+-   **Rare (\<1%)**: LLD, Periprosthetic fracture, PE and death, Sciatic nerve palsy
+
+------------------------------------------------------------------------
+
+## Consent
+
+-   Goals
+-   Reported success rate: 14-year revision rate is 7.27%
+    -   Cemented: 4.88%
+    -   Uncemented: 8.94%
+    -   Hybrid: 5.38%
+-   Complications
+-   Alternatives
+-   Shared decision-making
+
+------------------------------------------------------------------------
+
+## Implant Fixation & Bearing Surface
+
+-   Most common construct: Cemented MoP, 4.87% revision in 14 years
+-   75 years: All bearing surface combinations (except MoM) perform similarly
+-   \<55 years: CoP shows better results (\<4%) compared to MoP (8-10%)
+
+------------------------------------------------------------------------
+
+## THA of Choice
+
+-   **Cemented Exeter Hip**: Long-term performance, ODEP rating A\* at 10 years
+-   **Ceramic Femoral Head** with 1st or 2nd gen XLPE
+-   **\<55 years**: Discuss uncemented THA option
+
+------------------------------------------------------------------------
+
+## Cemented THA
+
+-   Immediate solid fixation
+-   Proven, durable
+-   Low failure rate
+-   Meets NICE guidelines
+-   Cheaper, easier to revise
+
+------------------------------------------------------------------------
+
+## Why Not Uncemented?
+
+-   Dorr C femur
+-   Elderly
+-   Pathological bone
+-   Stress shielding, thigh pain
+-   Difficult to revise
+
+------------------------------------------------------------------------
+
+## Cement Fixation
+
+-   Microinterlock with bone
+-   Cement fatigues with cyclical loading
+-   No remodeling
+-   Two interfaces: Cement-Bone, Cement-Implant
+
+------------------------------------------------------------------------
+
+## Design Principles
+
+-   Composite beam (shape closed) Charnley, Stanmore\
+-   Taper slip (Force closed) Exeter
+
+------------------------------------------------------------------------
+
+## Composite Beam
+
+-   Rough surface\
+-   Collared\
+-   Rigid stem, no movement\
+-   Stem acts as rod in 2 tubes\
+-   Stability by friction
+
+------------------------------------------------------------------------
+
+## Charnley
+
+-   Matt\
+-   22 mm head\
+-   Cobra flange to resist subsidence\
+-   Flat back changed to round back for fatigue strength\
+-   AP flange for cement pressurisation
+
+------------------------------------------------------------------------
+
+## Charnley stem
+
+![](images/clipboard-2466096599.png){width="622"}
+
+## Exeter Taper slip
+
+-   Polished\
+-   Collarless\
+-   Designed to subside in cement\
+-   Centraliser void prevent cement fracture\
+-   Hoop stress generated, producing radial compression
+
+------------------------------------------------------------------------
+
+## Exeter
+
+![](images/clipboard-1275532414.png){width="265"}
+
+## Centraliser
+
+-   Helps stem subsidence\
+-   Seals effective joint space\
+-   Better cement mantle\
+-   Reduce cement cracking by decreasing tensile forces
+
+------------------------------------------------------------------------
+
+## Cement
+
+-   Content, property and uses\
+-   Generations
+
+------------------------------------------------------------------------
+
+## Cement Generations
+
+| Generation     | first | second | third  | Fourth |
+|----------------|-------|--------|--------|--------|
+| Mixing         | Bowl  | Bowl   | Vacuum | Vacuum |
+| Gun            | No    | Yes    | Yes    | Yes    |
+| Restricter     | No    | Yes    | Yes    | Yes    |
+| Pulse lavage   | No    | No     | Yes    | Yes    |
+| Pressurisation | No    | No     | Yes    | Yes    |
+| Centraliser    | No    | No     | No     | Yes    |
+| Mantle         | No    | Yes    | Yes    | Yes    |
+| C quality      | No    | No     | Yes    | Yes    |
+| Stem position  | No    | No     | No     | Yes    |
+
+## Strength Factors
+
+| **Uncontrollable** | **Partly Controllable** | **Fully Controllable** |
+|--------------------|-------------------------|------------------------|
+| Moisture           | Blood and tissue        | Antibiotic             |
+| Aging              | Stress raisers          | Vacuum                 |
+| Fatigue            |                         | Pressurisation         |
+|                    |                         | Mixing speed           |
+|                    |                         | Radioopaque filler     |
+
+------------------------------------------------------------------------
+
+## Radiology (Barrack et al. 1992)
+
+-   **Grade A**: Complete "white out" at bone-cement interface\
+-   **Grade B**: Slight radiolucency\
+-   **Grade C**: 50-99% radiolucency or defective mantle\
+-   **Grade D**: 100% radiolucency or uncovered stem tip
+
+------------------------------------------------------------------------
+
+## Gruen Zones
+
+-   Diagnose osteolysis and cement fracture\
+
+-   7 femoral zones:
+
+    ![](images/clipboard-2234025598.png){width="600"}
+
+------------------------------------------------------------------------
+
+## Gruen Modes of Failure
+
+| Mode | Description                   |
+|------|-------------------------------|
+| Ia   | Pistoning: stem within cement |
+| Ib   | Pistoning: stem within bone   |
+| II   | Medial midstem pivot          |
+| III  | Calcar pivot                  |
+| IV   | Bending cantilever (fatigue)  |
+
+------------------------------------------------------------------------
+
+## Gruen Failure
+
+![](images/clipboard-1011456815.png){width="498"}
+
+## Cement Mantle Fracture Causes
+
+-   Stress exceeding endurance limit\
+    **Reduced by**:
+    -   Optimal thickness (2-5mm)\
+    -   Symmetric mantle\
+    -   Homogeneous cement
+
+------------------------------------------------------------------------
+
+## Achieving Optimal Cement Mantle
+
+-   Avoid stem malalignment\
+-   Preserve 2-3mm proximal medial cancellous bone\
+-   Use stem centraliser\
+-   Improve cement quality\
+-   Better cementing techniques
+
+------------------------------------------------------------------------
+
+## Uncemented THA Principle
+
+Dynamic biological fixation with lifelong bond between bone and implant.\
+**Methods**:\
+- Bone ingrowth (porous coating)\
+- Bone ongrowth (grit-blasted/plasma-sprayed surface)
+
+------------------------------------------------------------------------
+
+## Ingrowth: Rule of 50
+
+-   Pore size: 50µm\
+-   Pore depth: 50\
+-   Porosity: 50%\
+-   Gap: 50µm\
+-   Micromotion: 50µm
+    -   **Press fit**: 1-2mm larger implant
+    -   Line to line: require additional fixation initially Scratich/frictional
+
+------------------------------------------------------------------------
+
+## Stem Sinkage Factors
+
+-   Undersized stem\
+-   Poor bone stock\
+-   High BMI
+
+------------------------------------------------------------------------
+
+## Engh Radiological Criteria
+
+1.  Slight rounding of proximal medial femoral neck\
+2.  Medial cortical density loss (Level 1)\
+3.  Cortical resorption extending to Level 2\
+4.  Severe resorption into diaphysis
+
+------------------------------------------------------------------------
+
+## Femoral Component Stability
+
+-   **Stable**: No migration + spot welds\
+-   **Stable fibrous ingrowth**: No migration + sclerotic lines\
+-   **Unstable**: Progressive subsidence + cortical thickening
+
+------------------------------------------------------------------------
+
+## Ongrowth
+
+-   Initial press fit\
+-   Bone grows onto divots\
+-   Titanium implants\
+-   Hydroxyapatite coating (50µm)
+
+------------------------------------------------------------------------
+
+## Ceramic
+
+-   Inorganic material made up of combination of metallic and non metallic elements bonded ionically in high oxidised state
+
+------------------------------------------------------------------------
+
+## Advantage and Distadvantage
+
+| **Better lubrication, friction and wear prop** | Brittle                |
+|------------------------------------------------|------------------------|
+| Hard                                           | Catastrophic failure   |
+| Low co of friction                             | No plastic deformation |
+| Wettable                                       | Squeaking              |
+| Biocompatable                                  | Less range of size     |
+| Bioinert                                       | cost                   |
+| No corrosion                                   |                        |
+| no ion release                                 |                        |
+
+------------------------------------------------------------------------
+
+## Manufacture-Sintering
+
+-   Made in to slurry of ceramic powder and water\
+-   Pressed mechanically
+    -   Hot isostatic pressing\
+-   Grinding and polishing using diamond wheel\
+-   Stress testing
+
+------------------------------------------------------------------------
+
+## Generations
+
+-   1st: 13% fracture\
+-   2nd: 5%\
+-   3rd: Delta alumina : 0.18%\
+-   4th gen Biolax Delta: 0.003%
+
+------------------------------------------------------------------------
+
+## Biolax Delta
+
+-   Composition
+    -   Al, Zir, Strontium\
+-   1st toughening: Transformational toughening
+    -   Z particles act like airbags\
+-   2nd toughening: Platelet like crystals
+
+------------------------------------------------------------------------
+
+## Revision
+
+-   Once ceramic, always ceramic\
+-   Revise all
+
+------------------------------------------------------------------------
+
+## Liner failure
+
+-   **Liner fracture**
+    -   Incomplete sitting
+        -   Peripheral chipping\
+        -   Morse taper\
+        -   Cup deformation\
+    -   Inaccurate cup position
+        -   Edge loading: Microseperation\
+        -   Medialised cup\
+        -   Stem subsidence\
+        -   Impingement\
+    -   Head size over 36mm: Positive offset
+
+------------------------------------------------------------------------
+
+## Stripe line
+
+-   Area of roughness created on cup and head due to repeated subclinical subluxation.\
+-   Due to increased lever range\
+-   Reduced by reducing lever range by
+    -   Better design\
+    -   Positioning and offset
+
+------------------------------------------------------------------------
+
+## Polyethylene
+
+-   Long chain polymer of ethylene monomer (C2H4)\
+-   Mol wt: 2-5 x 10(\^6)\
+-   Viscoelastic and undergo strain hardening\
+-   Used as bearing surface
+
+------------------------------------------------------------------------
+
+## Wear properties
+
+-   Manufacture
+    -   Ram bar\
+    -   **Direct compression moulding**\
+    -   Ca stearate\
+-   Sterilisation
+    -   Gamma radiation in presence of air: **Chain scission**\
+-   Storage:
+    -   Long shelf life lead to oxidation\
+    -   Package: air leaking
+
+------------------------------------------------------------------------
+
+## Highly cross linked PE
+
+-   High dose radiation induce cross linking\
+-   Better wear property\
+-   More brittle\
+-   Hard\
+-   Stiff\
+-   Reduced UTS\
+-   reduced work hardening
+
+------------------------------------------------------------------------
+
+## 2nd Gen XPE
+
+-   Vit E treatment\
+-   Post production anniling
+
+------------------------------------------------------------------------
+
+## Modes of failure
+
+-   Aseptic loosening\
+-   Dislocation\
+-   Fracture\
+-   Liner failure\
+-   Edge loading\
+-   Squeaking
+
+------------------------------------------------------------------------
+
+## Complications
+
+------------------------------------------------------------------------
+
+## HO
+
+-   43%, 9% high grade brooker\
+-   Patient factors
+    -   An Sp\
+    -   Pagets\
+    -   Post trauma\
+    -   DISH\
+-   Surgical factors
+    -   Muscle ischemia\
+    -   Lateral approach\
+    -   Bone trauma\
+    -   Bone debris
+
+------------------------------------------------------------------------
+
+## Classification
+
+![](images/clipboard-1227116470.png){width="600"}
+
+## HO Prophylaxis
+
+-   Indomethacin 75 mg 6 weeks\
+-   Single peri op RT 700cGy (4hr before to 72 hrs after)\
+-   Combined RT and indo
