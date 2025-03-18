@@ -20,9 +20,25 @@ format:
 
 ![](images/clipboard-834092300.png)
 
-## Time, HOT and Effect horizon
+## Scan this
+
+![](images/knotespgpre.png)
+
+## Time, HOTS and Effect horizon
 
 ![](images/effect.png){width="699"}
+
+## Rote learning vs HOTS
+
+::::: columns
+::: {.column width="50%"}
+![](images/IMG_6073.jpg){width="607"}
+:::
+
+::: {.column width="50%"}
+![**HOTS and Judgement:** Breakdown, Analyse, **Combine for new Concepts**](images/clipboard-2882631429.png){width="1067"}
+:::
+:::::
 
 ## Diagnosis?
 
@@ -66,7 +82,7 @@ No-brainer
 
 It is a mechanically driven but biologically mediated complex degenerative disease of a synovial joint starting at the tangential zone of the articular cartilage.
 
-![](/Revision%20notes/Diagrams/images/artc.PNG)
+![](/Revision%20notes/Diagrams/images/artc.PNG){width="623"}
 
 ## X Ray findings-LOSS
 
@@ -827,3 +843,23 @@ Dynamic biological fixation with lifelong bond between bone and implant.\
 -   Indomethacin 75 mg 6 weeks\
 -   Single peri op RT 700cGy (4hr before to 72 hrs after)\
 -   Combined RT and indo
+
+## Take home message
+
+**“Down the Rabbit Hole”**
+
+> **“Alice: Would you tell me, please, which way I ought to go from here?**
+>
+> **The Cat: That depends a good deal on where you want to get to.**
+>
+> **Alice: I don’t much care where.**
+>
+> **The Cat: Then it doesn’t much matter which way you go.**
+>
+> **Alice: …So long as I get somewhere.**
+>
+> **The Cat: Oh, you’re sure to do that, if only you walk long enough.”**
+>
+> [**Doing the right thing is more valuable than getting things done SOMEHOW**]{style="color: red"}
+
+[Back to knotes](https://www.knotes.co.in)
