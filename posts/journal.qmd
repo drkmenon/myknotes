@@ -76,3 +76,35 @@ Started OILIETF sip on Monday. Oil is down for some time now. Market remains unc
 It seems that the relationship between Elon Musk and Donald Trump mirrors historical examples of business and political alliances, such as Kenneth Lay’s close ties with George W. Bush in the 1990s or even the much older association between John Law and the authoritarian French regime. These relationships often lead to significant bad financial and political consequences.
 
 More over, tariff policies may end up strengthening industries and economies worldwide, while inadvertently undermining America's own economic position and competitiveness.
+
+### 📘 March 19, 2025
+
+Market rallied around 2 points.
+
+### 📘 March 21, 2025
+
+Market is keeping the uptrend intact. Yesterday Mr P switched his June put and call options to December following a more than 1 point upside move in NIFTY.
+
+### 📘 March 23, 2025
+
+![](images/Quick%20sheets%20-%20page%2022.jpg){width="659"}
+
+Stock market compounding is often interrupted by long periods of inactivity and rare, but significant, draw-downs. In many cases, nearly all gains come from a few days of exuberance; without these days, returns can be close to zero or even negative when adjusted for inflation. Therefore, if we maintain market exposure, we should hedge against potential draw-downs using always on put options.
+
+One good strategy is to keep most funds in a low-cost debt instrument and rebalance to full equity during market panics. However, this approach risks missing the few days of lucrative returns without any draw-downs. I believe that buying always-on long-term call options is a potential method to mitigate the risk of not participating fully in the market.
+
+Options will expire worthless is \>80% situations, with potential big returns during violence. One problem with this is STCG tax and tax filing.
+
+For short-term goals—say, within a one-year timeframe—and in overbought markets it may be wiser to keep capital in money market instruments, such as liquid funds, rather than relying on the non existant compounding effects of the stock market.
+
+Mr. P navigated the correction phase well, achieving good capital appreciation despite losing all the option premiums so far. He expects the market to revert to the mean in the coming days, with further correction likely. As a result, he has temporarily paused his NIFTY 50 index SIP and decided to park new income in a liquid index fund for a lump-sum investment at a later date.
+
+He is fully aware that the market can rise irrationally, and he may miss out on potential gains. However, he believes that in such a scenario, his call options may generate returns, partially compensating for the opportunity cost. His primary objective is to avoid losing capital rather than focusing solely on opportunity cost. His current equity exposure is around 15% and plans to move it to 50% over some months if the market is going further down.
+
+5.54 7/2.85 7
+
+### 📘 March 23, 2025
+
+The market has been moving up for the past week, but I believe this is a false move. The RSI is moving towards overbought territory, and prices are not cheap, and I would like both to go down.
+
+Mr. P has temporarily paused his NIFTY SIP, which he started in April 2023, and has begun parking new funds in a liquid ETF. Additionally, he sold his NATCO holdings as he realized that he did not understand the business as well as he initially thought.
