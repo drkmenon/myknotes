@@ -6,20 +6,20 @@ editor: visual
 
 Several months ago, an economic adviser from a trading platform gave a lecture to a group of doctors on the benefits of equity investment. During his talk, he emphasized two key points:
 
-1.  **Systematic Investment Plans (SIPs) in equities are the best form of investment.**\
-2.  **As India develops, the equity markets will generally trend upward.**
+1.  Systematic Investment Plans (SIPs) in equities are the best form of investment.\
+2.  As India develops, the equity markets will generally trend upward.
 
-While these statements may hold some truth, it is important to critically examine whether economic growth always translates into strong stock market returns.
+While these statements may seem reasonable, it is important to critically examine whether economic growth always translates into strong stock market returns.
 
-One of the most significant development stories of our time is **China’s rapid economic growth**. Between **2007 and 2020**, China experienced unprecedented expansion, becoming the **world’s second-largest economy** and a global manufacturing powerhouse. However, what is often overlooked is how the stock market performed during this period.
+**Does economic growth always lead to strong stock market performance?**
 
-For instance, if an investor had put **₹1,000 in the Hang Seng Index (HSI) in January 2007**, that investment would have grown to just **₹1,156 by 2025**, reflecting a **Compounded Annual Growth Rate (CAGR) of only 0.78%**—a shockingly low return given China's economic rise.
+One of the most significant development stories of our time is China’s rapid economic growth. Between 2007 and 2020, China experienced unprecedented expansion, becoming the world’s second-largest economy and a global manufacturing powerhouse. However, what is often overlooked is how the stock market performed during this period.
 
 ![](images/hsi.png)
 
-This raises a crucial question: **Does economic growth always lead to strong stock market performance?**
+For instance, if an investor had put ₹1,000 in the Hang Seng Index (HSI) in January 2007, that investment would have grown to just ₹1,156 by 2025. This reflects a Compounded Annual Growth Rate (CAGR) of only 0.78%—an underwhelming return given China’s economic rise.
 
-Before exploring this further, let’s consider the impact of a **monthly SIP of ₹1,000 in the HSI** since 2007. It would be interesting to analyze whether dollar-cost averaging could have improved returns, or if market stagnation over the years would have still led to underwhelming results.
+Let’s also consider the impact of a monthly SIP of ₹1,000 in the HSI since 2007. Would dollar-cost averaging have helped improve returns, or would market stagnation over the years have still resulted in poor outcomes?
 
 ```{r}
 #| echo: false
@@ -48,10 +48,14 @@ xirr=xirr(hsi$sip,hsi$date)
 print(xirr)
 ```
 
-Even more concerning is the performance of a **monthly SIP of ₹1,000 in the HSI** since 2007. Based on the **XIRR calculation, the return was -6%**, meaning an investor would have **lost real capital** over 18 years! This highlights a crucial reality: **economic growth does not always translate into positive stock market returns**. England and Japan are other striking examples.
+Based on the XIRR calculation for a consistent SIP of ₹1,000 per month from 2007 to 2025, the return was **-6%**. This means that over 18 years, an investor would have not only failed to generate wealth but actually **lost real capital**!
 
-What this story teaches us is nothing else:
+England and Japan are other striking examples with similar stagnation in stock market over an extended period of time.
 
-::: callout-warning
-The future cannot be predicted; instead, **stay prepared for all possible outcomes.**
+::: callout-important
+## Key takeaway
+
+The future cannot be predicted; instead, **one should stay prepared for all possible outcomes.**
 :::
+
+This case study serves as a warning that stock markets do not always align with economic growth, and blind faith in equities can lead to disappointing results. A well-balanced investment strategy that considers valuation, market cycles, and risk management is essential for long-term success.
