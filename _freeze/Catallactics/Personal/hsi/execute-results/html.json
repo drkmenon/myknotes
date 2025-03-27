@@ -1,0 +1,15 @@
+{
+  "hash": "f961945c03c00c7f225f637e018d7816",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"In the long run, does the equity market always go up?\"\nformat: html\neditor: visual\n---\n\n\n\n\nSeveral months ago, an economic adviser from a trading platform gave a lecture to a group of doctors on the benefits of equity investment. During his talk, he emphasized two key points:\n\n1.  **Systematic Investment Plans (SIPs) in equities are the best form of investment.**\\\n2.  **As India develops, the equity markets will generally trend upward.**\n\nWhile these statements may hold some truth, it is important to critically examine whether economic growth always translates into strong stock market returns.\n\nOne of the most significant development stories of our time is **China’s rapid economic growth**. Between **2007 and 2020**, China experienced unprecedented expansion, becoming the **world’s second-largest economy** and a global manufacturing powerhouse. However, what is often overlooked is how the stock market performed during this period.\n\nFor instance, if an investor had put **₹1,000 in the Hang Seng Index (HSI) in January 2007**, that investment would have grown to just **₹1,156 by 2025**, reflecting a **Compounded Annual Growth Rate (CAGR) of only 0.78%**—a shockingly low return given China's economic rise.\n\n![](images/hsi.png)\n\nThis raises a crucial question: **Does economic growth always lead to strong stock market performance?**\n\nBefore exploring this further, let’s consider the impact of a **monthly SIP of ₹1,000 in the HSI** since 2007. It would be interesting to analyze whether dollar-cost averaging could have improved returns, or if market stagnation over the years would have still led to underwhelming results.\n\n\n\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(hsi)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n         sip       date\n       <num>     <Date>\n  1:  -10000 0002-01-07\n  2:  -10000 0001-02-07\n  3:  -10000 0001-03-07\n  4:  -10000 0002-04-07\n  5:  -10000 0001-05-07\n ---                   \n217:  -10000 0001-12-24\n218:  -10000 0001-01-25\n219:  -10000 0001-02-25\n220:  -10000 0001-03-25\n221: 2338091 0001-04-25\n```\n\n\n:::\n\n```{.r .cell-code}\nxirr=xirr(hsi$sip,hsi$date)\nprint(xirr)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] -0.06161213\n```\n\n\n:::\n:::\n\n\n\n\nEven more concerning is the performance of a **monthly SIP of ₹1,000 in the HSI** since 2007. Based on the **XIRR calculation, the return was -6%**, meaning an investor would have **lost real capital** over 18 years! This highlights a crucial reality: **economic growth does not always translate into positive stock market returns**.\n\nWhat this story teaches us is nothing else:\n\n::: callout-warning\nThe future cannot be predicted; instead, **stay prepared for all possible outcomes.**\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

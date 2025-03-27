@@ -1,0 +1,57 @@
+---
+title: "In the long run, does the equity market always go up?"
+format: html
+editor: visual
+---
+
+Several months ago, an economic adviser from a trading platform gave a lecture to a group of doctors on the benefits of equity investment. During his talk, he emphasized two key points:
+
+1.  **Systematic Investment Plans (SIPs) in equities are the best form of investment.**\
+2.  **As India develops, the equity markets will generally trend upward.**
+
+While these statements may hold some truth, it is important to critically examine whether economic growth always translates into strong stock market returns.
+
+One of the most significant development stories of our time is **China’s rapid economic growth**. Between **2007 and 2020**, China experienced unprecedented expansion, becoming the **world’s second-largest economy** and a global manufacturing powerhouse. However, what is often overlooked is how the stock market performed during this period.
+
+For instance, if an investor had put **₹1,000 in the Hang Seng Index (HSI) in January 2007**, that investment would have grown to just **₹1,156 by 2025**, reflecting a **Compounded Annual Growth Rate (CAGR) of only 0.78%**—a shockingly low return given China's economic rise.
+
+![](images/hsi.png)
+
+This raises a crucial question: **Does economic growth always lead to strong stock market performance?**
+
+Before exploring this further, let’s consider the impact of a **monthly SIP of ₹1,000 in the HSI** since 2007. It would be interesting to analyze whether dollar-cost averaging could have improved returns, or if market stagnation over the years would have still led to underwhelming results.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tvm)
+library(data.table)
+
+hsi=fread("hsi.csv")
+
+hsi= hsi[,.(sip=as.double(sip),date=as.Date(Date))]
+hsi=hsi[-(222:438),]
+
+
+
+```
+
+```{r}
+#| echo: true
+#| message: false
+#| warning: false
+
+print(hsi)
+
+xirr=xirr(hsi$sip,hsi$date)
+print(xirr)
+```
+
+Even more concerning is the performance of a **monthly SIP of ₹1,000 in the HSI** since 2007. Based on the **XIRR calculation, the return was -6%**, meaning an investor would have **lost real capital** over 18 years! This highlights a crucial reality: **economic growth does not always translate into positive stock market returns**. England and Japan are other striking examples.
+
+What this story teaches us is nothing else:
+
+::: callout-warning
+The future cannot be predicted; instead, **stay prepared for all possible outcomes.**
+:::
