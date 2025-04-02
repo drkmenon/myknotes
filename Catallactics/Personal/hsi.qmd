@@ -2,6 +2,7 @@
 title: "In the long run, does the equity market always go up?"
 format: html
 editor: visual
+date: March 28,2025
 ---
 
 Several months ago, an economic adviser from a trading platform gave a lecture to a group of doctors on the benefits of equity investment. During his talk, he emphasized two key points:
