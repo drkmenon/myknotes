@@ -1,6 +1,6 @@
 ---
-title: "Hip"
-subtitle: "The problem of passing MS Orthopaedics"
+title: "Passing MS Orthopaedics somehow"
+subtitle: "....is not the real goal"
 order: 3
 format:
   revealjs:
@@ -12,11 +12,12 @@ format:
     scroll-view: false
     chalkboard: true
     multiplex: true
+    slide-number: true
     touch: true
     code-copy: true
 ---
 
-## ...with a Rank
+## ...whether it is with a rank or without
 
 ![](images/clipboard-834092300.png)
 
@@ -24,9 +25,34 @@ format:
 
 ![](images/knotespgpre.png)
 
-## Time, HOTS and Effect horizon
+## `Before diving into the topic, I have 4 bitter slides to show`
 
-![](images/effect.png){width="699"}
+## 
+
+### Remember......
+
+### If someone gives you something for free,
+
+### you are the product
+
+## Spoiled by professional education
+
+-   MBBS turns some of the brightest minds into dumb automatons.
+
+-   A specialty degree reinforces this automation to the level of slavery, adding two more misguided believes:
+
+    1.  "Prostitution is acceptable as long as it pays."\
+    2.  "Your professional practice is nothing more than a prostitution."
+
+They seek indulgence, striving to "enjoy every moment," chasing that extra surge of dopamine.
+
+They learn to engage in autistic exchanges to sustain this lifestyle, **all while convincing themselves, deep down, that it is normal and even admirable as a sure sign of success.**
+
+You need a lot of courage and conviction to remain chaste even after 8–9 years of intense grind.
+
+## Time, 2^nd^ order thinking and Effect horizon: Animal ➤ MAN
+
+![\@Sam Ovens](images/effect.png){width="699"}
 
 ## Rote learning vs HOTS
 
@@ -39,6 +65,38 @@ format:
 ![**HOTS and Judgement:** Breakdown, Analyse, **Combine for new Concepts**](images/clipboard-2882631429.png){width="1067"}
 :::
 :::::
+
+## Learn to
+
+::: panel-tabset
+## Reduce load by
+
+-   Doing less stuff: Tinder, Bubble, BGMI, Whatsapp, Insta...
+
+-   Making less decisions: Argue for an hour about what to eat or which clothes to buy.
+
+-   Making decisions that avoid future repeated decision making
+
+-   Reducing surface area
+
+## Think critically
+
+-   Do your own analysis
+
+-   Look for patterns: both good and bad
+
+-   Have core principles
+
+## Build and apply mental maps
+
+-   Have goal
+
+-   Think long term
+
+-   Develop 2^nd^ order thinking skills
+:::
+
+## Long case for MS orthopaedics examination 
 
 ## Diagnosis?
 
@@ -846,7 +904,7 @@ Dynamic biological fixation with lifelong bond between bone and implant.\
 
 ## Take home message
 
-### Remember: If someone gives you something for free, 
+### Remember: If someone gives you something for free,
 
 ### you are the product
 
