@@ -37,18 +37,19 @@ format:
 
 ## Spoiled by professional education
 
+::::: columns
+::: {.column width="50%"}
 -   MBBS turns some of the brightest minds into dumb automatons.
 
--   A specialty degree reinforces this automation to the level of slavery, adding two more misguided believes:
+-   A specialty degree reinforces this automation to the level of slavery
 
-    1.  "Prostitution is acceptable as long as it pays."\
-    2.  "Your professional practice is nothing more than a prostitution."
+At some point, some even lose the ability to ask questions—even basic ones like, "Do you think I'm a prostitute?"
+:::
 
-They seek indulgence, striving to "enjoy every moment," chasing that extra surge of dopamine.
-
-They learn to engage in autistic exchanges to sustain this lifestyle, **all while convincing themselves, deep down, that it is normal and even admirable as a sure sign of success.**
-
-You need a lot of courage and conviction to remain chaste even after 8–9 years of intense grind.
+::: {.column width="50%"}
+![](images/sarm.png){width="666"}
+:::
+:::::
 
 ## Time, 2^nd^ order thinking and Effect horizon: Animal ➤ MAN
 
