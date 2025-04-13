@@ -4,15 +4,13 @@ format: html
 editor: visual
 ---
 
-# ORTHOPAEDICS - Syllabus
-
 Orthopaedics is a branch of modern Medicine that deals with congenital and acquired disorders of the musculo-skeletal system. Considering the advances in management modalities and increased trauma incidence, basic preliminary knowledge of Orthopaedics must be acquired at the MBBS level.
 
 As an undergraduate trainee, students are expected to know common orthopaedic illnesses and ailments with respect to their etiopathogenesis, diagnostic clinical features, and basic management modalities. They should also learn the principles and techniques of bracing, splinting, and traction.
 
-## COURSE OUTCOMES
+## Course Outcome
 
-### KNOWLEDGE
+### Knowledge
 
 At the end of the course, the student shall be able to:
 
@@ -23,7 +21,7 @@ At the end of the course, the student shall be able to:
 5. Explain etiopathogenesis, manifestations, and diagnosis of bone neoplasms.  
 6. Enumerate few recent advances in Orthopaedics.  
 
-### SKILLS
+### Skills
 
 At the end of the course, the student shall be able to:
 
@@ -33,7 +31,7 @@ At the end of the course, the student shall be able to:
 10. Advise aspects of rehabilitation for Polio, Cerebral Palsy and Amputation.  
 11. Apply compression bandage for injuries over extremities.  
 
-## TEACHING PROGRAM
+## Teaching program
 
 | Semester | Lectures | Seminars & Demos | Integrated Teaching | SDL | Clinical Posting |
 |----------|----------|------------------|----------------------|-----|------------------|
@@ -42,7 +40,7 @@ At the end of the course, the student shall be able to:
 | 8th      | 15 hrs   | 20 hrs           | 10 hrs               | 3   | 3 Weeks          |
 | **Total**| 45 hrs   | 35 hrs           | 10 hrs               | -   | 3 Weeks          |
 
-### COURSE CONTENTS (90 hours total)
+### Course contents (90 hours total)
 
 ### A. Didactic Lectures
 
