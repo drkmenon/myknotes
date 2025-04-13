@@ -1,0 +1,249 @@
+---
+title: "Syllabus"
+format: html
+editor: visual
+---
+
+# ORTHOPAEDICS - Syllabus
+
+Orthopaedics is a branch of modern Medicine that deals with congenital and acquired disorders of the musculo-skeletal system. Considering the advances in management modalities and increased trauma incidence, basic preliminary knowledge of Orthopaedics must be acquired at the MBBS level.
+
+As an undergraduate trainee, students are expected to know common orthopaedic illnesses and ailments with respect to their etiopathogenesis, diagnostic clinical features, and basic management modalities. They should also learn the principles and techniques of bracing, splinting, and traction.
+
+## COURSE OUTCOMES
+
+### KNOWLEDGE
+
+At the end of the course, the student shall be able to:
+
+1. Explain the principles of recognition of bone injuries and dislocation.  
+2. Apply suitable methods to detect and manage common infections of bones and joints; learn indications for sequestrectomy, amputations.  
+3. Identify congenital skeletal anomalies and refer for appropriate correction or rehabilitation.  
+4. Recognize metabolic bone diseases relevant to Indian context.  
+5. Explain etiopathogenesis, manifestations, and diagnosis of bone neoplasms.  
+6. Enumerate few recent advances in Orthopaedics.  
+
+### SKILLS
+
+At the end of the course, the student shall be able to:
+
+7. Detect sprains and deliver first aid for common fractures and sprains; manage uncomplicated fractures of clavicle, distal radius, forearm, and phalanges.  
+8. Use techniques of splinting, plaster, and immobilization for fractures.  
+9. Detect and plan treatment algorithm for common deformities of bone and joint.  
+10. Advise aspects of rehabilitation for Polio, Cerebral Palsy and Amputation.  
+11. Apply compression bandage for injuries over extremities.  
+
+## TEACHING PROGRAM
+
+| Semester | Lectures | Seminars & Demos | Integrated Teaching | SDL | Clinical Posting |
+|----------|----------|------------------|----------------------|-----|------------------|
+| 5th      | 15 hrs   | -                | -                    | -   | 6 hrs Orientation|
+| 7th      | 15 hrs   | 15 hrs           | -                    | 5   | -                |
+| 8th      | 15 hrs   | 20 hrs           | 10 hrs               | 3   | 3 Weeks          |
+| **Total**| 45 hrs   | 35 hrs           | 10 hrs               | -   | 3 Weeks          |
+
+### COURSE CONTENTS (90 hours total)
+
+### A. Didactic Lectures
+
+**5th Semester – Skeletal Trauma, Polytrauma:**
+
+1. Introduction, classification of fractures and dislocation, sprain (OR1.3)  
+2. Shock: features and management (OR1.2)  
+3. First aid in polytrauma and spinal cord injury, triage, splints (OR1.1)  
+4. Management principles of fractures, sprain, dislocation, fixation (OR1.3)  
+5. Compound fractures: management and infection prevention (OR2.16)  
+6. Complications: muscle, tendon, nerve, vascular injuries (OR2.15)  
+7. Malunion, delayed union, osteoarthritis (OR2.15)  
+8. Plaster application techniques and complications (OR13.1)  
+9. Fracture healing and influencing factors  
+
+**Fractures – Orthopaedic Traumatology:**
+
+10. Fracture clavicle, scapula, humerus (OR2.1, OR2.2)  
+11. Supracondylar fracture (OR2.4)  
+12. Forearm fractures, Monteggia & Galeazzi, radius fractures (OR2.5)  
+13. Scaphoid, metacarpals, phalanges (OR2.5)  
+14. Distal radius, Colles’ fracture (OR2.6)  
+15. Dislocation of shoulder and elbow (OR1.5)  
+
+**7th Semester:**
+
+16. Vertebral fractures (OR2.8)  
+17. Pelvis and acetabulum fractures (OR2.7, OR2.9)  
+18. Neck femur and trochanteric fractures (OR2.10)  
+19. Shaft femur, knee fractures (OR2.12)  
+20. Meniscus and ligament injuries (OR1.3)  
+21. Tibia-fibula, tarsal, metatarsal, phalangeal fractures (OR2.13)  
+22. Ankle fracture dislocations (OR2.14)  
+23. Dislocations of hip, knee, ankle, tarsals (OR2.5)  
+
+**Musculoskeletal Infections:**
+
+24. Acute & Chronic Osteomyelitis (OR3.1, OR3.3)  
+25. Pyogenic arthritis, fungal, leprosy (OR3.1, OR3.2)  
+
+**Skeletal Tuberculosis:**
+
+26. Osteoarticular TB, spine TB, paraplegia (OR4.1)  
+
+**Inflammatory Arthritis:**
+
+27. Rheumatoid and seronegative arthropathies (OR5.1)  
+
+**Degenerative Disorders:**
+
+28. Spine: cervical/lumbar disc (OR6.1)  
+29. Osteoarthritis: knee (OR6.1)  
+30. Frozen shoulder, tennis elbow, etc. (OR6.1)  
+
+**8th Semester:**
+
+**Metabolic Bone Disorders:**
+
+31. Rickets, Osteomalacia, Osteoporosis (OR7.1)  
+
+**Poliomyelitis:**
+
+32. Post-polio residual palsy (OR8.1)  
+
+**Cerebral Palsy:**
+
+33. Diagnosis and rehabilitation (OR9.1)  
+
+**Bone Tumors:**
+
+34. Benign tumors (OR10.1)  
+35. Malignant tumors (OR10.1)  
+36. Myeloma, metastases (OR10.1)  
+
+**Peripheral Nerve Injuries:**
+
+37. Nerve injuries management (OR11.1)  
+
+**Congenital Lesions:**
+
+38. CTEV (OR12.1)  
+39. CDH, Osteogenesis Imperfecta (OR12.1)  
+40. Spina Bifida, Torticollis, Osteochondritis (OR12.1)  
+41-45. Revision Classes  
+
+### B. Demonstrations (8th Semester, 1 hr/week)
+
+1. Plaster/splinting (OR13.1)  
+2. Traction and appliances (OR13.1)  
+3. Specimens – sequestrum, tumors  
+4. Instruments and implants  
+5–7. X-rays: trauma, infection, TB  
+8. Chronic osteomyelitis, effusion  
+9. Nonunion  
+10. Bone tumors  
+
+### C. Seminars (8th & 9th Semester)
+
+1. Osteomyelitis  
+2. Tuberculosis  
+3. Bone tumors  
+4. First aid, trauma  
+5. Proximal femur fractures  
+
+### D. Tutorials (10 sessions, 1 hr each)
+
+1. Supracondylar fracture  
+2. Colles’ fracture  
+3. Neck femur fracture  
+4. Spine, Pott's spine  
+5. CTEV  
+6. Upper limb joint exams  
+7. Hip exam  
+8. Lower limb joint exams  
+9. Nerve exams  
+10. Amputation – indication, method, complications  
+
+### E. Self-Directed Learning (10 hours)
+
+Case-based, problem-based, group discussions  
+
+### F. Integrated Teaching (10 hours)
+
+Topics include bone/joint infections, mechanical injuries, TB, tumors, BLS, metabolic disorders, arthritis, rehab, cerebral palsy
+
+### G. Clinical Postings (3 weeks, 8th Semester)
+
+1. Bedside history  
+2. Observe OT, casualty (OR13.2)  
+3. Pre-op and post-op patient exam  
+4. Traction, wound care, splints (OR13.1)  
+5. Attend OPD, OT, emergency (OR13.1)  
+6. Ward rounds  
+7. Plaster and care (OR13.1)  
+8. Breaking bad news, prognosis (OR14.1)  
+9. Clinical teaching in wards  
+10. X-rays, orthotics, prosthetics  
+11. Subspecialty clinics  
+12. Path specimens, instruments  
+13. Informed consent  
+14. Amputation care counselling (OR13.2)  
+15. Referral skills (OR14.3)  
+
+## CERTIFIABLE PROCEDURAL SKILLS
+
+- Application of splints/slings (I)  
+- Basic fracture/dislocation management (O)  
+- Compression bandage (I)  
+
+## ASSESSMENT PLAN
+
+### Formative (Internal)
+
+- IA1 (6th Sem): 15 marks (theory)  
+- IA2 (8th Sem): 15 marks theory + 20 practical (converted to 10)  
+- Prelims (9th Sem): 20 marks theory + 25 practical  
+
+### Summative
+
+- Theory: 20 marks in Surgery Paper II  
+  - Q3: 10 marks (Structured Long Answer)  
+  - Q4: 10 marks (Five 2-mark SAQs)  
+- Practical: 25 marks (15 case + 10 viva)  
+
+## RECOMMENDED BOOKS
+
+- Outlines of Fractures – Adams  
+- Apley’s System – Louis Solomon  
+- Essentials of Orthopaedics – Maheshwari  
+- Clinical Ortho Exam – McRae  
+
+**Reference Books:**
+
+- Campbell’s Operative Ortho  
+- Rockwood & Green  
+- Tachdjian’s Pediatric Ortho  
+
+## INTERNSHIP – ORTHOPAEDICS (1 Month)
+
+### Goals
+
+Enable interns to diagnose/treat common musculoskeletal ailments and emergencies.
+
+### (A) THERAPEUTIC (Assist in):
+
+- Plaster slab, Thomas splint  
+- Manual reduction – fractures/dislocations  
+- Plaster cast  
+- Emergency trauma care  
+- Spinal cord injury management  
+
+### (B) SKILLS (Under supervision):
+
+- Prognosis advice: polio, CP, CTEV, CDH  
+- Rehab advice: amputees, traumatic/leprosy deformities  
+
+### (C) SURGICAL (Observe/Assist):
+
+- Osteomyelitis drainage  
+- Sequestrectomy  
+- External fixation  
+- Internal fixation  
+
+**Note**: All activities are to be recorded in a Log Book and competencies certified.
