@@ -9,7 +9,7 @@ categories:
 
 The stock market remains closed today. Since October 2024, the Nifty index has been gradually going down for five consecutive months. It has lost 15 points from the top, and nobody knows the reason. One school of thought is that this is natural profit-booking after a period of excessive upward movement. Others see it as a more structural problem, with growth slowing down and international trade becoming more autistic. From the low point of April 2020 (\~8000), the index had a phenomenal run to 26,300 with a CAGR of 28%.
 
-An astute investor would have felt the alarm bells ringing at least twice: in the middle of 2021 and 2024, with the market entering overbought territory well above 70%. After the 2021 peak, with 72% overbought, it remained flat for the next 1 to 1.5 years. Once the market started touching below neutral, it started moving up until it reached 26300, with 83% oversold.
+An astute investor would have felt the alarm bells ringing at least twice: in the middle of 2021 and 2024, with the market entering overbought territory well above 70%. After the 2021 peak, with 72% overbought, it remained flat for the next 1 to 1.5 years. Once the market started touching below neutral, it started moving up until it reached 26300, with 83% overbought.
 
 He would have moved all his accumulated equity to high-grade bonds or G-secs and waited for the exuberance to come down to near 50%, or at the very least, he would have bought some insurance against the downside. For his new savings, he would have continued to accumulate equity systematically, expecting prices to come down or stay flat for an extended period of time, buying all the way down to the bottom.
 
@@ -29,7 +29,7 @@ HANG SANG is around 60% over bought.He also felt that NATCO is trading at 50% an
 
 ### 📘 February 28, 2025
 
-\>2 point sell-off in NASDAQ and close to 2 point sell off in NIFTY. All stocks are down in similar proportions or more. It is interesting time. Trump is stirring the economic and geopolitical landscape on a daily basis. His tit for tat tariff plans are particularly interesting. Overall I believe that Trump is generally good for the world. Less people are getting killed at-least. I believe that tariffs breed inefficient industrialists and rob the consumers. This is especially true in case of India. I hope Trump will force us to reduce tariffs with a long term benefit of better industries, better quality products and lower costs.
+\>2 point sell-off in NASDAQ and close to 2 point sell off in NIFTY. All stocks are down in similar proportions or more. It is interesting time. Trump is stirring the economic and geopolitical landscape on a daily basis. His tit for tat tariff plans are particularly interesting. Overall I believe that Trump is generally good for us. Less people are getting killed at-least. I believe that tariffs breed inefficient industrialists and rob the consumers. This is especially true in case of India. I hope Trump will force us to reduce tariffs with a long term benefit of better industries, better quality products and lower costs.
 
 ### 📘 March 5, 2025
 
@@ -83,7 +83,7 @@ Market rallied around 2 points.
 
 ### 📘 March 21, 2025
 
-Market is keeping the uptrend intact. Yesterday Mr P switched his June put and call options to December following a more than 1 point upside move in NIFTY.
+Market is keeping the up-trend intact. Yesterday Mr P switched his June put and call options to December following a more than 1 point upside move in NIFTY.
 
 ### 📘 March 23, 2025
 
@@ -95,11 +95,11 @@ One good strategy is to keep most funds in a low-cost debt instrument and rebala
 
 Options will expire worthless is \>80% situations, with potential big returns during violence. One problem with this is STCG tax and tax filing.
 
-For short-term goals—say, within a one-year timeframe—and in overbought markets it may be wiser to keep capital in money market instruments, such as liquid funds, rather than relying on the non existant compounding effects of the stock market.
+For short-term goals—say, within a one-year time frame—and in overbought markets it may be wiser to keep capital in money market instruments, such as liquid funds, rather than relying on the non existent compounding effects of the stock market.
 
 Mr. P navigated the correction phase well, achieving good capital appreciation despite losing all the option premiums so far. He expects the market to revert to the mean in the coming days, with further correction likely. As a result, he has temporarily paused his NIFTY 50 index SIP and decided to park new income in a liquid index fund for a lump-sum investment at a later date.
 
-He is fully aware that the market can rise irrationally, and he may miss out on potential gains. However, he believes that in such a scenario, his call options may generate returns, partially compensating for the opportunity cost. His primary objective is to avoid losing capital rather than focusing solely on opportunity cost. His current equity exposure is around 15% and plans to move it to 50% over some months if the market is going further down.
+He is fully aware that the market can rise irrationally, and he may miss out on potential gains. However, he believes that in such a scenario, his call options may generate returns, partially compensating for the opportunity cost. His primary objective is to avoid losing capital rather than focusing solely on opportunity cost. His current equity exposure is around 15% and plans to move it to 50% over some months if the market is going further down, with his new incomes.
 
 5.54 7/2.85 7
 
@@ -121,7 +121,7 @@ What the general media is talking less about now is the sharp decline in the 10-
 
 Mr P bought some OILIETF; thinking that oil has not moved much for last 10 years, now it should be moving!
 
-### 📘 April 3, 2025
+### 📘 April 4, 2025
 
 NASDAQ down by around 10 points in 2 days. Surprisingly NIFTY, HSI holding firm relatively. Exciting times ahead. Should one start deploying or wait? I believe some more downside is there to the market...lets wait for the 14 dma to come down little more.
 
@@ -186,3 +186,55 @@ Mr P has to deliberate on whether to sell the accumulated NIFTYBEES if the marke
 Now Whitehouse says that the China tariff is 145%!! NDX is down 4-5 points, NIFTY up 2 points. Gold is forming new tops every day.
 
 China retaliated with increase in tariff to 125% from 84%. China is also actively reaching out to Vietnam, Malaysia, Spain, SA, Saudi Arabia and India. It is talking with EU to reduce EV tariff.
+
+### 📘 April 14, 2025
+
+India’s 10-year bond yield is at a 52-week low, suggesting that bond prices may have peaked. Coupled with the possibility of low economic growth due to tariffs, this could lead to a further downward movement in stocks. Although more rate cuts are expected, they may take time to translate into market action and, therefore, may not be sufficient to prevent a decline in equities.
+
+Would it be prudent to sell the NIFTY holdings accumulated over the past two years during intermittent rallies, and re-enter gradually over the next 1–2 years?
+
+### 📘 April 15, 2025
+
+US TLT iShares ETF is currently priced at \$87, which is relatively low. In fact, it has not fallen below this level since 2003 (but have tested this level multiple times). Meanwhile, India’s 10-year government bond is near its peak price level. In US, people are holding cash; in India they are holding bond, it seems. I’m not entirely sure how to interpret this.
+
+Historically, bonds tend to peak before stocks, and both decline gradually during a downward business cycle, typically bottoming around the same time.
+
+The US may be in the middle of a downward cycle, while India may be at the beginning of one.
+
+### 📘 April 16, 2025
+
+Average years to maturity of LIC g-sec NPS II is \~20 years. a 25 basis point cut will increase the NAV by approximately 5%. Inflation is at 5 year low of 3.34% as per latest government figures. We can expect some more rate cuts this year (100 bp?). This will bring down the repo rate to 5.25 from the high point of 6.5 starting from 2022. We can expect g-sec to give good returns this year.
+
+NIFTY should go down to good levels by the time the rate cut is over!!
+
+### 📘 April 17, 2025
+
+The main driving forces in the market are greed and fear. However, certain minor belief systems among market participants can also influence market direction—at least temporarily. One such intriguing belief is Fibonacci retracement, which uses key levels like 23.6%, 38.2%, or 61.8%.
+
+Interestingly, in the previous uptrend that started in June ’22 (at 15,100) and peaked at 26,200, the NIFTY retraced 38.2% (to 21,950) by April 7, slightly overshooting to 21,750. It then quickly rebounded to the 23.6% level (23,580), again overshooting slightly and now hovering around 23,700.
+
+According to this belief system, if the previous swing high (23,850) is breached, new highs can be expected. If not, deeper retracements—such as 61.8%—may occur.
+
+### 📘 April 22, 2025
+
+Last 8 trading days, NIFTY rallied 10 points. Interesting to see where it is going at a time when US is going down.
+
+Mr P got rid of OILIETF, which he started disbelieving in.
+
+### 📘 April 24, 2025
+
+Yesterday there was a terrorist attack in Kasmir, 26 innocents were killed. India withdrew from Indus water treaty with pakistan. Market remained neutral. Later today pakistan suspended Simla agreement and closed their airspace.
+
+### 📘 April 26, 2025
+
+Mr P bought more NMDC following a 5 p fall yesterday. Also added some NIFTYBEES
+
+### 📘 April 29, 2025
+
+Mr P exited from all NIFTY, planning to build the position afresh. Started SIP in NASDAQ and NIFTY.
+
+### 📘 May 3, 2025
+
+From the levels of Feb 27, gold prices went up by \>18 points and fell sharply by 10 points from that level. Market forming shooting star below the hang man. So people may be working for a reversal.
+
+5.7039 7\|2.9463 7

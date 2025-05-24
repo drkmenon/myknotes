@@ -1,0 +1,10 @@
+---
+title: "CERTIFIABLE PROCEDURAL SKILLS"
+format: html
+order: 8
+editor: visual
+---
+
+-   Application of splints/slings (I)\
+-   Basic fracture/dislocation management (O)\
+-   Compression bandage (I)

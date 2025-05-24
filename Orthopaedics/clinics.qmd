@@ -1,0 +1,21 @@
+---
+title: "Clinical posting"
+format: html
+order: 9
+editor: visual
+---
+
+### Clinical Postings (8 weeks)
+
+1.  Bedside history taking
+2.  Examination of Joints
+3.  Examination of swelling/tumors
+4.  Examination of nerve injury
+5.  Observe OT, casualty (OR13.2)
+6.  Pre-op and post-op patient examination
+7.  Attend OPD, OT, emergency (OR13.1)
+8.  Ward rounds
+9.  Plaster care (OR13.1)
+10. Clinical teaching in wards
+11. X-rays, orthotics, prosthetics
+12. Path specimens, instruments\

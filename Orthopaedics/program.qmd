@@ -1,0 +1,47 @@
+---
+title: "Program"
+format: html
+order: 3
+editor: visual
+---
+
+## Teaching program
+
+| Phase          | Lectures   | SGL        | SDL        | Clinical Posting |
+|----------------|------------|------------|------------|------------------|
+| Phase 2        | 10 hrs     | 12         | 5          | 2 weeks          |
+| Phase 3 part 1 | 10 hrs     | 12         | 5          | 2 weeks          |
+| Phase 3 part 2 | 10 hrs     | 26         | 10         | 4 Weeks          |
+| **Total**      | **30 hrs** | **50 hrs** | **20 hrs** | **8 Weeks**      |
+
+There are 14 topics and 39 learning outcomes all together in this program
+
+## Topics
+
+1.  Skeletal Trauma and Polytrauma 
+
+2.  Fractures 
+
+3.  Musculoskeletal Infections 
+
+4.  Skeletal Tuberculosis 
+
+5.  Rheumatoid Arthritis and Associated Inflammatory Disorders 
+
+6.  Degenerative Disorders (Degenerative Conditions of the Spine) 
+
+7.  Metabolic Bone Disorders 
+
+8.  Poliomyelitis (Post-Polio Residual Paralysis) 
+
+9.  Cerebral Palsy 
+
+10. Bone Tumours 
+
+11. Peripheral Nerve Injuries 
+
+12. Congenital Lesions (Malformations and Deformities) 
+
+13. Procedural Skills (Casting, Splintage, Plaster Application) 
+
+14. Counselling Skills (Consent, Prognosis Discussion, Referral) 

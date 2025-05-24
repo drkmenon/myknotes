@@ -1,0 +1,48 @@
+---
+title: "Course outcome"
+format: html
+order: 2
+editor: visual
+---
+
+| Competency No. | Outcome | Suggested Learning Objective (SLO) | Teaching–Learning Method | Hours | Integration Department(s) | Phase |
+|---------|---------------|---------------|---------|---------|---------|---------|
+| OR1.1 | Describe principles of pre-hospital care, casualty management and triage | Explain the steps of pre-hospital trauma management and outline triage protocol | Lecture | 1 | General Surgery; Anaesthesiology | Phase 2 |
+| OR1.2 | Describe aetiopathogenesis, clinical features, investigations & management of shock | List types of shock and describe clinical approach and emergency management | Lecture | 1 | General Surgery | Phase 2 |
+| OR1.3 | Describe clinical features, investigations soft-tissue injuries | Identify clinical signs of soft tissue injury, classify and describe basic investigation principles | Lecture | 1 | General Surgery | Phase 2 |
+| OR1.4 | Explain principles of soft-tissue injury management | List steps in soft tissue repair and management, including infection control | Lecture | 1 | General Surgery | Phase 2 |
+| OR1.5 | Describe mechanism, features, investigations & management of major-joint dislocations | Describe joint-specific dislocation mechanisms and first-line management | Lecture | 2 | — | Phase 2 |
+| OR1.6 | Participate in closed reduction of shoulder/hip/knee dislocation | Demonstrate technique of closed reduction using models/mannequins | SGL (skills station) | 4 | — | Phase 2 |
+| OR2.1 | Describe mechanism, features, investigations & management of clavicle fractures | Outline clinical signs and radiological views required for clavicle fracture diagnosis | Lecture | 1 | Human Anatomy | Phase 2 |
+| OR2.2 | Describe mechanism, features, investigations & management of proximal humerus fractures | Describe Neer's classification and approach to proximal humerus fractures | Lecture | 1 | Human Anatomy | Phase 2 |
+| OR2.3 | Select, prescribe & communicate joint-pain medication | Choose appropriate analgesic therapy based on type and severity of pain | SDL (online module, moodle) | 10 | Human Anatomy | Phase 2 |
+| OR2.4 | Describe mechanism, features, investigations & management of humeral‐shaft & intercondylar fractures | Describe clinical signs and complications of humeral shaft and inter-condylar fractures including nerve injury | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.5 | Describe mechanism, features, investigations & management of forearm injuries | Differentiate between Galeazzi and Monteggia fractures and their management | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.6 | Describe mechanism, features, investigations & management of distal-radius fractures | Describe types of distal radius fractures and management | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.7 | Describe features, investigations & management of pelvic injuries with haemodynamic instability | Explain pelvic ring classifications and steps of acute management | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.8 | Describe features, investigations & management of spine injuries & mobilisation | Outline cervical spine precautions and spinal cord injury assessment | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.9 | Describe mechanism, features, investigations & management of acetabular fractures | List acetabular fracture types and surgical indications | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.10 | Describe mechanism, features, investigations & management of proximal-femur fractures | Describe types of hip fractures and preferred fixation methods | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.11 | Describe mechanism, features, investigations & management of patella, distal-femur & proximal-tibia fractures | Differentiate between distal femur and tibial plateau fractures with complication risks | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.12 | Describe mechanism, features, investigations & management of femoral-shaft fractures & fat embolism | Explain early signs of fat embolism and principles of IM nailing | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.13 | Describe mechanism, features, investigations & management of leg fractures | Describe principles of reduction and immobilization of tibia-fibula fractures | Lecture | 1 | Human Anatomy | Phase 3 Part 1 |
+| OR2.14 | Describe mechanism, features, investigations & management of ankle fractures | Classify ankle fractures and describe conservative and surgical treatment options | Lecture | 1 | Human Anatomy | Phase 3 Part 2 |
+| OR2.15 | Plan & interpret investigations for fracture complications | Identify X-ray features of non-union, malunion and compartment syndrome | SDL (Online module, moodle) | 10 | Human Anatomy | Phase 3 Part 2 |
+| OR2.16 | Describe management of open fractures with infection-prevention focus | Describe Gustilo-Anderson classification and wound debridement principles | Lecture | 1 | Human Anatomy | Phase 3 Part 2 |
+| OR3.1 | Describe management of bone & joint infections including osteomyelitis | Differentiate acute and chronic osteomyelitis and outline treatment | Lecture | 1 | Pathology; Microbiology; Surgery | Phase 3 Part 2 |
+| OR3.2 | Participate in joint aspiration under supervision | Demonstrate technique for joint aspiration and list precautions | SGL (skills station) | 4 | — | Phase 3 Part 2 |
+| OR3.3 | Participate in drainage, sequestrectomy, arthrotomy | Describe surgical setup and steps for debridement and sequestrectomy | SGL (skills station) | 4 | General Surgery | Phase 3 Part 2 |
+| OR4.1 | Describe management of joint TB, cold abscess & Pott’s spine | Identify signs of Pott’s spine and cold abscess and outline anti-TB protocol | Lecture | 1 | Pathology; General Surgery | Phase 3 Part 2 |
+| OR5.1 | Describe management of inflammatory joint disorders | Recognize rheumatoid and other inflammatory arthritis and outline basic drug therapy | Lecture | 1 | General Medicine | Phase 3 Part 2 |
+| OR6.1 | Describe management of spinal degenerative disorders | Discuss features of lumbar/cervical spondylosis and when to refer | Lecture | 1 | — | Phase 3 Part 2 |
+| OR7.1 | Describe management of metabolic bone disorders | Describe features, lab parameters and management of osteoporosis and osteomalacia | Lecture | 1 | — | Phase 3 Part 2 |
+| OR8.1 | Describe management of post-polio residual paralysis | Describe principles of management of PPRP | Lecture | 1 | — | Phase 3 Part 2 |
+| OR9.1 | Describe management of cerebral palsy | Describe types of CP and orthopaedic deformity management | Lecture | 1 | — | Phase 3 Part 2 |
+| OR10.1 | Describe management of bone tumours & pathological fractures | Classify bone tumours and explain imaging and biopsy approach | Lecture | 2 | Pathology; Surgery; Radiotherapy | Phase 3 Part 2 |
+| OR11.1 | Describe management of peripheral-nerve injuries | Identify signs of radial, median, ulnar nerve injuries and plan evaluation | Lecture | 1 | Anatomy; Medicine; Surgery | Phase 3 Part 2 |
+| OR12.1 | Describe management of congenital/acquired deformities | Recognize clubfoot, torticollis and CDH and describe treatment principles | Lecture | 1 | Human Anatomy | Phase 3 Part 2 |
+| OR13.1 | Perform plastering & splintage procedures | Demonstrate application of various plasters and splints on mannequins | SGL (skills station) | 4 | — | Phase 3 Part 2 |
+| OR13.2 | Perform trauma resuscitation procedures | Demonstrate airway management and fracture splinting on mannequins | SGL (simulation lab) | 4 | Anaesthesiology | Phase 3 Part 2 |
+| OR14.1 | Counsel on prognosis of orthopaedic illnesses | Communicate long-term outcomes of conditions like bone tumours or amputation | SGL (role-play) | 4 | AETCOM | Phase 3 Part 2 |
+| OR14.2 | Counsel & obtain informed consent | Demonstrate informed consent discussion for a major orthopaedic procedure | SGL (role-play) | 4 | AETCOM | Phase 3 Part 2 |
+| OR14.3 | Counsel & refer patients for advanced care | Explain red flag signs and outline referral protocol | SGL (role-play) | 4 | AETCOM | Phase 3 Part 2 |

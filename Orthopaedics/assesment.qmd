@@ -1,0 +1,32 @@
+---
+title: "Assesment"
+format: html
+order: 10
+editor: visual
+---
+
+## ASSESSMENT PLAN
+
+### Formative (Internal)
+
+-   IA1 (6th Sem): 15 marks (theory)
+-   IA2 (8th Sem): 15 marks theory + 30 practical
+-   Prelims (9th Sem): 20 marks theory + 30 practical
+
+### Summative
+
+-   Theory: 30 marks in Surgery Paper II
+-   Practical: 30 marks (20 case + 10 viva and OSCE)
+
+## RECOMMENDED BOOKS
+
+-   Outlines of Fractures – Adams
+-   Apley’s System – Louis Solomon
+-   Essentials of Orthopaedics – Maheshwari
+-   Clinical Ortho Exam – McRae
+
+**Reference Books:**
+
+-   Campbell’s Operative Ortho
+-   Rockwood & Green
+-   Tachdjian’s Pediatric Ortho
