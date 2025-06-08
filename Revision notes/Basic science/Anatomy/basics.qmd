@@ -7,25 +7,25 @@ editor: visual
 
 ## Skeletal Muscle
 
-Skeletal muscle can be classified structurally as either pennate or non-pennate. Pennate muscles may be unipennate, bipennate, or multipennate, depending on the orientation of muscle fibers relative to the tendon. The internal structure of skeletal muscle reveals important landmarks such as the Z line, M line, H zone, A band, and I band. These features are crucial to understanding the contractile mechanics of muscle fibers.
+Skeletal muscle can be classified structurally as either **pennate** or **non-pennate**.
+
+**Pennate muscles may be unipennate, bipennate, or multipennate**, depending on the orientation of muscle fibers relative to the tendon.
+
+The internal structure of skeletal muscle reveals important landmarks such as the Z line, M line, H zone, A band, and I band. These features are crucial to understanding the contractile mechanics of muscle fibers.
 
 Under electron microscopy, the alternating I and A bands become prominent. The thick filaments are composed of myosin, while the thin filaments are made of actin. Myosin and actin are essential for the sliding filament mechanism of muscle contraction.
 
-------------------------------------------------------------------------
-
 ## Muscle Contraction
 
-According to the sliding filament theory, muscle contraction begins when nerve impulses travel to the neuromuscular junction. Acetylcholine (Ach) is released and crosses the synapse, binding to receptors on the muscle membrane. This event triggers the release of calcium ions from the sarcoplasmic reticulum. Calcium then binds to troponin, causing a conformational change in tropomyosin. This change exposes binding sites on actin, allowing myosin heads to attach and form cross-bridges, a process that requires ATP.
+According to the **sliding filament theory**, muscle contraction begins when nerve impulses travel to the neuromuscular junction. **Acetylcholine** (Ach) is released and crosses the synapse, binding to receptors on the muscle membrane. This event triggers the **release of calcium ions from the sarcoplasmic reticulum**. Calcium then binds to troponin, causing a conformational change in tropomyosin.
 
-During contraction, the sarcomere shortens. The A band remains the same length, but the I band and H zone become narrower. These changes reflect the overlapping of actin and myosin filaments as contraction progresses.
+This change exposes binding sites on actin, allowing myosin heads to attach and form cross-bridges, a process that requires ATP.
 
-------------------------------------------------------------------------
+During contraction, the sarcomere shortens. **The A band remains the same length, but the I band and H zone become narrower**. These changes reflect the overlapping of actin and myosin filaments as contraction progresses.
 
 ## Energetics of Muscle
 
 ATP is essential for muscle contraction. The body relies on three main energy systems to generate ATP. The ATP-CP (creatine phosphate) system provides energy for very short bursts (up to 20 seconds). The anaerobic or lactic acid system dominates in efforts lasting between 20 to 120 seconds, while the aerobic system takes over during sustained activity beyond two minutes.
-
-------------------------------------------------------------------------
 
 ## Muscle Fiber Types
 
@@ -37,13 +37,9 @@ Type IIB fibers are fast glycolytic fibers. These contract rapidly with high for
 
 During high-intensity efforts, Type II fibers are recruited first, followed by Type I fibers for endurance or sustained activity.
 
-------------------------------------------------------------------------
-
 ## Muscle Contractions
 
 Muscle contractions are classified into three types. Isometric contraction occurs when muscle length remains unchanged despite tension. Isotonic contraction involves a change in muscle length, and is further divided into concentric (muscle shortening) and eccentric (muscle lengthening) contractions. Isokinetic contraction refers to muscle action performed at a constant speed, typically using specialized equipment.
-
-------------------------------------------------------------------------
 
 ## Peripheral Nerve Structure and Function
 
@@ -51,15 +47,11 @@ Peripheral nerves include afferent (sensory), efferent (motor), and sympathetic 
 
 Nerve fibers are categorized based on diameter, myelination, and conduction speed. Type A fibers are large, heavily myelinated, and conduct rapidly; they are involved in touch and proprioception. Type B fibers are smaller with intermediate myelination and conduction speed, typically serving autonomic functions. Type C fibers are unmyelinated, small-diameter fibers that conduct slowly and mediate pain.
 
-------------------------------------------------------------------------
-
 ## Resting Membrane Potential and Action Potential
 
 The resting membrane potential of a neuron is approximately -70 mV. This electrical difference is maintained by ionic gradients and active transport mechanisms across the neuronal membrane.
 
 An action potential is initiated by a depolarization event that surpasses the threshold potential, typically around -55 mV. Sodium channels open, allowing Na⁺ influx, leading to further depolarization. This is followed by repolarization as potassium channels open and K⁺ ions exit the cell. After-hyperpolarization occurs when the membrane potential briefly becomes more negative than the resting level due to continued K⁺ efflux before returning to baseline.
-
-------------------------------------------------------------------------
 
 ## Nerve Injuries
 
@@ -67,15 +59,11 @@ Nerve injuries may result from compression, stretching, or laceration. They are 
 
 Neuropraxia (Sunderland I) involves temporary disruption of conduction without loss of axonal continuity. Axonotmesis (Sunderland II) indicates axonal disruption with preservation of surrounding structures, offering potential for good recovery. Higher grades (Sunderland III–V) involve progressive damage to the endoneurium, perineurium, and epineurium, culminating in neurotmesis (Sunderland V), where complete nerve transection occurs and recovery is poor.
 
-------------------------------------------------------------------------
-
 ## Degeneration and Regeneration
 
 When a nerve is injured, Wallerian degeneration occurs. This involves the breakdown of the distal axon and myelin within 24 hours. Macrophages clear debris over several weeks. Regeneration begins with Schwann cell proliferation forming bands of Büngner, guiding axonal sprouting at approximately 1 mm/day. Success depends on factors like neurotrophic support and correct pathfinding.
 
 Delayed reinnervation beyond 12–18 months may result in permanent loss of function due to motor end plate and muscle atrophy.
-
-------------------------------------------------------------------------
 
 ## Nerve Conduction Studies
 
@@ -83,15 +71,11 @@ Nerve conduction studies (NCS) assess the electrical function of peripheral nerv
 
 Normal values include velocities greater than 45 m/s in upper limbs and 35 m/s in lower limbs. Latency should be below 3.5 ms at the wrist. Decreased velocity and increased latency suggest demyelination, while reduced amplitude indicates axonal loss.
 
-------------------------------------------------------------------------
-
 ## Electromyography
 
 Electromyography (EMG) evaluates the electrical activity of skeletal muscle and is useful after three weeks post-injury. It assesses spontaneous activity, endplate potentials, and insertional activity.
 
 Key spontaneous findings include positive sharp waves, fibrillations, fasciculations, and myokymic discharges. The presence of fibrillations suggests axonotmesis or neurotmesis, while their absence points to neuropraxia.
-
-------------------------------------------------------------------------
 
 ## Tendons and Ligaments
 
@@ -99,16 +83,132 @@ Tendons connect muscle to bone and may be sheathed (with vincula) or covered by 
 
 Ligaments connect bone to bone and are covered by epiligament. They also contain type I collagen but have more elastin and less uniform fiber orientation than tendons.
 
-------------------------------------------------------------------------
-
 ## Biomechanical Properties
 
 Tendons and ligaments can withstand tensional strain of 5–10% before failure. In comparison, bone tolerates only about 1–4% strain. This elasticity makes them well-suited to dynamic musculoskeletal functions.
-
-------------------------------------------------------------------------
 
 ## Healing of Tendons
 
 Tendon healing proceeds through three overlapping phases: inflammation (0–5 days), proliferation (3 days to 6 weeks), and remodeling (6 weeks to 1 year). During inflammation, a hematoma forms and inflammatory cells are recruited. Fibroblasts then proliferate and begin collagen deposition, forming a fibrous bridge by the second week. Remodeling involves consolidation and maturation of collagen fibers.
 
 After surgical repair, tendons are weakest at one week, gain strength significantly by four weeks, and reach near-normal strength by six months.
+
+## Self Assessment
+
+**Question 1:**\
+Which of the following structures shortens during skeletal muscle contraction?
+
+-   [ ] I band\
+-   [ ] A band\
+-   [ ] H zone\
+-   [ ] Z line\
+-   [ ] M line
+
+::: {.callout-note title="Answer" collapse="true"}
+The **I band** and **H zone** shorten during contraction, while the **A band** remains the same. Z and M lines are structural anchors.
+:::
+
+------------------------------------------------------------------------
+
+**Question 2:**\
+Which protein binds calcium to initiate the sliding filament mechanism?
+
+-   [ ] Tropomyosin\
+-   [ ] Troponin\
+-   [ ] Actin\
+-   [ ] Myosin\
+-   [ ] Dystrophin
+
+::: {.callout-note title="Answer" collapse="true"}
+**Troponin** binds calcium, causing a conformational shift that moves **tropomyosin** and exposes actin binding sites.
+:::
+
+------------------------------------------------------------------------
+
+**Question 3:**\
+Which muscle fiber type is most resistant to fatigue?
+
+-   [ ] Type I\
+-   [ ] Type IIA\
+-   [ ] Type IIB\
+-   [ ] Fast glycolytic\
+-   [ ] Type IIx
+
+::: {.callout-note title="Answer" collapse="true"}
+**Type I (slow-twitch)** fibers have high mitochondrial density and oxidative capacity, making them fatigue-resistant.
+:::
+
+------------------------------------------------------------------------
+
+**Question 4:**\
+Which energy system primarily supports a 30-second sprint?
+
+-   [ ] ATP-CP system\
+-   [ ] Anaerobic glycolysis\
+-   [ ] Aerobic oxidation\
+-   [ ] Fatty acid oxidation\
+-   [ ] Creatine rephosphorylation
+
+::: {.callout-note title="Answer" collapse="true"}
+Anaerobic glycolysis dominates in efforts lasting **20–120 seconds**, producing lactate as a by-product.
+:::
+
+------------------------------------------------------------------------
+
+**Question 5:**\
+What is the typical resting membrane potential of a neuron?
+
+-   [ ] -70 mV\
+-   [ ] -55 mV\
+-   [ ] +30 mV\
+-   [ ] -90 mV\
+-   [ ] 0 mV
+
+::: {.callout-note title="Answer" collapse="true"}
+The resting membrane potential is approximately **-70 mV**, maintained by the Na⁺/K⁺ ATPase and ion gradients.
+:::
+
+------------------------------------------------------------------------
+
+**Question 6:**\
+Which of the following is **first** recruited during voluntary muscle contraction?
+
+-   [ ] Type I fibers\
+-   [ ] Type IIA fibers\
+-   [ ] Type IIB fibers\
+-   [ ] All simultaneously\
+-   [ ] Fast glycolytic units
+
+::: {.callout-note title="Answer" collapse="true"}
+According to Henneman’s size principle, **Type I (slow-twitch)** fibers are recruited first.
+:::
+
+------------------------------------------------------------------------
+
+**Question 7:**\
+Which of the following best describes **neuropraxia**?
+
+-   [ ] Conduction block without axonal loss\
+-   [ ] Axonal disruption with Wallerian degeneration\
+-   [ ] Complete nerve transection\
+-   [ ] Endoneurial rupture\
+-   [ ] Myelin loss with axonotmesis
+
+::: {.callout-note title="Answer" collapse="true"}
+**Neuropraxia** (Sunderland I) involves a transient block with preserved axons and full recovery expected.
+:::
+
+------------------------------------------------------------------------
+
+**Question 8:**\
+Which EMG finding is most consistent with **axonotmesis**?
+
+-   [ ] No spontaneous activity\
+-   [ ] Positive sharp waves and fibrillations\
+-   [ ] Fasciculations only\
+-   [ ] Normal recruitment\
+-   [ ] Myokymic discharges only
+
+::: {.callout-note title="Answer" collapse="true"}
+**Fibrillations and positive sharp waves** suggest denervation consistent with **axonotmesis** or worse.
+:::

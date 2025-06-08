@@ -19,3 +19,54 @@ editor: visual
 10. Clinical teaching in wards
 11. X-rays, orthotics, prosthetics
 12. Path specimens, instruments\
+
+| Phase | Week | 8–9 AM (SGL) | 9–10 AM | 10–12 PM |
+|--------------|--------|------------------------|-----------------------------|----------------------------|
+| Phase 2 | 1 |  | Orientation | Ward orientation + supervised rounds |
+|  | 1 |  | History taking | Ward round + joint cases |
+|  | 1 |  | Examination of Knee 1 | OPD observation |
+|  | 1 |  | Examination of wrist | Minor OT observation |
+|  | 1 |  | Examination of foot and ankle | Ward rounds |
+|  | 1 |  | Examination of elbow | OPD follow-up |
+|  | 2 |  | Examination of radial nerve | Casualty visit (trauma assessment) |
+|  | 2 |  | Examination of swelling | Observe OT: trauma/emergency |
+|  | 2 |  | Examination of ulnar nerve | OPD case clerking |
+|  | 2 |  | Examination of median nerve | Pathology specimen review |
+|  | 2 |  | Examination-foot drop | Ward rounds |
+|  | 2 |  | End posting exam | OPD/ward |
+| Phase 3 part 1 | 3 |  | Examination of hip | OT observation (preparation phase) |
+|  | 3 |  | Examination of knee 2 | OT observation (arthroplasty/fracture) |
+|  | 3 |  | Examination of brachial plexus | Ward plaster rounds |
+|  | 3 |  | Repeat joint & nerve exam | OPD (assigned patients) |
+|  | 3 |  | Mini-case discussion | Ward rounds |
+|  | 3 |  | Mock OSCE prep | Emergency exposure |
+|  | 4 |  | X-ray reading: fractures | Radiology room / interactive X-rays |
+|  | 4 |  | Orthotics & prosthetics overview | Demo and use of devices |
+|  | 4 |  | Short case revision | OPD case follow-up |
+|  | 4 |  | Path specimen identification | Ward + pathology room |
+|  | 4 |  | Repeat case presentations | OT assistance |
+|  | 4 |  | End posting exam | Skills wrap-up session |
+| Phase 3 part 2 | 5 |  | History taking-revision | Case workup: hip and spine |
+|  | 5 |  | Examination of Knee | OPD examination |
+|  | 5 |  | Examination of wrist | Ward documentation |
+|  | 5 |  | Examination of foot and ankle | OT scrub & observation |
+|  | 5 |  | Examination of elbow | Ward and OPD rounds |
+|  | 5 |  | Examination of radial nerve | Casualty support + quick review |
+|  | 6 |  | Examination of swelling | Ward exam: RA, OA, CP |
+|  | 6 |  | Examination of ulnar nerve | OPD follow-up |
+|  | 6 |  | Examination of median nerve | Ward care, focused patient discussion |
+|  | 6 |  | Examination-foot drop | OT (elective surgery) |
+|  | 6 |  | End posting exam | OPD charting |
+|  | 6 |  | Examination of hip | Emergency revisit |
+|  | 7 |  | Examination of shoulder | Case presentations |
+|  | 7 |  | Examination of brachial plexus | Minor OT procedure observation |
+|  | 7 |  | Examination of hand | Ward mixed case assessment |
+|  | 7 |  | OSCE preparation | Attend OPD & assess |
+|  | 7 |  |  | OT (advanced case) |
+|  | 7 |  |  | Ward rounds + prep |
+|  | 8 |  |  | Comprehensive history + exam |
+|  | 8 |  |  | Viva on specimens & instruments |
+|  | 8 |  | Orthotics/prosthetics | Short case drills |
+|  | 8 |  | Instruments | Communication practice |
+|  | 8 |  | X-rays | Spotters (X-ray + instruments) |
+|  | 8 |  | End posting exam | Reflections + feedback session |

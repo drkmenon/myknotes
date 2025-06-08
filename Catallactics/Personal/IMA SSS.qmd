@@ -62,7 +62,7 @@ A 25-year-old doctor is deciding between two options for financial security:
 #### **Doctor A (SSS Plan) vs. Doctor B (Term Insurance + Investment)**
 
 | **Factor** | **Doctor A (SSS)** | **Doctor B (Term + Investment)** |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Total Amount Paid** | ₹35 lakh | ₹1.1 lakh (insurance) + ₹5,000/month investment |
 | **If she dies before 47** | ₹1 crore to nominee | more than ₹1 crore (insurance) + investment returns |
 | **If she lives till 75** | ₹1 crore (fixed) | ₹15.5 crore |
