@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science.md",
+                "file": "descriptive.qmd",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Science"
+              "title": "descriptive"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science.md",
+                "file": "descriptive.qmd",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Science"
+              "title": "Backlinks for descriptive"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science.md",
+                "file": "descriptive.qmd",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Science"
+              "title": "Outgoing links from descriptive"
             }
           },
           {
@@ -142,13 +142,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science.md",
+                "file": "descriptive.qmd",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Science"
+              "title": "Outline of descriptive"
+            }
+          },
+          {
+            "id": "69d6884e1ebce830",
+            "type": "leaf",
+            "state": {
+              "type": "r-environment-view",
+              "state": {},
+              "icon": "table",
+              "title": "R Environment"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "215c864b2c82ac8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99ae5c88a94d5b2",
+            "type": "leaf",
+            "state": {
+              "type": "r-help-view",
+              "state": {},
+              "icon": "info",
+              "title": "R Help"
             }
           }
         ]
@@ -165,14 +192,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "qmd-as-md-obsidian:Toggle Quarto Preview": false
     }
   },
-  "active": "c426865f4dd1b3cc",
+  "active": "11ee9fd88a4ebfb2",
   "lastOpenFiles": [
-    "statistics.html",
-    "statistics_files/mediabag",
-    "statistics_files",
     "statisticsfrcs.html",
     "statisticsfrcs_files/mediabag",
     "statisticsfrcs_files",
@@ -181,6 +206,9 @@
     "measure_files",
     "Averages.html",
     "Averages_files/mediabag",
+    "Averages_files",
+    "p and CI.html",
+    "p and CI_files/mediabag",
     "wrangling_files/figure-html/unnamed-chunk-31-1.png",
     "wrangling_files/figure-html/unnamed-chunk-30-2.png",
     "wrangling_files/figure-html/unnamed-chunk-30-1.png",
@@ -190,7 +218,7 @@
     "wrangling_files/figure-html/unnamed-chunk-29-1.png",
     "descriptive_files/figure-html/unnamed-chunk-12-1.png",
     "descriptive_files/figure-html/unnamed-chunk-11-1.png",
-    "descriptive.md",
-    "Science.md"
+    "Science.md",
+    "descriptive.md"
   ]
 }

@@ -7,6 +7,7 @@ title: "Descriptive statistics"
 We have collected data from a quasi experimental study of medical students which was conducted in 2019. At that time nobody was familiar with the various meeting platforms like zoom or teams. Let us import the data to `r` :
 
 ```{r}
+#| label: 2c624232
 require(data.table)
 require(lsr)
 classStudyRaw=fread(file = "virtual.csv")
@@ -18,6 +19,7 @@ We can see that `classStudyRaw` is a data.table with a dimension of 49 x 18. The
 So the final data table can be sub-setted in to 6 columns and type.class should be converted to factor.
 
 ```{r}
+#| label: eb1e33e8
 classStudy=classStudyRaw[,c(1,2,3,5,7,18)]
 classStudy$type.class=as.factor(classStudy$type.class)
 who(expand = T)
