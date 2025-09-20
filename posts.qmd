@@ -47,4 +47,4 @@ To subscribe for regular updates whenever a new blog post is published, please p
 <!-- End Mailchimp Signup Form -->
 ```
 
-### See below the list of bolg posts.
+### See below the list of blog posts.

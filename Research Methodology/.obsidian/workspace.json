@@ -11,14 +11,10 @@
             "id": "c426865f4dd1b3cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Science"
+              "title": "New tab"
             }
           }
         ]

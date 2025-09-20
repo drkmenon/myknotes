@@ -53,7 +53,7 @@ Secondary osteoporosis is caused by factors such as: - **Steroids** - **Immobili
 Osteoporosis risk factors are categorized into **Genetic**, **Hormonal**, **Environmental**, **Dietary**, and **Systemic**.
 
 | **Category** | **Risk Factors** |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Genetic** | Increasing age, ethnicity (lower risk in Blacks, higher in Caucasians and Orientals), family history |
 | **Hormonal** | Reduced estrogen (early menopause, hysterectomy) |
 | **Environmental** | Smoking, alcohol, sedentary lifestyle |
