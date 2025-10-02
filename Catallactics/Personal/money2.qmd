@@ -13,8 +13,8 @@ The barter system had limitations: perishability, difficulty of storage and tran
 
 Coins solved some problems but were still hard to transport. Certificates of holding emerged, which eventually evolved into paper currency. Initially backed by precious metals, paper money later became fiat currency, relying on government promises rather than intrinsic value.
 
-Today, money is created by two main entities:  
-- **Central banks**, by printing money and managing open market operations.  
+Today, money is created by two main entities:\
+- **Central banks**, by printing money and managing open market operations.\
 - **Commercial banks**, through fractional reserve banking.
 
 Money, like religion and culture, remains one of humanity’s most powerful tools to shape society and defy the raw forces of evolution.
