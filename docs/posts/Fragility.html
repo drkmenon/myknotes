@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -62,10 +62,10 @@ div.csl-indent {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f783efadc74f270a8ea934bc80b8a1f3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -137,10 +137,16 @@ cookieconsent.run({
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Problem of life span and strength – knotes">
 <meta property="og:description" content="A summary of the available evidence about diet and exercises">
+<meta property="og:image" content="https://www.knotes.co.in/posts/images/compress.png">
 <meta property="og:site_name" content="knotes">
+<meta property="og:image:height" content="460">
+<meta property="og:image:width" content="798">
 <meta name="twitter:title" content="Problem of life span and strength – knotes">
 <meta name="twitter:description" content="A summary of the available evidence about diet and exercises">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.knotes.co.in/posts/images/compress.png">
+<meta name="twitter:image-height" content="460">
+<meta name="twitter:image-width" content="798">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -2741,8 +2747,20 @@ cookieconsent.run({
       <ul id="quarto-sidebar-section-61" class="collapse list-unstyled sidebar-section depth3 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../Catallactics/Personal/money.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Getting started with money</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../Catallactics/Personal/speculation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Risk mitigation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Catallactics/Personal/money2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Who Created Money?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -2785,12 +2803,6 @@ cookieconsent.run({
   <div class="sidebar-item-container"> 
   <a href="../Catallactics/Personal/jenson.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Jensen’s inequality</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../Catallactics/Personal/money.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Getting started with money</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -3517,8 +3529,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -3629,7 +3639,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

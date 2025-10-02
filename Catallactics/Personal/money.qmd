@@ -3,6 +3,7 @@ title: "Getting started with money"
 format: html
 editor: visual
 date: October 2, 2025
+order: 1
 ---
 
 Before getting started with money, are we going to discuss about something that is evil? **Is money the root cause of all problems?** By the way, what is money? Why is there so much taboo surrounding money matters and money itself?

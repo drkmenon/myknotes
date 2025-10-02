@@ -1,0 +1,20 @@
+---
+title: "Who Created Money?"
+format: html
+editor: visual
+order: 2
+---
+
+Charles Darwin’s theory of evolution and natural selection teaches us that all living beings, from viruses to humans, are shaped by survival pressures. Life’s purpose seems simply to propagate genes. Humans, however, often act against this principle. Saving lives, feeding the deprived, and sharing knowledge are ways we challenge the “survival of the fittest.” Three inventions that help humans in this fight are religion, culture, and money.
+
+Creation of money is interesting. In the earliest societies, commodities like grains and livestock served as stores of value and mediums of exchange. Vedic texts, such as *Yajurveda 6.1.8*, describe exchanges of Soma for cows. Even today, the Maasai tribe measures wealth in cattle.
+
+The barter system had limitations: perishability, difficulty of storage and transport, and the challenge of finding matching buyers and sellers. To solve these problems, humans began using symbolic objects like clay tablets, shells, electrum, and metals. Over time, these objects were standardized into coins.
+
+Coins solved some problems but were still hard to transport. Certificates of holding emerged, which eventually evolved into paper currency. Initially backed by precious metals, paper money later became fiat currency, relying on government promises rather than intrinsic value.
+
+Today, money is created by two main entities:  
+- **Central banks**, by printing money and managing open market operations.  
+- **Commercial banks**, through fractional reserve banking.
+
+Money, like religion and culture, remains one of humanity’s most powerful tools to shape society and defy the raw forces of evolution.
