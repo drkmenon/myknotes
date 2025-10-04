@@ -1,5 +1,5 @@
 ---
-title: "In the long run, does the equity market always go up?"
+title: "will equity always go up?"
 format: html
 editor: visual
 date: March 28,2025
