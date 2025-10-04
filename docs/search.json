@@ -12282,6 +12282,62 @@
     ]
   },
   {
+    "objectID": "Catallactics/Personal/Premium calculation.html",
+    "href": "Catallactics/Personal/Premium calculation.html",
+    "title": "Pay-off formula",
+    "section": "",
+    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "Pay-off formula"
+    ]
+  },
+  {
+    "objectID": "Catallactics/Personal/Premium calculation.html#insurance-pay-off",
+    "href": "Catallactics/Personal/Premium calculation.html#insurance-pay-off",
+    "title": "Pay-off formula",
+    "section": "",
+    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "Pay-off formula"
+    ]
+  },
+  {
+    "objectID": "Catallactics/Personal/Premium calculation.html#insurance-premium",
+    "href": "Catallactics/Personal/Premium calculation.html#insurance-premium",
+    "title": "Pay-off formula",
+    "section": "Insurance premium",
+    "text": "Insurance premium\n\\[P=(M-T)/(1+n)\\]\nP here\nP = (22500-19125)/1+10)\ni.e, P=306.8\n306.8 is the maximum amount we should be paying for 1 year premium. If we want to renew the policy every 2 month, the amount should be roughly 50.\nNB: This premium should be between 2-4% of the M, never more than 4%\nFor the current M, it should be less than 900 for an Year and less than 150 for bi-monthly insurance.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "Pay-off formula"
+    ]
+  },
+  {
+    "objectID": "Catallactics/Personal/Premium calculation.html#when-to-exercise-the-insurance",
+    "href": "Catallactics/Personal/Premium calculation.html#when-to-exercise-the-insurance",
+    "title": "Pay-off formula",
+    "section": "When to exercise the insurance",
+    "text": "When to exercise the insurance\nOnce the pay-off reaches 1000% of yearly spent for insurance, we should exercise the option to use the insurance.For the given case, 306.8 X 10, 3068 should be the cut-off for exercising the option.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "Pay-off formula"
+    ]
+  },
+  {
     "objectID": "Catallactics/Personal/Conifers.html",
     "href": "Catallactics/Personal/Conifers.html",
     "title": "Productivity",
@@ -16382,59 +16438,101 @@
     ]
   },
   {
-    "objectID": "Catallactics/Personal/Premium calculation.html",
-    "href": "Catallactics/Personal/Premium calculation.html",
-    "title": "Pay-off formula",
+    "objectID": "Catallactics/Personal/money3.html",
+    "href": "Catallactics/Personal/money3.html",
+    "title": "What is Wealth?",
     "section": "",
-    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
+    "text": "Money, or what money does, and wealth are often considered one and the same.\nIf you have a lot of money, people consider you wealthy. If you own many things and assets bought with money, people again consider you wealthy.\nI don’t think this is appropriate. If you have a lot of money or assets bought with money, you can at best be called rich in money or assets, but not necessarily wealthy.\nFrom Adam Smith to Karl Marx, many thinkers have struggled with the definition of wealth.\nThey considered wealth as the product of labour. For them, land and labour worked together to produce wealth. Wealth, in their view, was something tangible and physical.\nBut it seems wealth is not necessarily tangible. It can be defined in two ways:\n\nWealth is funded contentment\n\nWealth is knowledge\n\nHow wealthy you are depends on your level of contentment and your knowledge.\nIf you are knowledgeable, you have the raw materials to create money and to fund your contentment. The only factors that matter are your willingness to apply yourself and the play of chance. Not all wealthy people seek money or try to become rich.\nFor rich people to become truly wealthy, they must cultivate contentment and acquire knowledge. Not everyone has the capacity or willingness to do so.\nWhat I am trying to say is that wealth and money are not the same.\nIn India, we have the concept of the Goddess of Knowledge (Saraswati) and the Goddess of Riches (Lakshmi). Have you seen some of Ravi Varma’s paintings?\n\n\n\n\n\n\n\n\n\n\n\n\nSaraswati is often depicted as a beautiful lady in a simple white sari, sitting on a hard rock, lost in contemplation. Lakshmi, on the other hand, is shown balancing on a lotus, clad in a bright red sari, surrounded by activity, with elephants trying to garland her. Riches require continuous servicing, watchfulness, and care. If you are rich, beware: unless you balance well, you may fall!\nWhether you are wealthy or not, money is still crucial for subsistence and independent existence.If you are rich, money requires constant attention and management. This makes it necessary for everyone to learn and understand money, its properties, and some basic money-management skills.\n\nEverything, in the end, boils down to one simple but profound fact: Knowledge is Wealth.\n\n\n\n Back to top",
     "crumbs": [
       "Home",
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Pay-off formula"
+      "What is Wealth?"
     ]
   },
   {
-    "objectID": "Catallactics/Personal/Premium calculation.html#insurance-pay-off",
-    "href": "Catallactics/Personal/Premium calculation.html#insurance-pay-off",
-    "title": "Pay-off formula",
+    "objectID": "Catallactics/Personal/money4.html",
+    "href": "Catallactics/Personal/money4.html",
+    "title": "How to Begin?",
     "section": "",
-    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
+    "text": "In an ideal situation, if one acquires knowledge that translates to skills useful for society as a whole, the funds needed for her contentment should follow. Hence, the focus should be on knowledge and skill development rather than on money matters.\nAt this point, she should avoid some common money mistakes:\nThus, the focus should be on avoiding big expenses and frequent impulsive moderate expenses. Concentrate on independent skill development. Saving at this stage may take a back seat.\nHer first encounter with a financial institution will be the bank where she starts her salary/income account. Before that, she should create a PAN, get it linked to her AADHAR number, and make sure that both are identical. This last point is crucial.\nMost people in South India have initials as their last name, and PAN accepts only the expanded last name. For example, if someone’s name is Raghu R, PAN will require him to provide the expansion, Raghu Ram. If in AADHAR the name is Raghu R, this can cause a lot of trouble in the future, through no fault of the individual. Make sure the name is consistent as Raghu Ram in both AADHAR and PAN before opening a salary account.\nIf you already have an AADHAR with the name as Raghu R, take some effort to update it to Raghu Ram before applying for PAN.\nHope that one day PAN will allow any name, but until then, be careful.",
     "crumbs": [
       "Home",
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Pay-off formula"
+      "How to Begin?"
     ]
   },
   {
-    "objectID": "Catallactics/Personal/Premium calculation.html#insurance-premium",
-    "href": "Catallactics/Personal/Premium calculation.html#insurance-premium",
-    "title": "Pay-off formula",
-    "section": "Insurance premium",
-    "text": "Insurance premium\n\\[P=(M-T)/(1+n)\\]\nP here\nP = (22500-19125)/1+10)\ni.e, P=306.8\n306.8 is the maximum amount we should be paying for 1 year premium. If we want to renew the policy every 2 month, the amount should be roughly 50.\nNB: This premium should be between 2-4% of the M, never more than 4%\nFor the current M, it should be less than 900 for an Year and less than 150 for bi-monthly insurance.",
+    "objectID": "Catallactics/Personal/money4.html#pan-application",
+    "href": "Catallactics/Personal/money4.html#pan-application",
+    "title": "How to Begin?",
+    "section": "PAN Application",
+    "text": "PAN Application\nIf you have an AADHAR, applying for PAN is easy, and getting one is almost instantaneous. Visit the ePAN link on the official Income Tax website and follow the steps.\nPAN is the Permanent Account Number, a document necessary for your financial journey throughout life.",
     "crumbs": [
       "Home",
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Pay-off formula"
+      "How to Begin?"
     ]
   },
   {
-    "objectID": "Catallactics/Personal/Premium calculation.html#when-to-exercise-the-insurance",
-    "href": "Catallactics/Personal/Premium calculation.html#when-to-exercise-the-insurance",
-    "title": "Pay-off formula",
-    "section": "When to exercise the insurance",
-    "text": "When to exercise the insurance\nOnce the pay-off reaches 1000% of yearly spent for insurance, we should exercise the option to use the insurance.For the given case, 306.8 X 10, 3068 should be the cut-off for exercising the option.",
+    "objectID": "Catallactics/Personal/money4.html#advice-for-future-parents-in-south-india",
+    "href": "Catallactics/Personal/money4.html#advice-for-future-parents-in-south-india",
+    "title": "How to Begin?",
+    "section": "Advice for Future Parents in South India",
+    "text": "Advice for Future Parents in South India\nMake sure you give the full expanded name in your child’s birth certificate and insist the school uses the same in all school records. Be consistent with your child’s name everywhere else, and insist that a single name is used in all records.",
     "crumbs": [
       "Home",
       "Practical Catallactics",
       "Catallactics",
       "Personal",
-      "Pay-off formula"
+      "How to Begin?"
+    ]
+  },
+  {
+    "objectID": "Catallactics/Personal/money4.html#agents",
+    "href": "Catallactics/Personal/money4.html#agents",
+    "title": "How to Begin?",
+    "section": "Agents",
+    "text": "Agents\nIt is said that money attracts people just like sugar attracts ants. Agents of all sorts—insurance, investment, loans—will start chasing you.\nNow is the time to learn so that you can deal with them favorably and ensure they do not take advantage of your ignorance. In general, understand that agents are not financial advisers. If they behave like one, they are impostors. In India, anyone giving financial planning services or financial advice must be registered with SEBI, and their registration must be renewed every 3 years.",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "How to Begin?"
+    ]
+  },
+  {
+    "objectID": "Catallactics/Personal/money4.html#learn-these-five-financial-concepts",
+    "href": "Catallactics/Personal/money4.html#learn-these-five-financial-concepts",
+    "title": "How to Begin?",
+    "section": "Learn These Five Financial Concepts",
+    "text": "Learn These Five Financial Concepts\n\nEmergency fund\n\nInsurance\n\nBudgeting\n\nInvestment\n\nRetirement funding\n\nLeverage and credit\n\nRisk management\n\n\nEmergency Fund\nThis is easy and short. We are most vulnerable when we are sick or unable to apply ourselves. Illness can come unannounced. Smartness lies in expecting the unexpected and being prepared.\nTake a part of whatever money is left over after expenses and create an emergency fund. Ideally, open another bank account and designate it as your emergency account. Start building it. The aim is to have 12 months of expenses stored in that account without touching it. This is the foundation of your financial journey. The emergency account will be the second of the four bank accounts you will ever have in your life.1",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "How to Begin?"
+    ]
+  },
+  {
+    "objectID": "Catallactics/Personal/money4.html#footnotes",
+    "href": "Catallactics/Personal/money4.html#footnotes",
+    "title": "How to Begin?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAt a certain point, this emergency fund can take a more sophisticated form. Your credit card and arbitrage fund can replace the emergency account to prevent money from losing value due to inflation. But at this stage, before rushing to get a credit card and start investments, make sure your emergency account is fully funded.↩︎",
+    "crumbs": [
+      "Home",
+      "Practical Catallactics",
+      "Catallactics",
+      "Personal",
+      "How to Begin?"
     ]
   },
   {
