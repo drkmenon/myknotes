@@ -2,6 +2,7 @@
 title: "അമിതവണ്ണം "
 format: html
 editor: visual
+order: 2
 ---
 
 ## എങ്ങിനെ നിയന്ത്രിക്കാം
