@@ -12,7 +12,7 @@ N is the gross pay-off in percentage
 
 p~e~ is the probability of event. It takes value between 1 and 0, and never 0.
 
-If the probability \>15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then p~e~ = 0.09
+If the probability of more than 15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then p~e~ = 0.09
 
 now,
 

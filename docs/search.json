@@ -16440,7 +16440,7 @@
     "href": "Catallactics/Personal/Premium calculation.html",
     "title": "Pay-off formula",
     "section": "",
-    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
+    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability of more than 15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
     "crumbs": [
       "Home",
       "Practical Catallactics",
@@ -16454,7 +16454,7 @@
     "href": "Catallactics/Personal/Premium calculation.html#insurance-pay-off",
     "title": "Pay-off formula",
     "section": "",
-    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability &gt;15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
+    "text": "Before buying an insurance product, we should know the cost. That cost can be calculated based on the pay-off formula.\nN= 1/pe\nN is the gross pay-off in percentage\npe is the probability of event. It takes value between 1 and 0, and never 0.\nIf the probability of more than 15% draw-down of an asset class is 9% (calculated from historical data or Monte Carlo simulation), then pe = 0.09\nnow,\nN=1/0.09, approximately 11 or 1100% of premium\nn= N-100% of premium\nn is the net pay-off\nn here is 10 or 1000%\nAssume that the market value M of the asset insured is 22500. We want to insure against &gt;15% draw-down, i.e,\n\\[(0.85)X 22500=19125\\]\nSo our target price, T is 19125",
     "crumbs": [
       "Home",
       "Practical Catallactics",
