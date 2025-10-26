@@ -1,0 +1,10 @@
+---
+title: "seb"
+format: html
+editor: visual
+order: 5
+---
+
+Allow secure exams using the Safe Exam Browser.
+
+{{< video https://youtu.be/ytztYguXixk?si=2Mh62BlCWnff--1H >}}

@@ -1,6 +1,6 @@
 ---
 title: "Early clinical exposure"
-order: 8
+order: 9
 ---
 
 ::: callout-important
