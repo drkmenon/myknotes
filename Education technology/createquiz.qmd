@@ -1,0 +1,138 @@
+---
+title: "Create quiz in moodle"
+format: html
+editor: visual
+order: 2
+filters:
+  - quizdown
+---
+
+## Step 1: Turn Editing On
+
+-   Go to your Moodle course.
+
+-   Click “Turn editing on” (top-right corner).
+
+-   Navigate to the topic or section where you want the quiz.
+
+## Step 2: Add a Quiz Activity
+
+-   Click “Add an activity or resource.”
+
+-   Choose “Quiz” from the list.
+
+-   Click “Add.”
+
+## Step 3: Configure Quiz Settings
+
+### General
+
+-   Name: Give your quiz a clear title (e.g., Unit 1 Test).
+
+-   Description: Explain what the quiz covers or any special instructions (optional).
+
+### Timing
+
+-   Open the quiz / Close the quiz: Set start and end date/time.
+
+-   Time limit: Set how long students have to finish.
+
+-   When time expires: Choose what happens (e.g., auto-submit).
+
+### Grade
+
+-   Grade to pass: Optional threshold (e.g., 50%).
+
+-   Attempts allowed: 1 (for exams) or multiple (for practice).
+
+### Layout
+
+-   New page: Choose how many questions per page.
+
+-   Navigation method: Free (default) or Sequential.
+
+    ------------------------------------------------------------------------
+
+### Question behavior
+
+-   Shuffle within questions: 
+
+    -   Randomize options (good for MCQs).
+
+    -   How questions behave: e.g., Deferred feedback, Immediate feedback.
+
+------------------------------------------------------------------------
+
+### Review options
+
+Decide what students can see:
+
+-   During attempt: Keep unchecked for exams.
+
+-   Immediately after: Show marks or feedback if desired.
+
+-   Later: Reveal answers after quiz closes.
+
+    ------------------------------------------------------------------------
+
+### Appearance
+
+-   Optionally show user pictures, decimal places, etc.
+
+    ------------------------------------------------------------------------
+
+### Safe exam browser
+
+## Step 4: Add Questions
+
+-   Click “Edit quiz.”
+
+-   Click “Add → a new question.”
+
+-   Choose a question type, such as:
+
+    -   Multiple Choice
+
+    -   True/False
+
+    -   Short Answer
+
+    -   Matching
+
+    -   Essay
+
+    -   Numerical
+
+-   Fill in:
+
+    -   Question name
+
+    -   Question text
+
+    -   Default mark
+
+    -   Options (answers, feedback, etc.)
+
+-   Click Save changes.
+
+    Repeat to add more questions.
+
+-   `Use **question bank** to reuse or share questions across courses.`
+
+    ------------------------------------------------------------------------
+
+##  Step 5: Organize and Save
+
+-   Adjust the marks per question if needed.
+
+-   Add section headings if you want to group questions.
+
+-   Click Save when done.
+
+------------------------------------------------------------------------
+
+## Step 6: Preview and Test
+
+-   Click “Preview” to try your quiz as a student.
+
+-   Check timing, layout, and navigation.

@@ -1,6 +1,6 @@
 ---
 title: "Complex procedures"
-order: 3
+order: 6
 ---
 
 Acquisition of procedural skills is a critical element in medical education.

@@ -6,8 +6,10 @@ filters:
 
 ## Question 1
 
-::::::::: question
+:::::::::: question
+::: callout-note
 Bone is a:
+:::
 
 :::::::: choices
 ::: {.choice .correct-choice}
@@ -29,7 +31,7 @@ Generalised connective tissue
 ::: {.button-clear title="Clear answer" button-class="btn btn-light btn-xs"}
 :::
 ::::::::
-:::::::::
+::::::::::
 
 ## Question 2
 

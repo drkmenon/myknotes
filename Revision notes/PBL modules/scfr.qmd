@@ -4,7 +4,7 @@ title: "Pink Pulseless Hand"
 
 ## How to use this module
 
-To learn how to conduct the session, [CLICK ](https://www.knotes.co.in/medical%20education/pbl)[HERE](https://www.knotes.co.in/education%20technology/pbl)
+To learn how to conduct the session, [CLICK](https://www.knotes.co.in/medical%20education/pbl)[HERE](https://www.knotes.co.in/education%20technology/pbl)
 
 ::: callout-warning
 ## Problem Statement

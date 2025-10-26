@@ -46,7 +46,7 @@ Data-set can be uploaded from the computer as .ris format or similar ones.
 
 We can key in the relevant keyword in the search menu. ASReview Lab will display few abstracts from which we should select at-least on relevant and one irrelevant article.
 
-::: columns
+::::: columns
 ::: column
 ![](images/as5.png)
 :::
@@ -54,7 +54,7 @@ We can key in the relevant keyword in the search menu. ASReview Lab will display
 ::: column
 ![](images/as6.png)
 :::
-:::
+:::::
 
 ## Selecting the learning model
 
