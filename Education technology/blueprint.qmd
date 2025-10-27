@@ -7,6 +7,8 @@ filters:
   - quizdown
 ---
 
+[Pretest](../Education technology/webquiz.html)
+
 ::: callout-note
 ## Introduction
 
@@ -117,12 +119,3 @@ Item analysis
 - [ ] construct representation variance
 - [ ] construct under-variance
 ```
-
-```{r echo=FALSE}
-library(checkdown)
-check_question(answer = "Curriculum", right = "correct",wrong = "try again",options = c("Curriculum","Syllabus","Blueprint","Assessment"),type =   "radio",alignment = "horizontal",random_answer_order = T,title = "A prescribed path to be followed by student is called")
-```
-
-### Result
-
-`r insert_score()` out of 1

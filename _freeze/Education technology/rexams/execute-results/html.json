@@ -1,0 +1,15 @@
+{
+  "hash": "789659e69ff8794b453f5a228c752b9f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"rexams\"\nformat: html\neditor: visual\n---\n\n::: {.cell}\n\n:::\n\n\n\n\nQuestion\n======\nWhat is a LMS?\n\nAnswerList\n----------\n* Learning management system\n* Live moodle study\n* Learners in medical science\n* Like minded students\n\nMeta-information\n================\nexname: LMS workshop\nexsolution: 1000\nexshuffle: TRUE\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
