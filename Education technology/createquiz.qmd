@@ -2,7 +2,7 @@
 title: "Create quiz in moodle"
 format: html
 editor: visual
-order: 2
+order: 3
 filters:
   - quizdown
 ---
@@ -121,7 +121,7 @@ Decide what students can see:
 
     ------------------------------------------------------------------------
 
-##  Step 5: Organize and Save
+## Step 5: Organize and Save
 
 -   Adjust the marks per question if needed.
 

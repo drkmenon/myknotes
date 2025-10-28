@@ -1,0 +1,82 @@
+---
+title: "Digital technology in education"
+editor: visual
+order: 1
+---
+
+Digital technology is revolutionizing the way we live, work, and think. It is democratizing systems, bringing with it transparency and accountability. Computers, mobile devices, and the internet form the cornerstones of this transformation. Just look at what Aadhaar and UPI have achieved in India’s financial ecosystem. Even larger transformations—such as tokenization of assets, credit, and energy—are on the horizon.
+
+## Where Does the Medical Community Stand?
+
+At this critical juncture, the medical community faces a significant challenge. Most doctors today have not been formally trained in using digital tools—especially those designed to make life easier for patients, students, and teachers alike.
+
+Concepts and technologies like cloud storage, version control, encryption, and hashing have already reshaped the world. The AI era has begun. Perspective of consensuses is that individuals who have lived through both the pre-digital and digital eras are at a clear advantage—if they choose to adapt.[@berzin2025]
+
+![](images/clipboard-3844743380.png)
+
+Yet, a notable section of medical educators and practitioners:
+
+-   Do not own a full-fledged computer (laptop or desktop)
+-   Own one but never use it for **productive work**
+-   Do not realize that smartphones and tablets are scaled-down devices optimized for **consumption**, not creation
+-   Lack awareness of on-line privacy, piracy, and safe internet practices
+-   Are unfamiliar with essential software such as:
+    -   Word processors
+    -   Presentation tools beyond Power-point
+    -   Audience Response Systems (ARS)
+    -   Statistical and citation management tools
+    -   CWYW (Cite While You Write) add-ons
+    -   Video recording and editing softwares
+    -   Personal Knowledge Management (PKM) tools
+    -   Learning Management Systems (LMS)
+    -   Self-publishing platforms
+    -   **Open-source movement**
+    -   **Credibility revolution** in science driven by technology
+
+The key to success is not merely theoretical understanding but active experimentation—a **DALI** (Do And Learn It) strategy. Tinkering, in many cases, is more effective than rigid, structured learning.
+
+## The Problem of SLUDGE and the Lack of NUDGE
+
+Systems sometimes perpetuate inefficient, outdated methods. Consider a common scenario in large hospitals:
+
+When a patient arrives for consultation, they are asked for their name and age. In the rush, names are often entered incorrectly, and ages—recorded in years—remain unchanged across future visits. The patient receives an A4-sized paper that may get damaged even before the first consultation. The doctor scribbles prescriptions, which the pharmacist later deciphers.
+
+In contrast, a fully digitized process could allow the patient to receive SMS alerts, accurate records, and seamless interactions. But such systems rarely take root.
+
+Why? Because inefficiency is *nudged* while efficiency is *sludged* away.[@thaler2021]
+
+-   For patients, giving just a name and age is quicker than verifying details or scanning a QR code linked to Aadhaar.
+-   For receptionists, accuracy doesn’t affect their incentives—they have no skin in the game.
+-   For doctors, writing on paper is faster than entering data into an ePharmacy system.
+-   For pharmacists, it’s easier to read from paper than from a screen.
+
+Institutions often resist digitization because it reduces opaqueness and dilutes authority. As a result, systems continue to **sludge** efficient behavior and **nudge** inefficient ones—for the sake of short-term convenience. The same pattern exists in medical colleges. From timetable preparation to logbook maintenance, nearly everything remains manual.
+
+Paperwork has exploded—leaving doctors with little time to examine patients, teachers with no time to teach, and students with no time to study.
+
+Technology, if implemented thoughtfully at an institutional level, can dramatically improve efficiency and outcomes. However, the lack of institutional initiative discourages individual adoption. Eventually, though, institutions will be forced to go digital. At that point, those with minimal digital skills will find themselves overwhelmed.
+
+The solution at individual level is simple: **tinker with technology**. Experiment with tools and systems around you with one clear goal—*Can this reduce my repetitive, monotonous work?*
+
+Ask yourself:
+
+\- Will this short-term pain save me from long-term frustration?
+
+\- Can I automate or simplify recurring tasks using available technology?
+
+The **DALI** mindset—doing first and learning through action—ensures that when the next digital wave arrives, you will ride it confidently, not be swept away by it.
+
+```{r echo=FALSE}
+library(exams)
+library(exams2forms)
+```
+
+1.  What does the DALI approach in digital education emphasize? `r forms_schoice( c("Learning through structured classroom teaching", "Doing and learning through hands-on experimentation with technology", "Avoiding technology until institutions adopt it", "Depending only on institutional training programs"), c(FALSE, TRUE, FALSE, FALSE), display = "button" )`
+
+2.  Digital technology increases transparency and accountability by making systems more democratic.`r forms_schoice(c("TRUE", "FALSE"),c(TRUE, FALSE),display = "button")`
+
+3.  According to the article, what is the main reason inefficient systems continue to persist in healthcare and education? `r forms_schoice(c("Lack of government funding", "Systems are designed to nudge inefficient behavior and sludge efficient ones", "Resistance from patients and students", "Overdependence on artificial intelligence"), c(FALSE, TRUE, FALSE, FALSE), display = "button")`
+
+4.  Which of the following are examples of essential digital tools that medical teachers often overlook? `r forms_mchoice( c ("Learning Management Systems (LMS)", "Audience Response Systems (ARS)", "Citation management software", "Handwritten logbooks"), c(TRUE, TRUE, TRUE, FALSE), display = "button")`
+
+5.  What is the main message for individual doctors and teachers regarding digital transformation? `r forms_schoice( c("Wait for institutions to fully digitize before learning new tools", "Begin experimenting with available technology to reduce repetitive work and future disruption", "Focus only on clinical skills, not digital literacy", "Use smartphones alone for all productive work"), c(FALSE, TRUE, FALSE, FALSE), display = "button")`

@@ -2,7 +2,7 @@
 title: "Upload questions to moodle"
 format: html
 editor: visual
-order: 3
+order: 4
 filters:
   - quizdown
 ---
@@ -55,58 +55,58 @@ Questions can be created in **textedit** or **notepad2**
 
 ### MCQ
 
-::Q_01 \
-::The question text goes here \
-{ =Correct Answer \
-\~Distractor1 \
-\~Distractor2 \
+::Q_01\
+::The question text goes here\
+{ =Correct Answer\
+\~Distractor1\
+\~Distractor2\
 \~Distractor3 }
 
 ### MCQ with multiple right answers
 
-::Q_02 \
-::The question text goes here \
-{ \~%-100%Correct Answer \
-\~%50%Distractor1 \
-\~%50%Distractor2 \
+::Q_02\
+::The question text goes here\
+{ \~%-100%Correct Answer\
+\~%50%Distractor1\
+\~%50%Distractor2\
 \~%-100%Distractor3 }
 
 ### True or False
 
-::Q_03 \
-::The questions text goes here \
+::Q_03\
+::The questions text goes here\
 {T}
 
 ### Short Answer type questions
 
-::Q_04 \
-::Question text goes here \
+::Q_04\
+::Question text goes here\
 {=Version 1 of Correct Answer =Version 2 of Correct Answer =Version 3 of Correct Answer}
 
 ### Matching type questions
 
-::Q_05 \
+::Q_05\
 ::Match the predator to their preferred food.\
-{ =Wolf -\>Deer \
-=Eagle -\>Fish \
-=Bunny -\>Vegetables \
+{ =Wolf -\>Deer\
+=Eagle -\>Fish\
+=Bunny -\>Vegetables\
 =Opossum -\>Insects }
 
 ### Select Missing Words type questions
 
-::Q_06 \
+::Q_06\
 ::Hate is a form of {\~objective =subjective \~reactive} involvement by which one is bound to the hated
 
 ### Numerical type questions
 
-::Q_07 \
-::What year was Gengis Khan born? \
+::Q_07\
+::What year was Gengis Khan born?\
 {# =1162:0 =%50%1822:2 }
 
 ### Essay type questions
 
-`Note that this type of question requires the teacher to manually mark the submission.` \
-::Q_08 \
+`Note that this type of question requires the teacher to manually mark the submission.`\
+::Q_08\
 ::Write a brief self-introduction as though it were a Marvel origin story. {}
 
 ### Good Things to Be Aware Of
@@ -117,12 +117,12 @@ Where no question name is specified, the entire question is used as the question
 
 #### Feedback
 
-Feedback can be included for each answer. To add feedback, follow an answer with the number sign/hash mark, and then the feedback text. \
-::Q_02 \
-::What colour is the sky? \
-{ \~%-100%Yellow comment on wrong answer 1 goes here \
-\~%50%Blue comment on correct answer 1 goes here \
-\~%50%Black comment on correct answer 2 goes here \
+Feedback can be included for each answer. To add feedback, follow an answer with the number sign/hash mark, and then the feedback text.\
+::Q_02\
+::What colour is the sky?\
+{ \~%-100%Yellow comment on wrong answer 1 goes here\
+\~%50%Blue comment on correct answer 1 goes here\
+\~%50%Black comment on correct answer 2 goes here\
 \~%-100%Green comment on wrong answer 2 goes here }
 
 ## Quick workaround for MCQ

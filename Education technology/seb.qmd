@@ -2,7 +2,7 @@
 title: "seb"
 format: html
 editor: visual
-order: 5
+order: 6
 ---
 
 Allow secure exams using the Safe Exam Browser.
