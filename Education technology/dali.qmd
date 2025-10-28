@@ -110,7 +110,7 @@ The **DALI** mindset—doing first and learning through action—ensures that wh
 
 - [ ] Wait for institutions to fully digitize 
 - [x] Begin experimenting with available technology 
-- [ ] Focus only on clinical skills, not digital literacy
+- [ ] Focus only on clinical skills not digital literacy
 - [ ] Use smartphones alone for all productive work
 
 > The article urges individuals to proactively tinker with technology to reduce repetitive work and stay relevant during digital transitions.

@@ -14,9 +14,9 @@ filters:
 
 > The correct answer is MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**, which is specifically designed for creating and delivering presentations.The choices in bold are free and opensource solutions.
 
-- [x]  MS Excel/Numbers/Google sheet/**Calc spreadsheet**
-- [ ]  MS PowerPoint/Keynote/**revealJS**/**Impress**
-- [ ]  Adobe Acrobat/Preview/**Foxit reader**
+- [x]  Excel/Numbers/Google sheet/**Calc**
+- [ ]  PowerPoint/Keynote/**revealJS**/**Impress**
+- [ ]  Acrobat/Preview/**Foxit reader**
 - [ ]  Notepad/textEdit/**Markdown editors**
 
 # What is the main advantage of using Learning Management Systems (LMS) like Moodle or Google Classroom?
@@ -86,10 +86,10 @@ filters:
 
 > Open-source software provides access to its source code for modification and redistribution, whereas proprietary software restricts access and usage through licenses.
 
-- [x] Open-source software provides access to its source code
-- [x] whereas proprietary software restricts access with licenses.
-- [ ] Proprietary software always performs better
-- [ ] Open-source software requires purchase of a license
+- [x] Open-source provides access source code
+- [x] Proprietary restricts access with licenses.
+- [ ] Proprietary always performs better
+- [ ] Open-source requires purchase of a license
 ```
 
 ::: {.callout-note collapse="true"}

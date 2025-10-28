@@ -20,6 +20,27 @@ table {
 }
 
 
+/* === Quizdown mobile wrap fix === */
+.quizdown,
+.quizdown * {
+  white-space: normal !important;
+  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
+  hyphens: auto !important;
+}
+
+/* Make buttons and options expand naturally */
+.quizdown .quizdown-option,
+.quizdown .quizdown-answer {
+  display: block !important;
+  white-space: normal !important;
+}
+
+/* Prevent horizontal scrolling */
+.quizdown .quizdown-question {
+  overflow-x: hidden !important;
+}
+
 
 
 
