@@ -113,9 +113,9 @@ format:
     fontcolor: "#1c1c1c"
     linkcolor: "#0072bb"
     backgroundcolor: "white"
-    css: styles.css
-    #css: webex.css
-    #include-after-body: webex.js
+    #css: styles.css
+    css: webex.css
+    include-after-body: webex.js
     toc: true
     responsive: true
     freeze: true

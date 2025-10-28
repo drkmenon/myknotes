@@ -6,7 +6,7 @@ order: 1
 
 Digital technology is revolutionizing the way we live, work, and think. It is democratizing systems, bringing with it transparency and accountability. Computers, mobile devices, and the internet form the cornerstones of this transformation. Just look at what Aadhaar and UPI have achieved in India’s financial ecosystem. Even larger transformations—such as tokenization of assets, credit, and energy—are on the horizon.
 
-## Where Does the Medical Community Stand?
+## Where Does the Medical Community Stand? 
 
 At this critical juncture, the medical community faces a significant challenge. Most doctors today have not been formally trained in using digital tools—especially those designed to make life easier for patients, students, and teachers alike.
 
@@ -65,6 +65,8 @@ Ask yourself:
 \- Can I automate or simplify recurring tasks using available technology?
 
 The **DALI** mindset—doing first and learning through action—ensures that when the next digital wave arrives, you will ride it confidently, not be swept away by it.
+
+## What have we discussed?
 
 ```{r echo=FALSE}
 library(exams)
