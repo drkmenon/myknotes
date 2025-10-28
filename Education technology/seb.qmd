@@ -1,5 +1,5 @@
 ---
-title: "seb"
+title: "SEB"
 format: html
 editor: visual
 order: 6

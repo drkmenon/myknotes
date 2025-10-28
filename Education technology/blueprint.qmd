@@ -23,11 +23,6 @@ filters:
 
 For an average student, **assessment becomes the curriculum** — she focuses primarily on **how to pass the exam**. As the saying goes, \`“assessment is the tail that wags the curriculum dog.”
 
-```{r echo=FALSE}
-library(exams)
-library(exams2forms)
-```
-
 The teacher, however, wants her to **learn the subject** itself. This creates a **significant misalignment** between teaching, learning, and assessment.
 
 ## The complaints from students

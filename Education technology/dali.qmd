@@ -30,8 +30,8 @@ Yet, a notable section of medical educators and practitioners:
     -   Personal Knowledge Management (PKM) tools
     -   Learning Management Systems (LMS)
     -   Self-publishing platforms
-    -   **Open-source movement**
-    -   **Credibility revolution** in science driven by technology
+-   Unaware of **Open-source movement**
+-   Unaware of **Credibility revolution** in science driven by technology
 
 The key to success is not merely theoretical understanding but active experimentation—a **DALI** (Do And Learn It) strategy. Tinkering, in many cases, is more effective than rigid, structured learning.
 
@@ -50,7 +50,7 @@ Why? Because inefficiency is *nudged* while efficiency is *sludged* away.[@thale
 -   For doctors, writing on paper is faster than entering data into an ePharmacy system.
 -   For pharmacists, it’s easier to read from paper than from a screen.
 
-Institutions often resist digitization because it reduces opaqueness and dilutes authority. As a result, systems continue to **sludge** efficient behavior and **nudge** inefficient ones—for the sake of short-term convenience. The same pattern exists in medical colleges. From timetable preparation to logbook maintenance, nearly everything remains manual.
+Institutions often resist digitization because it reduces opaqueness and dilutes authority. As a result, systems continue to **sludge** efficient behaviour and **nudge** inefficient ones—for the sake of short-term convenience. The same pattern exists in medical colleges. From timetable preparation to logbook maintenance, nearly everything remains manual.
 
 Paperwork has exploded—leaving doctors with little time to examine patients, teachers with no time to teach, and students with no time to study.
 
