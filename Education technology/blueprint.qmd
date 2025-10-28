@@ -15,7 +15,7 @@ filters:
 > The correct answer is MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**, which is specifically designed for creating and delivering presentations.The choices in bold are free and opensource solutions.
 
 - [x]  MS Excel/Numbers/Google sheet/**Calc spreadsheet**
-- [ ]  MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**
+- [ ]  MS PowerPoint/Keynote/**revealJS**/**Impress**
 - [ ]  Adobe Acrobat/Preview/**Foxit reader**
 - [ ]  Notepad/textEdit/**Markdown editors**
 
@@ -59,7 +59,7 @@ filters:
 
 > **Screen mirroring** projects a mobile or tablet screen onto a larger display for teaching or demonstration purposes.
 
-- [x] Display mobile or tablet screen content on a projector or smartboard  
+- [x] Display mobile content on a projector or smartboard  
 - [ ] Backup data  
 - [ ] Connect to the internet  
 - [ ] Install software remotely
@@ -69,7 +69,7 @@ filters:
 > **Blended learning** combines traditional classroom teaching with digital and online methods.
 
 - [ ] Learning only through printed books  
-- [x] Mixing online digital instruction with face-to-face classroom teaching  
+- [x] Mixing online instruction with face-to-face classroom 
 - [ ] Using only video lectures  
 - [ ] Teaching without any digital tools
 
@@ -77,19 +77,19 @@ filters:
 
 > WYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.
 
-- [ ] WYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.
-- [x] Both WYSIWYG and WYSIWYM editors display identical formatted output during editing.
-- [ ] WYSIWYM editors provide real-time visual preview, while WYSIWYG editors show only source code.
-- [ ] WYSIWYG editors are used only for programming, while WYSIWYM editors are for document writing.
+- [x] WYSIWYG editors display the final appearance while editing 
+- [x] WYSIWYM editors focus on the meaning and structure 
+- [ ] WYSIWYM editors provide real-time visual preview
+- [ ] WYSIWYG editors are used only for programming
 
 # Which of the following statements correctly differentiates *open-source* software from *proprietary* software in the context of educational technology?
 
 > Open-source software provides access to its source code for modification and redistribution, whereas proprietary software restricts access and usage through licenses.
 
-- [x] Open-source software provides access to its source code for modification and redistribution, whereas proprietary software restricts access and usage through licenses.
-- [ ] Both open-source and proprietary software allow free redistribution and modification by all users.
-- [ ] Proprietary software always performs better and is more secure than open-source software.
-- [ ] Open-source software requires purchase of a license for every installation, while proprietary software is free to use.
+- [x] Open-source software provides access to its source code
+- [x] whereas proprietary software restricts access with licenses.
+- [ ] Proprietary software always performs better
+- [ ] Open-source software requires purchase of a license
 ```
 
 ::: {.callout-note collapse="true"}

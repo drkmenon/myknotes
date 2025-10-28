@@ -1,5 +1,5 @@
 ---
-title: "Digital technology in education"
+title: "DALI for Digital technology"
 editor: visual
 order: 1
 filters:
@@ -35,7 +35,7 @@ Yet, a notable section of medical educators and practitioners:
 -   Unaware of **Open-source movement**
 -   Unaware of **Credibility revolution** in science driven by technology
 
-The key to success is not merely theoretical understanding but active experimentation—a **DALI** (Do And Learn It) strategy. Tinkering, in many cases, is more effective than rigid, structured learning.
+The key to success is not merely theoretical understanding but active experimentation—a **DALI** (Do And Learn Immediately) strategy. Tinkering, in many cases, is more effective than rigid, structured learning.
 
 ## The Problem of SLUDGE and the Lack of NUDGE
 
@@ -70,7 +70,7 @@ The **DALI** mindset—doing first and learning through action—ensures that wh
 
 ## What have we discussed?
 
-```quizdown 
+``` quizdown
 
 # What does the DALI approach in digital education emphasize?
 
@@ -108,8 +108,8 @@ The **DALI** mindset—doing first and learning through action—ensures that wh
 
 # What is the main message for individual doctors and teachers regarding digital transformation?
 
-- [ ] Wait for institutions to fully digitize before learning new tools
-- [x] Begin experimenting with available technology to reduce repetitive work and future disruption
+- [ ] Wait for institutions to fully digitize 
+- [x] Begin experimenting with available technology 
 - [ ] Focus only on clinical skills, not digital literacy
 - [ ] Use smartphones alone for all productive work
 
