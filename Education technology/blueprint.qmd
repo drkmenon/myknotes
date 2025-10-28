@@ -7,9 +7,90 @@ filters:
   - quizdown
 ---
 
-## Complete this questionare
+## Complete this questionnaire
 
-`<iframe src="`{=html}../Education technology/webquiz.html`" width="100%" height="800" style="border:0;"></iframe>`{=html}
+``` quizdown
+# Which of the following software is most suitable for creating lecture slides?
+
+> The correct answer is MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**, which is specifically designed for creating and delivering presentations.The choices in bold are free and opensource solutions.
+
+- [x]  MS Excel/Numbers/Google sheet/**Calc spreadsheet**
+- [ ]  MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**
+- [ ]  Adobe Acrobat/Preview/**Foxit reader**
+- [ ]  Notepad/textEdit/**Markdown editors**
+
+# What is the main advantage of using Learning Management Systems (LMS) like Moodle or Google Classroom?
+
+- [ ] Entertainment  
+- [x] Managing student records and online assessments  
+- [ ] Virus protection  
+- [ ] Internet browsing
+
+> LMS platforms are designed for managing teaching materials, assessments, and student progress. Moodle is a free and opensourse software.
+
+# While recording an online lecture, which file format is most commonly used for video storage?
+
+> Video recordings are typically stored in the **.mp4** format, which ensures compatibility across platforms.
+
+- [ ] .docx/.md 
+- [ ] .xlsx  
+- [x] .mp4  
+- [ ] .pdf
+
+# Which of the following tools is best suited for conducting online MCQ-based tests?
+
+> **Google Forms** is widely used for creating and conducting online quizzes and collecting responses.
+
+- [ ] Microsoft Paint  
+- [x] Google Forms  
+- [ ] VLC Player  
+- [ ] Adobe Reader
+
+# When uploading lecture materials, which file format ensures easy access across all devices?
+
+> **.pdf** and *.md* files preserve formatting and can be viewed on all devices without compatibility issues.
+
+- [x] .pdf  
+- [x] .md 
+- [ ] .pptx 
+- [ ] .zip
+
+# What does screen mirroring allow us to do?
+
+> **Screen mirroring** projects a mobile or tablet screen onto a larger display for teaching or demonstration purposes.
+
+- [x] Display mobile or tablet screen content on a projector or smartboard  
+- [ ] Backup data  
+- [ ] Connect to the internet  
+- [ ] Install software remotely
+
+# Which of the following best describes blended learning?
+
+> **Blended learning** combines traditional classroom teaching with digital and online methods.
+
+- [ ] Learning only through printed books  
+- [x] Mixing online digital instruction with face-to-face classroom teaching  
+- [ ] Using only video lectures  
+- [ ] Teaching without any digital tools
+
+# Which of the following best describes the difference between *WYSIWYG* and *WYSIWYM* editors used in educational content creation?
+
+> WYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.
+
+- [ ] WYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.
+- [x] Both WYSIWYG and WYSIWYM editors display identical formatted output during editing.
+- [ ] WYSIWYM editors provide real-time visual preview, while WYSIWYG editors show only source code.
+- [ ] WYSIWYG editors are used only for programming, while WYSIWYM editors are for document writing.
+
+# Which of the following statements correctly differentiates *open-source* software from *proprietary* software in the context of educational technology?
+
+> Open-source software provides access to its source code for modification and redistribution, whereas proprietary software restricts access and usage through licenses.
+
+- [x] Open-source software provides access to its source code for modification and redistribution, whereas proprietary software restricts access and usage through licenses.
+- [ ] Both open-source and proprietary software allow free redistribution and modification by all users.
+- [ ] Proprietary software always performs better and is more secure than open-source software.
+- [ ] Open-source software requires purchase of a license for every installation, while proprietary software is free to use.
+```
 
 ::: {.callout-note collapse="true"}
 ## Introduction

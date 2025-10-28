@@ -2,11 +2,13 @@
 title: "Digital technology in education"
 editor: visual
 order: 1
+filters:
+  - quizdown
 ---
 
 Digital technology is revolutionizing the way we live, work, and think. It is democratizing systems, bringing with it transparency and accountability. Computers, mobile devices, and the internet form the cornerstones of this transformation. Just look at what Aadhaar and UPI have achieved in India’s financial ecosystem. Even larger transformations—such as tokenization of assets, credit, and energy—are on the horizon.
 
-## Where Does the Medical Community Stand? 
+## Where Does the Medical Community Stand?
 
 At this critical juncture, the medical community faces a significant challenge. Most doctors today have not been formally trained in using digital tools—especially those designed to make life easier for patients, students, and teachers alike.
 
@@ -68,17 +70,48 @@ The **DALI** mindset—doing first and learning through action—ensures that wh
 
 ## What have we discussed?
 
-```{r echo=FALSE}
-library(exams)
-library(exams2forms)
+```quizdown 
+
+# What does the DALI approach in digital education emphasize?
+
+- [ ] Learning through structured classroom teaching
+- [x] Doing and learning through hands-on experimentation with technology
+- [ ] Avoiding technology until institutions adopt it
+- [ ] Depending only on institutional training programs
+
+> The DALI approach emphasizes learning by doing—experimenting directly with technology to gain practical understanding.
+
+# Digital technology increases transparency and accountability by making systems more democratic.
+
+- [x] TRUE
+- [ ] FALSE
+
+> Digital tools promote openness, accessibility, and accountability, supporting more democratic systems.
+
+# According to the article, what is the main reason inefficient systems continue to persist in healthcare and education?
+
+- [ ] Lack of government funding
+- [x] Systems are designed to nudge inefficient behavior and sludge efficient ones
+- [ ] Resistance from patients and students
+- [ ] Overdependence on artificial intelligence
+
+> Inefficient systems survive because they are easier and reinforced by convenience-based nudges, while efficient systems face resistance. Read the book by Nobel prize winner Thaler's "Nudge"
+
+# Which of the following are examples of essential digital tools that medical teachers often overlook?
+
+- [x] Learning Management Systems (LMS)
+- [x] Audience Response Systems (ARS)
+- [x] Citation management software
+- [ ] Handwritten logbooks
+
+> Medical educators often underuse tools that could simplify teaching, assessment, and research.
+
+# What is the main message for individual doctors and teachers regarding digital transformation?
+
+- [ ] Wait for institutions to fully digitize before learning new tools
+- [x] Begin experimenting with available technology to reduce repetitive work and future disruption
+- [ ] Focus only on clinical skills, not digital literacy
+- [ ] Use smartphones alone for all productive work
+
+> The article urges individuals to proactively tinker with technology to reduce repetitive work and stay relevant during digital transitions.
 ```
-
-1.  What does the DALI approach in digital education emphasize? `r forms_schoice( c("Learning through structured classroom teaching", "Doing and learning through hands-on experimentation with technology", "Avoiding technology until institutions adopt it", "Depending only on institutional training programs"), c(FALSE, TRUE, FALSE, FALSE), display = "button" )`
-
-2.  Digital technology increases transparency and accountability by making systems more democratic.`r forms_schoice(c("TRUE", "FALSE"),c(TRUE, FALSE),display = "button")`
-
-3.  According to the article, what is the main reason inefficient systems continue to persist in healthcare and education? `r forms_schoice(c("Lack of government funding", "Systems are designed to nudge inefficient behavior and sludge efficient ones", "Resistance from patients and students", "Overdependence on artificial intelligence"), c(FALSE, TRUE, FALSE, FALSE), display = "button")`
-
-4.  Which of the following are examples of essential digital tools that medical teachers often overlook? `r forms_mchoice( c ("Learning Management Systems (LMS)", "Audience Response Systems (ARS)", "Citation management software", "Handwritten logbooks"), c(TRUE, TRUE, TRUE, FALSE), display = "button")`
-
-5.  What is the main message for individual doctors and teachers regarding digital transformation? `r forms_schoice( c("Wait for institutions to fully digitize before learning new tools", "Begin experimenting with available technology to reduce repetitive work and future disruption", "Focus only on clinical skills, not digital literacy", "Use smartphones alone for all productive work"), c(FALSE, TRUE, FALSE, FALSE), display = "button")`
