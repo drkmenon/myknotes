@@ -7,6 +7,8 @@ filters:
   - quizdown
 ---
 
+------------------------------------------------------------------------
+
 ## Step 1: Turn Editing On
 
 -   Go to your Moodle course.
@@ -15,6 +17,8 @@ filters:
 
 -   Navigate to the topic or section where you want the quiz.
 
+------------------------------------------------------------------------
+
 ## Step 2: Add a Quiz Activity
 
 -   Click “Add an activity or resource.”
@@ -22,6 +26,8 @@ filters:
 -   Choose “Quiz” from the list.
 
 -   Click “Add.”
+
+------------------------------------------------------------------------
 
 ## Step 3: Configure Quiz Settings
 
@@ -82,6 +88,8 @@ Decide what students can see:
     ------------------------------------------------------------------------
 
 ### Safe exam browser
+
+------------------------------------------------------------------------
 
 ## Step 4: Add Questions
 

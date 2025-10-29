@@ -9,6 +9,8 @@ filters:
 
 ## Complete this questionnaire
 
+------------------------------------------------------------------------
+
 ``` quizdown
 # Which of the following software is most suitable for creating lecture slides?
 
@@ -19,7 +21,7 @@ filters:
 - [ ]  Acrobat/Preview/**Foxit reader**
 - [ ]  Notepad/textEdit/**Markdown editors**
 
-# What is the main advantage of using Learning Management Systems (LMS) like Moodle or Google Classroom?
+# Advantage of using LMS
 
 - [ ] Entertainment  
 - [x] Managing student records and online assessments  
@@ -28,7 +30,7 @@ filters:
 
 > LMS platforms are designed for managing teaching materials, assessments, and student progress. Moodle is a free and opensourse software.
 
-# While recording an online lecture, which file format is most commonly used for video storage?
+# Which file format is most commonly used for video storage?
 
 > Video recordings are typically stored in the **.mp4** format, which ensures compatibility across platforms.
 
@@ -37,7 +39,7 @@ filters:
 - [x] .mp4  
 - [ ] .pdf
 
-# Which of the following tools is best suited for conducting online MCQ-based tests?
+# Tools is best suited for conducting online MCQ-based tests?
 
 > **Google Forms** is widely used for creating and conducting online quizzes and collecting responses.
 
@@ -46,7 +48,7 @@ filters:
 - [ ] VLC Player  
 - [ ] Adobe Reader
 
-# When uploading lecture materials, which file format ensures easy access across all devices?
+# Which file format ensures easy access across all devices?
 
 > **.pdf** and *.md* files preserve formatting and can be viewed on all devices without compatibility issues.
 
@@ -55,7 +57,7 @@ filters:
 - [ ] .pptx 
 - [ ] .zip
 
-# What does screen mirroring allow us to do?
+# Screen mirroring
 
 > **Screen mirroring** projects a mobile or tablet screen onto a larger display for teaching or demonstration purposes.
 
@@ -64,7 +66,7 @@ filters:
 - [ ] Connect to the internet  
 - [ ] Install software remotely
 
-# Which of the following best describes blended learning?
+# Blended learning
 
 > **Blended learning** combines traditional classroom teaching with digital and online methods.
 
@@ -73,16 +75,16 @@ filters:
 - [ ] Using only video lectures  
 - [ ] Teaching without any digital tools
 
-# Which of the following best describes the difference between *WYSIWYG* and *WYSIWYM* editors used in educational content creation?
+# Difference between *WYSIWYG* and *WYSIWYM* editors
 
 > WYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.
 
-- [x] WYSIWYG editors display the final appearance while editing 
-- [x] WYSIWYM editors focus on the meaning and structure 
-- [ ] WYSIWYM editors provide real-time visual preview
-- [ ] WYSIWYG editors are used only for programming
+- [x] WYSIWYG display the final appearance
+- [x] WYSIWYM focus on the meaning 
+- [ ] WYSIWYM provide real-time  preview
+- [ ] WYSIWYG are used only for programming
 
-# Which of the following statements correctly differentiates *open-source* software from *proprietary* software in the context of educational technology?
+# *Open-source* software vs *proprietary* software
 
 > Open-source software provides access to its source code for modification and redistribution, whereas proprietary software restricts access and usage through licenses.
 
@@ -91,6 +93,10 @@ filters:
 - [ ] Proprietary always performs better
 - [ ] Open-source requires purchase of a license
 ```
+
+------------------------------------------------------------------------
+
+## Why blueprinting?
 
 ::: {.callout-note collapse="true"}
 ## Introduction
@@ -102,17 +108,25 @@ filters:
 -   Student **learn** during the course of the MBBS program to **pass the exam**.
 :::
 
+------------------------------------------------------------------------
+
 For an average student, **assessment becomes the curriculum** — she focuses primarily on **how to pass the exam**. As the saying goes, \`“assessment is the tail that wags the curriculum dog.”
 
 The teacher, however, wants her to **learn the subject** itself. This creates a **significant misalignment** between teaching, learning, and assessment.
+
+------------------------------------------------------------------------
 
 ## The complaints from students
 
 ![](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0c14/4552073/79aeac9508f1/IJABMR-5-76-g001.jpg)
 
+------------------------------------------------------------------------
+
 ## The great misalignment
 
 ![](images/clipboard-102624561.png)
+
+------------------------------------------------------------------------
 
 ## How to align?
 
@@ -122,6 +136,8 @@ The teacher, however, wants her to **learn the subject** itself. This creates 
 ## Answer is Blueprinting
 :::
 
+------------------------------------------------------------------------
+
 ::: callout-important
 ## Learning Objectives
 
@@ -129,6 +145,8 @@ The teacher, however, wants her to **learn the subject** itself. This creates 
 
 -   Demonstrate blueprinting using a spreadsheet
 :::
+
+------------------------------------------------------------------------
 
 ## Definition
 
@@ -140,6 +158,8 @@ construct under-representation (CU), and
 
 construct irrelevance variance (CIV).
 
+------------------------------------------------------------------------
+
 ### Construct under-representation (CU)
 
 CU refers to under sampling or biased sampling of the content domain or the course contents. There may be too few items to sample domain adequately.
@@ -148,7 +168,7 @@ CU refers to under sampling or biased sampling of the content domain or the cour
 
 CIV is a systematic error introduced into assessment data by the unrelated variables. This means inclusion of flawed item formats, too easy or too difficult questions or examiner bias. For example, tendency to test favorite, or hot or trivial topics.
 
-## How to blueprint an assessment?
+------------------------------------------------------------------------
 
 ## Attributes of assessment
 
@@ -166,7 +186,9 @@ CIV is a systematic error introduced into assessment data by the unrelated varia
 
 -   Relevance
 
-![](images/clipboard-1364578118.png)
+------------------------------------------------------------------------
+
+## How to blueprint an assessment?
 
 ### Find out and select 5 competencies
 
@@ -175,6 +197,8 @@ NMC has published the UG curriculum. [Go to the NMC website](https://www.nmc.org
 ### Open a spreadsheet
 
 See this [google sheet with sample blueprint](https://docs.google.com/spreadsheets/d/1dXwZATnu_TilYJ2INPd8A910OucE27zgOPNzBo07ddI/edit?usp=sharing) and create one blueprint for the selected competencies.
+
+------------------------------------------------------------------------
 
 ``` quizdown
 
@@ -196,3 +220,5 @@ See this [google sheet with sample blueprint](https://docs.google.com/spreadshee
 - [ ] construct representation variance
 - [ ] construct under-variance
 ```
+
+[Standalone pretest](../Education Technology/webquiz.html)

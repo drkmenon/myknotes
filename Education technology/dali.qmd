@@ -2,6 +2,7 @@
 title: "DALI for Digital technology"
 editor: visual
 order: 1
+format: html
 filters:
   - quizdown
 ---
@@ -12,9 +13,15 @@ Digital technology is revolutionizing the way we live, work, and think. It is de
 
 At this critical juncture, the medical community faces a significant challenge. Most doctors today have not been formally trained in using digital tools—especially those designed to make life easier for patients, students, and teachers alike.
 
+------------------------------------------------------------------------
+
 Concepts and technologies like cloud storage, version control, encryption, and hashing have already reshaped the world. The AI era has begun. Perspective of consensuses is that individuals who have lived through both the pre-digital and digital eras are at a clear advantage—if they choose to adapt.[@berzin2025]
 
+------------------------------------------------------------------------
+
 ![](images/clipboard-3844743380.png)
+
+------------------------------------------------------------------------
 
 Yet, a notable section of medical educators and practitioners:
 
@@ -22,6 +29,9 @@ Yet, a notable section of medical educators and practitioners:
 -   Own one but never use it for **productive work**
 -   Do not realize that smartphones and tablets are scaled-down devices optimized for **consumption**, not creation
 -   Lack awareness of on-line privacy, piracy, and safe internet practices
+
+------------------------------------------------------------------------
+
 -   Are unfamiliar with essential software such as:
     -   Word processors
     -   Presentation tools beyond Power-point
@@ -32,8 +42,13 @@ Yet, a notable section of medical educators and practitioners:
     -   Personal Knowledge Management (PKM) tools
     -   Learning Management Systems (LMS)
     -   Self-publishing platforms
+
+------------------------------------------------------------------------
+
 -   Unaware of **Open-source movement**
 -   Unaware of **Credibility revolution** in science driven by technology
+
+------------------------------------------------------------------------
 
 The key to success is not merely theoretical understanding but active experimentation—a **DALI** (Do And Learn Immediately) strategy. Tinkering, in many cases, is more effective than rigid, structured learning.
 
@@ -43,7 +58,11 @@ Systems sometimes perpetuate inefficient, outdated methods. Consider a common sc
 
 When a patient arrives for consultation, they are asked for their name and age. In the rush, names are often entered incorrectly, and ages—recorded in years—remain unchanged across future visits. The patient receives an A4-sized paper that may get damaged even before the first consultation. The doctor scribbles prescriptions, which the pharmacist later deciphers.
 
+------------------------------------------------------------------------
+
 In contrast, a fully digitized process could allow the patient to receive SMS alerts, accurate records, and seamless interactions. But such systems rarely take root.
+
+------------------------------------------------------------------------
 
 Why? Because inefficiency is *nudged* while efficiency is *sludged* away.[@thaler2021]
 
@@ -52,13 +71,19 @@ Why? Because inefficiency is *nudged* while efficiency is *sludged* away.[@thale
 -   For doctors, writing on paper is faster than entering data into an ePharmacy system.
 -   For pharmacists, it’s easier to read from paper than from a screen.
 
+------------------------------------------------------------------------
+
 Institutions often resist digitization because it reduces opaqueness and dilutes authority. As a result, systems continue to **sludge** efficient behaviour and **nudge** inefficient ones—for the sake of short-term convenience. The same pattern exists in medical colleges. From timetable preparation to logbook maintenance, nearly everything remains manual.
 
 Paperwork has exploded—leaving doctors with little time to examine patients, teachers with no time to teach, and students with no time to study.
 
+------------------------------------------------------------------------
+
 Technology, if implemented thoughtfully at an institutional level, can dramatically improve efficiency and outcomes. However, the lack of institutional initiative discourages individual adoption. Eventually, though, institutions will be forced to go digital. At that point, those with minimal digital skills will find themselves overwhelmed.
 
 The solution at individual level is simple: **tinker with technology**. Experiment with tools and systems around you with one clear goal—*Can this reduce my repetitive, monotonous work?*
+
+------------------------------------------------------------------------
 
 Ask yourself:
 
@@ -106,7 +131,7 @@ The **DALI** mindset—doing first and learning through action—ensures that wh
 
 > Medical educators often underuse tools that could simplify teaching, assessment, and research.
 
-# What is the main message for individual doctors and teachers regarding digital transformation?
+# What is the main message for doctors regarding digital transformation?
 
 - [ ] Wait for institutions to fully digitize 
 - [x] Begin experimenting with available technology 
