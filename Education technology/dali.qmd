@@ -131,7 +131,7 @@ The **DALI** mindset—doing first and learning through action—ensures that wh
 
 > Medical educators often underuse tools that could simplify teaching, assessment, and research.
 
-# What is the main message for doctors regarding digital transformation?
+# What is the main message?
 
 - [ ] Wait for institutions to fully digitize 
 - [x] Begin experimenting with available technology 

@@ -13030,7 +13030,20 @@
     "href": "Education technology/upload.html#quick-workaround-for-mcq",
     "title": "Upload questions to moodle",
     "section": "Quick workaround for MCQ",
-    "text": "Quick workaround for MCQ\nCreate questions and answers.\nKeep right answer as first option\nUse this link to copy and paste the questions and generate GIFT formatted questions\nSave this as .txt file for uploading to Moodle\nCreate quiz in moodle",
+    "text": "Quick workaround for MCQ\nCreate questions and answers.\nKeep right answer as first option\nUse this link to copy and paste the questions and generate GIFT formatted questions\nSave this as .txt file for uploading to Moodle\nCreate quiz in Moodle",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Upload questions to moodle"
+    ]
+  },
+  {
+    "objectID": "Education technology/upload.html#uploading-process",
+    "href": "Education technology/upload.html#uploading-process",
+    "title": "Upload questions to moodle",
+    "section": "Uploading process",
+    "text": "Uploading process\n\nLogin to the Moodle\nFind your course to which question bank has to be uploaded\n\nClick on the settings wheel\nClick on more\nScroll down in the “course administration” tab to see question bank\n\nClick on import\n\nChoose the file format (GIFT here)\nClick on choose file, locate your .txt file and upload\n\nTo learn more about GIFT format, see here",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -13225,7 +13238,7 @@
     "href": "Education technology/createquiz.html#step-4-add-questions",
     "title": "Create quiz in moodle",
     "section": "Step 4: Add Questions",
-    "text": "Step 4: Add Questions\n\nClick “Edit quiz.”\nClick “Add → a new question.”\nChoose a question type, such as:\n\nMultiple Choice\nTrue/False\nShort Answer\nMatching\nEssay\nNumerical\n\nFill in:\n\nQuestion name\nQuestion text\nDefault mark\nOptions (answers, feedback, etc.)\n\nClick Save changes.\nRepeat to add more questions.\nUse **question bank** to reuse or share questions across courses.",
+    "text": "Step 4: Add Questions\n\nClick “Edit quiz.”\nClick “Add → a new question.”\nChoose a question type, such as:\n\nMultiple Choice\nTrue/False\nShort Answer\nMatching\nEssay\nNumerical\n\nFill in:\n\nQuestion name\nQuestion text\nDefault mark\nOptions (answers, feedback, etc.)\n\nClick Save changes.\nRepeat to add more questions.\nUse question bank to reuse or share questions across courses.",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -13368,7 +13381,7 @@
     "href": "Education technology/dali.html#what-have-we-discussed",
     "title": "DALI for Digital technology",
     "section": "What have we discussed?",
-    "text": "What have we discussed?\n\n\n# What does the DALI approach in digital education emphasize?\n\n- [ ] Learning through structured classroom teaching\n- [x] Doing and learning through hands-on experimentation with technology\n- [ ] Avoiding technology until institutions adopt it\n- [ ] Depending only on institutional training programs\n\n&gt; The DALI approach emphasizes learning by doing—experimenting directly with technology to gain practical understanding.\n\n# Digital technology increases transparency and accountability by making systems more democratic.\n\n- [x] TRUE\n- [ ] FALSE\n\n&gt; Digital tools promote openness, accessibility, and accountability, supporting more democratic systems.\n\n# According to the article, what is the main reason inefficient systems continue to persist in healthcare and education?\n\n- [ ] Lack of government funding\n- [x] Systems are designed to nudge inefficient behavior and sludge efficient ones\n- [ ] Resistance from patients and students\n- [ ] Overdependence on artificial intelligence\n\n&gt; Inefficient systems survive because they are easier and reinforced by convenience-based nudges, while efficient systems face resistance. Read the book by Nobel prize winner Thaler's \"Nudge\"\n\n# Which of the following are examples of essential digital tools that medical teachers often overlook?\n\n- [x] Learning Management Systems (LMS)\n- [x] Audience Response Systems (ARS)\n- [x] Citation management software\n- [ ] Handwritten logbooks\n\n&gt; Medical educators often underuse tools that could simplify teaching, assessment, and research.\n\n# What is the main message for doctors regarding digital transformation?\n\n- [ ] Wait for institutions to fully digitize \n- [x] Begin experimenting with available technology \n- [ ] Focus only on clinical skills not digital literacy\n- [ ] Use smartphones alone for all productive work\n\n&gt; The article urges individuals to proactively tinker with technology to reduce repetitive work and stay relevant during digital transitions.",
+    "text": "What have we discussed?\n\n\n# What does the DALI approach in digital education emphasize?\n\n- [ ] Learning through structured classroom teaching\n- [x] Doing and learning through hands-on experimentation with technology\n- [ ] Avoiding technology until institutions adopt it\n- [ ] Depending only on institutional training programs\n\n&gt; The DALI approach emphasizes learning by doing—experimenting directly with technology to gain practical understanding.\n\n# Digital technology increases transparency and accountability by making systems more democratic.\n\n- [x] TRUE\n- [ ] FALSE\n\n&gt; Digital tools promote openness, accessibility, and accountability, supporting more democratic systems.\n\n# According to the article, what is the main reason inefficient systems continue to persist in healthcare and education?\n\n- [ ] Lack of government funding\n- [x] Systems are designed to nudge inefficient behavior and sludge efficient ones\n- [ ] Resistance from patients and students\n- [ ] Overdependence on artificial intelligence\n\n&gt; Inefficient systems survive because they are easier and reinforced by convenience-based nudges, while efficient systems face resistance. Read the book by Nobel prize winner Thaler's \"Nudge\"\n\n# Which of the following are examples of essential digital tools that medical teachers often overlook?\n\n- [x] Learning Management Systems (LMS)\n- [x] Audience Response Systems (ARS)\n- [x] Citation management software\n- [ ] Handwritten logbooks\n\n&gt; Medical educators often underuse tools that could simplify teaching, assessment, and research.\n\n# What is the main message?\n\n- [ ] Wait for institutions to fully digitize \n- [x] Begin experimenting with available technology \n- [ ] Focus only on clinical skills not digital literacy\n- [ ] Use smartphones alone for all productive work\n\n&gt; The article urges individuals to proactively tinker with technology to reduce repetitive work and stay relevant during digital transitions.",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -14804,7 +14817,7 @@
     "href": "Education technology/blueprint.html#definition",
     "title": "Blueprinting",
     "section": "Definition",
-    "text": "Definition\nBlueprint is a map and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.\nIn general, the aim of the blueprinting is to reduce the two major threats to validity:\nconstruct under-representation (CU), and\nconstruct irrelevance variance (CIV).\n\n\nConstruct under-representation (CU)\nCU refers to under sampling or biased sampling of the content domain or the course contents. There may be too few items to sample domain adequately.\n\n\nConstruct irrelevance variance (CIV)\nCIV is a systematic error introduced into assessment data by the unrelated variables. This means inclusion of flawed item formats, too easy or too difficult questions or examiner bias. For example, tendency to test favorite, or hot or trivial topics.",
+    "text": "Definition\nBlueprint is a  and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.\nIn general, the aim of the blueprinting is to reduce the two major threats to validity:\nconstruct under-representation (CU), and\nconstruct irrelevance variance (CIV).\n\n\nConstruct under-representation (CU)\nCU refers to under sampling or biased sampling of the content domain or the course contents. There may be too few items to sample domain adequately.\n\n\nConstruct irrelevance variance (CIV)\nCIV is a systematic error introduced into assessment data by the unrelated variables. This means inclusion of flawed item formats, too easy or too difficult questions or examiner bias. For example, tendency to test favorite, or hot or trivial topics.",
     "crumbs": [
       "Home",
       "Medical Education",

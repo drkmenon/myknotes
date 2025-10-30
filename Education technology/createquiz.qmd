@@ -125,7 +125,7 @@ Decide what students can see:
 
     Repeat to add more questions.
 
--   `Use **question bank** to reuse or share questions across courses.`
+-   `Use question bank to reuse or share questions across courses.`
 
     ------------------------------------------------------------------------
 

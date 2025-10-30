@@ -1,11 +1,22 @@
 ---
 title: "Blueprinting"
 format: html
+author:
+  name: "Kishore Puthezhath F.R.C.S (Tr & Orth), F.A.C.S"
+  affiliation: "Professor of Orthopaedics"
+  
+date: "2025-10-28"
 editor: visual
 order: 2
 filters:
   - quizdown
 ---
+
+```{r echo=FALSE, warning=FALSE}
+library(exams)
+library(exams2forms)
+
+```
 
 ## Complete this questionnaire
 
@@ -110,7 +121,7 @@ filters:
 
 ------------------------------------------------------------------------
 
-For an average student, **assessment becomes the curriculum** — she focuses primarily on **how to pass the exam**. As the saying goes, \`“assessment is the tail that wags the curriculum dog.”
+For an average student, **assessment becomes the curriculum** — she focuses primarily on **how to pass the exam**. As the saying goes,`“assessment is the tail that wags the curriculum dog.”`
 
 The teacher, however, wants her to **learn the subject** itself. This creates a **significant misalignment** between teaching, learning, and assessment.
 
@@ -150,7 +161,7 @@ The teacher, however, wants her to **learn the subject** itself. This creates 
 
 ## Definition
 
-Blueprint is a map and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.
+Blueprint is a `r forms_string("map", width=5)` and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.
 
 In general, the aim of the blueprinting is to reduce the two major threats to validity:
 
@@ -221,4 +232,4 @@ See this [google sheet with sample blueprint](https://docs.google.com/spreadshee
 - [ ] construct under-variance
 ```
 
-[Standalone pretest](../Education Technology/webquiz.html)
+[Standalone pretest](../Education%20Technology/webquiz.html)

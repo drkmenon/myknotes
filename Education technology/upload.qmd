@@ -135,4 +135,30 @@ Use [this link](http://a4esl.org/c/qw.html) to copy and paste the questions and 
 
 Save this as .txt file for uploading to Moodle
 
-Create quiz in moodle
+Create quiz in Moodle
+
+## Uploading process
+
+-   Login to the Moodle
+
+-   Find your course to which question bank has to be uploaded
+
+    ![](images/clipboard-3564447358.png)
+
+-   Click on the settings wheel
+
+-   Click on more
+
+-   Scroll down in the "course administration" tab to see question bank
+
+    ![](images/clipboard-950335225.png)
+
+-   Click on *import*
+
+    ![](images/clipboard-122946627.png)
+
+-   Choose the file format (GIFT here)
+
+-   Click on choose file, locate your .txt file and upload
+
+To learn more about GIFT format, [see here](https://docs.moodle.org/39/en/GIFT_format)
