@@ -161,7 +161,7 @@ The teacher, however, wants her to **learn the subject** itself. This creates 
 
 ## Definition
 
-Blueprint is a `r forms_string("map", width=5)` and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.
+Blueprint is a `r forms_schoice(c("map","compass"),c(TRUE,FALSE),display="dropdown")` and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.
 
 In general, the aim of the blueprinting is to reduce the two major threats to validity:
 

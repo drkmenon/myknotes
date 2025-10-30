@@ -1,0 +1,140 @@
+---
+title: "rexams"
+format: html
+editor: visual
+order: 7
+---
+
+If R is the ultimate software for all literary activities one can imagine (except for bidirectional wiki linking, cloze, and flashcards—think Logseq), then **r-exams** is the ultimate R package for assessment, whether online or offline.
+
+**r-exams** can be used for online assessment in four major contexts:
+
+\- Offline written examinations with automatic scanning and evaluation\
+- Stand-alone examinations on a particular LMS/ARS platform\
+- Inline quizzes on a webpage\
+- Online distribution as .pdf/.html/.docx/.odf files
+
+The first two allow automatic evaluation.
+
+------------------------------------------------------------------------
+
+### How to Use
+
+**r-exams** is available as a CRAN package and can be installed in R using the RStudio interface. **r-exams** has a companion package called **exams2forms**, which is necessary for creating inline web quizzes and standalone HTML quiz documents. This eliminates the need for an additional LMS system to deliver formative assessments.
+
+------------------------------------------------------------------------
+
+### Creating Questions
+
+Create a new R project in a suitable location.\
+Create one `.Rmd` file for each question.\
+If the question paper will have 10 questions, you need 10 `.Rmd` files.
+
+------------------------------------------------------------------------
+
+### Structure of a Question
+
+In each `.Rmd` file, type the **Question** section and underline it with `======`.\
+Below that, write the question.
+
+Then type **AnswerList** and underline it with `----------`.\
+List the answers, one per line.
+
+Next, type **Meta-information** and underline it with `=========`.\
+Under **Meta-information**, specify the following:
+
+-   `extype:` schoice / mchoice / num / string\
+-   `exsolution:` 0 for wrong answers and 1 for correct answers\
+-   `exname:` (optional)\
+-   `exshuffle:` number of options to be used
+
+Optionally, you can include a **Solution** section (underlined with `=====`), followed by an explanation and another **AnswerList**.
+
+**Example:**\
+Each `.Rmd` file should contain the following information.\
+Name the file `ex1.Rmd`.
+
+```         
+Question
+========
+What is the solution for all the problems in the world?
+
+AnswerList
+----------
+* Neeli
+* Moothon
+* Odiyam
+* Chaathan
+* Sunny
+* Venu
+* Nachiappa
+
+Meta-information
+================
+exsolution: 1111000
+extype: mchoice
+exname: Solve the world
+exshuffle: 4
+
+Solution
+========
+Is the world the real problem or your belief in the world? 
+Who knows, let’s ask our superheroes.
+
+AnswerList
+----------
+* True
+* True
+* True
+* True
+* False
+* False
+* False
+```
+
+You can create as many `.Rmd` files as you want.
+
+------------------------------------------------------------------------
+
+### Creating the Quiz
+
+Create another `.Rmd` file, e.g., `quiz.Rmd`.
+
+Load the libraries **exams** and **exams2forms** in R.\
+Create a list of all question files:\
+`list("ex1.Rmd", "ex2.Rmd", ...)`\
+Store it in an object, for example, `exm`.
+
+------------------------------------------------------------------------
+
+### Final Step
+
+The final step depends on your intended output.
+
+-   **For online distribution** (on websites or otherwise):\
+    `exams2webquiz(exm, n = 1, dir = ".")`\
+    This creates an `.html` file in the working directory. The file is standalone and ready for online distribution.
+
+-   **For Moodle LMS:**\
+    `exams2moodle()`
+
+-   **For offline written exams:**\
+    `exams2nops()`
+
+-   **For inline quizzes on a webpage:**\
+    This method allows quick creation of in-line quizzes without extensive preparation.\
+    Examples:
+
+    `r forms_string(“a word/words”, width = 10)`
+    
+    `r forms_num(123, width = 10)`
+    
+    `r forms_schoice(c(“choice 1”, “choice 2”, “choice 3”, “choice 4”),
+    c(TRUE, FALSE, FALSE, FALSE), display = “dropdown”)`
+    
+    `r forms_mchoice(c(“choice 1”, “choice 2”, “choice 3”, “choice 4”),
+    c(TRUE, FALSE, FALSE, TRUE), display = “dropdown”)`
+
+-   **For ARS:**
+
+    `exams2particify()`
