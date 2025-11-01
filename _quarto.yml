@@ -125,7 +125,7 @@ format:
       body-width: 900px
       margin-width: 300px
 
-editor: visual
+editor: source
 bibliography: references.bib
 comments: 
   hypothesis: true

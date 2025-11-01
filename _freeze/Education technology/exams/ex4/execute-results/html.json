@@ -1,0 +1,15 @@
+{
+  "hash": "fc9e2ddeeeef3bb88b0d036055dacac4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n========\nWhich of the following tools is best suited for conducting online MCQ-based tests?\n\nAnswerlist\n-----------\n* Microsoft Paint  \n* Google Forms  \n* VLC Player  \n* Adobe Reader\n\nSolution\n========\n**Google Forms** is widely used for creating and conducting online quizzes and collecting responses.\n\nMeta-information\n================\nexname: ex4\nextype: schoice\nexsolution: 0100\nexpoints: 1\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

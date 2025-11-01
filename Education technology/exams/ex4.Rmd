@@ -1,0 +1,21 @@
+Question
+========
+Blueprinting helps ensure that assessments are
+
+Answerlist
+-----------
+* Valid and reliable  
+* Focused only on recall  
+* Randomly constructed  
+* Based on teacher preference 
+
+Solution
+========
+Check for the attributes of assessment
+
+Meta-information
+================
+exname: ex4
+extype: schoice
+exsolution: 1000
+expoints: 1

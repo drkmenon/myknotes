@@ -69,11 +69,13 @@ A 25-year-old doctor is deciding between two options for financial security:
 | **Flexibility** | No flexibility | Can use investment returns anytime |
 | **Real value of ₹1 crore in 50 years** | ₹3.4 lakh | ₹53 lakh |
 
+::: {.callout-note appearance="minimal" icon="false"}
 ### **Key Takeaways:**
 
-✔ **Doctor B has much more financial freedom and security, whether she dies or not.**\
-✔ **Investing smartly beats paying high premiums for limited benefits.**\
-✔ **₹1 crore in the future will be worth much less due to inflation.**\
-✔ **With investments, Doctor B can spend, donate, or leave behind a much larger legacy.**
+✔ Doctor B has much more financial freedom and security, whether she dies or not.\
+✔ Investing smartly beats paying high premiums for limited benefits.\
+✔ ₹1 crore in the future will be worth much less due to inflation.\
+✔ With investments, Doctor B can spend, donate, or leave behind a much larger legacy.
+:::
 
 👉 **Conclusion:** Term insurance + investing is the smarter choice!

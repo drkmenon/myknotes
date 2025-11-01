@@ -1,0 +1,15 @@
+{
+  "hash": "aa0d0e4befbee5c66a7f1f000f80c094",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n========\nWhich of the following best describes blended learning?\n\nAnswerlist\n-----------\n* Learning only through printed books  \n* Mixing online digital instruction with face-to-face classroom teaching  \n* Using only video lectures  \n* Teaching without any digital tools\n\nSolution\n========\n**Blended learning** combines traditional classroom teaching with digital and online methods.\n\nMeta-information\n================\nexname: ex7\nextype: schoice\nexsolution: 0100\nexpoints: 1\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

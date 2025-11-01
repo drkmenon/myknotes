@@ -1,0 +1,15 @@
+{
+  "hash": "4446cebae0000e839670bf5bc30990a5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n========\nWhile recording an online lecture, which file format is most commonly used for video storage?\n\nAnswerlist\n-----------\n* .docx/.md \n* .xlsx  \n* .mp4  \n* .pdf\n\nSolution\n========\nVideo recordings are typically stored in the **.mp4** format, which ensures compatibility across platforms.\n\nMeta-information\n================\nexname: video_format\nextype: schoice\nexsolution: 0010\nexpoints: 1\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

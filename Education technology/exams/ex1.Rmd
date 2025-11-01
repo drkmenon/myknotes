@@ -1,0 +1,21 @@
+Question
+========
+Blueprinting
+
+Answerlist
+-----------
+* Map to align Syllabus with assessment  
+* Map to align curriculum with assessment  
+* Map to align curriculum with syllabus  
+* Map to align learning with assessment  
+
+Solution
+========
+It is a map that allign curriculum with assessment
+
+Meta-information
+================
+exname: ex1
+extype: schoice
+exsolution:0100
+expoints: 1

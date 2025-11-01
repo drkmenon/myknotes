@@ -1,0 +1,15 @@
+{
+  "hash": "0d6795c08aba5e32b23b430327707023",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n========\nWhich of the following software is most suitable for creating lecture slides?\n\nAnswerlist\n-----------\n* MS Excel/Numbers/Google sheet/**Calc spreadsheet** \n* MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**\n* Adobe Acrobat/Preview/**Foxit reader**\n* Notepad/textEdit/**Markdown editors**\n\nSolution\n========\nThe correct answer is MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**, which is specifically designed for creating and delivering presentations.The choices in bold are free and opensource solutions.\n\nMeta-information\n================\nexname: ex1\nextype: schoice\nexsolution: 0100\nexpoints: 1",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

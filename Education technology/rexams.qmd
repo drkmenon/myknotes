@@ -111,7 +111,11 @@ Store it in an object, for example, `exm`.
 
 The final step depends on your intended output.
 
--   **For online distribution** (on websites or otherwise):\
+-   **For online distribution** (on websites)
+
+    `exams2forms(exm)`
+
+-   **As standalone html**\
     `exams2webquiz(exm, n = 1, dir = ".")`\
     This creates an `.html` file in the working directory. The file is standalone and ready for online distribution.
 
@@ -126,14 +130,12 @@ The final step depends on your intended output.
     Examples:
 
     `r forms_string(“a word/words”, width = 10)`
-    
+
     `r forms_num(123, width = 10)`
-    
-    `r forms_schoice(c(“choice 1”, “choice 2”, “choice 3”, “choice 4”),
-    c(TRUE, FALSE, FALSE, FALSE), display = “dropdown”)`
-    
-    `r forms_mchoice(c(“choice 1”, “choice 2”, “choice 3”, “choice 4”),
-    c(TRUE, FALSE, FALSE, TRUE), display = “dropdown”)`
+
+    `r forms_schoice(c(“choice 1”, “choice 2”, “choice 3”, “choice 4”), c(TRUE, FALSE, FALSE, FALSE), display = “dropdown”)`
+
+    `r forms_mchoice(c(“choice 1”, “choice 2”, “choice 3”, “choice 4”), c(TRUE, FALSE, FALSE, TRUE), display = “dropdown”)`
 
 -   **For ARS:**
 

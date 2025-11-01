@@ -12,100 +12,13 @@ filters:
   - quizdown
 ---
 
-```{r echo=FALSE, warning=FALSE}
-library(exams)
+------------------------------------------------------------------------
+
+## Self assessment
+
+```{r echo=FALSE}
 library(exams2forms)
-
 ```
-
-## Complete this questionnaire
-
-------------------------------------------------------------------------
-
-``` quizdown
-# Which of the following software is most suitable for creating lecture slides?
-
-> The correct answer is MS PowerPoint/Keynote/**revealJS**/**Impress Presentation**, which is specifically designed for creating and delivering presentations.The choices in bold are free and opensource solutions.
-
-- [x]  Excel/Numbers/Google sheet/**Calc**
-- [ ]  PowerPoint/Keynote/**revealJS**/**Impress**
-- [ ]  Acrobat/Preview/**Foxit reader**
-- [ ]  Notepad/textEdit/**Markdown editors**
-
-# Advantage of using LMS
-
-- [ ] Entertainment  
-- [x] Managing student records and online assessments  
-- [ ] Virus protection  
-- [ ] Internet browsing
-
-> LMS platforms are designed for managing teaching materials, assessments, and student progress. Moodle is a free and opensourse software.
-
-# Which file format is most commonly used for video storage?
-
-> Video recordings are typically stored in the **.mp4** format, which ensures compatibility across platforms.
-
-- [ ] .docx/.md 
-- [ ] .xlsx  
-- [x] .mp4  
-- [ ] .pdf
-
-# Tools is best suited for conducting online MCQ-based tests?
-
-> **Google Forms** is widely used for creating and conducting online quizzes and collecting responses.
-
-- [ ] Microsoft Paint  
-- [x] Google Forms  
-- [ ] VLC Player  
-- [ ] Adobe Reader
-
-# Which file format ensures easy access across all devices?
-
-> **.pdf** and *.md* files preserve formatting and can be viewed on all devices without compatibility issues.
-
-- [x] .pdf  
-- [x] .md 
-- [ ] .pptx 
-- [ ] .zip
-
-# Screen mirroring
-
-> **Screen mirroring** projects a mobile or tablet screen onto a larger display for teaching or demonstration purposes.
-
-- [x] Display mobile content on a projector or smartboard  
-- [ ] Backup data  
-- [ ] Connect to the internet  
-- [ ] Install software remotely
-
-# Blended learning
-
-> **Blended learning** combines traditional classroom teaching with digital and online methods.
-
-- [ ] Learning only through printed books  
-- [x] Mixing online instruction with face-to-face classroom 
-- [ ] Using only video lectures  
-- [ ] Teaching without any digital tools
-
-# Difference between *WYSIWYG* and *WYSIWYM* editors
-
-> WYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.
-
-- [x] WYSIWYG display the final appearance
-- [x] WYSIWYM focus on the meaning 
-- [ ] WYSIWYM provide real-time  preview
-- [ ] WYSIWYG are used only for programming
-
-# *Open-source* software vs *proprietary* software
-
-> Open-source software provides access to its source code for modification and redistribution, whereas proprietary software restricts access and usage through licenses.
-
-- [x] Open-source provides access source code
-- [x] Proprietary restricts access with licenses.
-- [ ] Proprietary always performs better
-- [ ] Open-source requires purchase of a license
-```
-
-------------------------------------------------------------------------
 
 ## Why blueprinting?
 
@@ -123,7 +36,7 @@ library(exams2forms)
 
 For an average student, **assessment becomes the curriculum** — she focuses primarily on **how to pass the exam**. As the saying goes,`“assessment is the tail that wags the curriculum dog.”`
 
-The teacher, however, wants her to **learn the subject** itself. This creates a **significant misalignment** between teaching, learning, and assessment.
+The teacher, however, wants her to **learn the subject** itself. This creates a **significant misalignment** between teaching, learning, and assessment.
 
 ------------------------------------------------------------------------
 
@@ -211,25 +124,14 @@ See this [google sheet with sample blueprint](https://docs.google.com/spreadshee
 
 ------------------------------------------------------------------------
 
-``` quizdown
+```{r echo=FALSE, warning=FALSE}
+library(exams)
+library(exams2forms)
 
-# What is blueprinting (single choice)? 
+exm <- list("exams/ex1.Rmd", "exams/ex2.Rmd", "exams/ex3.Rmd", "exams/ex4.Rmd", "exams/ex5.Rmd")
 
-> It's a map!         
-
-1. [ ] Map to align Syllabus with assessment 
-1. [x] Map to align curriculum with assessment 
-1. [ ] Map to align curriculum with syllabus 
-1. [ ] Map to align learning with assessment 
-
-# Blueprinting aims to reduce (multiple choice)
-
-> reduce biased sampling of the content domain or the course contents and tendency to test favorite, or hot or trivial topics.
-
-- [x] construct under-representation
-- [x] construct irrelevance variance
-- [ ] construct representation variance
-- [ ] construct under-variance
 ```
 
-[Standalone pretest](../Education%20Technology/webquiz.html)
+```{r echo = FALSE, message = FALSE, results="asis"}
+exams2forms(exm)
+```

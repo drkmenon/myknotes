@@ -1,0 +1,15 @@
+{
+  "hash": "e923f4b76bf3a80ce96020fb47402023",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n========\nWhat does screen mirroring allow us to do?\n\nAnswerlist\n-----------\n* Display mobile or tablet screen content on a projector or smartboard  \n* Backup data  \n* Connect to the internet  \n* Install software remotely\n\nSolution\n========\n**Screen mirroring** projects a mobile or tablet screen onto a larger display for teaching or demonstration purposes.\n\nMeta-information\n================\nexname: ex6\nextype: schoice\nexsolution: 1000\nexpoints: 1\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

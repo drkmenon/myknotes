@@ -1,0 +1,15 @@
+{
+  "hash": "7e6393d0e19f8ec88b4064aa926f9313",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n========\nWhat is the main advantage of using Learning Management Systems (LMS) like Moodle or Google Classroom?\n\nAnswerlist\n----------\n* Entertainment  \n* Managing student records and online assessments  \n* Virus protection  \n* Internet browsing\n\nSolution\n========\nLMS platforms are designed for managing teaching materials, assessments, and student progress. Moodle is a free and opensourse software.\n\nMeta-information\n================\nexname: ex2\nextype: schoice\nexsolution: 0100\nexpoints: 1\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

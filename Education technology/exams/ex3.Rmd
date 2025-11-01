@@ -1,0 +1,21 @@
+Question
+========
+Which of the following is a key step in creating a blueprint?  
+
+Answerlist
+-----------
+* Preparing the student feedback form  
+* Defining learning objectives and weightage of topics  
+* Selecting high-scoring students  
+* Randomly generating test items  
+
+Solution
+========
+Key step is to identify the importance and frequency
+
+Meta-information
+================
+exname: ex3
+extype: schoice
+exsolution: 0100
+expoints: 1

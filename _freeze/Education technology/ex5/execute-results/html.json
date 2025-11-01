@@ -1,0 +1,15 @@
+{
+  "hash": "62ca007b79c63ee511ad9bf593cb8ae5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n========\nWhen uploading lecture materials, which file format ensures easy access across all devices?\n\nAnswerlist\n----------\n* .pdf  \n* .md \n* .pptx \n* .zip\n\nSolution\n========\n**.pdf** and *.md* files preserve formatting and can be viewed on all devices without compatibility issues.\n\nMeta-information\n================\nexname: ex5\nextype: mchoice\nexsolution: 1100\nexpoints: 1\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

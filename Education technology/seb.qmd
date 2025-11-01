@@ -5,6 +5,14 @@ editor: visual
 order: 6
 ---
 
-Allow secure exams using the Safe Exam Browser.
+### Safe Exam Browser (SEB)
+
+I conducted a proctored exam in Moodle for MBBS students some time ago in our institution’s computer lab using **Safe Exam Browser (SEB)** via Moodle. SEB effectively discourages students from attempting to cheat using their devices, although it does not completely prevent cheating by other means.
+
+When creating a quiz in Moodle, there is an option to enable SEB. This locks the device to the exam window and can be configured so that students can exit the screen only after entering a password.
+
+The Safe Exam Browser (SEB) was developed by ETH Zurich (Swiss Federal Institute of Technology Zurich) in collaboration with University of Giessen, Germany. It is natively available for **Windows**, **macOS**, and **iOS**, with notable exceptions being **Linux** and **Android**.
+
+The device used by the student for taking the exam must have SEB installed. Students can then log into the exam using SEB, either through a configuration file sent by the examiner or by launching the browser directly from Moodle.
 
 {{< video https://youtu.be/ytztYguXixk?si=2Mh62BlCWnff--1H >}}

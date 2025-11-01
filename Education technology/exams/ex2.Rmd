@@ -1,0 +1,21 @@
+Question
+========
+In blueprinting, the table of specifications primarily links  
+
+Answerlist
+-----------
+* curriculum and teaching methods  
+* learning objectives and assessment items  
+* syllabus and lesson plans  
+* student feedback and outcomes
+
+Solution
+========
+Assessment, assessment assessment, assessment is the curiiculum and that should align with SLO
+
+Meta-information
+================
+exname: ex1
+extype: schoice
+exsolution: 0100
+expoints: 1

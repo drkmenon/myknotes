@@ -1,0 +1,15 @@
+{
+  "hash": "9c1f5e802613b2ae4759df6b7663e82a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "Question\n=========\n\nWhich of the following best describes the difference between *WYSIWYG* and *WYSIWYM* editors used in educational content creation?\n\nAnswerList\n-----------\n* WYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.\n* Both WYSIWYG and WYSIWYM editors display identical formatted output during editing.\n* WYSIWYM editors provide real-time visual preview, while WYSIWYG editors show only source code.\n* WYSIWYG editors are used only for programming, while WYSIWYM editors are for document writing.\n\nSolution\n========\nWYSIWYG editors display the final appearance while editing, whereas WYSIWYM editors focus on the meaning and structure rather than exact layout.\n\nMeta-information\n================\nexname: ex8\nextype: schoice\nexsolution: 1000\nexpoints: 1\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

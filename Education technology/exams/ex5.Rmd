@@ -1,0 +1,22 @@
+Question
+========
+Blueprinting aims to reduce
+
+Answerlist
+----------
+* construct under-representation  
+* construct irrelevance variance  
+* construct representation variance  
+* construct under-variance 
+
+Solution
+========
+Reduce biased sampling of the content domain or the course contents and tendency to test favorite, or hot or trivial topics.
+
+Meta-information
+================
+exname: ex5
+extype: mchoice
+exsolution: 1100
+expoints: 1
+
