@@ -14,9 +14,8 @@ filters:
 
 ------------------------------------------------------------------------
 
-## Self assessment
-
-```{r echo=FALSE}
+```{r echo=FALSE, warning=FALSE}
+library(exams)
 library(exams2forms)
 ```
 
@@ -123,6 +122,8 @@ NMC has published the UG curriculum. [Go to the NMC website](https://www.nmc.org
 See this [google sheet with sample blueprint](https://docs.google.com/spreadsheets/d/1dXwZATnu_TilYJ2INPd8A910OucE27zgOPNzBo07ddI/edit?usp=sharing) and create one blueprint for the selected competencies.
 
 ------------------------------------------------------------------------
+
+## Self assessment
 
 ```{r echo=FALSE, warning=FALSE}
 library(exams)
