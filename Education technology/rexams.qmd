@@ -5,6 +5,8 @@ editor: visual
 order: 7
 ---
 
+![](images/clipboard-556813774.png){width="541"}
+
 If R is the ultimate software for all literary activities one can imagine (except for bidirectional wiki linking, cloze, and flashcards—think Logseq), then **r-exams** is the ultimate R package for assessment, whether online or offline.
 
 **r-exams** can be used for online assessment in four major contexts:
