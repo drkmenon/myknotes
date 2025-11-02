@@ -15,6 +15,12 @@ filters:
 -   How to bulk upload questions to moodle
 :::
 
+## Motivation
+
+The National Medical Commission mandates the conduct of scenario-based MCQs for undergraduate students. A common practice is to write a few questions on paper, have them typed by a clerk, and then conduct the exam. Afterwards, the answer sheets are collected, evaluated manually, marks are totaled, and the mark list is prepared before publishing the results. This process is time-consuming, repetitive, and leaves room for errors and malpractice at several stages.
+
+By contrast, if a comprehensive question bank is prepared in advance and stored in Moodle, exams can be conducted at short notice. The only significant manual task would then be the careful preparation and validation of a high-quality question bank.
+
 ## NMC mandated theory question format
 
 1.  LAQ: 1 question for 10 marks
@@ -29,7 +35,17 @@ filters:
 
 6.  SAQ (including 1 ATCOM): 4 questions of 5 marks each
 
-## Moodle friendly formats
+## How to create a question bank?
+
+It involves basically 3 steps
+
+1.  Type the required questions and answers in a text editor.
+
+2.  Convert them into a **Moodle-compatible format.**
+
+3.  Upload the formatted file to the appropriate course in Moodle.
+
+## Moodle compatible formats
 
 -   Aiken format
 

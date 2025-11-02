@@ -12987,6 +12987,19 @@
     ]
   },
   {
+    "objectID": "Education technology/upload.html#motivation",
+    "href": "Education technology/upload.html#motivation",
+    "title": "Upload questions to moodle",
+    "section": "Motivation",
+    "text": "Motivation\nThe National Medical Commission mandates the conduct of scenario-based MCQs for undergraduate students. A common practice is to write a few questions on paper, have them typed by a clerk, and then conduct the exam. Afterwards, the answer sheets are collected, evaluated manually, marks are totaled, and the mark list is prepared before publishing the results. This process is time-consuming, repetitive, and leaves room for errors and malpractice at several stages.\nBy contrast, if a comprehensive question bank is prepared in advance and stored in Moodle, exams can be conducted at short notice. The only significant manual task would then be the careful preparation and validation of a high-quality question bank.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Upload questions to moodle"
+    ]
+  },
+  {
     "objectID": "Education technology/upload.html#nmc-mandated-theory-question-format",
     "href": "Education technology/upload.html#nmc-mandated-theory-question-format",
     "title": "Upload questions to moodle",
@@ -13000,11 +13013,24 @@
     ]
   },
   {
-    "objectID": "Education technology/upload.html#moodle-friendly-formats",
-    "href": "Education technology/upload.html#moodle-friendly-formats",
+    "objectID": "Education technology/upload.html#how-to-create-a-question-bank",
+    "href": "Education technology/upload.html#how-to-create-a-question-bank",
     "title": "Upload questions to moodle",
-    "section": "Moodle friendly formats",
-    "text": "Moodle friendly formats\n\nAiken format\nBlackboard\nEmbedded answers (Cloze)\nExamview\nGIFT format\nMissing word format\nMoodle XML format\nWebCT format",
+    "section": "How to create a question bank?",
+    "text": "How to create a question bank?\nIt involves basically 3 steps\n\nType the required questions and answers in a text editor.\nConvert them into a Moodle-compatible format.\nUpload the formatted file to the appropriate course in Moodle.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Upload questions to moodle"
+    ]
+  },
+  {
+    "objectID": "Education technology/upload.html#moodle-compatible-formats",
+    "href": "Education technology/upload.html#moodle-compatible-formats",
+    "title": "Upload questions to moodle",
+    "section": "Moodle compatible formats",
+    "text": "Moodle compatible formats\n\nAiken format\nBlackboard\nEmbedded answers (Cloze)\nExamview\nGIFT format\nMissing word format\nMoodle XML format\nWebCT format",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -13216,7 +13242,7 @@
     "href": "Education technology/blueprint.html#self-assessment",
     "title": "Blueprinting",
     "section": "Self assessment",
-    "text": "Self assessment\n\n\nBlueprinting\n\nMap to align Syllabus with assessmentMap to align curriculum with assessmentMap to align curriculum with syllabusMap to align learning with assessment\n\n\n\nIt is a map that allign curriculum with assessment\n\n\n\n\nIn blueprinting, the table of specifications primarily links\n\ncurriculum and teaching methodslearning objectives and assessment itemssyllabus and lesson plansstudent feedback and outcomes\n\n\n\nAssessment, assessment assessment, assessment is the curiiculum and that should align with SLO\n\n\n\n\nWhich of the following is a key step in creating a blueprint?\n\nPreparing the student feedback formDefining learning objectives and weightage of topicsSelecting high-scoring studentsRandomly generating test items\n\n\n\nKey step is to identify the importance and frequency\n\n\n\n\nBlueprinting helps ensure that assessments are\n\nValid and reliableFocused only on recallRandomly constructedBased on teacher preference\n\n\n\nCheck for the attributes of assessment\n\n\n\n\nBlueprinting aims to reduce\n\nconstruct under-representationconstruct irrelevance varianceconstruct representation varianceconstruct under-variance\n\n\n\nReduce biased sampling of the content domain or the course contents and tendency to test favorite, or hot or trivial topics.",
+    "text": "Self assessment\n\n\nBlueprinting\n\nMap to align Syllabus with assessmentMap to align curriculum with assessmentMap to align curriculum with syllabusMap to align learning with assessment\n\n\n\nIt is a map that allign curriculum with assessment\n\nCurriculum not syllabus\nCurriculum is the defined path for the student\nWrong\nWrong\n\n\n\n\n\nIn blueprinting, the table of specifications primarily links\n\ncurriculum and teaching methodslearning objectives and assessment itemssyllabus and lesson plansstudent feedback and outcomes\n\n\n\nAssessment, assessment assessment, assessment is the curiiculum and that should align with SLO\n\n\n\n\nWhich of the following is a key step in creating a blueprint?\n\nPreparing the student feedback formDefining learning objectives and weightage of topicsSelecting high-scoring studentsRandomly generating test items\n\n\n\nKey step is to identify the importance and frequency\n\n\n\n\nBlueprinting helps ensure that assessments are\n\nValid and reliableFocused only on recallRandomly constructedBased on teacher preference\n\n\n\nCheck for the attributes of assessment\n\n\n\n\nBlueprinting aims to reduce\n\nconstruct under-representationconstruct irrelevance varianceconstruct representation varianceconstruct under-variance\n\n\n\nReduce biased sampling of the content domain or the course contents and tendency to test favorite, or hot or trivial topics.",
     "crumbs": [
       "Home",
       "Medical Education",

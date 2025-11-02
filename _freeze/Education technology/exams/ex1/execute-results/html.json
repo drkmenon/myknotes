@@ -1,8 +1,8 @@
 {
-  "hash": "6ec5fc9018a7bd27d13bb318832b633e",
+  "hash": "c23a16763a96c6ec9be1b8541770b699",
   "result": {
     "engine": "knitr",
-    "markdown": "Question\n========\nBlueprinting\n\nAnswerlist\n-----------\n* Map to align Syllabus with assessment  \n* Map to align curriculum with assessment  \n* Map to align curriculum with syllabus  \n* Map to align learning with assessment  \n\nSolution\n========\nIt is a map that allign curriculum with assessment\n\nMeta-information\n================\nexname: ex1\nextype: schoice\nexsolution:0100\nexpoints: 1",
+    "markdown": "Question\n========\nBlueprinting\n\nAnswerlist\n-----------\n* Map to align Syllabus with assessment  \n* Map to align curriculum with assessment  \n* Map to align curriculum with syllabus  \n* Map to align learning with assessment  \n\nSolution\n========\nIt is a map that allign curriculum with assessment\nAnswerlist\n----------\n* Curriculum not syllabus\n* Curriculum is the defined path for the student\n* Wrong\n* Wrong\n\nMeta-information\n================\nexname: ex1\nextype: schoice\nexsolution:0100\nexpoints: 1\nexfeedback: TRUE",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

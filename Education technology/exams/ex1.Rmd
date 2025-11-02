@@ -13,9 +13,17 @@ Solution
 ========
 It is a map that allign curriculum with assessment
 
+Answerlist
+----------
+* Curriculum not syllabus
+* Curriculum is the defined path for the student
+* Wrong
+* Wrong
+
 Meta-information
 ================
 exname: ex1
 extype: schoice
 exsolution:0100
 expoints: 1
+exfeedback: TRUE
