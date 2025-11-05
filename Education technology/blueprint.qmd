@@ -3,8 +3,7 @@ title: "Blueprinting"
 format: html
 author:
   name: "Kishore Puthezhath F.R.C.S (Tr & Orth), F.A.C.S"
-  affiliation: "Professor of Orthopaedics"
-  
+  #affiliation: "Professor of Orthopaedics"
 date: "2025-10-28"
 editor: visual
 order: 2
@@ -18,6 +17,14 @@ filters:
 library(exams)
 library(exams2forms)
 ```
+
+## TL;DR
+
+<audio controls>
+
+<source src="audio/blueprnt.mp3" >
+
+</audio>
 
 ## Why blueprinting?
 
