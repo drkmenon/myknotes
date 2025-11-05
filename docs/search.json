@@ -12987,6 +12987,19 @@
     ]
   },
   {
+    "objectID": "Education technology/upload.html#tldr",
+    "href": "Education technology/upload.html#tldr",
+    "title": "Upload questions to moodle",
+    "section": "",
+    "text": "Learning objectives\n\n\n\n\nLearn how to create Moodle ready questions\nHow to bulk upload questions to moodle",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Upload questions to moodle"
+    ]
+  },
+  {
     "objectID": "Education technology/upload.html#motivation",
     "href": "Education technology/upload.html#motivation",
     "title": "Upload questions to moodle",
@@ -13043,7 +13056,7 @@
     "href": "Education technology/upload.html#gift",
     "title": "Upload questions to moodle",
     "section": "GIFT",
-    "text": "GIFT\nQuestions can be created in textedit or notepad2\n\n\nMCQ\n::Q_01\n::The question text goes here\n{ =Correct Answer\n~Distractor1\n~Distractor2\n~Distractor3 }\n\n\nMCQ with multiple right answers\n::Q_02\n::The question text goes here\n{ ~%-100%Correct Answer\n~%50%Distractor1\n~%50%Distractor2\n~%-100%Distractor3 }\n\n\nTrue or False\n::Q_03\n::The questions text goes here\n{T}\n\n\nShort Answer type questions\n::Q_04\n::Question text goes here\n{=Version 1 of Correct Answer =Version 2 of Correct Answer =Version 3 of Correct Answer}\n\n\nMatching type questions\n::Q_05\n::Match the predator to their preferred food.\n{ =Wolf -&gt;Deer\n=Eagle -&gt;Fish\n=Bunny -&gt;Vegetables\n=Opossum -&gt;Insects }\n\n\nSelect Missing Words type questions\n::Q_06\n::Hate is a form of {~objective =subjective ~reactive} involvement by which one is bound to the hated\n\n\nNumerical type questions\n::Q_07\n::What year was Gengis Khan born?\n{# =1162:0 =%50%1822:2 }\n\n\nEssay type questions\nNote that this type of question requires the teacher to manually mark the submission.\n::Q_08\n::Write a brief self-introduction as though it were a Marvel origin story. {}\n\n\nGood Things to Be Aware Of\n\nQuestion Name\nWhere no question name is specified, the entire question is used as the question name by default.\n\n\nFeedback\nFeedback can be included for each answer. To add feedback, follow an answer with the number sign/hash mark, and then the feedback text.\n::Q_02\n::What colour is the sky?\n{ ~%-100%Yellow comment on wrong answer 1 goes here\n~%50%Blue comment on correct answer 1 goes here\n~%50%Black comment on correct answer 2 goes here\n~%-100%Green comment on wrong answer 2 goes here }",
+    "text": "GIFT\nQuestions can be created in textedit or notepad2\n\n\nMCQ\n::Q_01\n::The question text goes here\n{ =Correct Answer\n~Distractor1\n~Distractor2\n~Distractor3 }\n\n\nMCQ with multiple right answers\n::Q_02\n::The question text goes here\n{ ~%-100%Correct Answer\n~%50%Distractor1\n~%50%Distractor2\n~%-100%Distractor3 }\n\n\nTrue or False\n::Q_03\n::The questions text goes here\n{T}\n\n\nShort Answer type questions\n::Q_04\n::Question text goes here\n{=Version 1 of Correct Answer =Version 2 of Correct Answer =Version 3 of Correct Answer}\n\n\nMatching type questions\n::Q_05\n::Match the predator to their preferred food.\n{ =Wolf -&gt;Deer\n=Eagle -&gt;Fish\n=Bunny -&gt;Vegetables\n=Opossum -&gt;Insects }\n\n\nSelect Missing Words type questions\n::Q_06\n::Hate is a form of {~objective =subjective ~reactive} involvement by which one is bound to the hated\n\n\nNumerical type questions\n::Q_07\n::What year was Gengis Khan born?\n{# =1162:0 =%50%1822:2 }\n\n\nEssay type questions\nNote that this type of question requires the teacher to manually mark the submission.\n::Q_08\n::Write a brief self-introduction as though it were a Marvel origin story. {}\n\n\nGood Things to Be Aware Of\n\nQuestion Name\nWhere no question name is specified, the entire question is used as the question name by default.\n\n\nFeedback\nFeedback can be included for each answer. To add feedback, follow an answer with the number sign/hash mark, and then the feedback text.\n::Q_02\n::What colour is the sky?\n{ ~%-100% # Yellow comment on wrong answer 1 goes here\n~%50% # Blue comment on correct answer 1 goes here\n~%50% # Black comment on correct answer 2 goes here\n~%-100% # Green comment on wrong answer 2 goes here }",
     "crumbs": [
       "Home",
       "Medical Education",

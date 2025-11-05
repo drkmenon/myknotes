@@ -7,6 +7,14 @@ filters:
   - quizdown
 ---
 
+## TL;DR
+
+<audio controls>
+
+<source src="audio/qb.mp3" >
+
+</audio>
+
 ::: callout-note
 ## Learning objectives
 
@@ -136,10 +144,10 @@ Where no question name is specified, the entire question is used as the question
 Feedback can be included for each answer. To add feedback, follow an answer with the number sign/hash mark, and then the feedback text.\
 ::Q_02\
 ::What colour is the sky?\
-{ \~%-100%Yellow comment on wrong answer 1 goes here\
-\~%50%Blue comment on correct answer 1 goes here\
-\~%50%Black comment on correct answer 2 goes here\
-\~%-100%Green comment on wrong answer 2 goes here }
+{ \~%-100% \# Yellow comment on wrong answer 1 goes here\
+\~%50% \# Blue comment on correct answer 1 goes here\
+\~%50% \# Black comment on correct answer 2 goes here\
+\~%-100% \# Green comment on wrong answer 2 goes here }
 
 ## Quick workaround for MCQ
 
