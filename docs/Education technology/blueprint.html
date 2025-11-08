@@ -114,6 +114,35 @@ cookieconsent.run({
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6654317637230610" crossorigin="anonymous"></script>
 
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../webex.css">
 <meta property="og:title" content="Blueprinting – knotes">
@@ -3248,7 +3277,11 @@ cookieconsent.run({
   <li><a href="#attributes-of-assessment" id="toc-attributes-of-assessment" class="nav-link" data-scroll-target="#attributes-of-assessment">Attributes of assessment</a></li>
   <li><a href="#how-to-blueprint-an-assessment" id="toc-how-to-blueprint-an-assessment" class="nav-link" data-scroll-target="#how-to-blueprint-an-assessment">How to blueprint an assessment?</a>
   <ul class="collapse">
-  <li><a href="#find-out-and-select-5-competencies" id="toc-find-out-and-select-5-competencies" class="nav-link" data-scroll-target="#find-out-and-select-5-competencies">Find out and select 5 competencies</a></li>
+  <li><a href="#importance-and-frequency" id="toc-importance-and-frequency" class="nav-link" data-scroll-target="#importance-and-frequency">Importance and Frequency</a></li>
+  <li><a href="#marks-factor" id="toc-marks-factor" class="nav-link" data-scroll-target="#marks-factor">Marks Factor</a></li>
+  <li><a href="#deciding-the-marks-for-the-question" id="toc-deciding-the-marks-for-the-question" class="nav-link" data-scroll-target="#deciding-the-marks-for-the-question">Deciding the marks for the question</a></li>
+  <li><a href="#assigning-difficulty-level" id="toc-assigning-difficulty-level" class="nav-link" data-scroll-target="#assigning-difficulty-level">Assigning difficulty level</a></li>
+  <li><a href="#do-it-yourself" id="toc-do-it-yourself" class="nav-link" data-scroll-target="#do-it-yourself">Do it yourself</a></li>
   <li><a href="#open-a-spreadsheet" id="toc-open-a-spreadsheet" class="nav-link" data-scroll-target="#open-a-spreadsheet">Open a spreadsheet</a></li>
   </ul></li>
   <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self assessment</a></li>
@@ -3370,7 +3403,7 @@ Learning Objectives
 </section>
 <section id="definition" class="level2">
 <h2 class="anchored" data-anchor-id="definition">Definition</h2>
-<p>Blueprint is a <select class="webex-select" id="webex-2f85a5579a2ae685f26fb78597b5495e" data-answer="aVcUBTw="><option value="blank"></option><option>map</option><option>compass</option></select> and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.</p>
+<p>Blueprint is a <select class="webex-select" id="webex-f67b0b7b2949126e1d455ff32fdb8b79" data-answer="PQcbUm0="><option value="blank"></option><option>map</option><option>compass</option></select> and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.</p>
 <p>In general, the aim of the blueprinting is to reduce the two major threats to validity:</p>
 <p>construct under-representation (CU), and</p>
 <p>construct irrelevance variance (CIV).</p>
@@ -3400,8 +3433,32 @@ Learning Objectives
 </section>
 <section id="how-to-blueprint-an-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-blueprint-an-assessment">How to blueprint an assessment?</h2>
-<section id="find-out-and-select-5-competencies" class="level3">
-<h3 class="anchored" data-anchor-id="find-out-and-select-5-competencies">Find out and select 5 competencies</h3>
+<p>Below is a sample blueprint of 6 competencies of MBBS curriculum. First column is the list of topics with the competency number. That is followed by:</p>
+<p><img src="images/clipboard-2157064398.png" class="img-fluid"></p>
+<section id="importance-and-frequency" class="level3">
+<h3 class="anchored" data-anchor-id="importance-and-frequency">Importance and Frequency</h3>
+<p>They are the most crucial variable in the blueprint. We define them subjectively on a predefined scale (say, of 10). It could be compared to VAS for pain. Ideally all faculty in the department should sit together and decide on the values to be entered.</p>
+<p>Importance and Frequency in each raw is multiplied to get <strong>IF.</strong></p>
+<p>e.g.: For the first topic, Importance is 4 and frequency is 2. So the <strong>I F</strong> is 8. For the entire subject, we get the total <strong>I F</strong> by adding all the values together in that column. Here it is 190.</p>
+</section>
+<section id="marks-factor" class="level3">
+<h3 class="anchored" data-anchor-id="marks-factor">Marks Factor</h3>
+<p>The whole exercise is to get the marks factor for each topic. <span class="math inline">\(I F / Total I F\)</span> is the simple formula to get marks factor. In our e.g., for the first topic,</p>
+<p>Marks factor =<span class="math inline">\(8/190=0.0421\)</span></p>
+<p>We round that figure to 2 decimal places that is 0.04</p>
+</section>
+<section id="deciding-the-marks-for-the-question" class="level3">
+<h3 class="anchored" data-anchor-id="deciding-the-marks-for-the-question">Deciding the marks for the question</h3>
+<p>Assume that we are going to conduct an exam for 100 marks. <span class="math inline">\(Marks Factor X 100\)</span> gives the marks we are supposed to assign for each topic.</p>
+<p>In our example, it is <span class="math inline">\(0.04 X 100 = 4\)</span>. So the first topic should be assigned 4 marks in the question paper.</p>
+</section>
+<section id="assigning-difficulty-level" class="level3">
+<h3 class="anchored" data-anchor-id="assigning-difficulty-level">Assigning difficulty level</h3>
+<p>Now that we have decided on the marks, each question can be sub divided based on <a href="https://tips.uark.edu/using-blooms-taxonomy/">Blooms taxonomy</a> (from <strong>remembering</strong> to <strong>creating</strong>). In our example we have used only first 3 levels of learning.</p>
+<p><img src="images/clipboard-2104776453.png" class="img-fluid"></p>
+</section>
+<section id="do-it-yourself" class="level3">
+<h3 class="anchored" data-anchor-id="do-it-yourself">Do it yourself</h3>
 <p>NMC has published the UG curriculum. <a href="https://www.nmc.org.in/information-desk/for-colleges/ug-curriculum/">Go to the NMC website</a>, select the appropriate volume and select top 5 competencies from your subject.</p>
 </section>
 <section id="open-a-spreadsheet" class="level3">
@@ -3415,8 +3472,8 @@ Learning Objectives
 <div class="webex-question">
 <div class="webex-check webex-box">
 <p>Blueprinting</p>
-<div id="webex-c7d402631aae69b3c8852a0f2eddfe51" class="webex-radiogroup" data-answer="OAdIBRwCGgNs">
-<label><input type="radio" autocomplete="off" name="c7d402631aae69b3c8852a0f2eddfe51"><span>Map to align Syllabus with assessment</span></label><label><input type="radio" autocomplete="off" name="c7d402631aae69b3c8852a0f2eddfe51"><span>Map to align curriculum with assessment</span></label><label><input type="radio" autocomplete="off" name="c7d402631aae69b3c8852a0f2eddfe51"><span>Map to align curriculum with syllabus</span></label><label><input type="radio" autocomplete="off" name="c7d402631aae69b3c8852a0f2eddfe51"><span>Map to align learning with assessment</span></label>
+<div id="webex-bd7a28cfd526233a157b616f973afb01" class="webex-radiogroup" data-answer="OVQbUB4IT1Y5">
+<label><input type="radio" autocomplete="off" name="bd7a28cfd526233a157b616f973afb01"><span>Map to align Syllabus with assessment</span></label><label><input type="radio" autocomplete="off" name="bd7a28cfd526233a157b616f973afb01"><span>Map to align curriculum with assessment</span></label><label><input type="radio" autocomplete="off" name="bd7a28cfd526233a157b616f973afb01"><span>Map to align curriculum with syllabus</span></label><label><input type="radio" autocomplete="off" name="bd7a28cfd526233a157b616f973afb01"><span>Map to align learning with assessment</span></label>
 </div>
 </div>
 <div class="webex-solution">
@@ -3432,8 +3489,8 @@ Learning Objectives
 <div class="webex-question">
 <div class="webex-check webex-box">
 <p>In blueprinting, the table of specifications primarily links</p>
-<div id="webex-abe64a0f78bc920c932d4fb23ad12fc3" class="webex-radiogroup" data-answer="OlJJBxhRHFZq">
-<label><input type="radio" autocomplete="off" name="abe64a0f78bc920c932d4fb23ad12fc3"><span>curriculum and teaching methods</span></label><label><input type="radio" autocomplete="off" name="abe64a0f78bc920c932d4fb23ad12fc3"><span>learning objectives and assessment items</span></label><label><input type="radio" autocomplete="off" name="abe64a0f78bc920c932d4fb23ad12fc3"><span>syllabus and lesson plans</span></label><label><input type="radio" autocomplete="off" name="abe64a0f78bc920c932d4fb23ad12fc3"><span>student feedback and outcomes</span></label>
+<div id="webex-72a567949796ed258672f6a5210e6e04" class="webex-radiogroup" data-answer="bAJNBBoHFQRk">
+<label><input type="radio" autocomplete="off" name="72a567949796ed258672f6a5210e6e04"><span>curriculum and teaching methods</span></label><label><input type="radio" autocomplete="off" name="72a567949796ed258672f6a5210e6e04"><span>learning objectives and assessment items</span></label><label><input type="radio" autocomplete="off" name="72a567949796ed258672f6a5210e6e04"><span>syllabus and lesson plans</span></label><label><input type="radio" autocomplete="off" name="72a567949796ed258672f6a5210e6e04"><span>student feedback and outcomes</span></label>
 </div>
 </div>
 <div class="webex-solution">
@@ -3443,8 +3500,8 @@ Learning Objectives
 <div class="webex-question">
 <div class="webex-check webex-box">
 <p>Which of the following is a key step in creating a blueprint?</p>
-<div id="webex-e63377cbbfd9e6447d28775477032d59" class="webex-radiogroup" data-answer="PgYfAhsHT1I/">
-<label><input type="radio" autocomplete="off" name="e63377cbbfd9e6447d28775477032d59"><span>Preparing the student feedback form</span></label><label><input type="radio" autocomplete="off" name="e63377cbbfd9e6447d28775477032d59"><span>Defining learning objectives and weightage of topics</span></label><label><input type="radio" autocomplete="off" name="e63377cbbfd9e6447d28775477032d59"><span>Selecting high-scoring students</span></label><label><input type="radio" autocomplete="off" name="e63377cbbfd9e6447d28775477032d59"><span>Randomly generating test items</span></label>
+<div id="webex-f0d966499565ffe608f5ec0ed64fb470" class="webex-radiogroup" data-answer="PQBICBoGGAlk">
+<label><input type="radio" autocomplete="off" name="f0d966499565ffe608f5ec0ed64fb470"><span>Preparing the student feedback form</span></label><label><input type="radio" autocomplete="off" name="f0d966499565ffe608f5ec0ed64fb470"><span>Defining learning objectives and weightage of topics</span></label><label><input type="radio" autocomplete="off" name="f0d966499565ffe608f5ec0ed64fb470"><span>Selecting high-scoring students</span></label><label><input type="radio" autocomplete="off" name="f0d966499565ffe608f5ec0ed64fb470"><span>Randomly generating test items</span></label>
 </div>
 </div>
 <div class="webex-solution">
@@ -3454,8 +3511,8 @@ Learning Objectives
 <div class="webex-question">
 <div class="webex-check webex-box">
 <p>Blueprinting helps ensure that assessments are</p>
-<div id="webex-fcf267cd84a41fcf2cb5d3478b3a33fc" class="webex-radiogroup" data-answer="PVJKAhoHT1Rl">
-<label><input type="radio" autocomplete="off" name="fcf267cd84a41fcf2cb5d3478b3a33fc"><span>Valid and reliable</span></label><label><input type="radio" autocomplete="off" name="fcf267cd84a41fcf2cb5d3478b3a33fc"><span>Focused only on recall</span></label><label><input type="radio" autocomplete="off" name="fcf267cd84a41fcf2cb5d3478b3a33fc"><span>Randomly constructed</span></label><label><input type="radio" autocomplete="off" name="fcf267cd84a41fcf2cb5d3478b3a33fc"><span>Based on teacher preference</span></label>
+<div id="webex-63e8167b78009d2ff55322d0e9ce4730" class="webex-radiogroup" data-answer="bQJJCB0GG1Jq">
+<label><input type="radio" autocomplete="off" name="63e8167b78009d2ff55322d0e9ce4730"><span>Valid and reliable</span></label><label><input type="radio" autocomplete="off" name="63e8167b78009d2ff55322d0e9ce4730"><span>Focused only on recall</span></label><label><input type="radio" autocomplete="off" name="63e8167b78009d2ff55322d0e9ce4730"><span>Randomly constructed</span></label><label><input type="radio" autocomplete="off" name="63e8167b78009d2ff55322d0e9ce4730"><span>Based on teacher preference</span></label>
 </div>
 </div>
 <div class="webex-solution">
@@ -3465,8 +3522,8 @@ Learning Objectives
 <div class="webex-question">
 <div class="webex-check webex-box">
 <p>Blueprinting aims to reduce</p>
-<div id="webex-5cece6cb693cc05d24c03736e4c657ab" class="webex-checkboxgroup" data-answer="blJJUkkGT1Jr">
-<label><input type="checkbox" autocomplete="off" name="5cece6cb693cc05d24c03736e4c657ab"><span>construct under-representation</span></label><label><input type="checkbox" autocomplete="off" name="5cece6cb693cc05d24c03736e4c657ab"><span>construct irrelevance variance</span></label><label><input type="checkbox" autocomplete="off" name="5cece6cb693cc05d24c03736e4c657ab"><span>construct representation variance</span></label><label><input type="checkbox" autocomplete="off" name="5cece6cb693cc05d24c03736e4c657ab"><span>construct under-variance</span></label>
+<div id="webex-19c33224d84557354cebe1eb203707ca" class="webex-checkboxgroup" data-answer="aghPAh8CHgQ5">
+<label><input type="checkbox" autocomplete="off" name="19c33224d84557354cebe1eb203707ca"><span>construct under-representation</span></label><label><input type="checkbox" autocomplete="off" name="19c33224d84557354cebe1eb203707ca"><span>construct irrelevance variance</span></label><label><input type="checkbox" autocomplete="off" name="19c33224d84557354cebe1eb203707ca"><span>construct representation variance</span></label><label><input type="checkbox" autocomplete="off" name="19c33224d84557354cebe1eb203707ca"><span>construct under-variance</span></label>
 </div>
 </div>
 <div class="webex-solution">

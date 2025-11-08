@@ -120,7 +120,39 @@ CIV is a systematic error introduced into assessment data by the unrelated varia
 
 ## How to blueprint an assessment?
 
-### Find out and select 5 competencies
+Below is a sample blueprint of 6 competencies of MBBS curriculum. First column is the list of topics with the competency number. That is followed by:
+
+![](images/clipboard-2157064398.png)
+
+### Importance and Frequency
+
+They are the most crucial variable in the blueprint. We define them subjectively on a predefined scale (say, of 10). It could be compared to VAS for pain. Ideally all faculty in the department should sit together and decide on the values to be entered.
+
+Importance and Frequency in each raw is multiplied to get **IF.**
+
+e.g.: For the first topic, Importance is 4 and frequency is 2. So the **I F** is 8. For the entire subject, we get the total **I F** by adding all the values together in that column. Here it is 190.
+
+### Marks Factor
+
+The whole exercise is to get the marks factor for each topic. $I F / Total I F$ is the simple formula to get marks factor. In our e.g., for the first topic,
+
+Marks factor is $8/190=0.0421$.
+
+We round that figure to 2 decimal places, i.e., 0.04.
+
+### Deciding the marks for the question
+
+Assume that we are going to conduct an exam for 100 marks. $Marks Factor X 100$ gives the marks we are supposed to assign for each topic.
+
+In our example, it is $0.04 X 100 = 4$. So the first topic should be assigned 4 marks in the question paper.
+
+### Assigning difficulty level
+
+Now that we have decided on the marks, each question can be sub divided based on [Blooms taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) (from **remembering** to **creating**). In our example we have used only first 3 levels of learning.
+
+![](images/clipboard-2104776453.png)
+
+### Do it yourself
 
 NMC has published the UG curriculum. [Go to the NMC website](https://www.nmc.org.in/information-desk/for-colleges/ug-curriculum/), select the appropriate volume and select top 5 competencies from your subject.
 
