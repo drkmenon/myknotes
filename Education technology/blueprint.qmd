@@ -148,6 +148,8 @@ In our example, it is $0.04 X 100 = 4$. So the first topic should be assigned 4 
 
 ### Assigning difficulty level
 
+![](images/clipboard-3198254915.png){width="423"}
+
 Now that we have decided on the marks, each question can be sub divided based on [Blooms taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) (from **remembering** to **creating**). In our example we have used only first 3 levels of learning.
 
 ![](images/clipboard-2104776453.png)
