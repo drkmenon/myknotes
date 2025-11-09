@@ -1,0 +1,22 @@
+Question
+====
+What is the typical resting membrane potential of a neuron?
+
+Answerlist
+----
+* -70 mV
+* -55 mV
+* +30 mV
+* -90 mV
+* 0 mV
+
+Solution
+====
+The neuron maintains a resting potential of about -70 mV due to selective ion permeability and active transport by the sodium-potassium ATPase pump.
+
+Meta-information
+====
+extype: schoice
+exsolution:10000
+exname: Resting_Membrane_Potential
+

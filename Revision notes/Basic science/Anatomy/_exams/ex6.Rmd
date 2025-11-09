@@ -1,0 +1,23 @@
+Question
+====
+Which of the following is first recruited during voluntary muscle contraction?
+
+Answerlist
+----
+* Type I fibers
+* Type IIA fibers
+* Type IIB fibers
+* All simultaneously
+* Fast glycolytic units
+
+Solution
+====
+According to Henneman’s size principle, smaller Type I motor units are recruited first because they require less neural input and provide fine, fatigue-resistant control.
+
+Meta-information
+====
+extype: schoice
+exsolution:10000
+exname: Recruitment_Order
+
+

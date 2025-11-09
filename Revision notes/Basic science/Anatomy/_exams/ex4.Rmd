@@ -1,0 +1,22 @@
+Question
+====
+Which energy system primarily supports a 30-second sprint?
+
+Answerlist
+----
+* ATP-CP system
+* Anaerobic glycolysis
+* Aerobic oxidation
+* Fatty acid oxidation
+* Creatine rephosphorylation
+
+Solution
+====
+Anaerobic glycolysis is the dominant energy system during activities lasting 20–120 seconds, providing rapid ATP through glucose breakdown without oxygen.
+
+Meta-information
+====
+extype: schoice
+exsolution:01000
+exname: Sprint_Energy_System
+

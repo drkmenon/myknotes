@@ -1,6 +1,6 @@
 ---
 title: "Cartilage"
-order: 3
+order: 2
 ---
 
 ### **Composition of Articular Cartilage**

@@ -1,0 +1,22 @@
+Question
+====
+Which of the following structures shortens during skeletal muscle contraction?
+
+Answerlist
+----
+* I band
+* A band
+* H zone
+* Z line
+* M line
+
+Solution
+====
+During contraction, the I band and H zone shorten due to increased overlap between actin and myosin filaments, while the A band remains constant in length.
+
+Meta-information
+====
+extype: mchoice
+exsolution:10100
+exname: Skeletal_Muscle_Shortening
+

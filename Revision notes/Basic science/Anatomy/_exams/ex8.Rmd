@@ -1,0 +1,23 @@
+Question
+====
+Which EMG finding is most consistent with axonotmesis?
+
+Answerlist
+----
+* No spontaneous activity
+* Positive sharp waves and fibrillations
+* Fasciculations only
+* Normal recruitment
+* Myokymic discharges only
+
+Solution
+====
+Axonotmesis causes denervation of muscle fibers, leading to fibrillations and positive sharp waves on EMG due to spontaneous activity in affected fibers.
+
+Meta-information
+====
+extype: schoice
+exsolution:01000
+exname: EMG_Axonotmesis
+
+

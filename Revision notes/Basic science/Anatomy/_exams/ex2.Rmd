@@ -1,0 +1,23 @@
+Question
+====
+Which protein binds calcium to initiate the sliding filament mechanism?
+
+Answerlist
+----
+* Tropomyosin
+* Troponin
+* Actin
+* Myosin
+* Dystrophin
+
+Solution
+====
+Calcium binds to troponin, which triggers a conformational change that moves tropomyosin, exposing actin binding sites for myosin attachment.
+
+Meta-information
+====
+extype: schoice
+exsolution:01000
+exname: Calcium_Binding_Protein
+
+

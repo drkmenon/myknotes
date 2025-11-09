@@ -1,0 +1,23 @@
+Question
+====
+Which muscle fiber type is most resistant to fatigue?
+
+Answerlist
+----
+* Type I
+* Type IIA
+* Type IIB
+* Fast glycolytic
+* Type IIx
+
+Solution
+====
+Type I fibers are slow-twitch, rich in mitochondria and myoglobin, and rely on aerobic metabolism, making them highly resistant to fatigue.
+
+Meta-information
+====
+extype: schoice
+exsolution:10000
+exname: Fatigue_Resistant_Fibers
+
+

@@ -9462,8 +9462,8 @@
     "objectID": "Revision notes/Basic science/Anatomy/basics.html#skeletal-muscle",
     "href": "Revision notes/Basic science/Anatomy/basics.html#skeletal-muscle",
     "title": "Basic Biology",
-    "section": "",
-    "text": "Skeletal muscle can be classified structurally as either pennate or non-pennate.\nPennate muscles may be unipennate, bipennate, or multipennate, depending on the orientation of muscle fibers relative to the tendon.\nThe internal structure of skeletal muscle reveals important landmarks such as the Z line, M line, H zone, A band, and I band. These features are crucial to understanding the contractile mechanics of muscle fibers.\nUnder electron microscopy, the alternating I and A bands become prominent. The thick filaments are composed of myosin, while the thin filaments are made of actin. Myosin and actin are essential for the sliding filament mechanism of muscle contraction.",
+    "section": "Skeletal Muscle",
+    "text": "Skeletal Muscle\n\nStructural Classification\nSkeletal muscles are structurally classified as pennate or non-pennate.\n\nPennate muscles are further divided into:\n\nUnipennate\nBipennate\nMultipennate\n\n\nThis classification is based on the orientation of muscle fibers relative to the tendon.\n\n\nInternal Structure\nUnder microscopy, skeletal muscle shows several landmarks:\n\nZ line\nM line\nH zone\nA band\nI band\n\nThese structures are essential for understanding the contractile mechanics of muscle fibers.\nIn electron microscopy, alternating I and A bands are visible.\n- Thick filaments contain myosin.\n- Thin filaments contain actin.\nTogether, myosin and actin form the basis of the sliding filament mechanism of muscle contraction.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9478,7 +9478,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#muscle-contraction",
     "title": "Basic Biology",
     "section": "Muscle Contraction",
-    "text": "Muscle Contraction\nAccording to the sliding filament theory, muscle contraction begins when nerve impulses travel to the neuromuscular junction. Acetylcholine (Ach) is released and crosses the synapse, binding to receptors on the muscle membrane. This event triggers the release of calcium ions from the sarcoplasmic reticulum. Calcium then binds to troponin, causing a conformational change in tropomyosin.\nThis change exposes binding sites on actin, allowing myosin heads to attach and form cross-bridges, a process that requires ATP.\nDuring contraction, the sarcomere shortens. The A band remains the same length, but the I band and H zone become narrower. These changes reflect the overlapping of actin and myosin filaments as contraction progresses.",
+    "text": "Muscle Contraction\nAccording to the Sliding Filament Theory, contraction begins when a nerve impulse reaches the neuromuscular junction.\n\nAcetylcholine (ACh) is released into the synapse.\n\nIt binds to receptors on the muscle membrane.\n\nThis triggers calcium release from the sarcoplasmic reticulum.\n\nCalcium binds to troponin, shifting tropomyosin and exposing actin binding sites.\n\nMyosin heads attach to actin, forming cross-bridges using ATP.\n\nDuring contraction: - The sarcomere shortens.\n- The A band remains constant.\n- The I band and H zone narrow as actin and myosin overlap.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9493,7 +9493,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#energetics-of-muscle",
     "title": "Basic Biology",
     "section": "Energetics of Muscle",
-    "text": "Energetics of Muscle\nATP is essential for muscle contraction. The body relies on three main energy systems to generate ATP. The ATP-CP (creatine phosphate) system provides energy for very short bursts (up to 20 seconds). The anaerobic or lactic acid system dominates in efforts lasting between 20 to 120 seconds, while the aerobic system takes over during sustained activity beyond two minutes.",
+    "text": "Energetics of Muscle\nATP is the primary energy source for muscle contraction.\nThe body generates ATP through three energy systems:\n\n\n\n\n\n\n\n\nSystem\nDuration\nDescription\n\n\n\n\nATP-CP (Creatine Phosphate)\nUp to 20 seconds\nImmediate energy source\n\n\nAnaerobic (Lactic Acid) System\n20–120 seconds\nModerate duration, no oxygen required\n\n\nAerobic System\nBeyond 2 minutes\nSustained activity using oxygen",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9508,7 +9508,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#muscle-fiber-types",
     "title": "Basic Biology",
     "section": "Muscle Fiber Types",
-    "text": "Muscle Fiber Types\nSkeletal muscle fibers can be categorized based on their speed of contraction, resistance to fatigue, and metabolic profile. Type I fibers, also known as red or slow-twitch fibers, contract slowly and are highly resistant to fatigue. They have a high aerobic capacity but low anaerobic capacity and are usually found in smaller motor units.\nType IIA fibers are fast-twitch oxidative fibers. These have a higher contraction speed and strength compared to Type I fibers, and they possess moderate resistance to fatigue. They are metabolically versatile, relying on both aerobic and anaerobic pathways.\nType IIB fibers are fast glycolytic fibers. These contract rapidly with high force but fatigue quickly. They have low aerobic capacity and high anaerobic capacity, and they are part of the largest motor units.\nDuring high-intensity efforts, Type II fibers are recruited first, followed by Type I fibers for endurance or sustained activity.",
+    "text": "Muscle Fiber Types\nMuscle fibers differ in contraction speed, fatigue resistance, and metabolism.\n\n\n\n\n\n\n\n\n\n\n\nFiber Type\nColor\nSpeed\nFatigue Resistance\nMetabolism\nMotor Unit Size\n\n\n\n\nType I (Slow-twitch, Red)\nRed\nSlow\nHigh\nAerobic\nSmall\n\n\nType IIA (Fast-twitch Oxidative)\nPink\nFast\nModerate\nAerobic & Anaerobic\nMedium\n\n\nType IIB (Fast Glycolytic)\nWhite\nVery Fast\nLow\nAnaerobic\nLarge\n\n\n\nRecruitment order: Type II fibers are activated first during high-intensity effort, followed by Type I fibers for endurance.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9523,7 +9523,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#muscle-contractions",
     "title": "Basic Biology",
     "section": "Muscle Contractions",
-    "text": "Muscle Contractions\nMuscle contractions are classified into three types. Isometric contraction occurs when muscle length remains unchanged despite tension. Isotonic contraction involves a change in muscle length, and is further divided into concentric (muscle shortening) and eccentric (muscle lengthening) contractions. Isokinetic contraction refers to muscle action performed at a constant speed, typically using specialized equipment.",
+    "text": "Muscle Contractions\nMuscle contractions are classified as:\n\nIsometric – Tension without change in length.\n\nIsotonic – Change in length:\n\nConcentric: Muscle shortens.\n\nEccentric: Muscle lengthens.\n\n\nIsokinetic – Constant speed contraction (using special equipment).",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9538,7 +9538,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#peripheral-nerve-structure-and-function",
     "title": "Basic Biology",
     "section": "Peripheral Nerve Structure and Function",
-    "text": "Peripheral Nerve Structure and Function\nPeripheral nerves include afferent (sensory), efferent (motor), and sympathetic components. The basic unit of nerve structure involves myelinated and unmyelinated fibers, with the nodes of Ranvier playing a critical role in saltatory conduction and nutritional exchange.\nNerve fibers are categorized based on diameter, myelination, and conduction speed. Type A fibers are large, heavily myelinated, and conduct rapidly; they are involved in touch and proprioception. Type B fibers are smaller with intermediate myelination and conduction speed, typically serving autonomic functions. Type C fibers are unmyelinated, small-diameter fibers that conduct slowly and mediate pain.",
+    "text": "Peripheral Nerve Structure and Function\nPeripheral nerves contain afferent (sensory), efferent (motor), and sympathetic fibers.\n\nStructure\n\nMyelinated and unmyelinated fibers are present.\n\nNodes of Ranvier facilitate saltatory conduction and nutrient exchange.\n\n\n\nFiber Classification\n\n\n\n\n\n\n\n\n\n\nFiber Type\nDiameter\nMyelination\nSpeed\nFunction\n\n\n\n\nType A\nLarge\nHeavy\nFast\nTouch, proprioception\n\n\nType B\nMedium\nIntermediate\nModerate\nAutonomic\n\n\nType C\nSmall\nNone\nSlow\nPain",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9568,7 +9568,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#nerve-injuries",
     "title": "Basic Biology",
     "section": "Nerve Injuries",
-    "text": "Nerve Injuries\nNerve injuries may result from compression, stretching, or laceration. They are classified using the Seddon and Sunderland systems.\nNeuropraxia (Sunderland I) involves temporary disruption of conduction without loss of axonal continuity. Axonotmesis (Sunderland II) indicates axonal disruption with preservation of surrounding structures, offering potential for good recovery. Higher grades (Sunderland III–V) involve progressive damage to the endoneurium, perineurium, and epineurium, culminating in neurotmesis (Sunderland V), where complete nerve transection occurs and recovery is poor.",
+    "text": "Nerve Injuries\nNerve injuries occur due to compression, stretch, or laceration.\n\nClassification\n\n\n\n\n\n\n\n\nType\nDescription\nRecovery\n\n\n\n\nNeuropraxia (Sunderland I)\nTemporary conduction block\nFull recovery\n\n\nAxonotmesis (Sunderland II)\nAxonal disruption, sheath intact\nGood recovery\n\n\nSunderland III–V\nProgressive sheath damage\nPoor recovery\n\n\nNeurotmesis (Sunderland V)\nComplete transection\nPoor prognosis",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9583,7 +9583,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#degeneration-and-regeneration",
     "title": "Basic Biology",
     "section": "Degeneration and Regeneration",
-    "text": "Degeneration and Regeneration\nWhen a nerve is injured, Wallerian degeneration occurs. This involves the breakdown of the distal axon and myelin within 24 hours. Macrophages clear debris over several weeks. Regeneration begins with Schwann cell proliferation forming bands of Büngner, guiding axonal sprouting at approximately 1 mm/day. Success depends on factors like neurotrophic support and correct pathfinding.\nDelayed reinnervation beyond 12–18 months may result in permanent loss of function due to motor end plate and muscle atrophy.",
+    "text": "Degeneration and Regeneration\n\nWallerian Degeneration\n\nBegins within 24 hours after injury.\n\nDistal axon and myelin break down.\n\nMacrophages clear debris.\n\n\n\nRegeneration\n\nSchwann cells proliferate and form Bands of Büngner.\n\nAxonal sprouts grow at ~1 mm/day.\n\nSuccess depends on alignment and trophic support.\n\nDelayed reinnervation (after 12–18 months) leads to irreversible muscle atrophy.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9628,7 +9628,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#tendons-and-ligaments",
     "title": "Basic Biology",
     "section": "Tendons and Ligaments",
-    "text": "Tendons and Ligaments\nTendons connect muscle to bone and may be sheathed (with vincula) or covered by paratenon (a vascular layer). They primarily consist of type I collagen, with some type III collagen and elastin. Fibroblasts are the main cellular component.\nLigaments connect bone to bone and are covered by epiligament. They also contain type I collagen but have more elastin and less uniform fiber orientation than tendons.",
+    "text": "Tendons and Ligaments\n\nTendons\n\nConnect muscle to bone.\n\nMay be sheathed (with vincula) or covered by paratenon.\n\nComposed mainly of Type I collagen, with some Type III collagen and elastin.\n\nFibroblasts are the main cells.\n\n\n\nLigaments\n\nConnect bone to bone.\n\nCovered by epiligament.\n\nContain more elastin and less uniform fiber orientation than tendons.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9643,7 +9643,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#biomechanical-properties",
     "title": "Basic Biology",
     "section": "Biomechanical Properties",
-    "text": "Biomechanical Properties\nTendons and ligaments can withstand tensional strain of 5–10% before failure. In comparison, bone tolerates only about 1–4% strain. This elasticity makes them well-suited to dynamic musculoskeletal functions.",
+    "text": "Biomechanical Properties\n\n\n\nTissue\nTolerable Strain Before Failure\n\n\n\n\nTendons & Ligaments\n5–10%\n\n\nBone\n1–4%\n\n\n\nTheir elasticity supports dynamic musculoskeletal movement.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9658,7 +9658,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#healing-of-tendons",
     "title": "Basic Biology",
     "section": "Healing of Tendons",
-    "text": "Healing of Tendons\nTendon healing proceeds through three overlapping phases: inflammation (0–5 days), proliferation (3 days to 6 weeks), and remodeling (6 weeks to 1 year). During inflammation, a hematoma forms and inflammatory cells are recruited. Fibroblasts then proliferate and begin collagen deposition, forming a fibrous bridge by the second week. Remodeling involves consolidation and maturation of collagen fibers.\nAfter surgical repair, tendons are weakest at one week, gain strength significantly by four weeks, and reach near-normal strength by six months.",
+    "text": "Healing of Tendons\nTendon healing occurs in three overlapping phases:\n\n\n\n\n\n\n\n\nPhase\nDuration\nKey Events\n\n\n\n\nInflammation\n0–5 days\nHematoma, inflammatory cell recruitment\n\n\nProliferation\n3 days – 6 weeks\nFibroblast proliferation, collagen bridge formation\n\n\nRemodeling\n6 weeks – 1 year\nCollagen maturation and alignment\n\n\n\nAfter surgical repair: - Weakest point: 1 week\n- Significant strength gain: 4 weeks\n- Near-normal strength: 6 months",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9673,7 +9673,7 @@
     "href": "Revision notes/Basic science/Anatomy/basics.html#self-assessment",
     "title": "Basic Biology",
     "section": "Self Assessment",
-    "text": "Self Assessment\nQuestion 1:\nWhich of the following structures shortens during skeletal muscle contraction?\n\nI band\n\nA band\n\nH zone\n\nZ line\n\nM line\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe I band and H zone shorten during contraction, while the A band remains the same. Z and M lines are structural anchors.\n\n\n\n\nQuestion 2:\nWhich protein binds calcium to initiate the sliding filament mechanism?\n\nTropomyosin\n\nTroponin\n\nActin\n\nMyosin\n\nDystrophin\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nTroponin binds calcium, causing a conformational shift that moves tropomyosin and exposes actin binding sites.\n\n\n\n\nQuestion 3:\nWhich muscle fiber type is most resistant to fatigue?\n\nType I\n\nType IIA\n\nType IIB\n\nFast glycolytic\n\nType IIx\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nType I (slow-twitch) fibers have high mitochondrial density and oxidative capacity, making them fatigue-resistant.\n\n\n\n\nQuestion 4:\nWhich energy system primarily supports a 30-second sprint?\n\nATP-CP system\n\nAnaerobic glycolysis\n\nAerobic oxidation\n\nFatty acid oxidation\n\nCreatine rephosphorylation\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nAnaerobic glycolysis dominates in efforts lasting 20–120 seconds, producing lactate as a by-product.\n\n\n\n\nQuestion 5:\nWhat is the typical resting membrane potential of a neuron?\n\n-70 mV\n\n-55 mV\n\n+30 mV\n\n-90 mV\n\n0 mV\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nThe resting membrane potential is approximately -70 mV, maintained by the Na⁺/K⁺ ATPase and ion gradients.\n\n\n\n\nQuestion 6:\nWhich of the following is first recruited during voluntary muscle contraction?\n\nType I fibers\n\nType IIA fibers\n\nType IIB fibers\n\nAll simultaneously\n\nFast glycolytic units\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nAccording to Henneman’s size principle, Type I (slow-twitch) fibers are recruited first.\n\n\n\n\nQuestion 7:\nWhich of the following best describes neuropraxia?\n\nConduction block without axonal loss\n\nAxonal disruption with Wallerian degeneration\n\nComplete nerve transection\n\nEndoneurial rupture\n\nMyelin loss with axonotmesis\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nNeuropraxia (Sunderland I) involves a transient block with preserved axons and full recovery expected.\n\n\n\n\nQuestion 8:\nWhich EMG finding is most consistent with axonotmesis?\n\nNo spontaneous activity\n\nPositive sharp waves and fibrillations\n\nFasciculations only\n\nNormal recruitment\n\nMyokymic discharges only\n\n\n\n\n\n\n\nAnswer\n\n\n\n\n\nFibrillations and positive sharp waves suggest denervation consistent with axonotmesis or worse.",
+    "text": "Self Assessment\n\n\nWhich of the following structures shortens during skeletal muscle contraction?\n\nI bandA bandH zoneZ lineM line\n\n\n\nDuring contraction, the I band and H zone shorten due to increased overlap between actin and myosin filaments, while the A band remains constant in length.\n\n\n\n\nWhich protein binds calcium to initiate the sliding filament mechanism?\n\nTropomyosinTroponinActinMyosinDystrophin\n\n\n\nCalcium binds to troponin, which triggers a conformational change that moves tropomyosin, exposing actin binding sites for myosin attachment.\n\n\n\n\nWhich muscle fiber type is most resistant to fatigue?\n\nType IType IIAType IIBFast glycolyticType IIx\n\n\n\nType I fibers are slow-twitch, rich in mitochondria and myoglobin, and rely on aerobic metabolism, making them highly resistant to fatigue.\n\n\n\n\nWhich energy system primarily supports a 30-second sprint?\n\nATP-CP systemAnaerobic glycolysisAerobic oxidationFatty acid oxidationCreatine rephosphorylation\n\n\n\nAnaerobic glycolysis is the dominant energy system during activities lasting 20–120 seconds, providing rapid ATP through glucose breakdown without oxygen.\n\n\n\n\nWhat is the typical resting membrane potential of a neuron?\n\n-70 mV-55 mV+30 mV-90 mV0 mV\n\n\n\nThe neuron maintains a resting potential of about -70 mV due to selective ion permeability and active transport by the sodium-potassium ATPase pump.\n\n\n\n\nWhich of the following is first recruited during voluntary muscle contraction?\n\nType I fibersType IIA fibersType IIB fibersAll simultaneouslyFast glycolytic units\n\n\n\nAccording to Henneman’s size principle, smaller Type I motor units are recruited first because they require less neural input and provide fine, fatigue-resistant control.\n\n\n\n\nWhich of the following best describes neuropraxia?\n\nConduction block without axonal lossAxonal disruption with Wallerian degenerationComplete nerve transectionEndoneurial ruptureMyelin loss with axonotmesis\n\n\n\nNeuropraxia involves a temporary conduction block due to myelin damage, but the axon remains intact, allowing full recovery within weeks.\n\n\n\n\nWhich EMG finding is most consistent with axonotmesis?\n\nNo spontaneous activityPositive sharp waves and fibrillationsFasciculations onlyNormal recruitmentMyokymic discharges only\n\n\n\nAxonotmesis causes denervation of muscle fibers, leading to fibrillations and positive sharp waves on EMG due to spontaneous activity in affected fibers.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -30859,6 +30859,51 @@
       "Revision notes",
       "Questions",
       "Basic Science"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Anatomy/basics.html#resting-and-action-potentials",
+    "href": "Revision notes/Basic science/Anatomy/basics.html#resting-and-action-potentials",
+    "title": "Basic Biology",
+    "section": "Resting and Action Potentials",
+    "text": "Resting and Action Potentials\n\nResting Membrane Potential: ~ -70 mV\n\nMaintained by ionic gradients and active transport.\n\n\n\nAction Potential Sequence\n\nDepolarization: Sodium channels open → Na⁺ influx.\n\nThreshold: Around -55 mV.\n\nRepolarization: Potassium channels open → K⁺ efflux.\n\nAfter-hyperpolarization: Membrane becomes more negative before returning to baseline.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Anatomy",
+      "Basic Biology"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies-ncs",
+    "href": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies-ncs",
+    "title": "Basic Biology",
+    "section": "Nerve Conduction Studies (NCS)",
+    "text": "Nerve Conduction Studies (NCS)\nNCS evaluate peripheral nerve function by measuring:\n\nSensory Nerve Action Potential (SNAP)\nCompound Motor Action Potential (CMAP)\n\n\n\n\n\n\n\n\n\nParameter\nNormal Value\nInterpretation\n\n\n\n\nVelocity (Upper limb)\n&gt; 45 m/s\n↓ velocity → Demyelination\n\n\nVelocity (Lower limb)\n&gt; 35 m/s\n↑ latency → Demyelination\n\n\nLatency (Wrist)\n&lt; 3.5 ms\n↓ amplitude → Axonal loss",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Anatomy",
+      "Basic Biology"
+    ]
+  },
+  {
+    "objectID": "Revision notes/Basic science/Anatomy/basics.html#electromyography-emg",
+    "href": "Revision notes/Basic science/Anatomy/basics.html#electromyography-emg",
+    "title": "Basic Biology",
+    "section": "Electromyography (EMG)",
+    "text": "Electromyography (EMG)\nUsed to study electrical activity of skeletal muscle, typically 3 weeks post-injury.\n\nKey Findings\n\nPositive sharp waves\nFibrillations\nFasciculations\nMyokymic discharges\n\nFibrillations indicate axonotmesis or neurotmesis.\nAbsence of fibrillations suggests neuropraxia.",
+    "crumbs": [
+      "Home",
+      "Orthopaedics",
+      "Revision notes",
+      "Basic science",
+      "Anatomy",
+      "Basic Biology"
     ]
   }
 ]

@@ -1,0 +1,23 @@
+Question
+====
+Which of the following best describes neuropraxia?
+
+Answerlist
+----
+* Conduction block without axonal loss
+* Axonal disruption with Wallerian degeneration
+* Complete nerve transection
+* Endoneurial rupture
+* Myelin loss with axonotmesis
+
+Solution
+====
+Neuropraxia involves a temporary conduction block due to myelin damage, but the axon remains intact, allowing full recovery within weeks.
+
+Meta-information
+====
+extype: schoice
+exsolution:10000
+exname: Neuropraxia_Definition
+
+
