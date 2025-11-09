@@ -178,6 +178,8 @@ exm <- list("exams/ex1.Rmd", "exams/ex2.Rmd", "exams/ex3.Rmd", "exams/ex4.Rmd", 
 exams2forms(exm)
 ```
 
+## Comments
+
 ```{=html}
 <script src="https://giscus.app/client.js"
         data-repo="drkmenon/comments"
