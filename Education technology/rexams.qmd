@@ -11,10 +11,10 @@ If R is the ultimate software for all literary activities one can imagine (excep
 
 **r-exams** can be used for online assessment in four major contexts:
 
-\- Offline written examinations with automatic scanning and evaluation\
-- Stand-alone examinations on a particular LMS/ARS platform\
-- Inline quizzes on a webpage\
-- Online distribution as .pdf/.html/.docx/.odf files
+-   Offline written examinations with automatic scanning and evaluation\
+-   Stand-alone examinations on a particular LMS/ARS platform\
+-   Inline quizzes on a webpage\
+-   Online distribution as .pdf/.html/.docx/.odf files
 
 The first two allow automatic evaluation.
 
