@@ -170,15 +170,13 @@ See this [google sheet with sample blueprint](https://docs.google.com/spreadshee
 library(exams)
 library(exams2forms)
 
-exm <- list("exams/ex1.Rmd", "exams/ex2.Rmd", "exams/ex3.Rmd", "exams/ex4.Rmd", "exams/ex5.Rmd")
+exm <- list("_exams/ex1.Rmd", "_exams/ex2.Rmd", "_exams/ex3.Rmd", "_exams/ex4.Rmd", "_exams/ex5.Rmd")
 
 ```
 
 ```{r echo = FALSE, message = FALSE, results="asis"}
 exams2forms(exm)
 ```
-
-## Comments
 
 ```{=html}
 <script src="https://giscus.app/client.js"
