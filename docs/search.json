@@ -9444,21 +9444,6 @@
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Anatomy/basics.html",
-    "href": "Revision notes/Basic science/Anatomy/basics.html",
-    "title": "Basic Biology",
-    "section": "",
-    "text": "Skeletal muscle can be classified structurally as either pennate or non-pennate.\nPennate muscles may be unipennate, bipennate, or multipennate, depending on the orientation of muscle fibers relative to the tendon.\nThe internal structure of skeletal muscle reveals important landmarks such as the Z line, M line, H zone, A band, and I band. These features are crucial to understanding the contractile mechanics of muscle fibers.\nUnder electron microscopy, the alternating I and A bands become prominent. The thick filaments are composed of myosin, while the thin filaments are made of actin. Myosin and actin are essential for the sliding filament mechanism of muscle contraction.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Anatomy",
-      "Basic Biology"
-    ]
-  },
-  {
     "objectID": "Revision notes/Basic science/Anatomy/basics.html#skeletal-muscle",
     "href": "Revision notes/Basic science/Anatomy/basics.html#skeletal-muscle",
     "title": "Basic Biology",
@@ -9549,11 +9534,11 @@
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Anatomy/basics.html#resting-membrane-potential-and-action-potential",
-    "href": "Revision notes/Basic science/Anatomy/basics.html#resting-membrane-potential-and-action-potential",
+    "objectID": "Revision notes/Basic science/Anatomy/basics.html#resting-and-action-potentials",
+    "href": "Revision notes/Basic science/Anatomy/basics.html#resting-and-action-potentials",
     "title": "Basic Biology",
-    "section": "Resting Membrane Potential and Action Potential",
-    "text": "Resting Membrane Potential and Action Potential\nThe resting membrane potential of a neuron is approximately -70 mV. This electrical difference is maintained by ionic gradients and active transport mechanisms across the neuronal membrane.\nAn action potential is initiated by a depolarization event that surpasses the threshold potential, typically around -55 mV. Sodium channels open, allowing Na⁺ influx, leading to further depolarization. This is followed by repolarization as potassium channels open and K⁺ ions exit the cell. After-hyperpolarization occurs when the membrane potential briefly becomes more negative than the resting level due to continued K⁺ efflux before returning to baseline.",
+    "section": "Resting and Action Potentials",
+    "text": "Resting and Action Potentials\n\nResting Membrane Potential: ~ -70 mV\n\nMaintained by ionic gradients and active transport.\n\n\n\nAction Potential Sequence\n\nDepolarization: Sodium channels open → Na⁺ influx.\n\nThreshold: Around -55 mV.\n\nRepolarization: Potassium channels open → K⁺ efflux.\n\nAfter-hyperpolarization: Membrane becomes more negative before returning to baseline.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9594,11 +9579,11 @@
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies",
-    "href": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies",
+    "objectID": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies-ncs",
+    "href": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies-ncs",
     "title": "Basic Biology",
-    "section": "Nerve Conduction Studies",
-    "text": "Nerve Conduction Studies\nNerve conduction studies (NCS) assess the electrical function of peripheral nerves. Sensory nerve action potentials (SNAP) and compound motor action potentials (CMAP) are measured to evaluate amplitude, latency, and conduction velocity.\nNormal values include velocities greater than 45 m/s in upper limbs and 35 m/s in lower limbs. Latency should be below 3.5 ms at the wrist. Decreased velocity and increased latency suggest demyelination, while reduced amplitude indicates axonal loss.",
+    "section": "Nerve Conduction Studies (NCS)",
+    "text": "Nerve Conduction Studies (NCS)\nNCS evaluate peripheral nerve function by measuring:\n\nSensory Nerve Action Potential (SNAP)\nCompound Motor Action Potential (CMAP)\n\n\n\n\n\n\n\n\n\nParameter\nNormal Value\nInterpretation\n\n\n\n\nVelocity (Upper limb)\n&gt; 45 m/s\n↓ velocity → Demyelination\n\n\nVelocity (Lower limb)\n&gt; 35 m/s\n↑ latency → Demyelination\n\n\nLatency (Wrist)\n&lt; 3.5 ms\n↓ amplitude → Axonal loss",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -9609,11 +9594,11 @@
     ]
   },
   {
-    "objectID": "Revision notes/Basic science/Anatomy/basics.html#electromyography",
-    "href": "Revision notes/Basic science/Anatomy/basics.html#electromyography",
+    "objectID": "Revision notes/Basic science/Anatomy/basics.html#electromyography-emg",
+    "href": "Revision notes/Basic science/Anatomy/basics.html#electromyography-emg",
     "title": "Basic Biology",
-    "section": "Electromyography",
-    "text": "Electromyography\nElectromyography (EMG) evaluates the electrical activity of skeletal muscle and is useful after three weeks post-injury. It assesses spontaneous activity, endplate potentials, and insertional activity.\nKey spontaneous findings include positive sharp waves, fibrillations, fasciculations, and myokymic discharges. The presence of fibrillations suggests axonotmesis or neurotmesis, while their absence points to neuropraxia.",
+    "section": "Electromyography (EMG)",
+    "text": "Electromyography (EMG)\nUsed to study electrical activity of skeletal muscle, typically 3 weeks post-injury.\n\nKey Findings\n\nPositive sharp waves\nFibrillations\nFasciculations\nMyokymic discharges\n\nFibrillations indicate axonotmesis or neurotmesis.\nAbsence of fibrillations suggests neuropraxia.",
     "crumbs": [
       "Home",
       "Orthopaedics",
@@ -30859,51 +30844,6 @@
       "Revision notes",
       "Questions",
       "Basic Science"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Anatomy/basics.html#resting-and-action-potentials",
-    "href": "Revision notes/Basic science/Anatomy/basics.html#resting-and-action-potentials",
-    "title": "Basic Biology",
-    "section": "Resting and Action Potentials",
-    "text": "Resting and Action Potentials\n\nResting Membrane Potential: ~ -70 mV\n\nMaintained by ionic gradients and active transport.\n\n\n\nAction Potential Sequence\n\nDepolarization: Sodium channels open → Na⁺ influx.\n\nThreshold: Around -55 mV.\n\nRepolarization: Potassium channels open → K⁺ efflux.\n\nAfter-hyperpolarization: Membrane becomes more negative before returning to baseline.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Anatomy",
-      "Basic Biology"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies-ncs",
-    "href": "Revision notes/Basic science/Anatomy/basics.html#nerve-conduction-studies-ncs",
-    "title": "Basic Biology",
-    "section": "Nerve Conduction Studies (NCS)",
-    "text": "Nerve Conduction Studies (NCS)\nNCS evaluate peripheral nerve function by measuring:\n\nSensory Nerve Action Potential (SNAP)\nCompound Motor Action Potential (CMAP)\n\n\n\n\n\n\n\n\n\nParameter\nNormal Value\nInterpretation\n\n\n\n\nVelocity (Upper limb)\n&gt; 45 m/s\n↓ velocity → Demyelination\n\n\nVelocity (Lower limb)\n&gt; 35 m/s\n↑ latency → Demyelination\n\n\nLatency (Wrist)\n&lt; 3.5 ms\n↓ amplitude → Axonal loss",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Anatomy",
-      "Basic Biology"
-    ]
-  },
-  {
-    "objectID": "Revision notes/Basic science/Anatomy/basics.html#electromyography-emg",
-    "href": "Revision notes/Basic science/Anatomy/basics.html#electromyography-emg",
-    "title": "Basic Biology",
-    "section": "Electromyography (EMG)",
-    "text": "Electromyography (EMG)\nUsed to study electrical activity of skeletal muscle, typically 3 weeks post-injury.\n\nKey Findings\n\nPositive sharp waves\nFibrillations\nFasciculations\nMyokymic discharges\n\nFibrillations indicate axonotmesis or neurotmesis.\nAbsence of fibrillations suggests neuropraxia.",
-    "crumbs": [
-      "Home",
-      "Orthopaedics",
-      "Revision notes",
-      "Basic science",
-      "Anatomy",
-      "Basic Biology"
     ]
   }
 ]
