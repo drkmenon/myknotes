@@ -7,7 +7,7 @@ date: October 2, 2025
 order: 1
 ---
 
-Before getting started with money, are we going to discuss about something that is evil? **Is money the root cause of all problems?** By the way, what is money? Why is there so much taboo surrounding money matters and money itself?
+Are we going to discuss about something that is evil? **Is money the root cause of all problems?** By the way, what is money? Why is there so much taboo surrounding money matters and money itself?
 
 Technically money is something that stores value and acts as medium of exchange. For all practical purposes money is just a promise that is trusted by everyone or aleast a sizable group of people. Comodities like gold, fiat currencies like Indian Rupees, digital assets in some countries all can serve the purpose of money.
 
