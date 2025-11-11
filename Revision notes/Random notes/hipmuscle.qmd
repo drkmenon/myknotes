@@ -1,0 +1,28 @@
+---
+title: "Muscles of hip"
+format: html
+---
+
+| Muscle | Origin | Insertion | Nerve Supply |
+|-----------------|-----------------|-----------------|---------------------|
+| **Gluteus Maximus** | Ilium, sacrum, coccyx | Iliotibial band (ITB) & gluteal tuberosity of femur | **Inferior gluteal nerve** (L5, S1, S2) |
+| **Gluteus Medius** | Ilium | Greater trochanter | **Superior gluteal nerve** (L4, L5, S1) |
+| **Gluteus Minimus** | Ilium | Greater trochanter | **Superior gluteal nerve** (L4, L5, S1) |
+| **Piriformis** | Sacrum | Greater trochanter | **Nerve to piriformis** (S1, S2) |
+| **Superior Gemellus** | Ischium | Greater trochanter | **Nerve to obturator internus** (L5, S1, S2) |
+| **Obturator Internus** | Obturator membrane & foramen | Greater trochanter | **Nerve to obturator internus** (L5, S1, S2) |
+| **Inferior Gemellus** | Ischium | Greater trochanter | **Nerve to quadratus femoris** (L4, L5, S1) |
+| **Quadratus Femoris** | Ischium | Intertrochanteric crest of femur | **Nerve to quadratus femoris** (L4, L5, S1) |
+| **Obturator Externus** | Outer surface of obturator membrane | Trochanteric fossa | **Obturator nerve** (L3, L4) |
+| **Pectineus** | Pecten pubis | Pectineal line of femur | **Femoral nerve** (L2, L3) *(occasional obturator branch)* |
+| **Psoas Major** | T12–L5 vertebral bodies & transverse processes | Lesser trochanter | **Ventral rami of L1–L3** |
+| **Iliacus** | Iliac fossa | Lesser trochanter | **Femoral nerve** (L2, L3) |
+
+------------------------------------------------------------------------
+
+**Quick Summary by Function**
+
+-   **Extensor of hip:** Gluteus maximus\
+-   **Abductors of hip:** Gluteus medius, minimus\
+-   **Lateral rotators:** Piriformis, gemelli, obturators, quadratus femoris\
+-   **Flexors of hip:** Iliopsoas (iliacus + psoas), pectineus

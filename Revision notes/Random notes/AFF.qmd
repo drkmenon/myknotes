@@ -1,0 +1,123 @@
+---
+title: "Atypical femoral fracture"
+format: html
+---
+
+## **Definition**
+
+Atypical femoral fractures are **rare stress fractures** that occur in the **subtrochanteric or diaphyseal region** of the femur, most often on the **lateral cortex**.
+
+They are associated with **minimal or no trauma** and often linked to **long-term bisphosphonate use** or other bone metabolism disorders.
+
+**Source:** American Society for Bone and Mineral Research (ASBMR) Criteria
+
+## **ASBMR Diagnostic Criteria (Major & Minor)**
+
+To diagnose AFF, **4 out of 5 major features** should be present.
+
+### **Major Features**
+
+1.  **Minimal or no trauma** (e.g., fall from standing height or less)\
+2.  **Fracture originates at the lateral cortex**; may be **transverse or short oblique**\
+    ![](images/clipboard-3204618048.png){width="140"}
+3.  **Complete fracture** involves both cortices, may have medial spike
+    -   **Incomplete fracture** involves only the lateral cortex\
+4.  **Non- or minimally comminuted fracture**\
+5.  **Localized periosteal or endosteal thickening** (“beaking” or “flaring”) of the lateral cortex
+
+### **Minor Features**
+
+(Not required for diagnosis but often associated)
+
+-   Bilateral fractures and symptoms
+-   Delayed healing
+-   Comorbidities or medication use
+
+## **History & Risk Factors**
+
+1.  **Comorbidities**
+    -   Collagen diseases (e.g., Rheumatoid arthritis)
+    -   Chronic obstructive pulmonary disease (COPD)
+2.  **Nutritional Deficiency**
+    -   Low calcium or Vitamin D levels
+3.  **Medications**
+    -   **Bisphosphonates** (long-term use)
+    -   **PPIs**
+    -   **Glucocorticoids**
+
+## **Investigations**
+
+1.  **X-ray:**
+    -   Shows **focal cortical thickening** at the lateral cortex
+    -   **Transverse fracture pattern**
+2.  **MRI / Bone Scan:**
+    -   Detects **stress reaction** or **incomplete fractures**
+3.  **DEXA Scan:**
+    -   Evaluate **bone mineral density**
+4.  **Biochemical Work-up:**
+    -   Serum calcium, phosphate, Vitamin D, PTH, and bone turnover markers
+
+## **Pathophysiology**
+
+1.  **Reduced bone turnover** (due to bisphosphonate suppression of osteoclast activity)
+2.  **Low bone geometry adaptation** (increased tensile stress at lateral cortex)
+3.  **Other contributing factors:**
+    -   Mechanical stress
+    -   Drugs
+    -   Comorbidities
+
+## **Clinical Features**
+
+| Type | Pain | Fracture Type | Progression |
+|------------------|------------------|-------------------|------------------|
+| **Complete** | Pain present | Transverse | Non-comminuted |
+| **Incomplete** | Pain may be present | Lateral cortex only | May progress to complete fracture |
+
+### **Symptoms**
+
+-   Dull aching pain in **thigh or groin**
+-   Often **bilateral**
+-   May precede fracture by weeks to months
+
+## **Management**
+
+### **Non-Operative (Incomplete Fracture without pain)**
+
+-   Discontinue **bisphosphonate therapy**
+-   Start **Calcium and Vitamin D supplementation**
+-   **Teriparatide** (Parathyroid hormone analog) for bone remodeling
+-   Protected weight-bearing or rest
+
+### **Operative Management**
+
+-   **Intramedullary (IM) nailing**: preferred for complete or painful incomplete fractures
+    -   Provides full-length protection of femur
+-   **Complications:**
+    -   Hardware failure
+    -   Delayed or non-union
+-   **Plating:** reserved for cases with very narrow femoral canal or poor bone stock
+
+### Approach
+
+![](images/clipboard-340991020.png){width="363"}
+
+## **Clinical Scenarios**
+
+| Finding | Pain | Management |
+|-------------------------|-------------------|----------------------------|
+| **No fracture (stress reaction)** | Present | Rest, vitamin D, stop bisphosphonate |
+| **Incomplete fracture** | Painful | Prophylactic IM nailing |
+| **Complete fracture** | Painful | IM nail fixation |
+
+**Oh et al. (Japan):**
+
+![](images/clipboard-1349571504.png){width="462"}
+
+------------------------------------------------------------------------
+
+**Summary Points**
+
+-   AFF = Atypical, low-energy, lateral cortical stress fracture
+-   Common in long-term bisphosphonate users
+-   ASBMR: 4 of 5 major criteria required for diagnosis
+-   Management: Stop bisphosphonate, supplement Ca + Vit D, consider IM nail
