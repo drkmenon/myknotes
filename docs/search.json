@@ -16127,7 +16127,7 @@
     "href": "Education technology/blueprint.html#definition",
     "title": "Blueprinting",
     "section": "Definition",
-    "text": "Definition\nBlueprint is a mapcompass and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.\nIn general, the aim of the blueprinting is to reduce the two major threats to validity:\nconstruct under-representation (CU), and\nconstruct irrelevance variance (CIV).\n\n\nConstruct under-representation (CU)\nCU refers to under sampling or biased sampling of the content domain or the course contents. There may be too few items to sample domain adequately.\n\n\nConstruct irrelevance variance (CIV)\nCIV is a systematic error introduced into assessment data by the unrelated variables. This means inclusion of flawed item formats, too easy or too difficult questions or examiner bias. For example, tendency to test favorite, or hot or trivial topics.",
+    "text": "Definition\nBlueprint is a mapcompass and a specification for an assessment program which ensures that all aspects of the curriculum and educational domains are covered by assessment programs over a specified period of time.\nIn general, the aim of the blueprinting is to reduce the two major threats to validity: construct under-representation (CU), and construct irrelevance variance (CIV).\n\n\nConstruct under-representation (CU)\nCU refers to under sampling or biased sampling of the content domain or the course contents. There may be too few items to sample domain adequately.\n\n\nConstruct irrelevance variance (CIV)\nCIV is a systematic error introduced into assessment data by the unrelated variables. This means inclusion of flawed item formats, too easy or too difficult questions or examiner bias. For example, tendency to test favorite, or hot or trivial topics.",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -16153,7 +16153,72 @@
     "href": "Education technology/blueprint.html#how-to-blueprint-an-assessment",
     "title": "Blueprinting",
     "section": "How to blueprint an assessment?",
-    "text": "How to blueprint an assessment?\nBelow is a sample blueprint of 6 competencies of MBBS curriculum. First column is the list of topics with the competency number. That is followed by:\n\n\nImportance and Frequency\nThey are the most crucial variable in the blueprint. We define them subjectively on a predefined scale (say, of 10). It could be compared to VAS for pain. Ideally all faculty in the department should sit together and decide on the values to be entered.\nImportance and Frequency in each raw is multiplied to get IF.\ne.g.: For the first topic, Importance is 4 and frequency is 2. So the I F is 8. For the entire subject, we get the total I F by adding all the values together in that column. Here it is 190.\n\n\nMarks Factor\nThe whole exercise is to get the marks factor for each topic. \\(I F / Total I F\\) is the simple formula to get marks factor. In our e.g., for the first topic,\nMarks factor is \\(8/190=0.0421\\).\nWe round that figure to 2 decimal places, i.e., 0.04.\n\n\nDeciding the marks for the question\nAssume that we are going to conduct an exam for 100 marks. \\(Marks Factor X 100\\) gives the marks we are supposed to assign for each topic.\nIn our example, it is \\(0.04 X 100 = 4\\). So the first topic should be assigned 4 marks in the question paper.\n\n\nAssigning difficulty level\n\nNow that we have decided on the marks, each question can be sub divided based on Blooms taxonomy (from remembering to creating). In our example we have used only first 3 levels of learning.\n\n\n\nDo it yourself\nNMC has published the UG curriculum. Go to the NMC website, select the appropriate volume and select top 5 competencies from your subject.\n\n\nOpen a spreadsheet\nSee this google sheet with sample blueprint and create one blueprint for the selected competencies.",
+    "text": "How to blueprint an assessment?\nBelow is a sample blueprint of 6 competencies of MBBS curriculum. First column is the list of topics with the competency number. That is followed by:",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Blueprinting"
+    ]
+  },
+  {
+    "objectID": "Education technology/blueprint.html#importance-and-frequency",
+    "href": "Education technology/blueprint.html#importance-and-frequency",
+    "title": "Blueprinting",
+    "section": "Importance and Frequency",
+    "text": "Importance and Frequency\nThey are the most crucial variable in the blueprint. We define them subjectively on a predefined scale (say, of 10). It could be compared to VAS for pain. Ideally all faculty in the department should sit together and decide on the values to be entered.\nImportance and Frequency in each raw is multiplied to get IF.\ne.g.: For the first topic, Importance is 4 and frequency is 2. So the I F is 8. For the entire subject, we get the total I F by adding all the values together in that column. Here it is 190.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Blueprinting"
+    ]
+  },
+  {
+    "objectID": "Education technology/blueprint.html#marks-factor",
+    "href": "Education technology/blueprint.html#marks-factor",
+    "title": "Blueprinting",
+    "section": "Marks Factor",
+    "text": "Marks Factor\nThe whole exercise is to get the marks factor for each topic. \\(I F / Total I F\\) is the simple formula to get marks factor. In our e.g., for the first topic,\nMarks factor is \\(8/190=0.0421\\).\nWe round that figure to 2 decimal places, i.e., 0.04.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Blueprinting"
+    ]
+  },
+  {
+    "objectID": "Education technology/blueprint.html#deciding-the-marks-for-the-question",
+    "href": "Education technology/blueprint.html#deciding-the-marks-for-the-question",
+    "title": "Blueprinting",
+    "section": "Deciding the marks for the question",
+    "text": "Deciding the marks for the question\nAssume that we are going to conduct an exam for 100 marks. \\(Marks Factor X 100\\) gives the marks we are supposed to assign for each topic.\nIn our example, it is \\(0.04 X 100 = 4\\). So the first topic should be assigned 4 marks in the question paper.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Blueprinting"
+    ]
+  },
+  {
+    "objectID": "Education technology/blueprint.html#assigning-difficulty-level",
+    "href": "Education technology/blueprint.html#assigning-difficulty-level",
+    "title": "Blueprinting",
+    "section": "Assigning difficulty level",
+    "text": "Assigning difficulty level\n\nNow that we have decided on the marks, each question can be sub divided based on Blooms taxonomy (from remembering to creating). In our example we have used only first 3 levels of learning.",
+    "crumbs": [
+      "Home",
+      "Medical Education",
+      "Education technology",
+      "Blueprinting"
+    ]
+  },
+  {
+    "objectID": "Education technology/blueprint.html#do-it-yourself",
+    "href": "Education technology/blueprint.html#do-it-yourself",
+    "title": "Blueprinting",
+    "section": "Do it yourself",
+    "text": "Do it yourself\nNMC has published the UG curriculum. Go to the NMC website, select the appropriate volume and select top 5 competencies from your subject.\n\nOpen a spreadsheet\nSee this google sheet with sample blueprint and create one blueprint for the selected competencies.",
     "crumbs": [
       "Home",
       "Medical Education",
