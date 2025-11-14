@@ -89,6 +89,8 @@ Decide what students can see:
 
 ### Safe exam browser
 
+[Know more](https://www.knotes.co.in/education%20technology/seb)
+
 ------------------------------------------------------------------------
 
 ## Step 4: Add Questions
@@ -126,6 +128,8 @@ Decide what students can see:
     Repeat to add more questions.
 
 -   `Use question bank to reuse or share questions across courses.`
+
+    [How to make a question bank in Moodle?](https://www.knotes.co.in/education%20technology/upload)
 
     ------------------------------------------------------------------------
 
