@@ -16283,7 +16283,7 @@
     "href": "Education technology/createquiz.html#step-3-configure-quiz-settings",
     "title": "Create quiz in moodle",
     "section": "Step 3: Configure Quiz Settings",
-    "text": "Step 3: Configure Quiz Settings\n\nGeneral\n\nName: Give your quiz a clear title (e.g., Unit 1 Test).\nDescription: Explain what the quiz covers or any special instructions (optional).\n\n\n\nTiming\n\nOpen the quiz / Close the quiz: Set start and end date/time.\nTime limit: Set how long students have to finish.\nWhen time expires: Choose what happens (e.g., auto-submit).\n\n\n\nGrade\n\nGrade to pass: Optional threshold (e.g., 50%).\nAttempts allowed: 1 (for exams) or multiple (for practice).\n\n\n\nLayout\n\nNew page: Choose how many questions per page.\nNavigation method: Free (default) or Sequential.\n\n\n\n\nQuestion behavior\n\nShuffle within questions: \n\nRandomize options (good for MCQs).\nHow questions behave: e.g., Deferred feedback, Immediate feedback.\n\n\n\n\n\nReview options\nDecide what students can see:\n\nDuring attempt: Keep unchecked for exams.\nImmediately after: Show marks or feedback if desired.\nLater: Reveal answers after quiz closes.\n\n\n\n\nAppearance\n\nOptionally show user pictures, decimal places, etc.\n\n\n\n\nSafe exam browser\nKnow more",
+    "text": "Step 3: Configure Quiz Settings\n\n\nGeneral\n\nName: Give your quiz a clear title (e.g., Unit 1 Test).\nDescription: Explain what the quiz covers or any special instructions (optional).\n\n\n\nTiming\n\nOpen the quiz / Close the quiz: Set start and end date/time.\nTime limit: Set how long students have to finish.\nWhen time expires: Choose what happens (e.g., auto-submit).\n\n\n\nGrade\n\nGrade to pass: Optional threshold (e.g., 50%).\nAttempts allowed: 1 (for exams) or multiple (for practice).\n\n\n\nLayout\n\nNew page: Choose how many questions per page.\nNavigation method: Free (default) or Sequential.\n\n\n\n\n\nQuestion behavior\n\nShuffle within questions: \n\nRandomize options (good for MCQs).\nHow questions behave: e.g., Deferred feedback, Immediate feedback.\n\n\n\n\n\nReview options\nDecide what students can see:\n\nDuring attempt: Keep unchecked for exams.\nImmediately after: Show marks or feedback if desired.\nLater: Reveal answers after quiz closes.\n\n\n\n\nAppearance\n\nOptionally show user pictures, decimal places, etc.\n\n\n\n\nSafe exam browser\n\nKnow more",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -16296,7 +16296,7 @@
     "href": "Education technology/createquiz.html#step-4-add-questions",
     "title": "Create quiz in moodle",
     "section": "Step 4: Add Questions",
-    "text": "Step 4: Add Questions\n\nClick “Edit quiz.”\nClick “Add → a new question.”\nChoose a question type, such as:\n\nMultiple Choice\nTrue/False\nShort Answer\nMatching\nEssay\nNumerical\n\nFill in:\n\nQuestion name\nQuestion text\nDefault mark\nOptions (answers, feedback, etc.)\n\nClick Save changes.\nRepeat to add more questions.\nUse question bank to reuse or share questions across courses.\nHow to make a question bank in Moodle?",
+    "text": "Step 4: Add Questions\n\n\nClick “Edit quiz.”\nClick “Add → a new question.”\nChoose a question type, such as:\n\nMultiple Choice\nTrue/False\nShort Answer\nMatching\nEssay\nNumerical\n\nFill in:\n\nQuestion name\nQuestion text\nDefault mark\nOptions (answers, feedback, etc.)\n\nClick Save changes.\nRepeat to add more questions.\nUse question bank to reuse or share questions across courses.\nHow to make a question bank in Moodle?\n\n\nIf we already have a question bank uploaded to the course, there are two ways to add questions to a quiz:\n\nAdd from the question bank\nAdd a random question\n\nIn the first option, we have to manually select the questions. If we choose the “Add a random question” option, we only need to enter the number of questions required for the quiz, and Moodle will select them randomly.",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -16309,7 +16309,7 @@
     "href": "Education technology/createquiz.html#step-5-organize-and-save",
     "title": "Create quiz in moodle",
     "section": "Step 5: Organize and Save",
-    "text": "Step 5: Organize and Save\n\nAdjust the marks per question if needed.\nAdd section headings if you want to group questions.\nClick Save when done.",
+    "text": "Step 5: Organize and Save\n\n\nAdjust the marks per question if needed.\nAdjust maximum marks.\nEnable shuffle if needed.\nAdd section headings if you want to group questions.\nClick Save when done.",
     "crumbs": [
       "Home",
       "Medical Education",
@@ -16322,7 +16322,7 @@
     "href": "Education technology/createquiz.html#step-6-preview-and-test",
     "title": "Create quiz in moodle",
     "section": "Step 6: Preview and Test",
-    "text": "Step 6: Preview and Test\n\nClick “Preview” to try your quiz as a student.\nCheck timing, layout, and navigation.",
+    "text": "Step 6: Preview and Test\n\n\nClick “Preview” to try your quiz as a student.\nCheck timing, layout, and navigation.",
     "crumbs": [
       "Home",
       "Medical Education",

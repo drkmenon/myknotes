@@ -31,6 +31,8 @@ filters:
 
 ## Step 3: Configure Quiz Settings
 
+![](images/clipboard-2529097860.png)
+
 ### General
 
 -   Name: Give your quiz a clear title (e.g., Unit 1 Test).
@@ -57,7 +59,9 @@ filters:
 
 -   Navigation method: Free (default) or Sequential.
 
-    ------------------------------------------------------------------------
+![](images/clipboard-3548613682.png)
+
+------------------------------------------------------------------------
 
 ### Question behavior
 
@@ -89,11 +93,15 @@ Decide what students can see:
 
 ### Safe exam browser
 
+![](images/clipboard-3199630211.png)
+
 [Know more](https://www.knotes.co.in/education%20technology/seb)
 
 ------------------------------------------------------------------------
 
 ## Step 4: Add Questions
+
+![](images/clipboard-4195639054.png)
 
 -   Click “Edit quiz.”
 
@@ -131,11 +139,29 @@ Decide what students can see:
 
     [How to make a question bank in Moodle?](https://www.knotes.co.in/education%20technology/upload)
 
-    ------------------------------------------------------------------------
+![](images/clipboard-942897783.png)
+
+If we already have a question bank uploaded to the course, there are two ways to add questions to a quiz:
+
+1.  Add from the question bank
+
+2.  Add a random question
+
+In the first option, we have to manually select the questions. If we choose the “Add a random question” option, we only need to enter the number of questions required for the quiz, and Moodle will select them randomly.
+
+![](images/clipboard-2255833132.png)
+
+------------------------------------------------------------------------
 
 ## Step 5: Organize and Save
 
+![](images/clipboard-1750834335.png)
+
 -   Adjust the marks per question if needed.
+
+-   Adjust maximum marks.
+
+-   Enable shuffle if needed.
 
 -   Add section headings if you want to group questions.
 
@@ -144,6 +170,8 @@ Decide what students can see:
 ------------------------------------------------------------------------
 
 ## Step 6: Preview and Test
+
+![](images/clipboard-1615740799.png)
 
 -   Click “Preview” to try your quiz as a student.
 
