@@ -27,11 +27,11 @@ filters:
 
 -   Click “Add.”
 
-------------------------------------------------------------------------
-
 ## Step 3: Configure Quiz Settings
 
-![](images/clipboard-2529097860.png)
+![](images/clipboard-2529097860.png){width="622"}
+
+## 
 
 ### General
 
@@ -47,6 +47,12 @@ filters:
 
 -   When time expires: Choose what happens (e.g., auto-submit).
 
+## 
+
+![](images/clipboard-3548613682.png)
+
+## 
+
 ### Grade
 
 -   Grade to pass: Optional threshold (e.g., 50%).
@@ -59,9 +65,7 @@ filters:
 
 -   Navigation method: Free (default) or Sequential.
 
-![](images/clipboard-3548613682.png)
-
-------------------------------------------------------------------------
+## 
 
 ### Question behavior
 
@@ -71,7 +75,7 @@ filters:
 
     -   How questions behave: e.g., Deferred feedback, Immediate feedback.
 
-------------------------------------------------------------------------
+## 
 
 ### Review options
 
@@ -83,15 +87,11 @@ Decide what students can see:
 
 -   Later: Reveal answers after quiz closes.
 
-    ------------------------------------------------------------------------
-
 ### Appearance
 
 -   Optionally show user pictures, decimal places, etc.
 
-    ------------------------------------------------------------------------
-
-### Safe exam browser
+## Safe exam browser
 
 ![](images/clipboard-3199630211.png)
 
@@ -107,6 +107,8 @@ Decide what students can see:
 
 -   Click “Add → a new question.”
 
+## 
+
 -   Choose a question type, such as:
 
     -   Multiple Choice
@@ -120,6 +122,8 @@ Decide what students can see:
     -   Essay
 
     -   Numerical
+
+## 
 
 -   Fill in:
 
@@ -135,11 +139,15 @@ Decide what students can see:
 
     Repeat to add more questions.
 
+## 
+
 -   `Use question bank to reuse or share questions across courses.`
 
     [How to make a question bank in Moodle?](https://www.knotes.co.in/education%20technology/upload)
 
 ![](images/clipboard-942897783.png)
+
+## 
 
 If we already have a question bank uploaded to the course, there are two ways to add questions to a quiz:
 
@@ -149,13 +157,15 @@ If we already have a question bank uploaded to the course, there are two ways to
 
 In the first option, we have to manually select the questions. If we choose the “Add a random question” option, we only need to enter the number of questions required for the quiz, and Moodle will select them randomly.
 
-![](images/clipboard-2255833132.png)
+## 
 
-------------------------------------------------------------------------
+![](images/clipboard-2255833132.png)
 
 ## Step 5: Organize and Save
 
 ![](images/clipboard-1750834335.png)
+
+## 
 
 -   Adjust the marks per question if needed.
 
